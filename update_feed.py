@@ -10,6 +10,7 @@ import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from urllib.parse import urlsplit, urlunsplit
@@ -27,8 +28,16 @@ FEEDS = [
     ('Le Monde', 'france', 'Éducation', 'https://www.lemonde.fr/education/rss_full.xml'),
     ('Le Monde', 'france', 'Culture', 'https://www.lemonde.fr/culture/rss_full.xml'),
     ('Le Figaro', 'france', 'France', 'https://www.lefigaro.fr/rss/figaro_actualite-france.xml'),
+    ('Franceinfo', 'eco', 'Économie', 'https://www.franceinfo.fr/economie.rss'),
+    ('Franceinfo', 'markets', 'Marchés', 'https://www.franceinfo.fr/economie/bourse/marches.rss'),
+    ('Franceinfo', 'world', 'International', 'https://www.franceinfo.fr/monde.rss'),
+    ('Franceinfo', 'france', 'Faits divers', 'https://www.franceinfo.fr/faits-divers.rss'),
+    ('Franceinfo', 'france', 'Santé', 'https://www.franceinfo.fr/sante.rss'),
+    ('Franceinfo', 'france', 'Personnalités', 'https://www.franceinfo.fr/culture/people.rss'),
+    ('Franceinfo', 'france', 'Environnement', 'https://www.franceinfo.fr/meteo.rss'),
+    ('Le Monde', 'france', 'Justice', 'https://www.lemonde.fr/police-justice/rss_full.xml'),
 ]
-ALLOWED_HOSTS = {'www.lemonde.fr', 'www.lefigaro.fr', 'lemonde.fr', 'lefigaro.fr', 'www.tradingsat.com', 'tradingsat.com'}
+ALLOWED_HOSTS = {'www.lemonde.fr', 'www.lefigaro.fr', 'lemonde.fr', 'lefigaro.fr', 'www.tradingsat.com', 'tradingsat.com', 'www.franceinfo.fr', 'www.francetvinfo.fr'}
 STOP = set('dans pour avec sans plus une des les aux sur par est sont cette comme apres avant leur entre fait france monde direct nouveau nouvelle'.split())
 
 def plain(value):
@@ -60,6 +69,14 @@ def same_story(a, b):
 def classify(category, topic, title, url):
     path = urlsplit(url).path
     t = norm(title)
+    if category=='eco' and re.search(r'petition|arcom',t) and re.search(r'cnews|chaine|assemblee',t):
+        return 'france','Politique'
+    if category == 'france':
+        if re.search(r'etats.unis|japon|bresil|ukraine|israel|gaza|chine|royaume.uni',t) and not re.search(r'france|francais|paris',t):
+            return 'world', topic
+        for label, pattern in [('Santé',r'sante|hopital|medicament|vaccin|epidemie'),('Éducation',r'lycee|ecole|parcoursup|education|universit'),('Justice',r'proces|tribunal|justice|condamn'),('Faits divers',r'meurtre|incendie|accident|disparition|agression'),('Environnement',r'inondation|tempete|secheresse|meteo|climat')]:
+            if re.search(pattern,t):
+                return category,label
     if category == 'eco':
         if any('/'+p+'/' in path for p in ['politique', 'societe', 'education', 'culture', 'livres', 'cinema']):
             return 'france', 'Culture' if any(x in path for x in ['culture','livres','cinema']) else 'Société'
@@ -68,6 +85,120 @@ def classify(category, topic, title, url):
         if any('/'+p+'/' in path for p in ['pixels', 'm-le-mag', 'les-recettes-du-monde']):
             return None, None
     return category, topic
+
+class ArticleHTML(HTMLParser):
+    """Read JSON-LD and article paragraphs, never navigation or suggestions."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.stack=[];self.scripts=[];self.paragraphs=[];self.script=None;self.paragraph=None
+
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs);marker=(a.get('class','')+' '+a.get('id','')).lower()
+        blocked=tag in ('nav','aside','footer','header','noscript','style') or bool(re.search(r'newsletter|related|recommend|smartfeed|comment|advert|paywall|subscription',marker))
+        active=tag=='article' or a.get('itemprop')=='articleBody' or bool(re.search(r'article[_-]+(?:body|content|paragraph)|t-content__body|c-body|c-text',marker))
+        self.stack.append((tag,blocked,active))
+        if tag=='script' and a.get('type')=='application/ld+json':self.script=[]
+        if tag=='p' and not any(x[1] for x in self.stack) and any(x[2] for x in self.stack):self.paragraph=[]
+        if tag=='br' and self.paragraph is not None:self.paragraph.append(' ')
+        if tag in ('br','hr','img','meta','link','input','source','wbr'):self.stack.pop()
+
+    def handle_data(self,data):
+        if self.script is not None:self.script.append(data)
+        elif self.paragraph is not None and not any(x[0] in ('script','style') for x in self.stack):self.paragraph.append(data)
+
+    def handle_endtag(self,tag):
+        if tag=='script' and self.script is not None:
+            self.scripts.append(''.join(self.script));self.script=None
+        if tag=='p' and self.paragraph is not None:
+            self.paragraphs.append(plain(''.join(self.paragraph)));self.paragraph=None
+        for k in range(len(self.stack)-1,-1,-1):
+            if self.stack[k][0]==tag:
+                del self.stack[k:];break
+
+def objects(value):
+    if isinstance(value,dict):
+        yield value
+        for child in value.values():yield from objects(child)
+    elif isinstance(value,list):
+        for child in value:yield from objects(child)
+
+def article_text(markup,title,url):
+    if re.search(r'isAccessibleForFree["\x27]?\s*[:=]\s*["\x27]?false',markup,re.I):return '', 'restricted'
+    if re.search(r'itemprop=["\x27]isAccessibleForFree["\x27][^>]*content=["\x27]false',markup,re.I):return '', 'restricted'
+    parser=ArticleHTML();parser.feed(markup)
+    main=[]
+    for script in parser.scripts:
+        try:data=json.loads(script)
+        except (ValueError,TypeError):continue
+        for obj in objects(data):
+            if 'Article' not in str(obj.get('@type','')):continue
+            h=tokens(plain(obj.get('headline','')));target=tokens(title)
+            if h and len(h & target)/max(1,len(target)) < .45:continue
+            main.append(obj)
+    if any(o.get('isAccessibleForFree') in (False,'false') or any(p.get('isAccessibleForFree') in (False,'false') for p in objects(o.get('hasPart'))) for o in main):
+        return '', 'restricted'
+    if re.search(r'article r[eé]serv[eé] aux abonn[eé]s|pour lire la suite.{0,60}abonn',markup,re.I):return '', 'restricted'
+    for obj in main:
+        body=obj.get('articleBody')
+        if isinstance(body,str) and len(body)>200:return plain(body),'public'
+    text='\n'.join(p for p in parser.paragraphs if len(p)>45)
+    return (text,'public') if len(text)>200 else ('','unavailable')
+
+def key_sentences(text,title,max_words=95):
+    """Extract complete, complementary sentences. Never manufacture a number."""
+    text=re.sub(r'(?<=[a-zà-ö])\.(?=\d)', '.\n', text)
+    sentences=re.split(r'(?<=[.!?])\s+|(?<=[.!?])(?=[A-ZÀ-Ö])|\n+',text)
+    title_tokens=tokens(title);title_figures=set(re.findall(r'\d+(?:[.,]\d+)?',title))
+    candidates=[]
+    for index,sentence in enumerate(sentences):
+        sentence=plain(sentence).strip()
+        if sentence.count('"')%2:sentence=sentence.strip('"')
+        if sentence.count('«')!=sentence.count('»'):sentence=sentence.strip('«» ')
+        words=sentence.split();t=norm(sentence);v=tokens(sentence)
+        if not 8<=len(words)<=52 or len(v-title_tokens)<3:continue
+        if re.search(r'abonnez|newsletter|cookies|cliquez|transcription|reportage ci.dessus|a lire aussi|lire egalement|retrouvez|notre selection|\bcopyright\b',t):continue
+        if re.match(r'^(il|elle|ils|elles|cela|ceci|ce dernier|cette derniere|celui.ci|celle.ci|c.est|mais aussi)\b',t):continue
+        overlap=len(v & title_tokens)/max(1,len(title_tokens))
+        if len(v-title_tokens)/max(1,len(v))<.25:continue
+        figures=set(re.findall(r'\d+(?:[.,]\d+)?',sentence))
+        number=bool(figures-title_figures and re.search(r'%|euros?|dollars?|millions?|milliards?|points?|personnes?|victimes?|lycees?|ans|mois|jours?|metres?|heures?',t))
+        action=bool(re.search(r'annonce|adopt|prevoit|prevu|decid|augmente|baisse|recul|croiss|contre|coute|cout|atteint|publie|decede|condamn|interdi|devra|permet|concerne|genere|revenus?|perte|benefice',t))
+        if not number and re.search(r'nous deplorons|regrettable|contre.product|paradoxal|a mon avis|selon moi',t):continue
+        rating=overlap*4+number*5+action*2+2/(1+index/4)
+        candidates.append((rating,index,sentence,v,len(words)))
+    selected=[];total=0
+    for rating,index,sentence,v,size in sorted(candidates,reverse=True):
+        if total+size>max_words:continue
+        if any(len(v & old[3])/max(1,len(v | old[3]))>.55 for old in selected):continue
+        selected.append((rating,index,sentence,v,size));total+=size
+        if len(selected)==3:break
+    return [s[2] for s in sorted(selected,key=lambda x:x[1])]
+
+def enrich_item(item,previous,now,blocked):
+    if item.get('provenance') not in ('rss-excerpt','article-extract'):return item
+    old=previous.get(item['id'])
+    if old and old.get('provenance')=='article-extract' and old.get('summaryInput')==item.get('summaryInput'):
+        try:
+            if now-dt.datetime.fromisoformat(old['enrichedAt'])<dt.timedelta(hours=12):
+                return dict(item,bullets=old['bullets'],provenance='article-extract',enrichedAt=old['enrichedAt'],detailLevel='article',context=old.get('context'),sources=[dict(item['sources'][0],access='public'),*item['sources'][1:]])
+        except (ValueError,KeyError):pass
+    url=item['sources'][0]['url'];host=urlsplit(url).hostname
+    if host in blocked:return item
+    try:
+        req=urllib.request.Request(url,headers={'User-Agent':'LeBrief/1.2 public news reader'})
+        with urllib.request.urlopen(req,timeout=8) as response:
+            if urlsplit(response.url).hostname not in ALLOWED_HOSTS:return item
+            raw=response.read(2_500_001)
+        if len(raw)>2_500_000:return item
+        text,access=article_text(raw.decode('utf-8','replace'),item['title'],url)
+        points=key_sentences(text,item['title']) if text else []
+        if len(points)>=2:
+            period=re.search(r'résultats (?:du|de son) ((?:premier|deuxième|troisième|quatrième|[1-4]e?r?) trimestre)',text,re.I)
+            context='Résultats du '+period.group(1) if period else None
+            return dict(item,bullets=points,provenance='article-extract',enrichedAt=now.isoformat(),detailLevel='article',context=context,sources=[dict(item['sources'][0],access='public'),*item['sources'][1:]])
+    except Exception as exc:
+        if getattr(exc,'code',None) in (401,403,429):blocked.add(host)
+    return dict(item,detailLevel='preview')
 
 def score(title, description, category, published, now):
     t = norm(title + ' ' + description)
@@ -118,7 +249,7 @@ def fetch_source(spec, now):
         if not link or not title or pub > now + dt.timedelta(minutes=10) or now-pub > dt.timedelta(days=7):
             continue
         # Advice, opinion, quizzes, live video and repeat explainers are not breaking facts.
-        if re.search(r'^(en direct|direct|replay|podcast|quiz)|que faire de l.action|faut.il acheter|notre selection|nos conseils|horoscope|mots croises|tribune|le point de vue|il y a \d+ ans|[«\"]|comment |pourquoi ', norm(title)):
+        if re.search(r'^(en direct|direct|replay|podcast|quiz)|que faire de l.action|faut.il acheter|notre selection|nos conseils|horoscope|mots croises|tribune|le point de vue|il y a \d+ ans|comment |pourquoi ', norm(title)) or '/replay-radio/' in link:
             continue
         cat, top = classify(category, topic, title, link)
         if not cat:
@@ -127,8 +258,6 @@ def fetch_source(spec, now):
         if re.search(r'bitcoin|crypto|ethereum', norm(title)) and not re.search(r'interdi|regula|faillit|pirat|fraude|loi|etf', norm(title+' '+description)):
             continue
         points = excerpt(description, title)
-        if not points:
-            continue
         importance = score(title, description, cat, pub, now)
         if cat in ('eco','markets') and importance < 50:
             continue
@@ -136,7 +265,7 @@ def fetch_source(spec, now):
             category=cat,topic=top,title=title,bullets=points,publishedAt=pub.isoformat(),
             updatedAt=pub.isoformat(),importance=importance,
             sources=[dict(publisher=publisher,url=link,access='extrait')],verifiedAt=now.date().isoformat(),
-            provenance='rss-excerpt',note='Titre et court extrait du flux RSS public de '+publisher+'. Classement automatique par règles ; aucun résumé généré par IA.'))
+            provenance='rss-excerpt',summaryInput=hashlib.sha256((title+description+'|extract-v2').encode()).hexdigest(),detailLevel='preview'))
     return out
 
 def content_signature(item):
@@ -158,7 +287,7 @@ def collect(previous, now):
         raise RuntimeError('Collecte insuffisante : le dernier lot est conservé.')
     prior = {i['id']:i for i in previous.get('items',[])}
     # Keep manually reviewed items only while recent, and preserve reviews for the same URL.
-    reviewed = [i for i in prior.values() if i.get('provenance') != 'rss-excerpt' and now-dt.datetime.fromisoformat(i['publishedAt'].replace('Z','+00:00')).replace(tzinfo=UTC) <= dt.timedelta(days=7)]
+    reviewed = [i for i in prior.values() if i['category'] != 'deals' and i.get('provenance') not in ('rss-excerpt','article-extract') and now-dt.datetime.fromisoformat(i['publishedAt'].replace('Z','+00:00')).replace(tzinfo=UTC) <= dt.timedelta(days=7)]
     for i in reviewed:
         i = dict(i)
         i['importance'] = min(i['importance'], score(i['title'],' '.join(i['bullets']),i['category'],dt.datetime.fromisoformat(i['publishedAt'].replace('Z','+00:00')).replace(tzinfo=UTC),now))
@@ -183,17 +312,26 @@ def collect(previous, now):
         latest = max(cac,key=lambda i:i['publishedAt'])
         grouped = [i for i in grouped if i not in cac or i is latest]
     selected = []
-    for category, limit in [('eco',12),('markets',12),('world',12),('france',15),('deals',8)]:
+    for category, limit in [('eco',12),('markets',12),('world',12),('france',16)]:
         candidates = [i for i in grouped if i['category']==category]
         topics, chosen = {}, []
+        if category=='france':
+            for topic in ['Politique','Société','Éducation','Santé','Justice','Faits divers','Culture','Environnement','Personnalités']:
+                candidate=next((i for i in candidates if i['topic']==topic and i['importance']>=43),None)
+                if candidate:chosen.append(candidate);topics[topic]=1
         for item in candidates:
-            if topics.get(item['topic'],0) < (4 if category=='france' else limit):
+            if item in chosen:continue
+            if topics.get(item['topic'],0) < (3 if category=='france' else limit):
                 chosen.append(item);topics[item['topic']]=topics.get(item['topic'],0)+1
             if len(chosen)==limit:
                 break
         if len(chosen)<min(8,limit):
             chosen.extend(i for i in candidates if i not in chosen and len(chosen)<min(8,limit))
         selected.extend(chosen)
+    blocked=set()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+        selected=list(pool.map(lambda i:enrich_item(i,prior,now,blocked),selected))
+    selected=[i for i in selected if i['bullets']]
     if any(not any(i['category']==cat for i in selected) for cat in ['eco','markets','world','france']):
         raise RuntimeError('Une rubrique principale est vide : dernier lot conservé.')
     for item in selected:
@@ -203,7 +341,7 @@ def collect(previous, now):
     return dict(schemaVersion=1,edition=now.astimezone(ZoneInfo('Europe/Paris')).date().isoformat(),
         preparedAt=now.isoformat(),generationMode='rss-rules',automaticAI=False,
         automationStatus='hourly-rss',items=selected,feedHealth=sorted(statuses,key=lambda s:s['url']),
-        editorialPolicy='Titres et extraits RSS publics ; tri déterministe ; aucun appel IA ; pas de contournement des abonnements.')
+        editorialPolicy='Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements.')
 
 def main():
     p=argparse.ArgumentParser();p.add_argument('--output',default='site/data/news.json');args=p.parse_args()
@@ -213,7 +351,7 @@ def main():
     temporary=path.with_suffix('.tmp')
     temporary.write_text(json.dumps(feed,ensure_ascii=False,indent=2)+'\n')
     temporary.replace(path)
-    print(json.dumps({'items':len(feed['items']),'successfulFeeds':sum(s['ok'] for s in feed['feedHealth']),'categories':{c:sum(i['category']==c for i in feed['items']) for c in ['eco','markets','world','france','deals']}}))
+    print(json.dumps({'items':len(feed['items']),'successfulFeeds':sum(s['ok'] for s in feed['feedHealth']),'articleDetails':sum(i.get('provenance')=='article-extract' for i in feed['items']),'categories':{c:sum(i['category']==c for i in feed['items']) for c in ['eco','markets','world','france']}}))
 
 if __name__=='__main__':
     main()
