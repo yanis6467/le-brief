@@ -174,6 +174,14 @@ def collect(previous, now):
                     duplicate['sources'].append(source)
             continue
         grouped.append(item)
+    # A market price recap becomes stale quickly. Keep the latest CAC session
+    # instead of filling the feed with its opening, intraday and closing moves.
+    grouped = [i for i in grouped if i['category'] != 'markets' or
+        now-dt.datetime.fromisoformat(i['publishedAt'].replace('Z','+00:00')).replace(tzinfo=UTC) <= dt.timedelta(hours=72)]
+    cac = [i for i in grouped if i['category']=='markets' and re.match(r'^cac 40\s*:',norm(i['title']))]
+    if cac:
+        latest = max(cac,key=lambda i:i['publishedAt'])
+        grouped = [i for i in grouped if i not in cac or i is latest]
     selected = []
     for category, limit in [('eco',12),('markets',12),('world',12),('france',15),('deals',8)]:
         candidates = [i for i in grouped if i['category']==category]
