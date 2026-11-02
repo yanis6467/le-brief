@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "automaticAIEnabled": false,
+  "status": "rss-no-ai",
+  "providerDailyLimitTokens": null,
+  "providerQuotaVerified": false,
+  "maximumShare": 0.25,
+  "dailyResetTimezone": "Europe/Paris",
+  "unknownQuotaAction": "deny",
+  "paidAPIFallback": false,
+  "automaticCreditPurchase": false,
+  "proposedEditorialCadenceMinutes": 60,
+  "clientFileRefreshMinutes": 5,
+  "note": "La consultation ne fait aucun appel IA. Un quota estimé ne prouve pas un pourcentage de consommation du forfait. Le prix de l’abonnement ne permet pas de déduire une limite quotidienne.",
+  "automaticRSS": true,
+  "serverRefreshMinutes": 60
+}

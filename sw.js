@@ -1,0 +1,6 @@
+'use strict';
+const CACHE='lebrief-v1-20261102-2';
+const FILES=['./','index.html','styles.css','app.js','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','apple-touch-icon.png','news.json'];
+self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
+self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(names=>Promise.all(names.filter(n=>n.startsWith('lebrief-')&&n!==CACHE).map(n=>caches.delete(n)))).then(()=>self.clients.claim()));});
+self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==self.location.origin)return;if(u.pathname.endsWith('/news.json')){e.respondWith(fetch(e.request).then(res=>{if(res.ok){const copy=res.clone();e.waitUntil(caches.open(CACHE).then(c=>c.put(e.request,copy)));}return res;}).catch(()=>caches.match(e.request).then(c=>c||new Response('Informations indisponibles',{status:503}))));return;}e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request).catch(()=>e.request.mode==='navigate'?caches.match(new URL('index.html',self.registration.scope).href):new Response('Hors connexion',{status:503}))));});

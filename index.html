@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#123f3b"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="description" content="Les actualités essentielles, classées par importance et expliquées en quelques points sourcés."><title>Le Brief · L’essentiel, simplement</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#feed">Aller aux informations</a>
+<div class="shell">
+<aside class="desktop-rail" aria-label="Le Brief"><a href="./" class="wordmark">le brief<span>.</span></a><p class="rail-intro">Moins de bruit.<br>Plus de compréhension.</p><div id="desktop-nav"></div><div class="rail-bottom"><span class="mini-label">UNE AUTRE FAÇON DE S’INFORMER</span><p>Les faits d’abord.<br>Les sources, toujours.</p><button class="text-button" data-open="about">À propos du Brief <span aria-hidden="true">↗</span></button></div></aside>
+<div class="main-column">
+<header class="masthead"><a href="./" class="wordmark mobile-brand">le brief<span>.</span></a><span class="edition-label" id="edition-label">L’ESSENTIEL, SIMPLEMENT</span><div class="header-actions"><button class="icon-button" id="search-button" aria-label="Rechercher une information"></button><button class="icon-button" id="settings-button" aria-label="Réglages et état des mises à jour"></button></div></header>
+<main id="main"><div id="pull-indicator" aria-live="polite"><span>↓</span> Tirer pour actualiser</div><section class="section-heading"><div class="eyebrow" id="eyebrow">DÉCRYPTAGE QUOTIDIEN</div><div class="heading-row"><h1 id="category-title">Économie</h1><span class="category-sign" aria-hidden="true">↗</span></div><p id="category-description">Les décisions et les chiffres qui font bouger le monde.</p></section>
+<div class="edition-status"><span class="status-dot" aria-hidden="true"></span><button class="status-link" data-open="status" id="feed-status">Chargement des fiches…</button><button class="refresh-button" id="refresh-button" aria-label="Actualiser le fil"></button></div>
+<div class="filter-row"><div class="filters" role="group" aria-label="Filtrer les informations"><button data-filter="all" class="filter active" aria-pressed="true">Tout <span id="all-count"></span></button><button data-filter="unread" class="filter" aria-pressed="false">Non lues <span id="unread-count"></span></button><button data-filter="saved" class="filter" aria-pressed="false">Enregistrées</button></div><span class="sort-label">PAR IMPORTANCE</span></div>
+<div class="search-area" id="search-area" hidden><label for="search-input">Rechercher dans les fiches</label><input id="search-input" type="search" placeholder="Un sujet, une entreprise, un pays…" autocomplete="off"><button class="text-button" id="close-search">Fermer la recherche</button></div>
+<button class="new-batch" id="new-batch" hidden></button><div id="feed" aria-live="polite" aria-busy="true"></div>
+<div class="feed-end" id="feed-end" hidden><span class="end-mark" aria-hidden="true">✓</span><h2>Tu es à jour.</h2><p>Tu as parcouru les informations de ce lot.<br>La date de préparation reste indiquée en haut.</p><button class="text-button" id="back-top">Revenir en haut ↑</button></div>
+<div class="edition-note">Une sélection, pas un flux infini.<br>Chaque information renvoie à ses sources.</div></main>
+</div></div>
+<nav id="bottom-nav" class="bottom-nav" aria-label="Rubriques"></nav>
+<dialog id="detail-dialog" class="detail-dialog" aria-labelledby="detail-title"><div class="detail-inner"><div class="detail-top"><button id="detail-close" class="back-button">← <span>Le fil</span></button><div class="detail-actions"><button id="detail-save" class="icon-button" aria-label="Enregistrer cette information"></button><button id="detail-share" class="icon-button" aria-label="Partager cette information"></button></div></div><div id="detail-content"></div></div></dialog>
+<dialog id="settings-dialog" class="settings-dialog" aria-labelledby="settings-title"><div class="settings-inner"><div class="dialog-heading"><h2 id="settings-title">Ton Brief</h2><button id="settings-close" class="icon-button" aria-label="Fermer les réglages"></button></div><div id="settings-content"></div></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body></html>
