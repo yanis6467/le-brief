@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-02",
-  "preparedAt": "2026-11-02T22:39:03.737156+00:00",
+  "preparedAt": "2026-11-02T22:52:59.456067+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -241,6 +241,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0c7e136114eb501ac0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+      "bullets": [
+        "Dans l'Essonne, on trouve 2,13 euros le litre, soit moins 30 centimes en deux jours.",
+        "Résultat : en France, en moyenne, le litre de gazole est passé de 2,38 euros à 2,29 euros, soit neuf centimes de moins.",
+        "Avec 10 millions de barils libérés, le gouvernement prévoit que la baisse des prix du gazole durera trois mois."
+      ],
+      "publishedAt": "2026-11-02T20:00:17+00:00",
+      "updatedAt": "2026-11-02T20:00:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-02",
+      "provenance": "article-extract",
+      "summaryInput": "540f427264aa586e8a1e13ceeca21f6a9c2974d5ec3b9875630b8e91314b0028",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-02T22:52:59.456067+00:00",
+      "context": null
+    },
+    {
       "id": "rss-21a779628f29f86cca",
       "revision": 2,
       "category": "eco",
@@ -295,30 +323,6 @@
       "context": null
     },
     {
-      "id": "rss-0f85e7f4f3e46cc212",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
-      "bullets": [
-        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
-      ],
-      "publishedAt": "2026-11-02T16:00:05+00:00",
-      "updatedAt": "2026-11-02T16:00:05+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-02",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f331e534fbdc08d9d2",
       "revision": 2,
       "category": "markets",
@@ -357,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-02T22:34:37+00:00",
-      "updatedAt": "2026-11-02T22:34:37+00:00",
+      "publishedAt": "2026-11-02T22:50:07+00:00",
+      "updatedAt": "2026-11-02T22:50:07+00:00",
       "importance": 69,
       "sources": [
         {
