@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='lebrief-v2-20261102-1';
+const CACHE='lebrief-v3-20261102-1';
 const FILES=['./','index.html','styles.css','app.js','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','apple-touch-icon.png','news.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(names=>Promise.all(names.filter(n=>n.startsWith('lebrief-')&&n!==CACHE).map(n=>caches.delete(n)))).then(()=>self.clients.claim()).then(()=>self.clients.matchAll({type:'window'})).then(clients=>{for(const client of clients){if(client.url.startsWith(self.registration.scope))client.navigate(client.url).catch(()=>null);}}));});
