@@ -1,0 +1,55 @@
+name: Actualiser et publier Le Brief
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: le-brief-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Actualiser les flux publics sans IA
+        id: rss
+        continue-on-error: true
+        run: python3 update_feed.py --output news.json
+      - name: Valider les données disponibles
+        run: python3 validate.py
+      - name: Conserver le dernier lot réussi
+        if: steps.rss.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualiser les flux RSS publics [skip ci]'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Préparer uniquement les fichiers publics
+        run: |
+          mkdir _public
+          cp index.html app.js styles.css sw.js manifest.webmanifest news.json policy.json icon.svg icon-192.png icon-512.png apple-touch-icon.png _public/
+          touch _public/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _public
+          retention-days: 1
+      - name: Publier
+        id: deployment
+        uses: actions/deploy-pages@v4
