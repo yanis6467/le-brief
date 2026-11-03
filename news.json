@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T17:58:35.701444+00:00",
+  "preparedAt": "2026-11-03T19:06:27.294790+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -30,6 +30,86 @@
       "provenance": "rss-excerpt",
       "summaryInput": "7753b6588a9b9709ef5a4784a303ad0e4d713f0537e4db6fc26f613ec16788d5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a96195c353a60002bd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Faux entretien d'embauche, détournement d'IA… Binance révèle le mode opératoire du piratage record dont elle a été victime",
+      "bullets": [
+        "Binance a publié mardi 3 novembre un récit détaillé des préparatifs de l'attaque qui a permis à des pirates de dérober 6,3 milliards de dollars sur la plateforme d'échange de cryptomonnaies, avec faux entretien d'embauche et détournement de modèles d'intelligence artificielle (IA) internes.",
+        "L'offensive, perpétrée sur environ quatre heures le 29 octobre, a été attribuée par la police fédérale (FBI) à des informaticiens affiliés à la Corée du Nord, qui a démenti.",
+        "LIRE AUSSI - Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ?"
+      ],
+      "publishedAt": "2026-11-03T18:25:06+00:00",
+      "updatedAt": "2026-11-03T18:25:06+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/faux-entretien-d-embauche-detournement-d-ia-binance-revele-le-mode-operatoire-du-piratage-record-dont-elle-a-ete-victime-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "608b074a86ff59d0c577f1eae2775bd681f50899e9484b1074d2f71d5e6dc080",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d4de7d37434d40ae34",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs de plateformes",
+      "bullets": [
+        "Un rapport de mission remis au gouvernement le 2 novembre propose de mieux réguler le travail de plateforme, alors que la France a jusqu’au 2 décembre pour transposer une directive européenne sur le sujet."
+      ],
+      "publishedAt": "2026-11-03T19:00:09+00:00",
+      "updatedAt": "2026-11-03T19:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/03/presomption-de-salariat-revenu-minimum-transparence-des-algorithmes-les-propositions-de-la-mission-sur-les-travailleurs-de-plateformes_6805652_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5c72df58f93c9da707fbc24d688d58ad72ce74bff8011cb5b174a1711c998e6c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-623d9e724de1bef889",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La taxe au gigaoctet",
+      "bullets": [
+        "Le 30 octobre, l'Assemblée nationale a voté un amendement, dans le cadre du projet de loi de finances, pour taxer les fournisseurs de contenus : 5,5 centimes par gigaoctet seront prélevés aux fournisseurs.",
+        "Le plafond du livret A sera relevé en février, dans une fourchette de 25 000 à 30 000 euros, annonce Sébastien Lecornu",
+        "Un Français sur trois a eu du mal à payer des factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre du médiateur de l'énergie."
+      ],
+      "publishedAt": "2026-11-03T18:00:02+00:00",
+      "updatedAt": "2026-11-03T18:00:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/impots/la-taxe-au-gigaoctet_8266103.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "77b542bffdc891f0b49ac6d0fc8a629c446718fda9019799dd3c20bd8b1b880f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
     },
     {
       "id": "rss-cefc4a9ec13ecadcb6",
@@ -111,6 +191,61 @@
       "verifiedAt": "2026-11-02"
     },
     {
+      "id": "rss-8bc9366e007886a515",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La SNCF annonce trois mesures pour améliorer le pouvoir d'achat de ses salariés face à l'inflation, dont une prime de 400 euros",
+      "bullets": [
+        "Une prime de partage de la valeur (PPV) de 400 euros sera ainsi versée fin novembre aux salariés de SNCF SA, SNCF Voyageurs, SNCF Réseau, SNCF Gares et Connexions et SNCF Optim'Services, soit à quelque 140 000 personnes sur les 280 000 salariés du groupe ferroviaire public, a annoncé le groupe.",
+        "Soit \"deux points de pouvoir d'achat que personne n'a compensés\" a-t-il ajouté, en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
+      ],
+      "publishedAt": "2026-11-03T18:50:31+00:00",
+      "updatedAt": "2026-11-03T18:50:31+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-annonce-trois-mesures-pour-ameliorer-le-pouvoir-d-achat-de-ses-salaries-face-a-l-inflation-dont-une-prime-de-400-euros_8266442.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "eaffce04f22d0e21bd03d4d3b661f0aaade43737692d8bd474673d053ca7513c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-eb63cfabbae47c8698",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "SNCF : une prime et une hausse de deux indemnités accordées aux salariés de la compagnie face à l’inflation",
+      "bullets": [
+        "À compter du 1er novembre, les indemnités pour heures de nuit, dimanches et fêtes sont aussi augmentées de 2% pour les quelque 100.000 salariés qui assurent la continuité du service ferroviaire ou travaillent en horaires décalés.",
+        "À la même date, tous les salariés qui utilisent un véhicule personnel pour les besoins du service verront leur allocation kilométrique augmentée de 5%.",
+        "Soit «deux points de pouvoir d'achat que personne n'a compensés» a-t-il ajouté en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
+      ],
+      "publishedAt": "2026-11-03T18:46:51+00:00",
+      "updatedAt": "2026-11-03T18:46:51+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/sncf-une-prime-et-une-hausse-de-deux-indemnites-accordees-aux-salaries-de-la-compagnie-face-a-l-inflation-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "757778ecc2ce50427044c1c1311fb37fab437b7f4a2e6815cea567ff26d53b04",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ec0a537ed3efbe14f6",
       "revision": 1,
       "category": "eco",
@@ -135,6 +270,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-9d7c5a2d12b17f0554",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Transition énergétique : le gouvernement suspend le Fonds chaleur",
+      "bullets": [
+        "Le cabinet du ministère a expliqué auprès de l'AFP cette décision par le «nombre important de projets déposés en 2026» ainsi que par des «contraintes budgétaires» liées à la baisse de la dotation de l'Ademe dans le budget 2027.",
+        "«La parole de l’État doit être tenue» Le fonds chaleur, créé en 2009, soutient le développement de la production renouvelable de chaleur et de froid renouvelable ainsi que le développement des réseaux de chaleur dans les secteurs résidentiels collectif, tertiaire, industriel et agricole."
+      ],
+      "publishedAt": "2026-11-03T17:53:31+00:00",
+      "updatedAt": "2026-11-03T17:53:31+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/sciences/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "71dd564d342e73822e86820d582a884daa22f2fee054bc3eb33f80bebdfe01e0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
+    },
+    {
       "id": "rss-6e5a7af7ad010c3bca",
       "revision": 1,
       "category": "eco",
@@ -157,166 +319,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "067f7f141eadd5d39534837c91feffec359c27803889947b679767843bc8130a",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e94845aa69b86c8d4d",
-      "revision": 3,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
-      "bullets": [
-        "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés."
-      ],
-      "publishedAt": "2026-11-03T16:06:10+00:00",
-      "updatedAt": "2026-11-03T16:06:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "138de044eb188a304cc6edc1be1d5fdf2858c78fa8dc957c1cf82b7eb25b3270",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2e40c08178950f3c0c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Loyer, énergie, cantine… Ces « dépenses contraintes » qui ont doublé en soixante ans",
-      "bullets": [
-        "DÉCRYPTAGE - D’après une note de l’Institut Montaigne, ces frais dits obligatoires pèsent désormais près de 30 % dans le budget des ménages.",
-        "C’était seulement 13 % dans les années 1960."
-      ],
-      "publishedAt": "2026-11-03T15:45:00+00:00",
-      "updatedAt": "2026-11-03T15:45:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/loyer-energie-cantine-ces-depenses-contraintes-qui-ont-double-en-soixante-ans-20261103",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ecae46b91ebec7e7d50a59afee59a872c706e8c262622992e267c3a71bbcd5d4",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-aa7696918ffed11cb9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La baisse des prix des carburants est amorcée dans 6 000 stations-service après le déstockage des réserves stratégiques, selon le gouvernement",
-      "bullets": [
-        "\"Petit à petit, ce sont bien les 10 000 stations qui vont baisser leur prix\", a assuré le ministre de l'Economie Roland Lescure.",
-        "Sur ces 6 000 stations, 4 000 ont baissé leurs tarifs \"de plus de 15 centimes\", a-t-il ajouté.",
-        "Une aide pour les petites stations aux cuves pleinesLe dispositif \"concerne l'ensemble des 10 000 stations-service de France, France métropolitaine, Corse, Outre-Mer."
-      ],
-      "publishedAt": "2026-11-03T12:47:23+00:00",
-      "updatedAt": "2026-11-03T12:47:23+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "496886d107c16fe4e947ccbdcfe58a5f996f5f8167cbb1dfb55d096012f67703",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-776d6614da970376cd",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Une grosse accélération\" des commandes de fioul et carburants constate la Fédération française des combustibles, carburants et chauffage",
-      "bullets": [
-        "La Fédération française des combustibles, carburants et chauffage (FF3C) constate \"une grosse accélération\" des commandes de fioul et de carburants après le déstockage des réserves stratégiques par le gouvernement, affirme mardi 3 novembre sur ICI Bourgogne Emmanuel Ampaud, président du groupe Piretti Energies (implanté en Bourgogne-Franche-Comté) et président de la FF3C.",
-        "Mi-octobre, le Premier ministre Sébastien Lecornu a annoncé une baisse de 12 à 18 centimes du gazole à partir du 1er novembre grâce au déstockage de 10 millions de barils de gazole issus des réserves stratégiques de l’État."
-      ],
-      "publishedAt": "2026-11-03T08:57:01+00:00",
-      "updatedAt": "2026-11-03T08:57:01+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/une-grosse-acceleration-des-commandes-de-fioul-et-carburants-constate-la-federation-francaise-des-combustibles-carburants-et-chauffage_8265458.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "99ab8bbc8b7a22a17d94504eb39785236f59256b6dccd247d42cba2fe4f75830",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-35d3d8a143df27bd0b",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En raison de l'appel national à la grève du 5 novembre, la SNCF prévoit des perturbations, en Ile-de-France la RATP table sur un \"trafic normal\"",
-      "bullets": [
-        "\"Dans le cadre du mouvement social national interprofessionnel, le trafic des trains SNCF Voyageurs sera légèrement perturbé sur les liaisons TGV, et perturbé sur les liaisons Intercités, TER et sur les trains et RER d'Ile-de-France\", a indiqué la SNCF dans un bref communiqué, mardi 3 novembre.",
-        "Les quatre syndicats représentatifs de l'entreprise ferroviaire nationale, CGT, Unsa ferroviaire, Sud Rail et CFDT ont lancé un appel unitaire à une grève de 24 heures le 5 novembre, rejoignant le mot d'ordre national.",
-        "La RATP publiera aussi des prévisions plus détaillées mercredi."
-      ],
-      "publishedAt": "2026-11-03T17:04:29+00:00",
-      "updatedAt": "2026-11-03T17:04:29+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve-du-5-novembre-la-sncf-prevoit-quelques-perturbations-jeudi-la-ratp-table-sur-un-trafic-normal-en-ile-de-france_8266229.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "f3cb8dc36678c887d2a298f4b7614de2e7b8b730d92c3729d71fa0588f1ed523",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:58:35.701444+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-4357fa0eae5f1ae6cb",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les acteurs du tourisme s'alarment du projet de l'État de piocher dans les chèques-vacances",
-      "bullets": [
-        "Les professionnels du tourisme se sont alarmés ce mardi 3 novembre du projet de l'État de ponctionner 125 millions d'euros dans les réserves de l'Agence nationale des chèques-vacances, qui bénéficient à 4,8 millions de personnes, une mesure qui met à mal «le pouvoir d'achat touristique».",
-        "Le budget 2027 présenté par le gouvernement le 1er octobre prévoit de prélever 125 millions d'euros sur les ressources de l'ANCV pour contribuer au redressement des comptes publics.",
-        "Établissement public créé en 1982, l'ANCV a le monopole de l'émission des chèques-vacances utilisés pour les dépenses de transport, hébergement, repas, loisirs."
-      ],
-      "publishedAt": "2026-11-03T16:43:09+00:00",
-      "updatedAt": "2026-11-03T16:43:09+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/les-acteurs-du-tourisme-s-alarment-du-projet-de-l-etat-de-piocher-dans-les-cheques-vacances-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "0e5dce5fefa8d472e48c1d9fea8a5a83ace2a77579acef41406f3063cde1ed97",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
-      "context": null
     },
     {
       "id": "rss-d0cfbd2f0f820795fc",
@@ -385,8 +387,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T17:58:36+00:00",
-      "updatedAt": "2026-11-03T17:58:36+00:00",
+      "publishedAt": "2026-11-03T19:06:28+00:00",
+      "updatedAt": "2026-11-03T19:06:28+00:00",
       "importance": 70,
       "sources": [
         {
@@ -443,7 +445,7 @@
       ],
       "publishedAt": "2026-11-01T06:00:00+00:00",
       "updatedAt": "2026-11-01T06:00:00+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -671,31 +673,6 @@
       "context": null
     },
     {
-      "id": "rss-5ca9ad05c6a931a3e4",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à 54 ans",
-      "bullets": [
-        "Elle avait passé vingt-cinq ans de sa vie en Inde, avant d’en être bannie par le gouvernement du nationaliste hindou Narendra Modi en février 2024.",
-        "Elle a succombé à un cancer le 2 novembre."
-      ],
-      "publishedAt": "2026-11-03T13:12:35+00:00",
-      "updatedAt": "2026-11-03T13:12:35+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/11/03/la-journaliste-vanessa-dougnac-grande-specialiste-de-l-inde-est-morte-a-54-ans_6805587_3382.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4b2922e3167f8af534a630c9e059aca6ca879e3bc55989294949e611a8d8deae",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-663671378fac5734fb",
       "revision": 1,
       "category": "world",
@@ -799,6 +776,30 @@
       "context": null
     },
     {
+      "id": "rss-3d2b637c1a51ac030a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
+      "bullets": [
+        "Un bombardement, le 1ᵉʳ novembre, contre une école faisant office, chaque lundi, de centre de distribution d’aide humanitaire a fait 33 morts et une cinquantaine de disparus, selon le dernier bilan."
+      ],
+      "publishedAt": "2026-11-03T18:00:01+00:00",
+      "updatedAt": "2026-11-03T18:00:01+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-la-russie-intensifie-ses-frappes-contre-des-cibles-civiles_6805643_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "afeeff686e568f3f3b0fae5b693320040e4b9767447046ed5a0d773fef1c2def",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-1aa74aee5f62f9e78c",
       "revision": 1,
       "category": "world",
@@ -824,13 +825,13 @@
     },
     {
       "id": "rss-e161d8437ec38afa0d",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
       "bullets": [
         "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures.",
-        "Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’hémicycle."
+        "Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’Hémicycle."
       ],
       "publishedAt": "2026-11-03T17:34:20+00:00",
       "updatedAt": "2026-11-03T17:34:20+00:00",
@@ -844,7 +845,7 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "d8089e353b8f56a05a48ff0c3b96dec989c9b633563ad2e209b9171fd6706ff1",
+      "summaryInput": "75adbe66d61f6ee4597862f5744dd55affab20610dfcdfc99f9f7ae488fd5317",
       "detailLevel": "preview"
     },
     {
@@ -857,8 +858,8 @@
         "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
         "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
       ],
-      "publishedAt": "2026-11-03T17:30:08+00:00",
-      "updatedAt": "2026-11-03T17:30:08+00:00",
+      "publishedAt": "2026-11-03T17:30:00+00:00",
+      "updatedAt": "2026-11-03T17:30:00+00:00",
       "importance": 77,
       "sources": [
         {
@@ -950,31 +951,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de5c9484f762dfd293",
+      "id": "rss-a2ccf213fd4c2908c6",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Attentat raciste à Trappes : le père de Pengo Bossio Wangi n'a pas été contacté par Emmanuel Macron ou le gouvernement, affirme son avocate",
+      "title": "Manifestations du 17 octobre : sous serment devant les députés, Laurent Nuñez reconnaît un \"manque d'anticipation\" de sa part lors de cette journée marqué par des pillages",
       "bullets": [
-        "Le père de Pengo Bossio Wangi, tué à Trappes (Yvelines) dans un attentat raciste le 23 octobre, \"a attendu qu'il y ait un appel [du gouvernement], qu'on puisse lui présenter des condoléances\", a assuré lundi son avocate sur BFMTV.",
-        "Yassine Bouzrou, avocat d'autres membres de la famille du jeune homme de 26 ans et également sollicité, n'a pas dit si ses clients avaient, eux, été contactés.",
-        "En octobre 2020, quelques jours après l'assassinat de Samuel Paty, Emmanuel Macron avait reçu la famille du professeur d'histoire-géographie à l'Elysée, rappelle 20 Minutes."
+        "Laurent Nuñez ne veut pas renoncer aux grenades ni aux gaz lacrymogènes.",
+        "\"Je ne renoncerai à aucun moyen intermédiaire (grenades, gaz lacrymogène…) pour la bonne et simple raison que les policiers ont besoin de se défendre quand ils sont pris à partie\" lors de manifestations, a affirmé, lundi, le ministre de l'Intérieur.",
+        "Laurent Nuñez répondait ainsi à plusieurs députés lors d'une audition sur le budget 2027, devant la commission des lois de l'Assemblée nationale, saisie pour avis."
       ],
-      "publishedAt": "2026-11-03T15:34:46+00:00",
-      "updatedAt": "2026-11-03T15:34:46+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-03T18:51:55+00:00",
+      "updatedAt": "2026-11-03T18:51:55+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-le-pere-de-pengo-bossio-wangi-n-a-pas-ete-contacte-par-emmanuel-macron-ou-le-gouvernement-affirme-son-avocate_8265641.html",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "0a6017a6ea5a3b0a7a91c084934078f8ad6d32c8725bcaad47f1dec3de69b9a2",
+      "summaryInput": "d846ff99f6c149bd5625d97c70011541778751d5bc91d57ef0e1d9313deb7b76",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T16:02:50.692377+00:00",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
       "context": null
     },
     {
@@ -1013,7 +1014,7 @@
       ],
       "publishedAt": "2026-11-03T06:30:00+00:00",
       "updatedAt": "2026-11-03T06:30:00+00:00",
-      "importance": 47,
+      "importance": 46,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1079,7 +1080,7 @@
       "id": "rss-fa32b22a0cc3495eae",
       "revision": 2,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Violences commises le 17 octobre : Laurent Nuñez, ministre de l’intérieur, est auditionné à l’Assemblée nationale ce mardi",
       "bullets": [
         "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont à de tels événements » mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances.",
@@ -1098,54 +1099,6 @@
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "34e70fa5de41a25f3e2b15ab741e8eddceafe999376e374bea383de1af9beaf2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-366fdace47e009a7ad",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
-      "bullets": [
-        "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne…"
-      ],
-      "publishedAt": "2026-11-02T18:24:25+00:00",
-      "updatedAt": "2026-11-02T18:24:25+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "56dd642bf9efcf523e440c7c0a99581811281c6ee13c71b150d8493b7366e2ae",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8cc88dbca5fbeb3538",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«On est quand même en commission des finances, pas au bar PMU !» : un amendement au projet de budget 2027 supprime les crédits de l’enseignement catholique",
-      "bullets": [
-        "RÉCIT - Financer l’augmentation de 20 % du salaire des enseignants en prenant essentiellement sur les crédits du privé, à hauteur de 8,3 milliards d’euros : cet amendement du député LFI Paul Vannier a été adopté le 29 octobre en commission des finances."
-      ],
-      "publishedAt": "2026-11-02T18:15:00+00:00",
-      "updatedAt": "2026-11-02T18:15:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/on-est-quand-meme-en-commission-des-finances-pas-au-bar-pmu-un-amendement-au-projet-de-budget-2027-supprime-les-credits-de-l-enseignement-catholique-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
       "detailLevel": "preview"
     },
     {
@@ -1171,6 +1124,82 @@
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-366fdace47e009a7ad",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
+      "bullets": [
+        "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne…"
+      ],
+      "publishedAt": "2026-11-02T18:24:25+00:00",
+      "updatedAt": "2026-11-02T18:24:25+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56dd642bf9efcf523e440c7c0a99581811281c6ee13c71b150d8493b7366e2ae",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8cc88dbca5fbeb3538",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "«On est quand même en commission des finances, pas au bar PMU !» : un amendement au projet de budget 2027 supprime les crédits de l’enseignement catholique",
+      "bullets": [
+        "RÉCIT - Financer l’augmentation de 20 % du salaire des enseignants en prenant essentiellement sur les crédits du privé, à hauteur de 8,3 milliards d’euros : cet amendement du député LFI Paul Vannier a été adopté le 29 octobre en commission des finances."
+      ],
+      "publishedAt": "2026-11-02T18:15:00+00:00",
+      "updatedAt": "2026-11-02T18:15:00+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/on-est-quand-meme-en-commission-des-finances-pas-au-bar-pmu-un-amendement-au-projet-de-budget-2027-supprime-les-credits-de-l-enseignement-catholique-20261102",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f2f65edc8475dc5b5c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République » : Zineb Alami, avocate de Bolema Bossio Wangi",
+      "bullets": [
+        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans",
+        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
+        "Un Français sur trois a eu du mal à payer des factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre du médiateur de l'énergie."
+      ],
+      "publishedAt": "2026-11-03T18:40:18+00:00",
+      "updatedAt": "2026-11-03T18:40:18+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-pere-de-pengo-bossio-wangi-n-a-toujours-pas-recu-de-condoleances-du-president-de-la-republique-zineb-alami-avocate-de-bolema-bossio-wangi_8266439.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "a757c146407fc53097d726063892d6277525c7eb046cb84e43f2d567b25049d7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "context": null
     },
     {
       "id": "rss-39d7ef799854a7f409",
@@ -1199,30 +1228,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
       "context": null
-    },
-    {
-      "id": "rss-7610ab4a3330fbe1dc",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Eric Zemmour : l’Arcom saisit la justice après des propos du polémiste d’extrême droite prononcés le lendemain de la mobilisation du 17 octobre",
-      "bullets": [
-        "Le possible candidat de Reconquête ! à la présidentielle 2027 avait évoqué le 18 octobre sur différentes chaînes de télévision « des hordes de barbares maghrébins et africains », et appelé à « la remigration » des pillards."
-      ],
-      "publishedAt": "2026-11-03T15:00:28+00:00",
-      "updatedAt": "2026-11-03T15:00:28+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/03/eric-zemmour-l-arcom-saisit-la-justice-apres-des-propos-du-polemiste-d-extreme-droite-prononces-le-lendemain-de-la-mobilisation-du-17-octobre_6805606_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7f39e5de77049f73669ac9bcabbce5c326c780188252818f3cf2e0dbd647444e",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1236,7 +1241,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1248,7 +1253,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1260,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1284,7 +1289,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1302,13 +1307,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1320,7 +1325,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1332,7 +1337,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 20
     },
     {
       "publisher": "BFM Bourse",
