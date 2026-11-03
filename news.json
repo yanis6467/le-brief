@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T05:05:45.929333+00:00",
+  "preparedAt": "2026-11-03T06:04:24.465678+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -90,34 +90,6 @@
       "context": null
     },
     {
-      "id": "rss-365c695d58a3c62527",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Corée du Sud met sur la table près de 15 milliards d’euros pour l’IA en 2027",
-      "bullets": [
-        "L’année prochaine, le pays prévoit ainsi des investissements records de 21,3 milliards de wons (14,3 milliards d’euros) pour l’intelligence artificielle et les semi-conducteurs, a annoncé lundi le président Lee Jae-myung.",
-        "Le président sud-coréen de centre gauche a ainsi indiqué, lors du même discours, que son gouvernement souhaitait une augmentation de 8,2 % par rapport à cette année, pour atteindre 73, 3 milliards de wons (48,7 milliards d’euros).",
-        "Dans le détail, le gouvernement veut se doter de sous-marins à propulsion nucléaire et d’avions de chasse KF-21."
-      ],
-      "publishedAt": "2026-11-02T17:56:53+00:00",
-      "updatedAt": "2026-11-02T17:56:53+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-coree-du-sud-met-sur-la-table-pres-de-15-milliards-d-euros-pour-l-ia-en-2027-20261102",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "e3834e825b6a5a26e622f533a178c5c72219e5822a4c5101db44294f301706cb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
-    },
-    {
       "id": "rss-09fea934fd6a3bb6e3",
       "revision": 1,
       "category": "eco",
@@ -165,6 +137,34 @@
       "verifiedAt": "2026-11-02"
     },
     {
+      "id": "rss-519fc1245e99066ae0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Cyberattaque contre Binance : la Corée du Nord qualifie les accusations du FBI de «grave provocation politique»",
+      "bullets": [
+        "La Corée du Nord a balayé mardi les accusations du FBI selon lesquelles Pyongyang serait à l'origine du piratage record de 6,3 milliards de dollars contre la plateforme d'échanges de cryptomonnaies Binance, assurant «s’opposer résolument» aux cyberattaques.",
+        "«Nuire à l’image internationale» de Pyongyang La police fédérale américaine (FBI) a accusé le groupe de pirates nord-coréens connu sous le nom de TraderTraitor d’être derrière le pillage de Binance, numéro un des cryptomonnaies en volume d’échanges avec ses 335 millions d’utilisateurs.",
+        "Selon le FBI, c’est cette même entité qui avait dévalisé la plateforme Bybit en 2025."
+      ],
+      "publishedAt": "2026-11-03T02:43:44+00:00",
+      "updatedAt": "2026-11-03T02:43:44+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-la-coree-du-nord-qualifie-les-accusations-du-fbi-de-grave-provocation-politique-20261102",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "07c7af0980503f16eea48113e82774c0d3f6b1d9d0fda0414175ea06712d4d8e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T06:04:24.465678+00:00",
+      "context": null
+    },
+    {
       "id": "rss-6069f64744f8e32f9e",
       "revision": 1,
       "category": "eco",
@@ -200,7 +200,7 @@
       ],
       "publishedAt": "2026-11-02T17:11:39+00:00",
       "updatedAt": "2026-11-02T17:11:39+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -358,8 +358,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T05:02:17+00:00",
-      "updatedAt": "2026-11-03T05:02:17+00:00",
+      "publishedAt": "2026-11-03T05:59:51+00:00",
+      "updatedAt": "2026-11-03T05:59:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -416,7 +416,7 @@
       ],
       "publishedAt": "2026-11-01T06:00:00+00:00",
       "updatedAt": "2026-11-01T06:00:00+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -623,8 +623,8 @@
       "bullets": [
         "A Varsovie, les représentations des « Mères de Kherson », sur les atrocités de l’agression russe, ont eu une forte résonance dans un pays plus divisé que jamais sur le sort des réfugiés de guerre."
       ],
-      "publishedAt": "2026-11-03T04:30:11+00:00",
-      "updatedAt": "2026-11-03T04:30:11+00:00",
+      "publishedAt": "2026-11-03T04:30:03+00:00",
+      "updatedAt": "2026-11-03T04:30:03+00:00",
       "importance": 79,
       "sources": [
         {
@@ -674,7 +674,7 @@
       ],
       "publishedAt": "2026-11-02T17:37:14+00:00",
       "updatedAt": "2026-11-02T17:37:14+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -685,6 +685,86 @@
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "40d8aba0907599cb3172cce23309ee7e06bdd622e64afe526b1ba3830702da40",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-50186d78a3f11c1a49",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "MIDTERMS : c'est quoi ces élections aux Etats-Unis ?",
+      "bullets": [
+        "Ces autres sujets sur lesquels les Américains votent lors des midterms 2026",
+        "Carburants, les prix baissent enfin, mais pas partout",
+        "\"La petite martyre de l'A10\", le procès 40 ans après"
+      ],
+      "publishedAt": "2026-11-03T05:41:16+00:00",
+      "updatedAt": "2026-11-03T05:41:16+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-c-est-quoi-c-est-elections-aux-etats-unis_8263877.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "c05295cd49423178d5b9f527d0a2c7c9c0a9f08038ab4161c32990a56c5c5345",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T06:04:24.465678+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b307754e22ae30d022",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Taxe sur les milliardaires, droit à l'avortement, centres de données... Ces autres sujets sur lesquels les Américains votent lors des midterms 2026",
+      "bullets": [
+        "L'initiative doit permettre d'obtenir 100 milliards de dollars de recettes fiscales, d'après le professeur de droit à l'université de Berkeley Brian Galle, l'une des têtes pensantes du projet.",
+        "L'interdiction ou la garantie du droit à l'avortement au cœur de plusieurs scrutinsL'avortement avait été l'une des thématiques fortes des midterms de 2022, organisées dans la foulée d'une décision historique de la Cour suprême américaine.",
+        "Les droits des personnes transgenres remis en cause dans plusieurs EtatsLes attaques du camp républicain contre les droits des personnes trans s'étaient multipliées lors de l'élection présidentielle de 2024."
+      ],
+      "publishedAt": "2026-11-03T05:02:04+00:00",
+      "updatedAt": "2026-11-03T05:02:04+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/taxe-sur-les-milliardaires-droit-a-l-avortement-centres-de-donnees-ces-autres-sujets-sur-lesquels-les-americains-votent-lors-des-midterms-2026_8264042.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "3755b121daed5d71bcb2ea43b493aaec076372f1b5ef3db17c3dca442b971faf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T06:04:24.465678+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-06c40fc66d20465526",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Nous devons nous préparer à absolument tout » : aux États-Unis, l’inquiétude des démocrates après les menaces de Donald Trump sur les midterms",
+      "bullets": [
+        "RÉCIT - Des militants accusent le président américain de dévoyer le système électoral à son avantage et de vouloir contester le résultat de l’élection en cas de défaite."
+      ],
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "updatedAt": "2026-11-03T05:00:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/nous-devons-nous-preparer-a-absolument-tout-aux-etats-unis-l-inquietude-des-democrates-apres-les-menaces-de-donald-trump-sur-les-midterms-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "05135a9f5e245e9452388621a99ea798046a032c9bbda247c2a7361b75eb05f3",
       "detailLevel": "preview"
     },
     {
@@ -710,85 +790,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "464de2cb4e03353ac69b60788c4f8b13e0cee2cfefe52fec6da311635246a6a8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-50186d78a3f11c1a49",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "MIDTERMS : c'est quoi c'est élections aux États-Unis ?",
-      "bullets": [
-        "Dans la nuit de mardi à mercredi prochain, les Américains vont voter pour l’élection de mi mandat.",
-        "Carburants, les prix baissent enfin, mais pas partout",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
-      ],
-      "publishedAt": "2026-11-02T20:00:01+00:00",
-      "updatedAt": "2026-11-02T20:00:01+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-c-est-quoi-c-est-elections-aux-etats-unis_8263877.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "3a07c6cc06c000ce004812c6c710a78665de16a9441a07c2c274ebaae018e4db",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
-    },
-    {
-      "id": "europe-cyber-froid",
-      "revision": 1,
-      "category": "world",
-      "topic": "Europe · cybersécurité",
-      "title": "Plusieurs supermarchés européens subissent des cyberattaques visant leurs réfrigérateurs et congélateurs.",
-      "bullets": [
-        "Le Monde rapporte des attaques contre les équipements de conservation au froid de plusieurs magasins.",
-        "La fiche ne conclut pas à une origine commune ou à un auteur identifié sans confirmation accessible."
-      ],
-      "publishedAt": "2026-11-02",
-      "updatedAt": "2026-11-02",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-02",
-      "note": "Les informations publiques sont limitées : cette fiche reste volontairement courte."
-    },
-    {
-      "id": "rss-a1929e1a8ac69e59b6",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Élections américaines de mi-mandat : quelles sont les premières tendances de ce scrutin crucial pour Donald Trump ?",
-      "bullets": [
-        "Jusqu'aux derniers instants, Donald Trump jette toutes ses forces dans la bataille et dans la campagne de mi-mandat.",
-        "La première préoccupation des Américains : le coût de la vie.",
-        "Et cela pourrait coûter cher à Donald Trump, lui qui avait promis de ne jamais partir en guerre."
-      ],
-      "publishedAt": "2026-11-02T15:27:40+00:00",
-      "updatedAt": "2026-11-02T15:27:40+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/elections-americaines-de-mi-mandat-quelles-sont-les-premieres-tendances-de-ce-scrutin-crucial-pour-donald-trump_8264303.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "7c68768ae4996fc8ce6997cfc44aa0992ae1cc80b6f6ba47f8347c10830219da",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
     },
     {
       "id": "rss-66ea7a8d5d9c72c190",
@@ -863,31 +864,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d93c096c1edc728687",
+      "id": "rss-7317954c8a19ed8960",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "\"Des fois, j'ai des trous de mémoire\" : au premier jour de leur procès, l'état de santé des parents de la \"martyre de l'A10\" au cœur des débats",
+      "title": "Yuka et Que Choisir Ensemble dénoncent les mentions \"trompeuses\" \"sans conservateur, sans colorant\" de certaines marques",
       "bullets": [
-        "Halima El Bakhti et Ahmed Touloub, respectivement 72 et 74 ans, font face, lundi 2 novembre, à la cour d'assises du Loir-et-Cher, trente-neuf ans après la mort de leur fille Inass, qu'ils ont abandonnée le long de l'autoroute A10 en août 1987.",
-        "La mère de \"la petite martyre\" de 4 ans ne lâche pas son imperméable beige, emmitouflée dans une grosse écharpe.",
-        "Dans le public, cinq femmes oscillent entre tristesse, dégoût et gêne, en écoutant les déclarations des époux lors de leurs gardes à vue, en juin 2018, puis au cours de leurs interrogatoires successifs."
+        "Que Choisir Ensemble et Yuka demandent donc le retrait de ces mentions qui induisent les consommateurs en erreur, qualifiées d’additive washing, en référence au green washing, cette pratique commerciale consistant à mettre en avant des faux arguments écologiques.",
+        "Yuka et Que Choisir Ensemble demandent \"à la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) de conduire une enquête nationale dédiée\".",
+        "\"Nous demandons également que les résultats en soient rendus publics, y compris le nom des marques concernées\", précise l'enquête."
       ],
-      "publishedAt": "2026-11-03T05:01:07+00:00",
-      "updatedAt": "2026-11-03T05:01:07+00:00",
+      "publishedAt": "2026-11-03T05:38:00+00:00",
+      "updatedAt": "2026-11-03T05:38:00+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/des-fois-j-ai-des-trous-de-memoire-au-premier-jour-de-leur-proces-l-etat-de-sante-des-parents-de-la-martyre-de-l-a10-au-c-ur-des-debats_8264537.html",
+          "url": "https://www.franceinfo.fr/sante/yuka-et-que-choisir-ensemble-denoncent-les-mentions-trompeuses-sans-conservateur-sans-colorant-de-certaines-marques_8265215.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "1ce09e2f0cbf047ce1d3c9c5c57b3049cf26f5b4642c88a94621a3c724c36e27",
+      "summaryInput": "d972da4451dcde3a76927ee15de2330f8aac0daa004b2aba2fedc166a13a1ca6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "enrichedAt": "2026-11-03T06:04:24.465678+00:00",
       "context": null
     },
     {
@@ -928,7 +929,7 @@
       ],
       "publishedAt": "2026-11-02T17:31:00+00:00",
       "updatedAt": "2026-11-02T17:31:00+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1199,7 +1200,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1247,7 +1248,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
