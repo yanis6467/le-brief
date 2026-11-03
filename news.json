@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T13:17:43.593071+00:00",
+  "preparedAt": "2026-11-03T15:00:52.712341+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -42,8 +42,8 @@
         "Les fonds qui y sont placés par les épargnants sont rémunérés à 1,7%.",
         "Le principal article du dispositif, l'article 69 relatif à la garantie de l'État, doit être examiné mercredi en commission des finances, selon Maxime Laisney, qui redoute un recours au 49.3 pour faire adopter le budget sans vote."
       ],
-      "publishedAt": "2026-11-03T09:15:08+00:00",
-      "updatedAt": "2026-11-03T09:15:08+00:00",
+      "publishedAt": "2026-11-03T14:53:49+00:00",
+      "updatedAt": "2026-11-03T14:53:49+00:00",
       "importance": 85,
       "sources": [
         {
@@ -88,31 +88,84 @@
       "context": null
     },
     {
-      "id": "rss-ae2a12c03c6f28ff76",
+      "id": "rss-ac0fcf024dec79b947",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Au fond de l'Arctique, bientôt la guerre des câbles sous-marins ?",
+      "title": "Italie, Belgique, Suède, Irlande… Après la France, des milliers de frigos de supermarchés victimes d’une cyberattaque en Europe",
       "bullets": [
-        "\"Il sera considéré comme illégal\" : la ville de Pékin oblige les habitants à se débarrasser de leurs drones avant une interdiction totale mi-novembre",
-        "Carburants, les prix baissent enfin, mais pas partout",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
+        "Trois semaines après un incident similaire en France, des milliers de réfrigérateurs de supermarchés ont été touchés par une cyberattaque, faisant monter leur température, dans plusieurs pays d’Europe lundi 2 novembre.",
+        "LIRE AUSSI - Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens Des frigos à 50 degrés En Suède, les enseignes Ica et Coop ont évoqué des incidents similaires lundi matin.",
+        "La chaîne Coop a confirmé que six de ses quelque 800 magasins avaient été victimes d’une cyberattaque lundi à l’aube."
       ],
-      "publishedAt": "2026-11-03T13:08:28+00:00",
-      "updatedAt": "2026-11-03T13:08:28+00:00",
+      "publishedAt": "2026-11-03T14:20:07+00:00",
+      "updatedAt": "2026-11-03T14:20:07+00:00",
       "importance": 79,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/au-fond-de-l-arctique-bientot-la-guerre-des-cables-sous-marins_8264528.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/apres-la-france-des-milliers-de-frigos-de-supermarches-de-nouveau-pirates-ce-lundi-en-europe-20261102",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "446ab1e208897686909c8823633094de9120fd90bd6db2b5a8ed986d94027ec3",
+      "summaryInput": "f246b724304457cdda9ca4aa0fcf3dd2210d28736d872eca8ad81a63f713b640",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "enrichedAt": "2026-11-03T15:00:52.712341+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-62eb4a921c696c1936",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens",
+      "bullets": [
+        "DÉCRYPTAGE - Comme en France il y a trois semaines, des attaquants ont saboté lundi les systèmes de réfrigération.",
+        "La recrudescence des actes de piratage inquiète les autorités, qui n’ont pas désigné de responsables."
+      ],
+      "publishedAt": "2026-11-02T19:49:50+00:00",
+      "updatedAt": "2026-11-02T19:49:50+00:00",
+      "importance": 78,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1e5d861ecfb76a0d31e456ec85246eb7cfbceb893fcebdabccf3a679ccf302ee",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-69370df27d815d28e4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le plafond du livret A sera relevé en février pour atteindre une fourchette entre 25 000 et 30 000 euros, annonce Sébastien Lecornu",
+      "bullets": [
+        "Le Premier ministre, Sébastien Lecornu, a annoncé un relèvement en février du plafond du livret A, qui pourra aller jusqu'à 30 000 euros, mardi 3 novembre.",
+        "Les livrets A et les LDDS peinent à trouver leur public depuis le début 2025, lorsque le taux de rémunération a commencé à baisser, jusqu'à atteindre un plancher de 1,5% début 2026.",
+        "L'annonce d'une revalorisation à 1,7% au mois de juillet, effective depuis le 1er août, a juste permis un très léger sursaut pendant l'été."
+      ],
+      "publishedAt": "2026-11-03T14:56:22+00:00",
+      "updatedAt": "2026-11-03T14:56:22+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/le-plafond-du-livret-a-sera-releve-en-fevrier-pour-atteindre-au-moins-25-000-euros-annonce-sebastien-lecornu_8265983.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "2ee9a7d56c4a70e36e8fb407db6b888ed038533a7b732133e9d979a75e034cd6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T15:00:52.712341+00:00",
       "context": null
     },
     {
@@ -272,62 +325,6 @@
       "context": null
     },
     {
-      "id": "rss-11409ea039ad51746b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le niveau des stocks de gaz en Europe au plus bas depuis 2013, alerte l’AIE",
-      "bullets": [
-        "L’arrêt effectif des flux de gaz naturel liquéfié (GNL) transitant par le détroit d’Ormuz a entraîné une baisse des chargements en provenance du Qatar et des Émirats arabes unis de plus de 60 milliards de mètres cubes entre mars et octobre de cette année.",
-        "Ce qui «a propulsé les prix asiatiques et européens à leur plus haut niveau depuis la crise d’approvisionnement en gaz de 2022-2023».",
-        "Les experts de l’AIE calculent qu’en 2026 l’offre mondiale de GNL devrait reculer de 3 %, soit près de 20 milliards de mètres cubes."
-      ],
-      "publishedAt": "2026-11-03T06:00:00+00:00",
-      "updatedAt": "2026-11-03T06:00:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/le-niveau-des-stocks-de-gaz-en-europe-au-plus-bas-depuis-2013-alerte-l-aie-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "3376f9739bc28df0dd713be7c3da8d55efd0e06759a7be4cbedf4b4219b331ed",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-aa7696918ffed11cb9",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La baisse des prix des carburants est amorcée dans 6 000 stations-service après le déstockage des réserves stratégiques, selon le gouvernement",
-      "bullets": [
-        "\"Petit à petit, ce sont bien les 10 000 stations qui vont baisser leur prix\", a assuré le ministre de l'Economie Roland Lescure.",
-        "Sur ces 6 000 stations, 4 000 ont baissé leurs tarifs \"de plus de 15 centimes\", a-t-il ajouté.",
-        "Une aide pour les petites stations aux cuves pleinesLe dispositif \"concerne l'ensemble des 10 000 stations-service de France, France métropolitaine, Corse, Outre-Mer."
-      ],
-      "publishedAt": "2026-11-03T12:47:23+00:00",
-      "updatedAt": "2026-11-03T12:47:23+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "496886d107c16fe4e947ccbdcfe58a5f996f5f8167cbb1dfb55d096012f67703",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T13:17:43.593071+00:00",
-      "context": null
-    },
-    {
       "id": "rss-16ca36ae8a7e5adf29",
       "revision": 1,
       "category": "markets",
@@ -394,8 +391,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T13:10:09+00:00",
-      "updatedAt": "2026-11-03T13:10:09+00:00",
+      "publishedAt": "2026-11-03T14:59:44+00:00",
+      "updatedAt": "2026-11-03T14:59:44+00:00",
       "importance": 69,
       "sources": [
         {
@@ -679,31 +676,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-62eb4a921c696c1936",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens",
-      "bullets": [
-        "DÉCRYPTAGE - Comme en France il y a trois semaines, des attaquants ont saboté lundi les systèmes de réfrigération.",
-        "La recrudescence des actes de piratage inquiète les autorités, qui n’ont pas désigné de responsables."
-      ],
-      "publishedAt": "2026-11-02T19:49:50+00:00",
-      "updatedAt": "2026-11-02T19:49:50+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1e5d861ecfb76a0d31e456ec85246eb7cfbceb893fcebdabccf3a679ccf302ee",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-71a5cdf19204011dca",
       "revision": 1,
       "category": "world",
@@ -729,16 +701,16 @@
     },
     {
       "id": "rss-5ca9ad05c6a931a3e4",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à 54 ans",
       "bullets": [
-        "Elle avait passé vingt-cinq ans de sa vie en Inde avant d’en être bannie par le gouvernement du nationaliste hindou Narendra Modi en février 2024.",
+        "Elle avait passé vingt-cinq ans de sa vie en Inde, avant d’en être bannie par le gouvernement du nationaliste hindou Narendra Modi en février 2024.",
         "Elle a succombé à un cancer le 2 novembre."
       ],
-      "publishedAt": "2026-11-03T13:12:36+00:00",
-      "updatedAt": "2026-11-03T13:12:36+00:00",
+      "publishedAt": "2026-11-03T13:12:35+00:00",
+      "updatedAt": "2026-11-03T13:12:35+00:00",
       "importance": 77,
       "sources": [
         {
@@ -749,7 +721,7 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "c108446da13d722dc29862d29b843836713da0f1eab958d970169dcb097309e0",
+      "summaryInput": "4b2922e3167f8af534a630c9e059aca6ca879e3bc55989294949e611a8d8deae",
       "detailLevel": "preview"
     },
     {
@@ -837,6 +809,30 @@
       "context": null
     },
     {
+      "id": "rss-06c40fc66d20465526",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Nous devons nous préparer à absolument tout » : aux États-Unis, l’inquiétude des démocrates après les menaces de Donald Trump sur les midterms",
+      "bullets": [
+        "RÉCIT - Des militants accusent le président américain de dévoyer le système électoral à son avantage et de vouloir contester le résultat de l’élection en cas de défaite."
+      ],
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "updatedAt": "2026-11-03T05:00:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/nous-devons-nous-preparer-a-absolument-tout-aux-etats-unis-l-inquietude-des-democrates-apres-les-menaces-de-donald-trump-sur-les-midterms-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "05135a9f5e245e9452388621a99ea798046a032c9bbda247c2a7361b75eb05f3",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fa32b22a0cc3495eae",
       "revision": 2,
       "category": "france",
@@ -862,32 +858,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-006da97c0288d5c179",
+      "id": "rss-7e6ed9e2195243671c",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le gouvernement demande aux préfets de faciliter les ouvertures le dimanche pour aider les commerces touchés par les violences en marge des manifestations",
+      "title": "Attentat de Trappes : « Quand cesse-t-on d’être “immigré” en France ? La réponse dépend de l’origine »",
       "bullets": [
-        "Environ 2 500 commerces touchés en marge des manifestationsLe réseau des chambres de commerce et d'industrie (CCI) a salué cette mesure dans un communiqué, demandant pour sa part l'autorisation d'ouvrir les dimanches de novembre et décembre dans un appel à la \"mobilisation collective\" pour soutenir les commerces de proximité.",
-        "Parmi eux, \"1 161 ont été fortement dégradés\", à savoir \"pillés, saccagés voire incendiés\".",
-        "Plus de 6 000 commerces sont empêchés de travailler et les commerçants signalent des baisses de chiffre d'affaires de 60% à 80% les samedis de mobilisation, d'après la CCI."
+        "A partir des réactions politiques et médiatiques qui ont suivi l’attentat du 23 octobre, le sociologue Christophe Bertossi analyse, dans une tribune au « Monde », comment certains citoyens sont condamnés à devoir prouver en permanence leur appartenance à la société française."
       ],
-      "publishedAt": "2026-11-02T20:37:08+00:00",
-      "updatedAt": "2026-11-02T20:37:08+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-03T07:30:03+00:00",
+      "updatedAt": "2026-11-03T07:30:03+00:00",
+      "importance": 55,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-demande-aux-prefets-de-faciliter-les-ouvertures-dominicales-pour-aider-les-commerces-touches-par-les-violences-en-marge-des-manifestations_8264768.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/03/attentat-de-trappes-quand-cesse-t-on-d-etre-immigre-en-france-la-reponse-depend-de-l-origine_6805542_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "f240620e4282897580a728dd1af8c717f0a588ff5d6905f298265badd3a38a8b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T13:17:43.593071+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "cdb2f66c52e7a2754a3a87bbe886aeebef57d8b8249a03c2f468f3c377b65d92",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-62ad117f9d026c970f",
@@ -967,31 +959,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-281866cef44c4f424a",
+      "id": "rss-189a7ade0f56e8e124",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Crans-Montana : la douleur des victimes face à l'absence de réponses",
+      "title": "C’est quoi ce hafnium volé sur un site nucléaire ?",
       "bullets": [
-        "De la découverte du corps d'une fillette anonyme au procès de ses parents, près de quarante ans d'enquête sur \"la petite martyre de l'A10\"",
-        "Loir-et-Cher : un combat de près de 40 ans pour la \"petite martyre de l'A10\"",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
+        "Dans la nuit du 21 au 22 octobre, plusieurs centaines de kilos de hafnium ont été volés à l'usine Framatome de Jarrie, près de Grenoble, qui produit aussi du zirconium destiné au nucléaire civil.",
+        "Une fois isolé, le hafnium possède des propriétés recherchées : une résistance à la corrosion, notamment dans l’eau chaude, et une température de fusion supérieure à 2 000 °C, autour de 2 233 °C.",
+        "Plus de 8 700 euros le kilogrammeDe quoi, donc, susciter les convoitises, d'autant que ce métal vaut plus de 8 700 euros le kilogramme."
       ],
-      "publishedAt": "2026-11-02T20:34:58+00:00",
-      "updatedAt": "2026-11-02T20:34:58+00:00",
-      "importance": 54,
+      "publishedAt": "2026-11-03T13:22:12+00:00",
+      "updatedAt": "2026-11-03T13:22:12+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/crans-montana-la-douleur-des-victimes-face-a-l-absence-de-reponses_8264783.html",
+          "url": "https://www.franceinfo.fr/environnement/energie/nucleaire/c-est-quoi-ce-hafnium-vole-sur-un-site-nucleaire_8260550.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "6e5217a72dddbfdf56834895954d10e09c4ca61f411e4fc58c5bb9d2a64121a0",
+      "summaryInput": "d2cc49726f3273a6985867a281855a5e15450ea17fcb57aa314eb874b1b7934f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T10:04:45.161972+00:00",
+      "enrichedAt": "2026-11-03T15:00:52.712341+00:00",
       "context": null
     },
     {
@@ -1248,7 +1240,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1260,7 +1252,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1272,19 +1264,19 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1296,7 +1288,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1332,19 +1324,19 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "BFM Bourse",
