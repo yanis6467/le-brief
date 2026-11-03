@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T19:06:27.294790+00:00",
+  "preparedAt": "2026-11-03T20:01:44.118083+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -30,6 +30,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "7753b6588a9b9709ef5a4784a303ad0e4d713f0537e4db6fc26f613ec16788d5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3dd7bd03ecf3c76a82",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Moins d’inflation et plus de pouvoir d’achat : la promesse manquée de Donald Trump, qui pourrait lui coûter cher aux midterms",
+      "bullets": [
+        "Élu président des États-Unis en novembre 2024 sur l’engagement de mettre fin à la hausse des prix et de redonner du pouvoir d’achat aux Américains, le milliardaire républicain doit, deux ans plus tard, faire face à un sombre bilan."
+      ],
+      "publishedAt": "2026-11-03T19:24:51+00:00",
+      "updatedAt": "2026-11-03T19:24:51+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/moins-d-inflation-et-plus-de-pouvoir-d-achat-la-promesse-manquee-de-donald-trump-qui-pourrait-lui-couter-cher-aux-midterms-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2583231e51e60b97e22b5706596cf3bd01ea77f5bcf68e6e5426e5bef77dfd80",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6ca8ef2bc1f8cfcc99",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nouvelle cyberattaque visant des réfrigérateurs : une douzaine de pays européens désormais concernés",
+      "bullets": [
+        "L'Allemagne, la Roumanie et le Royaume-Uni ont rejoint mardi la liste des pays européens touchés par une cyberattaque présumée ayant visé les réfrigérateurs et congélateurs de supermarchés, illustrant trois semaines après une attaque similaire en France la vulnérabilité de la chaîne d'approvisionnement alimentaire en Europe.",
+        "Le 12 octobre, une autre attaque présumée de pirates informatiques avait visé les réfrigérateurs et congélateurs de supermarchés, les obligeant à jeter de grandes quantités d'aliments.",
+        "Quatre supermarchés ont aussi été touchés en Allemagne et six en Roumanie, ont indiqué mardi des représentants des entreprises concernées."
+      ],
+      "publishedAt": "2026-11-03T19:10:22+00:00",
+      "updatedAt": "2026-11-03T19:10:22+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/nouvelle-cyberattaque-visant-des-refrigerateurs-une-douzaine-de-pays-europeens-desormais-concernes-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "0ca2a22b5f2928e47a3f1938be2a78fe6f7528c120e2c7acddbb7b0bd6bbac6c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T20:01:44.118083+00:00",
+      "context": null
     },
     {
       "id": "rss-a96195c353a60002bd",
@@ -61,15 +113,15 @@
     },
     {
       "id": "rss-d4de7d37434d40ae34",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs de plateformes",
+      "title": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs des plateformes",
       "bullets": [
         "Un rapport de mission remis au gouvernement le 2 novembre propose de mieux réguler le travail de plateforme, alors que la France a jusqu’au 2 décembre pour transposer une directive européenne sur le sujet."
       ],
-      "publishedAt": "2026-11-03T19:00:09+00:00",
-      "updatedAt": "2026-11-03T19:00:09+00:00",
+      "publishedAt": "2026-11-03T19:00:05+00:00",
+      "updatedAt": "2026-11-03T19:00:05+00:00",
       "importance": 77,
       "sources": [
         {
@@ -80,7 +132,7 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "5c72df58f93c9da707fbc24d688d58ad72ce74bff8011cb5b174a1711c998e6c",
+      "summaryInput": "f4939fe9dad6b6b240d10dd060d5f96d6d142258ee0556d81d793e3f5cc3bfc9",
       "detailLevel": "preview"
     },
     {
@@ -191,33 +243,6 @@
       "verifiedAt": "2026-11-02"
     },
     {
-      "id": "rss-8bc9366e007886a515",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La SNCF annonce trois mesures pour améliorer le pouvoir d'achat de ses salariés face à l'inflation, dont une prime de 400 euros",
-      "bullets": [
-        "Une prime de partage de la valeur (PPV) de 400 euros sera ainsi versée fin novembre aux salariés de SNCF SA, SNCF Voyageurs, SNCF Réseau, SNCF Gares et Connexions et SNCF Optim'Services, soit à quelque 140 000 personnes sur les 280 000 salariés du groupe ferroviaire public, a annoncé le groupe.",
-        "Soit \"deux points de pouvoir d'achat que personne n'a compensés\" a-t-il ajouté, en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
-      ],
-      "publishedAt": "2026-11-03T18:50:31+00:00",
-      "updatedAt": "2026-11-03T18:50:31+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-annonce-trois-mesures-pour-ameliorer-le-pouvoir-d-achat-de-ses-salaries-face-a-l-inflation-dont-une-prime-de-400-euros_8266442.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "eaffce04f22d0e21bd03d4d3b661f0aaade43737692d8bd474673d053ca7513c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
-      "context": null
-    },
-    {
       "id": "rss-eb63cfabbae47c8698",
       "revision": 1,
       "category": "eco",
@@ -228,8 +253,8 @@
         "À la même date, tous les salariés qui utilisent un véhicule personnel pour les besoins du service verront leur allocation kilométrique augmentée de 5%.",
         "Soit «deux points de pouvoir d'achat que personne n'a compensés» a-t-il ajouté en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
       ],
-      "publishedAt": "2026-11-03T18:46:51+00:00",
-      "updatedAt": "2026-11-03T18:46:51+00:00",
+      "publishedAt": "2026-11-03T19:31:30+00:00",
+      "updatedAt": "2026-11-03T19:31:30+00:00",
       "importance": 69,
       "sources": [
         {
@@ -246,79 +271,56 @@
       "context": null
     },
     {
-      "id": "rss-ec0a537ed3efbe14f6",
+      "id": "rss-1bd6a800028269c93c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le bon fonctionnement des services publics, une épreuve pour la démocratie",
+      "title": "Pouvoir d’achat : les vraies raisons du déclassement des Français",
       "bullets": [
-        "Pour surmonter ses difficultés structurelles, l’éducation nationale a besoin d’« une gouvernance publique proche de ses besoins et loin des turbulences du politique », estime dans sa chronique Armand Hatchuel, professeur en sciences de gestion, citant notamment l’exemple historique des télécommunications."
+        "DÉCRYPTAGE - Charges sociales, dépenses contraintes, PIB par habitant en baisse… Le sentiment de déclassement des Français, au cœur des manifestations, a des causes bien réelles, détaille l’Institut Montaigne.",
+        "Reste à s’entendre sur les remèdes."
       ],
-      "publishedAt": "2026-11-03T13:00:32+00:00",
-      "updatedAt": "2026-11-03T13:00:32+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-03T19:15:00+00:00",
+      "updatedAt": "2026-11-03T19:15:00+00:00",
+      "importance": 69,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/03/le-bon-fonctionnement-des-services-publics-une-epreuve-pour-la-democratie_6805585_6768900.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/pouvoir-d-achat-les-vraies-raisons-du-declassement-des-francais-20261103",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "e1d96a0ce1197f68dd97c9543b48593f4897decc69a4d33545386aef91c437a4",
+      "summaryInput": "6940b010e1f5a0512e15a6be94cebb8c421577e8922885674d924da7876ebe6b",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9d7c5a2d12b17f0554",
+      "id": "rss-8bc9366e007886a515",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Transition énergétique : le gouvernement suspend le Fonds chaleur",
+      "title": "La SNCF annonce trois mesures pour améliorer le pouvoir d'achat de ses salariés face à l'inflation, dont une prime de 400 euros",
       "bullets": [
-        "Le cabinet du ministère a expliqué auprès de l'AFP cette décision par le «nombre important de projets déposés en 2026» ainsi que par des «contraintes budgétaires» liées à la baisse de la dotation de l'Ademe dans le budget 2027.",
-        "«La parole de l’État doit être tenue» Le fonds chaleur, créé en 2009, soutient le développement de la production renouvelable de chaleur et de froid renouvelable ainsi que le développement des réseaux de chaleur dans les secteurs résidentiels collectif, tertiaire, industriel et agricole."
+        "Une prime de partage de la valeur (PPV) de 400 euros sera ainsi versée fin novembre aux salariés de SNCF SA, SNCF Voyageurs, SNCF Réseau, SNCF Gares et Connexions et SNCF Optim'Services, soit à quelque 140 000 personnes sur les 280 000 salariés du groupe ferroviaire public, a annoncé le groupe.",
+        "Soit \"deux points de pouvoir d'achat que personne n'a compensés\" a-t-il ajouté, en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
       ],
-      "publishedAt": "2026-11-03T17:53:31+00:00",
-      "updatedAt": "2026-11-03T17:53:31+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-03T19:06:36+00:00",
+      "updatedAt": "2026-11-03T19:06:36+00:00",
+      "importance": 69,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/sciences/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-20261103",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-annonce-trois-mesures-pour-ameliorer-le-pouvoir-d-achat-de-ses-salaries-face-a-l-inflation-dont-une-prime-de-400-euros_8266442.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "71dd564d342e73822e86820d582a884daa22f2fee054bc3eb33f80bebdfe01e0",
+      "summaryInput": "eaffce04f22d0e21bd03d4d3b661f0aaade43737692d8bd474673d053ca7513c",
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
       "context": null
-    },
-    {
-      "id": "rss-6e5a7af7ad010c3bca",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Ce que le relèvement du plafond du livret A, annoncé par Sébastien Lecornu, changera pour l’État et les épargnants",
-      "bullets": [
-        "Le premier ministre Sébastien Lecornu a annoncé ce mardi 3 novembre que le plafond du livret A serait relevé en février prochain, dans une fourchette «entre 25.000 et 30.000 euros», contre 22.900 euros actuellement."
-      ],
-      "publishedAt": "2026-11-03T17:48:26+00:00",
-      "updatedAt": "2026-11-03T17:48:26+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/finances-perso/ce-que-le-relevement-du-plafond-du-livret-a-a-30-000-euros-changerait-pour-l-etat-et-les-epargnants-20260904",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "067f7f141eadd5d39534837c91feffec359c27803889947b679767843bc8130a",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d0cfbd2f0f820795fc",
@@ -387,9 +389,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T19:06:28+00:00",
-      "updatedAt": "2026-11-03T19:06:28+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-03T20:00:41+00:00",
+      "updatedAt": "2026-11-03T20:00:41+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -550,7 +552,7 @@
       ],
       "publishedAt": "2026-11-01T19:30:00+00:00",
       "updatedAt": "2026-11-01T19:30:00+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -564,56 +566,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d7b83e13dab9825fb3",
+      "id": "rss-dc74e045be8d14d820",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les Etats-Unis ont mené des frappes \"limitées\" sur une île iranienne, selon des médias américains",
+      "title": "Midterms 2026 : Donald Trump révèle à Fox News que l’aide militaire à Israël sera « coupée à la fin de l’année »",
       "bullets": [
-        "Les Etats-Unis ont mené des frappes limitées sur l'île de Qeshm, dans le détroit d'Ormuz, ont rapporté plusieurs médias américains, mardi 3 novembre.",
-        "Selon le Wall Street Journal, qui les a révélées, ces frappes ont été conduites lundi, à la veille des élections de mi-mandat aux Etats-Unis.",
-        "Incertitude sur le confit après les midtermsLe vice-ministre iranien des Affaires étrangères, Kazem Gharibabadi, a déclaré mardi que Téhéran se réservait le droit de se défendre, après que des médias américains ont fait état de frappes américaines la veille contre l'île iranienne de Qeshm, dans le détroit d'Ormuz."
+        "Le jour des élections de mi-mandat, le président américain a déclaré, sans concertation apparente ni détails, vouloir en finir avec le soutien de 3,8 milliards de dollars annuels à l’Etat hébreu.",
+        "Une décision qui semble influencée par le retournement de l’opinion publique américaine."
       ],
-      "publishedAt": "2026-11-03T12:47:57+00:00",
-      "updatedAt": "2026-11-03T12:47:57+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-03T19:30:07+00:00",
+      "updatedAt": "2026-11-03T19:30:07+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-ont-mene-des-frappes-limitees-sur-une-ile-iranienne-selon-des-medias-americains_8265818.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "6ad7ddd68a970e72541c8a10e0b2087acad3a5efda42568335c687e1c4b8d8a1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T13:17:43.593071+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-62eb4a921c696c1936",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens",
-      "bullets": [
-        "DÉCRYPTAGE - Comme en France il y a trois semaines, des attaquants ont saboté lundi les systèmes de réfrigération.",
-        "La recrudescence des actes de piratage inquiète les autorités, qui n’ont pas désigné de responsables."
-      ],
-      "publishedAt": "2026-11-02T19:49:50+00:00",
-      "updatedAt": "2026-11-02T19:49:50+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "1e5d861ecfb76a0d31e456ec85246eb7cfbceb893fcebdabccf3a679ccf302ee",
+      "summaryInput": "7dae0b79439a3967848dba06288e457579c3e61c704c20097238ead928b47a5d",
       "detailLevel": "preview"
     },
     {
@@ -673,32 +647,29 @@
       "context": null
     },
     {
-      "id": "rss-663671378fac5734fb",
+      "id": "rss-62eb4a921c696c1936",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "USA : le vote des pêcheurs de homards du Maine",
+      "title": "Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens",
       "bullets": [
-        "Midterms 2026 : les bureaux de vote ont ouvert dans de nombreux Etats américains de la côte est",
-        "Aux Etats-Unis, plus de 58 millions d'électeurs ont déjà voté par anticipation pour les midterms 2026, un record",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
+        "DÉCRYPTAGE - Comme en France il y a trois semaines, des attaquants ont saboté lundi les systèmes de réfrigération.",
+        "La recrudescence des actes de piratage inquiète les autorités, qui n’ont pas désigné de responsables."
       ],
-      "publishedAt": "2026-11-03T11:48:48+00:00",
-      "updatedAt": "2026-11-03T11:48:48+00:00",
+      "publishedAt": "2026-11-02T19:49:50+00:00",
+      "updatedAt": "2026-11-02T19:49:50+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa-le-vote-des-pecheurs-de-homards-du-maine_8265782.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "0ea33759f838884600a3856ff52445c11b892fc9582d1e23469d03618fe1c904",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T11:57:28.252048+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1e5d861ecfb76a0d31e456ec85246eb7cfbceb893fcebdabccf3a679ccf302ee",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-71a5cdf19204011dca",
@@ -824,6 +795,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-29a7847c139fbfbb08",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
+      "bullets": [
+        "Dans l'école de Komyshuvakha (Ukraine), le 2 novembre, les habitants étaient venus chercher de l'aide humanitaire et un peu de réconfort comme chaque lundi.",
+        "L'ennemi a cyniquement commencé par larguer de petites bombes pour attirer des gens sur place.",
+        "La nuit dernière, un hôpital de Kharkiv a été visé, blessant plus de 70 personnes, dont des patients et des membres du personnel médical."
+      ],
+      "publishedAt": "2026-11-03T14:13:48+00:00",
+      "updatedAt": "2026-11-03T14:13:48+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "245aba5d501fa4358064b4436ee9d797be292e75648ed5fb9c2041b1a71d82ed",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T20:01:44.118083+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e161d8437ec38afa0d",
       "revision": 2,
       "category": "france",
@@ -910,7 +909,7 @@
       ],
       "publishedAt": "2026-11-03T07:32:03+00:00",
       "updatedAt": "2026-11-03T07:32:03+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -937,7 +936,7 @@
       ],
       "publishedAt": "2026-11-02T19:27:54+00:00",
       "updatedAt": "2026-11-02T19:27:54+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1080,7 +1079,7 @@
       "id": "rss-fa32b22a0cc3495eae",
       "revision": 2,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Violences commises le 17 octobre : Laurent Nuñez, ministre de l’intérieur, est auditionné à l’Assemblée nationale ce mardi",
       "bullets": [
         "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont à de tels événements » mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances.",
@@ -1175,17 +1174,17 @@
     },
     {
       "id": "rss-f2f65edc8475dc5b5c",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République » : Zineb Alami, avocate de Bolema Bossio Wangi",
+      "title": "\"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République\" : Zineb Alami, avocate de Bolema Bossio Wangi",
       "bullets": [
         "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans",
         "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
         "Un Français sur trois a eu du mal à payer des factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre du médiateur de l'énergie."
       ],
-      "publishedAt": "2026-11-03T18:40:18+00:00",
-      "updatedAt": "2026-11-03T18:40:18+00:00",
+      "publishedAt": "2026-11-03T19:11:06+00:00",
+      "updatedAt": "2026-11-03T19:11:06+00:00",
       "importance": 73,
       "sources": [
         {
@@ -1196,9 +1195,9 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "a757c146407fc53097d726063892d6277525c7eb046cb84e43f2d567b25049d7",
+      "summaryInput": "d4f875667a53ac7566cb971bb23858a465b5fcdb1b40b39230023122aaa52742",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
+      "enrichedAt": "2026-11-03T20:01:44.118083+00:00",
       "context": null
     },
     {
@@ -1265,7 +1264,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1289,7 +1288,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 14
     },
     {
       "publisher": "Le Figaro",
@@ -1313,7 +1312,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
