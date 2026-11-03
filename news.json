@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T11:05:02.507143+00:00",
+  "preparedAt": "2026-11-03T11:57:28.252048+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -32,6 +32,34 @@
       "summaryInput": "e9c73b188ee2cce92305260dad50a7a9b6208f30b1676686707e3960d0402cd0",
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1e1f2ccd119b4ca6a5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "États-Unis : ces Américains que l'inflation a rendus pauvres",
+      "bullets": [
+        "À 45 ans, Angelica Garcia n'a jamais été aussi impatiente d'aller voter.",
+        "On doit donc se débrouiller autrement\", déplore-t-elle.\"Les prix de la nourriture sont beaucoup trop élevés\"C'est notamment le cas d'Oscar Ochoa, 65 ans, un ancien militaire aujourd'hui chauffeur de bus.",
+        "Avant les coupes de l'administration Trump dans les programmes d'aide alimentaire, 150 000 personnes venaient dans notre centre."
+      ],
+      "publishedAt": "2026-11-03T07:06:32+00:00",
+      "updatedAt": "2026-11-03T07:06:32+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/etats-unis-ces-americains-que-l-inflation-a-rendus-pauvres_8265332.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "85d6a8c2367b2d6b46e875529897579c60192558c673c69a296b590314f947a4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
       "context": null
     },
     {
@@ -88,6 +116,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e94845aa69b86c8d4d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Grève intersyndicale du 5 novembre : transports, éducation, santé... À quoi faut-il s’attendre ?",
+      "bullets": [
+        "«L’heure est venue de franchir un nouveau cap dans la mobilisation, la grève doit prendre le relais» à partir du 5 novembre, a lancé la secrétaire générale de la CGT Sophie Binet mercredi 21 octobre, à l’issue d’une réunion à Matignon.",
+        "Sécurité sociale La Sécurité sociale est également en grève.",
+        "Au-delà de leur soutien au mouvement lycéen, les syndicats entendent dénoncer les «nouvelles coupes budgétaires inacceptables qui se profilent pour l’année 2027» dans le secteur culturel, ainsi que les «menaces répétées du Medef et du patronat» contre le régime spécifique d’assurance-chômage des intermittents du spectacle."
+      ],
+      "publishedAt": "2026-11-03T11:21:31+00:00",
+      "updatedAt": "2026-11-03T11:21:31+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "dd0f33f1d9a976286818dfcbb267a01358de931041ca3a24e0425a64a4801eaa",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T11:57:28.252048+00:00",
+      "context": null
+    },
+    {
       "id": "fr-inflation-2026-10",
       "revision": 1,
       "category": "eco",
@@ -109,34 +165,6 @@
         }
       ],
       "verifiedAt": "2026-11-02"
-    },
-    {
-      "id": "rss-1e9811bd8ff718e1b1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "SNCF : avant la grève de jeudi, les syndicats font pression pour obtenir un rattrapage de l'inflation sur les salaires",
-      "bullets": [
-        "À deux jours d’une grève générale jeudi, les syndicats de cheminots se rassembleront devant le siège de la SNCF à Saint-Denis ce mardi 3 novembre pour appuyer une demande de rattrapage de l'inflation sur les salaires 2026, durant une réunion sur le sujet avec la direction.",
-        "Or, l'inflation est avérée à +3,4% sur les 12 derniers mois en octobre selon l'Insee, et prévue à +2,3% sur l'année par la Banque de France, relève l'Unsa dans un communiqué.",
-        "Le syndicat demande une augmentation générale de 2,6% avec effet rétroactif au 1er juillet."
-      ],
-      "publishedAt": "2026-11-03T07:35:03+00:00",
-      "updatedAt": "2026-11-03T07:35:03+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/sncf-avant-la-greve-de-jeudi-les-syndicats-font-pression-pour-obtenir-un-rattrapage-de-l-inflation-sur-les-salaires-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "fbf7644232b9842f4fd1e3f6f18f0bd2f39495edc31371e3b9ab531e649fbd30",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
-      "context": null
     },
     {
       "id": "rss-01fc6cf288fb74733f",
@@ -223,6 +251,34 @@
       "context": null
     },
     {
+      "id": "rss-aa7696918ffed11cb9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après le déstockage des réserves stratégiques, la baisse des prix des carburants amorcée dans 6 000 stations-service, selon le gouvernement",
+      "bullets": [
+        "\"Petit à petit, ce sont bien les 10 000 stations qui vont baisser leur prix\", a assuré le ministre du Commerce.",
+        "Sur ces 6 000 stations, 4 000 ont baissé leurs tarifs \"de plus de 15 centimes\", a-t-il ajouté.",
+        "En octobre, le gouvernement français avait annoncé qu'il vendrait à prix coûtant aux distributeurs 10 millions de barils de gazole issus des stocks stratégiques pendant trois mois, de novembre à janvier, afin de faire baisser les prix à la pompe, à des niveaux historiquement élevés depuis le début du conflit au Moyen-Orient."
+      ],
+      "publishedAt": "2026-11-03T11:10:25+00:00",
+      "updatedAt": "2026-11-03T11:10:25+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "1115fd3496a797d8c2612c0a72913ccaa074c5df3d303ab7c6b77b7c3a3775ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T11:57:28.252048+00:00",
+      "context": null
+    },
+    {
       "id": "rss-776d6614da970376cd",
       "revision": 1,
       "category": "eco",
@@ -278,55 +334,6 @@
       "context": null
     },
     {
-      "id": "rss-0f85e7f4f3e46cc212",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
-      "bullets": [
-        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
-      ],
-      "publishedAt": "2026-11-02T16:00:05+00:00",
-      "updatedAt": "2026-11-02T16:00:05+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b9e2a2cd93aa142d19",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En réponse à la casse et aux pillages lors des manifestations du 17 octobre, le gouvernement veut faciliter l’ouverture des commerces le dimanche",
-      "bullets": [
-        "Les maires ont déjà la main sur l’ouverture des commerces douze dimanches par an, et les préfets peuvent autoriser trois ouvertures dominicales dérogatoires de plus, sans consulter les partenaires sociaux.",
-        "Selon le ministre du commerce, « 3 000 magasins » ont été touchés par des violences le 17 octobre et…"
-      ],
-      "publishedAt": "2026-11-02T11:47:51+00:00",
-      "updatedAt": "2026-11-02T11:47:51+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/02/en-reponse-aux-commercants-eprouves-par-les-violences-du-17-octobre-le-gouvernement-demande-aux-prefets-de-faciliter-l-ouverture-des-commerces-le-dimanche_6805243_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0343661d711fddca31a21beb1980c2ee2ae62689f5f318b928a46eeec396bc6d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f331e534fbdc08d9d2",
       "revision": 2,
       "category": "markets",
@@ -365,9 +372,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T11:00:05+00:00",
-      "updatedAt": "2026-11-03T11:00:05+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-03T11:57:29+00:00",
+      "updatedAt": "2026-11-03T11:57:29+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -543,10 +550,10 @@
     },
     {
       "id": "rss-59a02a8670bc0ebaba",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
-      "title": "Iran : les Etats-Unis ont effectué des frappes sur l’île de Qechm, selon plusieurs médias américains",
+      "title": "Iran : « Nous tuerons Trump » affiche un panneau à Téhéran, après les frappes effectués par les Etats-Unis sur l’île de Qechm",
       "bullets": [
         "Ces frappes, que l’armée voulait tenir secrètes, interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver »."
       ],
@@ -562,7 +569,7 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "ab946f6ad7d0c7a2518e35d1627f6fbd25279f9a738489d950edb19451ee9a41",
+      "summaryInput": "6769dabc175a43d39b73ef6b4b5068963ed8be04d029ba6a630d59b3f2f60fff",
       "detailLevel": "preview"
     },
     {
@@ -618,34 +625,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1e1f2ccd119b4ca6a5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "États-Unis : ces Américains que l'inflation a rendus pauvres",
-      "bullets": [
-        "À 45 ans, Angelica Garcia n'a jamais été aussi impatiente d'aller voter.",
-        "On doit donc se débrouiller autrement\", déplore-t-elle.\"Les prix de la nourriture sont beaucoup trop élevés\"C'est notamment le cas d'Oscar Ochoa, 65 ans, un ancien militaire aujourd'hui chauffeur de bus.",
-        "Avant les coupes de l'administration Trump dans les programmes d'aide alimentaire, 150 000 personnes venaient dans notre centre."
-      ],
-      "publishedAt": "2026-11-03T07:06:32+00:00",
-      "updatedAt": "2026-11-03T07:06:32+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/etats-unis-ces-americains-que-l-inflation-a-rendus-pauvres_8265332.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "85d6a8c2367b2d6b46e875529897579c60192558c673c69a296b590314f947a4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cd5e9a49aff74286eb",
       "revision": 1,
       "category": "world",
@@ -656,8 +635,8 @@
         "La dernière rencontre de ce type s'était déroulée mi-février à Genève, en Suisse.",
         "L'Ukraine a de nouveau été bombardée dans la nuit de lundi à mardi, l'armée de l'air indiquant que la Russie avait lancé plusieurs missiles balistiques, 59 missiles de croisière et 289 drones d'attaque, dont 120 drones à réaction, contre le territoire ukrainien."
       ],
-      "publishedAt": "2026-11-03T09:51:06+00:00",
-      "updatedAt": "2026-11-03T09:51:06+00:00",
+      "publishedAt": "2026-11-03T11:23:53+00:00",
+      "updatedAt": "2026-11-03T11:23:53+00:00",
       "importance": 79,
       "sources": [
         {
@@ -745,6 +724,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "40d8aba0907599cb3172cce23309ee7e06bdd622e64afe526b1ba3830702da40",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-663671378fac5734fb",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "USA : le vote des pêcheurs de homards du Maine",
+      "bullets": [
+        "Midterms 2026 : les bureaux de vote ont ouvert dans de nombreux Etats américains de la côte est",
+        "Aux Etats-Unis, plus de 58 millions d'électeurs ont déjà voté par anticipation pour les midterms 2026, un record",
+        "\"La petite martyre de l'A10\", le procès 40 ans après"
+      ],
+      "publishedAt": "2026-11-03T11:48:48+00:00",
+      "updatedAt": "2026-11-03T11:48:48+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa-le-vote-des-pecheurs-de-homards-du-maine_8265782.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "0ea33759f838884600a3856ff52445c11b892fc9582d1e23469d03618fe1c904",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T11:57:28.252048+00:00",
+      "context": null
     },
     {
       "id": "rss-c7556ec854dfd9779c",
@@ -990,8 +997,8 @@
         "Le changement climatique exacerbe les inégalités de genre et il faut en tenir compte pour réussir la transition.",
         "La climatologue Valérie Masson-Delmotte témoigne également de son parcours de chercheuse spécialiste du climat dans un monde masculin."
       ],
-      "publishedAt": "2026-11-03T06:30:01+00:00",
-      "updatedAt": "2026-11-03T06:30:01+00:00",
+      "publishedAt": "2026-11-03T06:30:00+00:00",
+      "updatedAt": "2026-11-03T06:30:00+00:00",
       "importance": 47,
       "sources": [
         {
@@ -1209,7 +1216,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1233,7 +1240,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1257,7 +1264,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
