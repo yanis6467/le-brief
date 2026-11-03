@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T20:01:44.118083+00:00",
+  "preparedAt": "2026-11-03T20:58:11.565769+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -220,6 +220,34 @@
       "context": null
     },
     {
+      "id": "rss-9b69260243bce2b1de",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Livret A : le gouvernement envisage une hausse du plafond à 30 000 euros",
+      "bullets": [
+        "Aujourd'hui fixé à 22 950 euros, il pourrait grimper à 25 000, voire 30 000 euros.",
+        "9 millions de livrets sont remplis au maximum.",
+        "L'augmentation du plafond, évidemment, il y a un manque à gagner fiscal qui va se chiffrer à plusieurs dizaines de millions d'euros en fonction de la collecte.\"À compter du 1er février, en tenant compte de l'inflation, le taux du livret A pourrait passer de 1,7 à 2,5 % par an."
+      ],
+      "publishedAt": "2026-11-03T20:24:44+00:00",
+      "updatedAt": "2026-11-03T20:24:44+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/livret-a-le-gouvernement-envisage-une-hausse-du-plafond-a-30-000-euros_8266541.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "50aace09ab323786450e567c3ba2f000bf3c75f2bd00b0c5694bc56375a88317",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T20:58:11.565769+00:00",
+      "context": null
+    },
+    {
       "id": "fr-inflation-2026-10",
       "revision": 1,
       "category": "eco",
@@ -296,33 +324,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8bc9366e007886a515",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La SNCF annonce trois mesures pour améliorer le pouvoir d'achat de ses salariés face à l'inflation, dont une prime de 400 euros",
-      "bullets": [
-        "Une prime de partage de la valeur (PPV) de 400 euros sera ainsi versée fin novembre aux salariés de SNCF SA, SNCF Voyageurs, SNCF Réseau, SNCF Gares et Connexions et SNCF Optim'Services, soit à quelque 140 000 personnes sur les 280 000 salariés du groupe ferroviaire public, a annoncé le groupe.",
-        "Soit \"deux points de pouvoir d'achat que personne n'a compensés\" a-t-il ajouté, en faisant valoir le bénéfice record de 1,2 milliard d'euros engrangé au premier semestre par la SNCF."
-      ],
-      "publishedAt": "2026-11-03T19:06:36+00:00",
-      "updatedAt": "2026-11-03T19:06:36+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-annonce-trois-mesures-pour-ameliorer-le-pouvoir-d-achat-de-ses-salaries-face-a-l-inflation-dont-une-prime-de-400-euros_8266442.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "eaffce04f22d0e21bd03d4d3b661f0aaade43737692d8bd474673d053ca7513c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0cfbd2f0f820795fc",
       "revision": 1,
       "category": "markets",
@@ -389,8 +390,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T20:00:41+00:00",
-      "updatedAt": "2026-11-03T20:00:41+00:00",
+      "publishedAt": "2026-11-03T20:56:58+00:00",
+      "updatedAt": "2026-11-03T20:56:58+00:00",
       "importance": 69,
       "sources": [
         {
@@ -526,7 +527,7 @@
       ],
       "publishedAt": "2026-11-02T20:37:22+00:00",
       "updatedAt": "2026-11-02T20:37:22+00:00",
-      "importance": 86,
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -563,6 +564,54 @@
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "26a9bdb282685073d489b21c92b94383cd50ad4c68859b76d09ae8bc0c92ff78",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5de14eeb6c9c267eae",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Pologne, la crise autour du Tribunal constitutionnel préfigure une campagne virulente pour les prochaines élections législatives",
+      "bullets": [
+        "Mardi, l’assemblée générale de l’institution a vu le camp de centre droit du premier ministre polonais, Donald Tusk, et l’opposition nationaliste camper sur leurs positions."
+      ],
+      "publishedAt": "2026-11-03T20:26:52+00:00",
+      "updatedAt": "2026-11-03T20:26:52+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-la-crise-autour-du-tribunal-constitutionnel-prefigure-une-campagne-virulente-pour-les-prochaines-elections-legislatives_6805664_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "97ecaa3ad5e1b5aef1ff91befa0c3d8b5f693704c72f9d74399660865a7c065c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-16f4d6d90f7e57d3fe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«La population a l’impression qu’elle a été trahie» : en Afrique du Sud, des municipales à risque pour l’ANC",
+      "bullets": [
+        "RÉCIT - À la veille des élections municipales, prévues le 4 novembre, le Congrès national africain, au pouvoir depuis 1994, est critiqué pour son bilan à la tête des 105 municipalités qu’il administre."
+      ],
+      "publishedAt": "2026-11-03T20:00:00+00:00",
+      "updatedAt": "2026-11-03T20:00:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-population-a-l-impression-qu-elle-a-ete-trahie-en-afrique-du-sud-des-municipales-a-risque-pour-l-anc-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7df9026325387e8dbc93d362cde7d917d01bb07bccc41a01a58f816025b4f3cc",
       "detailLevel": "preview"
     },
     {
@@ -771,58 +820,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1aa74aee5f62f9e78c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump confirme des frappes contre une infrastructure antiaériennne en Iran",
-      "bullets": [
-        "Le vice-ministre des affaires étrangères iranien, Kazem Gharibabadi, a réagi en précisant que Téhéran se réservait le droit de se défendre."
-      ],
-      "publishedAt": "2026-11-03T14:23:18+00:00",
-      "updatedAt": "2026-11-03T14:23:18+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/03/donald-trump-confirme-des-frappes-contre-une-infrastructure-anti-aeriennne-en-iran_6805599_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "698a1fbec53eb5685e56b0702caf26b086b8cd0ba57356e6a23ec2a57b0693b2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-29a7847c139fbfbb08",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
-      "bullets": [
-        "Dans l'école de Komyshuvakha (Ukraine), le 2 novembre, les habitants étaient venus chercher de l'aide humanitaire et un peu de réconfort comme chaque lundi.",
-        "L'ennemi a cyniquement commencé par larguer de petites bombes pour attirer des gens sur place.",
-        "La nuit dernière, un hôpital de Kharkiv a été visé, blessant plus de 70 personnes, dont des patients et des membres du personnel médical."
-      ],
-      "publishedAt": "2026-11-03T14:13:48+00:00",
-      "updatedAt": "2026-11-03T14:13:48+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "245aba5d501fa4358064b4436ee9d797be292e75648ed5fb9c2041b1a71d82ed",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T20:01:44.118083+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e161d8437ec38afa0d",
       "revision": 2,
       "category": "france",
@@ -921,7 +918,7 @@
       "provenance": "article-extract",
       "summaryInput": "280ae9716e54eab6d00c833c5d4897c4a326d77e3835b449d02d999878683af0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
+      "enrichedAt": "2026-11-03T20:58:11.565769+00:00",
       "context": null
     },
     {
@@ -1079,7 +1076,7 @@
       "id": "rss-fa32b22a0cc3495eae",
       "revision": 2,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Violences commises le 17 octobre : Laurent Nuñez, ministre de l’intérieur, est auditionné à l’Assemblée nationale ce mardi",
       "bullets": [
         "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont à de tels événements » mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances.",
@@ -1288,7 +1285,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
