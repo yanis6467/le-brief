@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T03:00:23.043452+00:00",
+  "preparedAt": "2026-11-03T04:02:34.352397+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -241,6 +241,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0c7e136114eb501ac0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+      "bullets": [
+        "Dans l'Essonne, on trouve 2,13 euros le litre, soit moins 30 centimes en deux jours.",
+        "Résultat : en France, en moyenne, le litre de gazole est passé de 2,38 euros à 2,29 euros, soit neuf centimes de moins.",
+        "Avec 10 millions de barils libérés, le gouvernement prévoit que la baisse des prix du gazole durera trois mois."
+      ],
+      "publishedAt": "2026-11-02T20:00:17+00:00",
+      "updatedAt": "2026-11-02T20:00:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "540f427264aa586e8a1e13ceeca21f6a9c2974d5ec3b9875630b8e91314b0028",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T04:02:34.352397+00:00",
+      "context": null
+    },
+    {
       "id": "rss-21a779628f29f86cca",
       "revision": 2,
       "category": "eco",
@@ -295,30 +323,6 @@
       "context": null
     },
     {
-      "id": "rss-0f85e7f4f3e46cc212",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
-      "bullets": [
-        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
-      ],
-      "publishedAt": "2026-11-02T16:00:05+00:00",
-      "updatedAt": "2026-11-02T16:00:05+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f331e534fbdc08d9d2",
       "revision": 2,
       "category": "markets",
@@ -331,7 +335,7 @@
       ],
       "publishedAt": "2026-11-02T15:15:01+00:00",
       "updatedAt": "2026-11-02T15:15:01+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -357,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T03:00:23+00:00",
-      "updatedAt": "2026-11-03T03:00:23+00:00",
+      "publishedAt": "2026-11-03T03:59:06+00:00",
+      "updatedAt": "2026-11-03T03:59:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -480,6 +484,30 @@
         }
       ],
       "verifiedAt": "2026-11-02"
+    },
+    {
+      "id": "rss-59a02a8670bc0ebaba",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Iran : l’armée américaine a effectué des frappes sur l’île de Qeshm, selon le « Wall Street Journal »",
+      "bullets": [
+        "Ces frappes secrètes interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver »."
+      ],
+      "publishedAt": "2026-11-03T03:13:22+00:00",
+      "updatedAt": "2026-11-03T03:13:22+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "508c84b18c932f8ffaadcc8adda14b1ddc68604ae605934c70cc6c2735144477",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8879cc27630185c631",
@@ -689,6 +717,29 @@
       "detailLevel": "preview"
     },
     {
+      "id": "europe-cyber-froid",
+      "revision": 1,
+      "category": "world",
+      "topic": "Europe · cybersécurité",
+      "title": "Plusieurs supermarchés européens subissent des cyberattaques visant leurs réfrigérateurs et congélateurs.",
+      "bullets": [
+        "Le Monde rapporte des attaques contre les équipements de conservation au froid de plusieurs magasins.",
+        "La fiche ne conclut pas à une origine commune ou à un auteur identifié sans confirmation accessible."
+      ],
+      "publishedAt": "2026-11-02",
+      "updatedAt": "2026-11-02",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-02",
+      "note": "Les informations publiques sont limitées : cette fiche reste volontairement courte."
+    },
+    {
       "id": "rss-a1929e1a8ac69e59b6",
       "revision": 1,
       "category": "world",
@@ -701,7 +752,7 @@
       ],
       "publishedAt": "2026-11-02T15:27:40+00:00",
       "updatedAt": "2026-11-02T15:27:40+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -728,7 +779,7 @@
       ],
       "publishedAt": "2026-11-02T15:24:31+00:00",
       "updatedAt": "2026-11-02T15:24:31+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -742,76 +793,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "europe-cyber-froid",
-      "revision": 1,
-      "category": "world",
-      "topic": "Europe · cybersécurité",
-      "title": "Plusieurs supermarchés européens subissent des cyberattaques visant leurs réfrigérateurs et congélateurs.",
-      "bullets": [
-        "Le Monde rapporte des attaques contre les équipements de conservation au froid de plusieurs magasins.",
-        "La fiche ne conclut pas à une origine commune ou à un auteur identifié sans confirmation accessible."
-      ],
-      "publishedAt": "2026-11-02",
-      "updatedAt": "2026-11-02",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-02",
-      "note": "Les informations publiques sont limitées : cette fiche reste volontairement courte."
-    },
-    {
-      "id": "rss-1cfe15fc629490828f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Dans l’est de la République démocratique du Congo, l’intérêt de Washington passe par la paix avec le Rwanda",
-      "bullets": [
-        "REPORTAGE - Les États-Unis soutiennent la RDC, dont le sous-sol est riche en métaux comme le cuivre et le cobalt, dans son interminable guerre indirecte avec son voisin rwandais.",
-        "Lequel parraine la tentative de retour de l’ancien président Joseph Kabila."
-      ],
-      "publishedAt": "2026-11-01T16:01:17+00:00",
-      "updatedAt": "2026-11-01T16:01:17+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/dans-l-est-de-la-republique-democratique-du-congo-l-interet-de-washington-passe-par-la-paix-avec-le-rwanda-20261101",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9544489b2a6055a33f61d2b39404a2472f923472aa866f16327c5c8f7f788860",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3b4766e2a689c7f562",
+      "id": "rss-66ea7a8d5d9c72c190",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
+      "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
       "bullets": [
-        "« La répression, elle n’existe pas (…).",
-        "Nous, on est là pour éviter les troubles à l’ordre public », a déclaré le ministre de l’intérieur, lundi, devant la commission des lois de l’Assemblée nationale."
+        "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse."
       ],
-      "publishedAt": "2026-11-02T19:27:54+00:00",
-      "updatedAt": "2026-11-02T19:27:54+00:00",
+      "publishedAt": "2026-11-03T04:00:24+00:00",
+      "updatedAt": "2026-11-03T04:00:24+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "e76580564e068e93fef403f7b69d69c849c69860dd3474a841be0ae501c0ab8a",
+      "summaryInput": "ed1d9e1a9e2804148a5a77a7b424a947f30d3536d31d28705761f3adec2b0979",
       "detailLevel": "preview"
     },
     {
@@ -891,28 +893,28 @@
       "context": null
     },
     {
-      "id": "rss-bfb02e698369aa94ce",
+      "id": "rss-c676f44759bb5620d4",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "A Trappes, l’« espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes",
+      "title": "« Dubai Papers » : l’heure du procès pour une « officine de fraude fiscale à grande échelle »",
       "bullets": [
-        "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres.",
-        "L’édile était entouré de responsables de toute la gauche, mais les personnalités du…"
+        "Neuf responsables du cabinet Hélin International, trois avocats et un expert-comptable français sont jugés à partir de lundi à Paris.",
+        "Ils sont accusés d’avoir méthodiquement aidé plus de 300 contribuables français à frauder le fisc pendant des années grâce à des montages sophistiqués."
       ],
-      "publishedAt": "2026-10-31T04:00:40+00:00",
-      "updatedAt": "2026-10-31T04:00:40+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-02T05:00:15+00:00",
+      "updatedAt": "2026-11-02T05:00:15+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/02/dubai-papers-l-heure-du-proces-pour-une-officine-de-fraude-fiscale-a-grande-echelle_6804884_4355770.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "bf034dc0ff8d399007e80c9edff17beb7737ea672140f02d81b57ad9a2812677",
+      "summaryInput": "bced5e07e0f744d70e095a873c09b0a8c423d539e692c1926913133b552eae32",
       "detailLevel": "preview"
     },
     {
@@ -992,6 +994,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3b4766e2a689c7f562",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
+      "bullets": [
+        "« La répression, elle n’existe pas (…).",
+        "Nous, on est là pour éviter les troubles à l’ordre public », a déclaré le ministre de l’intérieur, lundi, devant la commission des lois de l’Assemblée nationale."
+      ],
+      "publishedAt": "2026-11-02T19:27:54+00:00",
+      "updatedAt": "2026-11-02T19:27:54+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e76580564e068e93fef403f7b69d69c849c69860dd3474a841be0ae501c0ab8a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0151efdb4f4962bc59",
       "revision": 1,
       "category": "france",
@@ -1018,30 +1045,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
-    },
-    {
-      "id": "rss-366fdace47e009a7ad",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
-      "bullets": [
-        "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne…"
-      ],
-      "publishedAt": "2026-11-02T18:24:25+00:00",
-      "updatedAt": "2026-11-02T18:24:25+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1282a7d77ff8a3c6ae297b9fe5b03c9550a20ff97c80f61d74b40786619fee47",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-8cc88dbca5fbeb3538",
@@ -1150,7 +1153,7 @@
       ],
       "publishedAt": "2026-11-02T15:30:01+00:00",
       "updatedAt": "2026-11-02T15:30:01+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1174,7 +1177,7 @@
       ],
       "publishedAt": "2026-11-02T15:06:45+00:00",
       "updatedAt": "2026-11-02T15:06:45+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
