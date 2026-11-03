@@ -1,51 +1,135 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T07:26:19.745448+00:00",
+  "preparedAt": "2026-11-03T08:52:01.071286+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-6f7b11ca07f44836e7",
+      "id": "rss-184254e104d31b2a7d",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Négociations commerciales : l’absence des distributeurs à une réunion préparatoire jugée «paradoxale» et «contre-productive» par Bercy",
+      "title": "L'investissement en or des Européens dopé par la dette et l’inflation",
       "bullets": [
-        "Un mois avant le début officiel des négociations annuelles entre les grandes enseignes et leurs fournisseurs de grandes marques pour 2027, la situation reste tendue entre les différents maillons de la filière alimentaire.",
-        "Les industriels, qui dans certaines filières espèrent des hausses de prix de 8 à 10%, ont jusqu’au 1er décembre pour envoyer leurs conditions générales de ventes à leurs clients distributeurs.",
-        "D’ici là, le gouvernement prévoit d’autres réunions de suivi de ces négociations, sans qu’un calendrier précis n’ait encore été fixé."
+        "À l'échelle mondiale, les stocks d'or liés à des ETF ont augmenté de 211 tonnes sur la période, avec «des flux entrants records de 31 milliards de dollars» (environ 27,6 milliards d'euros), précise le rapport trimestriel du Conseil publié mardi.",
+        "Les investisseurs du Vieux Continent s'inquiètent particulièrement de la situation économique de la France, qui a vu son produit intérieur brut baisser de 0,1 % au troisième trimestre et le coût de son endettement fortement progresser.",
+        "À six mois de la présidentielle, la situation politique française est une source de préoccupation importante."
       ],
-      "publishedAt": "2026-11-02T20:38:32+00:00",
-      "updatedAt": "2026-11-02T20:38:32+00:00",
-      "importance": 87,
+      "publishedAt": "2026-11-03T07:40:42+00:00",
+      "updatedAt": "2026-11-03T07:40:42+00:00",
+      "importance": 99,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/negociations-commerciales-l-absence-des-distributeurs-a-une-reunion-preparatoire-jugee-paradoxale-et-contre-productive-par-bercy-20261102",
+          "url": "https://www.lefigaro.fr/conjoncture/l-investissement-en-or-des-europeens-dope-par-la-dette-et-l-inflation-20261103",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "812c127b8efdfe9270fc1be1d463c70336577063376ce3bcc1853d26806f5927",
+      "summaryInput": "5984ab6a34067c73cbf477ea51dda34027af4bb898d35361f361deb58ffb22c8",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-7082160cca5b079219",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Un chèque en blanc exorbitant» : des élus de gauche et associations contestent l’utilisation du livret A pour financer le nucléaire",
+      "bullets": [
+        "Dans son projet de budget 2027, le gouvernement prévoit de financer jusqu'à 60% de la construction des six nouveaux réacteurs EPR2 grâce à un prêt mobilisant l'épargne réglementée des Français, notamment celle du livret A, dans la limite de 60 milliards d'euros.",
+        "Les fonds qui y sont placés par les épargnants sont rémunérés à 1,7%.",
+        "Le principal article du dispositif, l'article 69 relatif à la garantie de l'État, doit être examiné mercredi en commission des finances, selon Maxime Laisney, qui redoute un recours au 49.3 pour faire adopter le budget sans vote."
+      ],
+      "publishedAt": "2026-11-03T08:23:24+00:00",
+      "updatedAt": "2026-11-03T08:23:24+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/un-cheque-en-blanc-exorbitant-des-elus-de-gauche-et-associations-contestent-l-utilisation-du-livret-a-pour-financer-le-nucleaire-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "e9c73b188ee2cce92305260dad50a7a9b6208f30b1676686707e3960d0402cd0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1e1f2ccd119b4ca6a5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "États-Unis : ces Américains que l'inflation a rendus pauvres",
+      "bullets": [
+        "À 45 ans, Angelica Garcia n'a jamais été aussi impatiente d'aller voter.",
+        "On doit donc se débrouiller autrement\", déplore-t-elle.\"Les prix de la nourriture sont beaucoup trop élevés\"C'est notamment le cas d'Oscar Ochoa, 65 ans, un ancien militaire aujourd'hui chauffeur de bus.",
+        "Avant les coupes de l'administration Trump dans les programmes d'aide alimentaire, 150 000 personnes venaient dans notre centre."
+      ],
+      "publishedAt": "2026-11-03T07:06:32+00:00",
+      "updatedAt": "2026-11-03T07:06:32+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/etats-unis-ces-americains-que-l-inflation-a-rendus-pauvres_8265332.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "85d6a8c2367b2d6b46e875529897579c60192558c673c69a296b590314f947a4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ae2a12c03c6f28ff76",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Au fond de l'Arctique, bientôt la guerre des câbles sous-marins ?",
+      "bullets": [
+        "\"Il sera considéré comme illégal\" : la ville de Pékin oblige les habitants à se débarrasser de leurs drones avant une interdiction totale mi-novembre",
+        "Carburants, les prix baissent enfin, mais pas partout",
+        "\"La petite martyre de l'A10\", le procès 40 ans après"
+      ],
+      "publishedAt": "2026-11-03T05:00:10+00:00",
+      "updatedAt": "2026-11-03T05:00:10+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/au-fond-de-l-arctique-bientot-la-guerre-des-cables-sous-marins_8264528.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "446ab1e208897686909c8823633094de9120fd90bd6db2b5a8ed986d94027ec3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
       "context": null
     },
     {
       "id": "rss-f2e964e0cc99ffff33",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "«On sera obligé de ne pas chauffer tous les jours» : face à la hausse des prix de l’énergie, les Français inquiets à l’approche de l’hiver",
       "bullets": [
         "Avec des prix du gaz et du fioul qui n’ont cessé de grimper ces derniers mois, les factures s’annoncent douloureuses cet hiver.",
-        "Près de neuf sur dix (86%) estiment que leurs dépenses énergétiques pèsent lourdement dans leur budget, selon une étude du Médiateur national de l’énergie."
+        "Près de neuf Français sur dix (86%) estiment que leurs dépenses énergétiques pèsent lourdement dans leur budget, selon une étude du Médiateur national de l’énergie."
       ],
-      "publishedAt": "2026-11-03T05:45:00+00:00",
-      "updatedAt": "2026-11-03T05:45:00+00:00",
+      "publishedAt": "2026-11-03T07:29:15+00:00",
+      "updatedAt": "2026-11-03T07:29:15+00:00",
       "importance": 77,
       "sources": [
         {
@@ -56,35 +140,8 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "2f1cce665df81784e205ef5459f21ed53ca612e7539241d02a7a4d7334b8f982",
+      "summaryInput": "757261ad91326ba83a8314058535ba7fb3cc48fe2dc34e29c6c3aa9092fc70b2",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a8d05b2a9b8ee31e59",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Prix du gazole : Emmanuel Macron salue des «solutions concrètes qui portent leurs fruits»",
-      "bullets": [
-        "Alors que le litre de gazole était en moyenne en milieu de semaine dernière à 2,38 euros/litre, il a reculé de près de 10 centimes par litre en moyenne à près de 2,29 euros le litre en moyenne, selon une analyse par l’AFP de données publiques portant sur 8642 stations.",
-        "Un dispositif mis en place «sans toucher aux taxes» et «sans démagogie» Cette mesure exceptionnelle a été décidée pour faire face à la flambée des prix des carburants causée par la guerre au Moyen-Orient déclenchée par les États-Unis et Israël fin février 2026."
-      ],
-      "publishedAt": "2026-11-02T20:33:21+00:00",
-      "updatedAt": "2026-11-02T20:33:21+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/prix-du-gazole-emmanuel-macron-salue-des-solutions-concretes-qui-portent-leurs-fruits-20261102",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "546b782c32313415d2050d8b27c7949914262a7a42a78864040725abbf2ed7bb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
     },
     {
       "id": "rss-09fea934fd6a3bb6e3",
@@ -144,8 +201,8 @@
         "Or, l'inflation est avérée à +3,4% sur les 12 derniers mois en octobre selon l'Insee, et prévue à +2,3% sur l'année par la Banque de France, relève l'Unsa dans un communiqué.",
         "Le syndicat demande une augmentation générale de 2,6% avec effet rétroactif au 1er juillet."
       ],
-      "publishedAt": "2026-11-03T05:59:06+00:00",
-      "updatedAt": "2026-11-03T05:59:06+00:00",
+      "publishedAt": "2026-11-03T07:35:03+00:00",
+      "updatedAt": "2026-11-03T07:35:03+00:00",
       "importance": 69,
       "sources": [
         {
@@ -159,6 +216,34 @@
       "summaryInput": "fbf7644232b9842f4fd1e3f6f18f0bd2f39495edc31371e3b9ab531e649fbd30",
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-bb8ec0cace81c2f192",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«La précarité énergétique augmente et freine la transition énergétique», alerte le Médiateur de l’énergie",
+      "bullets": [
+        "Plus d’un tiers a ainsi eu des difficultés à payer certaines factures énergétiques, contre 18% en 2020, selon les données du dernier baromètre Energie-info du Médiateur national de l’énergie, publié ce mardi.",
+        "Les moins de 35 ans sont particulièrement exposés, alors qu’ils sont aussi les plus nombreux à se dire favorables au passage à l’électrique, que cela concerne l’installation d’une pompe à chaleur ou l’achat d’une voiture à batteries.",
+        "En effet, 55% des moins de 35 ans ont du mal à payer leurs factures, contre 34% pour la moyenne des Français."
+      ],
+      "publishedAt": "2026-11-03T07:00:00+00:00",
+      "updatedAt": "2026-11-03T07:00:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/la-precarite-energetique-augmente-et-freine-la-transition-energetique-alerte-le-mediateur-de-l-energie-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "23d80bd5298e12123e86f5d2341a86117b27783dde39d3eb7e0791802badca30",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
       "context": null
     },
     {
@@ -218,106 +303,32 @@
       "context": null
     },
     {
-      "id": "rss-0f85e7f4f3e46cc212",
+      "id": "rss-0c7e136114eb501ac0",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
+      "title": "Carburants : la baisse du prix du gazole peut-elle durer ?",
       "bullets": [
-        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
+        "Dans l'Essonne, on trouve 2,13 euros le litre, soit moins 30 centimes en deux jours.",
+        "Résultat : en France, en moyenne, le litre de gazole est passé de 2,38 euros à 2,29 euros, soit neuf centimes de moins.",
+        "Avec 10 millions de barils libérés, le gouvernement prévoit que la baisse des prix du gazole durera trois mois."
       ],
-      "publishedAt": "2026-11-02T16:00:05+00:00",
-      "updatedAt": "2026-11-02T16:00:05+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1ee1b6d7ad45109b60",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Total, Leclerc, Système U… Où trouver le gazole le moins cher avec les baisses en ce début de semaine ?",
-      "bullets": [
-        "Mais au moment de payer, le sentiment reste amer : \"J'ai mis 80, presque 90 euros, ce qui est énorme.",
-        "Dans une station de la métropole lyonnaise, la ristourne est déjà affichée : moins 21 centimes par litre.",
-        "Mais pour un troisième : \"Tant qu'il ne passera pas en dessous de 2 euros, ça sera toujours trop cher, malgré tout.\"Ces remises, possibles grâce à la libération des stocks stratégiques vendus à des prix très attractifs, doivent durer trois mois."
-      ],
-      "publishedAt": "2026-11-02T14:36:25+00:00",
-      "updatedAt": "2026-11-02T14:36:25+00:00",
+      "publishedAt": "2026-11-02T20:00:17+00:00",
+      "updatedAt": "2026-11-02T20:00:17+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/total-leclerc-systeme-u-ou-trouver-le-gazole-le-moins-cher-avec-les-baisses-en-ce-debut-de-semaine_8264204.html",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "9cc185df512ee235660f0a7cfb2489ba47c4a10c1594a960fe186b88fb223906",
+      "summaryInput": "540f427264aa586e8a1e13ceeca21f6a9c2974d5ec3b9875630b8e91314b0028",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
       "context": null
-    },
-    {
-      "id": "rss-57aaef840b8c07f43c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Libération des stocks de gazole : y a-t-il déjà un effet sur les prix à la pompe ?",
-      "bullets": [
-        "Annoncé début octobre par Sébastien Lecornu pour faire baisser le prix du diesel, le déstockage de barils de gazole des stocks stratégiques français a commencé dimanche 1er novembre.",
-        "Le gouvernement escompte un recul de 12 à 18 centimes par litre."
-      ],
-      "publishedAt": "2026-11-02T12:57:52+00:00",
-      "updatedAt": "2026-11-02T12:57:52+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/liberation-des-stocks-de-gazole-y-a-t-il-deja-un-effet-sur-les-prix-a-la-pompe-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ae8939493cc03966e76787e89f1610a8c5f99a64bb5ccf3666325b1a213d6c01",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b9e2a2cd93aa142d19",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En réponse à la casse et aux pillages lors des manifestations du 17 octobre, le gouvernement veut faciliter l’ouverture des commerces le dimanche",
-      "bullets": [
-        "Les maires ont déjà la main sur l’ouverture des commerces douze dimanches par an, et les préfets peuvent autoriser trois ouvertures dominicales dérogatoires de plus, sans consulter les partenaires sociaux.",
-        "Selon le ministre du commerce, « 3 000 magasins » ont été touchés par des violences le 17 octobre et…"
-      ],
-      "publishedAt": "2026-11-02T11:47:51+00:00",
-      "updatedAt": "2026-11-02T11:47:51+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/02/en-reponse-aux-commercants-eprouves-par-les-violences-du-17-octobre-le-gouvernement-demande-aux-prefets-de-faciliter-l-ouverture-des-commerces-le-dimanche_6805243_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0343661d711fddca31a21beb1980c2ee2ae62689f5f318b928a46eeec396bc6d",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-f331e534fbdc08d9d2",
@@ -358,9 +369,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T07:26:21+00:00",
-      "updatedAt": "2026-11-03T07:26:21+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-03T08:50:09+00:00",
+      "updatedAt": "2026-11-03T08:50:09+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -376,32 +387,28 @@
       "context": null
     },
     {
-      "id": "rss-d447ee323e7a4a6d4e",
-      "revision": 2,
+      "id": "rss-b0bbc5a881a6ec1ecb",
+      "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Un coup de téléphone de Trump fait décrocher les cours du pétrole, propulsant le CAC 40 au-dessus des 8.000 points",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.62%",
       "bullets": [
-        "Son indice parisien, le CAC 40 progresse de 0,98% à 8.047,69 points, ce lundi 2 novembre.",
-        "Le prix du baril de Brent de la mer du Nord, pour livraison en janvier, dont c'est le premier jour d'utilisation comme contrat de référence, chute de 7,6%, à 104,85 dollars.",
-        "Son équivalent américain, le baril de West Texas Intermediate (WTI), pour livraison en décembre, recule pour sa part de 7%, à 96,79 dollars."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-062-1173011.html"
       ],
-      "publishedAt": "2026-11-02T16:46:14+00:00",
-      "updatedAt": "2026-11-02T16:46:14+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "updatedAt": "2026-11-03T08:00:00+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-un-coup-de-telephone-de-trump-fait-decrocher-les-cours-du-petrole-propulsant-le-cac-40-au-dessus-des-8000-points-1172977.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-062-1173011.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "8fe4e17d89da199f6e84c17fb47247741b65cedeeb6e9f393510b81633c923cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "915b017830f1b2f1a7a76f204ac0844c788083fb5f4c55b4b21c331c5c34fd59",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d7c4ea8172ac4564f0",
@@ -547,7 +554,7 @@
       ],
       "publishedAt": "2026-11-02T20:37:22+00:00",
       "updatedAt": "2026-11-02T20:37:22+00:00",
-      "importance": 87,
+      "importance": 86,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -573,7 +580,7 @@
       ],
       "publishedAt": "2026-11-01T19:30:00+00:00",
       "updatedAt": "2026-11-01T19:30:00+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -587,34 +594,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1e1f2ccd119b4ca6a5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "États-Unis : ces Américains que l'inflation a rendus pauvres",
-      "bullets": [
-        "À 45 ans, Angelica Garcia n'a jamais été aussi impatiente d'aller voter.",
-        "On doit donc se débrouiller autrement\", déplore-t-elle.\"Les prix de la nourriture sont beaucoup trop élevés\"C'est notamment le cas d'Oscar Ochoa, 65 ans, un ancien militaire aujourd'hui chauffeur de bus.",
-        "Avant les coupes de l'administration Trump dans les programmes d'aide alimentaire, 150 000 personnes venaient dans notre centre."
-      ],
-      "publishedAt": "2026-11-03T07:06:32+00:00",
-      "updatedAt": "2026-11-03T07:06:32+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/etats-unis-ces-americains-que-l-inflation-a-rendus-pauvres_8265332.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "85d6a8c2367b2d6b46e875529897579c60192558c673c69a296b590314f947a4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0561777047d3e189ce",
       "revision": 1,
       "category": "world",
@@ -625,8 +604,8 @@
         "J'ai dû tout vider, c'est la pire des choses qu'on peut rencontrer dans notre métier.",
         "On perd toute notre marchandise et on ne peut pas servir notre client, donc on a envie de pleurer\", confie Diego Louwers, gérant d'un supermarché belge."
       ],
-      "publishedAt": "2026-11-03T06:44:58+00:00",
-      "updatedAt": "2026-11-03T06:44:58+00:00",
+      "publishedAt": "2026-11-03T07:32:03+00:00",
+      "updatedAt": "2026-11-03T07:32:03+00:00",
       "importance": 79,
       "sources": [
         {
@@ -637,37 +616,9 @@
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "bcfba4d174ed9fe1d5fff6afe7ed87487e9fecc2ed04a23759026b6a8c55d183",
+      "summaryInput": "280ae9716e54eab6d00c833c5d4897c4a326d77e3835b449d02d999878683af0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ae2a12c03c6f28ff76",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au fond de l'Arctique, bientôt la guerre des câbles sous-marins ?",
-      "bullets": [
-        "\"Il sera considéré comme illégal\" : la ville de Pékin oblige les habitants à se débarrasser de leurs drones avant une interdiction totale mi-novembre",
-        "Carburants, les prix baissent enfin, mais pas partout",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
-      ],
-      "publishedAt": "2026-11-03T05:00:10+00:00",
-      "updatedAt": "2026-11-03T05:00:10+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/au-fond-de-l-arctique-bientot-la-guerre-des-cables-sous-marins_8264528.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "446ab1e208897686909c8823633094de9120fd90bd6db2b5a8ed986d94027ec3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
       "context": null
     },
     {
@@ -706,7 +657,7 @@
       ],
       "publishedAt": "2026-11-02T19:49:50+00:00",
       "updatedAt": "2026-11-02T19:49:50+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -744,34 +695,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-50186d78a3f11c1a49",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "MIDTERMS : c'est quoi ces élections aux Etats-Unis ?",
-      "bullets": [
-        "Ces autres sujets sur lesquels les Américains votent lors des midterms 2026",
-        "Carburants, les prix baissent enfin, mais pas partout",
-        "\"La petite martyre de l'A10\", le procès 40 ans après"
-      ],
-      "publishedAt": "2026-11-03T05:41:16+00:00",
-      "updatedAt": "2026-11-03T05:41:16+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-c-est-quoi-c-est-elections-aux-etats-unis_8263877.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "c05295cd49423178d5b9f527d0a2c7c9c0a9f08038ab4161c32990a56c5c5345",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T06:04:24.465678+00:00",
-      "context": null
-    },
-    {
       "id": "rss-b307754e22ae30d022",
       "revision": 1,
       "category": "world",
@@ -800,6 +723,79 @@
       "context": null
     },
     {
+      "id": "rss-06c40fc66d20465526",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Nous devons nous préparer à absolument tout » : aux États-Unis, l’inquiétude des démocrates après les menaces de Donald Trump sur les midterms",
+      "bullets": [
+        "RÉCIT - Des militants accusent le président américain de dévoyer le système électoral à son avantage et de vouloir contester le résultat de l’élection en cas de défaite."
+      ],
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "updatedAt": "2026-11-03T05:00:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/nous-devons-nous-preparer-a-absolument-tout-aux-etats-unis-l-inquietude-des-democrates-apres-les-menaces-de-donald-trump-sur-les-midterms-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "05135a9f5e245e9452388621a99ea798046a032c9bbda247c2a7361b75eb05f3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e2b00cd9a19a3c3367",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Seth Masket, politologue américain : « Les midterms sont plus que jamais des élections sur Donald Trump »",
+      "bullets": [
+        "Avant les élections de mi-mandat aux Etats-Unis, mardi, le professeur à l’université de Denver assure, dans un entretien au « Monde », qu’une victoire des démocrates n’affaiblirait pas l’emprise de Donald Trump sur le Parti républicain."
+      ],
+      "publishedAt": "2026-11-03T04:15:03+00:00",
+      "updatedAt": "2026-11-03T04:15:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/03/seth-masket-politologue-americain-les-midterms-sont-plus-que-jamais-des-elections-sur-donald-trump_6805527_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "464de2cb4e03353ac69b60788c4f8b13e0cee2cfefe52fec6da311635246a6a8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1cfe15fc629490828f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dans l’est de la République démocratique du Congo, l’intérêt de Washington passe par la paix avec le Rwanda",
+      "bullets": [
+        "REPORTAGE - Les États-Unis soutiennent la RDC, dont le sous-sol est riche en métaux comme le cuivre et le cobalt, dans son interminable guerre indirecte avec son voisin rwandais.",
+        "Lequel parraine la tentative de retour de l’ancien président Joseph Kabila."
+      ],
+      "publishedAt": "2026-11-01T16:01:17+00:00",
+      "updatedAt": "2026-11-01T16:01:17+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-l-est-de-la-republique-democratique-du-congo-l-interet-de-washington-passe-par-la-paix-avec-le-rwanda-20261101",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9544489b2a6055a33f61d2b39404a2472f923472aa866f16327c5c8f7f788860",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-66ea7a8d5d9c72c190",
       "revision": 1,
       "category": "france",
@@ -824,27 +820,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-60c4413c925b4c548b",
+      "id": "rss-3b4766e2a689c7f562",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le journaliste Arthur Sarradin, prix Albert Londres, alerte sur une « précarité intenable » des reporters à l’étranger",
+      "title": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
       "bullets": [
-        "« Ici, à Radio France, on est payés par exemple 100 euros pour un reportage de guerre » et « on n’est pas assurés, on doit payer nous-mêmes nos gilets pare-balles », a souligné le journaliste de 26 ans sur le réseau social X."
+        "« La répression, elle n’existe pas (…).",
+        "Nous, on est là pour éviter les troubles à l’ordre public », a déclaré le ministre de l’intérieur, lundi, devant la commission des lois de l’Assemblée nationale."
       ],
-      "publishedAt": "2026-11-02T14:29:13+00:00",
-      "updatedAt": "2026-11-02T14:29:13+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-02T19:27:54+00:00",
+      "updatedAt": "2026-11-02T19:27:54+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/le-journaliste-arthur-sarradin-prix-albert-londres-alerte-sur-une-precarite-intenable-des-reporters-a-l-etranger_6805267_3236.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "93e397fb8ea8b6a118662b4247efd3cd37fc9d72c4f17df016e018b3adfbfa04",
+      "summaryInput": "e76580564e068e93fef403f7b69d69c849c69860dd3474a841be0ae501c0ab8a",
       "detailLevel": "preview"
     },
     {
@@ -872,31 +869,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d93c096c1edc728687",
+      "id": "rss-7317954c8a19ed8960",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "\"Des fois, j'ai des trous de mémoire\" : au premier jour de leur procès, l'état de santé des parents de la \"martyre de l'A10\" au cœur des débats",
+      "title": "Yuka et Que Choisir Ensemble dénoncent les mentions \"trompeuses\" \"sans conservateur, sans colorant\" de certaines marques",
       "bullets": [
-        "Halima El Bakhti et Ahmed Touloub, respectivement 72 et 74 ans, font face, lundi 2 novembre, à la cour d'assises du Loir-et-Cher, trente-neuf ans après la mort de leur fille Inass, qu'ils ont abandonnée le long de l'autoroute A10 en août 1987.",
-        "Dans le public, une rangée de cinq femmes, venues assister à l'audience, oscillent entre tristesse, dégoût et gêne, en écoutant les déclarations des époux lors de leurs gardes à vue, en juin 2018, puis au cours de leurs interrogatoires successifs.",
-        "Le médecin estime que \"son état de santé est compatible avec sa comparution\"."
+        "Que Choisir Ensemble et Yuka demandent donc le retrait de ces mentions qui induisent les consommateurs en erreur, qualifiées d’additive washing, en référence au green washing, cette pratique commerciale consistant à mettre en avant des faux arguments écologiques.",
+        "Des produits ultratransformés mis en cause\"Ce sont des produits du quotidien, que tout le monde peut acheter\", alerte Zoé Kerlo, ingénieure en toxicologie chez Yuka, mardi sur ICI Paris Île-de-France.",
+        "\"Nous demandons également que les résultats en soient rendus publics, y compris le nom des marques concernées\", précise l'enquête."
       ],
-      "publishedAt": "2026-11-03T07:23:11+00:00",
-      "updatedAt": "2026-11-03T07:23:11+00:00",
+      "publishedAt": "2026-11-03T07:46:59+00:00",
+      "updatedAt": "2026-11-03T07:46:59+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/des-fois-j-ai-des-trous-de-memoire-au-premier-jour-de-leur-proces-l-etat-de-sante-des-parents-de-la-martyre-de-l-a10-au-c-ur-des-debats_8264537.html",
+          "url": "https://www.franceinfo.fr/sante/yuka-et-que-choisir-ensemble-denoncent-les-mentions-trompeuses-sans-conservateur-sans-colorant-de-certaines-marques_8265215.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "1ce09e2f0cbf047ce1d3c9c5c57b3049cf26f5b4642c88a94621a3c724c36e27",
+      "summaryInput": "d972da4451dcde3a76927ee15de2330f8aac0daa004b2aba2fedc166a13a1ca6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T07:26:19.745448+00:00",
+      "enrichedAt": "2026-11-03T08:52:01.071286+00:00",
       "context": null
     },
     {
@@ -1010,8 +1007,8 @@
       "bullets": [
         "La colère des lycéens s’explique notamment par le fait qu’une large partie du budget de l’éducation nationale est consacrée au paiement des pensions des anciens fonctionnaires et ne leur revient donc pas, explique, dans une tribune au « Monde », le directeur associatif Alexandre Lourié."
       ],
-      "publishedAt": "2026-11-02T13:00:07+00:00",
-      "updatedAt": "2026-11-02T13:00:07+00:00",
+      "publishedAt": "2026-11-02T13:00:04+00:00",
+      "updatedAt": "2026-11-02T13:00:04+00:00",
       "importance": 84,
       "sources": [
         {
@@ -1026,57 +1023,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3b4766e2a689c7f562",
+      "id": "rss-366fdace47e009a7ad",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
+      "topic": "Société",
+      "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
       "bullets": [
-        "« La répression, elle n’existe pas (…).",
-        "Nous, on est là pour éviter les troubles à l’ordre public », a déclaré le ministre de l’intérieur, lundi, devant la commission des lois de l’Assemblée nationale."
+        "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne…"
       ],
-      "publishedAt": "2026-11-02T19:27:54+00:00",
-      "updatedAt": "2026-11-02T19:27:54+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-02T18:24:25+00:00",
+      "updatedAt": "2026-11-02T18:24:25+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "e76580564e068e93fef403f7b69d69c849c69860dd3474a841be0ae501c0ab8a",
+      "summaryInput": "56dd642bf9efcf523e440c7c0a99581811281c6ee13c71b150d8493b7366e2ae",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0151efdb4f4962bc59",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Une pétition appelant à fermer la chaîne CNews dépasse 600 000 signatures sur le site de l'Assemblée nationale, dépassant largement seuil requis pour un possible débat",
-      "bullets": [
-        "Une pétition sur le site de l'Assemblée nationale appelant à \"supprimer CNews de l'audiovisuel français\" a recueilli plus de 600 000 signatures, lundi 2 novembre.",
-        "Selon le règlement de l'Assemblée, un débat dans l'hémicycle peut être organisé sur un rapport relatif à une pétition lorsqu'elle dépasse les 500 000 signatures.",
-        "Une précédente pétition contre la loi sur la présomption d'usage légitime des armes par les forces de l'ordre avait ainsi largement dépassé la barre des 500 000 signatures mais a été classée par les députés membres de la commission des lois en juillet."
-      ],
-      "publishedAt": "2026-11-02T18:36:35+00:00",
-      "updatedAt": "2026-11-02T18:36:35+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/une-petition-appelant-a-fermer-cnews-depasse-500-000-signatures-sur-le-site-de-l-assemblee-nationale-seuil-requis-pour-un-possible-debat_8264006.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "70ccdf2a218590d74be9ee973fa609c494d27546d5050318924e8a9511ec2bf3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
     },
     {
       "id": "rss-8cc88dbca5fbeb3538",
@@ -1103,6 +1071,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a94ef24fa9eda6b7f8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "CNews : une pétition appelant à fermer la chaîne dépasse 600 000 signatures, ouvrant la voie à un débat à l’Assemblée nationale",
+      "bullets": [
+        "Selon le règlement de l’Assemblée, un débat dans l’hémicycle autour d’une pétition peut être organisé passé le cap des 500 000 signataires provenant de 30 départements différents.",
+        "Mais une commission doit d’abord décider de la classer ou de l’examiner."
+      ],
+      "publishedAt": "2026-11-02T18:04:50+00:00",
+      "updatedAt": "2026-11-02T18:04:50+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-600-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3237.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "38bbdd39ab15198debb7a7f46127613c4ba3316764208ebde06b5361385d9694",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-54b958415d161c193b",
       "revision": 1,
       "category": "france",
@@ -1124,6 +1117,30 @@
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-60c4413c925b4c548b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le journaliste Arthur Sarradin, prix Albert Londres, alerte sur une « précarité intenable » des reporters à l’étranger",
+      "bullets": [
+        "« Ici, à Radio France, on est payés par exemple 100 euros pour un reportage de guerre » et « on n’est pas assurés, on doit payer nous-mêmes nos gilets pare-balles », a souligné le journaliste de 26 ans sur le réseau social X."
+      ],
+      "publishedAt": "2026-11-02T14:29:13+00:00",
+      "updatedAt": "2026-11-02T14:29:13+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/le-journaliste-arthur-sarradin-prix-albert-londres-alerte-sur-une-precarite-intenable-des-reporters-a-l-etranger_6805267_3236.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "93e397fb8ea8b6a118662b4247efd3cd37fc9d72c4f17df016e018b3adfbfa04",
       "detailLevel": "preview"
     },
     {
@@ -1172,30 +1189,6 @@
       ],
       "verifiedAt": "2026-11-02",
       "note": "Éléments publics de la page d’accueil consultée le 2 novembre. Le lien mène à cette page ; le bilan peut évoluer."
-    },
-    {
-      "id": "rss-721f4d022ad5ce4b54",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« L’“auteur” d’un livre écrit par IA n’a pas fait l’effort d’aller chercher son œuvre là où elle se trouve : en lui-même »",
-      "bullets": [
-        "Le prix littéraire Pascal, qui prend le nom du philosophe du XVIIᵉ siècle, confond le calcul avec la fabrique d’une œuvre d’art, car une machine n’éprouve pas le besoin d’écrire, estime l’écrivain Jean de Saint-Cheron, dans une tribune au « Monde »."
-      ],
-      "publishedAt": "2026-11-02T15:30:01+00:00",
-      "updatedAt": "2026-11-02T15:30:01+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/l-auteur-d-un-livre-ecrit-par-ia-n-a-pas-fait-l-effort-d-aller-chercher-son-uvre-la-ou-elle-se-trouve-en-lui-meme_6805276_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "713227d309bd49bf312f575423676acf7bd71240454588fe58cc06ed5a63e4be",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1209,7 +1202,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1221,7 +1214,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1233,13 +1226,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1275,7 +1268,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Monde",
