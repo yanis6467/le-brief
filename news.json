@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-02T23:47:24.633671+00:00",
+  "preparedAt": "2026-11-03T01:17:34.630326+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -27,7 +27,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "812c127b8efdfe9270fc1be1d463c70336577063376ce3bcc1853d26806f5927",
       "detailLevel": "article",
@@ -55,7 +55,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "081873e1247e3512ec02c57526babc7183504105ce8bd5783a7e06c1a6a8f38d",
       "detailLevel": "article",
@@ -81,7 +81,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "6b154e4f843988fa017e8609fc3449953903a6eb875cfc7306b5b2edf08a2cd5",
       "detailLevel": "preview"
@@ -106,7 +106,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "546b782c32313415d2050d8b27c7949914262a7a42a78864040725abbf2ed7bb",
       "detailLevel": "article",
@@ -134,7 +134,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "e3834e825b6a5a26e622f533a178c5c72219e5822a4c5101db44294f301706cb",
       "detailLevel": "article",
@@ -160,7 +160,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "d4d36493819f73e3c5fc9df8f92c3ac1b50e07cf426c05618d3039473b6cb699",
       "detailLevel": "preview"
@@ -178,7 +178,7 @@
       ],
       "publishedAt": "2026-10-30",
       "updatedAt": "2026-10-30",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Insee",
@@ -209,7 +209,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "fc16f3dcd097513a18a88c2c7dc6a40bac79c1114c528b565585932837b9d267",
       "detailLevel": "article",
@@ -235,10 +235,38 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "c474aff1c80782d751790534cf9bd97ee733be711b7fdf90a0d6ce4a4dcb2bc3",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0c7e136114eb501ac0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+      "bullets": [
+        "Dans l'Essonne, on trouve 2,13 euros le litre, soit moins 30 centimes en deux jours.",
+        "Résultat : en France, en moyenne, le litre de gazole est passé de 2,38 euros à 2,29 euros, soit neuf centimes de moins.",
+        "Avec 10 millions de barils libérés, le gouvernement prévoit que la baisse des prix du gazole durera trois mois."
+      ],
+      "publishedAt": "2026-11-02T20:00:17+00:00",
+      "updatedAt": "2026-11-02T20:00:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "540f427264aa586e8a1e13ceeca21f6a9c2974d5ec3b9875630b8e91314b0028",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T01:17:34.630326+00:00",
+      "context": null
     },
     {
       "id": "rss-21a779628f29f86cca",
@@ -260,7 +288,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "3444ee0b31909f89ba2cac7905e5f59f5bc3de279e8e762d73c18c3071e55dd2",
       "detailLevel": "article",
@@ -287,36 +315,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "418417c4d18bb29b88ff848757f2f52621fca0dce495cea0c57cfc44a1d80933",
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0f85e7f4f3e46cc212",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
-      "bullets": [
-        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
-      ],
-      "publishedAt": "2026-11-02T16:00:05+00:00",
-      "updatedAt": "2026-11-02T16:00:05+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-02",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-f331e534fbdc08d9d2",
@@ -339,7 +343,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "62c426e0d9732d258271aed75f553293f05886e88ad70dc92a58f044525b3187",
       "detailLevel": "article",
@@ -357,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-02T23:43:30+00:00",
-      "updatedAt": "2026-11-02T23:43:30+00:00",
+      "publishedAt": "2026-11-03T01:16:52+00:00",
+      "updatedAt": "2026-11-03T01:16:52+00:00",
       "importance": 69,
       "sources": [
         {
@@ -367,7 +371,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -395,7 +399,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "8fe4e17d89da199f6e84c17fb47247741b65cedeeb6e9f393510b81633c923cf",
       "detailLevel": "article",
@@ -423,7 +427,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "5c0e7339c44402657b39e472d811effbd390501a3642ccc431402a51dd09f669",
       "detailLevel": "article",
@@ -451,7 +455,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "74e6cf7d0974f52047fd4ab4848387daac82681d348e0d3d9d7987343ef14b94",
       "detailLevel": "article",
@@ -471,7 +475,7 @@
       ],
       "publishedAt": "2026-11-02",
       "updatedAt": "2026-11-02",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Reuters · reprise Yahoo Finance",
@@ -502,7 +506,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "1c647e4f38aca833227df4c87cdff0628ac2224b13e38e1615bcaeebdf3fd1c3",
       "detailLevel": "article",
@@ -530,7 +534,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "68e2645d3315d28884ab3d46189cb837f83446eade426440d7802c0f17e5700f",
       "detailLevel": "article",
@@ -556,7 +560,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "26a9bdb282685073d489b21c92b94383cd50ad4c68859b76d09ae8bc0c92ff78",
       "detailLevel": "preview"
@@ -581,7 +585,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "1e5d861ecfb76a0d31e456ec85246eb7cfbceb893fcebdabccf3a679ccf302ee",
       "detailLevel": "preview"
@@ -605,7 +609,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "40d8aba0907599cb3172cce23309ee7e06bdd622e64afe526b1ba3830702da40",
       "detailLevel": "preview"
@@ -630,33 +634,10 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "9c55c19d0b08aaf4d2f5ff313e0c5f4fb04f1fe05c0916078d09c20e98252bdd",
       "detailLevel": "preview"
-    },
-    {
-      "id": "europe-cyber-froid",
-      "revision": 1,
-      "category": "world",
-      "topic": "Europe · cybersécurité",
-      "title": "Plusieurs supermarchés européens subissent des cyberattaques visant leurs réfrigérateurs et congélateurs.",
-      "bullets": [
-        "Le Monde rapporte des attaques contre les équipements de conservation au froid de plusieurs magasins.",
-        "La fiche ne conclut pas à une origine commune ou à un auteur identifié sans confirmation accessible."
-      ],
-      "publishedAt": "2026-11-02",
-      "updatedAt": "2026-11-02",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-02",
-      "note": "Les informations publiques sont limitées : cette fiche reste volontairement courte."
     },
     {
       "id": "rss-50186d78a3f11c1a49",
@@ -679,7 +660,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "3a07c6cc06c000ce004812c6c710a78665de16a9441a07c2c274ebaae018e4db",
       "detailLevel": "article",
@@ -706,7 +687,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "964c5f6513e9edeaee6239de2b48a5ddba650579416162ac217d56ef8ec3e2ad",
       "detailLevel": "preview"
@@ -732,7 +713,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "7c68768ae4996fc8ce6997cfc44aa0992ae1cc80b6f6ba47f8347c10830219da",
       "detailLevel": "article",
@@ -759,7 +740,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "27b559bba48f6be25c46e3d4dc6f02f76e6b1c2fb927a77b30a77d6ae019466a",
       "detailLevel": "preview"
@@ -785,12 +766,35 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "48ae8cb978a6291ff9531fe3bec4679f2c589f18a8886f1ec242a7cbfc23ebf0",
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
+    },
+    {
+      "id": "europe-cyber-froid",
+      "revision": 1,
+      "category": "world",
+      "topic": "Europe · cybersécurité",
+      "title": "Plusieurs supermarchés européens subissent des cyberattaques visant leurs réfrigérateurs et congélateurs.",
+      "bullets": [
+        "Le Monde rapporte des attaques contre les équipements de conservation au froid de plusieurs magasins.",
+        "La fiche ne conclut pas à une origine commune ou à un auteur identifié sans confirmation accessible."
+      ],
+      "publishedAt": "2026-11-02",
+      "updatedAt": "2026-11-02",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-02",
+      "note": "Les informations publiques sont limitées : cette fiche reste volontairement courte."
     },
     {
       "id": "rss-3b4766e2a689c7f562",
@@ -812,7 +816,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "e76580564e068e93fef403f7b69d69c849c69860dd3474a841be0ae501c0ab8a",
       "detailLevel": "preview"
@@ -836,7 +840,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "57e5c103b9fff0e063eaf2303e1f52fc3bd3d187d135ed83501d6db01476844d",
       "detailLevel": "preview"
@@ -860,7 +864,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "356e1b5cbda9cda7c2926e94e0246834aae450d33962a276f29d7b1429cb769e",
       "detailLevel": "preview"
@@ -886,7 +890,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "98c93a119fbc9915e7902d8f7b43f415b2035706054fdd654eec12438dcfdef7",
       "detailLevel": "article",
@@ -912,7 +916,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "8769118a9ad1a0aa2ce8b9f37031c86e7e3e4cb66b1b0ec82070e1ec87e1b30f",
       "detailLevel": "preview"
@@ -938,7 +942,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "0c59e177349e3a633b6eab4730adbf9362fe32ade8450fabf0e9a1497648b433",
       "detailLevel": "article",
@@ -956,7 +960,7 @@
       ],
       "publishedAt": "2026-11-02T13:16:28+00:00",
       "updatedAt": "2026-11-02T13:16:28+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -964,7 +968,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "2ff188c92f348846c5db192eb18d3220a7001cad0ceb38f58b722d7f9be20fbd",
       "detailLevel": "preview"
@@ -980,7 +984,7 @@
       ],
       "publishedAt": "2026-11-02T13:00:07+00:00",
       "updatedAt": "2026-11-02T13:00:07+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -988,7 +992,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "37fc9fd9a9126e4bf074a8fe7d9aa00b746e709f249d74ff873d98335e25d3c8",
       "detailLevel": "preview"
@@ -1014,7 +1018,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "70ccdf2a218590d74be9ee973fa609c494d27546d5050318924e8a9511ec2bf3",
       "detailLevel": "article",
@@ -1040,7 +1044,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "1282a7d77ff8a3c6ae297b9fe5b03c9550a20ff97c80f61d74b40786619fee47",
       "detailLevel": "preview"
@@ -1064,7 +1068,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
       "detailLevel": "preview"
@@ -1089,7 +1093,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "8959406fffaa5ee6c70c39a078cfaccc9cfb81e8b7a56c1774c836858d8ad46f",
       "detailLevel": "preview"
@@ -1113,7 +1117,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
@@ -1130,7 +1134,7 @@
       ],
       "publishedAt": "2026-11-02",
       "updatedAt": "2026-11-02",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1160,7 +1164,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "713227d309bd49bf312f575423676acf7bd71240454588fe58cc06ed5a63e4be",
       "detailLevel": "preview"
@@ -1186,7 +1190,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
       "summaryInput": "c0e6ef9f898ab12ff67f197351cdf80c41778d567f5331e04d5fb5add8c5ddf9",
       "detailLevel": "article",
