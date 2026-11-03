@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-03",
-  "preparedAt": "2026-11-03T04:02:34.352397+00:00",
+  "preparedAt": "2026-11-03T05:05:45.929333+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -47,7 +47,7 @@
       ],
       "publishedAt": "2026-11-02T16:25:00+00:00",
       "updatedAt": "2026-11-02T16:25:00+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -61,30 +61,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
-    },
-    {
-      "id": "rss-e4cb4b1d9e4ae9ed32",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions",
-      "bullets": [
-        "Outre-Rhin, le virage stratégique de l’armée en faveur d’un réarmement de sa marine a favorisé l’émergence de deux « champions » nationaux de la construction de navires de guerre, TKMS et Rheinmetall, à l’offensive à l’international."
-      ],
-      "publishedAt": "2026-11-02T06:00:00+00:00",
-      "updatedAt": "2026-11-02T06:00:00+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/02/industrie-navale-militaire-l-allemagne-affiche-ses-nouvelles-ambitions_6805019_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6b154e4f843988fa017e8609fc3449953903a6eb875cfc7306b5b2edf08a2cd5",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-a8d05b2a9b8ee31e59",
@@ -189,34 +165,6 @@
       "verifiedAt": "2026-11-02"
     },
     {
-      "id": "rss-6f01f98f204dd45961",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Inflation : \"La proportion de Français qui ressentent cette baisse de pouvoir d'achat est très forte\", affirme l'économiste Pascale Hébel",
-      "bullets": [
-        "Ça va faire à peu près 8% de baisse.",
-        "Tout à fait, l'enchaînement de deux années… Alors c'est vrai qu'en 2012 ça a été beaucoup plus fort, la baisse du pouvoir d'achat, mais là ce sont deux années consécutives d'une baisse de 0,4%, 0,5% sans doute en 2026.",
-        "On a des productions agricoles qui ont baissé de 30%."
-      ],
-      "publishedAt": "2026-11-02T09:01:50+00:00",
-      "updatedAt": "2026-11-02T09:01:50+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/inflation-la-proportion-de-francais-qui-ressentent-cette-baisse-de-pouvoir-d-achat-est-tres-forte-affirme-l-economiste-pascale-hebel_8263667.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "fc16f3dcd097513a18a88c2c7dc6a40bac79c1114c528b565585932837b9d267",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
-      "context": null
-    },
-    {
       "id": "rss-6069f64744f8e32f9e",
       "revision": 1,
       "category": "eco",
@@ -227,7 +175,7 @@
       ],
       "publishedAt": "2026-11-02T16:27:32+00:00",
       "updatedAt": "2026-11-02T16:27:32+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -239,34 +187,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "c474aff1c80782d751790534cf9bd97ee733be711b7fdf90a0d6ce4a4dcb2bc3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0c7e136114eb501ac0",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Carburants : la baisse du prix du gazole peut-elle durer ?",
-      "bullets": [
-        "Dans l'Essonne, on trouve 2,13 euros le litre, soit moins 30 centimes en deux jours.",
-        "Résultat : en France, en moyenne, le litre de gazole est passé de 2,38 euros à 2,29 euros, soit neuf centimes de moins.",
-        "Avec 10 millions de barils libérés, le gouvernement prévoit que la baisse des prix du gazole durera trois mois."
-      ],
-      "publishedAt": "2026-11-02T20:00:17+00:00",
-      "updatedAt": "2026-11-02T20:00:17+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "article-extract",
-      "summaryInput": "540f427264aa586e8a1e13ceeca21f6a9c2974d5ec3b9875630b8e91314b0028",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T04:02:34.352397+00:00",
-      "context": null
     },
     {
       "id": "rss-21a779628f29f86cca",
@@ -307,7 +227,7 @@
       ],
       "publishedAt": "2026-11-02T16:54:44+00:00",
       "updatedAt": "2026-11-02T16:54:44+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -321,6 +241,83 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
+    },
+    {
+      "id": "rss-0f85e7f4f3e46cc212",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
+      "bullets": [
+        "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des…"
+      ],
+      "publishedAt": "2026-11-02T16:00:05+00:00",
+      "updatedAt": "2026-11-02T16:00:05+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ee724e1c7a7c7ed1ce49ffb85ef2aa169dba36fc2210853f561a8071a1c68715",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1ee1b6d7ad45109b60",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Total, Leclerc, Système U… Où trouver le gazole le moins cher avec les baisses en ce début de semaine ?",
+      "bullets": [
+        "Mais au moment de payer, le sentiment reste amer : \"J'ai mis 80, presque 90 euros, ce qui est énorme.",
+        "Dans une station de la métropole lyonnaise, la ristourne est déjà affichée : moins 21 centimes par litre.",
+        "Mais pour un troisième : \"Tant qu'il ne passera pas en dessous de 2 euros, ça sera toujours trop cher, malgré tout.\"Ces remises, possibles grâce à la libération des stocks stratégiques vendus à des prix très attractifs, doivent durer trois mois."
+      ],
+      "publishedAt": "2026-11-02T14:36:25+00:00",
+      "updatedAt": "2026-11-02T14:36:25+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/total-leclerc-systeme-u-ou-trouver-le-gazole-le-moins-cher-avec-les-baisses-en-ce-debut-de-semaine_8264204.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "9cc185df512ee235660f0a7cfb2489ba47c4a10c1594a960fe186b88fb223906",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-57aaef840b8c07f43c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Libération des stocks de gazole : y a-t-il déjà un effet sur les prix à la pompe ?",
+      "bullets": [
+        "Annoncé début octobre par Sébastien Lecornu pour faire baisser le prix du diesel, le déstockage de barils de gazole des stocks stratégiques français a commencé dimanche 1er novembre.",
+        "Le gouvernement escompte un recul de 12 à 18 centimes par litre."
+      ],
+      "publishedAt": "2026-11-02T12:57:52+00:00",
+      "updatedAt": "2026-11-02T12:57:52+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/liberation-des-stocks-de-gazole-y-a-t-il-deja-un-effet-sur-les-prix-a-la-pompe-20261102",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ae8939493cc03966e76787e89f1610a8c5f99a64bb5ccf3666325b1a213d6c01",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-f331e534fbdc08d9d2",
@@ -361,8 +358,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-03T03:59:06+00:00",
-      "updatedAt": "2026-11-03T03:59:06+00:00",
+      "publishedAt": "2026-11-03T05:02:17+00:00",
+      "updatedAt": "2026-11-03T05:02:17+00:00",
       "importance": 69,
       "sources": [
         {
@@ -391,7 +388,7 @@
       ],
       "publishedAt": "2026-11-02T16:46:14+00:00",
       "updatedAt": "2026-11-02T16:46:14+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -494,8 +491,8 @@
       "bullets": [
         "Ces frappes secrètes interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver »."
       ],
-      "publishedAt": "2026-11-03T03:13:22+00:00",
-      "updatedAt": "2026-11-03T03:13:22+00:00",
+      "publishedAt": "2026-11-03T03:13:20+00:00",
+      "updatedAt": "2026-11-03T03:13:20+00:00",
       "importance": 99,
       "sources": [
         {
@@ -522,7 +519,7 @@
       ],
       "publishedAt": "2026-11-02T16:49:00+00:00",
       "updatedAt": "2026-11-02T16:49:00+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -590,6 +587,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ae2a12c03c6f28ff76",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au fond de l'Arctique, bientôt la guerre des câbles sous-marins ?",
+      "bullets": [
+        "\"Il sera considéré comme illégal\" : la ville de Pékin oblige les habitants à se débarrasser de leurs drones avant une interdiction totale mi-novembre",
+        "Carburants, les prix baissent enfin, mais pas partout",
+        "\"La petite martyre de l'A10\", le procès 40 ans après"
+      ],
+      "publishedAt": "2026-11-03T05:00:10+00:00",
+      "updatedAt": "2026-11-03T05:00:10+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/au-fond-de-l-arctique-bientot-la-guerre-des-cables-sous-marins_8264528.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "article-extract",
+      "summaryInput": "446ab1e208897686909c8823633094de9120fd90bd6db2b5a8ed986d94027ec3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-c52b4292da52355c72",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Pologne, un opéra donne voix à la solidarité avec les Ukrainiens, contestée par le camp nationaliste",
+      "bullets": [
+        "A Varsovie, les représentations des « Mères de Kherson », sur les atrocités de l’agression russe, ont eu une forte résonance dans un pays plus divisé que jamais sur le sort des réfugiés de guerre."
+      ],
+      "publishedAt": "2026-11-03T04:30:11+00:00",
+      "updatedAt": "2026-11-03T04:30:11+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-un-opera-donne-voix-a-la-solidarite-avec-les-ukrainiens-contestee-par-le-camp-nationaliste_6805530_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f55f3930c5def51803beb77972c97fb55ac4dc3613a4eba94e039c8ab0cfe02d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-62eb4a921c696c1936",
       "revision": 1,
       "category": "world",
@@ -639,28 +688,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-08972e2f0f6a18abbc",
+      "id": "rss-e2b00cd9a19a3c3367",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Choose Europe for Science : un an et demi après, le pari incertain du refuge scientifique européen",
+      "title": "Seth Masket, politologue américain : « Les midterms sont plus que jamais des élections sur Donald Trump »",
       "bullets": [
-        "En réponse aux attaques de l’administration Trump contre la recherche, la Commission européenne et la France ont lancé des programmes pour accueillir les chercheurs américains.",
-        "Mais, entre recrutements encore en cours, dispositifs sélectifs et incertitudes politiques, le bilan reste encore difficile à mesurer."
+        "Avant les élections de mi-mandat aux Etats-Unis, mardi, le professeur à l’université de Denver assure, dans un entretien au « Monde », qu’une victoire des démocrates n’affaiblirait pas l’emprise de Donald Trump sur le Parti républicain."
       ],
-      "publishedAt": "2026-11-02T16:30:05+00:00",
-      "updatedAt": "2026-11-02T16:30:05+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-03T04:15:03+00:00",
+      "updatedAt": "2026-11-03T04:15:03+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/sciences/article/2026/11/02/choose-europe-for-science-un-an-et-demi-apres-le-pari-incertain-du-refuge-scientifique-europeen_6805288_1650684.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/03/seth-masket-politologue-americain-les-midterms-sont-plus-que-jamais-des-elections-sur-donald-trump_6805527_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
-      "summaryInput": "9c55c19d0b08aaf4d2f5ff313e0c5f4fb04f1fe05c0916078d09c20e98252bdd",
+      "summaryInput": "464de2cb4e03353ac69b60788c4f8b13e0cee2cfefe52fec6da311635246a6a8",
       "detailLevel": "preview"
     },
     {
@@ -690,31 +738,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
       "context": null
-    },
-    {
-      "id": "rss-3614ae58cfced6c1ee",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, une « fuite des cerveaux » inédite, symptôme d’un malaise profond dans le monde scientifique",
-      "bullets": [
-        "Face aux coupes budgétaires et au climat de défiance vis-à-vis de la science impulsés par la Maison Blanche, des chercheurs chevronnés quittent le pays, tandis que les arrivées de doctorants étrangers sont en net déclin.",
-        "Un contexte qui pourrait évoluer, à la marge, avec les résultats des midterms, le 3…"
-      ],
-      "publishedAt": "2026-11-02T16:58:47+00:00",
-      "updatedAt": "2026-11-02T16:58:47+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/sciences/article/2026/11/02/aux-etats-unis-une-fuite-des-cerveaux-inedite-symptome-d-un-malaise-profond-dans-le-monde-scientifique_6805293_1650684.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "964c5f6513e9edeaee6239de2b48a5ddba650579416162ac217d56ef8ec3e2ad",
-      "detailLevel": "preview"
     },
     {
       "id": "europe-cyber-froid",
@@ -768,31 +791,6 @@
       "context": null
     },
     {
-      "id": "rss-af5f08c3e26eeb4516",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pologne : le premier ministre, Donald Tusk, appelle le président, nationaliste, à reconnaître les juges élus par le Parlement afin de résoudre la crise autour du Tribunal constitutionnel",
-      "bullets": [
-        "Revenu au pouvoir, en 2023, Donald Tusk a promis de résoudre la crise liée à l’instance, contrôlée par l’opposition nationaliste.",
-        "Sans succès jusqu’ici, puisque les nominations de nouveaux juges n’ont pas été entérinées par le chef de l’Etat."
-      ],
-      "publishedAt": "2026-11-02T15:24:31+00:00",
-      "updatedAt": "2026-11-02T15:24:31+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/02/pologne-le-premier-ministre-donald-tusk-appelle-le-president-nationaliste-a-reconnaitre-les-juges-elus-par-le-parlement-afin-de-resoudre-la-crise-autour-du-tribunal-constitutionnel_6805274_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27b559bba48f6be25c46e3d4dc6f02f76e6b1c2fb927a77b30a77d6ae019466a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-66ea7a8d5d9c72c190",
       "revision": 1,
       "category": "france",
@@ -801,8 +799,8 @@
       "bullets": [
         "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse."
       ],
-      "publishedAt": "2026-11-03T04:00:24+00:00",
-      "updatedAt": "2026-11-03T04:00:24+00:00",
+      "publishedAt": "2026-11-03T04:00:19+00:00",
+      "updatedAt": "2026-11-03T04:00:19+00:00",
       "importance": 77,
       "sources": [
         {
@@ -865,31 +863,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f447290f4cef52c3f8",
+      "id": "rss-d93c096c1edc728687",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Pour lutter contre les déserts médicaux, 3 000 médecins \"juniors\" déployés à partir de ce lundi",
+      "title": "\"Des fois, j'ai des trous de mémoire\" : au premier jour de leur procès, l'état de santé des parents de la \"martyre de l'A10\" au cœur des débats",
       "bullets": [
-        "Le village d'Auneau-Bleury-Saint-Symphorien (Eure-et-Loir) se réveille avec le sourire et avec une nouvelle médecin au cabinet médical, lundi 2 novembre.",
-        "La commune compte trois médecinsPendant cette année, elle sera supervisée par François Moretti, docteur titulaire, en fonction depuis 32 ans.",
-        "Pour attirer le médecin, la mairie met les moyens en proposant un appartement entièrement rénové pour 200 euros de loyer."
+        "Halima El Bakhti et Ahmed Touloub, respectivement 72 et 74 ans, font face, lundi 2 novembre, à la cour d'assises du Loir-et-Cher, trente-neuf ans après la mort de leur fille Inass, qu'ils ont abandonnée le long de l'autoroute A10 en août 1987.",
+        "La mère de \"la petite martyre\" de 4 ans ne lâche pas son imperméable beige, emmitouflée dans une grosse écharpe.",
+        "Dans le public, cinq femmes oscillent entre tristesse, dégoût et gêne, en écoutant les déclarations des époux lors de leurs gardes à vue, en juin 2018, puis au cours de leurs interrogatoires successifs."
       ],
-      "publishedAt": "2026-11-02T14:21:02+00:00",
-      "updatedAt": "2026-11-02T14:21:02+00:00",
-      "importance": 54,
+      "publishedAt": "2026-11-03T05:01:07+00:00",
+      "updatedAt": "2026-11-03T05:01:07+00:00",
+      "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/pour-lutter-contre-les-deserts-medicaux-3-000-medecins-juniors-deployes-a-partir-de-ce-lundi_8264171.html",
+          "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/des-fois-j-ai-des-trous-de-memoire-au-premier-jour-de-leur-proces-l-etat-de-sante-des-parents-de-la-martyre-de-l-a10-au-c-ur-des-debats_8264537.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-03",
       "provenance": "article-extract",
-      "summaryInput": "98c93a119fbc9915e7902d8f7b43f415b2035706054fdd654eec12438dcfdef7",
+      "summaryInput": "1ce09e2f0cbf047ce1d3c9c5c57b3049cf26f5b4642c88a94621a3c724c36e27",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-02T22:14:44.913553+00:00",
+      "enrichedAt": "2026-11-03T05:05:45.929333+00:00",
       "context": null
     },
     {
@@ -904,7 +902,7 @@
       ],
       "publishedAt": "2026-11-02T05:00:15+00:00",
       "updatedAt": "2026-11-02T05:00:15+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1071,31 +1069,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5531f4897f9fd5d6d0",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mouvement lycéen et étudiant : Parcoursup, effectifs en classe, bac… le gouvernement apporte sa première réponse politique, sans éteindre les appels à la mobilisation",
-      "bullets": [
-        "Les ministres de l’éducation nationale et de l’enseignement supérieur ont présenté, lundi, le plan de l’exécutif pour tenter de sortir de la crise.",
-        "Ces mesures, consistant à défaire des réformes des deux présidences Macron, s’attellent à des maux connus de longue date et maintes fois dénoncés au cours de la…"
-      ],
-      "publishedAt": "2026-10-27T04:26:22+00:00",
-      "updatedAt": "2026-10-27T04:26:22+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-03",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8959406fffaa5ee6c70c39a078cfaccc9cfb81e8b7a56c1774c836858d8ad46f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-54b958415d161c193b",
       "revision": 1,
       "category": "france",
@@ -1117,6 +1090,30 @@
       "verifiedAt": "2026-11-03",
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9bd537e52fe077872a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Sébastien Lecornu se dit prêt à recevoir de nouveau les représentants lycéens « la semaine prochaine » ; plusieurs dizaines de lycées bloqués lundi matin",
+      "bullets": [
+        "Malgré les concessions annoncées par le gouvernement la semaine du 26 octobre, plusieurs organisations étudiantes et lycéennes ont appelé à poursuivre le mouvement à l’occasion de la rentrée scolaire, lundi 2 novembre."
+      ],
+      "publishedAt": "2026-11-02T11:04:51+00:00",
+      "updatedAt": "2026-11-02T11:04:51+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/02/sebastien-lecornu-se-dit-pret-a-recevoir-de-nouveau-les-representants-lyceens-la-semaine-prochaine-41-lycees-bloques-lundi-dont-plusieurs-a-paris-marseille-et-toulouse_6805152_823449.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-03",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8d78f2386dcd6c5da74a54b0ccd56775def177b4650a2c971290e02e6f5bf1cb",
       "detailLevel": "preview"
     },
     {
@@ -1202,7 +1199,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1268,19 +1265,19 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
