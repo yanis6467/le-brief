@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T03:00:22.238335+00:00",
+  "preparedAt": "2026-11-04T04:06:11.946870+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -176,7 +176,7 @@
       ],
       "publishedAt": "2026-11-03T15:59:55+00:00",
       "updatedAt": "2026-11-03T15:59:55+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -188,7 +188,7 @@
       "provenance": "article-extract",
       "summaryInput": "039149dcf1fcc799e5df7a84aef2432982e26a214909c274e5e6139192169507",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T16:02:50.692377+00:00",
+      "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
       "context": null
     },
     {
@@ -204,7 +204,7 @@
       ],
       "publishedAt": "2026-11-03T15:26:55+00:00",
       "updatedAt": "2026-11-03T15:26:55+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -216,7 +216,7 @@
       "provenance": "article-extract",
       "summaryInput": "fbe6c01d4a60d45d0091db4263118cfbb88066586bb2984e36271cdd859aea9d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T16:02:50.692377+00:00",
+      "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
       "context": null
     },
     {
@@ -364,7 +364,7 @@
       ],
       "publishedAt": "2026-11-02T15:15:01+00:00",
       "updatedAt": "2026-11-02T15:15:01+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -390,8 +390,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T02:55:08+00:00",
-      "updatedAt": "2026-11-04T02:55:08+00:00",
+      "publishedAt": "2026-11-04T04:00:46+00:00",
+      "updatedAt": "2026-11-04T04:00:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -571,6 +571,34 @@
       "context": null
     },
     {
+      "id": "rss-603f5f01208ee654cf",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La démocrate Keisha Lance Bottoms élue gouverneure de Géorgie lors des midterms, une première pour une femme noire aux Etats-Unis",
+      "bullets": [
+        "La démocrate Keisha Lance Bottoms a été élue mardi 4 novembre gouverneure de Géorgie (Etats-Unis) lors des élections de mi-mandat, selon les projections de l'agence de presse AP, devenant la première femme noire à occuper ce poste aux Etats-Unis.",
+        "Sa victoire, dans un Etat qui n'a pas élu de démocrate comme gouverneur depuis le siècle dernier, illustre – avec la réélection de Jon Ossoff au Sénat – la très bonne forme du Parti démocrate dans l'ensemble du pays.",
+        "Sa campagne a principalement porté sur la santé et le logement."
+      ],
+      "publishedAt": "2026-11-04T03:40:17+00:00",
+      "updatedAt": "2026-11-04T03:40:17+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-democrate-keisha-lance-bottoms-elue-gouverneure-de-georgie-lors-des-midterms-une-premiere-pour-une-femme-noire-aux-etats-unis_8266949.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "6a565ffa0714fe66ae364580cf2451fabb9a6137ef1d2622a31739c4f8bed708",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
+      "context": null
+    },
+    {
       "id": "rss-203dfacc388cc4b863",
       "revision": 1,
       "category": "world",
@@ -672,34 +700,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-719b35b1c34268cda9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "C'est quoi les \"midterms\" aux États-Unis et quels sont les enjeux de ces élections ?",
-      "bullets": [
-        "Un Français sur trois a eu du mal à payer des factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre du médiateur de l'énergie.",
-        "Donald Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars pour la sécurité d'Israël",
-        "Aux Etats-Unis, plus de 58 millions d'électeurs ont déjà voté par anticipation pour les midterms 2026, un record"
-      ],
-      "publishedAt": "2026-11-03T15:36:32+00:00",
-      "updatedAt": "2026-11-03T15:36:32+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/c-est-quoi-les-midterms-aux-etats-unis-et-quels-sont-les-enjeux-de-ces-elections_8266130.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "60210024072d9df813e5b9f17e3f176ad961693b2bf830b5e4dc77f1a250dd85",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T16:02:50.692377+00:00",
-      "context": null
-    },
-    {
       "id": "rss-62eb4a921c696c1936",
       "revision": 1,
       "category": "world",
@@ -784,7 +784,7 @@
       ],
       "publishedAt": "2026-11-03T15:43:35+00:00",
       "updatedAt": "2026-11-03T15:43:35+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -849,28 +849,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e0f1f3a4f504017c42",
+      "id": "rss-5c60041988595cdf2d",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
+      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
       "bullets": [
-        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
-        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
+        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre."
       ],
-      "publishedAt": "2026-11-03T17:30:00+00:00",
-      "updatedAt": "2026-11-03T17:30:00+00:00",
+      "publishedAt": "2026-11-03T23:06:29+00:00",
+      "updatedAt": "2026-11-03T23:06:29+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
+      "summaryInput": "c1d5e032cd96f8ef8f17a46740578da710b7480faf6698f7d83c68a45b150b62",
       "detailLevel": "preview"
     },
     {
@@ -1052,30 +1051,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5c60041988595cdf2d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
-      "bullets": [
-        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre."
-      ],
-      "publishedAt": "2026-11-03T23:06:29+00:00",
-      "updatedAt": "2026-11-03T23:06:29+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c1d5e032cd96f8ef8f17a46740578da710b7480faf6698f7d83c68a45b150b62",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a2ccf213fd4c2908c6",
       "revision": 1,
       "category": "france",
@@ -1102,6 +1077,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
       "context": null
+    },
+    {
+      "id": "rss-e0f1f3a4f504017c42",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
+      "bullets": [
+        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
+        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
+      ],
+      "publishedAt": "2026-11-03T17:30:00+00:00",
+      "updatedAt": "2026-11-03T17:30:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-fa32b22a0cc3495eae",
@@ -1306,7 +1306,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1336,7 +1336,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
