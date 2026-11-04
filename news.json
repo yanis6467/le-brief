@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T22:58:05.803466+00:00",
+  "edition": "2026-11-05",
+  "preparedAt": "2026-11-04T23:53:18.193705+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -30,6 +30,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f49cadc4440b6a681d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Peut-on interdire une chaîne de télé ?",
+      "bullets": [
+        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
+        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
+        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
+      ],
+      "publishedAt": "2026-11-04T18:10:49+00:00",
+      "updatedAt": "2026-11-04T18:10:49+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
+      "context": null
     },
     {
       "id": "rss-d201fcc00bb07c109e",
@@ -91,8 +119,8 @@
         "Une première lecture, c'est comme un tour de chauffe : tout le monde marque ses lignes rouges et veut cranter ses objets politiques.",
         "(...) Cela donne une copie fiscale qui n’est pas assumable."
       ],
-      "publishedAt": "2026-11-04T22:50:14+00:00",
-      "updatedAt": "2026-11-04T22:50:14+00:00",
+      "publishedAt": "2026-11-04T22:54:57+00:00",
+      "updatedAt": "2026-11-04T22:54:57+00:00",
       "importance": 77,
       "sources": [
         {
@@ -285,34 +313,6 @@
       "context": null
     },
     {
-      "id": "rss-5c841a9ea864f3f038",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
-      "bullets": [
-        "Samir Refoufi, le chef de l'atelier touche, lui, jusqu'à 1 600 euros, mais pour trois jours de travail par semaine.",
-        "J'ai gagné une semaine à rouler gratuitement\", souligne Samir.\"Alléger tous les prélèvements pour rendre le coût du travail plus faible\"Car le patron a fait ses calculs : cela représente 15 euros net par mois en plus dans la poche de ses 25 salariés.",
-        "Les entreprises devraient privilégier les augmentations individuelles pour 2027, entre 2 et 2,5% en moyenne, principalement dans les secteurs de l'industrie et des ressources humaines."
-      ],
-      "publishedAt": "2026-11-04T21:44:53+00:00",
-      "updatedAt": "2026-11-04T21:44:53+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "f1f99b5a4bc4244a68090984cbc74369909ff66e37f67bf6bb9a03646fac6c7b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T21:58:40.215975+00:00",
-      "context": null
-    },
-    {
       "id": "rss-82d60d3e792054dc5f",
       "revision": 1,
       "category": "markets",
@@ -407,8 +407,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T22:54:04+00:00",
-      "updatedAt": "2026-11-04T22:54:04+00:00",
+      "publishedAt": "2026-11-04T23:50:09+00:00",
+      "updatedAt": "2026-11-04T23:50:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -437,7 +437,7 @@
       ],
       "publishedAt": "2026-11-03T11:08:38+00:00",
       "updatedAt": "2026-11-03T11:08:38+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -945,7 +945,7 @@
       ],
       "publishedAt": "2026-11-03T23:06:26+00:00",
       "updatedAt": "2026-11-03T23:06:26+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -959,31 +959,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f49cadc4440b6a681d",
+      "id": "rss-4c724822411517e9a6",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Peut-on interdire une chaîne de télé ?",
+      "title": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
       "bullets": [
-        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
-        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
-        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
+        "Trois ans après l'attentat jihadiste d'Arras (Pas-de-Calais), trois juges d'instruction ont ordonné, mercredi 4 novembre, le renvoi devant la cour d'assises spéciale de Mohammed Mogouchkov, accusé de l'assassinat de Dominique Bernard devant le lycée où enseignait ce professeur de français, le 13 octobre 2023.",
+        "Le Parquet national antiterroriste (Pnat) a confirmé cette décision à l'AFP.",
+        "\"S'il a bien pu observer la radicalisation violente de son frère, [il] n'a pas été informé de la nature\" de son projet criminel, justifiait alors le Pnat."
       ],
-      "publishedAt": "2026-11-04T18:10:49+00:00",
-      "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-04T10:49:34+00:00",
+      "updatedAt": "2026-11-04T10:49:34+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
+          "url": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
+      "summaryInput": "a885329e14329a91cd52b48e60b11782e7618809d55d792bb943f1284dcbdfbf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
+      "enrichedAt": "2026-11-04T23:53:18.193705+00:00",
       "context": null
     },
     {
@@ -1134,15 +1134,15 @@
     },
     {
       "id": "rss-14d261595a851c226e",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
       "bullets": [
-        "Le Sénat examinera le texte dans sa version initiale à partir du 20 novembre."
+        "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre."
       ],
-      "publishedAt": "2026-11-04T22:53:15+00:00",
-      "updatedAt": "2026-11-04T22:53:15+00:00",
+      "publishedAt": "2026-11-04T22:53:12+00:00",
+      "updatedAt": "2026-11-04T22:53:12+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1153,7 +1153,7 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "dcd5e849159c9f7424ecd8a5af7901a8aa24184fb240ffbfecc3bb72dac9e899",
+      "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
       "detailLevel": "preview"
     },
     {
