@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T19:11:32.917439+00:00",
+  "preparedAt": "2026-11-04T20:07:24.443268+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -88,12 +88,12 @@
     },
     {
       "id": "rss-60246a0325551b7c2d",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
       "bullets": [
-        "Les pirates informatiques sont parvenus à dérober une partie des fonds propres de Fortuneo, la banque en ligne d’Arkéa.",
+        "Les pirates informatiques sont parvenus à dérober une partie des fonds propres d’Arkéa.",
         "Une attaque inédite dans la finance européenne."
       ],
       "publishedAt": "2026-11-04T16:51:29+00:00",
@@ -108,7 +108,7 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "d186b1540c7b2532f9aeeecf0375c015eaf759fe58ebf55fcf18c6ee388e67a6",
+      "summaryInput": "f8a9f20ec083778467cd9aff20989cd765f8a2f2585983a2543c6f11d246e8f1",
       "detailLevel": "preview"
     },
     {
@@ -445,8 +445,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T19:06:39+00:00",
-      "updatedAt": "2026-11-04T19:06:39+00:00",
+      "publishedAt": "2026-11-04T20:02:37+00:00",
+      "updatedAt": "2026-11-04T20:02:37+00:00",
       "importance": 69,
       "sources": [
         {
@@ -647,6 +647,33 @@
       "context": null
     },
     {
+      "id": "rss-dcce745cc66ccc6162",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\"",
+      "bullets": [
+        "Le président ukrainien, Volodymyr Zelensky, a accordé, mercredi 4 novembre, une décoration à la Première dame américaine, Melania Trump, pour sa \"contribution personnelle à l'aide humanitaire\" après un cessez-le-feu entre Moscou et Kiev qui a permis l'évacuation de civils.",
+        "Volodymyr Zelensky affirme avoir ordonné \"l'attribution de l'Ordre de la princesse Olga, de première classe, à Melania Trump\" pour saluer sa \"contribution personnelle significative\" à \"l'aide humanitaire apportée à l'Ukraine, ainsi que son engagement actif en faveur des droits humains et de ses actions caritatives\" dans le pays en guerre."
+      ],
+      "publishedAt": "2026-11-04T19:29:15+00:00",
+      "updatedAt": "2026-11-04T19:29:15+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "a213fbb878981ef9b43cc19784153938cda82075311df75e6f2ef0dd6f8d435b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T20:07:24.443268+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4ca95576f7b4ce8635",
       "revision": 1,
       "category": "world",
@@ -709,8 +736,8 @@
         "Dans une tribune au « Monde », la politiste Laurence Nardon revient sur les élections américaines de mi-mandat du 3 novembre.",
         "Pour elle, la victoire du camp démocrate rend difficile toute contestation des résultats par le président Donald Trump."
       ],
-      "publishedAt": "2026-11-04T19:00:06+00:00",
-      "updatedAt": "2026-11-04T19:00:06+00:00",
+      "publishedAt": "2026-11-04T19:00:02+00:00",
+      "updatedAt": "2026-11-04T19:00:02+00:00",
       "importance": 77,
       "sources": [
         {
@@ -852,30 +879,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f135cfc8664fd471a9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Présidentielle 2027 : les résultats des midterms aux Etats-Unis gênent le RN et réjouissent la gauche",
-      "bullets": [
-        "Gauche française et bloc central ont analysé la défaite du parti de Donald Trump à l’aune des prochaines échéances électorales françaises, y percevant un espoir, alors que le Rassemblement national continue de prendre ses distances avec le « canard boiteux » américain."
-      ],
-      "publishedAt": "2026-11-04T15:12:41+00:00",
-      "updatedAt": "2026-11-04T15:12:41+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26e30dca91b2a2e057e52081aca1659fe230dd5ee3ae8b6048b77a039bb1e08b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-035b1226c3a7b32ddb",
       "revision": 1,
       "category": "france",
@@ -962,7 +965,7 @@
       ],
       "publishedAt": "2026-11-03T07:32:03+00:00",
       "updatedAt": "2026-11-03T07:32:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1288,7 +1291,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
