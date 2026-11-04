@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T05:10:14.059624+00:00",
+  "preparedAt": "2026-11-04T06:11:11.171904+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -148,7 +148,7 @@
       ],
       "publishedAt": "2026-11-03T18:00:02+00:00",
       "updatedAt": "2026-11-03T18:00:02+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -187,34 +187,6 @@
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
       "summaryInput": "039149dcf1fcc799e5df7a84aef2432982e26a214909c274e5e6139192169507",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-69370df27d815d28e4",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le plafond du livret A sera relevé en février, dans une fourchette de 25 000 à 30 000 euros, annonce Sébastien Lecornu",
-      "bullets": [
-        "Le Premier ministre, Sébastien Lecornu, a annoncé un relèvement en février du plafond du livret A, qui pourra aller jusqu'à 30 000 euros, mardi 3 novembre.",
-        "Les livrets A et les LDDS peinent à trouver leur public depuis le début 2025, lorsque le taux de rémunération a commencé à baisser, jusqu'à atteindre un plancher de 1,5% début 2026.",
-        "L'annonce d'une revalorisation à 1,7% au mois de juillet, effective depuis le 1er août, a juste permis un très léger sursaut pendant l'été."
-      ],
-      "publishedAt": "2026-11-03T15:26:55+00:00",
-      "updatedAt": "2026-11-03T15:26:55+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/le-plafond-du-livret-a-sera-releve-en-fevrier-pour-atteindre-au-moins-25-000-euros-annonce-sebastien-lecornu_8265983.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "fbe6c01d4a60d45d0091db4263118cfbb88066586bb2984e36271cdd859aea9d",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
       "context": null
@@ -327,6 +299,31 @@
       "context": null
     },
     {
+      "id": "rss-1bd6a800028269c93c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Pouvoir d’achat : les vraies raisons du déclassement des Français",
+      "bullets": [
+        "DÉCRYPTAGE - Charges sociales, dépenses contraintes, PIB par habitant en baisse… Le sentiment de déclassement des Français, au cœur des manifestations, a des causes bien réelles, détaille l’Institut Montaigne.",
+        "Reste à s’entendre sur les remèdes."
+      ],
+      "publishedAt": "2026-11-03T19:15:00+00:00",
+      "updatedAt": "2026-11-03T19:15:00+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/pouvoir-d-achat-les-vraies-raisons-du-declassement-des-francais-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6940b010e1f5a0512e15a6be94cebb8c421577e8922885674d924da7876ebe6b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0cfbd2f0f820795fc",
       "revision": 1,
       "category": "markets",
@@ -393,8 +390,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T05:05:41+00:00",
-      "updatedAt": "2026-11-04T05:05:41+00:00",
+      "publishedAt": "2026-11-04T06:09:12+00:00",
+      "updatedAt": "2026-11-04T06:09:12+00:00",
       "importance": 69,
       "sources": [
         {
@@ -436,34 +433,6 @@
       "summaryInput": "29443a8c27d89e88b1b57a036e8e5ee702db877a8989221230e188540306def6",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T01:18:59.553872+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d7c4ea8172ac4564f0",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "«Tout le boom de l'IA se retrouve sur la sellette»... L'introduction XXL d'Anthropic à Wall Street, un crash-test pour l'intelligence artificielle en Bourse ?",
-      "bullets": [
-        "Le groupe d'espace, de satellites et d'intelligence artificielle avait levé près de 86 milliards de dollars en juin dernier pour son arrivée à Wall Street, signant un record historique.",
-        "Le calendrier exact de cette opération n'est pas public, mais le Wall Street Journal rapporte que la société viserait la date du 16 novembre.",
-        "CoreWeave a ainsi vu son cours de Bourse chuter de 30% sur un mois, Nebius, un autre neocloud, plonge de 27% sur la même période."
-      ],
-      "publishedAt": "2026-11-01T06:00:00+00:00",
-      "updatedAt": "2026-11-01T06:00:00+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/marches-financiers/tout-le-boom-de-l-ia-se-retrouve-sur-la-sellette-l-introduction-xxl-d-anthropic-a-wall-street-un-crash-test-pour-l-intelligence-artificielle-en-bourse-1172691.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "5c0e7339c44402657b39e472d811effbd390501a3642ccc431402a51dd09f669",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T23:50:41.157983+00:00",
       "context": null
     },
     {
@@ -571,6 +540,34 @@
       "summaryInput": "68e2645d3315d28884ab3d46189cb837f83446eade426440d7802c0f17e5700f",
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T23:50:41.157983+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d7af3127d2fa188c4b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Victoire démocrate au Sénat, Donald Trump promet d'accepter les résultats... Les premiers enseignements des midterms 2026 aux Etats-Unis",
+      "bullets": [
+        "Dans l'Ohio, Sherrod Brown réussit lui aussi à reprendre un siège au parti de Donald Trump, même chose au Kansas avec Adam Hamilton, une première depuis 1932.",
+        "Au New Hampshire, le démocrate Chris Pappas, 46 ans, est ainsi devenu le premier homme ouvertement gay élu au Sénat.",
+        "\"Mon nom n'était pas sur le bulletin de vote et, s'il l'avait été, on aurait remporté une VICTOIRE ECRASANTE\", a écrit un peu plus tôt le milliardaire de 80 ans sur sa plateforme Truth Social."
+      ],
+      "publishedAt": "2026-11-04T06:03:53+00:00",
+      "updatedAt": "2026-11-04T06:03:53+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/victoire-democrate-au-senat-donald-trump-promet-d-accepter-les-resultats-les-premiers-enseignements-des-midterms-2026-aux-etats-unis_8266958.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "d7d8a9a6c575034803c92666255c79f9bead2c4db43f7093ff7a7c950e821745",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T06:11:11.171904+00:00",
       "context": null
     },
     {
@@ -738,7 +735,7 @@
       ],
       "publishedAt": "2026-11-02T17:37:14+00:00",
       "updatedAt": "2026-11-02T17:37:14+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -801,33 +798,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b5070e76f61f9ede15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms : Donald Trump «va tenter de voler l’élection comme par le passé», alerte le gouverneur démocrate Gavin Newsom",
-      "bullets": [
-        "« Mes yeux sont grands ouverts et les yeux du monde devraient être grands ouverts sur ce qu’il fait… aucun d’entre nous n’est naïf sur ce qu’il va se passer s’il ne veut pas partir en 2028 ou reconnaître les résultats de 2026 », a ajouté le gouverneur.",
-        "Le démocrate entend « reprendre la Chambre des représentants et faire cesser la présidence de Donald Trump telle que nous la connaissons » et dénonce les « assauts contre les institutions, la démocratie, contre la vérité, contre la confiance »."
-      ],
-      "publishedAt": "2026-11-03T15:43:35+00:00",
-      "updatedAt": "2026-11-03T15:43:35+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/midterms-donald-trump-va-tenter-de-voler-l-election-comme-par-le-passe-alerte-le-gouverneur-democrate-gavin-newsom-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "8d419a1407374d00f6e4c42542282f6d0784bbda58d7f5701afc37f785def145",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:58:35.701444+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e161d8437ec38afa0d",
       "revision": 2,
       "category": "france",
@@ -839,7 +809,7 @@
       ],
       "publishedAt": "2026-11-03T17:34:20+00:00",
       "updatedAt": "2026-11-03T17:34:20+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -864,7 +834,7 @@
       ],
       "publishedAt": "2026-11-03T17:30:00+00:00",
       "updatedAt": "2026-11-03T17:30:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1088,8 +1058,8 @@
       "bullets": [
         "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre."
       ],
-      "publishedAt": "2026-11-03T23:06:29+00:00",
-      "updatedAt": "2026-11-03T23:06:29+00:00",
+      "publishedAt": "2026-11-03T23:06:26+00:00",
+      "updatedAt": "2026-11-03T23:06:26+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1102,34 +1072,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "c1d5e032cd96f8ef8f17a46740578da710b7480faf6698f7d83c68a45b150b62",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a2ccf213fd4c2908c6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Manifestations du 17 octobre : sous serment devant les députés, Laurent Nuñez reconnaît un \"manque d'anticipation\" de sa part lors de cette journée marqué par des pillages",
-      "bullets": [
-        "Laurent Nuñez ne veut pas renoncer aux grenades ni aux gaz lacrymogènes.",
-        "\"Je ne renoncerai à aucun moyen intermédiaire (grenades, gaz lacrymogène…) pour la bonne et simple raison que les policiers ont besoin de se défendre quand ils sont pris à partie\" lors de manifestations, a affirmé, lundi, le ministre de l'Intérieur.",
-        "Laurent Nuñez répondait ainsi à plusieurs députés lors d'une audition sur le budget 2027, devant la commission des lois de l'Assemblée nationale, saisie pour avis."
-      ],
-      "publishedAt": "2026-11-03T18:51:55+00:00",
-      "updatedAt": "2026-11-03T18:51:55+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "d846ff99f6c149bd5625d97c70011541778751d5bc91d57ef0e1d9313deb7b76",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
-      "context": null
     },
     {
       "id": "rss-fa32b22a0cc3495eae",
@@ -1227,6 +1169,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39d7ef799854a7f409",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
+      "bullets": [
+        "L'infertilité concerne aujourd'hui plus de 3 millions de Français, soit 15 à 25% des couples en âge de procréer.",
+        "A partir de mi-novembre, un courrier sera envoyé à tous les Français de 29 ans pour leur rappeler notamment que la fertilité baisse à partir de 30 ans chez les femmes et, c'est moins connu, à partir de 40 ans chez les hommes.",
+        "Mais le délai d'attente varie de 14 à 24 mois selon les régions."
+      ],
+      "publishedAt": "2026-11-03T16:11:52+00:00",
+      "updatedAt": "2026-11-03T16:11:52+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "5f005dee863dff0bd7c1bb0a9b6fefecf0204b685d6d5422cc18a6f625b70455",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T06:11:11.171904+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1240,7 +1210,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Franceinfo",
@@ -1264,7 +1234,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1276,7 +1246,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
