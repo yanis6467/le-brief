@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T16:22:39.380288+00:00",
+  "preparedAt": "2026-11-04T17:06:51.045581+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,6 +35,30 @@
       "context": null
     },
     {
+      "id": "rss-d201fcc00bb07c109e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« La politique budgétaire française n’est pas particulièrement efficace pour soutenir durablement l’activité »",
+      "bullets": [
+        "Les économistes Jérôme Creel et Jonas Kaiser estiment, dans une tribune au « Monde », qu’une austérité indifférenciée, appliquée au moment où l’activité ralentit et où le chômage progresse, pourrait être particulièrement coûteuse."
+      ],
+      "publishedAt": "2026-11-04T17:00:13+00:00",
+      "updatedAt": "2026-11-04T17:00:13+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/04/la-politique-budgetaire-francaise-n-est-pas-particulierement-efficace-pour-soutenir-durablement-l-activite_6806371_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4b438f926518c3f9cc62ad0f01fc661d4ea0330404c036241fc7f70b92579d22",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-080a27219ff089fa14",
       "revision": 1,
       "category": "eco",
@@ -61,6 +85,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
       "context": null
+    },
+    {
+      "id": "rss-60246a0325551b7c2d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
+      "bullets": [
+        "Les pirates informatiques sont parvenus à dérober une partie des fonds propres de Fortuneo, la banque en ligne d’Arkéa.",
+        "Une attaque inédite dans la finance européenne."
+      ],
+      "publishedAt": "2026-11-04T16:51:29+00:00",
+      "updatedAt": "2026-11-04T16:51:29+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d186b1540c7b2532f9aeeecf0375c015eaf759fe58ebf55fcf18c6ee388e67a6",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ceceb99757837f0300",
@@ -216,6 +265,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-235dd6637bfedaea05",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le baril de pétrole Brent passe sous les 100 dollars après la victoire démocrate aux midterms",
+      "bullets": [
+        "Vers 17h05, le prix du baril de Brent de la mer du Nord, pour livraison en janvier, chutait de 4,67 % à 98,76 dollars, sous la barre des 100 dollars pour la première fois depuis début octobre.",
+        "Son équivalent américain, le baril de West Texas Intermediate, pour livraison en décembre, perdait 4,54 % à 91,73 dollars."
+      ],
+      "publishedAt": "2026-11-04T16:57:06+00:00",
+      "updatedAt": "2026-11-04T16:57:06+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/le-baril-de-petrole-brent-passe-sous-les-100-dollars-apres-la-victoire-democrate-aux-midterms-20261104",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "f8ceae8876a1de4ab00187c53987c5ee20f8c9050608e12dba6f34d0e0419dd6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e2c12cdd3ebe196d7f",
       "revision": 2,
       "category": "eco",
@@ -244,86 +320,6 @@
       "context": null
     },
     {
-      "id": "rss-3205f78f7c2d28e549",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Après les supermarchés, l’Établissement français du sang victime d’une cyberattaque, ses chambres froides prises pour cible",
-      "bullets": [
-        "Mardi 3 novembre, l’Établissement français du sang (EFS) a été victime d’une attaque ayant saboté une partie de ses équipements frigorifiques.",
-        "LIRE AUSSI - Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens La continuité des activités assurée La situation est toutefois sous contrôle, assure l’EFS.",
-        "Dans la nuit du 10 au 11 octobre, les infrastructures frigorifiques des grands distributeurs tricolores ont été ciblées, sabotant un maillon essentiel de la chaîne alimentaire du pays."
-      ],
-      "publishedAt": "2026-11-04T10:25:28+00:00",
-      "updatedAt": "2026-11-04T10:25:28+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/apres-les-supermarches-l-etablissement-francais-du-sang-victime-d-une-cyberattaque-ses-chambres-froides-prises-pour-cible-20261104",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "6c928faa7b222e561b2aba8c7f76a8c5ce18ab4606f4c41dbd96844a7ca1cafa",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T12:00:25.474768+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e94845aa69b86c8d4d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
-      "bullets": [
-        "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés, notamment en Île-de-France."
-      ],
-      "publishedAt": "2026-11-04T15:36:20+00:00",
-      "updatedAt": "2026-11-04T15:36:20+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ac35f82d2a5007317daef065f9fed86f4c83dd4c4fb0a9ecf8c008dcda2838c0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-aeb1c848de4ea3f4db",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Malgré la grisaille économique, le budget de Noël des Français en hausse en 2026, à 581 euros en moyenne",
-      "bullets": [
-        "Endoloris par l’accélération de l’inflation qui pèse sur leur pouvoir d’achat, près de deux tiers des ménages français (62%) redoutent le coût des célébrations de Noël, surtout les moins de 35 ans (77%), selon la dixième édition du baromètre annuel de Cofidis sur le sujet, réalisé avec l’institut CSA Research.",
-        "La première source de préoccupation des Français demeure les prix de l’alimentation (72%).",
-        "Pourtant, si l’inflation globale a atteint 3,4% sur un an en octobre, celle de l’alimentation est restée limitée à 1,2%, selon l’Insee."
-      ],
-      "publishedAt": "2026-11-04T15:18:15+00:00",
-      "updatedAt": "2026-11-04T15:18:15+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/malgre-la-grisaille-economique-le-budget-de-noel-des-francais-en-hausse-en-2026-a-581-euros-en-moyenne-20261104",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "2c714f6fd164b7e98f233014105ec74180012b174dbbd7507fb23503017f2d23",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T16:22:39.380288+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3498331cc5d7cd92b7",
       "revision": 1,
       "category": "markets",
@@ -349,6 +345,34 @@
       "summaryInput": "a7c179fc0b87838cccacd5d08b65d332a419e3b57bcfa38bf77ec2955978e5de",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T16:22:39.380288+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-82d60d3e792054dc5f",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : La déroute électorale de Trump et des républicains aux États-Unis rend la Bourse de Paris euphorique, le CAC 40 bondit de près de 2%",
+      "bullets": [
+        "Le rendement de l'obligation française à 10 ans recule à 4,827% tandis que celui des États-Unis se détend à 4,911%.",
+        "Certes, Donald Trump a indiqué ces dernières heures sa volonté de collaborer avec les Démocrates mais la réalité politique et la pression que ne manquera pas d’exercer son parti devraient le dissuader d’accorder des victoires d’ampleur à ses adversaires politiques avant l’élection présidentielle de 2028\", poursuit Nabil Milali.",
+        "Sur le front des publications, M6 a bondi de 12,1% après avoir publié une activité supérieure aux attentes au troisième trimestre."
+      ],
+      "publishedAt": "2026-11-04T16:43:47+00:00",
+      "updatedAt": "2026-11-04T16:43:47+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-deroute-electorale-de-trump-et-des-republicains-aux-etats-unis-rend-la-bourse-de-paris-euphorique-le-cac-40-bondit-de-pres-de-2-1173163.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "726fdd9280e78d16585087532e9362fbfc8ec977e0b005c881947a4d4e94c574",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
       "context": null
     },
     {
@@ -418,8 +442,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T16:18:14+00:00",
-      "updatedAt": "2026-11-04T16:18:14+00:00",
+      "publishedAt": "2026-11-04T17:01:45+00:00",
+      "updatedAt": "2026-11-04T17:01:45+00:00",
       "importance": 69,
       "sources": [
         {
@@ -434,30 +458,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T12:00:25.474768+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0585d017ea4aaee9d7",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.18%",
-      "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-018-1173112.html"
-      ],
-      "publishedAt": "2026-11-04T08:00:00+00:00",
-      "updatedAt": "2026-11-04T08:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-018-1173112.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7391473de0ea703d4f11ff42b57a76fe287181fb6182bbe8f56386949b160529",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-06008fe8e38060f1ad",
@@ -647,6 +647,59 @@
       "context": null
     },
     {
+      "id": "rss-580347a23ffb99f031",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Serbie : malgré le changement de gouvernement à Belgrade, le chemin vers l’Union européenne reste escarpé",
+      "bullets": [
+        "La Commission européenne a dévoilé, mercredi 4 novembre, son rapport annuel sur les pays candidats à l’entrée dans l’Union.",
+        "En Serbie, qui est l’un d’eux, la victoire aux dernières élections de la « liste des étudiants » sur Aleksandar Vucic rouvre la perspective d’un rapprochement avec Bruxelles."
+      ],
+      "publishedAt": "2026-11-04T16:30:07+00:00",
+      "updatedAt": "2026-11-04T16:30:07+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/04/serbie-malgre-le-changement-de-gouvernement-a-belgrade-le-chemin-vers-l-union-europeenne-reste-escarpe_6806358_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a8e8ccb67695705fa0a66107334010057128190c43a0f7e26e1115840f94f5b2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-756b33bd58614f4d7e",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Texas, Kansas, Caroline du Sud… De nombreux États basculent démocrates avec les midterms, confirmant la déroute de Donald Trump",
+      "bullets": [
+        "À Austin, une ville du Texas (États-Unis), les militants démocrates laissent éclater leur joie profonde et intense à l'annonce des résultats des midterms.",
+        "Le Texas a basculé démocrate, une première depuis 38 ans.",
+        "En Géorgie, c'est Jon Ossoff, l'étoile montante du parti qui l'a emporté, tandis que le pasteur Hamilton a raflé le Kansas, une première depuis 1932."
+      ],
+      "publishedAt": "2026-11-04T16:20:08+00:00",
+      "updatedAt": "2026-11-04T16:20:08+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/texas-kansas-caroline-du-sud-de-nombreux-etats-basculent-democrates-avec-les-midterms-confirmant-la-deroute-de-donald-trump_8267708.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "1a5852bf057d4ba3cc4110091bac92d411b6b67d77d61905165f0e87db335a7e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
+      "context": null
+    },
+    {
       "id": "rss-c5eb7074746b3cafca",
       "revision": 1,
       "category": "world",
@@ -800,34 +853,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-756b33bd58614f4d7e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Texas, Kansas, Caroline du Sud… de nombreux États basculent démocrates avec les midterms, confirmant la déroute de Donald Trump",
-      "bullets": [
-        "À Austin, une ville du Texas (États-Unis), les militants démocrates laissent éclater leur joie profonde et intense à l'annonce des résultats des midterms.",
-        "Le Texas bascule démocrate, une première depuis 38 ans.",
-        "En Géorgie, c'est Jon Ossoff, l'étoile montante du parti qui l'emporte tandis que le pasteur Hamilton rafle le Kansas, une première depuis 1932."
-      ],
-      "publishedAt": "2026-11-04T12:54:59+00:00",
-      "updatedAt": "2026-11-04T12:54:59+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/texas-kansas-caroline-du-sud-de-nombreux-etats-basculent-democrates-avec-les-midterms-confirmant-la-deroute-de-donald-trump_8267708.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "441f92ec0447d148fd1393297e75b7f7640b92d119466f77de86c2b0d8476cba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T13:19:45.826061+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9fb2a8acc4738d306f",
       "revision": 2,
       "category": "world",
@@ -853,56 +878,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9c352c04cba436567a",
+      "id": "rss-6b980516e4433ec277",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Il reste avec énormément de pouvoir\", assure Jérôme Viala-Gaudefroy, docteur en civilisation américaine, après la défaite de Donald Trump aux midterms",
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
       "bullets": [
-        "Donc il pourrait y avoir aussi des tensions institutionnelles qui devront être décidées par la Cour suprême.",
-        "Trump peut aussi dire que c'est le privilège de l'exécutif qui lui permet de dire : \"Non, il ne peut pas venir parce qu'on a, nous, en tant qu'exécutif, ce privilège, on est en charge\".",
-        "Et là, ça pourrait être aussi décidé au niveau de la Cour suprême."
+        "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC."
       ],
-      "publishedAt": "2026-11-04T09:28:20+00:00",
-      "updatedAt": "2026-11-04T09:28:20+00:00",
+      "publishedAt": "2026-11-04T16:00:30+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/il-reste-avec-enormement-de-pouvoir-assure-jerome-viala-gaudefroy-docteur-en-civilisation-americaine-apres-la-defaite-de-donald-trump-aux-midterms_8267375.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "14a338ced9f65053b38d7b286ecb3c22e84d3d56ecb38ed2a24a223d33c9beec",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e161d8437ec38afa0d",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
-      "bullets": [
-        "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures.",
-        "Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’Hémicycle."
-      ],
-      "publishedAt": "2026-11-03T17:34:20+00:00",
-      "updatedAt": "2026-11-03T17:34:20+00:00",
-      "importance": 84,
-      "sources": [
-        {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "75adbe66d61f6ee4597862f5744dd55affab20610dfcdfc99f9f7ae488fd5317",
+      "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
       "detailLevel": "preview"
     },
     {
@@ -931,27 +927,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-62ad117f9d026c970f",
+      "id": "rss-8e9d92bc291390e8f5",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : Jean-Michel Blanquer défend Parcoursup et sa réforme du lycée et du bac devant les sénateurs",
+      "title": "Concours remanié, plus de diversité sociale… Vers une réforme de l’École nationale de la magistrature pour une justice «à l’image de la société»",
       "bullets": [
-        "L’ancien ministre de l’éducation nationale, dont le bilan est attaqué à l’occasion du mouvement lycéen, estime que les dysfonctionnements sont dus surtout à des modifications opérées par ses successeurs."
+        "ANALYSE - Le ministre de la Justice, Gérald Darmanin, veut une formation recentrée sur l’art de juger, la communication, et la connaissance des institutions publiques.",
+        "Valérie Delnaud, actuelle directrice des affaires civiles et du sceau, pourrait endosser le rôle de nouvelle directrice."
       ],
-      "publishedAt": "2026-10-28T17:04:22+00:00",
-      "updatedAt": "2026-10-28T17:04:22+00:00",
-      "importance": 96,
+      "publishedAt": "2026-11-03T12:32:24+00:00",
+      "updatedAt": "2026-11-03T12:32:24+00:00",
+      "importance": 83,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/28/mobilisation-lyceenne-face-aux-senateurs-jean-michel-blanquer-defend-parcoursup-et-sa-reforme-du-lycee-et-du-bac_6801616_3224.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/concours-remanie-plus-de-diversite-sociale-vers-une-reforme-de-l-ecole-nationale-de-la-magistrature-pour-une-justice-a-l-image-de-la-societe-20261103",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "356e1b5cbda9cda7c2926e94e0246834aae450d33962a276f29d7b1429cb769e",
+      "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
       "detailLevel": "preview"
     },
     {
@@ -1036,27 +1033,27 @@
       "context": null
     },
     {
-      "id": "rss-add54a5fee7f9d8e63",
+      "id": "rss-172d3ccf8383737e0f",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Attentat de Trappes : « L’Arcom devait être un rempart, elle a favorisé le racisme par son inaction »",
+      "title": "« Ninho : le prix à payer », sur Netflix : retour sur la carrière fulgurante d’une star du rap français",
       "bullets": [
-        "Après une décennie de mensonges et de propos discriminatoires, dans certains médias, sur la ville des Yvelines et ses habitants, le député LFI Aurélien Saintoul rappelle, dans une tribune au « Monde », que la liberté d’expression n’est pas le « droit de répandre impunément la haine »."
+        "Dans ce documentaire réalisé par Thibaut de Longeville et Yanis Tiliouine, le rappeur qui a rempli deux fois le Stade de France raconte les coulisses sordides de son succès."
       ],
-      "publishedAt": "2026-11-03T12:30:05+00:00",
-      "updatedAt": "2026-11-03T12:30:05+00:00",
-      "importance": 53,
+      "publishedAt": "2026-11-04T16:30:09+00:00",
+      "updatedAt": "2026-11-04T16:30:09+00:00",
+      "importance": 47,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/03/attentat-de-trappes-l-arcom-devait-etre-un-rempart-elle-a-favorise-le-racisme-par-son-inaction_6805578_3232.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/04/ninho-le-prix-a-payer-sur-netflix-retour-sur-la-carriere-fulgurante-d-une-star-du-rap-francais_6806359_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "9c45feed850b0139b10fe5ad55b055fd0cfec69af7278b58a36be1008c625865",
+      "summaryInput": "e139efff6c0460a773f21ca392dee1d0676b0a58d32c2dc001d04756b969b6fc",
       "detailLevel": "preview"
     },
     {
@@ -1109,31 +1106,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8e9d92bc291390e8f5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Concours remanié, plus de diversité sociale… Vers une réforme de l’École nationale de la magistrature pour une justice «à l’image de la société»",
-      "bullets": [
-        "ANALYSE - Le ministre de la Justice, Gérald Darmanin, veut une formation recentrée sur l’art de juger, la communication, et la connaissance des institutions publiques.",
-        "Valérie Delnaud, actuelle directrice des affaires civiles et du sceau, pourrait endosser le rôle de nouvelle directrice."
-      ],
-      "publishedAt": "2026-11-03T12:32:24+00:00",
-      "updatedAt": "2026-11-03T12:32:24+00:00",
-      "importance": 83,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/concours-remanie-plus-de-diversite-sociale-vers-une-reforme-de-l-ecole-nationale-de-la-magistrature-pour-une-justice-a-l-image-de-la-societe-20261103",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-13b03bc8a6f1058382",
       "revision": 1,
       "category": "france",
@@ -1182,30 +1154,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6b980516e4433ec277",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
-      "bullets": [
-        "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC."
-      ],
-      "publishedAt": "2026-11-04T16:00:30+00:00",
-      "updatedAt": "2026-11-04T16:00:30+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ec74cbd8c6a2e59d05",
       "revision": 1,
       "category": "france",
@@ -1228,6 +1176,30 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "67f2f373a2da1bb03c1fda0bb413b39035b7645aa2025a0d609fbe1c77dd409d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4a90ede5c1d5b49297",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Dans « Gouverner », Jordan Bardella creuse le sillon libéral-sécuritaire du RN, sans propositions nouvelles",
+      "bullets": [
+        "Dans son troisième livre en trois ans, le président du Rassemblement national, aspirant premier ministre de Marine Le Pen, multiplie les promesses de dérégulation et de baisses d’impôts aux milieux patronaux avant de se lancer dans une critique nourrie de l’Etat social."
+      ],
+      "publishedAt": "2026-11-04T07:00:09+00:00",
+      "updatedAt": "2026-11-04T07:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3adf83b5a00827ff4d6e7e1e05b4576c8363cf8f253b78db4c084f4b8952beee",
       "detailLevel": "preview"
     },
     {
@@ -1277,6 +1249,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cca178c75d92f463e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "VIDEO. Mutuelles, système de santé : et si l’Alsace-Moselle avait tout compris ?",
+      "bullets": [
+        "Quelque 16 milliards d’euros de déficit de l’Assurance Maladie en 2025, une hausse des cotisations des complémentaires santé de 40% depuis 2011 : notre santé coûte de plus en plus cher.",
+        "En tout, plus de 2 millions de personnes sont concernées.",
+        "Nulle magie, ce sont les assurés d'Alsace-Moselle qui le financent : ils versent une cotisation supplémentaire de 1,3% de leur revenu brut."
+      ],
+      "publishedAt": "2026-11-04T09:12:25+00:00",
+      "updatedAt": "2026-11-04T09:12:25+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/video-mutuelles-systeme-de-sante-et-si-l-alsace-moselle-avait-tout-compris_8260493.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "be82154d9710cfc73ae3254740874f4b829fe67ea77c1a6a06ff0815fe58f7ba",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1314,7 +1314,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1338,13 +1338,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
@@ -1362,7 +1362,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
