@@ -1,61 +1,37 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T13:19:45.826061+00:00",
+  "preparedAt": "2026-11-04T15:01:56.615921+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-6c64b376f9a29b42de",
+      "id": "rss-295c92f6fa2053d260",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Du porno diffusé sur des panneaux publicitaires : l’improbable cyberattaque de hackeurs ciblant les «gouvernements autoritaires»",
+      "title": "À 4% en octobre, l’inflation dans la zone euro atteint un nouveau sommet depuis trois ans",
       "bullets": [
-        "RÉCIT - L’opération, qui a touché plusieurs pays, a été revendiquée sur la chaîne Telegram d’un groupe de pirates disant se battre contre les «corrompus» et cherchant à dénoncer la faiblesse de la cybersécurité internationale."
+        "La hausse des prix dans les 21 pays partageant la monnaie unique européenne a accéléré à 4 %, contre 3,8 % en septembre, selon une première estimation d’Eurostat.",
+        "L’énergie entraîne les services et l’alimentation Selon Eurostat, la hausse des prix de l’énergie a atteint 20,8 % en octobre, contre 18,9 % le mois précédent.",
+        "Les prix des services (3,3 %, contre 3,2 % en septembre) et des produits alimentaires (1,6 %, contre 1,3 % en septembre) ont quant à eux légèrement augmenté."
       ],
-      "publishedAt": "2026-11-03T20:48:42+00:00",
-      "updatedAt": "2026-11-03T20:48:42+00:00",
-      "importance": 96,
+      "publishedAt": "2026-11-04T10:56:40+00:00",
+      "updatedAt": "2026-11-04T10:56:40+00:00",
+      "importance": 99,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/du-porno-diffuse-sur-des-panneaux-publicitaires-la-rocambolesque-cyberattaque-de-hackeurs-ciblant-les-gouvernements-autoritaires-20261103",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "be997cdcf13cd8c5f811eaa0da38ba7af3da60e5569be5602a235e8b529d9e2c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dce617c7cca632dd55",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Midterms 2026: le dollar et les Bourses d'Asie trébuchent face à la vague démocrate",
-      "bullets": [
-        "Les premiers résultats des élections de mi-mandat aux États-Unis, qui pointent des gains du Parti démocrate et renforcent la perspective de blocages politiques en cas de bascule au Congrès, font trébucher le dollar face aux grandes devises et reculer les Bourses mercredi en Asie.",
-        "Repli du dollar Vers 02H10 GMT, le billet vert perdait 0,53% face à la monnaie japonaise à 157,86 yens pour un dollar, et 0,40% face à la monnaie commune européenne à 1,1238 euro pour un dollar.",
-        "À Tokyo, l’indice vedette Nikkei abandonnait 3,17% à 61.079 points."
-      ],
-      "publishedAt": "2026-11-04T07:49:35+00:00",
-      "updatedAt": "2026-11-04T07:49:35+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/midterms-2026-le-dollar-et-les-bourses-d-asie-trebuchent-face-a-la-vague-democrate-20261104",
+          "url": "https://www.lefigaro.fr/flash-eco/zone-euro-l-inflation-grimpe-a-4-en-octobre-nouveau-sommet-depuis-trois-ans-20261104",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "5e0f89d5743bd35f8d13becd71b437c4345225d4cd7c8fe844920fe9625e3460",
+      "summaryInput": "555321edd2920e97e0a9c8819c3278b5f8266f44bac4ed8b840e64e4ab701481",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T07:29:52.579694+00:00",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
       "context": null
     },
     {
@@ -82,6 +58,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "71de8315b97482d45c22df745e6dd13987fd74bdb0155aaeefd4b1c89998696e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-080a27219ff089fa14",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les coûts du changement climatique vont s'alourdir en Europe, estime Christine Lagarde",
+      "bullets": [
+        "La présidente de l'institution monétaire, qui quittera ses fonctions le 7 février, soit neuf mois avant la fin de son mandat, revient sur un été caniculaire et une sécheresse historique en Europe.",
+        "«Les coûts du changement climatique augmentent et les chocs futurs pourraient être plus difficiles à absorber», écrit-elle.",
+        "À quelques jours de l'ouverture de la COP31 en Turquie, à Antalya, Christine Lagarde a salué le nouveau cadre européen de «résilience climatique» présenté fin octobre par la Commission européenne."
+      ],
+      "publishedAt": "2026-11-04T13:51:54+00:00",
+      "updatedAt": "2026-11-04T13:51:54+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/les-couts-du-changement-climatique-vont-s-alourdir-en-europe-estime-christine-lagarde-20261104",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "be155a4710fcfe5ff7080d902bf843188b9adf19fecd3b336a5a5b793962c49e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
+      "context": null
     },
     {
       "id": "rss-d1c7cc9bd1f8106ca0",
@@ -133,59 +137,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-aa4fd597fcb11670a7",
+      "id": "rss-fecf9cf0d4e615b867",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Revalorisation des salaires, services publics, \"justice fiscale\"... Quelles sont les revendications des syndicats pour la grève du 5 novembre ?",
+      "title": "Etat, épargnants, banques… A qui profite (vraiment) le relèvement du plafond du livret A ?",
       "bullets": [
-        "Cet appel fait également suite à une première journée de mobilisation du monde du travail, qui ne concernait que la fonction publique, le 29 septembre.",
-        "Enfin, \"des mesures de justice fiscale pour taxer les patrimoines, les héritages et les dividendes\" sont réclamées, tout comme \"l'évaluation, le conditionnement et le redéploiement des 211 milliards d'aides publiques\".",
-        "\"On bloquera jeudi pour ensuite aller en manifestation le 5 novembre à l'appel des travailleurs et travailleuses\", a fait savoir le 31 octobre Sabrine Kharbach, porte-parole de l'Union syndicale lycéenne (USL)."
+        "Le gouvernement a annoncé, mardi 3 novembre, un relèvement du plafond du livret A \"entre 25 000 et 30 000 euros\", contre 22 950 euros actuellement, en février 2027.",
+        "Les épargnants privilégient désormais d'autres placements, comme l'assurance-vie, qui a enregistré une nette accélération de la collecte en 2025, avec environ 50 milliards d'euros d'épargne supplémentaire, soit près du double de l'année précédente.",
+        "Lorsque les épargnants placent de l'argent sur leur livret A, le fonds d'épargne de la Caisse des dépôts centralise près de 60% des sommes collectées."
       ],
-      "publishedAt": "2026-11-04T05:04:05+00:00",
-      "updatedAt": "2026-11-04T05:04:05+00:00",
+      "publishedAt": "2026-11-04T14:53:35+00:00",
+      "updatedAt": "2026-11-04T14:53:35+00:00",
       "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/revalorisation-des-salaires-services-publics-justice-fiscale-quelles-sont-les-revendications-des-syndicats-pour-la-greve-du-5-novembre_8263733.html",
+          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/etat-epargnants-banques-a-qui-profite-vraiment-le-relevement-du-plafond-du-livret-a_8267444.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "2dfb08b26e93d74720dfa94674b8dc9ab0c7721c9471d5d19234749be37a3180",
+      "summaryInput": "efd685c7dc2c6cb3b302b7eb8e8da062891e602d4df965c3c726e1af051497f5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T05:10:14.059624+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9b69260243bce2b1de",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Livret A : le gouvernement envisage une hausse du plafond à 30 000 euros",
-      "bullets": [
-        "Aujourd'hui fixé à 22 950 euros, il pourrait grimper à 25 000, voire 30 000 euros.",
-        "9 millions de livrets sont remplis au maximum.",
-        "L'augmentation du plafond, évidemment, il y a un manque à gagner fiscal qui va se chiffrer à plusieurs dizaines de millions d'euros en fonction de la collecte.\"À compter du 1er février, en tenant compte de l'inflation, le taux du livret A pourrait passer de 1,7 à 2,5 % par an."
-      ],
-      "publishedAt": "2026-11-03T20:24:44+00:00",
-      "updatedAt": "2026-11-03T20:24:44+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/livret-a-le-gouvernement-envisage-une-hausse-du-plafond-a-30-000-euros_8266541.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "50aace09ab323786450e567c3ba2f000bf3c75f2bd00b0c5694bc56375a88317",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
       "context": null
     },
     {
@@ -210,6 +186,31 @@
         }
       ],
       "verifiedAt": "2026-11-02"
+    },
+    {
+      "id": "rss-af83c46b2c2645b0a2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+      "bullets": [
+        "La publication du projet de loi de finances de fin de gestion intervient quelques jours après que l’Insee a rapporté un nouveau recul du PIB de 0,1 %.",
+        "Le produit intérieur brut avait déjà baissé de 0,2 % au premier trimestre avant de stagner au deuxième."
+      ],
+      "publishedAt": "2026-11-04T13:42:37+00:00",
+      "updatedAt": "2026-11-04T13:42:37+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/04/une-croissance-de-0-5-en-2026-est-difficilement-atteignable-selon-le-haut-conseil-des-finances-publiques_6806233_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bbe3ef41d1a121b0905c98cbfecd9f2b4efc9fa98287795e258413db5937c7af",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4a8af84615f215f9c5",
@@ -387,8 +388,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T13:17:53+00:00",
-      "updatedAt": "2026-11-04T13:17:53+00:00",
+      "publishedAt": "2026-11-04T14:58:06+00:00",
+      "updatedAt": "2026-11-04T14:58:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -558,10 +559,90 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "8b28925962cab5886a0995a856e193bb9da32eb93a1f49772b0b8406f004921e",
+      "summaryInput": "7032ad9672f3861bd1f6a3640ef2afe78ff1113b93d8752992399a49f100a11d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T13:19:45.826061+00:00",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
       "context": null
+    },
+    {
+      "id": "rss-1e9ecf48bcd501900b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France",
+      "bullets": [
+        "Au total, près de 250 millions d’électeurs américains étaient appelés aux urnes.",
+        "Ce qui est certain, c'est que le second mandat de Donald Trump est quand même très nettement différent dans sa philosophie, dans sa politique étrangère, que le premier mandat du président Trump.\"Le vice-président du RN, Louis Aliot, va plus loin mercredi matin sur France 2.",
+        "Le maire de Perpignan, qui fait partie des très rares politiques français à avoir assisté à son investiture à Washington en janvier 2025, considère que les électeurs américains le punissent aujourd'hui pour son \"interventionnisme extérieur\"."
+      ],
+      "publishedAt": "2026-11-04T14:56:36+00:00",
+      "updatedAt": "2026-11-04T14:56:36+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "f87ea2ab531ae2d233d08e17692d5210ea7c658514e7e306a73087ec4f079e2d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b93d59548ba7473da1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le résultat des midterms est \"une raclée\" pour Donald Trump, analyse Amy Greene, politologue spécialiste des Etats-Unis",
+      "bullets": [
+        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans",
+        "Un Français sur trois a eu du mal à payer des factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre du médiateur de l'énergie.",
+        "29 morts après des frappes russes dans le sud-est de l'Ukraine"
+      ],
+      "publishedAt": "2026-11-04T14:48:12+00:00",
+      "updatedAt": "2026-11-04T14:48:12+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/le-resultat-des-midterms-pour-donald-trump-une-raclee-on-ne-peut-pas-le-dire-autrement-analyse-amy-greene-politologue-specialiste-des-etats-unis_8267783.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "814750010383153ef95d7b067bd646a695408b3c4342574d7b3f716f5622fa6b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4162024a18e7da55fb",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : Premier sénateur musulman, premier homme ouvertement gay au Sénat… plusieurs candidats issus de minorités ont remporté des sièges",
+      "bullets": [
+        "A l’image d’Abdul El-Sayed, devenu premier sénateur musulman aux Etats-Unis, plusieurs candidats issus de minorités ont remporté pour la première fois des postes de premier rang lors des élections de mi-mandat, le 3 novembre 2026."
+      ],
+      "publishedAt": "2026-11-04T13:57:38+00:00",
+      "updatedAt": "2026-11-04T13:57:38+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/video/2026/11/04/midterms-2026-premier-senateur-musulman-premier-homme-ouvertement-gay-au-senat-plusieurs-candidats-issus-de-minorites-ont-remporte-des-sieges_6806236_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1753df86f423e31013d56175202ce55483bedda92c56dfa79d4d88f183fa6d36",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-756b33bd58614f4d7e",
@@ -593,13 +674,13 @@
     },
     {
       "id": "rss-9fb2a8acc4738d306f",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
       "bullets": [
-        "Le premier ministre sénégalais Ahmadou Al Aminou Mohamed Lô essuie un nouveau revers.",
-        "Sa loi de finances rectificative pour 2026, calibrée pour répondre aux attentes du FMI, a été rejetée par l’Assemblée nationale, mardi 3 novembre, pour la troisième fois consécutive."
+        "Le premier ministre sénégalais, Ahmadou Al Aminou Mohamed Lô, essuie un nouveau revers.",
+        "Sa loi de finances rectificative pour 2026, calibrée pour répondre aux attentes du FMI, a été rejetée par l’Assemblée nationale, mardi 3 novembre, pour la troisième fois."
       ],
       "publishedAt": "2026-11-04T11:00:08+00:00",
       "updatedAt": "2026-11-04T11:00:08+00:00",
@@ -613,7 +694,7 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "fa0bf795c4ea1be575e10fc3a356e5ec88258ff14a10149b8f2d5ff48a805d23",
+      "summaryInput": "468be03571fa7276e5e8a10eb7bccc4dd53d1d8cdbc22ef835581ce9c6ec072e",
       "detailLevel": "preview"
     },
     {
@@ -774,86 +855,35 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-23485c966f90ae9f43",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+      "id": "rss-e161d8437ec38afa0d",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
       "bullets": [
-        "Chômage, criminalité, déliquescence des infrastructures, corruption… Le pays, dirigé depuis 1994 par le Congrès national africain, est rongé par de multiples crises.",
-        "Le parti est annoncé au coude-à-coude avec l’Alliance démocratique lors du scrutin municipal de mercredi 4 novembre."
+        "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures.",
+        "Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’Hémicycle."
       ],
-      "publishedAt": "2026-11-04T05:00:13+00:00",
-      "updatedAt": "2026-11-04T05:00:13+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-03T17:34:20+00:00",
+      "updatedAt": "2026-11-03T17:34:20+00:00",
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "712156db73287831371fc948f5af2461b681df8ec116e1eec083daca3396e856",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b5070e76f61f9ede15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms : Donald Trump «va tenter de voler l’élection comme par le passé», alerte le gouverneur démocrate Gavin Newsom",
-      "bullets": [
-        "« Mes yeux sont grands ouverts et les yeux du monde devraient être grands ouverts sur ce qu’il fait… aucun d’entre nous n’est naïf sur ce qu’il va se passer s’il ne veut pas partir en 2028 ou reconnaître les résultats de 2026 », a ajouté le gouverneur.",
-        "Le démocrate entend « reprendre la Chambre des représentants et faire cesser la présidence de Donald Trump telle que nous la connaissons » et dénonce les « assauts contre les institutions, la démocratie, contre la vérité, contre la confiance »."
-      ],
-      "publishedAt": "2026-11-03T15:43:35+00:00",
-      "updatedAt": "2026-11-03T15:43:35+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/midterms-donald-trump-va-tenter-de-voler-l-election-comme-par-le-passe-alerte-le-gouverneur-democrate-gavin-newsom-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "8d419a1407374d00f6e4c42542282f6d0784bbda58d7f5701afc37f785def145",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T12:00:25.474768+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ec567f86fa219f2f56",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : au Kansas, le pasteur Adam Hamilton donne aux démocrates un siège au Sénat pour la première fois depuis 1932",
-      "bullets": [
-        "Dans un Etat agricole, où la hausse des droits de douane et du carburant est mal passée, le sexagénaire, à la tête d’une vaste congrégation méthodiste, s’est imposé par son pragmatisme."
-      ],
-      "publishedAt": "2026-11-04T04:32:49+00:00",
-      "updatedAt": "2026-11-04T04:32:49+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-au-kansas-le-pasteur-adam-hamilton-reussit-l-exploit-pour-les-democrates_6806002_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8e1ad21f08c1f0f047aaf9a98b00396ca4ba9afadee0d6563fb49ba0f6b337a9",
+      "summaryInput": "75adbe66d61f6ee4597862f5744dd55affab20610dfcdfc99f9f7ae488fd5317",
       "detailLevel": "preview"
     },
     {
       "id": "rss-fb984e6aa9d9e2011e",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Au cœur d’un automne social, syndicats et patronat entament des négociations sur l’emploi des jeunes",
       "bullets": [
         "Le taux de chômage des 15-24 ans atteint 21,6 % au deuxième trimestre, en hausse de 2,5 points sur un an.",
@@ -872,31 +902,6 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "3006c8aa2226cb8acbc2bdbedeac9581d6be90736ed62481bf709ff48a9a5e42",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e0f1f3a4f504017c42",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
-      "bullets": [
-        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
-        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
-      ],
-      "publishedAt": "2026-11-03T17:30:00+00:00",
-      "updatedAt": "2026-11-03T17:30:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
       "detailLevel": "preview"
     },
     {
@@ -1005,52 +1010,27 @@
       "context": null
     },
     {
-      "id": "rss-c52b4292da52355c72",
+      "id": "rss-add54a5fee7f9d8e63",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "En Pologne, un opéra donne voix à la solidarité avec les Ukrainiens, contestée par le camp nationaliste",
+      "title": "Attentat de Trappes : « L’Arcom devait être un rempart, elle a favorisé le racisme par son inaction »",
       "bullets": [
-        "A Varsovie, les représentations des « Mères de Kherson », sur les atrocités de l’agression russe, ont eu une forte résonance dans un pays plus divisé que jamais sur le sort des réfugiés de guerre."
+        "Après une décennie de mensonges et de propos discriminatoires, dans certains médias, sur la ville des Yvelines et ses habitants, le député LFI Aurélien Saintoul rappelle, dans une tribune au « Monde », que la liberté d’expression n’est pas le « droit de répandre impunément la haine »."
       ],
-      "publishedAt": "2026-11-03T04:30:03+00:00",
-      "updatedAt": "2026-11-03T04:30:03+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-03T12:30:05+00:00",
+      "updatedAt": "2026-11-03T12:30:05+00:00",
+      "importance": 53,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-un-opera-donne-voix-a-la-solidarite-avec-les-ukrainiens-contestee-par-le-camp-nationaliste_6805530_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/03/attentat-de-trappes-l-arcom-devait-etre-un-rempart-elle-a-favorise-le-racisme-par-son-inaction_6805578_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "f55f3930c5def51803beb77972c97fb55ac4dc3613a4eba94e039c8ab0cfe02d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e161d8437ec38afa0d",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
-      "bullets": [
-        "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures.",
-        "Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’Hémicycle."
-      ],
-      "publishedAt": "2026-11-03T17:34:20+00:00",
-      "updatedAt": "2026-11-03T17:34:20+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75adbe66d61f6ee4597862f5744dd55affab20610dfcdfc99f9f7ae488fd5317",
+      "summaryInput": "9c45feed850b0139b10fe5ad55b055fd0cfec69af7278b58a36be1008c625865",
       "detailLevel": "preview"
     },
     {
@@ -1128,6 +1108,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4a90ede5c1d5b49297",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Dans « Gouverner », Jordan Bardella creuse le sillon libéral-sécuritaire du RN, sans propositions nouvelles",
+      "bullets": [
+        "Dans son troisième livre en trois ans, le président du Rassemblement national, aspirant premier ministre de Marine Le Pen, multiplie les promesses de dérégulation et de baisses d’impôts aux milieux patronaux avant de se lancer dans une critique nourrie de l’Etat social."
+      ],
+      "publishedAt": "2026-11-04T07:00:09+00:00",
+      "updatedAt": "2026-11-04T07:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3adf83b5a00827ff4d6e7e1e05b4576c8363cf8f253b78db4c084f4b8952beee",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e0f1f3a4f504017c42",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
+      "bullets": [
+        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
+        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
+      ],
+      "publishedAt": "2026-11-03T17:30:00+00:00",
+      "updatedAt": "2026-11-03T17:30:00+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-430763910b33904b9d",
       "revision": 1,
       "category": "france",
@@ -1177,30 +1206,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-366fdace47e009a7ad",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
-      "bullets": [
-        "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne…"
-      ],
-      "publishedAt": "2026-11-02T18:24:25+00:00",
-      "updatedAt": "2026-11-02T18:24:25+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "56dd642bf9efcf523e440c7c0a99581811281c6ee13c71b150d8493b7366e2ae",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8cc88dbca5fbeb3538",
       "revision": 1,
       "category": "france",
@@ -1225,31 +1230,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-efebde5dae3e4c7c25",
+      "id": "rss-c0bcae788bf8f96ec0",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Relever le plafond du livret A pour rénover les lycées ? L'initiative du gouvernement laisse ces Français circonspects",
+      "topic": "France",
+      "title": "«J’ai eu recours à un examen interdit en France » : DIP-A, le débat sur la sélection des embryons revient en force",
       "bullets": [
-        "Cette annonce tombe juste avant la nouvelle journée de mobilisation sur le pouvoir d'achat, prévue jeudi 5 novembre, et doit aussi répondre à l'une des revendications lycéennes, puisque cette épargne sera en partie fléchée vers la rénovation des lycées.",
-        "Est-ce que cela peut fonctionner ?\"C'est ma réserve pour les jours où j'ai un problème\"À première vue, passer le plafond du livret - de 22 950 à 30 000 euros maximum - et relever son taux de rémunération - actuellement à 1,7% - a toutes les chances de faire gonfler l'encours."
+        "DÉCRYPTAGE - Les confidences de Marine Tondelier et les préconisations remises à la ministre de la Santé relancent la controverse sur cet examen qui permet de détecter les anomalies chromosomiques d’embryons conçus par FIV."
       ],
-      "publishedAt": "2026-11-04T11:33:33+00:00",
-      "updatedAt": "2026-11-04T11:33:33+00:00",
+      "publishedAt": "2026-11-04T10:17:01+00:00",
+      "updatedAt": "2026-11-04T10:17:01+00:00",
       "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-relevement-du-plafond-du-livret-a-peut-il-etre-efficace-pour-renover-les-lycees_8267264.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/progres-ou-eugenisme-le-debat-sur-la-selection-des-embryons-revient-en-force-20261104",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "03809ddb1ef07ffb1e12a375cb928e959d758b2558fac12bfa99a298444a2dc7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T13:19:45.826061+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1263,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1287,13 +1289,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1311,7 +1313,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1329,7 +1331,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1353,7 +1355,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
@@ -1365,7 +1367,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
