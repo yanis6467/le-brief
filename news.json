@@ -1,39 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T17:06:51.045581+00:00",
+  "preparedAt": "2026-11-04T18:00:12.043743+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-295c92f6fa2053d260",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "À 4% en octobre, l’inflation dans la zone euro atteint un nouveau sommet depuis trois ans",
-      "bullets": [
-        "La hausse des prix dans les 21 pays partageant la monnaie unique européenne a accéléré à 4 %, contre 3,8 % en septembre, selon une première estimation d’Eurostat.",
-        "L’énergie entraîne les services et l’alimentation Selon Eurostat, la hausse des prix de l’énergie a atteint 20,8 % en octobre, contre 18,9 % le mois précédent.",
-        "Les prix des services (3,3 %, contre 3,2 % en septembre) et des produits alimentaires (1,6 %, contre 1,3 % en septembre) ont quant à eux légèrement augmenté."
-      ],
-      "publishedAt": "2026-11-04T10:56:40+00:00",
-      "updatedAt": "2026-11-04T10:56:40+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-eco/zone-euro-l-inflation-grimpe-a-4-en-octobre-nouveau-sommet-depuis-trois-ans-20261104",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "555321edd2920e97e0a9c8819c3278b5f8266f44bac4ed8b840e64e4ab701481",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
-      "context": null
-    },
     {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
@@ -138,31 +110,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T16:22:39.380288+00:00",
       "context": null
-    },
-    {
-      "id": "rss-d1c7cc9bd1f8106ca0",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Tout coûte entre 20 et 30% plus cher» : en Géorgie, le pouvoir d’achat au cœur du vote des électeurs aux midterms",
-      "bullets": [
-        "REPORTAGE - À Atlanta, la flambée des prix alimentaires, des carburants et des loyers nourrit les inquiétudes des habitants.",
-        "Comme partout ailleurs aux États-Unis, ils ont sanctionné les républicains dans les urnes lors des élections de mi-mandat, mardi 3 novembre."
-      ],
-      "publishedAt": "2026-11-04T15:39:58+00:00",
-      "updatedAt": "2026-11-04T15:39:58+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/tout-coute-entre-20-et-30-plus-cher-en-georgie-le-pouvoir-d-achat-au-coeur-du-vote-des-electeurs-aux-midterms-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "44641eec89f28378e4de4e1aa11691004e8e47b25a762e5956f9dc05a6a1374a",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d4de7d37434d40ae34",
@@ -320,6 +267,59 @@
       "context": null
     },
     {
+      "id": "rss-3205f78f7c2d28e549",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après les supermarchés, l’Établissement français du sang victime d’une cyberattaque, ses chambres froides prises pour cible",
+      "bullets": [
+        "Mardi 3 novembre, l’Établissement français du sang (EFS) a été victime d’une attaque ayant saboté une partie de ses équipements frigorifiques.",
+        "LIRE AUSSI - Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens La continuité des activités assurée La situation est toutefois sous contrôle, assure l’EFS.",
+        "Dans la nuit du 10 au 11 octobre, les infrastructures frigorifiques des grands distributeurs tricolores ont été ciblées, sabotant un maillon essentiel de la chaîne alimentaire du pays."
+      ],
+      "publishedAt": "2026-11-04T10:25:28+00:00",
+      "updatedAt": "2026-11-04T10:25:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/apres-les-supermarches-l-etablissement-francais-du-sang-victime-d-une-cyberattaque-ses-chambres-froides-prises-pour-cible-20261104",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "6c928faa7b222e561b2aba8c7f76a8c5ce18ab4606f4c41dbd96844a7ca1cafa",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T18:00:12.043743+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f1829d57c111c05ca4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Un «13e voire un 14e mois de salaire» contre la fin des 35 heures : la promesse de Bruno Retailleau est-elle viable ?",
+      "bullets": [
+        "Le candidat LR à la présidentielle veut redonner du pouvoir d’achat aux Français en les incitant à travailler trente minutes de plus par jour.",
+        "En contrepartie, les heures supplémentaires à partir de la 36e heure seraient exonérées de cotisations, pour le salarié comme pour l’entreprise."
+      ],
+      "publishedAt": "2026-11-04T17:19:07+00:00",
+      "updatedAt": "2026-11-04T17:19:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/un-13e-voire-un-14e-mois-de-salaire-contre-la-fin-des-35-heures-la-promesse-de-bruno-retailleau-est-elle-viable-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9ce2d4872d5c62f35b206c8afe88b6844a791159e35e3990ca37d8f9a120861b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-3498331cc5d7cd92b7",
       "revision": 1,
       "category": "markets",
@@ -442,8 +442,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T17:01:45+00:00",
-      "updatedAt": "2026-11-04T17:01:45+00:00",
+      "publishedAt": "2026-11-04T17:42:37+00:00",
+      "updatedAt": "2026-11-04T17:42:37+00:00",
       "importance": 69,
       "sources": [
         {
@@ -619,6 +619,31 @@
       "context": null
     },
     {
+      "id": "rss-4ca95576f7b4ce8635",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le Rwanda, ancien partenaire modèle des Etats-Unis, désormais dans le collimateur de l’administration Trump",
+      "bullets": [
+        "Washington a annoncé, lundi 2 novembre, l’exclusion de Kigali de l’accord commercial préférentiel AGOA, à compter du 1ᵉʳ janvier 2027.",
+        "Une décision brusque liée à l’implication du régime rwandais dans la guerre en cours dans l’est de la République démocratique du Congo."
+      ],
+      "publishedAt": "2026-11-04T17:30:12+00:00",
+      "updatedAt": "2026-11-04T17:30:12+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/le-rwanda-ancien-partenaire-modele-des-etats-unis-desormais-dans-le-collimateur-de-l-administration-trump_6806408_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6e283f15616361be73339d613c65c91d775707b73109baac59576edef1f69f64",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-cd2e56aa5bf71951fb",
       "revision": 1,
       "category": "world",
@@ -733,8 +758,8 @@
       "bullets": [
         "Alors que les discussions sont en cours pour tenter de former un nouveau gouvernement, les Démocrates de Suède (SD) se divisent sur les causes de leur échec aux législatives et sur la définition du nationalisme prônée par le parti."
       ],
-      "publishedAt": "2026-11-04T16:00:09+00:00",
-      "updatedAt": "2026-11-04T16:00:09+00:00",
+      "publishedAt": "2026-11-04T16:00:03+00:00",
+      "updatedAt": "2026-11-04T16:00:03+00:00",
       "importance": 77,
       "sources": [
         {
@@ -746,6 +771,31 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "0568148eab5062e7896e8621ea4eab3540173ec978a0093c1b353cbaed5dc74c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d1c7cc9bd1f8106ca0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Tout coûte entre 20 et 30% plus cher» : en Géorgie, le pouvoir d’achat au cœur du vote des électeurs aux midterms",
+      "bullets": [
+        "REPORTAGE - À Atlanta, la flambée des prix alimentaires, des carburants et des loyers nourrit les inquiétudes des habitants.",
+        "Comme partout ailleurs aux États-Unis, ils ont sanctionné les républicains dans les urnes lors des élections de mi-mandat, mardi 3 novembre."
+      ],
+      "publishedAt": "2026-11-04T15:39:58+00:00",
+      "updatedAt": "2026-11-04T15:39:58+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/tout-coute-entre-20-et-30-plus-cher-en-georgie-le-pouvoir-d-achat-au-coeur-du-vote-des-electeurs-aux-midterms-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "44641eec89f28378e4de4e1aa11691004e8e47b25a762e5956f9dc05a6a1374a",
       "detailLevel": "preview"
     },
     {
@@ -829,76 +879,27 @@
       "context": null
     },
     {
-      "id": "rss-4162024a18e7da55fb",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : premier sénateur musulman, premier homme ouvertement gay au Sénat… plusieurs candidats issus de minorités ont remporté des sièges",
-      "bullets": [
-        "A l’image d’Abdul El-Sayed, devenu premier sénateur musulman aux Etats-Unis, plusieurs candidats issus de minorités ont remporté pour la première fois des postes de premier rang lors des élections de mi-mandat, le 3 novembre 2026."
-      ],
-      "publishedAt": "2026-11-04T13:57:37+00:00",
-      "updatedAt": "2026-11-04T13:57:37+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/video/2026/11/04/midterms-2026-premier-senateur-musulman-premier-homme-ouvertement-gay-au-senat-plusieurs-candidats-issus-de-minorites-ont-remporte-des-sieges_6806236_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b2b7ac0a837f93fd0baae81bf46ad644070be2cd84a615596c703b39094b15e2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9fb2a8acc4738d306f",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
-      "bullets": [
-        "Le premier ministre sénégalais, Ahmadou Al Aminou Mohamed Lô, essuie un nouveau revers.",
-        "Sa loi de finances rectificative pour 2026, calibrée pour répondre aux attentes du FMI, a été rejetée par l’Assemblée nationale, mardi 3 novembre, pour la troisième fois."
-      ],
-      "publishedAt": "2026-11-04T11:00:08+00:00",
-      "updatedAt": "2026-11-04T11:00:08+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-le-debat-sur-les-finances-publiques-vire-au-blocage-institutionnel_6806149_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "468be03571fa7276e5e8a10eb7bccc4dd53d1d8cdbc22ef835581ce9c6ec072e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6b980516e4433ec277",
+      "id": "rss-035b1226c3a7b32ddb",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
+      "title": "Budget 2026 : le gouvernement tente un ultime tour de vis pour éviter un dérapage XXL",
       "bullets": [
-        "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC."
+        "Le gouvernement a annoncé, mercredi 4 novembre, l’annulation de crédits pour 3,8 milliards d’euros. Mais il prévoit en parallèle 3,7 milliards d’euros de dépenses supplémentaires. Au total, le déficit risque d’atteindre 5,4 % du PIB, selon Bercy. Davantage, redoutent les experts."
       ],
-      "publishedAt": "2026-11-04T16:00:30+00:00",
-      "updatedAt": "2026-11-04T16:00:30+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-04T17:43:58+00:00",
+      "updatedAt": "2026-11-04T17:43:58+00:00",
+      "importance": 99,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
+      "summaryInput": "a203464c4843a8601d25b3bc187f37c7e0f867529ab8142d5436942b0a456bce",
       "detailLevel": "preview"
     },
     {
@@ -927,28 +928,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8e9d92bc291390e8f5",
+      "id": "rss-7c0158883b086d5aaf",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Concours remanié, plus de diversité sociale… Vers une réforme de l’École nationale de la magistrature pour une justice «à l’image de la société»",
+      "title": "« Tout cela reviendrait à 3 milliards d’euros » : supprimer la sélection à l’université, une revendication qui divise",
       "bullets": [
-        "ANALYSE - Le ministre de la Justice, Gérald Darmanin, veut une formation recentrée sur l’art de juger, la communication, et la connaissance des institutions publiques.",
-        "Valérie Delnaud, actuelle directrice des affaires civiles et du sceau, pourrait endosser le rôle de nouvelle directrice."
+        "DÉCRYPTAGE - Plusieurs syndicats étudiants et lycéens, soutenus par LFI, réclament un accès à l’enseignement supérieur sans sélection.",
+        "Si des présidents d’université sont favorables à une hausse des effectifs, ils soulignent la nécessité de mieux orienter les bacheliers."
       ],
-      "publishedAt": "2026-11-03T12:32:24+00:00",
-      "updatedAt": "2026-11-03T12:32:24+00:00",
-      "importance": 83,
+      "publishedAt": "2026-11-04T17:24:50+00:00",
+      "updatedAt": "2026-11-04T17:24:50+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/concours-remanie-plus-de-diversite-sociale-vers-une-reforme-de-l-ecole-nationale-de-la-magistrature-pour-une-justice-a-l-image-de-la-societe-20261103",
+          "url": "https://www.lefigaro.fr/actualite-france/tout-cela-reviendrait-a-3-milliards-d-euros-supprimer-la-selection-a-l-universite-une-revendication-qui-divise-20261104",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
+      "summaryInput": "c4f96971695ea16b70c7316325133c4a93d8572d35bde91fcb552ddab3b35cb3",
       "detailLevel": "preview"
     },
     {
@@ -1065,8 +1066,8 @@
       "bullets": [
         "Les précipitations devraient s’intensifier dans la soirée et se poursuivre jeudi, particulièrement sur la façade orientale de l’île, prévient Météo-France."
       ],
-      "publishedAt": "2026-11-04T15:46:42+00:00",
-      "updatedAt": "2026-11-04T15:46:42+00:00",
+      "publishedAt": "2026-11-04T15:46:38+00:00",
+      "updatedAt": "2026-11-04T15:46:38+00:00",
       "importance": 47,
       "sources": [
         {
@@ -1103,6 +1104,31 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "13f1dc3c26df0ceb0b2f67c87458476edbadac57d57ef406d77fb37077d621fc",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8e9d92bc291390e8f5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Concours remanié, plus de diversité sociale… Vers une réforme de l’École nationale de la magistrature pour une justice «à l’image de la société»",
+      "bullets": [
+        "ANALYSE - Le ministre de la Justice, Gérald Darmanin, veut une formation recentrée sur l’art de juger, la communication, et la connaissance des institutions publiques.",
+        "Valérie Delnaud, actuelle directrice des affaires civiles et du sceau, pourrait endosser le rôle de nouvelle directrice."
+      ],
+      "publishedAt": "2026-11-03T12:32:24+00:00",
+      "updatedAt": "2026-11-03T12:32:24+00:00",
+      "importance": 83,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/concours-remanie-plus-de-diversite-sociale-vers-une-reforme-de-l-ecole-nationale-de-la-magistrature-pour-une-justice-a-l-image-de-la-societe-20261103",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
       "detailLevel": "preview"
     },
     {
@@ -1154,6 +1180,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6b980516e4433ec277",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
+      "bullets": [
+        "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC."
+      ],
+      "publishedAt": "2026-11-04T16:00:30+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ec74cbd8c6a2e59d05",
       "revision": 1,
       "category": "france",
@@ -1176,30 +1226,6 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "67f2f373a2da1bb03c1fda0bb413b39035b7645aa2025a0d609fbe1c77dd409d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4a90ede5c1d5b49297",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Dans « Gouverner », Jordan Bardella creuse le sillon libéral-sécuritaire du RN, sans propositions nouvelles",
-      "bullets": [
-        "Dans son troisième livre en trois ans, le président du Rassemblement national, aspirant premier ministre de Marine Le Pen, multiplie les promesses de dérégulation et de baisses d’impôts aux milieux patronaux avant de se lancer dans une critique nourrie de l’Etat social."
-      ],
-      "publishedAt": "2026-11-04T07:00:09+00:00",
-      "updatedAt": "2026-11-04T07:00:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3adf83b5a00827ff4d6e7e1e05b4576c8363cf8f253b78db4c084f4b8952beee",
       "detailLevel": "preview"
     },
     {
@@ -1249,34 +1275,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cca178c75d92f463e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "VIDEO. Mutuelles, système de santé : et si l’Alsace-Moselle avait tout compris ?",
-      "bullets": [
-        "Quelque 16 milliards d’euros de déficit de l’Assurance Maladie en 2025, une hausse des cotisations des complémentaires santé de 40% depuis 2011 : notre santé coûte de plus en plus cher.",
-        "En tout, plus de 2 millions de personnes sont concernées.",
-        "Nulle magie, ce sont les assurés d'Alsace-Moselle qui le financent : ils versent une cotisation supplémentaire de 1,3% de leur revenu brut."
-      ],
-      "publishedAt": "2026-11-04T09:12:25+00:00",
-      "updatedAt": "2026-11-04T09:12:25+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/video-mutuelles-systeme-de-sante-et-si-l-alsace-moselle-avait-tout-compris_8260493.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "be82154d9710cfc73ae3254740874f4b829fe67ea77c1a6a06ff0815fe58f7ba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1338,7 +1336,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
