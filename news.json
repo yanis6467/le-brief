@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T04:06:11.946870+00:00",
+  "preparedAt": "2026-11-04T05:10:14.059624+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -220,6 +220,34 @@
       "context": null
     },
     {
+      "id": "rss-aa4fd597fcb11670a7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Revalorisation des salaires, services publics, \"justice fiscale\"... Quelles sont les revendications des syndicats pour la grève du 5 novembre ?",
+      "bullets": [
+        "Cet appel fait également suite à une première journée de mobilisation du monde du travail, qui ne concernait que la fonction publique, le 29 septembre.",
+        "Enfin, \"des mesures de justice fiscale pour taxer les patrimoines, les héritages et les dividendes\" sont réclamées, tout comme \"l'évaluation, le conditionnement et le redéploiement des 211 milliards d'aides publiques\".",
+        "\"On bloquera jeudi pour ensuite aller en manifestation le 5 novembre à l'appel des travailleurs et travailleuses\", a fait savoir le 31 octobre Sabrine Kharbach, porte-parole de l'Union syndicale lycéenne (USL)."
+      ],
+      "publishedAt": "2026-11-04T05:04:05+00:00",
+      "updatedAt": "2026-11-04T05:04:05+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/revalorisation-des-salaires-services-publics-justice-fiscale-quelles-sont-les-revendications-des-syndicats-pour-la-greve-du-5-novembre_8263733.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "2dfb08b26e93d74720dfa94674b8dc9ab0c7721c9471d5d19234749be37a3180",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T05:10:14.059624+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9b69260243bce2b1de",
       "revision": 1,
       "category": "eco",
@@ -299,31 +327,6 @@
       "context": null
     },
     {
-      "id": "rss-1bd6a800028269c93c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Pouvoir d’achat : les vraies raisons du déclassement des Français",
-      "bullets": [
-        "DÉCRYPTAGE - Charges sociales, dépenses contraintes, PIB par habitant en baisse… Le sentiment de déclassement des Français, au cœur des manifestations, a des causes bien réelles, détaille l’Institut Montaigne.",
-        "Reste à s’entendre sur les remèdes."
-      ],
-      "publishedAt": "2026-11-03T19:15:00+00:00",
-      "updatedAt": "2026-11-03T19:15:00+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/pouvoir-d-achat-les-vraies-raisons-du-declassement-des-francais-20261103",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6940b010e1f5a0512e15a6be94cebb8c421577e8922885674d924da7876ebe6b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0cfbd2f0f820795fc",
       "revision": 1,
       "category": "markets",
@@ -336,7 +339,7 @@
       ],
       "publishedAt": "2026-11-03T16:47:30+00:00",
       "updatedAt": "2026-11-03T16:47:30+00:00",
-      "importance": 93,
+      "importance": 92,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -348,7 +351,7 @@
       "provenance": "article-extract",
       "summaryInput": "0d81aefeea2a510409134cbfa60a9352098d46088fbfe9545433a65f15e6621f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
+      "enrichedAt": "2026-11-04T05:10:14.059624+00:00",
       "context": null
     },
     {
@@ -390,8 +393,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T04:00:46+00:00",
-      "updatedAt": "2026-11-04T04:00:46+00:00",
+      "publishedAt": "2026-11-04T05:05:41+00:00",
+      "updatedAt": "2026-11-04T05:05:41+00:00",
       "importance": 69,
       "sources": [
         {
@@ -571,6 +574,34 @@
       "context": null
     },
     {
+      "id": "rss-203dfacc388cc4b863",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "États-Unis : la campagne des élections de mi-mandat 2026 devrait battre des records de dépenses",
+      "bullets": [
+        "Une augmentation de 30% par rapport à celle de 2022, qui a coûté 8,9 milliards de dollars.",
+        "Selon les projections d’Open Secrets, les candidats démocrates dépenseront plus de 2,2 milliards de dollars contre seulement 1,4 milliard pour les républicains.",
+        "Le camp démocrate devrait y frôler le milliard de dollars de dépenses, contre moins de 500 millions du côté républicain."
+      ],
+      "publishedAt": "2026-11-04T04:45:21+00:00",
+      "updatedAt": "2026-11-04T04:45:21+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/flash-actu/etats-unis-la-campagne-des-elections-de-mi-mandat-2026-devrait-battre-des-records-de-depenses-20261103",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "3e95c999588cc37a64d43187c8bc8cfaf51370b08f4856e106f6c990f26b76dc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-03T23:50:41.157983+00:00",
+      "context": null
+    },
+    {
       "id": "rss-603f5f01208ee654cf",
       "revision": 1,
       "category": "world",
@@ -596,34 +627,6 @@
       "summaryInput": "6a565ffa0714fe66ae364580cf2451fabb9a6137ef1d2622a31739c4f8bed708",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T04:06:11.946870+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-203dfacc388cc4b863",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "États-Unis : la campagne des élections de mi-mandat 2026 devrait battre des records de dépenses",
-      "bullets": [
-        "Une augmentation de 30% par rapport à celle de 2022, qui a coûté 8,9 milliards de dollars.",
-        "Selon les projections d’Open Secrets, les candidats démocrates dépenseront plus de 2,2 milliards de dollars contre seulement 1,4 milliard pour les républicains.",
-        "Le camp démocrate devrait y frôler le milliard de dollars de dépenses, contre moins de 500 millions du côté républicain."
-      ],
-      "publishedAt": "2026-11-03T23:01:01+00:00",
-      "updatedAt": "2026-11-03T23:01:01+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-actu/etats-unis-la-campagne-des-elections-de-mi-mandat-2026-devrait-battre-des-records-de-depenses-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "3e95c999588cc37a64d43187c8bc8cfaf51370b08f4856e106f6c990f26b76dc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T23:50:41.157983+00:00",
       "context": null
     },
     {
@@ -749,6 +752,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-23485c966f90ae9f43",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+      "bullets": [
+        "Chômage, criminalité, déliquescence des infrastructures, corruption… Le pays, dirigé depuis 1994 par le Congrès national africain, est rongé par de multiples crises.",
+        "Le parti est annoncé au coude-à-coude avec l’Alliance démocratique lors du scrutin municipal de mercredi 4 novembre."
+      ],
+      "publishedAt": "2026-11-04T05:00:25+00:00",
+      "updatedAt": "2026-11-04T05:00:25+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "712156db73287831371fc948f5af2461b681df8ec116e1eec083daca3396e856",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-06c40fc66d20465526",
       "revision": 1,
       "category": "world",
@@ -759,7 +787,7 @@
       ],
       "publishedAt": "2026-11-03T05:00:00+00:00",
       "updatedAt": "2026-11-03T05:00:00+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -800,30 +828,6 @@
       "context": null
     },
     {
-      "id": "rss-3d2b637c1a51ac030a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
-      "bullets": [
-        "Un bombardement, le 1ᵉʳ novembre, contre une école faisant office, chaque lundi, de centre de distribution d’aide humanitaire a fait 33 morts et une cinquantaine de disparus, selon le dernier bilan."
-      ],
-      "publishedAt": "2026-11-03T18:00:01+00:00",
-      "updatedAt": "2026-11-03T18:00:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-la-russie-intensifie-ses-frappes-contre-des-cibles-civiles_6805643_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "afeeff686e568f3f3b0fae5b693320040e4b9767447046ed5a0d773fef1c2def",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e161d8437ec38afa0d",
       "revision": 2,
       "category": "france",
@@ -849,27 +853,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5c60041988595cdf2d",
+      "id": "rss-e0f1f3a4f504017c42",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
+      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
       "bullets": [
-        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre."
+        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
+        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
       ],
-      "publishedAt": "2026-11-03T23:06:29+00:00",
-      "updatedAt": "2026-11-03T23:06:29+00:00",
+      "publishedAt": "2026-11-03T17:30:00+00:00",
+      "updatedAt": "2026-11-03T17:30:00+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
-      "summaryInput": "c1d5e032cd96f8ef8f17a46740578da710b7480faf6698f7d83c68a45b150b62",
+      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
       "detailLevel": "preview"
     },
     {
@@ -988,7 +993,7 @@
       ],
       "publishedAt": "2026-11-03T04:30:03+00:00",
       "updatedAt": "2026-11-03T04:30:03+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1051,6 +1056,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e16433f092174f4cfa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget 2027 : devant l’impasse des débats, Sébastien Lecornu explore la voie des ordonnances",
+      "bullets": [
+        "Alors que l’Assemblée nationale s’apprête à rejeter la partie recettes du projet de loi de finances, le gouvernement est soupçonné de laisser filer la discussion pour mettre en œuvre son texte initial par ordonnances, une solution jugée plus sûre que le recours au 49.3 par des membres du camp présidentiel…"
+      ],
+      "publishedAt": "2026-11-04T04:30:02+00:00",
+      "updatedAt": "2026-11-04T04:30:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e25218527d581bc116d88930c4dbf97f4c15ddd452814d1163bb49889089f3f5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5c60041988595cdf2d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
+      "bullets": [
+        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre."
+      ],
+      "publishedAt": "2026-11-03T23:06:29+00:00",
+      "updatedAt": "2026-11-03T23:06:29+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c1d5e032cd96f8ef8f17a46740578da710b7480faf6698f7d83c68a45b150b62",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a2ccf213fd4c2908c6",
       "revision": 1,
       "category": "france",
@@ -1077,31 +1130,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-03T19:06:27.294790+00:00",
       "context": null
-    },
-    {
-      "id": "rss-e0f1f3a4f504017c42",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
-      "bullets": [
-        "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité.",
-        "Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place."
-      ],
-      "publishedAt": "2026-11-03T17:30:00+00:00",
-      "updatedAt": "2026-11-03T17:30:00+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-fa32b22a0cc3495eae",
@@ -1199,34 +1227,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-39d7ef799854a7f409",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
-      "bullets": [
-        "L'infertilité concerne aujourd'hui plus de 3 millions de Français, soit 15 à 25% des couples en âge de procréer.",
-        "A partir de mi-novembre, un courrier sera envoyé à tous les Français de 29 ans pour leur rappeler notamment que la fertilité baisse à partir de 30 ans chez les femmes et, c'est moins connu, à partir de 40 ans chez les hommes.",
-        "Mais le délai d'attente varie de 14 à 24 mois selon les régions."
-      ],
-      "publishedAt": "2026-11-03T16:11:52+00:00",
-      "updatedAt": "2026-11-03T16:11:52+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "5f005dee863dff0bd7c1bb0a9b6fefecf0204b685d6d5422cc18a6f625b70455",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-03T17:08:22.916891+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1306,7 +1306,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
