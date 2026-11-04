@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-04",
-  "preparedAt": "2026-11-04T09:08:34.801291+00:00",
+  "preparedAt": "2026-11-04T10:17:18.929635+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -84,6 +84,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e2c12cdd3ebe196d7f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La banque Crédit Mutuel Arkéa victime d’une cyberattaque ayant permis des «opérations frauduleuses»",
+      "bullets": [
+        "La banque Crédit Mutuel Arkéa, basée en Bretagne, a déclaré mercredi avoir été victime d'une attaque informatique ayant permis «la réalisation d'opérations frauduleuses», un incident «aujourd'hui maîtrisé», ajoute-t-elle.",
+        "La banque n'a pas confirmé le montant du détournement de 133 millions de dollars (118 millions d'euros) cité par le journal Le Télégramme.",
+        "Arkéa indique cependant à ses clients que cet incident «n'a aucune conséquence financière pour eux»."
+      ],
+      "publishedAt": "2026-11-04T09:39:36+00:00",
+      "updatedAt": "2026-11-04T09:39:36+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/la-banque-credit-mutuel-arkea-victime-d-une-cyberattaque-ayant-permis-des-operations-frauduleuses-20261104",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "e681d8cb5b5795099e31293f60ba99e45014dba9f5292953643ee68efba33569",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
+      "context": null
+    },
+    {
       "id": "rss-6ca8ef2bc1f8cfcc99",
       "revision": 1,
       "category": "eco",
@@ -109,34 +137,6 @@
       "summaryInput": "0ca2a22b5f2928e47a3f1938be2a78fe6f7528c120e2c7acddbb7b0bd6bbac6c",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-a96195c353a60002bd",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Faux entretien d'embauche, détournement d'IA… Binance révèle le mode opératoire du piratage record dont elle a été victime",
-      "bullets": [
-        "Binance a publié mardi 3 novembre un récit détaillé des préparatifs de l'attaque qui a permis à des pirates de dérober 6,3 milliards de dollars sur la plateforme d'échange de cryptomonnaies, avec faux entretien d'embauche et détournement de modèles d'intelligence artificielle (IA) internes.",
-        "L'offensive, perpétrée sur environ quatre heures le 29 octobre, a été attribuée par la police fédérale (FBI) à des informaticiens affiliés à la Corée du Nord, qui a démenti.",
-        "LIRE AUSSI - Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ?"
-      ],
-      "publishedAt": "2026-11-03T18:25:06+00:00",
-      "updatedAt": "2026-11-03T18:25:06+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/faux-entretien-d-embauche-detournement-d-ia-binance-revele-le-mode-operatoire-du-piratage-record-dont-elle-a-ete-victime-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "608b074a86ff59d0c577f1eae2775bd681f50899e9484b1074d2f71d5e6dc080",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T07:29:52.579694+00:00",
       "context": null
     },
     {
@@ -362,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-04T09:04:57+00:00",
-      "updatedAt": "2026-11-04T09:04:57+00:00",
+      "publishedAt": "2026-11-04T10:13:31+00:00",
+      "updatedAt": "2026-11-04T10:13:31+00:00",
       "importance": 69,
       "sources": [
         {
@@ -444,7 +444,7 @@
       ],
       "publishedAt": "2026-11-02T09:50:11+00:00",
       "updatedAt": "2026-11-02T09:50:11+00:00",
-      "importance": 56,
+      "importance": 55,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -483,15 +483,43 @@
       "verifiedAt": "2026-11-02"
     },
     {
-      "id": "rss-f39c8755a3b01f29cc",
+      "id": "rss-9c352c04cba436567a",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Le démocrate Abdul el-Sayed élu sénateur du Michigan lors des midterms 2026, devenant ainsi le premier Américain de confession musulmane à siéger au Sénat",
+      "title": "\"Il reste avec énormément de pouvoir\", assure Jérôme Viala-Gaudefroy, docteur en civilisation américaine, après la défaite de Donald Trump aux midterms",
       "bullets": [
-        "Le candidat démocrate Abdul el-Sayed, épidémiologiste progressiste du Michigan, a décroché un siège au Sénat lors des élections de mi-mandat aux Etats-Unis, mardi 3 novembre.",
-        "L'élu devient ainsi le premier Américain de confession musulmane à siéger à la chambre haute du Congrès, à Washington (Etats-Unis).",
-        "Suivez le décompte des sièges au Congrès Donald Trump et ses partisans ont multiplié les attaques contre lui, l'accusant notamment, ainsi que sa famille, d'entretenir des liens avec les Frères musulmans et l'organisation jihadiste al-Qaïda."
+        "Donc il pourrait y avoir aussi des tensions institutionnelles qui devront être décidées par la Cour suprême.",
+        "Trump peut aussi dire que c'est le privilège de l'exécutif qui lui permet de dire : \"Non, il ne peut pas venir parce qu'on a, nous, en tant qu'exécutif, ce privilège, on est en charge\".",
+        "Et là, ça pourrait être aussi décidé au niveau de la Cour suprême."
+      ],
+      "publishedAt": "2026-11-04T09:28:20+00:00",
+      "updatedAt": "2026-11-04T09:28:20+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/il-reste-avec-enormement-de-pouvoir-assure-jerome-viala-gaudefroy-docteur-en-civilisation-americaine-apres-la-defaite-de-donald-trump-aux-midterms_8267375.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "article-extract",
+      "summaryInput": "14a338ced9f65053b38d7b286ecb3c22e84d3d56ecb38ed2a24a223d33c9beec",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f39c8755a3b01f29cc",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Le démocrate Abdul el-Sayed devient le premier candidat musulman à être élu au Sénat américain, à l'issue des midterms 2026",
+      "bullets": [
+        "Abdul el-Sayed, candidat démocrate dans le Michigan, l'a emporté lors des élections de mi-mandat aux Etats-Unis, mercredi 4 novembre.",
+        "Donald Trump et ses partisans ont multiplié les attaques contre l'homme politique de 42 ans, l'accusant notamment d'entretenir des liens avec les Frères musulmans et l'organisation jihadiste Al-Qaïda.",
+        "Le candidat a également axé sa campagne sur la lutte contre l'influence de l'argent en politique."
       ],
       "publishedAt": "2026-11-04T08:39:40+00:00",
       "updatedAt": "2026-11-04T08:39:40+00:00",
@@ -505,21 +533,21 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "9bb5a556e7f5f25b5275ff9f37b93f99739319142e4a9f8cce46f2cd54ff0107",
+      "summaryInput": "a4bfeee6a0f60959c882bb0dcf0098014f695a2092eb3eb15c8a9f80d49edbc1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
       "context": null
     },
     {
       "id": "rss-e680176a781fadd8da",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Elon Musk, après avoir injecté des sommes record, ironise sur la défaite électorale des républicains lors des midterms 2026",
+      "title": "Après avoir injecté des sommes record pour soutenir les républicains, Elon Musk ironise sur la défaite électorale des conservateurs lors des midterms 2026",
       "bullets": [
         "Le milliardaire Elon Musk, qui a dépensé des centaines de millions de dollars pour soutenir les candidats républicains aux élections de mi-mandat, a ironisé mercredi 4 novembre sur son échec.",
-        "\"J'ai l'impression que l'ingérence de mes lasers spatiaux dans les élections n'a pas fonctionné cette fois\", a plaisanté le patron de SpaceX, après notamment la défaite de Ken Paxton face James Talarico, le candidat qu'il soutenait à la sénatoriale du Texas.",
-        "Les démocrates ont remporté la victoire au Sénat et à la Chambre des représentants, dans une vague bleue historique."
+        "\"J'ai l'impression que l'ingérence de mes lasers spatiaux dans les élections n'a pas fonctionné cette fois\", a plaisanté le patron de SpaceX, après notamment la défaite de Ken Paxton, le candidat qu'il soutenait au Texas, face James Talarico.",
+        "Les démocrates ont remporté la victoire au Sénat et à la Chambre des représentants, lors d'un scrutin qui s'est révélé désastreux pour les conservateurs."
       ],
       "publishedAt": "2026-11-04T08:15:00+00:00",
       "updatedAt": "2026-11-04T08:15:00+00:00",
@@ -533,9 +561,9 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "500c77ec92ca7bc4b8254b5304c303e917aad303537326c02925ebceae354fdc",
+      "summaryInput": "825ec8f0e7ec9c8d2f1c074a4d09bfc663c457ecbf0bb2ab627701201cae9af7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
       "context": null
     },
     {
@@ -613,34 +641,10 @@
       ],
       "verifiedAt": "2026-11-04",
       "provenance": "article-extract",
-      "summaryInput": "0d4c815ce27113f65c18c852d30a4a015b19fdc0cf5a4aefba0494f31abc60cd",
+      "summaryInput": "fa8cd58549c3d28a81faf87bb178111c3c873a6443c80bfa16f17543eb75c5a6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
       "context": null
-    },
-    {
-      "id": "rss-3b799f19b43d11d1d8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Alban Mikoczy : Élections US, l'heure de vérité pour Trump",
-      "bullets": [
-        "Dans cette troisième partie, Alban Mickoczy et ses invités parlent des élections de mi-mandat qui ont eu lieu mardi 3 novembre aux États-Unis. Ils évoquent les enjeux des midterms pour Donald Trump en détaillant son programme et se questionnent sur la façon dont il réagira en cas de défaite. Une…"
-      ],
-      "publishedAt": "2026-11-04T07:04:19+00:00",
-      "updatedAt": "2026-11-04T07:04:19+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-suivre-alban-mikoczy-elections-us-l-heure-de-verite-pour-trump_8267276.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a719b2dfbf37dd2ddb53f904029ca31bc780afc0af68c2b98d2e150efdc24fca",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-203dfacc388cc4b863",
@@ -720,6 +724,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-49561b72494509eb8b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : au lendemain du scrutin, la menace d’une reprise de la guerre américaine contre l’Iran",
+      "bullets": [
+        "Malgré la défaite cuisante de son camp, le président républicain a réaffirmé, durant la nuit de mardi à mercredi, qu’il envisageait d’infliger un « coup dur » à Téhéran.",
+        "Durant la campagne, il n’avait cessé d’évoquer la République islamique, la menaçant de nouvelles frappes ou en minimisant la menace."
+      ],
+      "publishedAt": "2026-11-04T09:42:45+00:00",
+      "updatedAt": "2026-11-04T09:42:45+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-au-lendemain-du-scrutin-la-menace-d-une-reprise-de-la-guerre-americaine-contre-l-iran_6806138_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1a41d4c893e048960f7e6e09177960c448242a84d385e2b25156c75adf37fb33",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-23485c966f90ae9f43",
       "revision": 1,
       "category": "world",
@@ -767,33 +796,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "05135a9f5e245e9452388621a99ea798046a032c9bbda247c2a7361b75eb05f3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b5070e76f61f9ede15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms : Donald Trump «va tenter de voler l’élection comme par le passé», alerte le gouverneur démocrate Gavin Newsom",
-      "bullets": [
-        "« Mes yeux sont grands ouverts et les yeux du monde devraient être grands ouverts sur ce qu’il fait… aucun d’entre nous n’est naïf sur ce qu’il va se passer s’il ne veut pas partir en 2028 ou reconnaître les résultats de 2026 », a ajouté le gouverneur.",
-        "Le démocrate entend « reprendre la Chambre des représentants et faire cesser la présidence de Donald Trump telle que nous la connaissons » et dénonce les « assauts contre les institutions, la démocratie, contre la vérité, contre la confiance »."
-      ],
-      "publishedAt": "2026-11-03T15:43:35+00:00",
-      "updatedAt": "2026-11-03T15:43:35+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/midterms-donald-trump-va-tenter-de-voler-l-election-comme-par-le-passe-alerte-le-gouverneur-democrate-gavin-newsom-20261103",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "article-extract",
-      "summaryInput": "8d419a1407374d00f6e4c42542282f6d0784bbda58d7f5701afc37f785def145",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T09:08:34.801291+00:00",
-      "context": null
     },
     {
       "id": "rss-e161d8437ec38afa0d",
@@ -909,7 +911,7 @@
       ],
       "publishedAt": "2026-11-03T09:51:37+00:00",
       "updatedAt": "2026-11-03T09:51:37+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -947,7 +949,7 @@
       "provenance": "article-extract",
       "summaryInput": "e18a189a71f422af4e9f857fc5295b986ac8d30fbbd5872afc35ccd3f3549050",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-03T21:57:10.519885+00:00",
+      "enrichedAt": "2026-11-04T10:17:18.929635+00:00",
       "context": null
     },
     {
@@ -1010,7 +1012,7 @@
       ],
       "publishedAt": "2026-11-03T09:29:05+00:00",
       "updatedAt": "2026-11-03T09:29:05+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1073,6 +1075,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5c60041988595cdf2d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît un « échec »",
+      "bullets": [
+        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre, « lié à la simultanéité des événements » lors des violences du 17 octobre."
+      ],
+      "publishedAt": "2026-11-03T23:06:26+00:00",
+      "updatedAt": "2026-11-03T23:06:26+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-04",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2a1f62fcbb52ef6d4fba51fe83e158e2b44781fc763b6cef2d4d150202d78da5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e0f1f3a4f504017c42",
       "revision": 1,
       "category": "france",
@@ -1095,30 +1121,6 @@
       "verifiedAt": "2026-11-04",
       "provenance": "rss-excerpt",
       "summaryInput": "d63b0d6ce72f5bd1e671e4a3baaaf56c5f1cf2f48ff3c92c3a193ceda7043272",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-54b958415d161c193b",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Hostilité envers la police, guerre ouverte avec Gérald Darmanin... Au cœur de la crise sociale, les dérives idéologiques du Syndicat de la magistrature",
-      "bullets": [
-        "ENQUÊTE - Dans une société polarisée, qui doute de plus en plus de sa justice, l’organisation professionnelle assume son activisme politique."
-      ],
-      "publishedAt": "2026-11-03T09:59:41+00:00",
-      "updatedAt": "2026-11-03T09:59:41+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/hostilite-envers-la-police-guerre-ouverte-avec-gerald-darmanin-au-coeur-de-la-crise-sociale-les-derives-ideologiques-du-syndicat-de-la-magistrature-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-04",
-      "provenance": "rss-excerpt",
-      "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
     },
     {
@@ -1230,7 +1232,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1254,7 +1256,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1272,7 +1274,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
