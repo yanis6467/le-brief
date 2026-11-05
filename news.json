@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T20:02:32.879673+00:00",
+  "preparedAt": "2026-11-05T20:59:51.597503+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -159,34 +159,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f5af471ea239be9b9a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Tant qu'on aura pas ce qu'on veut, je reviendrai bloquer\" : des blocages et rassemblement non autorisés à Paris avant le lancement du cortège",
-      "bullets": [
-        "Dès le milieu de matinée, jeudi 5 novembre, dans certaines rues de la capitale, des barricades improvisées et des rassemblements non autorisés se forment, aussitôt dispersés par les forces de l'ordre.",
-        "Selon le ministère de l'Éducation, 81 lycées étaient bloqués ce matin en France.",
-        "Des chiffres contestés par l'Union syndicale lycéenne, qui en revendique 1 000."
-      ],
-      "publishedAt": "2026-11-05T15:37:36+00:00",
-      "updatedAt": "2026-11-05T15:37:36+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve/tant-qu-on-aura-pas-ce-qu-on-veut-je-reviendrai-bloquer-des-blocages-et-rassemblement-non-autorises-a-paris-avant-le-lancement-du-cortege_8269388.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "330d8f076e3fc403441c9e934aca83254ca645512a031c70ccfe18f44d9315b3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T15:10:08.603108+00:00",
-      "context": null
-    },
-    {
       "id": "fr-inflation-2026-10",
       "revision": 1,
       "category": "eco",
@@ -286,57 +258,59 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7857141c5dfd6bc8d8",
+      "id": "rss-c0622654babe55d859",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
+      "title": "Alerte à la bombe : le pilote de l’avion dérouté reliant Dublin à Rome «aurait refusé» de se poser à Évreux, une enquête ouverte",
       "bullets": [
-        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d'appareils.",
-        "A bord de l’appareil, 157 personnes étaient présentes : 151 passagers et six membres d'équipage.",
-        "Dans un communiqué, la compagnie irlandaise a assuré que le vol EI402 avait \"atterri en toute sécurité\" et qu'elle travaillait à acheminer ses clients vers leur destination finale \"le plus rapidement possible\"."
+        "Le parquet d’Évreux a annoncé à l’AFP l’ouverture d’une enquête au sujet du pilote de l’avion d’Aer Lingus qui «aurait refusé» d’atterrir sur la base militaire d’Évreux, «préférant un aéroport civil», poussant l’armée française à mobiliser deux avions pour l’escorter.",
+        "Le procureur de la République, Rémi Coutin, a annoncé s’être rendu sur la base aérienne 105 de l’armée de l’air et de l’espace, à Évreux, où s’est finalement posé l’A320 qui effectuait la liaison entre Dublin et Rome avec 157 personnes à bord, en raison d’une alerte à la bombe."
       ],
-      "publishedAt": "2026-11-05T16:47:53+00:00",
-      "updatedAt": "2026-11-05T16:47:53+00:00",
+      "publishedAt": "2026-11-05T14:03:56+00:00",
+      "updatedAt": "2026-11-05T14:03:56+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/alerte-a-la-bombe-le-pilote-de-l-avion-deroute-reliant-dublin-a-rome-aurait-refuse-de-se-poser-a-evreux-une-enquete-ouverte-20261105",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "66263a16f6c0bf6db1b23d0cd9e93fa45e3c0f1d1d293810b00869093ec8595d",
+      "summaryInput": "ab79db7bd17c9fee45ddff6a4de243b205671f226b18e54bb84ac281c85e3b06",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:02:32.879673+00:00",
+      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
       "context": null
     },
     {
-      "id": "rss-6ac920303efec7af2f",
+      "id": "rss-445e41deca8d466d76",
       "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
       "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
+        "Léa Balage El Mariky, comment qualifiez-vous cette journée ?",
+        "Bref, tout le monde a des raisons d'être en colère, et en même temps, il y a un espoir parce que dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés, a fait peut-être émerger cette espérance.",
+        "Et je représente une famille politique qui n'a pas rien à voir avec les 10 dernières années, donc une capacité aussi à se remettre en question et à voir qu'aujourd'hui, dans notre pays, vous avez des gens qui manifestent…Il se remet en question, Gabriel Attal ?"
       ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-05T19:04:43+00:00",
+      "updatedAt": "2026-11-05T19:04:43+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "2f0f93c0ab62f431b237671b73ac1c47c76833a014c45cc2bf4845bdb09ad72a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
+      "context": null
     },
     {
       "id": "rss-5112c5deff89021eaf",
@@ -377,8 +351,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T20:01:37+00:00",
-      "updatedAt": "2026-11-05T20:01:37+00:00",
+      "publishedAt": "2026-11-05T20:58:46+00:00",
+      "updatedAt": "2026-11-05T20:58:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -542,7 +516,7 @@
       ],
       "publishedAt": "2026-11-05T08:57:39+00:00",
       "updatedAt": "2026-11-05T08:57:39+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -553,6 +527,59 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-29213fb814a739de92",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Paraguay, le président Santiago Peña annonce sa démission dans la foulée d'une crise bancaire",
+      "bullets": [
+        "Le président conservateur du Paraguay, Santiago Peña, a annoncé jeudi 5 novembre sa démission, dans la foulée d'un scandale bancaire affectant près de 3 millions d'épargnants qui a dégénéré en crise politique dans ce pays allié des États-Unis.",
+        "Le Parlement, réuni en session extraordinaire dans l'après-midi, devait auparavant formellement accepter la démission du président.\"J'ai pris la décision de présenter ma démission de la présidence de la République\", a annoncé Santiago Peña, au pouvoir depuis 2023, dans une vidéo sur X.",
+        "Santiago Peña avait été élu confortablement en 2023."
+      ],
+      "publishedAt": "2026-11-05T20:27:05+00:00",
+      "updatedAt": "2026-11-05T20:27:05+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "b74f89661382d9939872afdea4d272b50ed225d41315ee682c6c7fe452b1c3c3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6ac920303efec7af2f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "bullets": [
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
+      ],
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
       "detailLevel": "preview"
     },
     {
@@ -656,34 +683,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "94764567a7caa13bd063df2af910f07bdd72953116a4a75fa1700c9735bcf0d8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-06e0706c9b1ec0395e",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Honduras, les migrants reprennent déjà la route des États-Unis après la défaite de Donald Trump aux midterms",
-      "bullets": [
-        "La défaite du président américain Donald Trump aux élections de mi-mandat les rend plus optimistes.",
-        "Je sais ce que je veux atteindre, mais c'est le Seigneur qui décidera du sort de chacun.",
-        "Depuis des mois, des migrants attendent dans des camps l'autorisation de pouvoir entrer légalement aux États-Unis."
-      ],
-      "publishedAt": "2026-11-05T07:40:24+00:00",
-      "updatedAt": "2026-11-05T07:40:24+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/migrants/au-honduras-les-migrants-reprennent-deja-la-route-apres-la-defaite-de-donald-trump-aux-midterms_8268884.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "372a5be544b59f1664df528df746aafa941cc43a73b0c87d2b48043258b6f0bc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T09:13:49.655094+00:00",
-      "context": null
     },
     {
       "id": "rss-65f2fe87a0d3a01de8",
@@ -807,55 +806,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a4fea36a00d699f33c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine",
-      "bullets": [
-        "La Première dame américaine Melania Trump a appelé, jeudi 5 novembre, à un cessez-le-feu \"durable\" en Ukraine lors d'une conférence de presse donnée à la Maison Blanche en présence de représentants russes et ukrainiens.",
-        "Tout réel changement commence par une petite étincelle\", a continué la Première dame.",
-        "Le cessez-le-feu à Olechky n'aurait pas été possible sans les présidents Poutine et Zelensky."
-      ],
-      "publishedAt": "2026-11-05T17:51:09+00:00",
-      "updatedAt": "2026-11-05T17:51:09+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "ce34d85d611b0b3a4457931a7834eed3d4ccd28dfa6b5b9acaa73f590068150f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c8ff5893b58ac9e6fc",
+      "id": "rss-a5ada77c87604be918",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Avant l’élection présidentielle de 2027, un hors-série du « Monde » tire le portrait de la France, de ses fragilités comme de ses ressources",
+      "title": "Raphaël Glusckmann endure des huées de sympathisants « insoumis » à la manifestation du 5 novembre",
       "bullets": [
-        "Sans sombrer dans la fatalité, « Le Monde » propose une grande cartographie du pays et donne à voir l’évolution des modes de vie des Français pour mieux les accompagner dans les défis qui les attendent dans quelques mois."
+        "Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales.",
+        "Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger de la place de la République, bloqué par plusieurs dizaines de partisans de La France insoumise."
       ],
-      "publishedAt": "2026-11-05T18:00:07+00:00",
-      "updatedAt": "2026-11-05T18:00:07+00:00",
+      "publishedAt": "2026-11-05T20:29:04+00:00",
+      "updatedAt": "2026-11-05T20:29:04+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/05/avant-l-election-presidentielle-de-2027-un-hors-serie-du-monde-tire-le-portrait-de-la-france-de-ses-fragilites-comme-de-ses-ressources_6807326_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "3aba51cdbffb52502830843ff510ff6e53566ac5d4d73d9ce8d68d1e071bd3d0",
+      "summaryInput": "355fc7ea02e85e0d94f767a498a833670c800dc45d430e2d008d12d2afff37b0",
       "detailLevel": "preview"
     },
     {
@@ -869,8 +841,8 @@
         "Leur point commun : leur nom figure dans une liste de 200 établissements prioritaires pour être rénovés.",
         "Pour certains élèves, le bâti laisse à désirer : \"Il y a des murs qui ont été arrachés, le mur est dégradé, beaucoup dégradé, dans toutes les salles\", assure l'un d'eux."
       ],
-      "publishedAt": "2026-11-05T19:47:56+00:00",
-      "updatedAt": "2026-11-05T19:47:56+00:00",
+      "publishedAt": "2026-11-05T20:34:53+00:00",
+      "updatedAt": "2026-11-05T20:34:53+00:00",
       "importance": 85,
       "sources": [
         {
@@ -1213,31 +1185,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-39d7ef799854a7f409",
+      "id": "rss-cf41b9be95465c8efa",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
+      "topic": "Faits divers",
+      "title": "Alertes à la bombe, des avions déroutés",
       "bullets": [
-        "L'infertilité concerne aujourd'hui plus de 3 millions de Français, soit 15 à 25% des couples en âge de procréer.",
-        "A partir de mi-novembre, un courrier sera envoyé à tous les Français de 29 ans pour leur rappeler notamment que la fertilité baisse à partir de 30 ans chez les femmes et, c'est moins connu, à partir de 40 ans chez les hommes.",
-        "Mais le délai d'attente varie de 14 à 24 mois selon les régions."
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
       ],
-      "publishedAt": "2026-11-03T16:11:52+00:00",
-      "updatedAt": "2026-11-03T16:11:52+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "5f005dee863dff0bd7c1bb0a9b6fefecf0204b685d6d5422cc18a6f625b70455",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
       "context": null
     }
   ],
@@ -1252,7 +1224,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1282,7 +1254,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1306,7 +1278,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
