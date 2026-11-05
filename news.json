@@ -1,64 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T01:21:35.082177+00:00",
+  "preparedAt": "2026-11-05T03:00:45.690370+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-5a145bdc8a4b8e2d14",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
-      "bullets": [
-        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
-        "Tout dépendra de la capacité des deux camps à trouver des compromis."
-      ],
-      "publishedAt": "2026-11-04T18:45:17+00:00",
-      "updatedAt": "2026-11-04T18:45:17+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f49cadc4440b6a681d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Peut-on interdire une chaîne de télé ?",
-      "bullets": [
-        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
-        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
-        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
-      ],
-      "publishedAt": "2026-11-04T18:10:49+00:00",
-      "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
-      "context": null
-    },
     {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
@@ -173,7 +120,7 @@
       ],
       "publishedAt": "2026-11-04T14:53:35+00:00",
       "updatedAt": "2026-11-04T14:53:35+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -223,7 +170,7 @@
       ],
       "publishedAt": "2026-11-04T13:42:37+00:00",
       "updatedAt": "2026-11-04T13:42:37+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -262,30 +209,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cc2f6314537d9af28e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
-      "bullets": [
-        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
-      ],
-      "publishedAt": "2026-11-04T19:10:00+00:00",
-      "updatedAt": "2026-11-04T19:10:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-235dd6637bfedaea05",
       "revision": 1,
       "category": "eco",
@@ -311,6 +234,82 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5c841a9ea864f3f038",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
+      "bullets": [
+        "Samir Refoufi, le chef de l'atelier touche, lui, jusqu'à 1 600 euros, mais pour trois jours de travail par semaine.",
+        "J'ai gagné une semaine à rouler gratuitement\", souligne Samir.\"Alléger tous les prélèvements pour rendre le coût du travail plus faible\"Car le patron a fait ses calculs : cela représente 15 euros net par mois en plus dans la poche de ses 25 salariés.",
+        "Les entreprises devraient privilégier les augmentations individuelles pour 2027, entre 2 et 2,5% en moyenne, principalement dans les secteurs de l'industrie et des ressources humaines."
+      ],
+      "publishedAt": "2026-11-04T21:44:53+00:00",
+      "updatedAt": "2026-11-04T21:44:53+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "f1f99b5a4bc4244a68090984cbc74369909ff66e37f67bf6bb9a03646fac6c7b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T03:00:45.690370+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0b8a9c97953e556bb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
+      "bullets": [
+        "DÉCRYPTAGE - Arrivé au Sénat lundi, le projet de loi de financement de la Sécurité sociale a fait l’objet d’amendements en commission ce mercredi."
+      ],
+      "publishedAt": "2026-11-04T20:20:00+00:00",
+      "updatedAt": "2026-11-04T20:20:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e66381bf05e76e7977e01f1da27f9536ed7522c3b8cd3b3bff5e67251068cd2a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1cbdb104858f3ace30",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Que se passe-t-il en France ?» : quand les manifestations ternissent l’image du pays auprès des entreprises étrangères",
+      "bullets": [
+        "DÉCRYPTAGE - Les investisseurs s’inquiètent de la grogne sociale et doutent de la capacité de la France à se réformer."
+      ],
+      "publishedAt": "2026-11-04T19:00:00+00:00",
+      "updatedAt": "2026-11-04T19:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/que-se-passe-t-il-en-france-quand-les-manifestations-ternissent-l-image-du-pays-aupres-des-entreprises-etrangeres-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56db2fb80ead67a624419d2cdf36c12bf685ca50e1ed3588936be566e140c59f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-82d60d3e792054dc5f",
@@ -407,8 +406,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T01:17:13+00:00",
-      "updatedAt": "2026-11-05T01:17:13+00:00",
+      "publishedAt": "2026-11-05T02:58:20+00:00",
+      "updatedAt": "2026-11-05T02:58:20+00:00",
       "importance": 69,
       "sources": [
         {
@@ -509,30 +508,6 @@
       "context": null
     },
     {
-      "id": "rss-4642b94a9d8c8d9c3b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Inflation, guerre en Iran, corruption: L’Amérique a répudié le trumpisme",
-      "bullets": [
-        "DÉCRYPTAGE - Les résultats non-définitifs des élections de mi-mandat ont confirmé les projections des sondages, et indiquent une double majorité pour les démocrates à la Chambre et au Sénat."
-      ],
-      "publishedAt": "2026-11-04T15:40:05+00:00",
-      "updatedAt": "2026-11-04T15:40:05+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/midterms-2026-l-amerique-inflige-une-repudiation-a-donald-trump-les-democrates-s-offrent-une-vaste-victoire-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1d5464ad464cc58010a4284a79399afea8c52f7d3ad906ccabcc00375a95707b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a9afb74e894b6bf398",
       "revision": 1,
       "category": "world",
@@ -554,6 +529,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "10a4a36d269a2ac4a191f6fe1cb8c093ba8301d5278c077ae4b50fa561e456fd",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5a145bdc8a4b8e2d14",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "bullets": [
+        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
+        "Tout dépendra de la capacité des deux camps à trouver des compromis."
+      ],
+      "publishedAt": "2026-11-04T18:45:17+00:00",
+      "updatedAt": "2026-11-04T18:45:17+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
       "detailLevel": "preview"
     },
     {
@@ -583,6 +583,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T16:22:39.380288+00:00",
       "context": null
+    },
+    {
+      "id": "rss-d4798025f25915db78",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Hanoï, l’hôtel Métropole célèbre 125 ans d’une histoire légendaire",
+      "bullets": [
+        "Cette luxueuse vitrine de l’Indochine française fut tour à tour la base arrière des généraux français durant la guerre, l’hôtel officiel du régime nord-vietnamien et le palace où séjournèrent, entre autres, Graham Greene, Yves Lacoste et Joan Baez."
+      ],
+      "publishedAt": "2026-11-05T02:30:02+00:00",
+      "updatedAt": "2026-11-05T02:30:02+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/a-hanoi-l-hotel-metropole-celebre-125-ans-d-une-histoire-legendaire_6806569_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f380667bdc89c60a9033a9f92d677c63b8bd81aba96d30478b08eb68934bb2f7",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-dcce745cc66ccc6162",
@@ -764,7 +788,7 @@
       "id": "rss-f135cfc8664fd471a9",
       "revision": 1,
       "category": "world",
-      "topic": "International",
+      "topic": "Politique",
       "title": "Présidentielle 2027 : les résultats des midterms aux Etats-Unis gênent le RN et réjouissent la gauche",
       "bullets": [
         "Gauche française et bloc central ont analysé la défaite du parti de Donald Trump à l’aune des prochaines échéances électorales françaises, y percevant un espoir, alors que le Rassemblement national continue de prendre ses distances avec le « canard boiteux » américain."
@@ -782,31 +806,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "26e30dca91b2a2e057e52081aca1659fe230dd5ee3ae8b6048b77a039bb1e08b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-db59210f5d3dd76b77",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Komychouvakha visée par une attaque meurtrière russe",
-      "bullets": [
-        "Volodymyr Zelensky a annoncé que le bilan était de 40 morts, le 4 novembre.",
-        "Et il pourrait s’alourdir, certaines victimes étant encore sous les décombres."
-      ],
-      "publishedAt": "2026-11-04T17:54:19+00:00",
-      "updatedAt": "2026-11-04T17:54:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/video/2026/11/04/guerre-en-ukraine-komychouvakha-visee-par-une-attaque-meurtriere-russe_6806411_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a1282d60ba9a62090108154b0458b0649fc9c15d1081b8eceb9000769dc62ad3",
       "detailLevel": "preview"
     },
     {
@@ -936,31 +935,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4c724822411517e9a6",
+      "id": "rss-f49cadc4440b6a681d",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
+      "title": "Peut-on interdire une chaîne de télé ?",
       "bullets": [
-        "Trois ans après l'attentat jihadiste d'Arras (Pas-de-Calais), trois juges d'instruction ont ordonné, mercredi 4 novembre, le renvoi devant la cour d'assises spéciale de Mohammed Mogouchkov, accusé de l'assassinat de Dominique Bernard devant le lycée où enseignait ce professeur de français, le 13 octobre 2023.",
-        "Le Parquet national antiterroriste (Pnat) a confirmé cette décision à l'AFP.",
-        "\"S'il a bien pu observer la radicalisation violente de son frère, [il] n'a pas été informé de la nature\" de son projet criminel, justifiait alors le Pnat."
+        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
+        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
+        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
       ],
-      "publishedAt": "2026-11-04T10:49:34+00:00",
-      "updatedAt": "2026-11-04T10:49:34+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-04T18:10:49+00:00",
+      "updatedAt": "2026-11-04T18:10:49+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html",
+          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "a885329e14329a91cd52b48e60b11782e7618809d55d792bb943f1284dcbdfbf",
+      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T23:53:18.193705+00:00",
+      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
       "context": null
     },
     {
