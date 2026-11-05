@@ -1,38 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T10:19:03.413962+00:00",
+  "preparedAt": "2026-11-05T12:05:07.668965+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-39fc03526fb05e1c36",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Brésil : la Banque centrale suspend ses baisses de taux après la réélection de Lula",
-      "bullets": [
-        "La Banque centrale du Brésil a interrompu mercredi un cycle de réduction de son taux directeur, après la réélection du président de gauche Lula qui a provoqué des turbulences sur les marchés.",
-        "Le Comité de politique monétaire de la Banque centrale a maintenu à 13,75% son taux directeur, principal outil de contrôle de l'inflation, un des plus élevés au monde."
-      ],
-      "publishedAt": "2026-11-04T21:57:30+00:00",
-      "updatedAt": "2026-11-04T21:57:30+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/bresil-la-banque-centrale-suspend-ses-baisses-de-taux-apres-la-reelection-de-lula-20261104",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "9029475950b47c23ea85125a4b186912a641e075d167d14d4d2ee165d2efb955",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T06:13:02.830203+00:00",
-      "context": null
-    },
     {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
@@ -95,7 +68,7 @@
       ],
       "publishedAt": "2026-11-04T22:54:57+00:00",
       "updatedAt": "2026-11-04T22:54:57+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -107,7 +80,7 @@
       "provenance": "article-extract",
       "summaryInput": "e1f24f6e84deb5fa47454d99de9723fa1f281876c85645ad4925b780d2ab826c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T22:58:05.803466+00:00",
+      "enrichedAt": "2026-11-05T12:05:07.668965+00:00",
       "context": null
     },
     {
@@ -183,28 +156,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cc2f6314537d9af28e",
+      "id": "rss-0b8a9c97953e556bb7",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
+      "title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
       "bullets": [
-        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
+        "DÉCRYPTAGE - Arrivé au Sénat lundi, le projet de loi de financement de la Sécurité sociale a fait l’objet d’amendements en commission ce mercredi."
       ],
-      "publishedAt": "2026-11-05T08:53:43+00:00",
-      "updatedAt": "2026-11-05T08:53:43+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-05T11:39:09+00:00",
+      "updatedAt": "2026-11-05T11:39:09+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
+          "url": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
+      "summaryInput": "e66381bf05e76e7977e01f1da27f9536ed7522c3b8cd3b3bff5e67251068cd2a",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c29315d6831cb45123",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«On n’est pas là pour une opération pièces jaunes» : les syndicats intensifient la pression sur le gouvernement pour une hausse du Smic",
+      "bullets": [
+        "À quelques heures d’une nouvelle mobilisation ce jeudi 5 novembre, les responsables de la CFDT et de la CGT ont à nouveau réclamé une hausse substantielle du salaire minimum et, au-delà, des augmentations des salaires dans leur ensemble.",
+        "Une mobilisation rejointe par les jeunes qui protestent depuis mi-septembre contre leurs conditions d’études, ainsi que par des gilets jaunes.",
+        "Mais «quand on voit l'explosion du coût de la vie, ce n'est pas +0,6% sur le SMIC qui va répondre» aux attentes, a prévenu Sophie Binet."
+      ],
+      "publishedAt": "2026-11-05T10:38:36+00:00",
+      "updatedAt": "2026-11-05T10:38:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/on-n-est-pas-la-pour-une-operation-pieces-jaunes-les-syndicats-intensifient-la-pression-sur-le-gouvernement-pour-une-hausse-du-smic-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "d3d7223df2d867b72c3fe9d1f27032ced8eb1ba7e4aba730d8bd6d541fb5e9b6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T12:05:07.668965+00:00",
+      "context": null
     },
     {
       "id": "rss-2a1bfdd00a268dedd2",
@@ -263,56 +264,57 @@
       "context": null
     },
     {
-      "id": "rss-5c841a9ea864f3f038",
+      "id": "rss-0cddfefc3a17bb4273",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
+      "title": "L’enfance et le handicap coûtent plus cher aux départements que le vieillissement",
       "bullets": [
-        "Samir Refoufi, le chef de l'atelier touche, lui, jusqu'à 1 600 euros, mais pour trois jours de travail par semaine.",
-        "J'ai gagné une semaine à rouler gratuitement\", souligne Samir.\"Alléger tous les prélèvements pour rendre le coût du travail plus faible\"Car le patron a fait ses calculs : cela représente 15 euros net par mois en plus dans la poche de ses 25 salariés.",
-        "Les entreprises devraient privilégier les augmentations individuelles pour 2027, entre 2 et 2,5% en moyenne, principalement dans les secteurs de l'industrie et des ressources humaines."
+        "DÉCRYPTAGE - Les départements consacrent près de 45 milliards d’euros, soit 70 % de leurs dépenses de fonctionnement, aux politiques sociales.",
+        "Et contrairement à une idée reçue, ce ne sont pas celles liées aux seniors qui progressent le plus."
       ],
-      "publishedAt": "2026-11-04T21:44:53+00:00",
-      "updatedAt": "2026-11-04T21:44:53+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "f1f99b5a4bc4244a68090984cbc74369909ff66e37f67bf6bb9a03646fac6c7b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0b8a9c97953e556bb7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
-      "bullets": [
-        "DÉCRYPTAGE - Arrivé au Sénat lundi, le projet de loi de financement de la Sécurité sociale a fait l’objet d’amendements en commission ce mercredi."
-      ],
-      "publishedAt": "2026-11-04T20:20:00+00:00",
-      "updatedAt": "2026-11-04T20:20:00+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-05T10:30:33+00:00",
+      "updatedAt": "2026-11-05T10:30:33+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
+          "url": "https://www.lefigaro.fr/conjoncture/l-enfance-et-le-handicap-coutent-plus-cher-aux-departements-que-le-vieillissement-20261105",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "e66381bf05e76e7977e01f1da27f9536ed7522c3b8cd3b3bff5e67251068cd2a",
+      "summaryInput": "09acb18cb9dcfaf4d93e61f7ff9953402cec9cb78ef067898c948fa450114dea",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7e22880463c33ba4b7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Aux États-Unis, Washington et Denver interdisent le foie gras",
+      "bullets": [
+        "L’initiative 86, qui «interdit le gavage des volatiles ainsi que la vente, la distribution et l’import de tout produit issu de foie gras de volatile», a recueilli 73,3% des voix.",
+        "Les amendes prévues à Washington iraient de 1000 à 5000 dollars.",
+        "Mais la ville a estimé à 314.000 dollars le coût de la mise en place de la mesure, couvrant notamment l’embauche d’un inspecteur dédié à l’information du public puis aux contrôles pour les premières années."
+      ],
+      "publishedAt": "2026-11-05T08:53:11+00:00",
+      "updatedAt": "2026-11-05T08:53:11+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/aux-etats-unis-washington-et-denver-interdisent-le-foie-gras-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "a520cc7fa33cd63df7aa0462c97655d83b1383ee78da780fd8781baa270042bc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T12:05:07.668965+00:00",
+      "context": null
     },
     {
       "id": "rss-5112c5deff89021eaf",
@@ -381,8 +383,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T10:17:42+00:00",
-      "updatedAt": "2026-11-05T10:17:42+00:00",
+      "publishedAt": "2026-11-05T11:56:51+00:00",
+      "updatedAt": "2026-11-05T11:56:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -423,30 +425,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5604cd0cd118c7602c",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
-      "bullets": [
-        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
-      ],
-      "publishedAt": "2026-11-05T04:00:03+00:00",
-      "updatedAt": "2026-11-05T04:00:03+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "634271db2a0e1e8b9925e0e8c0bad689e9a3274d5ebf71204bc6069c0d5e3bc1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-06008fe8e38060f1ad",
       "revision": 1,
       "category": "markets",
@@ -459,7 +437,7 @@
       ],
       "publishedAt": "2026-11-03T11:08:38+00:00",
       "updatedAt": "2026-11-03T11:08:38+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -501,30 +479,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
       "context": null
-    },
-    {
-      "id": "rss-a9afb74e894b6bf398",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Danemark, les jeunes manifestent contre la baisse des aides publiques",
-      "bullets": [
-        "Alors que le gouvernement veut réduire le montant des bourses et restreindre l’accès aux indemnités chômage des jeunes diplômés, 10 000 lycéens et étudiants se sont rassemblés à Copenhague et 30 000 autres ont bloqué leur établissement, mercredi 4 novembre."
-      ],
-      "publishedAt": "2026-11-04T21:05:37+00:00",
-      "updatedAt": "2026-11-04T21:05:37+00:00",
-      "importance": 88,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/au-danemark-les-jeunes-manifestent-contre-la-baisse-des-aides-publiques_6806431_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "10a4a36d269a2ac4a191f6fe1cb8c093ba8301d5278c077ae4b50fa561e456fd",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-5a145bdc8a4b8e2d14",
@@ -573,6 +527,30 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "3dc1fa6e60094f939a7bbf364a928f68891e19fe0d5a62e212a05fbb2fd169d1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4ad9529cafc25cdb7e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+      "bullets": [
+        "A l’approche des élections législatives qui se tiendront le 7 novembre, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
+      ],
+      "publishedAt": "2026-11-05T12:00:07+00:00",
+      "updatedAt": "2026-11-05T12:00:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fea9ab3e2157eac413a9f989dcd0077097eea756e81ac7fa2d0a0479dda192ea",
       "detailLevel": "preview"
     },
     {
@@ -625,6 +603,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "f380667bdc89c60a9033a9f92d677c63b8bd81aba96d30478b08eb68934bb2f7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b2457b3750d73640fc",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les Européens n’ont rien à attendre de la déroute de Donald Trump aux midterms",
+      "bullets": [
+        "Malgré sa défaite aux élections de mi-mandat, le président américain dispose encore de deux ans pour achever d’imprimer sa marque sur les orientations diplomatiques des Etats-Unis.",
+        "Et Washington devrait continuer de privilégier ses intérêts nationaux aux dépens de tous les autres."
+      ],
+      "publishedAt": "2026-11-05T10:30:09+00:00",
+      "updatedAt": "2026-11-05T10:30:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/05/les-europeens-n-ont-rien-a-attendre-de-la-deroute-de-donald-trump-aux-midterms_6806851_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "369144c035cf5fde1ed1c20e0d629298f7f7436d905fb41ff641e3fddaf09962",
       "detailLevel": "preview"
     },
     {
@@ -781,30 +784,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-494abdaebfa66bfa87",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : après la déroute républicaine, l’Ukraine nourrit le maigre espoir de freiner la dérive américaine en faveur de la Russie",
-      "bullets": [
-        "En exigeant de la Maison Blanche davantage de transparence sur ses négociations avec le Kremlin ou en faisant voter de nouvelles sanctions, le nouveau Congrès pourrait infléchir la position de Washington vis-à-vis de Kiev."
-      ],
-      "publishedAt": "2026-11-05T05:00:19+00:00",
-      "updatedAt": "2026-11-05T05:00:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "beb7fa2b8962372e9b62863c0b7bb1f7ed0664b8082b21242ee39427fd984953",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-917fa8737756f50fee",
       "revision": 1,
       "category": "france",
@@ -829,28 +808,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-fb984e6aa9d9e2011e",
+      "id": "rss-43b6c388bc1cc4cfeb",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Au cœur d’un automne social, syndicats et patronat entament des négociations sur l’emploi des jeunes",
+      "title": "Le dérapage du déficit public français à 5,4 % du PIB en 2026 officialisé",
       "bullets": [
-        "Le taux de chômage des 15-24 ans atteint 21,6 % au deuxième trimestre, en hausse de 2,5 points sur un an.",
-        "Si les gouvernements successifs d’Emmanuel Macron ont multiplié les dispositifs pour y remédier, la France reste très en retard par rapport à plusieurs de ses partenaires européens."
+        "Le projet de loi de finances de fin de gestion pour 2026 a été présenté en conseil des ministres, mercredi.",
+        "Le gouvernement met malgré tout en avant « la capacité de l’Etat à maîtriser ses dépenses tout en assurant une réponse forte aux crises »."
       ],
-      "publishedAt": "2026-11-04T09:00:03+00:00",
-      "updatedAt": "2026-11-04T09:00:03+00:00",
-      "importance": 91,
+      "publishedAt": "2026-11-04T13:09:21+00:00",
+      "updatedAt": "2026-11-04T13:09:21+00:00",
+      "importance": 86,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/finances-publiques-le-derapage-du-deficit-en-2026-officialise_6806225_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "3006c8aa2226cb8acbc2bdbedeac9581d6be90736ed62481bf709ff48a9a5e42",
+      "summaryInput": "13f1dc3c26df0ceb0b2f67c87458476edbadac57d57ef406d77fb37077d621fc",
       "detailLevel": "preview"
     },
     {
@@ -917,7 +896,7 @@
       ],
       "publishedAt": "2026-11-03T23:06:26+00:00",
       "updatedAt": "2026-11-03T23:06:26+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -980,31 +959,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-43b6c388bc1cc4cfeb",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le dérapage du déficit public français à 5,4 % du PIB en 2026 officialisé",
-      "bullets": [
-        "Le projet de loi de finances de fin de gestion pour 2026 a été présenté en conseil des ministres, mercredi.",
-        "Le gouvernement met malgré tout en avant « la capacité de l’Etat à maîtriser ses dépenses tout en assurant une réponse forte aux crises »."
-      ],
-      "publishedAt": "2026-11-04T13:09:21+00:00",
-      "updatedAt": "2026-11-04T13:09:21+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/finances-publiques-le-derapage-du-deficit-en-2026-officialise_6806225_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "13f1dc3c26df0ceb0b2f67c87458476edbadac57d57ef406d77fb37077d621fc",
       "detailLevel": "preview"
     },
     {
@@ -1094,7 +1048,7 @@
       ],
       "publishedAt": "2026-11-04T22:53:12+00:00",
       "updatedAt": "2026-11-04T22:53:12+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1105,6 +1059,30 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f170f10d1214d72d8e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
+      "bullets": [
+        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
+      ],
+      "publishedAt": "2026-11-04T18:19:12+00:00",
+      "updatedAt": "2026-11-04T18:19:12+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
       "detailLevel": "preview"
     },
     {
@@ -1142,7 +1120,7 @@
       ],
       "publishedAt": "2026-11-04T11:08:30+00:00",
       "updatedAt": "2026-11-04T11:08:30+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1215,7 +1193,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1263,7 +1241,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1281,7 +1259,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1311,13 +1289,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
