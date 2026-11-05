@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T16:17:05.968575+00:00",
+  "preparedAt": "2026-11-05T17:28:25.470772+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -15,9 +15,9 @@
       "bullets": [
         "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
       ],
-      "publishedAt": "2026-11-05T05:00:11+00:00",
-      "updatedAt": "2026-11-05T05:00:11+00:00",
-      "importance": 93,
+      "publishedAt": "2026-11-05T05:00:08+00:00",
+      "updatedAt": "2026-11-05T05:00:08+00:00",
+      "importance": 92,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -31,6 +31,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4ad9529cafc25cdb7e",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+      "bullets": [
+        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
+      ],
+      "publishedAt": "2026-11-05T12:00:07+00:00",
+      "updatedAt": "2026-11-05T12:00:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
       "category": "eco",
@@ -41,7 +65,7 @@
       ],
       "publishedAt": "2026-11-04T17:00:08+00:00",
       "updatedAt": "2026-11-04T17:00:08+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -66,7 +90,7 @@
       ],
       "publishedAt": "2026-11-04T16:51:29+00:00",
       "updatedAt": "2026-11-04T16:51:29+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -180,6 +204,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7857141c5dfd6bc8d8",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
+      "bullets": [
+        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d'appareils.",
+        "A bord de l’appareil, 157 personnes étaient présentes : 151 passagers et six membres d'équipage.",
+        "Dans un communiqué, la compagnie irlandaise a assuré que le vol EI402 avait \"atterri en toute sécurité\" et qu'elle travaillait à acheminer ses clients vers leur destination finale \"le plus rapidement possible\"."
+      ],
+      "publishedAt": "2026-11-05T16:47:53+00:00",
+      "updatedAt": "2026-11-05T16:47:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "66263a16f6c0bf6db1b23d0cd9e93fa45e3c0f1d1d293810b00869093ec8595d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "context": null
+    },
+    {
       "id": "rss-df5622da710cea24ec",
       "revision": 1,
       "category": "eco",
@@ -203,34 +255,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
       "summaryInput": "3bc9c70cb141cab366369bc29c0781b7f85229c0596294a65092ecf44bff4ed9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7857141c5dfd6bc8d8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Ce que l'on sait des alertes à la bombe qui ont visé douze vols européens jeudi",
-      "bullets": [
-        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une douzaine d'appareils.",
-        "A bord de l’appareil, 157 personnes étaient présentes : 151 passagers et six membres d'équipage.",
-        "Dans un communiqué, la compagnie irlandaise a assuré que le vol EI402 avait \"atterri en toute sécurité\" et qu'elle travaillait à acheminer ses clients vers leur destination finale \"le plus rapidement possible\"."
-      ],
-      "publishedAt": "2026-11-05T15:39:50+00:00",
-      "updatedAt": "2026-11-05T15:39:50+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "b8e5e6002dd6c681d291fedf91dc59b34796e973d286fe60d13601deea67ddf7",
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
       "context": null
@@ -291,62 +315,6 @@
       "context": null
     },
     {
-      "id": "rss-cf41b9be95465c8efa",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Alertes à la bombe, des avions déroutés",
-      "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "491 jours dans les geôles de Poutine, un Américain témoigne",
-        "\"Les thématiques de justice sociale et de lutte contre l'oligarchie, qui ont été au coeur de la campagne, étaient inaudibles il y a 30 ans pour le Parti démocrate\" selon Alice Béja, professeure à l'université de Créteil"
-      ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5f50d2e0a8476c85f1",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Cette «rotation sectorielle» qui porte le CAC 40 (+0,8%) depuis l'issue des élections aux États-Unis",
-      "bullets": [
-        "L'indice parisien avance de 0,8% à la mi-séance à 8.242,1 points.",
-        "Le taux de l'obligation américaine à 10 ans a perdu 13 points de base (0,13 point de pourcentage) depuis les résultats des élections américaines.",
-        "Ce qui explique que Soitec (-7%) ou STMicroelectronics (-3%), deux groupes de semi-conducteurs qui ont été portés en Bourse par leurs produits dans les interconnexions de data centers, souffrent."
-      ],
-      "publishedAt": "2026-11-05T12:41:45+00:00",
-      "updatedAt": "2026-11-05T12:41:45+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-cette-rotation-sectorielle-qui-porte-le-cac-40-08-depuis-l-issue-des-elections-aux-etats-unis-1173235.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "f770dd257a0b249ef5e8c1e397d5e4d271db35c068ecf0d7d50194e615913b04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -385,8 +353,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T16:05:09+00:00",
-      "updatedAt": "2026-11-05T16:05:09+00:00",
+      "publishedAt": "2026-11-05T17:24:00+00:00",
+      "updatedAt": "2026-11-05T17:24:00+00:00",
       "importance": 69,
       "sources": [
         {
@@ -401,6 +369,34 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
+    },
+    {
+      "id": "rss-931aab3c757149d9c0",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : La débâcle des valeurs liées à l'IA fait chuter le Nasdaq de 4%, le CAC 40 résiste au-dessus des 8.200 points",
+      "bullets": [
+        "Son indice vedette, le CAC 40, a gagné 0,34%, préservant le seuil des 8.200 points, à 8.205,37 points, à la clôture de ce jeudi 5 novembre.",
+        "Le Dow Jones abandonne 2,1% et le S&P 500 recule de 2,8% à la clôture des marchés européens.",
+        "Hors indice vedette, Air France-KLM a bondi de 12,1%, salué pour avoir publié des résultats nettement au-dessus des prévisions des analystes, porté notamment par la vigueur de la recette unitaire et une stabilité des coûts hors carburant."
+      ],
+      "publishedAt": "2026-11-05T16:54:06+00:00",
+      "updatedAt": "2026-11-05T16:54:06+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "5ae8de015fdd6a051046898d36bfaac9927f2e956d90284333baa29b327dc024",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-5604cd0cd118c7602c",
@@ -533,30 +529,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4ad9529cafc25cdb7e",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-      "bullets": [
-        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
-      ],
-      "publishedAt": "2026-11-05T12:00:07+00:00",
-      "updatedAt": "2026-11-05T12:00:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
       "detailLevel": "preview"
     },
     {
@@ -714,57 +686,6 @@
       "context": null
     },
     {
-      "id": "rss-6ec3778a210c354eb0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Alban Mikoczy : Tsunami démocrate, la fin du trumpisme ?",
-      "bullets": [
-        "Dans cette première partie, Alban Mickoczy et ses invités reviennent sur la déroute du camp de Donald Trump aux élections de mi-mandat aux États-Unis, mercredi 4 novembre. Ils s'interrogent sur les conséquences de ce revers politique pour la suite de son mandat. Une séquence à retrouver dans l'émission \"À suivre…"
-      ],
-      "publishedAt": "2026-11-05T05:23:57+00:00",
-      "updatedAt": "2026-11-05T05:23:57+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-suivre-alban-mikoczy-tsunami-democrate-la-fin-du-trumpisme_8268806.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2204025dc6f93ac572d963f0296eb9e7a75936decf27b79490496860fa89fd88",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7377559bd65e1caa66",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
-      "bullets": [
-        "Le nombre d’attaques signalées ayant endommagé ou détruit des systèmes d’approvisionnement en eau et d’assainissement dans les zones de conflit a triplé entre 2021 et 2025, selon un rapport de l’Unicef publié jeudi 5 novembre, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\".",
-        "Réalisé dans 23 pays et territoires entre janvier 2021 et juin 2026, ce rapport \"met en évidence une multiplication des attaques, qui sont à la fois plus fréquentes, plus diversifiées et touchent des zones géographiques de plus en plus étendues à travers le monde\"."
-      ],
-      "publishedAt": "2026-11-05T06:13:36+00:00",
-      "updatedAt": "2026-11-05T06:13:36+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "27e3bc0402b10094a2e7bb7426e4db99d3c6d433eaabfc66180f894098bf875e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T07:33:44.690481+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cc2f6314537d9af28e",
       "revision": 1,
       "category": "world",
@@ -799,7 +720,7 @@
       ],
       "publishedAt": "2026-11-05T05:00:19+00:00",
       "updatedAt": "2026-11-05T05:00:19+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -813,52 +734,132 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-14d261595a851c226e",
+      "id": "rss-fe9909517eab729510",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
+      "category": "world",
+      "topic": "International",
+      "title": "Israël : les deux principales listes arabes soutiennent Gadi Eisenkot pour former le prochain gouvernement",
       "bullets": [
-        "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre."
+        "Leur ralliement donnerait sur le papier une majorité de 67 sièges au rival de Benyamin Nétanyahou, mais plusieurs dirigeants de l’opposition refusent de gouverner avec les formations arabes."
       ],
-      "publishedAt": "2026-11-04T22:53:12+00:00",
-      "updatedAt": "2026-11-04T22:53:12+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-05T16:09:09+00:00",
+      "updatedAt": "2026-11-05T16:09:09+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-les-deux-principales-listes-arabes-soutiennent-gadi-eisenkot-pour-former-le-prochain-gouvernement_6807111_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
+      "summaryInput": "368fef1d957db0ba6fca1ef444f3dbbbd730be26e05e2a120c483ef4f7a8e02b",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5b69ff9f11d26fe62e",
+      "id": "rss-78eb4077e483d2c59b",
       "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Budget : le projet de loi de finances unanimement rejeté en première lecture à l’Assemblée",
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : le plan des démocrates pour rendre la vie impossible à Donald Trump jusqu’en 2028",
       "bullets": [
-        "DÉCRYPTAGE - Après plus de deux semaines de débats, les députés ont voté contre la partie recettes du PLF, qui va désormais poursuivre sa route au Sénat."
+        "DÉCRYPTAGE - Avec une majorité claire au Congrès, les démocrates vont dicter les budgets de l’Administration Trump et lancer de nombreuses enquêtes contre le président américain et son entourage."
       ],
-      "publishedAt": "2026-11-05T12:13:41+00:00",
-      "updatedAt": "2026-11-05T12:13:41+00:00",
+      "publishedAt": "2026-11-05T13:55:22+00:00",
+      "updatedAt": "2026-11-05T13:55:22+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/politique/budget-le-projet-de-loi-de-finances-unanimement-rejete-en-premiere-lecture-a-l-assemblee-20261104",
+          "url": "https://www.lefigaro.fr/international/midterms-2026-le-plan-des-democrates-pour-rendre-la-vie-impossible-a-donald-trump-jusqu-en-2028-20261104",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "692f63e7b5c5464569c2928c9ee7b977cae253be0f5f4dedf573f1d0b37e0c68",
+      "summaryInput": "0ba67ea5d239a16bc4ffac824a6ece364bfc868c8e39849272573513b0d1f0f1",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8d4ae147abe91c33e9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Après sa défaite aux midterms, Donald Trump vante sa salle de bal à la Maison Blanche",
+      "bullets": [
+        "Les réactions des lycéens lors des blocages et des manifestations du 5 novembre",
+        "491 jours dans les geôles de Poutine, un Américain témoigne",
+        "\"Les thématiques de justice sociale et de lutte contre l'oligarchie, qui ont été au coeur de la campagne, étaient inaudibles il y a 30 ans pour le Parti démocrate\" selon Alice Béja, professeure à l'université de Créteil"
+      ],
+      "publishedAt": "2026-11-05T12:17:36+00:00",
+      "updatedAt": "2026-11-05T12:17:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/apres-sa-defaite-aux-midterms-donald-trump-vante-sa-salle-de-bal-a-la-maison-blanche_8269286.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "3f01119c198bb1ae8ff5822829b7c2e06f208286ee6cc4f565afe20a320147ea",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-c87fa24127205e0452",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
+      "bullets": [
+        "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre."
+      ],
+      "publishedAt": "2026-11-05T16:16:20+00:00",
+      "updatedAt": "2026-11-05T16:16:20+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bb18add1f8ad2d022bfcf41d83e853615b05641895416adccf434eeaf950ad1a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-765fbdb082430d0e5f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "TikTok n'a eu qu'un rôle \"très limité\" dans les violences en marge des manifestations et des blocus lycéens, selon une étude",
+      "bullets": [
+        "Une étude du Centre pour la recherche économique et ses applications (Cepremap), publiée mardi 3 novembre, nuance néanmoins le rôle de TikTok dans la mobilisation.",
+        "Les trois auteurs, spécialistes en sciences sociales computationnelles et en sociologie politique, ont examiné près d'un million de vidéos publiques, cumulant 16 milliards de vues et 4,5 millions de commentaires, entre le 1er septembre et le 29 octobre.",
+        "Par ailleurs, \"les commentaires des vidéos montrant des violences condamnent ces actes près de dix fois plus qu'ils ne les célèbrent et les appels explicites à la violence représentent 0,27% des commentaires\"."
+      ],
+      "publishedAt": "2026-11-05T17:18:22+00:00",
+      "updatedAt": "2026-11-05T17:18:22+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/tiktok-n-a-eu-qu-un-role-tres-limite-dans-les-violences-en-marge-des-manifestations-et-des-blocus-lyceens-selon-une-etude_8269067.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "45fa76815a61e423b3b264b832d632532462d01c1d6e93e0a79b47383b21e4be",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -1000,7 +1001,7 @@
       ],
       "publishedAt": "2026-11-04T17:24:50+00:00",
       "updatedAt": "2026-11-04T17:24:50+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1187,32 +1188,28 @@
       "context": null
     },
     {
-      "id": "rss-ec55f3af75faf2eea8",
+      "id": "rss-550814cec6dc2e9537",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "Les frigos de l'Établissement français du sang ont été piratés, aucune perte n'est à déplorer",
+      "topic": "Politique",
+      "title": "Dépenses du gouvernement : une étude relève « l’opacité » des rémunérations dans les cabinets ministériels",
       "bullets": [
-        "L'attaque a eu lieu dans la nuit du dimanche 1er au lundi 2 novembre contre trois sites de l'Établissement français du sang (EFS).",
-        "Ce mode opératoire rappelle l'attaque contre plusieurs grands magasins et leur système de réfrigération en octobre.",
-        "Ces cyberagressions se sont répétées lundi 2 novembre dans une dizaine de pays européens."
+        "Dans une note pour l’Observatoire de l’éthique publique, qu’il préside, l’ancien député René Dosière évalue le « coût du gouvernement Lecornu » à 165,7 millions d’euros en année pleine, soit moins d’un millième des dépenses publiques."
       ],
-      "publishedAt": "2026-11-04T16:21:55+00:00",
-      "updatedAt": "2026-11-04T16:21:55+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-05T15:38:58+00:00",
+      "updatedAt": "2026-11-05T15:38:58+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-frigos-de-l-etablissement-francais-du-sang-ont-ete-pirates-mais-aucune-perte-n-est-a-deplorer_8267747.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/05/depenses-du-gouvernement-une-etude-releve-l-opacite-des-remunerations-dans-les-cabinets-ministeriels_6807040_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "e876fad2c43e1204e85cf07f2d0714f8798bf5e1f70d5bd2a6997fa31ae694bc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4502bc40479ea3ae46764eae0727b423e5b9cd866aa022529e7863b356f0b0b3",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1292,7 +1289,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
