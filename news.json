@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T21:57:09.510761+00:00",
+  "preparedAt": "2026-11-05T22:57:52.504106+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -314,31 +314,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -377,8 +352,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T21:53:11+00:00",
-      "updatedAt": "2026-11-05T21:53:11+00:00",
+      "publishedAt": "2026-11-05T22:54:07+00:00",
+      "updatedAt": "2026-11-05T22:54:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -584,6 +559,31 @@
       "context": null
     },
     {
+      "id": "rss-6ac920303efec7af2f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "bullets": [
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
+      ],
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e1a7a35719c409d370",
       "revision": 1,
       "category": "world",
@@ -636,32 +636,29 @@
       "context": null
     },
     {
-      "id": "rss-f3827e0186ae251272",
+      "id": "rss-f9f5ab1351c264c7ae",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "A Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+      "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
       "bullets": [
-        "Un tribunal hongkongais a condamné le militant prodémocratie, jeudi 5 novembre, à 10 ans de prison supplémentaires, pour collusion avec des pays étrangers en vertu de la loi de sécurité nationale.",
-        "Human Rights Watch, qui a qualifié la sentence de \"cruelle et injuste\", a exhorté les gouvernements étrangers à \"imposer des sanctions ciblées aux responsables de la répression croissante à Hong Kong\".",
-        "Sa condamnation doit montrer que Pékin \"garde Hong Kong fermement sous contrôle et qu'il n'y a aucune possibilité de revenir aux jours plus libéraux d'avant 2019\", a-t-il estimé."
+        "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis.",
+        "Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée»."
       ],
-      "publishedAt": "2026-11-05T07:38:52+00:00",
-      "updatedAt": "2026-11-05T07:38:52+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-05T21:59:54+00:00",
+      "updatedAt": "2026-11-05T21:59:54+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "84b159063d4483b30e8a28a16fbac1474c339722c36ddde143e3329f8e71d915",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b58937d8d70fc02194",
@@ -686,31 +683,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "fbd7c684ab1c3ceff6005bbd8614c377efbe713dc77d55c0115ed42a106871d9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f9f5ab1351c264c7ae",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
-      "bullets": [
-        "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis.",
-        "Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée»."
-      ],
-      "publishedAt": "2026-11-05T18:05:33+00:00",
-      "updatedAt": "2026-11-05T18:05:33+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
       "detailLevel": "preview"
     },
     {
@@ -836,16 +808,16 @@
     },
     {
       "id": "rss-a5ada77c87604be918",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Raphaël Glusckmann endure des huées de sympathisants « insoumis » à la manifestation du 5 novembre",
+      "title": "Raphaël Glucksmann endure des huées de sympathisants « insoumis » à la manifestation du 5 novembre",
       "bullets": [
         "Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales.",
         "Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger de la place de la République, bloqué par plusieurs dizaines de partisans de La France insoumise."
       ],
-      "publishedAt": "2026-11-05T20:29:04+00:00",
-      "updatedAt": "2026-11-05T20:29:04+00:00",
+      "publishedAt": "2026-11-05T20:29:01+00:00",
+      "updatedAt": "2026-11-05T20:29:01+00:00",
       "importance": 65,
       "sources": [
         {
@@ -856,7 +828,7 @@
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "355fc7ea02e85e0d94f767a498a833670c800dc45d430e2d008d12d2afff37b0",
+      "summaryInput": "b0a426143a406904cc95ea85d443856a1c7f367425b4093afb105be23a39f870",
       "detailLevel": "preview"
     },
     {
@@ -1176,7 +1148,7 @@
       ],
       "publishedAt": "2026-11-04T10:17:01+00:00",
       "updatedAt": "2026-11-04T10:17:01+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1200,7 +1172,7 @@
       ],
       "publishedAt": "2026-11-03T09:59:41+00:00",
       "updatedAt": "2026-11-03T09:59:41+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
