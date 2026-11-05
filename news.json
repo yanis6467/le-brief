@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T20:59:51.597503+00:00",
+  "preparedAt": "2026-11-05T21:57:09.510761+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -29,6 +29,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3ad0c0fef46023a18e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"C'est une attaque hybride comme les autres\" : qui menace les avions européens ?",
+      "bullets": [
+        "En cas d'alerte, quelles sont les procédures prévues ?",
+        "Une attaque à coût zéroUne escorte militaire, voire un atterrissage d'urgence.",
+        "Aucune certitude, mais elles interviennent dans un contexte d'attaques hybrides en Europe, notamment avec les piratages des frigos des supermarchés sur lesquels plane l'ombre de la Russie, même si le Kremlin a démenti ce jeudi 5 novembre."
+      ],
+      "publishedAt": "2026-11-05T20:55:07+00:00",
+      "updatedAt": "2026-11-05T20:55:07+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/aeronautique/c-est-une-attaque-hybride-comme-les-autres-qui-menace-les-avions-europeens_8269850.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "75fe6a19ada994c92849c147ebb57c9e205548705e490d589f9db3788c65b301",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "context": null
     },
     {
       "id": "rss-a937f570990ff0d082",
@@ -107,6 +135,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-94c0bf446f7026a18e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le budget 2027 rejeté à l'unanimité, du jamais-vu à l'Assemblée",
+      "bullets": [
+        "La ligne rouge du gouvernement, revenir à 5% de déficit en 2027Direction le Sénat donc, le 20 novembre, pour être discuté.",
+        "En cas d'échec, le gouvernement peut décider de recourir à l'article 49.3 pour faire adopter le budget, sauf motion de censure.",
+        "Le gouvernement se dit aujourd'hui à l'écoute des oppositions pour un compromis mais avec une ligne rouge : revenir à 5% de déficit en 2027."
+      ],
+      "publishedAt": "2026-11-05T21:37:55+00:00",
+      "updatedAt": "2026-11-05T21:37:55+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "8841454970cde2a56f05c6bc5f6746cf9514ddbf146012a94038696d1aa8dcbd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "context": null
+    },
+    {
       "id": "rss-7a7d96b9fdc1ded592",
       "revision": 1,
       "category": "eco",
@@ -132,31 +188,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
       "context": null
-    },
-    {
-      "id": "rss-60246a0325551b7c2d",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
-      "bullets": [
-        "Les pirates informatiques sont parvenus à dérober une partie des fonds propres d’Arkéa.",
-        "Une attaque inédite dans la finance européenne."
-      ],
-      "publishedAt": "2026-11-04T16:51:29+00:00",
-      "updatedAt": "2026-11-04T16:51:29+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f8a9f20ec083778467cd9aff20989cd765f8a2f2585983a2543c6f11d246e8f1",
-      "detailLevel": "preview"
     },
     {
       "id": "fr-inflation-2026-10",
@@ -203,6 +234,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e1f775d51c8672f8ba",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
+      "bullets": [
+        "Plusieurs pays, dont la France, ont dû mobiliser leur armée de l’air pour escorter des avions de ligne menacés par des alertes à la bombe.",
+        "Une vingtaine de vols étaient concernés, ce qui laisse supposer une opération coordonnée."
+      ],
+      "publishedAt": "2026-11-05T20:57:03+00:00",
+      "updatedAt": "2026-11-05T20:57:03+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8dcbae40e0e5cadd9ef292749d860d48b6e7288fb3056b086847bf38ca907f97",
       "detailLevel": "preview"
     },
     {
@@ -258,59 +314,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c0622654babe55d859",
+      "id": "rss-6ac920303efec7af2f",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Alerte à la bombe : le pilote de l’avion dérouté reliant Dublin à Rome «aurait refusé» de se poser à Évreux, une enquête ouverte",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
       "bullets": [
-        "Le parquet d’Évreux a annoncé à l’AFP l’ouverture d’une enquête au sujet du pilote de l’avion d’Aer Lingus qui «aurait refusé» d’atterrir sur la base militaire d’Évreux, «préférant un aéroport civil», poussant l’armée française à mobiliser deux avions pour l’escorter.",
-        "Le procureur de la République, Rémi Coutin, a annoncé s’être rendu sur la base aérienne 105 de l’armée de l’air et de l’espace, à Évreux, où s’est finalement posé l’A320 qui effectuait la liaison entre Dublin et Rome avec 157 personnes à bord, en raison d’une alerte à la bombe."
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
       ],
-      "publishedAt": "2026-11-05T14:03:56+00:00",
-      "updatedAt": "2026-11-05T14:03:56+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
+      "importance": 81,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/alerte-a-la-bombe-le-pilote-de-l-avion-deroute-reliant-dublin-a-rome-aurait-refuse-de-se-poser-a-evreux-une-enquete-ouverte-20261105",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "ab79db7bd17c9fee45ddff6a4de243b205671f226b18e54bb84ac281c85e3b06",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-445e41deca8d466d76",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
-      "bullets": [
-        "Léa Balage El Mariky, comment qualifiez-vous cette journée ?",
-        "Bref, tout le monde a des raisons d'être en colère, et en même temps, il y a un espoir parce que dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés, a fait peut-être émerger cette espérance.",
-        "Et je représente une famille politique qui n'a pas rien à voir avec les 10 dernières années, donc une capacité aussi à se remettre en question et à voir qu'aujourd'hui, dans notre pays, vous avez des gens qui manifestent…Il se remet en question, Gabriel Attal ?"
-      ],
-      "publishedAt": "2026-11-05T19:04:43+00:00",
-      "updatedAt": "2026-11-05T19:04:43+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "2f0f93c0ab62f431b237671b73ac1c47c76833a014c45cc2bf4845bdb09ad72a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5112c5deff89021eaf",
@@ -351,8 +377,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T20:58:46+00:00",
-      "updatedAt": "2026-11-05T20:58:46+00:00",
+      "publishedAt": "2026-11-05T21:53:11+00:00",
+      "updatedAt": "2026-11-05T21:53:11+00:00",
       "importance": 69,
       "sources": [
         {
@@ -489,7 +515,7 @@
       ],
       "publishedAt": "2026-11-04T09:17:13+00:00",
       "updatedAt": "2026-11-04T09:17:13+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -558,31 +584,6 @@
       "context": null
     },
     {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e1a7a35719c409d370",
       "revision": 1,
       "category": "world",
@@ -605,6 +606,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a6fbf0cda9fb98ded37467dcc8be80281e0bc63efb8c292c2e0f4238d0babfd6",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7da7836e5f5a263918",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie poursuit la croissance de ses stocks de missiles malgré les sanctions internationales, selon le renseignement ukrainien",
+      "bullets": [
+        "Telles sont les conclusions du renseignement ukrainien (HUR), dans un rapport rendu public le 4 novembre, et publié sur Facebook.",
+        "L’industrie de défense russe aurait actuellement la capacité de fabriquer plus de 200 missiles par mois, dont jusqu’à 110 pour des balistiques.",
+        "Pour augmenter l’efficacité de l’utilisation contre des cibles au sol, les missiles, qui se déplacent à plus de 2.000 kilomètres par heure, ont reçu une ogive plus puissante et une portée de vol accrue."
+      ],
+      "publishedAt": "2026-11-05T20:49:57+00:00",
+      "updatedAt": "2026-11-05T20:49:57+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-russie-poursuit-la-croissance-de-ses-stocks-de-missiles-malgre-les-sanctions-internationales-selon-le-renseignement-ukrainien-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "context": null
     },
     {
       "id": "rss-f3827e0186ae251272",
@@ -631,8 +660,33 @@
       "provenance": "article-extract",
       "summaryInput": "84b159063d4483b30e8a28a16fbac1474c339722c36ddde143e3329f8e71d915",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T09:13:49.655094+00:00",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
       "context": null
+    },
+    {
+      "id": "rss-b58937d8d70fc02194",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
+      "bullets": [
+        "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ».",
+        "Sa décision, annoncée jeudi, concerne un quart des condamnés à mort aux Etats-Unis."
+      ],
+      "publishedAt": "2026-11-05T21:55:04+00:00",
+      "updatedAt": "2026-11-05T21:55:04+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fbd7c684ab1c3ceff6005bbd8614c377efbe713dc77d55c0115ed42a106871d9",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-f9f5ab1351c264c7ae",
@@ -657,31 +711,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c3982dc8c4028aa4e1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La ministre des affaires étrangères yéménite, en visite à Paris, demande à l’UE d’ajouter les houthistes à sa liste des organisations terroristes",
-      "bullets": [
-        "Afrah Abdulaziz Al-Zouba, représentante du gouvernement reconnu par la communauté internationale, va aussi plaider pour désigner le groupe yéménite comme organisation terroriste en Allemagne, en Belgique, aux Pays-Bas, en Italie et en Grèce.",
-        "Mais les Européens craignent d’exposer davantage leurs bateaux en mer Rouge."
-      ],
-      "publishedAt": "2026-11-05T14:45:05+00:00",
-      "updatedAt": "2026-11-05T14:45:05+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/la-ministre-des-affaires-etrangeres-yemenite-en-visite-a-paris-demande-a-l-ue-d-ajouter-les-houthistes-a-sa-liste-des-organisations-terroristes_6806971_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "94764567a7caa13bd063df2af910f07bdd72953116a4a75fa1700c9735bcf0d8",
       "detailLevel": "preview"
     },
     {
@@ -832,17 +861,17 @@
     },
     {
       "id": "rss-40efa8c3d132a75e22",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
       "title": "Plafonds qui s'effondrent, placo qui tombe… Une liste noire de 200 lycées délabrés à rénover en priorité dressée par le gouvernement",
       "bullets": [
-        "Des faux plafonds s'effondrent à cause de la pluie dans un lycée de Montpellier (Hérault), du placo qui tombe sur une élève dans un internat de Bastia (Haute-Corse), un morceau de coursive qui menace de céder dans un autre établissement de Nîmes (Gard).",
-        "Leur point commun : leur nom figure dans une liste de 200 établissements prioritaires pour être rénovés.",
-        "Pour certains élèves, le bâti laisse à désirer : \"Il y a des murs qui ont été arrachés, le mur est dégradé, beaucoup dégradé, dans toutes les salles\", assure l'un d'eux."
+        "Des faux plafonds s'effondrent à cause de la pluie dans un lycée de Montpellier (Hérault), du placo qui tombe sur une élève dans un internat de Bastia (Haute-Corse), un morceau de coursive qui menace de céder dans un autre établissement de Nîmes (Gard)...",
+        "Leur nom figure dans une liste de 200 établissements prioritaires pour être rénovés.",
+        "Une méthode critiquée par les présidents de régionsLa publication de cette liste de lycées fait polémique, car elle a été élaborée uniquement grâce à des signalements effectués par des élèves sur la plateforme du ministère de l'Éducation nationale."
       ],
-      "publishedAt": "2026-11-05T20:34:53+00:00",
-      "updatedAt": "2026-11-05T20:34:53+00:00",
+      "publishedAt": "2026-11-05T21:37:43+00:00",
+      "updatedAt": "2026-11-05T21:37:43+00:00",
       "importance": 85,
       "sources": [
         {
@@ -853,9 +882,9 @@
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "8e3e369b18908b6bd6182f6627f90310c901a60ced928cca8f9fd4d5befa1f76",
+      "summaryInput": "8736f4218e751c6bf94bd514746af9421b38f713289d7bfedef1a785f1ac5816",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:02:32.879673+00:00",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
       "context": null
     },
     {
@@ -895,7 +924,7 @@
       ],
       "publishedAt": "2026-11-04T09:12:25+00:00",
       "updatedAt": "2026-11-04T09:12:25+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1185,31 +1214,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cf41b9be95465c8efa",
+      "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Alertes à la bombe, des avions déroutés",
+      "topic": "Santé",
+      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
+        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
+        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
       ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "publishedAt": "2026-11-05T21:34:22+00:00",
+      "updatedAt": "2026-11-05T21:34:22+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
+      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
       "context": null
     }
   ],
@@ -1224,7 +1253,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Franceinfo",
@@ -1278,7 +1307,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
