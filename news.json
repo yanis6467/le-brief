@@ -1,11 +1,59 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T12:05:07.668965+00:00",
+  "preparedAt": "2026-11-05T13:27:06.389114+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-917fa8737756f50fee",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
+      "bullets": [
+        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
+      ],
+      "publishedAt": "2026-11-05T05:00:11+00:00",
+      "updatedAt": "2026-11-05T05:00:11+00:00",
+      "importance": 93,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4ad9529cafc25cdb7e",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+      "bullets": [
+        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
+      ],
+      "publishedAt": "2026-11-05T12:00:07+00:00",
+      "updatedAt": "2026-11-05T12:00:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
@@ -56,34 +104,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-28479dfdbd9a0a9925",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
-      "bullets": [
-        "L'Assemblée nationale a rejeté, mercredi 4 novembre, à l'unanimité des 458 votants, le projet de budget de l'Etat 2027, après avoir très largement modifié la copie gouvernementale.",
-        "Une première lecture, c'est comme un tour de chauffe : tout le monde marque ses lignes rouges et veut cranter ses objets politiques.",
-        "(...) Cela donne une copie fiscale qui n’est pas assumable."
-      ],
-      "publishedAt": "2026-11-04T22:54:57+00:00",
-      "updatedAt": "2026-11-04T22:54:57+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "e1f24f6e84deb5fa47454d99de9723fa1f281876c85645ad4925b780d2ab826c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T12:05:07.668965+00:00",
-      "context": null
-    },
-    {
       "id": "fr-inflation-2026-10",
       "revision": 1,
       "category": "eco",
@@ -115,8 +135,8 @@
       "bullets": [
         "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi."
       ],
-      "publishedAt": "2026-11-05T04:00:20+00:00",
-      "updatedAt": "2026-11-05T04:00:20+00:00",
+      "publishedAt": "2026-11-05T04:00:15+00:00",
+      "updatedAt": "2026-11-05T04:00:15+00:00",
       "importance": 69,
       "sources": [
         {
@@ -153,6 +173,87 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "bbe3ef41d1a121b0905c98cbfecd9f2b4efc9fa98287795e258413db5937c7af",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-13979ec776e2eb9da9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Des millions d'euros volés, une attaque inédite, une enquête ouverte... Ce que l'on sait du piratage du Crédit mutuel Arkéa",
+      "bullets": [
+        "Le groupe bancaire, qui réunit les fédérations de Bretagne et du Sud-Ouest de la maison mère, ainsi que des filiales spécialisées, comme Fortuneo, a confirmé l'attaque dans un communiqué mercredi 4 novembre.",
+        "L'entreprise a dégagé un bénéfice net de 230 millions d'euros sur les six premiers mois de l'année, d'après son rapport semestriel.\"Aucun impact\" pour les clients, affirme le groupe\"Les attaquants ont utilisé le compte propre de Crédit mutuel Arkéa pour réaliser des transactions vers d'autres acteurs bancaires\", a détaillé le groupe.",
+        "Certaines de ces plateformes ont entrepris de bloquer les fonds volés."
+      ],
+      "publishedAt": "2026-11-05T12:51:03+00:00",
+      "updatedAt": "2026-11-05T12:51:03+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-millions-d-euros-voles-une-attaque-inedite-et-une-enquete-ouverte-ce-que-l-on-sait-du-piratage-du-credit-mutuel-arkea_8269124.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "440c440bd667eee34e83de832b624fe3e232dce1451c43a46994b8497711e3f9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-cf41b9be95465c8efa",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Alertes à la bombe, des avions déroutés",
+      "bullets": [
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "491 jours dans les geôles de Poutine, un Américain témoigne",
+        "\"Les thématiques de justice sociale et de lutte contre l'oligarchie, qui ont été au coeur de la campagne, étaient inaudibles il y a 30 ans pour le Parti démocrate\" selon Alice Béja, professeure à l'université de Créteil"
+      ],
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-07da20dd454df02b4e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Il faudrait une augmentation du smic de plus de 130 euros par mois pour un temps plein uniquement pour retrouver le niveau de 2012 »",
+      "bullets": [
+        "En réponse à la mobilisation sociale, le gouvernement a évoqué la piste d’une revalorisation du smic.",
+        "L’économiste Clément Carbonnier rappelle, dans une tribune au « Monde », que le salaire minimum n’a pas connu de coup de pouce depuis quatorze ans et que les salariés qui le touchent se sont…"
+      ],
+      "publishedAt": "2026-11-05T12:30:09+00:00",
+      "updatedAt": "2026-11-05T12:30:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "015b0eb2b7fd7606d57f03b22e2ed8b9c39ad59560c1bd27007dddac89094b3a",
       "detailLevel": "preview"
     },
     {
@@ -208,112 +309,31 @@
       "context": null
     },
     {
-      "id": "rss-2a1bfdd00a268dedd2",
+      "id": "rss-5f50d2e0a8476c85f1",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Tout ce qui se passe actuellement nourrit la radicalité et l'extrémisme politique\", analyse le sociologue Michel Wieviorka",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Cette «rotation sectorielle» qui porte le CAC 40 (+0,8%) depuis l'issue des élections aux États-Unis",
       "bullets": [
-        "Louise Bernard : La mobilisation du jeudi 5 novembre s'annonce massive, en tout cas c'est ce que dit le gouvernement qui parle de peut-être jusqu'à 700 000 Français attendus dans les rues.",
-        "Et je voudrais ajouter aussi un mot en ce qui concerne le mouvement des lycéens.",
-        "Je pense que dans la situation de vide politique, de béance politique entre les extrêmes, tout ce qui se passe actuellement nourrit la radicalité et l'extrémisme politique."
+        "L'indice parisien avance de 0,8% à la mi-séance à 8.242,1 points.",
+        "Le taux de l'obligation américaine à 10 ans a perdu 13 points de base (0,13 point de pourcentage) depuis les résultats des élections américaines.",
+        "Ce qui explique que Soitec (-7%) ou STMicroelectronics (-3%), deux groupes de semi-conducteurs qui ont été portés en Bourse par leurs produits dans les interconnexions de data centers, souffrent."
       ],
-      "publishedAt": "2026-11-05T09:21:27+00:00",
-      "updatedAt": "2026-11-05T09:21:27+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-05T12:41:45+00:00",
+      "updatedAt": "2026-11-05T12:41:45+00:00",
+      "importance": 93,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve/tout-ce-qui-se-passe-actuellement-nourrit-la-radicalite-et-l-extremisme-politique-analyse-le-sociologue-michel-wieviorka_8268992.html",
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-cette-rotation-sectorielle-qui-porte-le-cac-40-08-depuis-l-issue-des-elections-aux-etats-unis-1173235.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "189f717844d10b64ec18cb94462e1735ed7b5d2da1bd64a648665da10e71f1fd",
+      "summaryInput": "f770dd257a0b249ef5e8c1e397d5e4d271db35c068ecf0d7d50194e615913b04",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T10:19:03.413962+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-cd3b213bc08eb27c04",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
-      "bullets": [
-        "Après un recul du PIB au premier trimestre, une stagnation au deuxième, la croissance française a encore reculé de 0,1% au troisième.",
-        "Près de 30 % des stations ont même baissé leurs prix d’au moins 20 centimes.",
-        "Et avec 10 millions de barils de gazole mis sur le marché sur trois mois, cette baisse va se poursuivre.— Sébastien Lecornu (@SebLecornu) November 2, 2026\"On n'est pas sur l'épaisseur du trait, cette baisse est sensible et se cumule avec la prime grand rouleur, vante un conseiller de l'exécutif."
-      ],
-      "publishedAt": "2026-11-05T07:41:57+00:00",
-      "updatedAt": "2026-11-05T07:41:57+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "0edf3be18dffd402cd115ec4b61fb38bb82e56414f1ce897aaff5cb12ba1b4ba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T06:13:02.830203+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0cddfefc3a17bb4273",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’enfance et le handicap coûtent plus cher aux départements que le vieillissement",
-      "bullets": [
-        "DÉCRYPTAGE - Les départements consacrent près de 45 milliards d’euros, soit 70 % de leurs dépenses de fonctionnement, aux politiques sociales.",
-        "Et contrairement à une idée reçue, ce ne sont pas celles liées aux seniors qui progressent le plus."
-      ],
-      "publishedAt": "2026-11-05T10:30:33+00:00",
-      "updatedAt": "2026-11-05T10:30:33+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/l-enfance-et-le-handicap-coutent-plus-cher-aux-departements-que-le-vieillissement-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "09acb18cb9dcfaf4d93e61f7ff9953402cec9cb78ef067898c948fa450114dea",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7e22880463c33ba4b7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Aux États-Unis, Washington et Denver interdisent le foie gras",
-      "bullets": [
-        "L’initiative 86, qui «interdit le gavage des volatiles ainsi que la vente, la distribution et l’import de tout produit issu de foie gras de volatile», a recueilli 73,3% des voix.",
-        "Les amendes prévues à Washington iraient de 1000 à 5000 dollars.",
-        "Mais la ville a estimé à 314.000 dollars le coût de la mise en place de la mesure, couvrant notamment l’embauche d’un inspecteur dédié à l’information du public puis aux contrôles pour les premières années."
-      ],
-      "publishedAt": "2026-11-05T08:53:11+00:00",
-      "updatedAt": "2026-11-05T08:53:11+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/aux-etats-unis-washington-et-denver-interdisent-le-foie-gras-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "a520cc7fa33cd63df7aa0462c97655d83b1383ee78da780fd8781baa270042bc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T12:05:07.668965+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
     },
     {
@@ -329,7 +349,7 @@
       ],
       "publishedAt": "2026-11-04T12:16:43+00:00",
       "updatedAt": "2026-11-04T12:16:43+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -341,7 +361,7 @@
       "provenance": "article-extract",
       "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
     },
     {
@@ -369,7 +389,7 @@
       "provenance": "article-extract",
       "summaryInput": "62c426e0d9732d258271aed75f553293f05886e88ad70dc92a58f044525b3187",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -383,8 +403,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T11:56:51+00:00",
-      "updatedAt": "2026-11-05T11:56:51+00:00",
+      "publishedAt": "2026-11-05T13:27:05+00:00",
+      "updatedAt": "2026-11-05T13:27:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -397,31 +417,31 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
     },
     {
-      "id": "rss-ecf9bc163fcd809857",
+      "id": "rss-5604cd0cd118c7602c",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.87%",
+      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
       "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-087-1173199.html"
+        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
       ],
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "updatedAt": "2026-11-05T08:00:00+00:00",
+      "publishedAt": "2026-11-05T04:00:03+00:00",
+      "updatedAt": "2026-11-05T04:00:03+00:00",
       "importance": 63,
       "sources": [
         {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-087-1173199.html",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "0cfeb23257e0b37d4449270c76396c094c7967985087e0be00a89490fc6d909d",
+      "summaryInput": "634271db2a0e1e8b9925e0e8c0bad689e9a3274d5ebf71204bc6069c0d5e3bc1",
       "detailLevel": "preview"
     },
     {
@@ -449,7 +469,7 @@
       "provenance": "article-extract",
       "summaryInput": "29443a8c27d89e88b1b57a036e8e5ee702db877a8989221230e188540306def6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
     },
     {
@@ -477,7 +497,7 @@
       "provenance": "article-extract",
       "summaryInput": "15ed5695934a95f52e4f702afb0a73a8bf9493d14d94319ea16e7b4587a09047",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
       "context": null
     },
     {
@@ -530,30 +550,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4ad9529cafc25cdb7e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-      "bullets": [
-        "A l’approche des élections législatives qui se tiendront le 7 novembre, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
-      ],
-      "publishedAt": "2026-11-05T12:00:07+00:00",
-      "updatedAt": "2026-11-05T12:00:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fea9ab3e2157eac413a9f989dcd0077097eea756e81ac7fa2d0a0479dda192ea",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f3827e0186ae251272",
       "revision": 1,
       "category": "world",
@@ -582,27 +578,27 @@
       "context": null
     },
     {
-      "id": "rss-d4798025f25915db78",
+      "id": "rss-e883e6f94a70c439c8",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "A Hanoï, l’hôtel Métropole célèbre 125 ans d’une histoire légendaire",
+      "title": "« Les midterms 2026 marquent un sérieux coup de frein, pas un coup d’arrêt, au trumpisme débridé »",
       "bullets": [
-        "Cette luxueuse vitrine de l’Indochine française fut tour à tour la base arrière des généraux français durant la guerre, l’hôtel officiel du régime nord-vietnamien et le palace où séjournèrent, entre autres, Graham Greene, Yves Lacoste et Joan Baez."
+        "Après deux ans avec un Congrès à la main de Donald Trump, les Américains ont fait le choix, mardi, lors des élections de mi-mandat, d’un retour à la pratique voulue par les Pères fondateurs des Etats-Unis, souligne Alain Frachon, chroniqueur au « Monde »."
       ],
-      "publishedAt": "2026-11-05T02:30:02+00:00",
-      "updatedAt": "2026-11-05T02:30:02+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-05T13:00:17+00:00",
+      "updatedAt": "2026-11-05T13:00:17+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/a-hanoi-l-hotel-metropole-celebre-125-ans-d-une-histoire-legendaire_6806569_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/05/les-midterms-2026-marquent-un-serieux-coup-de-frein-pas-un-coup-d-arret-au-trumpisme-debride_6806866_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "f380667bdc89c60a9033a9f92d677c63b8bd81aba96d30478b08eb68934bb2f7",
+      "summaryInput": "18b7eaa39e84892a33b2187d9a450ac81b0fdc4a72bae3b53b55bb80be1945cb",
       "detailLevel": "preview"
     },
     {
@@ -759,78 +755,103 @@
       "context": null
     },
     {
-      "id": "rss-4415dcc1fbe7b8479e",
+      "id": "rss-cc2f6314537d9af28e",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "En Allemagne, le numéro deux du gouvernement régional de Bavière retrouvé mort à son hôtel à Berlin",
+      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
       "bullets": [
-        "La cause du décès de Hubert Aiwanger, 55 ans, président du parti ultraconservateur Freie Wähler, est encore inconnue.",
-        "La police et le parquet ont ouvert une enquête."
+        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
       ],
-      "publishedAt": "2026-11-05T03:05:04+00:00",
-      "updatedAt": "2026-11-05T03:05:04+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-05T08:53:43+00:00",
+      "updatedAt": "2026-11-05T08:53:43+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/en-allemagne-le-numero-deux-du-gouvernement-regional-de-baviere-retrouve-mort-a-son-hotel-a-berlin_6806602_3210.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "490208bdacd66a7dce305e63deab27b612dc4b53f0304533d5bd7bb31600232f",
+      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-917fa8737756f50fee",
+      "id": "rss-494abdaebfa66bfa87",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : après la déroute républicaine, l’Ukraine nourrit le maigre espoir de freiner la dérive américaine en faveur de la Russie",
+      "bullets": [
+        "En exigeant de la Maison Blanche davantage de transparence sur ses négociations avec le Kremlin ou en faisant voter de nouvelles sanctions, le nouveau Congrès pourrait infléchir la position de Washington vis-à-vis de Kiev."
+      ],
+      "publishedAt": "2026-11-05T05:00:19+00:00",
+      "updatedAt": "2026-11-05T05:00:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "beb7fa2b8962372e9b62863c0b7bb1f7ed0664b8082b21242ee39427fd984953",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-14d261595a851c226e",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
+      "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
       "bullets": [
-        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
+        "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre."
       ],
-      "publishedAt": "2026-11-05T05:00:11+00:00",
-      "updatedAt": "2026-11-05T05:00:11+00:00",
-      "importance": 93,
+      "publishedAt": "2026-11-04T22:53:12+00:00",
+      "updatedAt": "2026-11-04T22:53:12+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
+      "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-43b6c388bc1cc4cfeb",
+      "id": "rss-0bf5059b88f9c7cfe3",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le dérapage du déficit public français à 5,4 % du PIB en 2026 officialisé",
+      "title": "Face aux attaques \"du grand patronat et du gouvernement, notre seul moyen de défense, c'est la mobilisation et la grève\", affirme Nathalie Arthaud",
       "bullets": [
-        "Le projet de loi de finances de fin de gestion pour 2026 a été présenté en conseil des ministres, mercredi.",
-        "Le gouvernement met malgré tout en avant « la capacité de l’Etat à maîtriser ses dépenses tout en assurant une réponse forte aux crises »."
+        "\"Le grand patronat et le gouvernement ne cessent de nous attaquer et notre seul moyen de défense, c'est la mobilisation, c'est la grève\", affirme Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle, invitée d'ICI Nord jeudi.",
+        "Nathalie Arthaud défend la mise en place d'un Smic à 2 200 euros net par mois, \"une mesure indispensable\" pour ne pas vivre \"avec la peur au ventre, la peur d'avoir un souci de santé, d'avoir sa voiture qui tombe en panne, de ne pas pouvoir payer les études de ses enfants\"."
       ],
-      "publishedAt": "2026-11-04T13:09:21+00:00",
-      "updatedAt": "2026-11-04T13:09:21+00:00",
-      "importance": 86,
+      "publishedAt": "2026-11-05T08:17:47+00:00",
+      "updatedAt": "2026-11-05T08:17:47+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/finances-publiques-le-derapage-du-deficit-en-2026-officialise_6806225_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/face-aux-attaques-du-grand-patronat-et-du-gouvernement-notre-seul-moyen-de-defense-c-est-la-mobilisation-et-la-greve-affirme-nathalie-arthaud_8268950.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "13f1dc3c26df0ceb0b2f67c87458476edbadac57d57ef406d77fb37077d621fc",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "92ad30d623a589cb010700e115cf1a84ee4fc244a763087d29465db6f7397868",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T09:13:49.655094+00:00",
+      "context": null
     },
     {
       "id": "rss-7c0158883b086d5aaf",
@@ -962,33 +983,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0bf5059b88f9c7cfe3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Face aux attaques \"du grand patronat et du gouvernement, notre seul moyen de défense, c'est la mobilisation et la grève\", affirme Nathalie Arthaud",
-      "bullets": [
-        "\"Le grand patronat et le gouvernement ne cessent de nous attaquer et notre seul moyen de défense, c'est la mobilisation, c'est la grève\", affirme Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle, invitée d'ICI Nord jeudi.",
-        "Nathalie Arthaud défend la mise en place d'un Smic à 2 200 euros net par mois, \"une mesure indispensable\" pour ne pas vivre \"avec la peur au ventre, la peur d'avoir un souci de santé, d'avoir sa voiture qui tombe en panne, de ne pas pouvoir payer les études de ses enfants\"."
-      ],
-      "publishedAt": "2026-11-05T08:17:47+00:00",
-      "updatedAt": "2026-11-05T08:17:47+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/face-aux-attaques-du-grand-patronat-et-du-gouvernement-notre-seul-moyen-de-defense-c-est-la-mobilisation-et-la-greve-affirme-nathalie-arthaud_8268950.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "92ad30d623a589cb010700e115cf1a84ee4fc244a763087d29465db6f7397868",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T09:13:49.655094+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8e9d92bc291390e8f5",
       "revision": 1,
       "category": "france",
@@ -1000,7 +994,7 @@
       ],
       "publishedAt": "2026-11-03T12:32:24+00:00",
       "updatedAt": "2026-11-03T12:32:24+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1035,30 +1029,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-14d261595a851c226e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
-      "bullets": [
-        "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre."
-      ],
-      "publishedAt": "2026-11-04T22:53:12+00:00",
-      "updatedAt": "2026-11-04T22:53:12+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
       "detailLevel": "preview"
     },
     {
@@ -1108,6 +1078,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ab53fbcd8693748dfcd85f4960165cbb5ff44d29685ec10a9160c858186ecaf3",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-73477593b6156eac06",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
+      "bullets": [
+        "\"Il est temps de ne pas bloquer\" les lycées, affirme jeudi 5 novembre sur franceinfo Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, alors que lycéens et étudiants sont appelés à participer à la journée de mobilisation sociale jeudi.",
+        "\"Quand vous avez 15 lycéens qui empêchent des centaines [d'autres] d'entrer dans un lycée, je dis qu'il y un acte de violence\", poursuit Bruno Retailleau.",
+        "Après les pillages et les violences qui ont émaillé la journée du 17 octobre, Bruno Retailleau propose la création d'un \"délit de pillage\"."
+      ],
+      "publishedAt": "2026-11-05T09:15:47+00:00",
+      "updatedAt": "2026-11-05T09:15:47+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "82b59522ed3e512271bf40b313703af5f9a6596eb63b481f7d15552d25cc96ec",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "context": null
     },
     {
       "id": "rss-430763910b33904b9d",
@@ -1180,6 +1178,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cca178c75d92f463e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "VIDEO. Mutuelles, système de santé : et si l’Alsace-Moselle avait tout compris ?",
+      "bullets": [
+        "Quelque 16 milliards d’euros de déficit de l’Assurance Maladie en 2025, une hausse des cotisations des complémentaires santé de 40% depuis 2011 : notre santé coûte de plus en plus cher.",
+        "En tout, plus de 2 millions de personnes sont concernées.",
+        "Nulle magie, ce sont les assurés d'Alsace-Moselle qui le financent : ils versent une cotisation supplémentaire de 1,3% de leur revenu brut."
+      ],
+      "publishedAt": "2026-11-04T09:12:25+00:00",
+      "updatedAt": "2026-11-04T09:12:25+00:00",
+      "importance": 71,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/video-mutuelles-systeme-de-sante-et-si-l-alsace-moselle-avait-tout-compris_8260493.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "be82154d9710cfc73ae3254740874f4b829fe67ea77c1a6a06ff0815fe58f7ba",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1193,7 +1219,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1247,7 +1273,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1289,13 +1315,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 26
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
