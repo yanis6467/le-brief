@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T17:28:25.470772+00:00",
+  "preparedAt": "2026-11-05T19:09:18.412516+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -29,6 +29,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a937f570990ff0d082",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Paraguay : la crise bancaire contraint le président Santiago Peña à démissionner",
+      "bullets": [
+        "«J'ai pris la décision de présenter ma démission de la présidence de la République», a annoncé Santiago Peña, président depuis 2023, dans une vidéo publiée sur X.",
+        "L'annonce intervient 48 heures après l'éclatement d'une crise bancaire, qui a vu la Banque centrale du Paraguay (BCP) mettre sous tutelle Ueno, une entité financière revendiquant 2,94 millions de clients, dont les dépôts ont été gelés temporairement.",
+        "Santiago Peña avait jusqu'à récemment détenu des actions dans cette banque."
+      ],
+      "publishedAt": "2026-11-05T17:41:22+00:00",
+      "updatedAt": "2026-11-05T17:41:22+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/paraguay-la-crise-bancaire-contraint-le-president-santiago-pena-a-demissionner-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "7ba62ac44b0ad60b9179ea1cb852ba17f7efcd7a6d1b012431960f8c49f5c52f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
+      "context": null
     },
     {
       "id": "rss-4ad9529cafc25cdb7e",
@@ -79,6 +107,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7a7d96b9fdc1ded592",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Jordan Bardella demande le vote \"en urgence\" d'une \"règle d'or\" dans la Constitution, après le rejet du budget 2027 à l'Assemblée nationale",
+      "bullets": [
+        "Au lendemain du rejet du projet de budget 2027 à l'Assemblée nationale, Jordan Bardella a demandé l'examen et le vote \"rapide\" d'une loi pour instaurer d'ici \"quelques semaines\" une \"règle d'or\" dans la Constitution.",
+        "Cette \"règle d'or\" reprendrait le \"principe\" déjà énoncé par la candidate du RN à l'Élysée, Marine Le Pen, à savoir \"qu'aucun budget ne pourra être voté s'il augmente le niveau d'endettement du pays\", a annoncé le président du parti d'extrême droite dans une vidéo diffusée jeudi 5 novembre sur ses réseaux sociaux."
+      ],
+      "publishedAt": "2026-11-05T18:09:03+00:00",
+      "updatedAt": "2026-11-05T18:09:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "101979fb1193b16cfb7cd6854d3ca5f95ae7317d4d07f9b00debae2fbb65c4a6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
+      "context": null
+    },
+    {
       "id": "rss-60246a0325551b7c2d",
       "revision": 2,
       "category": "eco",
@@ -101,31 +156,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "f8a9f20ec083778467cd9aff20989cd765f8a2f2585983a2543c6f11d246e8f1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cc1b7d9e6411db115d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Dans le plus grand secret, parmi ses 40 salariés, il y avait à la fois son épouse et sa maîtresse» : la justice condamne cette double vie",
-      "bullets": [
-        "Si en théorie, la justice ne permet pas que des faits relevant de la vie privée engendrent des sanctions professionnelles, plusieurs jurisprudences montrent que cela a des limites.",
-        "Explications."
-      ],
-      "publishedAt": "2026-11-05T14:07:43+00:00",
-      "updatedAt": "2026-11-05T14:07:43+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vie-professionnelle/dans-le-plus-grand-secret-parmi-ses-40-salaries-il-y-avait-a-la-fois-son-epouse-et-sa-maitresse-la-justice-condamne-cette-double-vie-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "136c3ca2833c48559eaba01419b061be0cd8b226541ee7fc2e731027a79cc7da",
       "detailLevel": "preview"
     },
     {
@@ -204,60 +234,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7857141c5dfd6bc8d8",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
-      "bullets": [
-        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d'appareils.",
-        "A bord de l’appareil, 157 personnes étaient présentes : 151 passagers et six membres d'équipage.",
-        "Dans un communiqué, la compagnie irlandaise a assuré que le vol EI402 avait \"atterri en toute sécurité\" et qu'elle travaillait à acheminer ses clients vers leur destination finale \"le plus rapidement possible\"."
-      ],
-      "publishedAt": "2026-11-05T16:47:53+00:00",
-      "updatedAt": "2026-11-05T16:47:53+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "66263a16f6c0bf6db1b23d0cd9e93fa45e3c0f1d1d293810b00869093ec8595d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-df5622da710cea24ec",
+      "id": "rss-58257f3046f8336e6d",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La Russie affirme ne pas être impliquée dans les cyberattaques contre des frigos de supermarchés en Europe",
+      "title": "Cyberattaque contre Crédit Mutuel Arkéa : les banques sont-elles suffisamment armées face aux hackers ?",
       "bullets": [
-        "Le Kremlin a affirmé jeudi 5 novembre ne pas être impliqué dans les cyberattaques ayant visé des frigos de supermarchés dans plusieurs pays européens ces dernières semaines, estimant qu'accuser Moscou était «absurde».",
-        "Selon la presse spécialisée, ces attaques ont été revendiquées par deux groupes de hackeurs prorusses, NoName057(16) et Z-Pentest, déjà connus pour d'autres opérations en Europe ces dernières années.",
-        "Les pays européens accusent régulièrement la Russie de cyberattaques, notamment depuis le début de l'offensive russe en Ukraine lancée en 2022."
+        "ENTRETIEN - Le groupe bancaire a été victime d’une attaque d’une ampleur inédite mercredi 4 novembre. Le préjudice s’élèverait à au moins 150 millions d’euros. Une fraude particulièrement inquiétante, selon Matthieu Dierick, expert en cybersécurité chez F5."
       ],
-      "publishedAt": "2026-11-05T16:11:10+00:00",
-      "updatedAt": "2026-11-05T16:11:10+00:00",
+      "publishedAt": "2026-11-05T17:50:44+00:00",
+      "updatedAt": "2026-11-05T17:50:44+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/la-russie-affirme-ne-pas-etre-impliquee-dans-les-cyberattaques-contre-des-frigos-de-supermarches-en-europe-20261105",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-credit-mutuel-arkea-les-banques-sont-elles-suffisamment-armees-face-aux-hackers-20261105",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "3bc9c70cb141cab366369bc29c0781b7f85229c0596294a65092ecf44bff4ed9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "6480636ab98803fb48fa19984568b8359b909044d0e8c5397d69320054428e40",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-c0622654babe55d859",
@@ -287,31 +285,31 @@
       "context": null
     },
     {
-      "id": "rss-13979ec776e2eb9da9",
+      "id": "rss-445e41deca8d466d76",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Des millions d'euros volés, une attaque inédite, une enquête ouverte... Ce que l'on sait du piratage du Crédit mutuel Arkéa",
+      "title": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
       "bullets": [
-        "Le groupe bancaire, qui réunit les fédérations de Bretagne et du Sud-Ouest de la maison mère, ainsi que des filiales spécialisées, comme Fortuneo, a confirmé l'attaque dans un communiqué mercredi 4 novembre.",
-        "L'entreprise a dégagé un bénéfice net de 230 millions d'euros sur les six premiers mois de l'année, d'après son rapport semestriel.\"Aucun impact\" pour les clients, affirme le groupe\"Les attaquants ont utilisé le compte propre de Crédit mutuel Arkéa pour réaliser des transactions vers d'autres acteurs bancaires\", a détaillé le groupe.",
-        "Certaines de ces plateformes ont entrepris de bloquer les fonds volés."
+        "Léa Balage El Mariky, comment qualifiez-vous cette journée ?",
+        "Bref, tout le monde a des raisons d'être en colère, et en même temps, il y a un espoir parce que dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés, a fait peut-être émerger cette espérance.",
+        "Et je représente une famille politique qui n'a pas rien à voir avec les 10 dernières années, donc une capacité aussi à se remettre en question et à voir qu'aujourd'hui, dans notre pays, vous avez des gens qui manifestent…Il se remet en question, Gabriel Attal ?"
       ],
-      "publishedAt": "2026-11-05T12:51:03+00:00",
-      "updatedAt": "2026-11-05T12:51:03+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-05T19:04:23+00:00",
+      "updatedAt": "2026-11-05T19:04:23+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-millions-d-euros-voles-une-attaque-inedite-et-une-enquete-ouverte-ce-que-l-on-sait-du-piratage-du-credit-mutuel-arkea_8269124.html",
+          "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "440c440bd667eee34e83de832b624fe3e232dce1451c43a46994b8497711e3f9",
+      "summaryInput": "2f0f93c0ab62f431b237671b73ac1c47c76833a014c45cc2bf4845bdb09ad72a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
       "context": null
     },
     {
@@ -353,8 +351,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T17:24:00+00:00",
-      "updatedAt": "2026-11-05T17:24:00+00:00",
+      "publishedAt": "2026-11-05T19:09:08+00:00",
+      "updatedAt": "2026-11-05T19:09:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -532,6 +530,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e1a7a35719c409d370",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Paraguay : le président Santiago Peña annonce sa démission",
+      "bullets": [
+        "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant 2,94 millions de clients, dont les dépôts ont été gelés temporairement."
+      ],
+      "publishedAt": "2026-11-05T17:43:42+00:00",
+      "updatedAt": "2026-11-05T17:43:42+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a6fbf0cda9fb98ded37467dcc8be80281e0bc63efb8c292c2e0f4238d0babfd6",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f3827e0186ae251272",
       "revision": 1,
       "category": "world",
@@ -560,6 +582,31 @@
       "context": null
     },
     {
+      "id": "rss-f9f5ab1351c264c7ae",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
+      "bullets": [
+        "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis.",
+        "Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée»."
+      ],
+      "publishedAt": "2026-11-05T18:05:33+00:00",
+      "updatedAt": "2026-11-05T18:05:33+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c3982dc8c4028aa4e1",
       "revision": 1,
       "category": "world",
@@ -582,79 +629,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "94764567a7caa13bd063df2af910f07bdd72953116a4a75fa1700c9735bcf0d8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e883e6f94a70c439c8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Les midterms 2026 marquent un sérieux coup de frein, pas un coup d’arrêt, au trumpisme débridé »",
-      "bullets": [
-        "Après deux ans avec un Congrès à la main de Donald Trump, les Américains ont fait le choix, mardi, lors des élections de mi-mandat, d’un retour à la pratique voulue par les Pères fondateurs des Etats-Unis, souligne Alain Frachon, chroniqueur au « Monde »."
-      ],
-      "publishedAt": "2026-11-05T13:00:17+00:00",
-      "updatedAt": "2026-11-05T13:00:17+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/05/les-midterms-2026-marquent-un-serieux-coup-de-frein-pas-un-coup-d-arret-au-trumpisme-debride_6806866_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "18b7eaa39e84892a33b2187d9a450ac81b0fdc4a72bae3b53b55bb80be1945cb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b2457b3750d73640fc",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les Européens n’ont rien à attendre de la déroute de Donald Trump aux midterms",
-      "bullets": [
-        "Malgré sa défaite aux élections de mi-mandat, le président américain dispose encore de deux ans pour achever d’imprimer sa marque sur les orientations diplomatiques des Etats-Unis.",
-        "Et Washington devrait continuer de privilégier ses intérêts nationaux aux dépens de tous les autres."
-      ],
-      "publishedAt": "2026-11-05T10:30:09+00:00",
-      "updatedAt": "2026-11-05T10:30:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/05/les-europeens-n-ont-rien-a-attendre-de-la-deroute-de-donald-trump-aux-midterms_6806851_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "369144c035cf5fde1ed1c20e0d629298f7f7436d905fb41ff641e3fddaf09962",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-33eb9ac193856cce42",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : l’optimisme de la génération Z sur les réseaux sociaux",
-      "bullets": [
-        "Après la large victoire démocrate aux élections de mi-mandat, aux Etats-Unis, plusieurs personnes affirment retrouver espoir en la politique américaine."
-      ],
-      "publishedAt": "2026-11-05T10:03:07+00:00",
-      "updatedAt": "2026-11-05T10:03:07+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/video/2026/11/05/midterms-2026-l-optimisme-de-la-generation-z-sur-les-reseaux-sociaux_6806846_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "563250418119d2a744f8adb5e7749b1f5f58b99493618091ca3cdf8973d1b261",
       "detailLevel": "preview"
     },
     {
@@ -686,180 +660,201 @@
       "context": null
     },
     {
-      "id": "rss-cc2f6314537d9af28e",
+      "id": "rss-65f2fe87a0d3a01de8",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
+      "title": "Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe",
       "bullets": [
-        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
+        "DÉCRYPTAGE - Plus d’une vingtaine de vols commerciaux ont été déroutés jeudi. Les auteurs sont inconnus. Mais les incidents interrogent dans un contexte d’agressivité croissante de la Russie."
       ],
-      "publishedAt": "2026-11-05T08:53:43+00:00",
-      "updatedAt": "2026-11-05T08:53:43+00:00",
+      "publishedAt": "2026-11-05T18:36:22+00:00",
+      "updatedAt": "2026-11-05T18:36:22+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/alertes-a-la-bombe-attaques-cyber-survols-de-drones-la-guerre-hybride-s-intensifie-en-europe-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0ae55c1677e002d7d091d43c2f3fa04cfff4ad99d84aa1690d2c8b90a7ca8a95",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-045fece243a05aa8d4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Nigeria : la justice annule la candidature à l’élection présidentielle de l’opposant Atiku Abubakar",
+      "bullets": [
+        "Le candidat du Congrès démocratique africain était arrivé deuxième à l’élection présidentielle de 2023 avec 29 % des voix."
+      ],
+      "publishedAt": "2026-11-05T17:46:31+00:00",
+      "updatedAt": "2026-11-05T17:46:31+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/05/nigeria-la-justice-annule-la-candidature-a-l-election-presidentielle-de-l-opposant-atiku-abubakar_6807290_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0c48b03aba26353c80843d188a5a50c52c653058651020a7b939ee1e76d4d1ca",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-60e62a246ae3ed1a7c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+      "bullets": [
+        "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours.",
+        "Craignant les risques réputationnels et les sanctions, les entreprises américaines rechignent à en acheter."
+      ],
+      "publishedAt": "2026-11-05T18:38:22+00:00",
+      "updatedAt": "2026-11-05T18:38:22+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1163f41716d0c30d7b6d694b17d611ad010b5103a7d103bdeedf63104da66640",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-21eb255aa6ecf67fca",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Melania Trump érigée en émissaire de paix entre Russes et Ukrainiens",
+      "bullets": [
+        "RÉCIT - La Maison-Blanche a mis en scène la mission de la première dame pour l’obtention d’un cessez-le-feu dans la ville occupée d’Olechky, en Ukraine."
+      ],
+      "publishedAt": "2026-11-05T18:15:21+00:00",
+      "updatedAt": "2026-11-05T18:15:21+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
+          "url": "https://www.lefigaro.fr/international/melania-trump-erigee-en-emissaire-de-paix-entre-russes-et-ukrainiens-20261105",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
+      "summaryInput": "e77d529b8f879c2e684c1645b9969fee07de487702d1a575a9a14a1ba01b61db",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-494abdaebfa66bfa87",
+      "id": "rss-a4fea36a00d699f33c",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Midterms 2026 : après la déroute républicaine, l’Ukraine nourrit le maigre espoir de freiner la dérive américaine en faveur de la Russie",
+      "title": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine",
       "bullets": [
-        "En exigeant de la Maison Blanche davantage de transparence sur ses négociations avec le Kremlin ou en faisant voter de nouvelles sanctions, le nouveau Congrès pourrait infléchir la position de Washington vis-à-vis de Kiev."
+        "La Première dame américaine Melania Trump a appelé, jeudi 5 novembre, à un cessez-le-feu \"durable\" en Ukraine lors d'une conférence de presse donnée à la Maison Blanche en présence de représentants russes et ukrainiens.",
+        "Tout réel changement commence par une petite étincelle\", a continué la Première dame.",
+        "Le cessez-le-feu à Olechky n'aurait pas été possible sans les présidents Poutine et Zelensky."
       ],
-      "publishedAt": "2026-11-05T05:00:19+00:00",
-      "updatedAt": "2026-11-05T05:00:19+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "beb7fa2b8962372e9b62863c0b7bb1f7ed0664b8082b21242ee39427fd984953",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-fe9909517eab729510",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Israël : les deux principales listes arabes soutiennent Gadi Eisenkot pour former le prochain gouvernement",
-      "bullets": [
-        "Leur ralliement donnerait sur le papier une majorité de 67 sièges au rival de Benyamin Nétanyahou, mais plusieurs dirigeants de l’opposition refusent de gouverner avec les formations arabes."
-      ],
-      "publishedAt": "2026-11-05T16:09:09+00:00",
-      "updatedAt": "2026-11-05T16:09:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-les-deux-principales-listes-arabes-soutiennent-gadi-eisenkot-pour-former-le-prochain-gouvernement_6807111_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "368fef1d957db0ba6fca1ef444f3dbbbd730be26e05e2a120c483ef4f7a8e02b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-78eb4077e483d2c59b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : le plan des démocrates pour rendre la vie impossible à Donald Trump jusqu’en 2028",
-      "bullets": [
-        "DÉCRYPTAGE - Avec une majorité claire au Congrès, les démocrates vont dicter les budgets de l’Administration Trump et lancer de nombreuses enquêtes contre le président américain et son entourage."
-      ],
-      "publishedAt": "2026-11-05T13:55:22+00:00",
-      "updatedAt": "2026-11-05T13:55:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/midterms-2026-le-plan-des-democrates-pour-rendre-la-vie-impossible-a-donald-trump-jusqu-en-2028-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0ba67ea5d239a16bc4ffac824a6ece364bfc868c8e39849272573513b0d1f0f1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8d4ae147abe91c33e9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Après sa défaite aux midterms, Donald Trump vante sa salle de bal à la Maison Blanche",
-      "bullets": [
-        "Les réactions des lycéens lors des blocages et des manifestations du 5 novembre",
-        "491 jours dans les geôles de Poutine, un Américain témoigne",
-        "\"Les thématiques de justice sociale et de lutte contre l'oligarchie, qui ont été au coeur de la campagne, étaient inaudibles il y a 30 ans pour le Parti démocrate\" selon Alice Béja, professeure à l'université de Créteil"
-      ],
-      "publishedAt": "2026-11-05T12:17:36+00:00",
-      "updatedAt": "2026-11-05T12:17:36+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-05T17:51:09+00:00",
+      "updatedAt": "2026-11-05T17:51:09+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/apres-sa-defaite-aux-midterms-donald-trump-vante-sa-salle-de-bal-a-la-maison-blanche_8269286.html",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "3f01119c198bb1ae8ff5822829b7c2e06f208286ee6cc4f565afe20a320147ea",
+      "summaryInput": "ce34d85d611b0b3a4457931a7834eed3d4ccd28dfa6b5b9acaa73f590068150f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
       "context": null
     },
     {
-      "id": "rss-c87fa24127205e0452",
+      "id": "rss-3d3629363808250abb",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+      "bullets": [
+        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
+      ],
+      "publishedAt": "2026-11-05T17:30:24+00:00",
+      "updatedAt": "2026-11-05T17:30:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c8ff5893b58ac9e6fc",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
+      "title": "Avant l’élection présidentielle de 2027, un hors-série du « Monde » tire le portrait de la France, de ses fragilités comme de ses ressources",
       "bullets": [
-        "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre."
+        "Sans sombrer dans la fatalité, « Le Monde » propose une grande cartographie du pays et donne à voir l’évolution des modes de vie des Français pour mieux les accompagner dans les défis qui les attendent dans quelques mois."
       ],
-      "publishedAt": "2026-11-05T16:16:20+00:00",
-      "updatedAt": "2026-11-05T16:16:20+00:00",
+      "publishedAt": "2026-11-05T18:00:07+00:00",
+      "updatedAt": "2026-11-05T18:00:07+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/05/avant-l-election-presidentielle-de-2027-un-hors-serie-du-monde-tire-le-portrait-de-la-france-de-ses-fragilites-comme-de-ses-ressources_6807326_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "bb18add1f8ad2d022bfcf41d83e853615b05641895416adccf434eeaf950ad1a",
+      "summaryInput": "3aba51cdbffb52502830843ff510ff6e53566ac5d4d73d9ce8d68d1e071bd3d0",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-765fbdb082430d0e5f",
+      "id": "rss-674c8970d293e90386",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "TikTok n'a eu qu'un rôle \"très limité\" dans les violences en marge des manifestations et des blocus lycéens, selon une étude",
+      "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
       "bullets": [
-        "Une étude du Centre pour la recherche économique et ses applications (Cepremap), publiée mardi 3 novembre, nuance néanmoins le rôle de TikTok dans la mobilisation.",
-        "Les trois auteurs, spécialistes en sciences sociales computationnelles et en sociologie politique, ont examiné près d'un million de vidéos publiques, cumulant 16 milliards de vues et 4,5 millions de commentaires, entre le 1er septembre et le 29 octobre.",
-        "Par ailleurs, \"les commentaires des vidéos montrant des violences condamnent ces actes près de dix fois plus qu'ils ne les célèbrent et les appels explicites à la violence représentent 0,27% des commentaires\"."
+        "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système."
       ],
-      "publishedAt": "2026-11-05T17:18:22+00:00",
-      "updatedAt": "2026-11-05T17:18:22+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-05T17:30:03+00:00",
+      "updatedAt": "2026-11-05T17:30:03+00:00",
+      "importance": 81,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/tiktok-n-a-eu-qu-un-role-tres-limite-dans-les-violences-en-marge-des-manifestations-et-des-blocus-lyceens-selon-une-etude_8269067.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "45fa76815a61e423b3b264b832d632532462d01c1d6e93e0a79b47383b21e4be",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "a2bd13017536e9aa46dd35f0b28884732c758fa787619158f169eda135dc9a9e",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -924,7 +919,7 @@
       ],
       "publishedAt": "2026-11-04T18:19:12+00:00",
       "updatedAt": "2026-11-04T18:19:12+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -950,7 +945,7 @@
       ],
       "publishedAt": "2026-11-04T18:10:49+00:00",
       "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1064,6 +1059,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-765fbdb082430d0e5f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "TikTok n'a eu qu'un rôle \"très limité\" dans les violences en marge des manifestations et des blocus lycéens, selon une étude",
+      "bullets": [
+        "Une étude du Centre pour la recherche économique et ses applications (Cepremap), publiée mardi 3 novembre, nuance néanmoins le rôle de TikTok dans la mobilisation.",
+        "Les trois auteurs, spécialistes en sciences sociales computationnelles et en sociologie politique, ont examiné près d'un million de vidéos publiques, cumulant 16 milliards de vues et 4,5 millions de commentaires, entre le 1er septembre et le 29 octobre.",
+        "Par ailleurs, \"les commentaires des vidéos montrant des violences condamnent ces actes près de dix fois plus qu'ils ne les célèbrent et les appels explicites à la violence représentent 0,27% des commentaires\"."
+      ],
+      "publishedAt": "2026-11-05T17:18:22+00:00",
+      "updatedAt": "2026-11-05T17:18:22+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/tiktok-n-a-eu-qu-un-role-tres-limite-dans-les-violences-en-marge-des-manifestations-et-des-blocus-lyceens-selon-une-etude_8269067.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "45fa76815a61e423b3b264b832d632532462d01c1d6e93e0a79b47383b21e4be",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "context": null
+    },
+    {
       "id": "rss-430763910b33904b9d",
       "revision": 1,
       "category": "france",
@@ -1085,30 +1108,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "efba526664f5dd443b3c28fd987d0189cb3b3168591a8d461be4b57341153d56",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8cc88dbca5fbeb3538",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«On est quand même en commission des finances, pas au bar PMU !» : un amendement au projet de budget 2027 supprime les crédits de l’enseignement catholique",
-      "bullets": [
-        "RÉCIT - Financer l’augmentation de 20 % du salaire des enseignants en prenant essentiellement sur les crédits du privé, à hauteur de 8,3 milliards d’euros : cet amendement du député LFI Paul Vannier a été adopté le 29 octobre en commission des finances."
-      ],
-      "publishedAt": "2026-11-02T18:15:00+00:00",
-      "updatedAt": "2026-11-02T18:15:00+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/on-est-quand-meme-en-commission-des-finances-pas-au-bar-pmu-un-amendement-au-projet-de-budget-2027-supprime-les-credits-de-l-enseignement-catholique-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
       "detailLevel": "preview"
     },
     {
@@ -1160,6 +1159,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-8cc88dbca5fbeb3538",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "«On est quand même en commission des finances, pas au bar PMU !» : un amendement au projet de budget 2027 supprime les crédits de l’enseignement catholique",
+      "bullets": [
+        "RÉCIT - Financer l’augmentation de 20 % du salaire des enseignants en prenant essentiellement sur les crédits du privé, à hauteur de 8,3 milliards d’euros : cet amendement du député LFI Paul Vannier a été adopté le 29 octobre en commission des finances."
+      ],
+      "publishedAt": "2026-11-02T18:15:00+00:00",
+      "updatedAt": "2026-11-02T18:15:00+00:00",
+      "importance": 71,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/on-est-quand-meme-en-commission-des-finances-pas-au-bar-pmu-un-amendement-au-projet-de-budget-2027-supprime-les-credits-de-l-enseignement-catholique-20261102",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-39d7ef799854a7f409",
       "revision": 1,
       "category": "france",
@@ -1186,30 +1209,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
       "context": null
-    },
-    {
-      "id": "rss-550814cec6dc2e9537",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Dépenses du gouvernement : une étude relève « l’opacité » des rémunérations dans les cabinets ministériels",
-      "bullets": [
-        "Dans une note pour l’Observatoire de l’éthique publique, qu’il préside, l’ancien député René Dosière évalue le « coût du gouvernement Lecornu » à 165,7 millions d’euros en année pleine, soit moins d’un millième des dépenses publiques."
-      ],
-      "publishedAt": "2026-11-05T15:38:58+00:00",
-      "updatedAt": "2026-11-05T15:38:58+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/05/depenses-du-gouvernement-une-etude-releve-l-opacite-des-remunerations-dans-les-cabinets-ministeriels_6807040_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4502bc40479ea3ae46764eae0727b423e5b9cd866aa022529e7863b356f0b0b3",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1223,7 +1222,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1271,13 +1270,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
