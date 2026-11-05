@@ -1,34 +1,33 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T04:06:02.898373+00:00",
+  "preparedAt": "2026-11-05T05:11:09.304695+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-5a145bdc8a4b8e2d14",
+      "id": "rss-917fa8737756f50fee",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
       "bullets": [
-        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
-        "Tout dépendra de la capacité des deux camps à trouver des compromis."
+        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
       ],
-      "publishedAt": "2026-11-04T18:45:17+00:00",
-      "updatedAt": "2026-11-04T18:45:17+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-05T05:00:11+00:00",
+      "updatedAt": "2026-11-05T05:00:11+00:00",
+      "importance": 93,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
+      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
       "detailLevel": "preview"
     },
     {
@@ -70,7 +69,7 @@
       ],
       "publishedAt": "2026-11-04T17:00:13+00:00",
       "updatedAt": "2026-11-04T17:00:13+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -95,7 +94,7 @@
       ],
       "publishedAt": "2026-11-04T16:51:29+00:00",
       "updatedAt": "2026-11-04T16:51:29+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -262,30 +261,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cc2f6314537d9af28e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
-      "bullets": [
-        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
-      ],
-      "publishedAt": "2026-11-04T19:10:00+00:00",
-      "updatedAt": "2026-11-04T19:10:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-235dd6637bfedaea05",
       "revision": 1,
       "category": "eco",
@@ -297,7 +272,7 @@
       ],
       "publishedAt": "2026-11-04T16:57:06+00:00",
       "updatedAt": "2026-11-04T16:57:06+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -309,7 +284,35 @@
       "provenance": "article-extract",
       "summaryInput": "f8ceae8876a1de4ab00187c53987c5ee20f8c9050608e12dba6f34d0e0419dd6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
+      "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-5c841a9ea864f3f038",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
+      "bullets": [
+        "Samir Refoufi, le chef de l'atelier touche, lui, jusqu'à 1 600 euros, mais pour trois jours de travail par semaine.",
+        "J'ai gagné une semaine à rouler gratuitement\", souligne Samir.\"Alléger tous les prélèvements pour rendre le coût du travail plus faible\"Car le patron a fait ses calculs : cela représente 15 euros net par mois en plus dans la poche de ses 25 salariés.",
+        "Les entreprises devraient privilégier les augmentations individuelles pour 2027, entre 2 et 2,5% en moyenne, principalement dans les secteurs de l'industrie et des ressources humaines."
+      ],
+      "publishedAt": "2026-11-04T21:44:53+00:00",
+      "updatedAt": "2026-11-04T21:44:53+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "f1f99b5a4bc4244a68090984cbc74369909ff66e37f67bf6bb9a03646fac6c7b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
       "context": null
     },
     {
@@ -325,7 +328,7 @@
       ],
       "publishedAt": "2026-11-04T16:43:47+00:00",
       "updatedAt": "2026-11-04T16:43:47+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -337,7 +340,7 @@
       "provenance": "article-extract",
       "summaryInput": "726fdd9280e78d16585087532e9362fbfc8ec977e0b005c881947a4d4e94c574",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
+      "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
       "context": null
     },
     {
@@ -407,8 +410,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T04:00:03+00:00",
-      "updatedAt": "2026-11-05T04:00:03+00:00",
+      "publishedAt": "2026-11-05T05:07:24+00:00",
+      "updatedAt": "2026-11-05T05:07:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -423,30 +426,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5604cd0cd118c7602c",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
-      "bullets": [
-        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
-      ],
-      "publishedAt": "2026-11-05T04:00:10+00:00",
-      "updatedAt": "2026-11-05T04:00:10+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "56c6e6c95779ed80834555e707491e37d028dd4299b9811eed6d47c7d4f23a1d",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-06008fe8e38060f1ad",
@@ -565,8 +544,8 @@
       "bullets": [
         "Le vice-président américain, qui a la désignation pour la présidentielle de 2028 en ligne de mire, a estimé, mercredi, que la guerre en Iran, déclenchée par Donald Trump, était la principale explication du raz-de-marée démocrate."
       ],
-      "publishedAt": "2026-11-05T04:00:06+00:00",
-      "updatedAt": "2026-11-05T04:00:06+00:00",
+      "publishedAt": "2026-11-05T04:00:03+00:00",
+      "updatedAt": "2026-11-05T04:00:03+00:00",
       "importance": 85,
       "sources": [
         {
@@ -578,6 +557,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "3dc1fa6e60094f939a7bbf364a928f68891e19fe0d5a62e212a05fbb2fd169d1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5a145bdc8a4b8e2d14",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "bullets": [
+        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
+        "Tout dépendra de la capacité des deux camps à trouver des compromis."
+      ],
+      "publishedAt": "2026-11-04T18:45:17+00:00",
+      "updatedAt": "2026-11-04T18:45:17+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
       "detailLevel": "preview"
     },
     {
@@ -605,7 +609,7 @@
       "provenance": "article-extract",
       "summaryInput": "a316a36ceb1ce5cd206c7a1f8ac652f519b2dcae1a63f9f4dcaee87df9f76596",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T16:22:39.380288+00:00",
+      "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
       "context": null
     },
     {
@@ -660,31 +664,6 @@
       "context": null
     },
     {
-      "id": "rss-4ca95576f7b4ce8635",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Rwanda, ancien partenaire modèle des Etats-Unis, désormais dans le collimateur de l’administration Trump",
-      "bullets": [
-        "Washington a annoncé, lundi 2 novembre, l’exclusion de Kigali de l’accord commercial préférentiel AGOA, à compter du 1ᵉʳ janvier 2027.",
-        "Une décision brusque liée à l’implication du régime rwandais dans la guerre en cours dans l’est de la République démocratique du Congo."
-      ],
-      "publishedAt": "2026-11-04T17:30:12+00:00",
-      "updatedAt": "2026-11-04T17:30:12+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/le-rwanda-ancien-partenaire-modele-des-etats-unis-desormais-dans-le-collimateur-de-l-administration-trump_6806408_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6e283f15616361be73339d613c65c91d775707b73109baac59576edef1f69f64",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c6f0e84bac2204fd32",
       "revision": 1,
       "category": "world",
@@ -707,56 +686,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "50cb6fd52f03be244ca5c15713921c85535c5fcce687517881b4081cec3090e0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-580347a23ffb99f031",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Serbie : malgré le changement de gouvernement à Belgrade, le chemin vers l’Union européenne reste escarpé",
-      "bullets": [
-        "La Commission européenne a dévoilé, mercredi 4 novembre, son rapport annuel sur les pays candidats à l’entrée dans l’Union.",
-        "En Serbie, qui est l’un d’eux, la victoire aux dernières élections de la « liste des étudiants » sur Aleksandar Vucic rouvre la perspective d’un rapprochement avec Bruxelles."
-      ],
-      "publishedAt": "2026-11-04T16:30:07+00:00",
-      "updatedAt": "2026-11-04T16:30:07+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/serbie-malgre-le-changement-de-gouvernement-a-belgrade-le-chemin-vers-l-union-europeenne-reste-escarpe_6806358_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a8e8ccb67695705fa0a66107334010057128190c43a0f7e26e1115840f94f5b2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c5eb7074746b3cafca",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Sénégal, la douloureuse mémoire des « années d’ajustement structurel » ressurgit après l’accord conclu avec le FMI",
-      "bullets": [
-        "Le 1er septembre, Dakar et l’institution de Bretton Woods ont trouvé un agrément en vue d’un programme d’aide de près de 1,9 milliard d’euros.",
-        "Un accord qui rappelle l’époque des réformes économiques strictes conduites dans les années 1980 et 1990."
-      ],
-      "publishedAt": "2026-11-04T16:00:23+00:00",
-      "updatedAt": "2026-11-04T16:00:23+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-la-douloureuse-memoire-des-annees-d-ajustement-structurel-ressurgit-apres-l-accord-conclu-avec-le-fmi_6806322_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "67e5c4606ec0047b340ac59a21f838150726c6485ef252aed6c6fa1a5ad2980c",
       "detailLevel": "preview"
     },
     {
@@ -831,6 +760,55 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "490208bdacd66a7dce305e63deab27b612dc4b53f0304533d5bd7bb31600232f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cc2f6314537d9af28e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
+      "bullets": [
+        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
+      ],
+      "publishedAt": "2026-11-04T19:10:00+00:00",
+      "updatedAt": "2026-11-04T19:10:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b10e36c2fd4e325816",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : la première victime de la vague démocrate pourrait être Pete Hegseth",
+      "bullets": [
+        "Le secrétaire de la Défense est sur la sellette après la victoire des démocrates.",
+        "Plusieurs d’entre eux indiquent vouloir destituer le militaire, fervent défenseur de la guerre en Iran et à l’origine de limogeages en cascade au sein des armées américaines."
+      ],
+      "publishedAt": "2026-11-04T15:33:49+00:00",
+      "updatedAt": "2026-11-04T15:33:49+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/midterms-2026-la-premiere-victime-de-la-vague-democrate-pourrait-etre-pete-hegseth-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e3e9375a3ba36afc93da855e05e0a6e783adc09bc59fdb5f64d496c003858795",
       "detailLevel": "preview"
     },
     {
@@ -998,7 +976,7 @@
       ],
       "publishedAt": "2026-11-04T16:30:09+00:00",
       "updatedAt": "2026-11-04T16:30:09+00:00",
-      "importance": 47,
+      "importance": 46,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1110,30 +1088,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9dde20b4bb1fda072e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Des réfrigérateurs de l’Etablissement français du sang à leur tour victimes d’une cyberattaque",
-      "bullets": [
-        "On ignore pour le moment si cet incident est en lien avec les attaques ayant visé les installations de froid de la grande distribution en France à la mi-octobre et dans de nombreux autres pays européens début novembre."
-      ],
-      "publishedAt": "2026-11-04T13:18:16+00:00",
-      "updatedAt": "2026-11-04T13:18:16+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/04/des-frigos-de-l-etablissement-francais-du-sang-a-leur-tour-victimes-d-une-cyberattaque_6806228_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "df018d2966d5e9467b8b7be713d9be6525052e95d210c214e85fd8b7799fe95e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-14d261595a851c226e",
       "revision": 2,
       "category": "france",
@@ -1155,6 +1109,30 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f170f10d1214d72d8e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
+      "bullets": [
+        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
+      ],
+      "publishedAt": "2026-11-04T18:19:12+00:00",
+      "updatedAt": "2026-11-04T18:19:12+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
       "detailLevel": "preview"
     },
     {
@@ -1182,6 +1160,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-430763910b33904b9d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Attentat à Arras : le suspect de l’assassinat de Dominique Bernard sera jugé devant la cour d’assises spéciale",
+      "bullets": [
+        "Trois ans après l’attaque d’Arras, les juges ont estimé que l’attentat résulte d’« un dessein préalable », fruit d’« une minutieuse préparation »."
+      ],
+      "publishedAt": "2026-11-04T11:08:30+00:00",
+      "updatedAt": "2026-11-04T11:08:30+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/04/assassinat-du-professeur-dominique-bernard-l-assaillant-sera-juge-devant-la-cour-d-assises-speciale_6806182_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "efba526664f5dd443b3c28fd987d0189cb3b3168591a8d461be4b57341153d56",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fa32b22a0cc3495eae",
       "revision": 2,
       "category": "france",
@@ -1205,30 +1207,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "34e70fa5de41a25f3e2b15ab741e8eddceafe999376e374bea383de1af9beaf2",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8cc88dbca5fbeb3538",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«On est quand même en commission des finances, pas au bar PMU !» : un amendement au projet de budget 2027 supprime les crédits de l’enseignement catholique",
-      "bullets": [
-        "RÉCIT - Financer l’augmentation de 20 % du salaire des enseignants en prenant essentiellement sur les crédits du privé, à hauteur de 8,3 milliards d’euros : cet amendement du député LFI Paul Vannier a été adopté le 29 octobre en commission des finances."
-      ],
-      "publishedAt": "2026-11-02T18:15:00+00:00",
-      "updatedAt": "2026-11-02T18:15:00+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/on-est-quand-meme-en-commission-des-finances-pas-au-bar-pmu-un-amendement-au-projet-de-budget-2027-supprime-les-credits-de-l-enseignement-catholique-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "249cc76744c5a9e6e749d76747b9213b2943261899cbccd766bf031a14c8e411",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1242,7 +1220,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1266,7 +1244,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1308,19 +1286,19 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1332,13 +1310,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "BFM Bourse",
