@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T15:10:08.603108+00:00",
+  "preparedAt": "2026-11-05T16:17:05.968575+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -28,30 +28,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4ad9529cafc25cdb7e",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-      "bullets": [
-        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
-      ],
-      "publishedAt": "2026-11-05T12:00:07+00:00",
-      "updatedAt": "2026-11-05T12:00:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
       "detailLevel": "preview"
     },
     {
@@ -139,8 +115,8 @@
         "Selon le ministère de l'Éducation, 81 lycées étaient bloqués ce matin en France.",
         "Des chiffres contestés par l'Union syndicale lycéenne, qui en revendique 1 000."
       ],
-      "publishedAt": "2026-11-05T14:15:50+00:00",
-      "updatedAt": "2026-11-05T14:15:50+00:00",
+      "publishedAt": "2026-11-05T15:37:36+00:00",
+      "updatedAt": "2026-11-05T15:37:36+00:00",
       "importance": 73,
       "sources": [
         {
@@ -190,7 +166,7 @@
       ],
       "publishedAt": "2026-11-05T04:00:15+00:00",
       "updatedAt": "2026-11-05T04:00:15+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -202,6 +178,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-df5622da710cea24ec",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Russie affirme ne pas être impliquée dans les cyberattaques contre des frigos de supermarchés en Europe",
+      "bullets": [
+        "Le Kremlin a affirmé jeudi 5 novembre ne pas être impliqué dans les cyberattaques ayant visé des frigos de supermarchés dans plusieurs pays européens ces dernières semaines, estimant qu'accuser Moscou était «absurde».",
+        "Selon la presse spécialisée, ces attaques ont été revendiquées par deux groupes de hackeurs prorusses, NoName057(16) et Z-Pentest, déjà connus pour d'autres opérations en Europe ces dernières années.",
+        "Les pays européens accusent régulièrement la Russie de cyberattaques, notamment depuis le début de l'offensive russe en Ukraine lancée en 2022."
+      ],
+      "publishedAt": "2026-11-05T16:11:10+00:00",
+      "updatedAt": "2026-11-05T16:11:10+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/la-russie-affirme-ne-pas-etre-impliquee-dans-les-cyberattaques-contre-des-frigos-de-supermarches-en-europe-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "3bc9c70cb141cab366369bc29c0781b7f85229c0596294a65092ecf44bff4ed9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-7857141c5dfd6bc8d8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Ce que l'on sait des alertes à la bombe qui ont visé douze vols européens jeudi",
+      "bullets": [
+        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une douzaine d'appareils.",
+        "A bord de l’appareil, 157 personnes étaient présentes : 151 passagers et six membres d'équipage.",
+        "Dans un communiqué, la compagnie irlandaise a assuré que le vol EI402 avait \"atterri en toute sécurité\" et qu'elle travaillait à acheminer ses clients vers leur destination finale \"le plus rapidement possible\"."
+      ],
+      "publishedAt": "2026-11-05T15:39:50+00:00",
+      "updatedAt": "2026-11-05T15:39:50+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "b8e5e6002dd6c681d291fedf91dc59b34796e973d286fe60d13601deea67ddf7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "context": null
     },
     {
       "id": "rss-c0622654babe55d859",
@@ -287,31 +319,6 @@
       "context": null
     },
     {
-      "id": "rss-af83c46b2c2645b0a2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
-      "bullets": [
-        "La publication du projet de loi de finances de fin de gestion intervient quelques jours après que l’Insee a rapporté un nouveau recul du PIB de 0,1 %.",
-        "Le produit intérieur brut avait déjà baissé de 0,2 % au premier trimestre avant de stagner au deuxième."
-      ],
-      "publishedAt": "2026-11-04T13:42:37+00:00",
-      "updatedAt": "2026-11-04T13:42:37+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/04/une-croissance-de-0-5-en-2026-est-difficilement-atteignable-selon-le-haut-conseil-des-finances-publiques_6806233_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bbe3ef41d1a121b0905c98cbfecd9f2b4efc9fa98287795e258413db5937c7af",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-5f50d2e0a8476c85f1",
       "revision": 1,
       "category": "markets",
@@ -378,9 +385,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T15:10:10+00:00",
-      "updatedAt": "2026-11-05T15:10:10+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-05T16:05:09+00:00",
+      "updatedAt": "2026-11-05T16:05:09+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -396,34 +403,6 @@
       "context": null
     },
     {
-      "id": "rss-f331e534fbdc08d9d2",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Son chiffre d'affaires bondit de 1.200% en 2026, ses pertes atteignent 104 milliards de dollars... Anthropic livre des comptes gargantuesques avant Wall Street",
-      "bullets": [
-        "La start-up a généré des revenus de 16,96 milliards de dollars sur la période en hausse de 1.130% sur un an en croissance de 46,74% en séquentiel, c'est-à-dire par rapport au précédent trimestre.",
-        "La société a toutefois accusé une perte opérationnelle de 567 millions de dollars à comparer avec une perte de 3,1 milliards de dollars un an plus tôt et un bénéfice de 974 millions de dollars sur le précédent trimestre.",
-        "À fin septembre, la société disposait d'environ 131 milliards de dollars de trésorerie disponible."
-      ],
-      "publishedAt": "2026-11-02T15:15:01+00:00",
-      "updatedAt": "2026-11-02T15:15:01+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/son-chiffre-d-affaires-bondit-de-1200-en-2026-ses-pertes-atteignent-104-milliards-de-dollars-anthropic-livre-des-comptes-gargantuesques-avant-wall-street-1172967.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "62c426e0d9732d258271aed75f553293f05886e88ad70dc92a58f044525b3187",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
-      "context": "Résultats du troisième trimestre"
-    },
-    {
       "id": "rss-5604cd0cd118c7602c",
       "revision": 1,
       "category": "markets",
@@ -434,7 +413,7 @@
       ],
       "publishedAt": "2026-11-05T04:00:03+00:00",
       "updatedAt": "2026-11-05T04:00:03+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -446,6 +425,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "634271db2a0e1e8b9925e0e8c0bad689e9a3274d5ebf71204bc6069c0d5e3bc1",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0dc1780ac97141bab1",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "«Un abaissement de prévisions qui ébranle la confiance»…Nouvelle déception pour la star de la défense européenne Rheinmetall, qui plonge de 15% et tombe de son piédestal en Bourse (-50% en 2026)",
+      "bullets": [
+        "Rheinmetall vise des revenus d'environ 13,2 milliards d'euros contre un intervalle précédent de 13,7 à 14,2 milliards d'euros auparavant, tandis que la marge opérationnelle est attendue à 18,5% contre 19% précédemment.",
+        "Le directeur général de la société, Armin Papperger avait en août indiqué s'attendre à réaliser 12,4 milliards d'euros de revenus sur le premier contrat de ce programme, qu'il espérait décrocher avant la fin de l'année.",
+        "La société a notamment accusé en juin une chute de 18,65% sur une séance, plombée par la perte d'un immense contrat, à savoir le projet de méga-frégate allemande F126."
+      ],
+      "publishedAt": "2026-11-05T15:18:23+00:00",
+      "updatedAt": "2026-11-05T15:18:23+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/un-abaissement-de-previsions-qui-ebranle-la-confiancenouvelle-deception-pour-la-star-de-la-defense-europeenne-rheinmetall-qui-plonge-de-15-et-tombe-de-son-piedestal-en-bourse-50-en-2026-1173255.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-06008fe8e38060f1ad",
@@ -526,6 +533,30 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4ad9529cafc25cdb7e",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+      "bullets": [
+        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
+      ],
+      "publishedAt": "2026-11-05T12:00:07+00:00",
+      "updatedAt": "2026-11-05T12:00:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
       "detailLevel": "preview"
     },
     {
@@ -707,31 +738,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d1c7cc9bd1f8106ca0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Tout coûte entre 20 et 30% plus cher» : en Géorgie, le pouvoir d’achat au cœur du vote des électeurs aux midterms",
-      "bullets": [
-        "REPORTAGE - À Atlanta, la flambée des prix alimentaires, des carburants et des loyers nourrit les inquiétudes des habitants.",
-        "Comme partout ailleurs aux États-Unis, ils ont sanctionné les républicains dans les urnes lors des élections de mi-mandat, mardi 3 novembre."
-      ],
-      "publishedAt": "2026-11-04T15:39:58+00:00",
-      "updatedAt": "2026-11-04T15:39:58+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/tout-coute-entre-20-et-30-plus-cher-en-georgie-le-pouvoir-d-achat-au-coeur-du-vote-des-electeurs-aux-midterms-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "44641eec89f28378e4de4e1aa11691004e8e47b25a762e5956f9dc05a6a1374a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7377559bd65e1caa66",
       "revision": 1,
       "category": "world",
@@ -831,55 +837,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0bf5059b88f9c7cfe3",
+      "id": "rss-5b69ff9f11d26fe62e",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Face aux attaques \"du grand patronat et du gouvernement, notre seul moyen de défense, c'est la mobilisation et la grève\", affirme Nathalie Arthaud",
+      "title": "Budget : le projet de loi de finances unanimement rejeté en première lecture à l’Assemblée",
       "bullets": [
-        "\"Le grand patronat et le gouvernement ne cessent de nous attaquer et notre seul moyen de défense, c'est la mobilisation, c'est la grève\", affirme Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle, invitée d'ICI Nord jeudi.",
-        "Nathalie Arthaud défend la mise en place d'un Smic à 2 200 euros net par mois, \"une mesure indispensable\" pour ne pas vivre \"avec la peur au ventre, la peur d'avoir un souci de santé, d'avoir sa voiture qui tombe en panne, de ne pas pouvoir payer les études de ses enfants\"."
+        "DÉCRYPTAGE - Après plus de deux semaines de débats, les députés ont voté contre la partie recettes du PLF, qui va désormais poursuivre sa route au Sénat."
       ],
-      "publishedAt": "2026-11-05T08:17:47+00:00",
-      "updatedAt": "2026-11-05T08:17:47+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/face-aux-attaques-du-grand-patronat-et-du-gouvernement-notre-seul-moyen-de-defense-c-est-la-mobilisation-et-la-greve-affirme-nathalie-arthaud_8268950.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "92ad30d623a589cb010700e115cf1a84ee4fc244a763087d29465db6f7397868",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T09:13:49.655094+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7c0158883b086d5aaf",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "« Tout cela reviendrait à 3 milliards d’euros » : supprimer la sélection à l’université, une revendication qui divise",
-      "bullets": [
-        "DÉCRYPTAGE - Plusieurs syndicats étudiants et lycéens, soutenus par LFI, réclament un accès à l’enseignement supérieur sans sélection.",
-        "Si des présidents d’université sont favorables à une hausse des effectifs, ils soulignent la nécessité de mieux orienter les bacheliers."
-      ],
-      "publishedAt": "2026-11-04T17:24:50+00:00",
-      "updatedAt": "2026-11-04T17:24:50+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-05T12:13:41+00:00",
+      "updatedAt": "2026-11-05T12:13:41+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/tout-cela-reviendrait-a-3-milliards-d-euros-supprimer-la-selection-a-l-universite-une-revendication-qui-divise-20261104",
+          "url": "https://www.lefigaro.fr/politique/budget-le-projet-de-loi-de-finances-unanimement-rejete-en-premiere-lecture-a-l-assemblee-20261104",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "c4f96971695ea16b70c7316325133c4a93d8572d35bde91fcb552ddab3b35cb3",
+      "summaryInput": "692f63e7b5c5464569c2928c9ee7b977cae253be0f5f4dedf573f1d0b37e0c68",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-362b73c39cbd681dc5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
+      "bullets": [
+        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
+      ],
+      "publishedAt": "2026-11-05T15:36:56+00:00",
+      "updatedAt": "2026-11-05T15:36:56+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -911,27 +913,27 @@
       "context": null
     },
     {
-      "id": "rss-5c60041988595cdf2d",
+      "id": "rss-f170f10d1214d72d8e",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît un « échec »",
+      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
       "bullets": [
-        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre, « lié à la simultanéité des événements » lors des violences du 17 octobre."
+        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
       ],
-      "publishedAt": "2026-11-03T23:06:26+00:00",
-      "updatedAt": "2026-11-03T23:06:26+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-04T18:19:12+00:00",
+      "updatedAt": "2026-11-04T18:19:12+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "2a1f62fcbb52ef6d4fba51fe83e158e2b44781fc763b6cef2d4d150202d78da5",
+      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
       "detailLevel": "preview"
     },
     {
@@ -973,7 +975,7 @@
       ],
       "publishedAt": "2026-11-04T16:00:30+00:00",
       "updatedAt": "2026-11-04T16:00:30+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -984,6 +986,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7c0158883b086d5aaf",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "« Tout cela reviendrait à 3 milliards d’euros » : supprimer la sélection à l’université, une revendication qui divise",
+      "bullets": [
+        "DÉCRYPTAGE - Plusieurs syndicats étudiants et lycéens, soutenus par LFI, réclament un accès à l’enseignement supérieur sans sélection.",
+        "Si des présidents d’université sont favorables à une hausse des effectifs, ils soulignent la nécessité de mieux orienter les bacheliers."
+      ],
+      "publishedAt": "2026-11-04T17:24:50+00:00",
+      "updatedAt": "2026-11-04T17:24:50+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/tout-cela-reviendrait-a-3-milliards-d-euros-supprimer-la-selection-a-l-universite-une-revendication-qui-divise-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c4f96971695ea16b70c7316325133c4a93d8572d35bde91fcb552ddab3b35cb3",
       "detailLevel": "preview"
     },
     {
@@ -1012,104 +1039,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-13b03bc8a6f1058382",
+      "id": "rss-5c60041988595cdf2d",
       "revision": 1,
       "category": "france",
-      "topic": "Éducation",
-      "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
+      "topic": "Justice",
+      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît un « échec »",
       "bullets": [
-        "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
+        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre, « lié à la simultanéité des événements » lors des violences du 17 octobre."
       ],
-      "publishedAt": "2026-11-03T09:29:05+00:00",
-      "updatedAt": "2026-11-03T09:29:05+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-03T23:06:26+00:00",
+      "updatedAt": "2026-11-03T23:06:26+00:00",
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
+      "summaryInput": "2a1f62fcbb52ef6d4fba51fe83e158e2b44781fc763b6cef2d4d150202d78da5",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f170f10d1214d72d8e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
-      "bullets": [
-        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
-      ],
-      "publishedAt": "2026-11-04T18:19:12+00:00",
-      "updatedAt": "2026-11-04T18:19:12+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dabbf11ee1460f9f82",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Manifestations du 17 octobre : devant la commission d’enquête parlementaire, les commerçants disent avoir été « totalement abandonnés et sacrifiés »",
-      "bullets": [
-        "Entendus à l’Assemblée nationale, mercredi 4 novembre, plusieurs représentants d’associations de commerçants à Paris, Lyon ou Marseille, ont dénoncé la défaillance des pouvoirs publics face aux pillages lors de cette journée de mobilisation."
-      ],
-      "publishedAt": "2026-11-04T18:06:42+00:00",
-      "updatedAt": "2026-11-04T18:06:42+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/manifestations-du-17-octobre-devant-la-commission-d-enquete-parlementaire-les-commercants-disent-avoir-ete-totalement-abandonnes-et-sacrifies_6806418_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ab53fbcd8693748dfcd85f4960165cbb5ff44d29685ec10a9160c858186ecaf3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-73477593b6156eac06",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
-      "bullets": [
-        "\"Il est temps de ne pas bloquer\" les lycées, affirme jeudi 5 novembre sur franceinfo Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, alors que lycéens et étudiants sont appelés à participer à la journée de mobilisation sociale jeudi.",
-        "\"Quand vous avez 15 lycéens qui empêchent des centaines [d'autres] d'entrer dans un lycée, je dis qu'il y un acte de violence\", poursuit Bruno Retailleau.",
-        "Après les pillages et les violences qui ont émaillé la journée du 17 octobre, Bruno Retailleau propose la création d'un \"délit de pillage\"."
-      ],
-      "publishedAt": "2026-11-05T09:15:47+00:00",
-      "updatedAt": "2026-11-05T09:15:47+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "82b59522ed3e512271bf40b313703af5f9a6596eb63b481f7d15552d25cc96ec",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
-      "context": null
     },
     {
       "id": "rss-430763910b33904b9d",
@@ -1206,6 +1157,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39d7ef799854a7f409",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
+      "bullets": [
+        "L'infertilité concerne aujourd'hui plus de 3 millions de Français, soit 15 à 25% des couples en âge de procréer.",
+        "A partir de mi-novembre, un courrier sera envoyé à tous les Français de 29 ans pour leur rappeler notamment que la fertilité baisse à partir de 30 ans chez les femmes et, c'est moins connu, à partir de 40 ans chez les hommes.",
+        "Mais le délai d'attente varie de 14 à 24 mois selon les régions."
+      ],
+      "publishedAt": "2026-11-03T16:11:52+00:00",
+      "updatedAt": "2026-11-03T16:11:52+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "5f005dee863dff0bd7c1bb0a9b6fefecf0204b685d6d5422cc18a6f625b70455",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ec55f3af75faf2eea8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Les frigos de l'Établissement français du sang ont été piratés, aucune perte n'est à déplorer",
+      "bullets": [
+        "L'attaque a eu lieu dans la nuit du dimanche 1er au lundi 2 novembre contre trois sites de l'Établissement français du sang (EFS).",
+        "Ce mode opératoire rappelle l'attaque contre plusieurs grands magasins et leur système de réfrigération en octobre.",
+        "Ces cyberagressions se sont répétées lundi 2 novembre dans une dizaine de pays européens."
+      ],
+      "publishedAt": "2026-11-04T16:21:55+00:00",
+      "updatedAt": "2026-11-04T16:21:55+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-frigos-de-l-etablissement-francais-du-sang-ont-ete-pirates-mais-aucune-perte-n-est-a-deplorer_8267747.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "e876fad2c43e1204e85cf07f2d0714f8798bf5e1f70d5bd2a6997fa31ae694bc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1219,7 +1226,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1243,7 +1250,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1267,7 +1274,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1291,13 +1298,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1321,7 +1328,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 26
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
