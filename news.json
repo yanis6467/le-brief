@@ -1,11 +1,64 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T03:00:45.690370+00:00",
+  "preparedAt": "2026-11-05T04:06:02.898373+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-5a145bdc8a4b8e2d14",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "bullets": [
+        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
+        "Tout dépendra de la capacité des deux camps à trouver des compromis."
+      ],
+      "publishedAt": "2026-11-04T18:45:17+00:00",
+      "updatedAt": "2026-11-04T18:45:17+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f49cadc4440b6a681d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Peut-on interdire une chaîne de télé ?",
+      "bullets": [
+        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
+        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
+        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
+      ],
+      "publishedAt": "2026-11-04T18:10:49+00:00",
+      "updatedAt": "2026-11-04T18:10:49+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
+      "context": null
+    },
     {
       "id": "rss-d201fcc00bb07c109e",
       "revision": 1,
@@ -84,30 +137,6 @@
       "context": null
     },
     {
-      "id": "rss-d4de7d37434d40ae34",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs des plateformes",
-      "bullets": [
-        "Un rapport de mission remis au gouvernement le 2 novembre propose de mieux réguler le travail de plateforme, alors que la France a jusqu’au 2 décembre pour transposer une directive européenne sur le sujet."
-      ],
-      "publishedAt": "2026-11-03T19:00:05+00:00",
-      "updatedAt": "2026-11-03T19:00:05+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/03/presomption-de-salariat-revenu-minimum-transparence-des-algorithmes-les-propositions-de-la-mission-sur-les-travailleurs-de-plateformes_6805652_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f4939fe9dad6b6b240d10dd060d5f96d6d142258ee0556d81d793e3f5cc3bfc9",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-fecf9cf0d4e615b867",
       "revision": 1,
       "category": "eco",
@@ -132,7 +161,7 @@
       "provenance": "article-extract",
       "summaryInput": "efd685c7dc2c6cb3b302b7eb8e8da062891e602d4df965c3c726e1af051497f5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T15:01:56.615921+00:00",
+      "enrichedAt": "2026-11-05T04:06:02.898373+00:00",
       "context": null
     },
     {
@@ -157,6 +186,30 @@
         }
       ],
       "verifiedAt": "2026-11-02"
+    },
+    {
+      "id": "rss-45d25173b98c25fd6c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La rémunération des cadres décline pour la première fois depuis 2010",
+      "bullets": [
+        "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi."
+      ],
+      "publishedAt": "2026-11-05T04:00:20+00:00",
+      "updatedAt": "2026-11-05T04:00:20+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-af83c46b2c2645b0a2",
@@ -209,6 +262,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cc2f6314537d9af28e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
+      "bullets": [
+        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
+      ],
+      "publishedAt": "2026-11-04T19:10:00+00:00",
+      "updatedAt": "2026-11-04T19:10:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-235dd6637bfedaea05",
       "revision": 1,
       "category": "eco",
@@ -234,82 +311,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T17:06:51.045581+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5c841a9ea864f3f038",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
-      "bullets": [
-        "Samir Refoufi, le chef de l'atelier touche, lui, jusqu'à 1 600 euros, mais pour trois jours de travail par semaine.",
-        "J'ai gagné une semaine à rouler gratuitement\", souligne Samir.\"Alléger tous les prélèvements pour rendre le coût du travail plus faible\"Car le patron a fait ses calculs : cela représente 15 euros net par mois en plus dans la poche de ses 25 salariés.",
-        "Les entreprises devraient privilégier les augmentations individuelles pour 2027, entre 2 et 2,5% en moyenne, principalement dans les secteurs de l'industrie et des ressources humaines."
-      ],
-      "publishedAt": "2026-11-04T21:44:53+00:00",
-      "updatedAt": "2026-11-04T21:44:53+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "article-extract",
-      "summaryInput": "f1f99b5a4bc4244a68090984cbc74369909ff66e37f67bf6bb9a03646fac6c7b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T03:00:45.690370+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0b8a9c97953e556bb7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
-      "bullets": [
-        "DÉCRYPTAGE - Arrivé au Sénat lundi, le projet de loi de financement de la Sécurité sociale a fait l’objet d’amendements en commission ce mercredi."
-      ],
-      "publishedAt": "2026-11-04T20:20:00+00:00",
-      "updatedAt": "2026-11-04T20:20:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e66381bf05e76e7977e01f1da27f9536ed7522c3b8cd3b3bff5e67251068cd2a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1cbdb104858f3ace30",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Que se passe-t-il en France ?» : quand les manifestations ternissent l’image du pays auprès des entreprises étrangères",
-      "bullets": [
-        "DÉCRYPTAGE - Les investisseurs s’inquiètent de la grogne sociale et doutent de la capacité de la France à se réformer."
-      ],
-      "publishedAt": "2026-11-04T19:00:00+00:00",
-      "updatedAt": "2026-11-04T19:00:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/que-se-passe-t-il-en-france-quand-les-manifestations-ternissent-l-image-du-pays-aupres-des-entreprises-etrangeres-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "56db2fb80ead67a624419d2cdf36c12bf685ca50e1ed3588936be566e140c59f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-82d60d3e792054dc5f",
@@ -380,7 +381,7 @@
       ],
       "publishedAt": "2026-11-02T15:15:01+00:00",
       "updatedAt": "2026-11-02T15:15:01+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -406,8 +407,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T02:58:20+00:00",
-      "updatedAt": "2026-11-05T02:58:20+00:00",
+      "publishedAt": "2026-11-05T04:00:03+00:00",
+      "updatedAt": "2026-11-05T04:00:03+00:00",
       "importance": 69,
       "sources": [
         {
@@ -422,6 +423,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5604cd0cd118c7602c",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+      "bullets": [
+        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
+      ],
+      "publishedAt": "2026-11-05T04:00:10+00:00",
+      "updatedAt": "2026-11-05T04:00:10+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56c6e6c95779ed80834555e707491e37d028dd4299b9811eed6d47c7d4f23a1d",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-06008fe8e38060f1ad",
@@ -532,28 +557,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5a145bdc8a4b8e2d14",
+      "id": "rss-c2563b471f052f583e",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "title": "Midterms 2026 : J. D. Vance, contrarié dans ses ambitions par la déroute de son camp, lance le débat interne chez les républicains",
       "bullets": [
-        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
-        "Tout dépendra de la capacité des deux camps à trouver des compromis."
+        "Le vice-président américain, qui a la désignation pour la présidentielle de 2028 en ligne de mire, a estimé, mercredi, que la guerre en Iran, déclenchée par Donald Trump, était la principale explication du raz-de-marée démocrate."
       ],
-      "publishedAt": "2026-11-04T18:45:17+00:00",
-      "updatedAt": "2026-11-04T18:45:17+00:00",
+      "publishedAt": "2026-11-05T04:00:06+00:00",
+      "updatedAt": "2026-11-05T04:00:06+00:00",
       "importance": 85,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-j-d-vance-contrarie-dans-ses-ambitions-par-la-deroute-de-son-camp-lance-le-debat-interne-chez-les-republicains_6806668_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
+      "summaryInput": "3dc1fa6e60094f939a7bbf364a928f68891e19fe0d5a62e212a05fbb2fd169d1",
       "detailLevel": "preview"
     },
     {
@@ -569,7 +593,7 @@
       ],
       "publishedAt": "2026-11-04T15:34:46+00:00",
       "updatedAt": "2026-11-04T15:34:46+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -722,7 +746,7 @@
       ],
       "publishedAt": "2026-11-04T16:00:23+00:00",
       "updatedAt": "2026-11-04T16:00:23+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -733,30 +757,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "67e5c4606ec0047b340ac59a21f838150726c6485ef252aed6c6fa1a5ad2980c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f7c3f6cdfbc1b21bff",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Suède, l’extrême droite se déchire sur la question de l’identité",
-      "bullets": [
-        "Alors que les discussions sont en cours pour tenter de former un nouveau gouvernement, les Démocrates de Suède se divisent sur les causes de leur échec aux législatives et sur la définition du nationalisme prônée par le parti."
-      ],
-      "publishedAt": "2026-11-04T16:00:03+00:00",
-      "updatedAt": "2026-11-04T16:00:03+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/en-suede-l-extreme-droite-se-dechire-sur-la-question-de-l-identite_6806320_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bc5b5dfb104252c95cd19a6d98e0f8f82971d31ae972652f7538bb3abd20bd1a",
       "detailLevel": "preview"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "publishedAt": "2026-11-04T15:39:58+00:00",
       "updatedAt": "2026-11-04T15:39:58+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -795,7 +795,7 @@
       ],
       "publishedAt": "2026-11-04T15:12:41+00:00",
       "updatedAt": "2026-11-04T15:12:41+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -806,6 +806,31 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "26e30dca91b2a2e057e52081aca1659fe230dd5ee3ae8b6048b77a039bb1e08b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4415dcc1fbe7b8479e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Allemagne, le numéro deux du gouvernement régional de Bavière retrouvé mort à son hôtel à Berlin",
+      "bullets": [
+        "La cause du décès de Hubert Aiwanger, 55 ans, président du parti ultraconservateur Freie Wähler, est encore inconnue.",
+        "La police et le parquet ont ouvert une enquête."
+      ],
+      "publishedAt": "2026-11-05T03:05:04+00:00",
+      "updatedAt": "2026-11-05T03:05:04+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/en-allemagne-le-numero-deux-du-gouvernement-regional-de-baviere-retrouve-mort-a-son-hotel-a-berlin_6806602_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "490208bdacd66a7dce305e63deab27b612dc4b53f0304533d5bd7bb31600232f",
       "detailLevel": "preview"
     },
     {
@@ -935,31 +960,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f49cadc4440b6a681d",
+      "id": "rss-4c724822411517e9a6",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Peut-on interdire une chaîne de télé ?",
+      "title": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
       "bullets": [
-        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
-        "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
-        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
+        "Trois ans après l'attentat jihadiste d'Arras (Pas-de-Calais), trois juges d'instruction ont ordonné, mercredi 4 novembre, le renvoi devant la cour d'assises spéciale de Mohammed Mogouchkov, accusé de l'assassinat de Dominique Bernard devant le lycée où enseignait ce professeur de français, le 13 octobre 2023.",
+        "Le Parquet national antiterroriste (Pnat) a confirmé cette décision à l'AFP.",
+        "\"S'il a bien pu observer la radicalisation violente de son frère, [il] n'a pas été informé de la nature\" de son projet criminel, justifiait alors le Pnat."
       ],
-      "publishedAt": "2026-11-04T18:10:49+00:00",
-      "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-04T10:49:34+00:00",
+      "updatedAt": "2026-11-04T10:49:34+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
+          "url": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "article-extract",
-      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
+      "summaryInput": "a885329e14329a91cd52b48e60b11782e7618809d55d792bb943f1284dcbdfbf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
+      "enrichedAt": "2026-11-05T04:06:02.898373+00:00",
       "context": null
     },
     {
@@ -997,7 +1022,7 @@
       ],
       "publishedAt": "2026-11-04T15:46:38+00:00",
       "updatedAt": "2026-11-04T15:46:38+00:00",
-      "importance": 47,
+      "importance": 46,
       "sources": [
         {
           "publisher": "Le Monde",
