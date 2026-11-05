@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-05",
-  "preparedAt": "2026-11-05T06:13:02.830203+00:00",
+  "preparedAt": "2026-11-05T07:33:44.690481+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-917fa8737756f50fee",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
-      "bullets": [
-        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
-      ],
-      "publishedAt": "2026-11-05T05:00:11+00:00",
-      "updatedAt": "2026-11-05T05:00:11+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-39fc03526fb05e1c36",
       "revision": 1,
@@ -59,14 +35,14 @@
     },
     {
       "id": "rss-f49cadc4440b6a681d",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Peut-on interdire une chaîne de télé ?",
       "bullets": [
-        "Lancé en juin par un particulier, ce texte a gagné en popularité après l'attentat raciste de Trappes (Yvelines) et les critiques portées par des responsables politiques de gauche à l'encontre de la chaîne de la galaxie Bolloré, accusée de diffuser des propos discriminatoires et de favoriser l'extrême droite.",
+        "Mais cette mobilisation peut-elle vraiment mener à son interdiction ?",
         "L'Arcom saisit la justice après des propos d'Éric Zemmour au lendemain de la journée du 17 octobre",
-        "De retour en Grande-Bretagne après un tour du monde à pied de 28 ans"
+        "\"Les thématiques de justice sociale et de lutte contre l'oligarchie, qui ont été au coeur de la campagne, étaient inaudibles il y a 30 ans pour le Parti démocrate\" selon Alice Béja, professeure à l'université de Créteil"
       ],
       "publishedAt": "2026-11-04T18:10:49+00:00",
       "updatedAt": "2026-11-04T18:10:49+00:00",
@@ -82,32 +58,8 @@
       "provenance": "article-extract",
       "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-04T19:11:32.917439+00:00",
+      "enrichedAt": "2026-11-05T07:33:44.690481+00:00",
       "context": null
-    },
-    {
-      "id": "rss-d201fcc00bb07c109e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« La politique budgétaire française n’est pas particulièrement efficace pour soutenir durablement l’activité »",
-      "bullets": [
-        "Les économistes Jérôme Creel et Jonas Kaiser estiment, dans une tribune au « Monde », qu’une austérité indifférenciée, appliquée au moment où l’activité ralentit et où le chômage progresse, pourrait être particulièrement coûteuse."
-      ],
-      "publishedAt": "2026-11-04T17:00:13+00:00",
-      "updatedAt": "2026-11-04T17:00:13+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/04/la-politique-budgetaire-francaise-n-est-pas-particulierement-efficace-pour-soutenir-durablement-l-activite_6806371_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4b438f926518c3f9cc62ad0f01fc661d4ea0330404c036241fc7f70b92579d22",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-60246a0325551b7c2d",
@@ -244,8 +196,8 @@
         "RÉCIT - Ce hold-up numérique trouverait son origine chez un prestataire de services du groupe, victime fin octobre d’une attaque.",
         "La banque compte récupérer une partie des sommes tandis que le parquet de Paris a ouvert une enquête."
       ],
-      "publishedAt": "2026-11-04T21:00:25+00:00",
-      "updatedAt": "2026-11-04T21:00:25+00:00",
+      "publishedAt": "2026-11-05T07:31:50+00:00",
+      "updatedAt": "2026-11-05T07:31:50+00:00",
       "importance": 67,
       "sources": [
         {
@@ -257,6 +209,30 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "be17a91b33f62ac41db48b786534cfa2c8ed6c7438e434c267155b11895c2ad5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cc2f6314537d9af28e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
+      "bullets": [
+        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
+      ],
+      "publishedAt": "2026-11-04T19:10:00+00:00",
+      "updatedAt": "2026-11-04T19:10:00+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
       "detailLevel": "preview"
     },
     {
@@ -314,6 +290,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T05:11:09.304695+00:00",
       "context": null
+    },
+    {
+      "id": "rss-0b8a9c97953e556bb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
+      "bullets": [
+        "DÉCRYPTAGE - Arrivé au Sénat lundi, le projet de loi de financement de la Sécurité sociale a fait l’objet d’amendements en commission ce mercredi."
+      ],
+      "publishedAt": "2026-11-04T20:20:00+00:00",
+      "updatedAt": "2026-11-04T20:20:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e66381bf05e76e7977e01f1da27f9536ed7522c3b8cd3b3bff5e67251068cd2a",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-82d60d3e792054dc5f",
@@ -410,8 +410,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-05T06:08:29+00:00",
-      "updatedAt": "2026-11-05T06:08:29+00:00",
+      "publishedAt": "2026-11-05T07:32:49+00:00",
+      "updatedAt": "2026-11-05T07:32:49+00:00",
       "importance": 69,
       "sources": [
         {
@@ -426,30 +426,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T01:21:35.082177+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5604cd0cd118c7602c",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
-      "bullets": [
-        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
-      ],
-      "publishedAt": "2026-11-05T04:00:03+00:00",
-      "updatedAt": "2026-11-05T04:00:03+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "634271db2a0e1e8b9925e0e8c0bad689e9a3274d5ebf71204bc6069c0d5e3bc1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-06008fe8e38060f1ad",
@@ -595,7 +571,7 @@
       ],
       "publishedAt": "2026-11-04T18:45:17+00:00",
       "updatedAt": "2026-11-04T18:45:17+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -644,7 +620,7 @@
       ],
       "publishedAt": "2026-11-04T19:29:15+00:00",
       "updatedAt": "2026-11-04T19:29:15+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -657,6 +633,34 @@
       "summaryInput": "a213fbb878981ef9b43cc19784153938cda82075311df75e6f2ef0dd6f8d435b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-04T20:07:24.443268+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-06e0706c9b1ec0395e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Honduras, les migrants reprennent déjà la route après la défaite de Donald Trump aux midterms",
+      "bullets": [
+        "La défaite du président américain Donald Trump aux élections de mi-mandat les rend plus optimistes.",
+        "Je sais ce que je veux atteindre, mais c'est le Seigneur qui décidera du sort de chacun.",
+        "Nous, on devait seulement attendre ces élections avant de pouvoir se mettre en route\", affirme Beverly Medina, une migrante.\"Tout est fait pour décourager les migrants\"Leur destination est Tijuana (Mexique), une ville située le long de la frontière américaine."
+      ],
+      "publishedAt": "2026-11-05T07:09:22+00:00",
+      "updatedAt": "2026-11-05T07:09:22+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/migrants/au-honduras-les-migrants-reprennent-deja-la-route-apres-la-defaite-de-donald-trump-aux-midterms_8268884.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "article-extract",
+      "summaryInput": "e4b01c8eecbc3c28fb43e35264cf440d51450e8df4313a3fa9f355d40288bccd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T07:33:44.690481+00:00",
       "context": null
     },
     {
@@ -695,7 +699,7 @@
       ],
       "publishedAt": "2026-11-04T19:00:02+00:00",
       "updatedAt": "2026-11-04T19:00:02+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -734,28 +738,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f135cfc8664fd471a9",
+      "id": "rss-7377559bd65e1caa66",
       "revision": 1,
       "category": "world",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : les résultats des midterms aux Etats-Unis gênent le RN et réjouissent la gauche",
+      "topic": "International",
+      "title": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
       "bullets": [
-        "Gauche française et bloc central ont analysé la défaite du parti de Donald Trump à l’aune des prochaines échéances électorales françaises, y percevant un espoir, alors que le Rassemblement national continue de prendre ses distances avec le « canard boiteux » américain."
+        "Le nombre d’attaques signalées ayant endommagé ou détruit des systèmes d’approvisionnement en eau et d’assainissement dans les zones de conflit a triplé entre 2021 et 2025, selon un rapport de l’Unicef publié jeudi 5 novembre, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\".",
+        "Réalisé dans 23 pays et territoires entre janvier 2021 et juin 2026, ce rapport \"met en évidence une multiplication des attaques, qui sont à la fois plus fréquentes, plus diversifiées et touchent des zones géographiques de plus en plus étendues à travers le monde\"."
       ],
-      "publishedAt": "2026-11-04T15:12:41+00:00",
-      "updatedAt": "2026-11-04T15:12:41+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-05T06:13:36+00:00",
+      "updatedAt": "2026-11-05T06:13:36+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26e30dca91b2a2e057e52081aca1659fe230dd5ee3ae8b6048b77a039bb1e08b",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "27e3bc0402b10094a2e7bb7426e4db99d3c6d433eaabfc66180f894098bf875e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-05T07:33:44.690481+00:00",
+      "context": null
     },
     {
       "id": "rss-4415dcc1fbe7b8479e",
@@ -780,30 +787,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "490208bdacd66a7dce305e63deab27b612dc4b53f0304533d5bd7bb31600232f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cc2f6314537d9af28e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les nombreux atouts de la filière navale française, prête à participer à la défense de l’Arctique",
-      "bullets": [
-        "DÉCRYPTAGE - Les industriels tricolores ont toutes les compétences pour répondre aux besoins des marines, à l’exception des grands brise-glace nucléaires."
-      ],
-      "publishedAt": "2026-11-04T19:10:00+00:00",
-      "updatedAt": "2026-11-04T19:10:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/les-nombreux-atouts-de-la-filiere-navale-francaise-prete-a-participer-a-la-defense-de-l-arctique-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "203ef95d941ef816869f369ff5f7ef07a63a7c65064e3c76b40b122549583de1",
       "detailLevel": "preview"
     },
     {
@@ -918,7 +901,7 @@
       ],
       "publishedAt": "2026-11-03T07:32:03+00:00",
       "updatedAt": "2026-11-03T07:32:03+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1035,6 +1018,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-917fa8737756f50fee",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
+      "bullets": [
+        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
+      ],
+      "publishedAt": "2026-11-05T05:00:11+00:00",
+      "updatedAt": "2026-11-05T05:00:11+00:00",
+      "importance": 93,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-05",
+      "provenance": "rss-excerpt",
+      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-43b6c388bc1cc4cfeb",
       "revision": 1,
       "category": "france",
@@ -1109,27 +1116,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-14d261595a851c226e",
-      "revision": 2,
+      "id": "rss-d201fcc00bb07c109e",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
+      "title": "« La politique budgétaire française n’est pas particulièrement efficace pour soutenir durablement l’activité »",
       "bullets": [
-        "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre."
+        "Les économistes Jérôme Creel et Jonas Kaiser estiment, dans une tribune au « Monde », qu’une austérité indifférenciée, appliquée au moment où l’activité ralentit et où le chômage progresse, pourrait être particulièrement coûteuse."
       ],
-      "publishedAt": "2026-11-04T22:53:12+00:00",
-      "updatedAt": "2026-11-04T22:53:12+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-04T17:00:13+00:00",
+      "updatedAt": "2026-11-04T17:00:13+00:00",
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/04/la-politique-budgetaire-francaise-n-est-pas-particulierement-efficace-pour-soutenir-durablement-l-activite_6806371_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
-      "summaryInput": "f78fa54c40f918f8f77573cda1bb298528b538bc05934cf2ea05993fba405796",
+      "summaryInput": "4b438f926518c3f9cc62ad0f01fc661d4ea0330404c036241fc7f70b92579d22",
       "detailLevel": "preview"
     },
     {
@@ -1143,7 +1150,7 @@
       ],
       "publishedAt": "2026-11-04T18:19:12+00:00",
       "updatedAt": "2026-11-04T18:19:12+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1154,30 +1161,6 @@
       "verifiedAt": "2026-11-05",
       "provenance": "rss-excerpt",
       "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dabbf11ee1460f9f82",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Manifestations du 17 octobre : devant la commission d’enquête parlementaire, les commerçants disent avoir été « totalement abandonnés et sacrifiés »",
-      "bullets": [
-        "Entendus à l’Assemblée nationale, mercredi 4 novembre, plusieurs représentants d’associations de commerçants à Paris, Lyon ou Marseille, ont dénoncé la défaillance des pouvoirs publics face aux pillages lors de cette journée de mobilisation."
-      ],
-      "publishedAt": "2026-11-04T18:06:42+00:00",
-      "updatedAt": "2026-11-04T18:06:42+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/manifestations-du-17-octobre-devant-la-commission-d-enquete-parlementaire-les-commercants-disent-avoir-ete-totalement-abandonnes-et-sacrifies_6806418_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-05",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ab53fbcd8693748dfcd85f4960165cbb5ff44d29685ec10a9160c858186ecaf3",
       "detailLevel": "preview"
     },
     {
@@ -1241,7 +1224,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1265,7 +1248,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1289,7 +1272,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1313,7 +1296,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1343,7 +1326,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
