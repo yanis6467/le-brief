@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T07:29:26.523385+00:00",
+  "preparedAt": "2026-11-06T09:09:00.408478+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -19,7 +19,7 @@
       ],
       "publishedAt": "2026-11-05T20:55:07+00:00",
       "updatedAt": "2026-11-05T20:55:07+00:00",
-      "importance": 87,
+      "importance": 86,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -32,34 +32,6 @@
       "summaryInput": "75fe6a19ada994c92849c147ebb57c9e205548705e490d589f9db3788c65b301",
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0d63fb82c61f7272b7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts",
-      "bullets": [
-        "Si l’aide de 5 millions de roubles (50.000 euros) versée par l’État aux familles endeuillées reste en vigueur, les sujets de la Fédération de Russie, nom donné aux entités fédérées, doivent rogner sur leurs propres versements.",
-        "Fin avril, la République de Bachkirie a ainsi ramené son indemnité de 2 millions de roubles (plus de 20.000 euros) à 100.000 roubles (environ 1000 euros).",
-        "Ce trou budgétaire devrait conduire la Russie à consacrer 15 % de son PIB au remboursement de sa dette publique au cours de la prochaine décennie, selon Bloomberg."
-      ],
-      "publishedAt": "2026-11-06T06:01:00+00:00",
-      "updatedAt": "2026-11-06T06:01:00+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "6c78c64e4096982d0ee897e22151ebff4d18db619b25e706180b5daf0d4e5868",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
       "context": null
     },
     {
@@ -171,34 +143,6 @@
       "context": null
     },
     {
-      "id": "rss-0c0ebc9f30ce708eca",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco",
-      "bullets": [
-        "Tokyo a protesté auprès de Moscou et exigé la libération immédiate des actifs russes de la société Japan Tobacco, saisis sur ordre du Kremlin, a déclaré vendredi le porte-parole du gouvernement japonais, Minoru Kihara.",
-        "La Russie a invoqué leur appartenance à des pays «inamicaux» soutenant l’Ukraine.",
-        "Depuis l’offensive russe à grande échelle en Ukraine lancée en février 2022 et les premières sanctions économiques décrétées par les Occidentaux, de nombreuses multinationales ont quitté la Russie, d’autres y ont suspendu leurs activités et leurs actifs ont été saisis et transférés à des sociétés russes."
-      ],
-      "publishedAt": "2026-11-06T02:47:00+00:00",
-      "updatedAt": "2026-11-06T02:47:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/moscou-saisit-les-actifs-en-russie-de-japan-tobacco-international-le-cigarettier-examine-d-eventuelles-mesures-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "ff1f268355b650a1e9ef7cc4c522ad48defe6e8b2f7ee1784558fc37ba963b45",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -210,7 +154,7 @@
       ],
       "publishedAt": "2026-11-05T20:57:03+00:00",
       "updatedAt": "2026-11-05T20:57:03+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -224,28 +168,88 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-58257f3046f8336e6d",
+      "id": "rss-51817aa6692e68d3b4",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Cyberattaque contre Crédit Mutuel Arkéa : les banques sont-elles suffisamment armées face aux hackers ?",
+      "title": "«Nous recherchons les meilleurs» : en Argentine, le gouvernement recrute… des espions à tour de bras",
       "bullets": [
-        "ENTRETIEN - Le groupe bancaire a été victime d’une attaque d’une ampleur inédite mercredi 4 novembre. Le préjudice s’élèverait à au moins 150 millions d’euros. Une fraude particulièrement inquiétante, selon Matthieu Dierick, expert en cybersécurité chez F5."
+        "Nous vivons dans un contexte international changeant et troublé.",
+        "Après deux augmentations cette année, le Side dispose fin 2026 d’un budget avoisinant 176 milliards de pesos (environ 112 millions de dollars), soit plus de dix fois ce dont il disposait il y a trois ans sous son nom d’alors, l’Agence fédérale de renseignement (AFI).",
+        "Près de 80.000 emplois publics ont été supprimés depuis trois ans sous la présidence de l’ultralibéral Javier Milei, qui a en outre lancé mi-octobre un nouveau plan de départs volontaires visant potentiellement 20.000 agents de l’État."
       ],
-      "publishedAt": "2026-11-05T17:50:44+00:00",
-      "updatedAt": "2026-11-05T17:50:44+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-06T09:07:16+00:00",
+      "updatedAt": "2026-11-06T09:07:16+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-credit-mutuel-arkea-les-banques-sont-elles-suffisamment-armees-face-aux-hackers-20261105",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/vie-professionnelle/nous-recherchons-les-meilleurs-en-argentine-le-gouvernement-recrute-des-espions-a-tour-de-bras-20261106",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6480636ab98803fb48fa19984568b8359b909044d0e8c5397d69320054428e40",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "67645392dbdc432dcf53c51b5c3a31635674c79ef5bf87db87417e5db5aee5a3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d063fea02fab7477f4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Colère sociale : l'intersyndicale décidera des suites de la mobilisation après la réunion de lundi à Matignon",
+      "bullets": [
+        "L'intersyndicale à l'origine de la journée de manifestations de jeudi décidera de la suite de la mobilisation à l'issue de la conférence sociale organisée lundi 9 novembre par Matignon, a-t-elle indiqué ce vendredi 6 novembre.",
+        "Les syndicats revendiquent une participation de plus de 1,5 million de personnes - les autorités ont recensé 575.000 manifestants.",
+        "Au moins 100 euros de plus pour le Smic «Rendez-vous lundi soir», a déclaré sur RTL la secrétaire générale de la CFDT Marylise Léon, interrogée sur la suite à donner à la mobilisation."
+      ],
+      "publishedAt": "2026-11-06T08:00:10+00:00",
+      "updatedAt": "2026-11-06T08:00:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/colere-sociale-l-intersyndicale-decidera-des-suites-de-la-mobilisation-apres-la-reunion-de-lundi-a-matignon-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "a1663a441840139ebaea0765771eacf1b4545d1ff2bb4e6475e99cc44f930fc5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9e4b7eae1748edb85a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
+      "bullets": [
+        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
+        "Les syndicats réclament entre 100 et 150 euros net de plus.",
+        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
+      ],
+      "publishedAt": "2026-11-06T07:38:30+00:00",
+      "updatedAt": "2026-11-06T07:38:30+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "context": null
     },
     {
       "id": "rss-0324125132b0e53552",
@@ -284,7 +288,7 @@
       ],
       "publishedAt": "2026-11-05T20:54:36+00:00",
       "updatedAt": "2026-11-05T20:54:36+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -322,6 +326,59 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "7070419938a3d19bb8863cce8a096f5103fbd04193fef5bbf824e904e533ba32",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-58a87ea435c000672f",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Le Nikkei, à Tokyo, et le Kospi, à Séoul, terminent la semaine sur un plongeon de 6 %, dans le sillage du Nasdaq",
+      "bullets": [
+        "Le Nikkei a conclu la séance de vendredi sur une baisse de 5,96 %, à 57.434 points.",
+        "La veille à New York, le Nasdaq, qui regroupe de nombreuses valeurs technologiques, avait plongé de 5,52 %, sa plus forte chute depuis avril 2025, quand le président américain Donald Trump avait imposé des droits de douane au monde entier.",
+        "De plus, les habitants de dizaines de villes américaines ont adopté mardi des restrictions ou des interdictions concernant les «data centers»."
+      ],
+      "publishedAt": "2026-11-06T07:59:20+00:00",
+      "updatedAt": "2026-11-06T07:59:20+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/flash-eco/le-nikkei-a-tokyo-et-le-kospi-a-seoul-terminent-la-semaine-sur-un-plongeon-de-6-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "5cd001a05e68e253ac117f3455c26776989cc66e8996d412ccb0017d2736a985",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6ac920303efec7af2f",
+      "revision": 2,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "bullets": [
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
+      ],
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
+      "importance": 80,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
       "detailLevel": "preview"
     },
     {
@@ -363,9 +420,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T07:28:47+00:00",
-      "updatedAt": "2026-11-06T07:28:47+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-06T09:09:01+00:00",
+      "updatedAt": "2026-11-06T09:09:01+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -381,32 +438,28 @@
       "context": null
     },
     {
-      "id": "rss-931aab3c757149d9c0",
+      "id": "rss-3e7afd27bd0ff75b9a",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : La débâcle des valeurs liées à l'IA fait chuter le Nasdaq de 4%, le CAC 40 résiste au-dessus des 8.200 points",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -1.22%",
       "bullets": [
-        "Son indice vedette, le CAC 40, a gagné 0,34%, préservant le seuil des 8.200 points, à 8.205,37 points, à la clôture de ce jeudi 5 novembre.",
-        "Le Dow Jones abandonne 2,1% et le S&P 500 recule de 2,8% à la clôture des marchés européens.",
-        "Hors indice vedette, Air France-KLM a bondi de 12,1%, salué pour avoir publié des résultats nettement au-dessus des prévisions des analystes, porté notamment par la vigueur de la recette unitaire et une stabilité des coûts hors carburant."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-122-1173307.html"
       ],
-      "publishedAt": "2026-11-05T16:54:06+00:00",
-      "updatedAt": "2026-11-05T16:54:06+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "updatedAt": "2026-11-06T08:00:00+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-122-1173307.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "5ae8de015fdd6a051046898d36bfaac9927f2e956d90284333baa29b327dc024",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
-      "context": "Résultats du troisième trimestre"
+      "provenance": "rss-excerpt",
+      "summaryInput": "a14acf28b6f64b3cf3ce3d6385c07bbddfc8aef776b0eb6b1a7ec04491ea4191",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-0dc1780ac97141bab1",
@@ -504,7 +557,7 @@
       ],
       "publishedAt": "2026-11-05T08:57:39+00:00",
       "updatedAt": "2026-11-05T08:57:39+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -530,7 +583,7 @@
       ],
       "publishedAt": "2026-11-05T20:27:05+00:00",
       "updatedAt": "2026-11-05T20:27:05+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -542,33 +595,8 @@
       "provenance": "article-extract",
       "summaryInput": "b74f89661382d9939872afdea4d272b50ed225d41315ee682c6c7fe452b1c3c3",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:59:51.597503+00:00",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
       "context": null
-    },
-    {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-7da7836e5f5a263918",
@@ -583,7 +611,7 @@
       ],
       "publishedAt": "2026-11-05T20:49:57+00:00",
       "updatedAt": "2026-11-05T20:49:57+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -597,6 +625,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
       "context": null
+    },
+    {
+      "id": "rss-80c8ce7c9161a601df",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Belgique : après l’adoption d’un projet de loi controversé autorisant la police à des visites domiciliaires, ses opposants dénoncent un « ICE à la belge »",
+      "bullets": [
+        "Le texte a été adopté par les députés belges, vendredi matin, au terme d’une séance chahutée et alors que le roi doit se prononcer sur la démission du premier ministre nationaliste et conservateur Bart de Wever, déposée en début de semaine."
+      ],
+      "publishedAt": "2026-11-06T07:33:31+00:00",
+      "updatedAt": "2026-11-06T07:33:31+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "46be335cdad3c950855263b38b591c7be984b099f53d432e1a54fcf8c70dca4b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-0d91440bc745ab01d9",
@@ -673,16 +725,16 @@
     },
     {
       "id": "rss-b58937d8d70fc02194",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
       "bullets": [
         "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ».",
-        "Sa décision, annoncée jeudi, concerne un quart des condamnés à mort aux Etats-Unis."
+        "Sa décision, annoncée jeudi 5 novembre, concerne un quart des condamnés à mort aux Etats-Unis."
       ],
-      "publishedAt": "2026-11-05T21:55:04+00:00",
-      "updatedAt": "2026-11-05T21:55:04+00:00",
+      "publishedAt": "2026-11-05T21:55:02+00:00",
+      "updatedAt": "2026-11-05T21:55:02+00:00",
       "importance": 77,
       "sources": [
         {
@@ -693,7 +745,7 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "fbd7c684ab1c3ceff6005bbd8614c377efbe713dc77d55c0115ed42a106871d9",
+      "summaryInput": "4b11c306989bf7c9cb23e6e8a82a2ee2d37af77d99961eb38a05d676b43cdcea",
       "detailLevel": "preview"
     },
     {
@@ -719,6 +771,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "0ae55c1677e002d7d091d43c2f3fa04cfff4ad99d84aa1690d2c8b90a7ca8a95",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-78e1ae9c20a0cdd36e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Fausse alerte à la bombe : un groupuscule russe en cause ?",
+      "bullets": [
+        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d’appareils.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+      ],
+      "publishedAt": "2026-11-06T08:26:28+00:00",
+      "updatedAt": "2026-11-06T08:26:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/fausse-alerte-a-la-bombe-un-groupuscule-russe-en-cause_8270486.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "ccd41b74b5e494e28e8576ce91520cf6bea23a9091b1d137c696313e1d3a324d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "context": null
     },
     {
       "id": "rss-3d014e88571f5853ec",
@@ -770,38 +850,13 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-60e62a246ae3ed1a7c",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
-      "bullets": [
-        "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours.",
-        "Craignant les risques réputationnels et les sanctions, les entreprises américaines rechignent à en acheter."
-      ],
-      "publishedAt": "2026-11-05T18:38:21+00:00",
-      "updatedAt": "2026-11-05T18:38:21+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1cf0303ec621ec5e6bbce57a8b1d654e0fa6dbdde808ed60c9919a8920d68d55",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1344132ed1abe852e4",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme « L’Avenir en commun » autour du concept de « nouvelle France »",
       "bullets": [
-        "Son livre-programme, en librairie à partir du 6 novembre, érige la bifurcation écologique en première priorité et réaffirme la promesse de la retraite à 60 ans, tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
+        "Le programme de La France insoumise, paru ce vendredi, érige la bifurcation écologique en priorité absolue tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
       ],
       "publishedAt": "2026-11-06T05:30:00+00:00",
       "updatedAt": "2026-11-06T05:30:00+00:00",
@@ -815,36 +870,32 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "6211fc52644b4e2e9ffd21c05f5cefe14c26e9b583bfa8a7f657c0eb58b6e64d",
+      "summaryInput": "9fa7abcfae3b8108b9c8183a53097ddcf36535c0c915633833b4f9bf74685439",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-40efa8c3d132a75e22",
-      "revision": 2,
+      "id": "rss-674c8970d293e90386",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Plafonds qui s'effondrent, placo qui tombe… Une liste noire de 200 lycées délabrés à rénover en priorité dressée par le gouvernement",
+      "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
       "bullets": [
-        "Des faux plafonds s'effondrent à cause de la pluie dans un lycée de Montpellier (Hérault), du placo qui tombe sur une élève dans un internat de Bastia (Haute-Corse), un morceau de coursive qui menace de céder dans un autre établissement de Nîmes (Gard)...",
-        "Leur nom figure dans une liste de 200 établissements prioritaires pour être rénovés.",
-        "Une méthode critiquée par les présidents de régionsLa publication de cette liste de lycées fait polémique, car elle a été élaborée uniquement grâce à des signalements effectués par des élèves sur la plateforme du ministère de l'Éducation nationale."
+        "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système."
       ],
-      "publishedAt": "2026-11-05T21:37:43+00:00",
-      "updatedAt": "2026-11-05T21:37:43+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-05T17:30:03+00:00",
+      "updatedAt": "2026-11-05T17:30:03+00:00",
+      "importance": 80,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plafonds-qui-s-effondrent-placo-qui-tombe-une-liste-noire-de-200-lycees-delabres-a-renover-en-priorite-dressee-par-le-gouvernement_8269817.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "8736f4218e751c6bf94bd514746af9421b38f713289d7bfedef1a785f1ac5816",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "a2bd13017536e9aa46dd35f0b28884732c758fa787619158f169eda135dc9a9e",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -923,31 +974,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f49cadc4440b6a681d",
-      "revision": 3,
+      "id": "rss-cf41b9be95465c8efa",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Peut-on interdire une chaîne de télé ?",
+      "title": "Alertes à la bombe, des avions déroutés",
       "bullets": [
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons",
-        "Les réactions des lycéens lors des blocages et des manifestations du 5 novembre",
-        "491 jours dans les geôles de Poutine, un Américain témoigne"
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
       ],
-      "publishedAt": "2026-11-04T18:10:49+00:00",
-      "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 82,
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/peut-on-interdire-une-chaine-de-tele_8268305.html",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "19d6904cdb92d0fb026f2e884e37c8cd1e92acb2ac3d0c4db0133fa16b1ae974",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T20:02:32.879673+00:00",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
       "context": null
     },
     {
@@ -976,17 +1027,17 @@
     },
     {
       "id": "rss-37dac5436add1a359b",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Environnement",
       "title": "Deux personnes ont été retrouvées mortes en Corse-du-Sud après que leur voiture a été emportée par les inondations",
       "bullets": [
         "Deux personnes ont été retrouvées mortes par les sapeurs-pompiers, a annoncé vendredi 6 novembre la préfecture de Corse-du-Sud à France 3 Corse ViaStella et Ici RCFM.",
         "Selon la préfecture, une voiture à bord de laquelle se trouvaient trois personnes a été emportée par les flots, vers 1 heure du matin dans la nuit de jeudi à vendredi sur la RT10 entre Porto-Vecchio et Bonifacio.",
-        "Des routes ont été coupées et des maisons envahies par les eaux, rapporte France 3 Corse ViaStella."
+        "Les pompiers de l'île avaient indiqué mercredi avoir déjà secouru une personne emportée dans son véhicule en Corse-du-Sud et deux autres dans la même situation en Haute-Corse."
       ],
-      "publishedAt": "2026-11-06T07:01:41+00:00",
-      "updatedAt": "2026-11-06T07:01:41+00:00",
+      "publishedAt": "2026-11-06T07:55:20+00:00",
+      "updatedAt": "2026-11-06T07:55:20+00:00",
       "importance": 47,
       "sources": [
         {
@@ -997,9 +1048,9 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "8a3ba853e7566d379ce0f42fe783e9f2680bc9911f3f0cb4a3bdac7e5ffc1bf9",
+      "summaryInput": "776d3d16432e4c3783bc63ba7b10193520f79a78d5a5c024e3b924fba0ef24d5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T07:29:26.523385+00:00",
+      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
       "context": null
     },
     {
@@ -1028,30 +1079,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-674c8970d293e90386",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
-      "bullets": [
-        "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système."
-      ],
-      "publishedAt": "2026-11-05T17:30:03+00:00",
-      "updatedAt": "2026-11-05T17:30:03+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a2bd13017536e9aa46dd35f0b28884732c758fa787619158f169eda135dc9a9e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8e9d92bc291390e8f5",
       "revision": 1,
       "category": "france",
@@ -1074,30 +1101,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5c60041988595cdf2d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît un « échec »",
-      "bullets": [
-        "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre, « lié à la simultanéité des événements » lors des violences du 17 octobre."
-      ],
-      "publishedAt": "2026-11-03T23:06:26+00:00",
-      "updatedAt": "2026-11-03T23:06:26+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2a1f62fcbb52ef6d4fba51fe83e158e2b44781fc763b6cef2d4d150202d78da5",
       "detailLevel": "preview"
     },
     {
@@ -1152,7 +1155,7 @@
       "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
+      "topic": "Santé",
       "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
         "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
@@ -1177,32 +1180,78 @@
       "context": null
     },
     {
-      "id": "rss-cf41b9be95465c8efa",
+      "id": "rss-3d3629363808250abb",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Alertes à la bombe, des avions déroutés",
+      "topic": "Justice",
+      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
       "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
       ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "publishedAt": "2026-11-05T17:30:24+00:00",
+      "updatedAt": "2026-11-05T17:30:24+00:00",
       "importance": 66,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d608be2d6012bdee6a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+      "bullets": [
+        "Le gouvernement anticipe une hausse du smic avant la revalorisation automatique du 1er janvier, face aux mobilisations sociales contre la vie chère.",
+        "Sébastien Lecornu réunit lundi 9 novembre à Matignon une « conférence sociale » avec les organisations syndicales et patronales."
+      ],
+      "publishedAt": "2026-11-06T08:25:47+00:00",
+      "updatedAt": "2026-11-06T08:25:47+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "98806333b0878abb6293aea9eed7d14b2b1c0104c377f3621ef90a3332bfbf77",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e96b780a8ca381e4f0",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
+      "bullets": [
+        "Des internautes dont les vidéos ont été supprimées ou qui ont constaté une baisse du nombre de vues dénoncent une invisibilisation orchestrée par les plateformes sous pression politique.",
+        "Difficile à étayer, ce sentiment s’explique néanmoins par l’opacité des réseaux sociaux et l’obsession du gouvernement à leur égard."
+      ],
+      "publishedAt": "2026-11-06T05:00:38+00:00",
+      "updatedAt": "2026-11-06T05:00:38+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "22338c00203dc25dcc60c4f472626423ce895cb3c25a1de9a3a40823da9a9861",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1216,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1240,7 +1289,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1264,7 +1313,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
@@ -1282,7 +1331,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1312,7 +1361,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
