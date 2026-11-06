@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T05:20:25.232246+00:00",
+  "preparedAt": "2026-11-06T06:11:48.178721+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-917fa8737756f50fee",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
-      "bullets": [
-        "Confrontées à la multiplication des attaques sur le terrain comme de la part de certaines personnalités politiques, les directions de l’information et les journalistes craignent un traitement hautement difficile de la campagne électorale."
-      ],
-      "publishedAt": "2026-11-05T05:00:08+00:00",
-      "updatedAt": "2026-11-05T05:00:08+00:00",
-      "importance": 91,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "94839b4a96c319d14fd9562bff5f3eeeecdc421790305da1e1e9a654d6e5aa99",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-3ad0c0fef46023a18e",
       "revision": 1,
@@ -59,31 +35,59 @@
       "context": null
     },
     {
-      "id": "rss-a937f570990ff0d082",
+      "id": "rss-0d63fb82c61f7272b7",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Paraguay : la crise bancaire contraint le président Santiago Peña à démissionner",
+      "title": "Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts",
       "bullets": [
-        "«J'ai pris la décision de présenter ma démission de la présidence de la République», a annoncé Santiago Peña, président depuis 2023, dans une vidéo publiée sur X.",
-        "L'annonce intervient 48 heures après l'éclatement d'une crise bancaire, qui a vu la Banque centrale du Paraguay (BCP) mettre sous tutelle Ueno, une entité financière revendiquant 2,94 millions de clients, dont les dépôts ont été gelés temporairement.",
-        "Santiago Peña avait jusqu'à récemment détenu des actions dans cette banque."
+        "Si l’aide de 5 millions de roubles (50.000 euros) versée par l’État aux familles endeuillées reste en vigueur, les sujets de la Fédération de Russie, nom donné aux entités fédérées, doivent rogner sur leurs propres versements.",
+        "Fin avril, la République de Bachkirie a ainsi ramené son indemnité de 2 millions de roubles (plus de 20.000 euros) à 100.000 roubles (environ 1000 euros).",
+        "Ce trou budgétaire devrait conduire la Russie à consacrer 15 % de son PIB au remboursement de sa dette publique au cours de la prochaine décennie, selon Bloomberg."
       ],
-      "publishedAt": "2026-11-05T17:41:22+00:00",
-      "updatedAt": "2026-11-05T17:41:22+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-06T06:01:00+00:00",
+      "updatedAt": "2026-11-06T06:01:00+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/paraguay-la-crise-bancaire-contraint-le-president-santiago-pena-a-demissionner-20261105",
+          "url": "https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "7ba62ac44b0ad60b9179ea1cb852ba17f7efcd7a6d1b012431960f8c49f5c52f",
+      "summaryInput": "6c78c64e4096982d0ee897e22151ebff4d18db619b25e706180b5daf0d4e5868",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T19:09:18.412516+00:00",
+      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-164e8ebde95203e0b4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les Bourses de Tokyo et Séoul plongent, après la dégringolade des valeurs technologiques américaines",
+      "bullets": [
+        "Le Nikkei, indice vedette de Tokyo, reculait de 5,69% à 57.602 points vers 00h50 GMT (02h50 à Paris) tandis qu’en Corée du Sud, l’indice Kospi dévissait de 7,92 % à 4.957 points, déclenchant un mécanisme de suspension automatique des échanges qui a interrompu les transactions pendant vingt minutes.",
+        "Samsung Electronics a chuté de près de 10%, tandis que SK hynix a perdu plus de 11 %.",
+        "La débâcle technologique a également affecté les valeurs liées aux semi-conducteurs au Japon, l’action Tokyo Electron reculant d’environ 9 % et Kioxia abandonnant 13 %."
+      ],
+      "publishedAt": "2026-11-06T05:59:07+00:00",
+      "updatedAt": "2026-11-06T05:59:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/le-nikkei-chute-de-plus-de-5-apres-la-degringolade-des-valeurs-technologiques-americaines-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "167977363c4189b0355db9f27e027ad4f86e125c81aaf8e44158e9b7ec587692",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
       "context": null
     },
     {
@@ -150,7 +154,7 @@
       ],
       "publishedAt": "2026-11-05T18:09:03+00:00",
       "updatedAt": "2026-11-05T18:09:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -191,6 +195,34 @@
       "summaryInput": "3d59331a232fe6f67484d25fef9341a1133371f9410bc7a2482109664ce75d40",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0c0ebc9f30ce708eca",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco",
+      "bullets": [
+        "Tokyo a protesté auprès de Moscou et exigé la libération immédiate des actifs russes de la société Japan Tobacco, saisis sur ordre du Kremlin, a déclaré vendredi le porte-parole du gouvernement japonais, Minoru Kihara.",
+        "La Russie a invoqué leur appartenance à des pays «inamicaux» soutenant l’Ukraine.",
+        "Depuis l’offensive russe à grande échelle en Ukraine lancée en février 2022 et les premières sanctions économiques décrétées par les Occidentaux, de nombreuses multinationales ont quitté la Russie, d’autres y ont suspendu leurs activités et leurs actifs ont été saisis et transférés à des sociétés russes."
+      ],
+      "publishedAt": "2026-11-06T02:47:00+00:00",
+      "updatedAt": "2026-11-06T02:47:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/moscou-saisit-les-actifs-en-russie-de-japan-tobacco-international-le-cigarettier-examine-d-eventuelles-mesures-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "ff1f268355b650a1e9ef7cc4c522ad48defe6e8b2f7ee1784558fc37ba963b45",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
       "context": null
     },
     {
@@ -257,7 +289,7 @@
       ],
       "publishedAt": "2026-11-05T17:50:44+00:00",
       "updatedAt": "2026-11-05T17:50:44+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -269,33 +301,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6480636ab98803fb48fa19984568b8359b909044d0e8c5397d69320054428e40",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c0622654babe55d859",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Alerte à la bombe : le pilote de l’avion dérouté reliant Dublin à Rome «aurait refusé» de se poser à Évreux, une enquête ouverte",
-      "bullets": [
-        "Le parquet d’Évreux a annoncé à l’AFP l’ouverture d’une enquête au sujet du pilote de l’avion d’Aer Lingus qui «aurait refusé» d’atterrir sur la base militaire d’Évreux, «préférant un aéroport civil», poussant l’armée française à mobiliser deux avions pour l’escorter.",
-        "Le procureur de la République, Rémi Coutin, a annoncé s’être rendu sur la base aérienne 105 de l’armée de l’air et de l’espace, à Évreux, où s’est finalement posé l’A320 qui effectuait la liaison entre Dublin et Rome avec 157 personnes à bord, en raison d’une alerte à la bombe."
-      ],
-      "publishedAt": "2026-11-05T14:03:56+00:00",
-      "updatedAt": "2026-11-05T14:03:56+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/alerte-a-la-bombe-le-pilote-de-l-avion-deroute-reliant-dublin-a-rome-aurait-refuse-de-se-poser-a-evreux-une-enquete-ouverte-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "ab79db7bd17c9fee45ddff6a4de243b205671f226b18e54bb84ac281c85e3b06",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T01:24:41.941231+00:00",
-      "context": null
     },
     {
       "id": "rss-0324125132b0e53552",
@@ -360,9 +365,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T05:18:52+00:00",
-      "updatedAt": "2026-11-06T05:18:52+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-06T06:11:50+00:00",
+      "updatedAt": "2026-11-06T06:11:50+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -402,7 +407,7 @@
       "provenance": "article-extract",
       "summaryInput": "5ae8de015fdd6a051046898d36bfaac9927f2e956d90284333baa29b327dc024",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
+      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -596,6 +601,30 @@
       "context": null
     },
     {
+      "id": "rss-0d91440bc745ab01d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
+      "bullets": [
+        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
+      ],
+      "publishedAt": "2026-11-06T05:45:00+00:00",
+      "updatedAt": "2026-11-06T05:45:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f9f5ab1351c264c7ae",
       "revision": 1,
       "category": "world",
@@ -695,30 +724,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-16312d5bac4da2d4c6",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’immense arc de triomphe souhaité par Donald Trump à Washington validé par une commission publique",
-      "bullets": [
-        "Malgré des recours en justice en cours, ce projet d’arche monumentale de 76 mètres de haut a franchi une étape décisive avec l’aval de la Commission nationale de planification de la capitale."
-      ],
-      "publishedAt": "2026-11-06T04:57:10+00:00",
-      "updatedAt": "2026-11-06T04:57:10+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/l-immense-arc-de-triomphe-souhaite-par-donald-trump-a-washington-valide-par-une-commission-publique_6807717_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "935a2a24f7250da28479d0894e3a693ee23f63738fc54623a8d25ced8aa89a40",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-6de4ad8871d11134d0",
       "revision": 1,
       "category": "world",
@@ -792,28 +797,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e96b780a8ca381e4f0",
+      "id": "rss-1344132ed1abe852e4",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme « L’Avenir en commun » autour du concept de « nouvelle France »",
       "bullets": [
-        "Des internautes dont les vidéos ont été supprimées ou qui ont constaté une baisse du nombre de vues dénoncent une invisibilisation orchestrée par les plateformes sous pression politique.",
-        "Difficile à étayer, ce sentiment s’explique néanmoins par l’opacité des réseaux sociaux et l’obsession du gouvernement à leur égard."
+        "Son livre-programme, en librairie à partir du 6 novembre, érige la bifurcation écologique en première priorité et réaffirme la promesse de la retraite à 60 ans, tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
       ],
-      "publishedAt": "2026-11-06T05:00:38+00:00",
-      "updatedAt": "2026-11-06T05:00:38+00:00",
+      "publishedAt": "2026-11-06T05:30:04+00:00",
+      "updatedAt": "2026-11-06T05:30:04+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "22338c00203dc25dcc60c4f472626423ce895cb3c25a1de9a3a40823da9a9861",
+      "summaryInput": "6211fc52644b4e2e9ffd21c05f5cefe14c26e9b583bfa8a7f657c0eb58b6e64d",
       "detailLevel": "preview"
     },
     {
@@ -933,7 +937,7 @@
       ],
       "publishedAt": "2026-11-04T18:10:49+00:00",
       "updatedAt": "2026-11-04T18:10:49+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -984,7 +988,7 @@
       ],
       "publishedAt": "2026-11-04T17:24:50+00:00",
       "updatedAt": "2026-11-04T17:24:50+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1008,7 +1012,7 @@
       ],
       "publishedAt": "2026-11-05T17:30:03+00:00",
       "updatedAt": "2026-11-05T17:30:03+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1175,28 +1179,28 @@
       "context": null
     },
     {
-      "id": "rss-8b756b7d3b2093f348",
+      "id": "rss-e96b780a8ca381e4f0",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Grève du 5 novembre : Lecornu convoque syndicats et patronat pour une « conférence sociale » à Matignon",
+      "title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
       "bullets": [
-        "Avec ce rendez-vous prévu lundi 9 novembre, le premier ministre espère engager un dialogue plus balisé que le tête-à-tête avec les mouvements de jeunes.",
-        "Mais les marges de manœuvre sont faibles pour des avancées sur le pouvoir d’achat et les salaires."
+        "Des internautes dont les vidéos ont été supprimées ou qui ont constaté une baisse du nombre de vues dénoncent une invisibilisation orchestrée par les plateformes sous pression politique.",
+        "Difficile à étayer, ce sentiment s’explique néanmoins par l’opacité des réseaux sociaux et l’obsession du gouvernement à leur égard."
       ],
-      "publishedAt": "2026-11-06T04:45:03+00:00",
-      "updatedAt": "2026-11-06T04:45:03+00:00",
+      "publishedAt": "2026-11-06T05:00:38+00:00",
+      "updatedAt": "2026-11-06T05:00:38+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-lecornu-convoque-syndicats-et-patronat-pour-une-conference-sociale-a-matignon_6807684_823448.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "73fdfcfd0926ce793077c3c03806463942c85833b25bc2fb3c8703f189359aae",
+      "summaryInput": "22338c00203dc25dcc60c4f472626423ce895cb3c25a1de9a3a40823da9a9861",
       "detailLevel": "preview"
     }
   ],
@@ -1259,7 +1263,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1277,7 +1281,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
