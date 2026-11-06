@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T13:20:10.094881+00:00",
+  "preparedAt": "2026-11-06T14:58:48.402303+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -87,86 +87,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2eab4868a255c5fe47",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le salaire de base du privé en baisse sur un an, en prenant en compte l’inflation",
-      "bullets": [
-        "Le salaire mensuel de base dans le secteur privé a baissé de 1,1% sur un an au troisième trimestre en prenant en compte l'inflation, selon des résultats trimestriels provisoires du ministère du Travail, publiés vendredi en plein mouvement social pour une hausse des rémunérations.",
-        "Mais en euros constants, c'est-à-dire en prenant en compte l'inflation, il a baissé de 1,1 % sur un an.",
-        "En euros constants, il baisse sur un an de 1,2 % pour les ouvriers, de 0,8 % pour les employés et de 1,3 % pour les professions intermédiaires et les cadres."
-      ],
-      "publishedAt": "2026-11-06T10:09:47+00:00",
-      "updatedAt": "2026-11-06T10:09:47+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/le-salaire-de-base-du-prive-en-baisse-sur-un-an-en-prenant-en-compte-l-inflation-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "69b06b8c353071c5e3f2e4ccaf744993ca749f699ae491b8e67d9f23cac0ff8a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fa4c98ba34aa686261",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Le chauffage avant décembre ? Jamais !\" : contraints d'économiser à cause de l'inflation, des utilisateurs de TikTok partagent des astuces pour supporter le froid",
-      "bullets": [
-        "Après une augmentation de 6,6% au 1er novembre, les tarifs du gaz pourraient connaître une nouvelle hausse en décembre.",
-        "Au 1er décembre, le prix repère du gaz va augmenter de 7%.",
-        "Dans son logement, le thermomètre affiche 16 degrés, mais pas question de céder : \"Payer le chauffage avant décembre ?"
-      ],
-      "publishedAt": "2026-11-06T05:09:42+00:00",
-      "updatedAt": "2026-11-06T05:09:42+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/le-chauffage-avant-decembre-jamais-contraints-d-economiser-a-cause-de-l-inflation-des-utilisateurs-de-tiktok-partagent-des-astuces-pour-supporter-le-froid_8269046.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "3d59331a232fe6f67484d25fef9341a1133371f9410bc7a2482109664ce75d40",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0bd2f7fd29e8f8ad28",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Alertes à la bombe : quatre vols commerciaux survolant la France se sont posés « sans encombre »",
-      "bullets": [
-        "Plusieurs vols européens ont été perturbés, vendredi, alors qu’une série d’alertes à la bombe, jusque-là toutes fausses, sévit depuis le début de la semaine."
-      ],
-      "publishedAt": "2026-11-06T12:41:25+00:00",
-      "updatedAt": "2026-11-06T12:41:25+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1bcce91c3d48e1c0a85857fb185f762152a81a4a693eea42e4fe851149d6972d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1620ca18135aa8bf8b",
       "revision": 1,
       "category": "eco",
@@ -230,8 +150,8 @@
         "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
         "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
       ],
-      "publishedAt": "2026-11-06T12:50:53+00:00",
-      "updatedAt": "2026-11-06T12:50:53+00:00",
+      "publishedAt": "2026-11-06T14:26:52+00:00",
+      "updatedAt": "2026-11-06T14:26:52+00:00",
       "importance": 65,
       "sources": [
         {
@@ -328,32 +248,85 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-58a87ea435c000672f",
+      "id": "rss-d063fea02fab7477f4",
       "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Le Nikkei, à Tokyo, et le Kospi, à Séoul, terminent la semaine sur un plongeon de 6 %, dans le sillage du Nasdaq",
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Colère sociale : l'intersyndicale décidera des suites de la mobilisation après la réunion de lundi à Matignon",
       "bullets": [
-        "Le Nikkei a conclu la séance de vendredi sur une baisse de 5,96 %, à 57.434 points.",
-        "La veille à New York, le Nasdaq, qui regroupe de nombreuses valeurs technologiques, avait plongé de 5,52 %, sa plus forte chute depuis avril 2025, quand le président américain Donald Trump avait imposé des droits de douane au monde entier.",
-        "De plus, les habitants de dizaines de villes américaines ont adopté mardi des restrictions ou des interdictions concernant les «data centers»."
+        "L'intersyndicale à l'origine de la journée de manifestations de jeudi décidera de la suite de la mobilisation à l'issue de la conférence sociale organisée lundi 9 novembre par Matignon, a-t-elle indiqué ce vendredi 6 novembre.",
+        "Les syndicats revendiquent une participation de plus de 1,5 million de personnes - les autorités ont recensé 575.000 manifestants.",
+        "Au moins 100 euros de plus pour le Smic «Rendez-vous lundi soir», a déclaré sur RTL la secrétaire générale de la CFDT Marylise Léon, interrogée sur la suite à donner à la mobilisation."
       ],
-      "publishedAt": "2026-11-06T07:59:20+00:00",
-      "updatedAt": "2026-11-06T07:59:20+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-06T08:00:10+00:00",
+      "updatedAt": "2026-11-06T08:00:10+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-eco/le-nikkei-a-tokyo-et-le-kospi-a-seoul-terminent-la-semaine-sur-un-plongeon-de-6-20261106",
+          "url": "https://www.lefigaro.fr/social/colere-sociale-l-intersyndicale-decidera-des-suites-de-la-mobilisation-apres-la-reunion-de-lundi-a-matignon-20261106",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "5cd001a05e68e253ac117f3455c26776989cc66e8996d412ccb0017d2736a985",
+      "summaryInput": "a1663a441840139ebaea0765771eacf1b4545d1ff2bb4e6475e99cc44f930fc5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
       "context": null
+    },
+    {
+      "id": "rss-9e4b7eae1748edb85a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
+      "bullets": [
+        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
+        "Les syndicats réclament entre 100 et 150 euros net de plus.",
+        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
+      ],
+      "publishedAt": "2026-11-06T07:38:30+00:00",
+      "updatedAt": "2026-11-06T07:38:30+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-2705e5b33d0c318dd9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
+      "bullets": [
+        "Le premier ministre a envoyé deux nouveaux courriers aux banques françaises.",
+        "Celles-ci plaident pour une solution impliquant des établissements financiers détenus directement ou indirectement par l’Etat."
+      ],
+      "publishedAt": "2026-11-05T16:44:37+00:00",
+      "updatedAt": "2026-11-05T16:44:37+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3319c7001e325c4c49724a7162d8d463babc891553232bec05717636fa2c2729",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-6ac920303efec7af2f",
@@ -378,31 +351,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-93fdf30335e1247e75",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Wall Street plonge, vent de panique sur l’IA : le Nasdaq perd 2500 milliards de capitalisation après la victoire démocrate aux midterms",
-      "bullets": [
-        "La vague bleue pourrait aboutir à la remise en question de nombreux projets de data centers dans le pays ainsi qu'à de nouvelles régulations sur les acteurs du secteur.",
-        "Le Nasdaq a vécu jeudi sa pire journée depuis avril 2025."
-      ],
-      "publishedAt": "2026-11-06T10:28:30+00:00",
-      "updatedAt": "2026-11-06T10:28:30+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-eco/wall-street-l-indice-nasdaq-s-enfonce-de-plus-de-3-face-aux-craintes-sur-l-ia-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b88660ad20ba48616522e48f73f1352372bcde5b4fb4b6d954d8980643f92b15",
       "detailLevel": "preview"
     },
     {
@@ -444,8 +392,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T13:19:58+00:00",
-      "updatedAt": "2026-11-06T13:19:58+00:00",
+      "publishedAt": "2026-11-06T14:55:09+00:00",
+      "updatedAt": "2026-11-06T14:55:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -913,8 +861,8 @@
       "bullets": [
         "La place de la Concorde est « un lieu emblématique, près de l’Assemblée nationale, un lieu de pouvoir », a souligné leur avocat, David Libeskind, estimant que la manifestation prévue sur le parcours intersyndical autorisé, entre les places de la République et de la Nation, ne les « concerne pas…"
       ],
-      "publishedAt": "2026-11-06T13:02:41+00:00",
-      "updatedAt": "2026-11-06T13:02:41+00:00",
+      "publishedAt": "2026-11-06T13:02:40+00:00",
+      "updatedAt": "2026-11-06T13:02:40+00:00",
       "importance": 77,
       "sources": [
         {
@@ -977,31 +925,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cca178c75d92f463e2",
+      "id": "rss-ec55f3af75faf2eea8",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "VIDEO. Mutuelles, système de santé : et si l’Alsace-Moselle avait tout compris ?",
+      "title": "Les frigos de l'Établissement français du sang ont été piratés, aucune perte n'est à déplorer",
       "bullets": [
-        "Quelque 16 milliards d’euros de déficit de l’Assurance Maladie en 2025, une hausse des cotisations des complémentaires santé de 40% depuis 2011 : notre santé coûte de plus en plus cher.",
-        "En tout, plus de 2 millions de personnes sont concernées.",
-        "Nulle magie, ce sont les assurés d'Alsace-Moselle qui le financent : ils versent une cotisation supplémentaire de 1,3% de leur revenu brut."
+        "L'attaque a eu lieu dans la nuit du dimanche 1er au lundi 2 novembre contre trois sites de l'Établissement français du sang (EFS).",
+        "Ce mode opératoire rappelle l'attaque contre plusieurs grands magasins et leur système de réfrigération en octobre.",
+        "Ces cyberagressions se sont répétées lundi 2 novembre dans une dizaine de pays européens."
       ],
-      "publishedAt": "2026-11-04T09:12:25+00:00",
-      "updatedAt": "2026-11-04T09:12:25+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-04T16:21:55+00:00",
+      "updatedAt": "2026-11-04T16:21:55+00:00",
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/video-mutuelles-systeme-de-sante-et-si-l-alsace-moselle-avait-tout-compris_8260493.html",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-frigos-de-l-etablissement-francais-du-sang-ont-ete-pirates-mais-aucune-perte-n-est-a-deplorer_8267747.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "be82154d9710cfc73ae3254740874f4b829fe67ea77c1a6a06ff0815fe58f7ba",
+      "summaryInput": "e876fad2c43e1204e85cf07f2d0714f8798bf5e1f70d5bd2a6997fa31ae694bc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
+      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
       "context": null
     },
     {
@@ -1287,29 +1235,32 @@
       "context": null
     },
     {
-      "id": "rss-d608be2d6012bdee6a",
+      "id": "rss-c24b381e8fc288f3b3",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
       "bullets": [
-        "Le gouvernement anticipe une hausse du smic avant la revalorisation automatique du 1er janvier, face aux mobilisations sociales contre la vie chère.",
-        "Sébastien Lecornu réunit lundi 9 novembre à Matignon une « conférence sociale » avec les organisations syndicales et patronales."
+        "Mais quel est donc le calcul de Matignon ?",
+        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
+        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
       ],
-      "publishedAt": "2026-11-06T08:25:47+00:00",
-      "updatedAt": "2026-11-06T08:25:47+00:00",
+      "publishedAt": "2026-11-06T14:10:59+00:00",
+      "updatedAt": "2026-11-06T14:10:59+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "98806333b0878abb6293aea9eed7d14b2b1c0104c377f3621ef90a3332bfbf77",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1323,7 +1274,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1371,7 +1322,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1389,7 +1340,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1425,7 +1376,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
