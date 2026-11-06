@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T12:04:38.063787+00:00",
+  "preparedAt": "2026-11-06T13:20:10.094881+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,42 +35,18 @@
       "context": null
     },
     {
-      "id": "rss-0324125132b0e53552",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
-      "bullets": [
-        "L’ancien économiste en chef du Fonds monétaire international estime que le Rassemblement national défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs »."
-      ],
-      "publishedAt": "2026-11-06T05:00:27+00:00",
-      "updatedAt": "2026-11-06T05:00:27+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1b1cbc286c0650f5d8c8fb1a83709db2d0a9cae1013df910ebef5402afa90f24",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a30840597ab9f2515c",
-      "revision": 2,
+      "revision": 3,
       "category": "eco",
       "topic": "Économie",
       "title": "Plusieurs nouvelles alertes à la bombe sur des avions survolant la France, le gouvernement annonce une enquête",
       "bullets": [
-        "Un vol de la compagnie Ryanair qui devait partir de Lisbonne en direction de Rome vendredi matin a été visé par une «menace de bombe» qui s’est avérée une fausse alerte, ont annoncé les autorités portugaises.",
-        "Les menaces concernent les vols arrivant du Danemark, de l’Espagne et de la Grande-Bretagne.",
-        "Quatre nouvelles alertes à la bombe ont été émises vendredi sur des avions survolant le territoire français, qui ont atterri «sans encombre», et sur lesquels les services de déminage «procèdent aux inspections de sécurité», a par ailleurs annoncé Matignon."
+        "Quatre nouvelles alertes à la bombe ont été émises vendredi sur des avions survolant le territoire français, qui ont atterri «sans encombre», et sur lesquels les services de déminage «procèdent aux inspections de sécurité», a par ailleurs annoncé Matignon.",
+        "Les menaces concernent des vols en provenance du Danemark, de Grande-Bretagne et deux d’Espagne.",
+        "L’armée de l’Air française a annoncé que deux de ses avions de combat avaient escorté en Normandie un appareil de la compagnie irlandaise Aer Lingus, qui reliait Dublin à Rome, après une alerte des autorités italiennes."
       ],
-      "publishedAt": "2026-11-06T11:33:26+00:00",
-      "updatedAt": "2026-11-06T11:33:26+00:00",
+      "publishedAt": "2026-11-06T12:46:11+00:00",
+      "updatedAt": "2026-11-06T12:46:11+00:00",
       "importance": 73,
       "sources": [
         {
@@ -81,9 +57,9 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "9bd8c82ea8c6cb01765ea328d264413c8fa66355d48bc165f580d6ca411ab4fa",
+      "summaryInput": "d1e7c2e8613634b4f25b05bbde51bcc15e67a86b855fb4fb93f070b0fe110a10",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
+      "enrichedAt": "2026-11-06T13:20:10.094881+00:00",
       "context": null
     },
     {
@@ -167,6 +143,58 @@
       "context": null
     },
     {
+      "id": "rss-0bd2f7fd29e8f8ad28",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Alertes à la bombe : quatre vols commerciaux survolant la France se sont posés « sans encombre »",
+      "bullets": [
+        "Plusieurs vols européens ont été perturbés, vendredi, alors qu’une série d’alertes à la bombe, jusque-là toutes fausses, sévit depuis le début de la semaine."
+      ],
+      "publishedAt": "2026-11-06T12:41:25+00:00",
+      "updatedAt": "2026-11-06T12:41:25+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1bcce91c3d48e1c0a85857fb185f762152a81a4a693eea42e4fe851149d6972d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1620ca18135aa8bf8b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
+      "bullets": [
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
+      ],
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T13:20:10.094881+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -190,6 +218,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8dcbae40e0e5cadd9ef292749d860d48b6e7288fb3056b086847bf38ca907f97",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-41d2340e0f38ecfac8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
+      "bullets": [
+        "Or celui-ci est revalorisé automatiquement, chaque 1er janvier et dès que l’inflation dépasse 2 %.",
+        "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
+        "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
+      ],
+      "publishedAt": "2026-11-06T12:50:53+00:00",
+      "updatedAt": "2026-11-06T12:50:53+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "3c1c3e63db4fbe966c5244ceac2545428ef2669dc479580ebd630ba5ca096884",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T13:20:10.094881+00:00",
+      "context": null
     },
     {
       "id": "rss-ab62cb11f259092c73",
@@ -270,62 +326,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9d4da2784284b91c881ddd1d684998cfe4fb5167b7db3b9a032b12cd795cab31",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-51817aa6692e68d3b4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Nous recherchons les meilleurs» : en Argentine, le gouvernement recrute… des espions à tour de bras",
-      "bullets": [
-        "Nous vivons dans un contexte international changeant et troublé.",
-        "Après deux augmentations cette année, le Side dispose fin 2026 d’un budget avoisinant 176 milliards de pesos (environ 112 millions de dollars), soit plus de dix fois ce dont il disposait il y a trois ans sous son nom d’alors, l’Agence fédérale de renseignement (AFI).",
-        "Près de 80.000 emplois publics ont été supprimés depuis trois ans sous la présidence de l’ultralibéral Javier Milei, qui a en outre lancé mi-octobre un nouveau plan de départs volontaires visant potentiellement 20.000 agents de l’État."
-      ],
-      "publishedAt": "2026-11-06T09:07:16+00:00",
-      "updatedAt": "2026-11-06T09:07:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vie-professionnelle/nous-recherchons-les-meilleurs-en-argentine-le-gouvernement-recrute-des-espions-a-tour-de-bras-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "67645392dbdc432dcf53c51b5c3a31635674c79ef5bf87db87417e5db5aee5a3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d063fea02fab7477f4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Colère sociale : l'intersyndicale décidera des suites de la mobilisation après la réunion de lundi à Matignon",
-      "bullets": [
-        "L'intersyndicale à l'origine de la journée de manifestations de jeudi décidera de la suite de la mobilisation à l'issue de la conférence sociale organisée lundi 9 novembre par Matignon, a-t-elle indiqué ce vendredi 6 novembre.",
-        "Les syndicats revendiquent une participation de plus de 1,5 million de personnes - les autorités ont recensé 575.000 manifestants.",
-        "Au moins 100 euros de plus pour le Smic «Rendez-vous lundi soir», a déclaré sur RTL la secrétaire générale de la CFDT Marylise Léon, interrogée sur la suite à donner à la mobilisation."
-      ],
-      "publishedAt": "2026-11-06T08:00:10+00:00",
-      "updatedAt": "2026-11-06T08:00:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/colere-sociale-l-intersyndicale-decidera-des-suites-de-la-mobilisation-apres-la-reunion-de-lundi-a-matignon-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "a1663a441840139ebaea0765771eacf1b4545d1ff2bb4e6475e99cc44f930fc5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
-      "context": null
     },
     {
       "id": "rss-58a87ea435c000672f",
@@ -418,7 +418,7 @@
       ],
       "publishedAt": "2026-11-04T12:16:43+00:00",
       "updatedAt": "2026-11-04T12:16:43+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -444,8 +444,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T12:00:06+00:00",
-      "updatedAt": "2026-11-06T12:00:06+00:00",
+      "publishedAt": "2026-11-06T13:19:58+00:00",
+      "updatedAt": "2026-11-06T13:19:58+00:00",
       "importance": 69,
       "sources": [
         {
@@ -516,6 +516,34 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": "Résultats du troisième trimestre"
+    },
+    {
+      "id": "rss-5a8042ce4fa328ece6",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "BONDUELLE : Les Américains boudent ses salades à cause d'un parasite, les Européens plébiscitent ses conserves... Bonduelle résiste et grimpe en Bourse",
+      "bullets": [
+        "Entre juillet et fin septembre, période correspondant au troisième trimestre civil, Bonduelle a réalisé un chiffre d’affaires de 524,8 millions d’euros, en hausse de 1% en données publiées et de 0,5% à données comparables.",
+        "Allinvest Securities remarque que ce début d’exercice s’inscrit dans la continuité de l’exercice 2025-2026, qui s’était achevé sur une croissance de 0,4% à données comparables, mais bénéficie du retour d’un effet de change favorable.",
+        "Par segment, le trimestre se caractérise par une croissance soutenue de l’activité des conserves, en hausse de 9,8% à données comparables."
+      ],
+      "publishedAt": "2026-11-06T12:35:54+00:00",
+      "updatedAt": "2026-11-06T12:35:54+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/bonduelle-FR0000063935/actualites/bonduelle-les-americains-boudent-ses-salades-a-cause-d-un-parasite-les-europeens-plebiscitent-ses-conserves-bonduelle-resiste-et-grimpe-en-bourse-1173335.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "c97fd56f3e1933033eb184d7f7c46f1c4dbfdf792cced22edc7c46c54177b755",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T13:20:10.094881+00:00",
+      "context": null
     },
     {
       "id": "rss-0dc1780ac97141bab1",
@@ -654,6 +682,30 @@
       "context": null
     },
     {
+      "id": "rss-944a9c9bd968a98588",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : l’espoir ravivé des gauches latino-américaines après la victoire des démocrates",
+      "bullets": [
+        "La réélection du président brésilien, Luiz Inacio Lula da Silva, et la victoire des démocrates au Congrès des Etats-Unis apparaissent comme un revers majeur pour les dirigeants de la région qui se sont alignés sans réserve sur Donald Trump."
+      ],
+      "publishedAt": "2026-11-06T13:00:07+00:00",
+      "updatedAt": "2026-11-06T13:00:07+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-l-espoir-ravive-des-gauches-latino-americaines-apres-la-victoire-des-democrates_6807788_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "de38edc5591814ff69864ece2f97f8c57c5f6db8d99fe6843521ff6bcf5858f5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-87b4b550ad1e3f68a0",
       "revision": 1,
       "category": "world",
@@ -663,8 +715,8 @@
         "Le chef du gouvernement belge avait proposé sa démission lundi.",
         "Le conservateur flamand souhaite un effort budgétaire massif de 10 milliards d’euros d’ici à 2029, auquel s’oppose l’un des partenaires de la coalition, le Mouvement réformateur."
       ],
-      "publishedAt": "2026-11-06T11:58:48+00:00",
-      "updatedAt": "2026-11-06T11:58:48+00:00",
+      "publishedAt": "2026-11-06T11:58:46+00:00",
+      "updatedAt": "2026-11-06T11:58:46+00:00",
       "importance": 77,
       "sources": [
         {
@@ -853,55 +905,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-78e1ae9c20a0cdd36e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Fausse alerte à la bombe : un groupuscule russe en cause ?",
-      "bullets": [
-        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d’appareils.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
-      ],
-      "publishedAt": "2026-11-06T08:26:28+00:00",
-      "updatedAt": "2026-11-06T08:26:28+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/fausse-alerte-a-la-bombe-un-groupuscule-russe-en-cause_8270486.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "ccd41b74b5e494e28e8576ce91520cf6bea23a9091b1d137c696313e1d3a324d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7694bd29cf0d4b4b56",
+      "id": "rss-59d81531613fc5fab9",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "« Au RN, les élus n’ont pas à discuter des choix opérés pour eux par la direction du parti »",
+      "title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
       "bullets": [
-        "Qu’il s’agisse de l’élection de Jordan Bardella à la tête du Rassemblement national ou de la constitution des groupes à l’Assemblée nationale et au Sénat, la juriste Dorothée Reignier observe, dans une tribune au « Monde », un fonctionnement peu démocratique au sein du parti d’extrême droite, qui lui rappelle…"
+        "La place de la Concorde est « un lieu emblématique, près de l’Assemblée nationale, un lieu de pouvoir », a souligné leur avocat, David Libeskind, estimant que la manifestation prévue sur le parcours intersyndical autorisé, entre les places de la République et de la Nation, ne les « concerne pas…"
       ],
-      "publishedAt": "2026-11-06T10:00:05+00:00",
-      "updatedAt": "2026-11-06T10:00:05+00:00",
+      "publishedAt": "2026-11-06T13:02:41+00:00",
+      "updatedAt": "2026-11-06T13:02:41+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/06/au-rn-les-elus-n-ont-pas-a-discuter-des-choix-operes-pour-eux-par-la-direction-du-parti_6807762_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-a-paris-des-gilets-jaunes-maintiennent-leur-appel-a-un-rassemblement-place-de-la-concorde-interdit-par-la-prefecture-de-police_6807790_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "1db5285bb2acf427e2360d48c40491cba6c4fe6fa59f903fd470b98ab1e3782b",
+      "summaryInput": "affc41fde5bd8fa46aff019785fcbe95522dc993e75fd3d2270f480d6da6ad3a",
       "detailLevel": "preview"
     },
     {
@@ -989,8 +1013,8 @@
       "bullets": [
         "Réunie en session extraordinaire, l’Assemblée de Corse a voté après un long débat et des échanges parfois houleux une résolution pour relancer le processus d’autonomie et sortir de la crise ouverte par le vote du Sénat fin octobre."
       ],
-      "publishedAt": "2026-11-06T10:35:01+00:00",
-      "updatedAt": "2026-11-06T10:35:01+00:00",
+      "publishedAt": "2026-11-06T10:35:00+00:00",
+      "updatedAt": "2026-11-06T10:35:00+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1015,8 +1039,8 @@
         "Les appareils se sont posés en France, sans encombre, et les services de déminage procèdent aux inspections de sécurité, affirment les services du Premier ministre, qui ajoutent qu'une enquête est en cours pour déterminer l’origine de ces alertes.",
         "Les menaces concernent les vols arrivant du Danemark, de l'Espagne et de la Grande-Bretagne."
       ],
-      "publishedAt": "2026-11-06T11:33:27+00:00",
-      "updatedAt": "2026-11-06T11:33:27+00:00",
+      "publishedAt": "2026-11-06T12:55:16+00:00",
+      "updatedAt": "2026-11-06T12:55:16+00:00",
       "importance": 73,
       "sources": [
         {
@@ -1121,7 +1145,7 @@
       ],
       "publishedAt": "2026-11-03T12:32:24+00:00",
       "updatedAt": "2026-11-03T12:32:24+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1132,6 +1156,30 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7694bd29cf0d4b4b56",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "« Au RN, les élus n’ont pas à discuter des choix opérés pour eux par la direction du parti »",
+      "bullets": [
+        "Qu’il s’agisse de l’élection de Jordan Bardella à la tête du Rassemblement national ou de la constitution des groupes à l’Assemblée nationale et au Sénat, la juriste Dorothée Reignier observe, dans une tribune au « Monde », un fonctionnement peu démocratique au sein du parti d’extrême droite, qui lui rappelle…"
+      ],
+      "publishedAt": "2026-11-06T10:00:05+00:00",
+      "updatedAt": "2026-11-06T10:00:05+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/06/au-rn-les-elus-n-ont-pas-a-discuter-des-choix-operes-pour-eux-par-la-direction-du-parti_6807762_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1db5285bb2acf427e2360d48c40491cba6c4fe6fa59f903fd470b98ab1e3782b",
       "detailLevel": "preview"
     },
     {
@@ -1262,30 +1310,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "98806333b0878abb6293aea9eed7d14b2b1c0104c377f3621ef90a3332bfbf77",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1344132ed1abe852e4",
-      "revision": 3,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
-      "bullets": [
-        "Le programme de La France insoumise, paru ce vendredi, érige la bifurcation écologique en priorité absolue tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
-      ],
-      "publishedAt": "2026-11-06T05:30:00+00:00",
-      "updatedAt": "2026-11-06T05:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7932e201793064e05d26d33be20b1a5f71d6bd8a7bd81d794215c3d51ce62464",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1323,13 +1347,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1347,7 +1371,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Le Figaro",
@@ -1365,13 +1389,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
