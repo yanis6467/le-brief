@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T17:02:48.829719+00:00",
+  "preparedAt": "2026-11-06T17:56:17.370764+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -222,31 +222,6 @@
       "context": null
     },
     {
-      "id": "rss-e1f775d51c8672f8ba",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
-      "bullets": [
-        "Plusieurs pays, dont la France, ont dû mobiliser leur armée de l’air pour escorter des avions de ligne menacés par des alertes à la bombe.",
-        "Une vingtaine de vols étaient concernés, ce qui laisse supposer une opération coordonnée."
-      ],
-      "publishedAt": "2026-11-05T20:57:03+00:00",
-      "updatedAt": "2026-11-05T20:57:03+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8dcbae40e0e5cadd9ef292749d860d48b6e7288fb3056b086847bf38ca907f97",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c6937783884c6b7207",
       "revision": 1,
       "category": "eco",
@@ -328,6 +303,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-9e4b7eae1748edb85a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
+      "bullets": [
+        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
+        "Les syndicats réclament entre 100 et 150 euros net de plus.",
+        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
+      ],
+      "publishedAt": "2026-11-06T07:38:30+00:00",
+      "updatedAt": "2026-11-06T07:38:30+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -366,8 +369,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T16:58:23+00:00",
-      "updatedAt": "2026-11-06T16:58:23+00:00",
+      "publishedAt": "2026-11-06T17:54:32+00:00",
+      "updatedAt": "2026-11-06T17:54:32+00:00",
       "importance": 69,
       "sources": [
         {
@@ -381,6 +384,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-2f9124f9e493356211",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+      "bullets": [
+        "L’indice parisien a perdu jusqu’à 1,9% en séance, avant de réduire ses pertes à l’ouverture des marchés américains.",
+        "Le S&P 500 avait alors chuté de 4,4%, tandis que le Nasdaq Composite avait abandonné 5,5%, signant sa plus forte baisse en 19 mois.",
+        "Quelque 165.000 postes ont été créés, tandis que le taux de chômage a légèrement reculé, de 4,2% à 4,1%."
+      ],
+      "publishedAt": "2026-11-06T16:57:35+00:00",
+      "updatedAt": "2026-11-06T16:57:35+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "e6cccf66d351a43e2848821e20721d3a2eb137d40801482a1688d82e1c94db3c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
       "context": null
     },
     {
@@ -409,34 +440,6 @@
       "summaryInput": "644a84b93b4ec60ec21019253a992dcb77b983714c2c940b71df2842c9fe73ae",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-a4d99f9f020edfd235",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Alors que le Nasdaq a accusé sa pire séance en 19 mois, le CAC 40 chute de 1,8%, rattrapé par le climat d'aversion au risque",
-      "bullets": [
-        "Le S&P 500 a chuté de 4,4% et le Nasdaq Composite a reculé de 5,5%, accusant sa plus forte baisse en 19 mois.",
-        "Du côté des valeurs, le marché parisien est vendu dans sa globalité, 37 des 40 actions du CAC 40 évoluant dans le rouge, avec Capgemini (-3,9%) et LVMH (-3,8%) qui accusent les plus fortes baisses.",
-        "L'ex-Teleperformance TP chute de 17% après avoir publié une croissance décevante et abaissé ses perspectives 2026."
-      ],
-      "publishedAt": "2026-11-06T11:26:28+00:00",
-      "updatedAt": "2026-11-06T11:26:28+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-le-nasdaq-a-accuse-sa-pire-seance-en-19-mois-le-cac-40-chute-de-18-rattrape-par-le-climat-d-aversion-au-risque-1173337.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "4be2bd685b9a0b2e7ab0e87a0b9e8c7d26503f03a1d19e4b8f42a90e8fde1c99",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
       "context": null
     },
     {
@@ -520,7 +523,7 @@
       "provenance": "article-extract",
       "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -555,7 +558,7 @@
       "id": "rss-9e100ae98eccaf0c49",
       "revision": 1,
       "category": "world",
-      "topic": "International",
+      "topic": "Politique",
       "title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
       "bullets": [
         "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine."
@@ -803,16 +806,40 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f7f770332a58ea4390",
+      "id": "rss-3175c2b7d30681cb77",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La ratification par le Parlement turc du « pacte de la Mecque » convoque pour l’opposition le souvenir douloureux des guerres ottomanes au Yémen",
+      "title": "A Makalé, capitale d’un Tigré retombé aux mains de l’armée éthiopienne, l’écho persistant de la guerre",
+      "bullets": [
+        "La ville a été reprise par l’armée fédérale le 3 octobre. Chassés de leur fief historique, les rebelles tigréens se sont retranchés dans les zones montagneuses de la région. Le retour du conflit ravive les blessures de la guerre de 2020, au cours de laquelle Makalé avait subi un siège…"
+      ],
+      "publishedAt": "2026-11-06T17:00:16+00:00",
+      "updatedAt": "2026-11-06T17:00:16+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/06/a-makale-capitale-d-un-tigre-retombe-aux-mains-de-l-armee-ethiopienne-l-echo-persistant-de-la-guerre_6807836_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7cf2db3e775d270adbb7b8ec93ae99502b7d5cf6c5831d00e4ed4f6b0e7cfc63",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f7f770332a58ea4390",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "La ratification par le Parlement turc du « pacte de La Mecque » convoque pour l’opposition le souvenir douloureux des guerres ottomanes au Yémen",
       "bullets": [
         "L’alliance militaire entre la Turquie, le Pakistan et l’Arabie saoudite, qui calque en apparence la clause de défense mutuelle de l’OTAN, laisse toutefois aux parties la décision de la nature et de l’ampleur de leur aide alors qu’un risque d’intervention au Yémen est critiqué par ses détracteurs."
       ],
-      "publishedAt": "2026-11-06T16:48:14+00:00",
-      "updatedAt": "2026-11-06T16:48:14+00:00",
+      "publishedAt": "2026-11-06T16:48:12+00:00",
+      "updatedAt": "2026-11-06T16:48:12+00:00",
       "importance": 67,
       "sources": [
         {
@@ -823,31 +850,7 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "a902cdbc3f8c806146635a50d430f6602333dce5d1062623133f54fb649becdd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6de4ad8871d11134d0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
-      "bullets": [
-        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
-      ],
-      "publishedAt": "2026-11-06T09:13:08+00:00",
-      "updatedAt": "2026-11-06T09:13:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
+      "summaryInput": "253223155cf48b2c0c25a497561ea9f6cf749fccd3019e726cd0b3cad4bb8eaf",
       "detailLevel": "preview"
     },
     {
@@ -875,28 +878,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-59d81531613fc5fab9",
+      "id": "rss-c24b381e8fc288f3b3",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
+      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
       "bullets": [
-        "La place de la Concorde est « un lieu emblématique, près de l’Assemblée nationale, un lieu de pouvoir », a souligné leur avocat, David Libeskind, estimant que la manifestation prévue sur le parcours intersyndical autorisé, entre les places de la République et de la Nation, ne les « concerne pas…"
+        "Mais quel est donc le calcul de Matignon ?",
+        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
+        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
       ],
-      "publishedAt": "2026-11-06T13:02:40+00:00",
-      "updatedAt": "2026-11-06T13:02:40+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-06T14:10:59+00:00",
+      "updatedAt": "2026-11-06T14:10:59+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-a-paris-des-gilets-jaunes-maintiennent-leur-appel-a-un-rassemblement-place-de-la-concorde-interdit-par-la-prefecture-de-police_6807790_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "affc41fde5bd8fa46aff019785fcbe95522dc993e75fd3d2270f480d6da6ad3a",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -1067,7 +1074,7 @@
       ],
       "publishedAt": "2026-11-04T17:24:50+00:00",
       "updatedAt": "2026-11-04T17:24:50+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1233,32 +1240,28 @@
       "context": null
     },
     {
-      "id": "rss-c24b381e8fc288f3b3",
+      "id": "rss-25629de4d53a5eaff5",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
+      "topic": "Politique",
+      "title": "Budget 2027 : « Si nous croyons dans l’avenir de la France, il faut inciter les épargnants français à investir dans sa dette »",
       "bullets": [
-        "Mais quel est donc le calcul de Matignon ?",
-        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
-        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
+        "A l’image du Japon, l’Etat français devrait lancer un emprunt auprès de ses épargnants, comme l’avait fait le ministre des finances Antoine Pinay dans les années 1950, explique, dans une tribune au « Monde », Stéphan Bourcieu, directeur général de l’école de commerce Burgundy School of Business, et Bruno Duchesne…"
       ],
-      "publishedAt": "2026-11-06T14:10:59+00:00",
-      "updatedAt": "2026-11-06T14:10:59+00:00",
+      "publishedAt": "2026-11-06T14:00:00+00:00",
+      "updatedAt": "2026-11-06T14:00:00+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/06/budget-2027-si-nous-croyons-dans-l-avenir-de-la-france-il-faut-inciter-les-epargnants-francais-a-investir-dans-sa-dette_6807794_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "37a54f3ab6df05b283f8606e3955084cd8dd5a15b6c6b1dde690e28222554ec0",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1296,7 +1299,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1308,7 +1311,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Figaro",
@@ -1320,13 +1323,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1338,7 +1341,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1356,7 +1359,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
@@ -1374,7 +1377,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
