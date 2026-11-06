@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T17:56:17.370764+00:00",
+  "preparedAt": "2026-11-06T19:05:34.528847+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -88,6 +88,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
       "context": null
+    },
+    {
+      "id": "rss-63599e81d84bc298e2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "bullets": [
+        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+      ],
+      "publishedAt": "2026-11-06T18:10:39+00:00",
+      "updatedAt": "2026-11-06T18:10:39+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-10d568a972aff97676",
@@ -303,34 +327,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9e4b7eae1748edb85a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
-      "bullets": [
-        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
-        "Les syndicats réclament entre 100 et 150 euros net de plus.",
-        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
-      ],
-      "publishedAt": "2026-11-06T07:38:30+00:00",
-      "updatedAt": "2026-11-06T07:38:30+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -369,8 +365,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T17:54:32+00:00",
-      "updatedAt": "2026-11-06T17:54:32+00:00",
+      "publishedAt": "2026-11-06T19:01:03+00:00",
+      "updatedAt": "2026-11-06T19:01:03+00:00",
       "importance": 69,
       "sources": [
         {
@@ -555,6 +551,30 @@
       "context": null
     },
     {
+      "id": "rss-7fa5c157a18eaea64e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Yémen : des dizaines de morts dans une attaque sur un marché, les houthistes et les forces gouvernementales s’accusent mutuellement",
+      "bullets": [
+        "Les bombardements ont eu lieu dans le gouvernorat de Taëz, dans l’ouest du pays, dont la ville éponyme est encerclée depuis des semaines par les houthistes, qui contrôlent également la capitale, Sanaa."
+      ],
+      "publishedAt": "2026-11-06T18:50:48+00:00",
+      "updatedAt": "2026-11-06T18:50:48+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/yemen-des-dizaines-de-morts-dans-une-attaque-sur-un-marche-les-houthistes-et-les-forces-gouvernementales-s-accusent-mutuellement_6807855_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b18ea2bf262528ba3e1a8ea04c177131dbdf4cdb8cb1c4fce2acfa50a338c7fa",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9e100ae98eccaf0c49",
       "revision": 1,
       "category": "world",
@@ -628,31 +648,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "ba2e115d0b1e286fbb554e9cc1cb4f4540fb0fb9b42ea2dcc7758c2079a0bde6",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-87b4b550ad1e3f68a0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Belgique : le roi refuse la démission du premier ministre, Bart De Wever, présentée sur fond de blocage budgétaire au Parlement",
-      "bullets": [
-        "Le chef du gouvernement belge avait proposé sa démission lundi.",
-        "Le conservateur flamand souhaite un effort budgétaire massif de 10 milliards d’euros d’ici à 2029, auquel s’oppose l’un des partenaires de la coalition, le Mouvement réformateur."
-      ],
-      "publishedAt": "2026-11-06T11:58:46+00:00",
-      "updatedAt": "2026-11-06T11:58:46+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0729be9f4e5918026fdab8bd0bd94207308ee14d2c486fb61db9d16bd5d4dd4b",
       "detailLevel": "preview"
     },
     {
@@ -758,30 +753,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-65f2fe87a0d3a01de8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe",
-      "bullets": [
-        "DÉCRYPTAGE - Plus d’une vingtaine de vols commerciaux ont été déroutés jeudi. Les auteurs sont inconnus. Mais les incidents interrogent dans un contexte d’agressivité croissante de la Russie."
-      ],
-      "publishedAt": "2026-11-05T18:36:22+00:00",
-      "updatedAt": "2026-11-05T18:36:22+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/alertes-a-la-bombe-attaques-cyber-survols-de-drones-la-guerre-hybride-s-intensifie-en-europe-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0ae55c1677e002d7d091d43c2f3fa04cfff4ad99d84aa1690d2c8b90a7ca8a95",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-385ed65b1f19fbf06a",
       "revision": 2,
       "category": "world",
@@ -803,6 +774,30 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "cddbfd5c128e6c479ac697242230464723752b47ac2679d389da572616a071e3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-65f2fe87a0d3a01de8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe",
+      "bullets": [
+        "DÉCRYPTAGE - Plus d’une vingtaine de vols commerciaux ont été déroutés jeudi. Les auteurs sont inconnus. Mais les incidents interrogent dans un contexte d’agressivité croissante de la Russie."
+      ],
+      "publishedAt": "2026-11-05T18:36:22+00:00",
+      "updatedAt": "2026-11-05T18:36:22+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/alertes-a-la-bombe-attaques-cyber-survols-de-drones-la-guerre-hybride-s-intensifie-en-europe-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0ae55c1677e002d7d091d43c2f3fa04cfff4ad99d84aa1690d2c8b90a7ca8a95",
       "detailLevel": "preview"
     },
     {
@@ -1035,34 +1030,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-37dac5436add1a359b",
-      "revision": 3,
-      "category": "france",
-      "topic": "Environnement",
-      "title": "Deux personnes retrouvées mortes en Corse-du-Sud après que leur voiture a été emportée par les inondations",
-      "bullets": [
-        "Deux personnes ont été retrouvées mortes par les sapeurs-pompiers, a annoncé vendredi 6 novembre la préfecture de Corse-du-Sud.",
-        "Une voiture à bord de laquelle se trouvaient trois personnes a été emportée par les flots, vers 1 heure du matin dans la nuit de jeudi à vendredi, sur la RT10 entre Porto-Vecchio et Bonifacio.",
-        "Habitants de Porto-Vecchio, ils étaient allés à l'aéroport de Figari \"chercher leur fille qui venait les voir\" pour célébrer l'anniversaire de la maman, décédée dans l'accident."
-      ],
-      "publishedAt": "2026-11-06T11:43:09+00:00",
-      "updatedAt": "2026-11-06T11:43:09+00:00",
-      "importance": 47,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/deux-personnes-ont-ete-retrouvees-mortes-en-corse-du-sud-apres-que-leur-voiture-a-ete-emportee-par-les-inondations_8270402.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "968f9ebbe77590da9fffae24be6d92428eaf9afd55a5fb98efbf29561f8e5677",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
-      "context": null
-    },
-    {
       "id": "rss-7c0158883b086d5aaf",
       "revision": 1,
       "category": "france",
@@ -1164,30 +1131,6 @@
       "context": null
     },
     {
-      "id": "rss-f170f10d1214d72d8e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
-      "bullets": [
-        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
-      ],
-      "publishedAt": "2026-11-04T18:19:12+00:00",
-      "updatedAt": "2026-11-04T18:19:12+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c0bcae788bf8f96ec0",
       "revision": 1,
       "category": "france",
@@ -1209,6 +1152,30 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f9a389561602832f8d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Les « Cahiers de la justice » s’interrogent sur l’encadrement de la liberté d’expression en démocratie",
+      "bullets": [
+        "La revue de l’Ecole nationale de la magistrature revient, dans son dernier numéro, sur les dérives de la liberté d’expression en ligne et sur la difficulté pour la justice de préserver l’équilibre entre ce droit et la dignité de chacun."
+      ],
+      "publishedAt": "2026-11-06T16:15:09+00:00",
+      "updatedAt": "2026-11-06T16:15:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/06/les-cahiers-de-la-justice-s-interrogent-sur-l-encadrement-de-la-liberte-d-expression-en-democratie_6807820_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "710531a58bb69ceee2db36213de76f69887cd0e614f5bf08f6ab96b173418004",
       "detailLevel": "preview"
     },
     {
@@ -1262,6 +1229,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "37a54f3ab6df05b283f8606e3955084cd8dd5a15b6c6b1dde690e28222554ec0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d608be2d6012bdee6a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+      "bullets": [
+        "Le gouvernement anticipe une hausse du smic avant la revalorisation automatique du 1er janvier, face aux mobilisations sociales contre la vie chère.",
+        "Sébastien Lecornu réunit lundi 9 novembre à Matignon une « conférence sociale » avec les organisations syndicales et patronales."
+      ],
+      "publishedAt": "2026-11-06T08:25:47+00:00",
+      "updatedAt": "2026-11-06T08:25:47+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "98806333b0878abb6293aea9eed7d14b2b1c0104c377f3621ef90a3332bfbf77",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1287,7 +1279,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
