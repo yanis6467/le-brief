@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T01:24:41.941231+00:00",
+  "preparedAt": "2026-11-06T03:00:01.499299+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -278,7 +278,7 @@
       ],
       "publishedAt": "2026-11-05T14:03:56+00:00",
       "updatedAt": "2026-11-05T14:03:56+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -322,6 +322,31 @@
       "context": null
     },
     {
+      "id": "rss-6ac920303efec7af2f",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "bullets": [
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
+      ],
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -346,7 +371,7 @@
       "provenance": "article-extract",
       "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
     },
     {
@@ -360,8 +385,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T01:20:25+00:00",
-      "updatedAt": "2026-11-06T01:20:25+00:00",
+      "publishedAt": "2026-11-06T02:57:07+00:00",
+      "updatedAt": "2026-11-06T02:57:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -374,7 +399,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
     },
     {
@@ -482,7 +507,7 @@
       "provenance": "article-extract",
       "summaryInput": "29443a8c27d89e88b1b57a036e8e5ee702db877a8989221230e188540306def6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
     },
     {
@@ -510,7 +535,7 @@
       "provenance": "article-extract",
       "summaryInput": "15ed5695934a95f52e4f702afb0a73a8bf9493d14d94319ea16e7b4587a09047",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
     },
     {
@@ -567,38 +592,13 @@
       "context": null
     },
     {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e1a7a35719c409d370",
-      "revision": 3,
+      "revision": 4,
       "category": "world",
       "topic": "International",
-      "title": "Paraguay : le président Santiago Peña annonce sa démission",
+      "title": "Crise politique au Paraguay après l’annonce de la démission du président Santiago Peña",
       "bullets": [
-        "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de 3 millions de clients. Faute de vote au Parlement, M. Peña reste techniquement à la tête de l’Etat mais il est visé par…"
+        "Faute de vote au Parlement, M. Peña reste techniquement à la tête de l’Etat mais il est visé par une procédure de destitution. Cette séquence est provoquée par l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de…"
       ],
       "publishedAt": "2026-11-05T17:43:41+00:00",
       "updatedAt": "2026-11-05T17:43:41+00:00",
@@ -612,7 +612,7 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "9aa138ec52e4dc0768f6ef61e42f37cb62a6f6f63788db07fe8abe72f2f6dc56",
+      "summaryInput": "80779282a4047c03747cbfe68f8319c780984dc16d153e44c4aa8e2b6322e0ff",
       "detailLevel": "preview"
     },
     {
@@ -815,6 +815,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a4fea36a00d699f33c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine",
+      "bullets": [
+        "La Première dame américaine Melania Trump a appelé, jeudi 5 novembre, à un cessez-le-feu \"durable\" en Ukraine lors d'une conférence de presse donnée à la Maison Blanche en présence de représentants russes et ukrainiens.",
+        "Tout réel changement commence par une petite étincelle\", a continué la Première dame.",
+        "Le cessez-le-feu à Olechky n'aurait pas été possible sans les présidents Poutine et Zelensky."
+      ],
+      "publishedAt": "2026-11-05T17:51:09+00:00",
+      "updatedAt": "2026-11-05T17:51:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "ce34d85d611b0b3a4457931a7834eed3d4ccd28dfa6b5b9acaa73f590068150f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
+      "context": null
+    },
+    {
       "id": "rss-a5ada77c87604be918",
       "revision": 2,
       "category": "france",
@@ -916,7 +944,7 @@
       "provenance": "article-extract",
       "summaryInput": "be82154d9710cfc73ae3254740874f4b829fe67ea77c1a6a06ff0815fe58f7ba",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T13:27:06.389114+00:00",
+      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
     },
     {
