@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T14:58:48.402303+00:00",
+  "preparedAt": "2026-11-06T15:59:17.147299+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -85,6 +85,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "1e6b73d730c1a7b86e6cace5307ca668f98435e1da719aa6dd614166d86701eb",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-88accdfead5fd4b24e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On va être à 60 000 euros de manque\" : les négociations autour du prix du lait s'annoncent tendues entre les éleveurs et la grande distribution",
+      "bullets": [
+        "L'exploitation de Guillaume Ferey à Englesqueville-en-Auge (Calvados), en Normandie, a reçu une visite de la grande distribution, dans la matinée du vendredi 6 novembre : E.",
+        "On va être à 60 000 euros de manque en fait\", chiffre Guillaume Ferey, éleveur laitier FNSEA.",
+        "\"Les industriels viennent leur annoncer, comme l'année dernière, quand ils avaient demandé 3,5% d'augmentation et qu'ils n'ont eu que 0,5% : 'finalement non, il n'y a pas eu de revalorisation, donc on ne peut pas rémunérer le lait'\", résume Olivier Mevel, maître de conférences en sciences de gestion à l'Université de Brest."
+      ],
+      "publishedAt": "2026-11-06T15:23:29+00:00",
+      "updatedAt": "2026-11-06T15:23:29+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/on-va-etre-a-60-000-euros-de-manque-les-negociations-autour-du-prix-du-lait-s-annoncent-tendues-entre-les-eleveurs-et-la-grande-distribution_8270984.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "68ba130e564e014938fa571c688e02d4091830cc1b26bd9b100bec5b93fb4a4f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
     },
     {
       "id": "rss-1620ca18135aa8bf8b",
@@ -223,31 +251,6 @@
       "context": null
     },
     {
-      "id": "rss-e9a740b525482fae0a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
-      "bullets": [
-        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
-        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la péninsule"
-      ],
-      "publishedAt": "2026-11-06T10:45:05+00:00",
-      "updatedAt": "2026-11-06T10:45:05+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9d4da2784284b91c881ddd1d684998cfe4fb5167b7db3b9a032b12cd795cab31",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d063fea02fab7477f4",
       "revision": 1,
       "category": "eco",
@@ -304,28 +307,28 @@
       "context": null
     },
     {
-      "id": "rss-2705e5b33d0c318dd9",
+      "id": "rss-31b831444352ecd081",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
+      "title": "Singapore Airlines investit massivement pour rester dans la course du transport aérien haut de gamme",
       "bullets": [
-        "Le premier ministre a envoyé deux nouveaux courriers aux banques françaises.",
-        "Celles-ci plaident pour une solution impliquant des établissements financiers détenus directement ou indirectement par l’Etat."
+        "La compagnie de Singapour consacre 1,47 milliard d’euros au renouvellement de ses cabines.",
+        "Avec en premier lieu la création de classes « avant » (première, affaires…) plus luxueuses, pour capter la clientèle la plus aisée, qui est aussi la plus rentable."
       ],
-      "publishedAt": "2026-11-05T16:44:37+00:00",
-      "updatedAt": "2026-11-05T16:44:37+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-06T15:21:38+00:00",
+      "updatedAt": "2026-11-06T15:21:38+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/singapore-airlines-investit-massivement-pour-rester-dans-la-course-du-transport-aerien-haut-de-gamme_6807803_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "3319c7001e325c4c49724a7162d8d463babc891553232bec05717636fa2c2729",
+      "summaryInput": "465282f010eaeeaf572a0efc44dfdfd750f752f0a6231ff15e68954c54a42306",
       "detailLevel": "preview"
     },
     {
@@ -378,7 +381,7 @@
       "provenance": "article-extract",
       "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
       "context": null
     },
     {
@@ -392,8 +395,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T14:55:09+00:00",
-      "updatedAt": "2026-11-06T14:55:09+00:00",
+      "publishedAt": "2026-11-06T15:54:56+00:00",
+      "updatedAt": "2026-11-06T15:54:56+00:00",
       "importance": 69,
       "sources": [
         {
@@ -406,7 +409,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
       "context": null
     },
     {
@@ -506,7 +509,7 @@
       ],
       "publishedAt": "2026-11-05T15:18:23+00:00",
       "updatedAt": "2026-11-05T15:18:23+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -546,35 +549,7 @@
       "provenance": "article-extract",
       "summaryInput": "15ed5695934a95f52e4f702afb0a73a8bf9493d14d94319ea16e7b4587a09047",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-29213fb814a739de92",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Paraguay, le président Santiago Peña annonce sa démission dans la foulée d'une crise bancaire",
-      "bullets": [
-        "Le président conservateur du Paraguay, Santiago Peña, a annoncé jeudi 5 novembre sa démission, dans la foulée d'un scandale bancaire affectant près de 3 millions d'épargnants qui a dégénéré en crise politique dans ce pays allié des États-Unis.",
-        "Le Parlement, réuni en session extraordinaire dans l'après-midi, devait auparavant formellement accepter la démission du président.\"J'ai pris la décision de présenter ma démission de la présidence de la République\", a annoncé Santiago Peña, au pouvoir depuis 2023, dans une vidéo sur X.",
-        "Santiago Peña avait été élu confortablement en 2023."
-      ],
-      "publishedAt": "2026-11-05T20:27:05+00:00",
-      "updatedAt": "2026-11-05T20:27:05+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "b74f89661382d9939872afdea4d272b50ed225d41315ee682c6c7fe452b1c3c3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
       "context": null
     },
     {
@@ -756,30 +731,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-80c8ce7c9161a601df",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Belgique : après l’adoption d’un projet de loi controversé autorisant la police à des visites domiciliaires, ses opposants dénoncent un « ICE à la belge »",
-      "bullets": [
-        "Le texte a été adopté par les députés belges, vendredi matin, au terme d’une séance chahutée et alors que le roi doit se prononcer sur la démission du premier ministre nationaliste et conservateur Bart de Wever, déposée en début de semaine."
-      ],
-      "publishedAt": "2026-11-06T07:33:31+00:00",
-      "updatedAt": "2026-11-06T07:33:31+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "46be335cdad3c950855263b38b591c7be984b099f53d432e1a54fcf8c70dca4b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f9f5ab1351c264c7ae",
       "revision": 1,
       "category": "world",
@@ -829,6 +780,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-385ed65b1f19fbf06a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Nigeria : Atiku Abubakar maintient sa candidature à la présidentielle malgré l’annulation par la justice",
+      "bullets": [
+        "Jeudi, un tribunal d’Abuja a annulé la candidature de celui qui brigue pour la septième fois la magistrature suprême en invalidant toutes les décisions prises par le président de sa formation politique, le Congrès démocratique africain (ADC), jugé illégitime."
+      ],
+      "publishedAt": "2026-11-06T15:56:16+00:00",
+      "updatedAt": "2026-11-06T15:56:16+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/06/nigeria-atiku-abubakar-maintient-sa-candidature-a-la-presidentielle-malgre-l-annulation-par-la-justice_6807809_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8d2c5c2d07943a19b6a974ec0069f294ab8b46b56bb91efa84a544796d044c37",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-6de4ad8871d11134d0",
       "revision": 1,
       "category": "world",
@@ -851,6 +826,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-78e1ae9c20a0cdd36e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Fausse alerte à la bombe : un groupuscule russe en cause ?",
+      "bullets": [
+        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d’appareils.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+      ],
+      "publishedAt": "2026-11-06T08:26:28+00:00",
+      "updatedAt": "2026-11-06T08:26:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/fausse-alerte-a-la-bombe-un-groupuscule-russe-en-cause_8270486.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "ccd41b74b5e494e28e8576ce91520cf6bea23a9091b1d137c696313e1d3a324d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
     },
     {
       "id": "rss-59d81531613fc5fab9",
@@ -911,7 +914,7 @@
       ],
       "publishedAt": "2026-11-05T15:36:56+00:00",
       "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -925,31 +928,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ec55f3af75faf2eea8",
+      "id": "rss-16f2afdacfbafa2ca4",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Les frigos de l'Établissement français du sang ont été piratés, aucune perte n'est à déplorer",
+      "title": "Une jeune femme de 27 ans est décédée après une intoxication aux champignons",
       "bullets": [
-        "L'attaque a eu lieu dans la nuit du dimanche 1er au lundi 2 novembre contre trois sites de l'Établissement français du sang (EFS).",
-        "Ce mode opératoire rappelle l'attaque contre plusieurs grands magasins et leur système de réfrigération en octobre.",
-        "Ces cyberagressions se sont répétées lundi 2 novembre dans une dizaine de pays européens."
+        "Une jeune femme de 27 ans est décédée au CHU de Montpellier après avoir consommé des champignons en boîte, selon nos informations.",
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution"
       ],
-      "publishedAt": "2026-11-04T16:21:55+00:00",
-      "updatedAt": "2026-11-04T16:21:55+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-05T16:16:11+00:00",
+      "updatedAt": "2026-11-05T16:16:11+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-frigos-de-l-etablissement-francais-du-sang-ont-ete-pirates-mais-aucune-perte-n-est-a-deplorer_8267747.html",
+          "url": "https://www.franceinfo.fr/sante/une-jeune-femme-de-27-ans-est-decedee-apres-une-intoxication-aux-champignons_8269592.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "e876fad2c43e1204e85cf07f2d0714f8798bf5e1f70d5bd2a6997fa31ae694bc",
+      "summaryInput": "5c8e342104abe9569f7e4e04f59015e3f45bb5cea6071230d12e45584c3b82e4",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
       "context": null
     },
     {
@@ -1005,27 +1008,28 @@
       "context": null
     },
     {
-      "id": "rss-6b980516e4433ec277",
+      "id": "rss-f00595f182febdc223",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
+      "title": "Festival d’automne : Sébastien Kheroufi nourrit son théâtre de son histoire familiale",
       "bullets": [
-        "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC."
+        "L’auteur et metteur en scène, âgé de 33 ans, s’est passionné pour l’art dramatique tardivement, après un BEP de mécanique et une série de petits boulots.",
+        "Il présente le dernier volet de sa trilogie inspirée de sa vie, « La Mort du môme », au Théâtre national de la Colline…"
       ],
-      "publishedAt": "2026-11-04T16:00:30+00:00",
-      "updatedAt": "2026-11-04T16:00:30+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-05T17:00:17+00:00",
+      "updatedAt": "2026-11-05T17:00:17+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/05/festival-d-automne-sebastien-kheroufi-nourrit-son-theatre-de-son-histoire-familiale_6807153_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "88c6acc090828a55421e0698f45452cf547ee2eb556d803af87df702f1250f29",
+      "summaryInput": "2efbcf6c1ced1803c53a68be47e8df653e34388790f31683ac7606b78688a1ec",
       "detailLevel": "preview"
     },
     {
@@ -1207,6 +1211,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cecee5df4adcc88063",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Alertes à la bombe, qui menace les avions européens ?",
+      "bullets": [
+        "Accident de car dans l'Ain : les deux morts sont une fille de 7 ans et un jeune homme de 18 ans, annonce le ministre des Transports",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+      ],
+      "publishedAt": "2026-11-06T15:12:56+00:00",
+      "updatedAt": "2026-11-06T15:12:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
+    },
+    {
       "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
@@ -1232,34 +1264,6 @@
       "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c24b381e8fc288f3b3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
-      "bullets": [
-        "Mais quel est donc le calcul de Matignon ?",
-        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
-        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
-      ],
-      "publishedAt": "2026-11-06T14:10:59+00:00",
-      "updatedAt": "2026-11-06T14:10:59+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
       "context": null
     }
   ],
@@ -1304,7 +1308,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
