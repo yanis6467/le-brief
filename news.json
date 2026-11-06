@@ -1,11 +1,66 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T15:59:17.147299+00:00",
+  "preparedAt": "2026-11-06T17:02:48.829719+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-95be02e2cbc787bf82",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Cyberattaques : Giorgia Meloni dénonce des «attaques contre des infrastructures civiles»",
+      "bullets": [
+        "La cheffe du gouvernement italien Giorgia Meloni a dénoncé vendredi 6 novembre des cyberattaques «contre des infrastructures civiles», citant aussi bien les fausses alertes à la bombe que l'attaque contre l'Établissement français du sang.",
+        "Nous ne sommes pas en mesure aujourd'hui de dire si l'attaque» contre la France, «les fausses alertes à la bombe dans les avions ou encore les agressions contre les magasins d'alimentation sont toutes liées."
+      ],
+      "publishedAt": "2026-11-06T16:12:32+00:00",
+      "updatedAt": "2026-11-06T16:12:32+00:00",
+      "importance": 93,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/cyberattaques-giorgia-meloni-denonce-des-attaques-contre-des-infrastructures-civiles-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "5f2bb4ef6f62ed8e88a6c699abad3c15f3842643a62557e7018f67727d722ba5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1c29e77f3ea5e5ec1c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "BCE : l'Espagnol Pablo Hernandez de Cos et le Néerlandais Klaas Knot candidats à la succession de Christine Lagarde",
+      "bullets": [
+        "La succession de Christine Lagarde à la présidence de la Banque centrale européenne va se jouer entre le Néerlandais Klaas Knot et l'Espagnol Pablo Hernandez de Cos, a annoncé vendredi le président de l'Eurogroupe, Kyriakos Pierrakakis.",
+        "Les deux hommes, qui ont dirigé respectivement la Banque nationale des Pays-Bas et la Banque d'Espagne, sont les seuls candidats proposés par les pays de la zone euro pour succéder à Christine Lagarde.",
+        "La responsable française avait annoncé fin octobre son départ anticipé de la BCE, qui sera effectif en février."
+      ],
+      "publishedAt": "2026-11-06T16:43:50+00:00",
+      "updatedAt": "2026-11-06T16:43:50+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/bce-l-espagnol-pablo-hernandez-de-cos-et-le-neerlandais-klaas-knot-candidats-a-la-succession-de-christine-lagarde-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "a60fa634877ee4a251aed06557fe0768eaae66f6711254eceb75559c3dbc4377",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
+    },
     {
       "id": "rss-3e0a87a3b47438271c",
       "revision": 1,
@@ -33,6 +88,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
       "context": null
+    },
+    {
+      "id": "rss-10d568a972aff97676",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
+      "bullets": [
+        "Le principal souci des Américains n’est pas de se retrouver au chômage, mais de voir que leur travail ne leur permet pas de faire face au coût de la vie, alors que les possibilités de trouver mieux ailleurs se sont raréfiées."
+      ],
+      "publishedAt": "2026-11-06T16:06:12+00:00",
+      "updatedAt": "2026-11-06T16:06:12+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/marche-du-travail-aux-etats-unis-chomage-en-baisse-creations-d-emplois-en-hausse_6807818_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e01da41c6230ee22279232c31517cc4746b920250a0ed78b6a37dd53942ba2d1",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-a30840597ab9f2515c",
@@ -168,6 +247,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c6937783884c6b7207",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Barre des 1 500 euros, 10% d'augmentation, 100 euros en plus… Quelles sont les propositions du gouvernement et des syndicats sur le smic ?",
+      "bullets": [
+        "L'intersyndicale à l'origine de la journée de manifestations du jeudi 5 novembre va demander une hausse du smic lors de la conférence sociale organisée lundi 9 novembre par le Premier ministre à Matignon.",
+        "Sur cette base, il a été augmenté de 1,18% à partir du 1er janvier 2026.",
+        "Au-delà des augmentations mécaniques, le gouvernement peut donc donner \"un coup de pouce\" au smic, ce qui n'a pas été le cas depuis juillet 2012, après l'arrivée de François Hollande à l'Elysée, à hauteur de 0,6%."
+      ],
+      "publishedAt": "2026-11-06T16:31:00+00:00",
+      "updatedAt": "2026-11-06T16:31:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/barre-des-1-500-euros-10-d-augmentation-100-euros-en-plus-quelles-sont-les-propositions-du-gouvernement-et-des-syndicats-sur-le-smic_8270843.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "0fd60a3396730dc1d655b69601ec2041a7cddc54f34d1dfa0dcfb7b9fb97a001",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
+    },
+    {
       "id": "rss-41d2340e0f38ecfac8",
       "revision": 1,
       "category": "eco",
@@ -196,164 +303,28 @@
       "context": null
     },
     {
-      "id": "rss-ab62cb11f259092c73",
+      "id": "rss-e9a740b525482fae0a",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L’UE somme TikTok de modifier ses flux de vidéos personnalisées, accusés d’effets «nocifs»",
+      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
       "bullets": [
-        "L'Union européenne a sommé ce vendredi 6 novembre le réseau social TikTok de modifier ses flux de vidéos personnalisés, accusés de nuire au bien-être et à la santé mentale des utilisateurs en les exposant à des spirales de contenus aux effets très négatifs.",
-        "L’UE est lancée dans une vaste offensive pour mettre au pas les réseaux sociaux, en application du DSA, et a présenté en septembre un projet de loi, le Kids Act, qui vise à les interdire aux moins de 13 ans, en raison de nombreux risques pour leur bien-être et leur développement."
+        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
+        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
       ],
-      "publishedAt": "2026-11-06T11:17:06+00:00",
-      "updatedAt": "2026-11-06T11:17:06+00:00",
+      "publishedAt": "2026-11-06T10:45:04+00:00",
+      "updatedAt": "2026-11-06T10:45:04+00:00",
       "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/l-ue-somme-tiktok-de-modifier-ses-flux-de-videos-personnalisees-accuses-d-effets-nocifs-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "63f6c389ae7aced848b14cd51e8eae992e362e5b4e116a7f74338ef00e546b75",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6f26c845ea39780378",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Stocks stratégiques de céréales : le ministère de l’Agriculture lance une mission flash",
-      "bullets": [
-        "La Suède, par exemple, a indiqué en octobre 2025 qu'elle mettait en place des réserves de céréales dans le nord du pays, à utiliser en cas de guerre ou de crise.",
-        "La France est la première puissance agricole de l'Union européenne (1er producteur de blé et maïs), mais ses surfaces de cultures diminuent en raison, selon l'AGPB, de la faible rentabilité des cultures céréalières.",
-        "Les surfaces cultivées pour les céréales à paille ont ainsi reculé de 900.000 hectares en dix ans, passant de 8,1 millions d'hectares en 2016 à 7,2 millions en 2026, selon l'AGPB."
-      ],
-      "publishedAt": "2026-11-06T10:45:12+00:00",
-      "updatedAt": "2026-11-06T10:45:12+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/stocks-strategiques-de-cereales-le-ministere-de-l-agriculture-lance-une-mission-flash-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "a59c840865effdfc46e31ddbd5cc17d070d9055bdd4cd88b55804605f8afcf8c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d063fea02fab7477f4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Colère sociale : l'intersyndicale décidera des suites de la mobilisation après la réunion de lundi à Matignon",
-      "bullets": [
-        "L'intersyndicale à l'origine de la journée de manifestations de jeudi décidera de la suite de la mobilisation à l'issue de la conférence sociale organisée lundi 9 novembre par Matignon, a-t-elle indiqué ce vendredi 6 novembre.",
-        "Les syndicats revendiquent une participation de plus de 1,5 million de personnes - les autorités ont recensé 575.000 manifestants.",
-        "Au moins 100 euros de plus pour le Smic «Rendez-vous lundi soir», a déclaré sur RTL la secrétaire générale de la CFDT Marylise Léon, interrogée sur la suite à donner à la mobilisation."
-      ],
-      "publishedAt": "2026-11-06T08:00:10+00:00",
-      "updatedAt": "2026-11-06T08:00:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/colere-sociale-l-intersyndicale-decidera-des-suites-de-la-mobilisation-apres-la-reunion-de-lundi-a-matignon-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "a1663a441840139ebaea0765771eacf1b4545d1ff2bb4e6475e99cc44f930fc5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9e4b7eae1748edb85a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
-      "bullets": [
-        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
-        "Les syndicats réclament entre 100 et 150 euros net de plus.",
-        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
-      ],
-      "publishedAt": "2026-11-06T07:38:30+00:00",
-      "updatedAt": "2026-11-06T07:38:30+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T14:58:48.402303+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-31b831444352ecd081",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Singapore Airlines investit massivement pour rester dans la course du transport aérien haut de gamme",
-      "bullets": [
-        "La compagnie de Singapour consacre 1,47 milliard d’euros au renouvellement de ses cabines.",
-        "Avec en premier lieu la création de classes « avant » (première, affaires…) plus luxueuses, pour capter la clientèle la plus aisée, qui est aussi la plus rentable."
-      ],
-      "publishedAt": "2026-11-06T15:21:38+00:00",
-      "updatedAt": "2026-11-06T15:21:38+00:00",
-      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/singapore-airlines-investit-massivement-pour-rester-dans-la-course-du-transport-aerien-haut-de-gamme_6807803_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "465282f010eaeeaf572a0efc44dfdfd750f752f0a6231ff15e68954c54a42306",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
+      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
       "detailLevel": "preview"
     },
     {
@@ -395,8 +366,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T15:54:56+00:00",
-      "updatedAt": "2026-11-06T15:54:56+00:00",
+      "publishedAt": "2026-11-06T16:58:23+00:00",
+      "updatedAt": "2026-11-06T16:58:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -410,6 +381,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-c76dd324d3de81b4c4",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Wall Street ouvre en ordre dispersé après son plongeon de la veille",
+      "bullets": [
+        "La Bourse de New York cherche à se reprendre vendredi après son plongeon de la veille lié aux inquiétudes sur l’intelligence artificielle (IA), mais les investisseurs sont réticents à se montrer trop optimistes.",
+        "Dans les premiers échanges, l’indice Nasdaq - à forte coloration technologique - avançait de 1,18 % et l’indice élargi S&P 500 gagnait 0,28 %, loin toutefois de compenser les pertes de jeudi.",
+        "Le Dow Jones s’enfonçait lui encore de 1,01 %."
+      ],
+      "publishedAt": "2026-11-06T14:46:10+00:00",
+      "updatedAt": "2026-11-06T14:46:10+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/wall-street-ouvre-en-ordre-disperse-apres-son-plongeon-de-la-veille-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "644a84b93b4ec60ec21019253a992dcb77b983714c2c940b71df2842c9fe73ae",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
       "context": null
     },
     {
@@ -606,12 +605,12 @@
     },
     {
       "id": "rss-944a9c9bd968a98588",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Midterms 2026 : l’espoir ravivé des gauches latino-américaines après la victoire des démocrates",
+      "title": "Après les victoires des démocrates aux Etats-Unis et de Lula au Brésil, l’extrême droite montre ses limites sur le continent américain",
       "bullets": [
-        "La réélection du président brésilien, Luiz Inacio Lula da Silva, et la victoire des démocrates au Congrès des Etats-Unis apparaissent comme un revers majeur pour les dirigeants de la région qui se sont alignés sans réserve sur Donald Trump."
+        "La réélection du président brésilien et la vague bleue aux midterms apparaissent comme un revers majeur pour les dirigeants de la région qui se sont alignés sans réserve sur Donald Trump."
       ],
       "publishedAt": "2026-11-06T13:00:07+00:00",
       "updatedAt": "2026-11-06T13:00:07+00:00",
@@ -625,7 +624,7 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "de38edc5591814ff69864ece2f97f8c57c5f6db8d99fe6843521ff6bcf5858f5",
+      "summaryInput": "ba2e115d0b1e286fbb554e9cc1cb4f4540fb0fb9b42ea2dcc7758c2079a0bde6",
       "detailLevel": "preview"
     },
     {
@@ -781,15 +780,15 @@
     },
     {
       "id": "rss-385ed65b1f19fbf06a",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Nigeria : Atiku Abubakar maintient sa candidature à la présidentielle malgré l’annulation par la justice",
+      "title": "Au Nigeria, Atiku Abubakar maintient sa candidature à la présidentielle malgré l’annulation par la justice",
       "bullets": [
         "Jeudi, un tribunal d’Abuja a annulé la candidature de celui qui brigue pour la septième fois la magistrature suprême en invalidant toutes les décisions prises par le président de sa formation politique, le Congrès démocratique africain (ADC), jugé illégitime."
       ],
-      "publishedAt": "2026-11-06T15:56:16+00:00",
-      "updatedAt": "2026-11-06T15:56:16+00:00",
+      "publishedAt": "2026-11-06T15:56:14+00:00",
+      "updatedAt": "2026-11-06T15:56:14+00:00",
       "importance": 73,
       "sources": [
         {
@@ -800,7 +799,31 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "8d2c5c2d07943a19b6a974ec0069f294ab8b46b56bb91efa84a544796d044c37",
+      "summaryInput": "cddbfd5c128e6c479ac697242230464723752b47ac2679d389da572616a071e3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f7f770332a58ea4390",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La ratification par le Parlement turc du « pacte de la Mecque » convoque pour l’opposition le souvenir douloureux des guerres ottomanes au Yémen",
+      "bullets": [
+        "L’alliance militaire entre la Turquie, le Pakistan et l’Arabie saoudite, qui calque en apparence la clause de défense mutuelle de l’OTAN, laisse toutefois aux parties la décision de la nature et de l’ampleur de leur aide alors qu’un risque d’intervention au Yémen est critiqué par ses détracteurs."
+      ],
+      "publishedAt": "2026-11-06T16:48:14+00:00",
+      "updatedAt": "2026-11-06T16:48:14+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/la-ratification-par-le-parlement-turc-du-pacte-de-la-mecque-convoque-pour-l-opposition-le-souvenir-douloureux-des-guerres-ottomanes-au-yemen_6807828_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a902cdbc3f8c806146635a50d430f6602333dce5d1062623133f54fb649becdd",
       "detailLevel": "preview"
     },
     {
@@ -828,38 +851,34 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-78e1ae9c20a0cdd36e",
+      "id": "rss-bbf46b96b4726a38e0",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Fausse alerte à la bombe : un groupuscule russe en cause ?",
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : l’hypothèse d’une candidature de Christine Lagarde questionne à droite et au sein du bloc central",
       "bullets": [
-        "Pour la troisième fois de la semaine, des alertes à la bombe ont perturbé le trafic aérien européen, jeudi 5 novembre, touchant cette fois une vingtaine d’appareils.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+        "Entre éloges publics prudents et scepticisme en coulisses, la démission anticipée de la patronne de la BCE alimente les spéculations au sein d’un camp en quête d’un candidat capable de doubler Jean-Luc Mélenchon et Marine Le Pen."
       ],
-      "publishedAt": "2026-11-06T08:26:28+00:00",
-      "updatedAt": "2026-11-06T08:26:28+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-06T16:00:16+00:00",
+      "updatedAt": "2026-11-06T16:00:16+00:00",
+      "importance": 87,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/fausse-alerte-a-la-bombe-un-groupuscule-russe-en-cause_8270486.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-l-hypothese-d-une-candidature-de-christine-lagarde-questionne-a-droite-et-au-sein-du-bloc-central_6807815_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "ccd41b74b5e494e28e8576ce91520cf6bea23a9091b1d137c696313e1d3a324d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "22b282065349cffd0c4e3d33f6bd9600432816d5f823aad6836da8f23a3b1f33",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-59d81531613fc5fab9",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
       "bullets": [
         "La place de la Concorde est « un lieu emblématique, près de l’Assemblée nationale, un lieu de pouvoir », a souligné leur avocat, David Libeskind, estimant que la manifestation prévue sur le parcours intersyndical autorisé, entre les places de la République et de la Nation, ne les « concerne pas…"
@@ -877,30 +896,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "affc41fde5bd8fa46aff019785fcbe95522dc993e75fd3d2270f480d6da6ad3a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-674c8970d293e90386",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
-      "bullets": [
-        "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système."
-      ],
-      "publishedAt": "2026-11-05T17:30:03+00:00",
-      "updatedAt": "2026-11-05T17:30:03+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a2bd13017536e9aa46dd35f0b28884732c758fa787619158f169eda135dc9a9e",
       "detailLevel": "preview"
     },
     {
@@ -928,31 +923,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-16f2afdacfbafa2ca4",
+      "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Une jeune femme de 27 ans est décédée après une intoxication aux champignons",
+      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
-        "Une jeune femme de 27 ans est décédée au CHU de Montpellier après avoir consommé des champignons en boîte, selon nos informations.",
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution"
+        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
+        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
+        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
       ],
-      "publishedAt": "2026-11-05T16:16:11+00:00",
-      "updatedAt": "2026-11-05T16:16:11+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-05T21:34:22+00:00",
+      "updatedAt": "2026-11-05T21:34:22+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/une-jeune-femme-de-27-ans-est-decedee-apres-une-intoxication-aux-champignons_8269592.html",
+          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "5c8e342104abe9569f7e4e04f59015e3f45bb5cea6071230d12e45584c3b82e4",
+      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
     },
     {
@@ -1019,7 +1014,7 @@
       ],
       "publishedAt": "2026-11-05T17:00:17+00:00",
       "updatedAt": "2026-11-05T17:00:17+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1086,28 +1081,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8e9d92bc291390e8f5",
+      "id": "rss-13b03bc8a6f1058382",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Concours remanié, plus de diversité sociale… Vers une réforme de l’École nationale de la magistrature pour une justice «à l’image de la société»",
+      "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
       "bullets": [
-        "ANALYSE - Le ministre de la Justice, Gérald Darmanin, veut une formation recentrée sur l’art de juger, la communication, et la connaissance des institutions publiques.",
-        "Valérie Delnaud, actuelle directrice des affaires civiles et du sceau, pourrait endosser le rôle de nouvelle directrice."
+        "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
       ],
-      "publishedAt": "2026-11-03T12:32:24+00:00",
-      "updatedAt": "2026-11-03T12:32:24+00:00",
+      "publishedAt": "2026-11-03T09:29:05+00:00",
+      "updatedAt": "2026-11-03T09:29:05+00:00",
       "importance": 79,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/concours-remanie-plus-de-diversite-sociale-vers-une-reforme-de-l-ecole-nationale-de-la-magistrature-pour-une-justice-a-l-image-de-la-societe-20261103",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "62edb45e15f3d2b0af5fe93b83b3b58ca87787e7c25f96385392261a779a7437",
+      "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
       "detailLevel": "preview"
     },
     {
@@ -1239,31 +1233,31 @@
       "context": null
     },
     {
-      "id": "rss-63fc8d536e5d0163ee",
+      "id": "rss-c24b381e8fc288f3b3",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
+      "topic": "Société",
+      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
       "bullets": [
-        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
-        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
-        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
+        "Mais quel est donc le calcul de Matignon ?",
+        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
+        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
       ],
-      "publishedAt": "2026-11-05T21:34:22+00:00",
-      "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-06T14:10:59+00:00",
+      "updatedAt": "2026-11-06T14:10:59+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
+          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
+      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
       "context": null
     }
   ],
@@ -1278,7 +1272,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1302,13 +1296,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Le Figaro",
@@ -1338,7 +1332,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/culture/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1374,13 +1368,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
