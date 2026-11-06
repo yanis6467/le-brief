@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T19:05:34.528847+00:00",
+  "preparedAt": "2026-11-06T19:58:56.533641+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -60,82 +60,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
       "context": null
-    },
-    {
-      "id": "rss-3e0a87a3b47438271c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
-      "bullets": [
-        "Un accident de car dans l'Ain fait au moins 2 morts",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
-      ],
-      "publishedAt": "2026-11-06T10:15:13+00:00",
-      "updatedAt": "2026-11-06T10:15:13+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/crise/3-millions-de-paraguayens-ne-peuvent-plus-acceder-a-leurs-economies_8270630.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "af566bec377d9387cc518e15a630b3676af4a80a29b4096f26214292e5764356",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-63599e81d84bc298e2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
-      "bullets": [
-        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
-      ],
-      "publishedAt": "2026-11-06T18:10:39+00:00",
-      "updatedAt": "2026-11-06T18:10:39+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-10d568a972aff97676",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
-      "bullets": [
-        "Le principal souci des Américains n’est pas de se retrouver au chômage, mais de voir que leur travail ne leur permet pas de faire face au coût de la vie, alors que les possibilités de trouver mieux ailleurs se sont raréfiées."
-      ],
-      "publishedAt": "2026-11-06T16:06:12+00:00",
-      "updatedAt": "2026-11-06T16:06:12+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/marche-du-travail-aux-etats-unis-chomage-en-baisse-creations-d-emplois-en-hausse_6807818_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e01da41c6230ee22279232c31517cc4746b920250a0ed78b6a37dd53942ba2d1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-a30840597ab9f2515c",
@@ -302,28 +226,112 @@
       "context": null
     },
     {
-      "id": "rss-e9a740b525482fae0a",
+      "id": "rss-9e4b7eae1748edb85a",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
       "bullets": [
-        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
-        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
+        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
+        "Les syndicats réclament entre 100 et 150 euros net de plus.",
+        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
       ],
-      "publishedAt": "2026-11-06T10:45:04+00:00",
-      "updatedAt": "2026-11-06T10:45:04+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-06T07:38:30+00:00",
+      "updatedAt": "2026-11-06T07:38:30+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T19:58:56.533641+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-baeac48d7da8ce41d5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La fréquentation de Shein et Temu en chute libre au troisième trimestre, plombée par la taxe sur les petits colis",
+      "bullets": [
+        "AliExpress, autre plateforme chinoise, résiste mieux, avec une baisse de seulement 11,1% sur le trimestre et de 11,8% sur un an Le recul se fait encore plus net lorsque l’on regarde l’audience quotidienne de ces sites : -44,2% au troisième trimestre pour Shein, -39,6% pour Temu.",
+        "En septembre, les ventes de Shein, Temu et AliExpress (en valeur) ont ainsi reculé de 19 à 26% par rapport au mois précédent selon les plateformes.",
+        "Cette baisse est à relier à la taxe européenne sur les petits colis de 3 euros par article, entrée en vigueur en juillet."
+      ],
+      "publishedAt": "2026-11-06T16:19:14+00:00",
+      "updatedAt": "2026-11-06T16:19:14+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/la-frequentation-de-shein-et-temu-en-chute-libre-au-troisieme-trimestre-plombee-par-la-taxe-sur-les-petits-colis-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "9c63effe1c9a114c9f99b3d7fd239168229e9a31da86a3b627da9fa3ca292899",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T19:58:56.533641+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b6af2e8b93ac339129",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Éventuelle hausse du smic : quel est le profil des salariés qui sont payés au salaire minimum ?",
+      "bullets": [
+        "Le ministre du Travail Jean-Pierre Farandou a jugé \"important\" vendredi 6 novembre d'essayer de \"franchir la barre\" des 1 500 euros net, contre 1 477 euros en novembre 2026.",
+        "Près de 60% sont des femmesLa plupart du temps, les salariés payés au smic travaillent pour de très petites entreprises, composées de moins de dix salariés.",
+        "Près de 60% des personnes qui touchent le salaire minimum sont des femmes."
+      ],
+      "publishedAt": "2026-11-06T16:05:23+00:00",
+      "updatedAt": "2026-11-06T16:05:23+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/qui-sont-les-deux-millions-de-salaries-concernes-directement-par-une-eventuelle-hausse-du-smic_8270882.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "e00b0fdc22d21973150c7b0093fcbce91640dca2d8a4a60cff426fc1721dc948",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T19:58:56.533641+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-31b831444352ecd081",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Singapore Airlines investit massivement pour rester dans la course du transport aérien haut de gamme",
+      "bullets": [
+        "La compagnie de Singapour consacre 1,47 milliard d’euros au renouvellement de ses cabines.",
+        "Avec en premier lieu la création de classes « avant » (première, affaires…) plus luxueuses, pour capter la clientèle la plus aisée, qui est aussi la plus rentable."
+      ],
+      "publishedAt": "2026-11-06T15:21:35+00:00",
+      "updatedAt": "2026-11-06T15:21:35+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/singapore-airlines-investit-massivement-pour-rester-dans-la-course-du-transport-aerien-haut-de-gamme_6807803_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
+      "summaryInput": "465282f010eaeeaf572a0efc44dfdfd750f752f0a6231ff15e68954c54a42306",
       "detailLevel": "preview"
     },
     {
@@ -365,8 +373,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T19:01:03+00:00",
-      "updatedAt": "2026-11-06T19:01:03+00:00",
+      "publishedAt": "2026-11-06T19:55:30+00:00",
+      "updatedAt": "2026-11-06T19:55:30+00:00",
       "importance": 69,
       "sources": [
         {
@@ -575,30 +583,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9e100ae98eccaf0c49",
-      "revision": 1,
-      "category": "world",
-      "topic": "Politique",
-      "title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
-      "bullets": [
-        "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine."
-      ],
-      "publishedAt": "2026-11-06T09:19:13+00:00",
-      "updatedAt": "2026-11-06T09:19:13+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "807719082a081175236c0b24ff73311ca52524cdd03d52965fbed6fa595aa566",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -627,30 +611,6 @@
       "context": null
     },
     {
-      "id": "rss-944a9c9bd968a98588",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Après les victoires des démocrates aux Etats-Unis et de Lula au Brésil, l’extrême droite montre ses limites sur le continent américain",
-      "bullets": [
-        "La réélection du président brésilien et la vague bleue aux midterms apparaissent comme un revers majeur pour les dirigeants de la région qui se sont alignés sans réserve sur Donald Trump."
-      ],
-      "publishedAt": "2026-11-06T13:00:07+00:00",
-      "updatedAt": "2026-11-06T13:00:07+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-l-espoir-ravive-des-gauches-latino-americaines-apres-la-victoire-des-democrates_6807788_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ba2e115d0b1e286fbb554e9cc1cb4f4540fb0fb9b42ea2dcc7758c2079a0bde6",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-87e74309340fcbacc3",
       "revision": 1,
       "category": "world",
@@ -677,31 +637,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
       "context": null
-    },
-    {
-      "id": "rss-1c0d0793f04d3278f4",
-      "revision": 1,
-      "category": "world",
-      "topic": "Politique",
-      "title": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
-      "bullets": [
-        "La France insoumise évoque la fin de la solution à deux Etats et propose la suspension de l’accord d’association entre Israël et l’Union européenne, dans « L’Avenir en commun », publié vendredi 6 novembre.",
-        "La question ukrainienne est, quant à elle, renvoyée à la portion congrue."
-      ],
-      "publishedAt": "2026-11-06T09:33:42+00:00",
-      "updatedAt": "2026-11-06T09:33:42+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6de4497331fb8d3d07926d4085edda8491a094c0f65569aba99518b51a8da6a9",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-0d91440bc745ab01d9",
@@ -750,6 +685,54 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-63599e81d84bc298e2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "bullets": [
+        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+      ],
+      "publishedAt": "2026-11-06T18:10:39+00:00",
+      "updatedAt": "2026-11-06T18:10:39+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-10d568a972aff97676",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
+      "bullets": [
+        "Le principal souci des Américains n’est pas de se retrouver au chômage, mais de voir que leur travail ne leur permet pas de faire face au coût de la vie, alors que les possibilités de trouver mieux ailleurs se sont raréfiées."
+      ],
+      "publishedAt": "2026-11-06T16:06:12+00:00",
+      "updatedAt": "2026-11-06T16:06:12+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/marche-du-travail-aux-etats-unis-chomage-en-baisse-creations-d-emplois-en-hausse_6807818_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e01da41c6230ee22279232c31517cc4746b920250a0ed78b6a37dd53942ba2d1",
       "detailLevel": "preview"
     },
     {
@@ -849,6 +832,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6de4ad8871d11134d0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
+      "bullets": [
+        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
+      ],
+      "publishedAt": "2026-11-06T09:13:08+00:00",
+      "updatedAt": "2026-11-06T09:13:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-bbf46b96b4726a38e0",
       "revision": 1,
       "category": "france",
@@ -873,31 +880,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c24b381e8fc288f3b3",
+      "id": "rss-384b56efd0dcd54bd2",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
+      "title": "Augmentation du Smic : \"La première chose qu'on pourrait faire, dans un budget aujourd'hui, c'est réhabiliter l'Impôt de solidarité sur la fortune\", propose Guillaume Lacroix, président du Parti radical de gauche",
       "bullets": [
-        "Mais quel est donc le calcul de Matignon ?",
-        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
-        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
+        "Vous savez aujourd'hui, nous sommes le 6 novembre…Pour bien comprendre votre position, le Smic est à 1 478 euros net.",
+        "Donc ça fait à peu près 26, 27 milliards.",
+        "Si vous baissez de 20% les achats, c'est quoi ?"
       ],
-      "publishedAt": "2026-11-06T14:10:59+00:00",
-      "updatedAt": "2026-11-06T14:10:59+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-06T19:18:17+00:00",
+      "updatedAt": "2026-11-06T19:18:17+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
+          "url": "https://www.franceinfo.fr/politique/augmentation-du-smic-la-premiere-chose-qu-on-pourrait-faire-dans-un-budget-aujourd-hui-c-est-rehabiliter-l-impot-de-solidarite-sur-la-fortune-propose-guillaume-lacroix-president-du-parti-radical-de-gauche_8271443.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
+      "summaryInput": "7be3e8f86cd79f78d41eebc49d6f36c561ae280fcab64979ff22130a73a9b22b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "enrichedAt": "2026-11-06T19:58:56.533641+00:00",
       "context": null
     },
     {
@@ -1005,28 +1012,27 @@
       "context": null
     },
     {
-      "id": "rss-f00595f182febdc223",
+      "id": "rss-d647c8595237935fbc",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Festival d’automne : Sébastien Kheroufi nourrit son théâtre de son histoire familiale",
+      "title": "Le cinéaste chilien Sebastian Lelio, oscarisé pour « Une femme fantastique », est mort à 52 ans",
       "bullets": [
-        "L’auteur et metteur en scène, âgé de 33 ans, s’est passionné pour l’art dramatique tardivement, après un BEP de mécanique et une série de petits boulots.",
-        "Il présente le dernier volet de sa trilogie inspirée de sa vie, « La Mort du môme », au Théâtre national de la Colline…"
+        "Né en Argentine mais élevé au Chili, Sebastian Lelio s’est fait connaître sur la scène internationale avec son film « Gloria », dont l’actrice principale, Paulina Garcia, a remporté l’Ours d’argent de la meilleure actrice à la Berlinale, en 2013."
       ],
-      "publishedAt": "2026-11-05T17:00:17+00:00",
-      "updatedAt": "2026-11-05T17:00:17+00:00",
-      "importance": 57,
+      "publishedAt": "2026-11-06T19:36:27+00:00",
+      "updatedAt": "2026-11-06T19:36:27+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/05/festival-d-automne-sebastien-kheroufi-nourrit-son-theatre-de-son-histoire-familiale_6807153_3246.html",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/11/06/le-cineaste-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-52-ans_6807860_3382.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "2efbcf6c1ced1803c53a68be47e8df653e34388790f31683ac7606b78688a1ec",
+      "summaryInput": "4e8297bf84b95255b71629c56ee04c5c1a5569f41ab481124f3eef4560d703b3",
       "detailLevel": "preview"
     },
     {
@@ -1076,30 +1082,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7694bd29cf0d4b4b56",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "« Au RN, les élus n’ont pas à discuter des choix opérés pour eux par la direction du parti »",
-      "bullets": [
-        "Qu’il s’agisse de l’élection de Jordan Bardella à la tête du Rassemblement national ou de la constitution des groupes à l’Assemblée nationale et au Sénat, la juriste Dorothée Reignier observe, dans une tribune au « Monde », un fonctionnement peu démocratique au sein du parti d’extrême droite, qui lui rappelle…"
-      ],
-      "publishedAt": "2026-11-06T10:00:05+00:00",
-      "updatedAt": "2026-11-06T10:00:05+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/06/au-rn-les-elus-n-ont-pas-a-discuter-des-choix-operes-pour-eux-par-la-direction-du-parti_6807762_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1db5285bb2acf427e2360d48c40491cba6c4fe6fa59f903fd470b98ab1e3782b",
       "detailLevel": "preview"
     },
     {
@@ -1207,6 +1189,34 @@
       "context": null
     },
     {
+      "id": "rss-c24b381e8fc288f3b3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
+      "bullets": [
+        "Mais quel est donc le calcul de Matignon ?",
+        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
+        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
+      ],
+      "publishedAt": "2026-11-06T14:10:59+00:00",
+      "updatedAt": "2026-11-06T14:10:59+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
+    },
+    {
       "id": "rss-25629de4d53a5eaff5",
       "revision": 1,
       "category": "france",
@@ -1231,28 +1241,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d608be2d6012bdee6a",
+      "id": "rss-e9a740b525482fae0a",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+      "topic": "Politique",
+      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
       "bullets": [
-        "Le gouvernement anticipe une hausse du smic avant la revalorisation automatique du 1er janvier, face aux mobilisations sociales contre la vie chère.",
-        "Sébastien Lecornu réunit lundi 9 novembre à Matignon une « conférence sociale » avec les organisations syndicales et patronales."
+        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
+        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
       ],
-      "publishedAt": "2026-11-06T08:25:47+00:00",
-      "updatedAt": "2026-11-06T08:25:47+00:00",
+      "publishedAt": "2026-11-06T10:45:04+00:00",
+      "updatedAt": "2026-11-06T10:45:04+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "98806333b0878abb6293aea9eed7d14b2b1c0104c377f3621ef90a3332bfbf77",
+      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
       "detailLevel": "preview"
     }
   ],
@@ -1279,7 +1289,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1327,7 +1337,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/culture/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1363,7 +1373,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
