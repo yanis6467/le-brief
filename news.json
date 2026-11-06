@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T03:00:01.499299+00:00",
+  "preparedAt": "2026-11-06T04:04:04.069708+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -166,30 +166,6 @@
       "context": null
     },
     {
-      "id": "rss-45d25173b98c25fd6c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La rémunération des cadres décline pour la première fois depuis 2010",
-      "bullets": [
-        "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi."
-      ],
-      "publishedAt": "2026-11-05T04:00:15+00:00",
-      "updatedAt": "2026-11-05T04:00:15+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -267,6 +243,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-45d25173b98c25fd6c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La rémunération des cadres décline pour la première fois depuis 2010",
+      "bullets": [
+        "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi."
+      ],
+      "publishedAt": "2026-11-05T04:00:15+00:00",
+      "updatedAt": "2026-11-05T04:00:15+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c0622654babe55d859",
       "revision": 1,
       "category": "eco",
@@ -323,12 +323,12 @@
     },
     {
       "id": "rss-6ac920303efec7af2f",
-      "revision": 1,
+      "revision": 2,
       "category": "markets",
       "topic": "Marchés",
       "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
       "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre.",
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
         "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
       ],
       "publishedAt": "2026-11-05T19:35:36+00:00",
@@ -343,7 +343,7 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "d8d98a4452666a7fba5789d43f5725560459143d229e8ada501ded6b9fab22b0",
+      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
       "detailLevel": "preview"
     },
     {
@@ -385,8 +385,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T02:57:07+00:00",
-      "updatedAt": "2026-11-06T02:57:07+00:00",
+      "publishedAt": "2026-11-06T04:00:04+00:00",
+      "updatedAt": "2026-11-06T04:00:04+00:00",
       "importance": 69,
       "sources": [
         {
@@ -441,7 +441,7 @@
       ],
       "publishedAt": "2026-11-05T04:00:03+00:00",
       "updatedAt": "2026-11-05T04:00:03+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -467,7 +467,7 @@
       ],
       "publishedAt": "2026-11-05T15:18:23+00:00",
       "updatedAt": "2026-11-05T15:18:23+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -906,7 +906,7 @@
       ],
       "publishedAt": "2026-11-05T15:36:56+00:00",
       "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1010,7 +1010,7 @@
       ],
       "publishedAt": "2026-11-04T16:00:30+00:00",
       "updatedAt": "2026-11-04T16:00:30+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
