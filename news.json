@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T09:09:00.408478+00:00",
+  "preparedAt": "2026-11-06T10:14:50.348400+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -31,7 +31,7 @@
       "provenance": "article-extract",
       "summaryInput": "75fe6a19ada994c92849c147ebb57c9e205548705e490d589f9db3788c65b301",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
     },
     {
@@ -87,6 +87,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0324125132b0e53552",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
+      "bullets": [
+        "L’ancien économiste en chef du Fonds monétaire international estime que le Rassemblement national défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs »."
+      ],
+      "publishedAt": "2026-11-06T05:00:27+00:00",
+      "updatedAt": "2026-11-06T05:00:27+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1b1cbc286c0650f5d8c8fb1a83709db2d0a9cae1013df910ebef5402afa90f24",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-94c0bf446f7026a18e",
       "revision": 1,
       "category": "eco",
@@ -99,7 +123,7 @@
       ],
       "publishedAt": "2026-11-05T21:37:55+00:00",
       "updatedAt": "2026-11-05T21:37:55+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -111,7 +135,35 @@
       "provenance": "article-extract",
       "summaryInput": "8841454970cde2a56f05c6bc5f6746cf9514ddbf146012a94038696d1aa8dcbd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-2eab4868a255c5fe47",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le salaire de base du privé en baisse sur un an, en prenant en compte l’inflation",
+      "bullets": [
+        "Le salaire mensuel de base dans le secteur privé a baissé de 1,1% sur un an au troisième trimestre en prenant en compte l'inflation, selon des résultats trimestriels provisoires du ministère du Travail, publiés vendredi en plein mouvement social pour une hausse des rémunérations.",
+        "Mais en euros constants, c'est-à-dire en prenant en compte l'inflation, il a baissé de 1,1 % sur un an.",
+        "En euros constants, il baisse sur un an de 1,2 % pour les ouvriers, de 0,8 % pour les employés et de 1,3 % pour les professions intermédiaires et les cadres."
+      ],
+      "publishedAt": "2026-11-06T10:09:47+00:00",
+      "updatedAt": "2026-11-06T10:09:47+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/le-salaire-de-base-du-prive-en-baisse-sur-un-an-en-prenant-en-compte-l-inflation-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "69b06b8c353071c5e3f2e4ccaf744993ca749f699ae491b8e67d9f23cac0ff8a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
     },
     {
@@ -252,58 +304,6 @@
       "context": null
     },
     {
-      "id": "rss-0324125132b0e53552",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
-      "bullets": [
-        "L’ancien économiste en chef du FMI estime que le RN défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs »."
-      ],
-      "publishedAt": "2026-11-06T05:00:30+00:00",
-      "updatedAt": "2026-11-06T05:00:30+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "59091789ad4f0adffa6b2602bd8c160514d946fe5cdfb5c2f703bc95d99f408f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-fd4da87e124edb21d7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : les candidats auditionnés par le patronat le 8 mars prochain au Grand Rex",
-      "bullets": [
-        "Patrick Martin (Medef), Amir Reza Tofighi (les Entrepreneurs, ex-Cmpe) et Michel Picon (U2P) «ont souhaité auditionner ensemble les candidats à l'élection présidentielle, le 8 mars 2027», ont indiqué les trois organisations dans un communiqué commun.",
-        "À quelques semaines du premier tour, le 18 avril, la liste des candidats sera sans doute quasiment établie au moment de cette rencontre.",
-        "L’U2P va recevoir les candidats individuellement L'U2P, qui représente les artisans, commerçants et professions libérales, a aussi annoncé cette semaine une série de rencontres de terrain avec des candidats."
-      ],
-      "publishedAt": "2026-11-05T20:54:36+00:00",
-      "updatedAt": "2026-11-05T20:54:36+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-candidats-auditionnes-par-le-patronat-le-8-mars-prochain-au-grand-rex-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "264f2338527a8ec787691d655f18e88a778433f62b5eb252c8dadae32a40b9fa",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T07:29:26.523385+00:00",
-      "context": null
-    },
-    {
       "id": "rss-fdab9a0a543e7db9f7",
       "revision": 1,
       "category": "eco",
@@ -420,9 +420,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T09:09:01+00:00",
-      "updatedAt": "2026-11-06T09:09:01+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-06T10:14:49+00:00",
+      "updatedAt": "2026-11-06T10:14:49+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -436,6 +436,34 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
+    },
+    {
+      "id": "rss-dccce98b5feedae94f",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "La déroute des valeurs technologiques à Wall Street jette une ombre sur l'introduction en Bourse record d'Anthropic",
+      "bullets": [
+        "Aux États-Unis, le Nasdaq a plongé de plus de 5,5% jeudi, signant sa plus forte baisse depuis avril 2025.",
+        "Selon une personne proche du dossier, le chiffre d’affaires annualisé d’Anthropic (un indicateur utilisé pour estimer les revenus annuels) a dépassé 80 milliards de dollars à la fin octobre, en hausse par rapport au mois précédent.",
+        "Une perte nette de 104 milliards de dollars sur neuf mois Cette prudence intervient alors même qu’Anthropic affiche une croissance spectaculaire, mais aussi des pertes et des engagements d’infrastructure colossaux."
+      ],
+      "publishedAt": "2026-11-06T10:00:52+00:00",
+      "updatedAt": "2026-11-06T10:00:52+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/la-deroute-des-valeurs-technologiques-a-wall-street-jette-une-ombre-sur-l-introduction-en-bourse-record-d-anthropic-1173320.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "118a6ce61e7b5409ce42bf5fe4e9e4cd809bd5c8602e83d99686a98d39a37ca6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-3e7afd27bd0ff75b9a",
@@ -530,7 +558,7 @@
       ],
       "publishedAt": "2026-11-04T09:17:13+00:00",
       "updatedAt": "2026-11-04T09:17:13+00:00",
-      "importance": 56,
+      "importance": 55,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -544,31 +572,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5a145bdc8a4b8e2d14",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
-      "bullets": [
-        "DÉCRYPTAGE - La victoire parlementaire des démocrates ne devrait pas donner lieu à un grand virage économique, car le président a les moyens de bloquer les textes législatifs.",
-        "Tout dépendra de la capacité des deux camps à trouver des compromis."
-      ],
-      "publishedAt": "2026-11-05T08:57:39+00:00",
-      "updatedAt": "2026-11-05T08:57:39+00:00",
-      "importance": 83,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-commerciale-ia-budget-au-congres-un-bras-de-fer-se-prepare-entre-les-democrates-et-donald-trump-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "80f3fd830e06d2819ad797105dcb7c41fbbd75e6390bcd5632695d2e8a4ade09",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-29213fb814a739de92",
@@ -599,6 +602,30 @@
       "context": null
     },
     {
+      "id": "rss-9e100ae98eccaf0c49",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
+      "bullets": [
+        "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine."
+      ],
+      "publishedAt": "2026-11-06T09:19:13+00:00",
+      "updatedAt": "2026-11-06T09:19:13+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "807719082a081175236c0b24ff73311ca52524cdd03d52965fbed6fa595aa566",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -623,8 +650,57 @@
       "provenance": "article-extract",
       "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
+    },
+    {
+      "id": "rss-1c0d0793f04d3278f4",
+      "revision": 1,
+      "category": "world",
+      "topic": "Politique",
+      "title": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
+      "bullets": [
+        "La France insoumise évoque la fin de la solution à deux Etats et propose la suspension de l’accord d’association entre Israël et l’Union européenne, dans « L’Avenir en commun », publié vendredi 6 novembre.",
+        "La question ukrainienne est, quant à elle, renvoyée à la portion congrue."
+      ],
+      "publishedAt": "2026-11-06T09:33:42+00:00",
+      "updatedAt": "2026-11-06T09:33:42+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6de4497331fb8d3d07926d4085edda8491a094c0f65569aba99518b51a8da6a9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0d91440bc745ab01d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
+      "bullets": [
+        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
+      ],
+      "publishedAt": "2026-11-06T09:12:30+00:00",
+      "updatedAt": "2026-11-06T09:12:30+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-80c8ce7c9161a601df",
@@ -648,30 +724,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "46be335cdad3c950855263b38b591c7be984b099f53d432e1a54fcf8c70dca4b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0d91440bc745ab01d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
-      "bullets": [
-        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
-      ],
-      "publishedAt": "2026-11-06T05:45:00+00:00",
-      "updatedAt": "2026-11-06T05:45:00+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
       "detailLevel": "preview"
     },
     {
@@ -710,7 +762,7 @@
       ],
       "publishedAt": "2026-11-05T21:59:54+00:00",
       "updatedAt": "2026-11-05T21:59:54+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -721,31 +773,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b58937d8d70fc02194",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
-      "bullets": [
-        "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ».",
-        "Sa décision, annoncée jeudi 5 novembre, concerne un quart des condamnés à mort aux Etats-Unis."
-      ],
-      "publishedAt": "2026-11-05T21:55:02+00:00",
-      "updatedAt": "2026-11-05T21:55:02+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4b11c306989bf7c9cb23e6e8a82a2ee2d37af77d99961eb38a05d676b43cdcea",
       "detailLevel": "preview"
     },
     {
@@ -770,6 +797,30 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "0ae55c1677e002d7d091d43c2f3fa04cfff4ad99d84aa1690d2c8b90a7ca8a95",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6de4ad8871d11134d0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
+      "bullets": [
+        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
+      ],
+      "publishedAt": "2026-11-06T09:13:08+00:00",
+      "updatedAt": "2026-11-06T09:13:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
       "detailLevel": "preview"
     },
     {
@@ -826,51 +877,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6de4ad8871d11134d0",
+      "id": "rss-7694bd29cf0d4b4b56",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
-      "bullets": [
-        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
-      ],
-      "publishedAt": "2026-11-05T19:15:00+00:00",
-      "updatedAt": "2026-11-05T19:15:00+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1344132ed1abe852e4",
-      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme « L’Avenir en commun » autour du concept de « nouvelle France »",
+      "title": "« Au RN, les élus n’ont pas à discuter des choix opérés pour eux par la direction du parti »",
       "bullets": [
-        "Le programme de La France insoumise, paru ce vendredi, érige la bifurcation écologique en priorité absolue tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
+        "Qu’il s’agisse de l’élection de Jordan Bardella à la tête du Rassemblement national ou de la constitution des groupes à l’Assemblée nationale et au Sénat, la juriste Dorothée Reignier observe, dans une tribune au « Monde », un fonctionnement peu démocratique au sein du parti d’extrême droite, qui lui rappelle…"
       ],
-      "publishedAt": "2026-11-06T05:30:00+00:00",
-      "updatedAt": "2026-11-06T05:30:00+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-06T10:00:05+00:00",
+      "updatedAt": "2026-11-06T10:00:05+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/06/au-rn-les-elus-n-ont-pas-a-discuter-des-choix-operes-pour-eux-par-la-direction-du-parti_6807762_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "9fa7abcfae3b8108b9c8183a53097ddcf36535c0c915633833b4f9bf74685439",
+      "summaryInput": "1db5285bb2acf427e2360d48c40491cba6c4fe6fa59f903fd470b98ab1e3782b",
       "detailLevel": "preview"
     },
     {
@@ -934,7 +961,7 @@
       ],
       "publishedAt": "2026-11-04T09:12:25+00:00",
       "updatedAt": "2026-11-04T09:12:25+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -974,31 +1001,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cf41b9be95465c8efa",
+      "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Alertes à la bombe, des avions déroutés",
+      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
+        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
+        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
       ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "publishedAt": "2026-11-05T21:34:22+00:00",
+      "updatedAt": "2026-11-05T21:34:22+00:00",
       "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
     },
     {
@@ -1152,34 +1179,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-63fc8d536e5d0163ee",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
-      "bullets": [
-        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
-        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
-        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
-      ],
-      "publishedAt": "2026-11-05T21:34:22+00:00",
-      "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3d3629363808250abb",
       "revision": 1,
       "category": "france",
@@ -1202,6 +1201,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cf41b9be95465c8efa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Alertes à la bombe, des avions déroutés",
+      "bullets": [
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+      ],
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "context": null
     },
     {
       "id": "rss-d608be2d6012bdee6a",
@@ -1229,28 +1256,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e96b780a8ca381e4f0",
-      "revision": 1,
+      "id": "rss-1344132ed1abe852e4",
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
-      "title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
       "bullets": [
-        "Des internautes dont les vidéos ont été supprimées ou qui ont constaté une baisse du nombre de vues dénoncent une invisibilisation orchestrée par les plateformes sous pression politique.",
-        "Difficile à étayer, ce sentiment s’explique néanmoins par l’opacité des réseaux sociaux et l’obsession du gouvernement à leur égard."
+        "Le programme de La France insoumise, paru ce vendredi, érige la bifurcation écologique en priorité absolue tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes les formes de racisme »."
       ],
-      "publishedAt": "2026-11-06T05:00:38+00:00",
-      "updatedAt": "2026-11-06T05:00:38+00:00",
+      "publishedAt": "2026-11-06T05:30:00+00:00",
+      "updatedAt": "2026-11-06T05:30:00+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "22338c00203dc25dcc60c4f472626423ce895cb3c25a1de9a3a40823da9a9861",
+      "summaryInput": "7932e201793064e05d26d33be20b1a5f71d6bd8a7bd81d794215c3d51ce62464",
       "detailLevel": "preview"
     }
   ],
@@ -1277,7 +1303,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1289,7 +1315,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1313,7 +1339,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Figaro",
@@ -1367,7 +1393,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
