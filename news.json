@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T04:04:04.069708+00:00",
+  "preparedAt": "2026-11-06T05:20:25.232246+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -17,7 +17,7 @@
       ],
       "publishedAt": "2026-11-05T05:00:08+00:00",
       "updatedAt": "2026-11-05T05:00:08+00:00",
-      "importance": 92,
+      "importance": 91,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -166,6 +166,34 @@
       "context": null
     },
     {
+      "id": "rss-fa4c98ba34aa686261",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Le chauffage avant décembre ? Jamais !\" : contraints d'économiser à cause de l'inflation, des utilisateurs de TikTok partagent des astuces pour supporter le froid",
+      "bullets": [
+        "Après une augmentation de 6,6% au 1er novembre, les tarifs du gaz pourraient connaître une nouvelle hausse en décembre.",
+        "Au 1er décembre, le prix repère du gaz va augmenter de 7%.",
+        "Dans son logement, le thermomètre affiche 16 degrés, mais pas question de céder : \"Payer le chauffage avant décembre ?"
+      ],
+      "publishedAt": "2026-11-06T05:09:42+00:00",
+      "updatedAt": "2026-11-06T05:09:42+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/le-chauffage-avant-decembre-jamais-contraints-d-economiser-a-cause-de-l-inflation-des-utilisateurs-de-tiktok-partagent-des-astuces-pour-supporter-le-froid_8269046.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "3d59331a232fe6f67484d25fef9341a1133371f9410bc7a2482109664ce75d40",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -243,30 +271,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-45d25173b98c25fd6c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La rémunération des cadres décline pour la première fois depuis 2010",
-      "bullets": [
-        "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi."
-      ],
-      "publishedAt": "2026-11-05T04:00:15+00:00",
-      "updatedAt": "2026-11-05T04:00:15+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4f75c44cd3941daf8658f29d2e14b741944876d6b71be35cdc13b659f31dcf5",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c0622654babe55d859",
       "revision": 1,
       "category": "eco",
@@ -294,56 +298,27 @@
       "context": null
     },
     {
-      "id": "rss-445e41deca8d466d76",
+      "id": "rss-0324125132b0e53552",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
+      "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
       "bullets": [
-        "Léa Balage El Mariky, comment qualifiez-vous cette journée ?",
-        "Et en même temps il y a un espoir, parce que dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés, a fait peut-être émerger cette espérance.",
-        "Et je représente une famille politique qui n'a pas rien à voir avec les 10 dernières années, donc une capacité aussi à se remettre en question et à voir qu'aujourd'hui, dans notre pays, vous avez des gens qui manifestent…Il se remet en question, Gabriel Attal ?"
+        "L’ancien économiste en chef du FMI estime que le RN défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs »."
       ],
-      "publishedAt": "2026-11-05T21:57:39+00:00",
-      "updatedAt": "2026-11-05T21:57:39+00:00",
+      "publishedAt": "2026-11-06T05:00:30+00:00",
+      "updatedAt": "2026-11-06T05:00:30+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "d42d43fafca305b5481b5d40cab54a2bdbf5cd1ce0b5edda2fc35263bf7f0ac2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T01:24:41.941231+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6ac920303efec7af2f",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "bullets": [
-        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
-        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
-      ],
-      "publishedAt": "2026-11-05T19:35:36+00:00",
-      "updatedAt": "2026-11-05T19:35:36+00:00",
-      "importance": 81,
-      "sources": [
-        {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
+      "summaryInput": "59091789ad4f0adffa6b2602bd8c160514d946fe5cdfb5c2f703bc95d99f408f",
       "detailLevel": "preview"
     },
     {
@@ -385,8 +360,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T04:00:04+00:00",
-      "updatedAt": "2026-11-06T04:00:04+00:00",
+      "publishedAt": "2026-11-06T05:18:52+00:00",
+      "updatedAt": "2026-11-06T05:18:52+00:00",
       "importance": 69,
       "sources": [
         {
@@ -415,7 +390,7 @@
       ],
       "publishedAt": "2026-11-05T16:54:06+00:00",
       "updatedAt": "2026-11-05T16:54:06+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -429,30 +404,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
       "context": "Résultats du troisième trimestre"
-    },
-    {
-      "id": "rss-5604cd0cd118c7602c",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
-      "bullets": [
-        "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes."
-      ],
-      "publishedAt": "2026-11-05T04:00:03+00:00",
-      "updatedAt": "2026-11-05T04:00:03+00:00",
-      "importance": 61,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "634271db2a0e1e8b9925e0e8c0bad689e9a3274d5ebf71204bc6069c0d5e3bc1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-0dc1780ac97141bab1",
@@ -479,7 +430,7 @@
       "provenance": "article-extract",
       "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-05T16:17:05.968575+00:00",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -592,27 +543,28 @@
       "context": null
     },
     {
-      "id": "rss-e1a7a35719c409d370",
-      "revision": 4,
+      "id": "rss-6ac920303efec7af2f",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Crise politique au Paraguay après l’annonce de la démission du président Santiago Peña",
+      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
       "bullets": [
-        "Faute de vote au Parlement, M. Peña reste techniquement à la tête de l’Etat mais il est visé par une procédure de destitution. Cette séquence est provoquée par l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de…"
+        "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre.",
+        "Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers."
       ],
-      "publishedAt": "2026-11-05T17:43:41+00:00",
-      "updatedAt": "2026-11-05T17:43:41+00:00",
+      "publishedAt": "2026-11-05T19:35:36+00:00",
+      "updatedAt": "2026-11-05T19:35:36+00:00",
       "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "80779282a4047c03747cbfe68f8319c780984dc16d153e44c4aa8e2b6322e0ff",
+      "summaryInput": "4ea233ad91f39da0996f08b43f3133a22021af24c7b0a252f82e6ca08e33a5c2",
       "detailLevel": "preview"
     },
     {
@@ -718,27 +670,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-045fece243a05aa8d4",
+      "id": "rss-3d014e88571f5853ec",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Nigeria : la justice annule la candidature à l’élection présidentielle de l’opposant Atiku Abubakar",
+      "title": "En Ukraine, l’ombre russe derrière une supposée « prison clandestine » pour les réfractaires à la mobilisation",
       "bullets": [
-        "Le candidat du Congrès démocratique africain était arrivé deuxième à l’élection présidentielle de 2023 avec 29 % des voix."
+        "RÉCIT - Une opération de manipulation se dessine derrière l’émeute qui a éclaté lundi soir dans une banlieue de Kiev, autour d’une maison où étaient retenus quatorze hommes fraîchement mobilisés.",
+        "Un sujet inflammable dans un pays usé par bientôt cinq ans de guerre."
       ],
-      "publishedAt": "2026-11-05T17:46:30+00:00",
-      "updatedAt": "2026-11-05T17:46:30+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "updatedAt": "2026-11-06T05:00:00+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/05/nigeria-la-justice-annule-la-candidature-a-l-election-presidentielle-de-l-opposant-atiku-abubakar_6807290_3212.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/en-ukraine-l-ombre-russe-derriere-une-supposee-prison-clandestine-pour-les-refractaires-a-la-mobilisation-20261106",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "0c48b03aba26353c80843d188a5a50c52c653058651020a7b939ee1e76d4d1ca",
+      "summaryInput": "bc6bfa3b0602c81d444d92dd8c03dd246dae0b00448d870b7176b7f90528d90a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-16312d5bac4da2d4c6",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’immense arc de triomphe souhaité par Donald Trump à Washington validé par une commission publique",
+      "bullets": [
+        "Malgré des recours en justice en cours, ce projet d’arche monumentale de 76 mètres de haut a franchi une étape décisive avec l’aval de la Commission nationale de planification de la capitale."
+      ],
+      "publishedAt": "2026-11-06T04:57:10+00:00",
+      "updatedAt": "2026-11-06T04:57:10+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/l-immense-arc-de-triomphe-souhaite-par-donald-trump-a-washington-valide-par-une-commission-publique_6807717_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "935a2a24f7250da28479d0894e3a693ee23f63738fc54623a8d25ced8aa89a40",
       "detailLevel": "preview"
     },
     {
@@ -815,56 +792,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a4fea36a00d699f33c",
+      "id": "rss-e96b780a8ca381e4f0",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine",
-      "bullets": [
-        "La Première dame américaine Melania Trump a appelé, jeudi 5 novembre, à un cessez-le-feu \"durable\" en Ukraine lors d'une conférence de presse donnée à la Maison Blanche en présence de représentants russes et ukrainiens.",
-        "Tout réel changement commence par une petite étincelle\", a continué la Première dame.",
-        "Le cessez-le-feu à Olechky n'aurait pas été possible sans les présidents Poutine et Zelensky."
-      ],
-      "publishedAt": "2026-11-05T17:51:09+00:00",
-      "updatedAt": "2026-11-05T17:51:09+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "ce34d85d611b0b3a4457931a7834eed3d4ccd28dfa6b5b9acaa73f590068150f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-a5ada77c87604be918",
-      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Raphaël Glucksmann endure des huées de sympathisants « insoumis » à la manifestation du 5 novembre",
+      "title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
       "bullets": [
-        "Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales.",
-        "Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger de la place de la République, bloqué par plusieurs dizaines de partisans de La France insoumise."
+        "Des internautes dont les vidéos ont été supprimées ou qui ont constaté une baisse du nombre de vues dénoncent une invisibilisation orchestrée par les plateformes sous pression politique.",
+        "Difficile à étayer, ce sentiment s’explique néanmoins par l’opacité des réseaux sociaux et l’obsession du gouvernement à leur égard."
       ],
-      "publishedAt": "2026-11-05T20:29:01+00:00",
-      "updatedAt": "2026-11-05T20:29:01+00:00",
+      "publishedAt": "2026-11-06T05:00:38+00:00",
+      "updatedAt": "2026-11-06T05:00:38+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "b0a426143a406904cc95ea85d443856a1c7f367425b4093afb105be23a39f870",
+      "summaryInput": "22338c00203dc25dcc60c4f472626423ce895cb3c25a1de9a3a40823da9a9861",
       "detailLevel": "preview"
     },
     {
@@ -1098,34 +1047,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-765fbdb082430d0e5f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "TikTok n'a eu qu'un rôle \"très limité\" dans les violences en marge des manifestations et des blocus lycéens, selon une étude",
-      "bullets": [
-        "Une étude du Centre pour la recherche économique et ses applications (Cepremap), publiée mardi 3 novembre, nuance néanmoins le rôle de TikTok dans la mobilisation.",
-        "Les trois auteurs, spécialistes en sciences sociales computationnelles et en sociologie politique, ont examiné près d'un million de vidéos publiques, cumulant 16 milliards de vues et 4,5 millions de commentaires, entre le 1er septembre et le 29 octobre.",
-        "Par ailleurs, \"les commentaires des vidéos montrant des violences condamnent ces actes près de dix fois plus qu'ils ne les célèbrent et les appels explicites à la violence représentent 0,27% des commentaires\"."
-      ],
-      "publishedAt": "2026-11-05T17:18:22+00:00",
-      "updatedAt": "2026-11-05T17:18:22+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/tiktok-n-a-eu-qu-un-role-tres-limite-dans-les-violences-en-marge-des-manifestations-et-des-blocus-lyceens-selon-une-etude_8269067.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "45fa76815a61e423b3b264b832d632532462d01c1d6e93e0a79b47383b21e4be",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-05T17:28:25.470772+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5c60041988595cdf2d",
       "revision": 1,
       "category": "france",
@@ -1198,30 +1119,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-54b958415d161c193b",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Hostilité envers la police, guerre ouverte avec Gérald Darmanin... Au cœur de la crise sociale, les dérives idéologiques du Syndicat de la magistrature",
-      "bullets": [
-        "ENQUÊTE - Dans une société polarisée, qui doute de plus en plus de sa justice, l’organisation professionnelle assume son activisme politique."
-      ],
-      "publishedAt": "2026-11-03T09:59:41+00:00",
-      "updatedAt": "2026-11-03T09:59:41+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/hostilite-envers-la-police-guerre-ouverte-avec-gerald-darmanin-au-coeur-de-la-crise-sociale-les-derives-ideologiques-du-syndicat-de-la-magistrature-20261102",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "688b6aa93d952209776cd99aaf46a3c7d59fc25120d18a63fc65827b825b564b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
@@ -1248,6 +1145,59 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-05T21:57:09.510761+00:00",
       "context": null
+    },
+    {
+      "id": "rss-cf41b9be95465c8efa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Alertes à la bombe, des avions déroutés",
+      "bullets": [
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+      ],
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8b756b7d3b2093f348",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Grève du 5 novembre : Lecornu convoque syndicats et patronat pour une « conférence sociale » à Matignon",
+      "bullets": [
+        "Avec ce rendez-vous prévu lundi 9 novembre, le premier ministre espère engager un dialogue plus balisé que le tête-à-tête avec les mouvements de jeunes.",
+        "Mais les marges de manœuvre sont faibles pour des avancées sur le pouvoir d’achat et les salaires."
+      ],
+      "publishedAt": "2026-11-06T04:45:03+00:00",
+      "updatedAt": "2026-11-06T04:45:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-lecornu-convoque-syndicats-et-patronat-pour-une-conference-sociale-a-matignon_6807684_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "73fdfcfd0926ce793077c3c03806463942c85833b25bc2fb3c8703f189359aae",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1273,7 +1223,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1285,7 +1235,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1309,7 +1259,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1327,7 +1277,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1351,7 +1301,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
