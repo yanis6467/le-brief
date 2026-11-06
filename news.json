@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T21:51:53.393699+00:00",
+  "preparedAt": "2026-11-06T22:53:23.473460+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -100,7 +100,7 @@
       ],
       "publishedAt": "2026-11-06T10:24:55+00:00",
       "updatedAt": "2026-11-06T10:24:55+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -254,31 +254,6 @@
       "context": null
     },
     {
-      "id": "rss-e9a740b525482fae0a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
-      "bullets": [
-        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
-        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
-      ],
-      "publishedAt": "2026-11-06T10:45:04+00:00",
-      "updatedAt": "2026-11-06T10:45:04+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9e4b7eae1748edb85a",
       "revision": 1,
       "category": "eco",
@@ -335,6 +310,34 @@
       "context": null
     },
     {
+      "id": "rss-b6af2e8b93ac339129",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Éventuelle hausse du smic : quel est le profil des salariés qui sont payés au salaire minimum ?",
+      "bullets": [
+        "Le ministre du Travail Jean-Pierre Farandou a jugé \"important\" vendredi 6 novembre d'essayer de \"franchir la barre\" des 1 500 euros net, contre 1 477 euros en novembre 2026.",
+        "Près de 60% sont des femmesLa plupart du temps, les salariés payés au smic travaillent pour de très petites entreprises, composées de moins de dix salariés.",
+        "Près de 60% des personnes qui touchent le salaire minimum sont des femmes."
+      ],
+      "publishedAt": "2026-11-06T16:05:23+00:00",
+      "updatedAt": "2026-11-06T16:05:23+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/qui-sont-les-deux-millions-de-salaries-concernes-directement-par-une-eventuelle-hausse-du-smic_8270882.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "e00b0fdc22d21973150c7b0093fcbce91640dca2d8a4a60cff426fc1721dc948",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T22:53:23.473460+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -373,8 +376,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T21:50:08+00:00",
-      "updatedAt": "2026-11-06T21:50:08+00:00",
+      "publishedAt": "2026-11-06T22:51:57+00:00",
+      "updatedAt": "2026-11-06T22:51:57+00:00",
       "importance": 69,
       "sources": [
         {
@@ -459,7 +462,7 @@
       ],
       "publishedAt": "2026-11-06T10:00:52+00:00",
       "updatedAt": "2026-11-06T10:00:52+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -471,7 +474,7 @@
       "provenance": "article-extract",
       "summaryInput": "118a6ce61e7b5409ce42bf5fe4e9e4cd809bd5c8602e83d99686a98d39a37ca6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T22:53:23.473460+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -611,34 +614,6 @@
       "context": null
     },
     {
-      "id": "rss-87e74309340fcbacc3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
-      "bullets": [
-        "Les entreprises d'Elon Musk ont perdu près de 160 milliards de dollarsAprès la défaite du camp républicain aux midterms, les valeurs liées à l'intelligence artificielle s'effondrent, jeudi 5 et vendredi 6 novembre.",
-        "En Corée du Sud, l'indice dévisse de 9% et à New York, le Nasdaq plonge de 5,52%.",
-        "En conséquence, les sept grandes entreprises de la tech dont font partie Meta ou Nvidia ont lâché en une seule séance environ 800 milliards de dollars, jeudi."
-      ],
-      "publishedAt": "2026-11-06T10:46:42+00:00",
-      "updatedAt": "2026-11-06T10:46:42+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "06afeab195f78112073ec07d4447d673321d41a17935db901041d4a61e46f182",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
-      "context": null
-    },
-    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -663,7 +638,35 @@
       "provenance": "article-extract",
       "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T22:53:23.473460+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-87e74309340fcbacc3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
+      "bullets": [
+        "Les entreprises d'Elon Musk ont perdu près de 160 milliards de dollarsAprès la défaite du camp républicain aux midterms, les valeurs liées à l'intelligence artificielle s'effondrent, jeudi 5 et vendredi 6 novembre.",
+        "En Corée du Sud, l'indice dévisse de 9% et à New York, le Nasdaq plonge de 5,52%.",
+        "En conséquence, les sept grandes entreprises de la tech dont font partie Meta ou Nvidia ont lâché en une seule séance environ 800 milliards de dollars, jeudi."
+      ],
+      "publishedAt": "2026-11-06T10:46:42+00:00",
+      "updatedAt": "2026-11-06T10:46:42+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "06afeab195f78112073ec07d4447d673321d41a17935db901041d4a61e46f182",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
       "context": null
     },
     {
@@ -688,31 +691,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f9f5ab1351c264c7ae",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
-      "bullets": [
-        "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis.",
-        "Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée»."
-      ],
-      "publishedAt": "2026-11-05T21:59:54+00:00",
-      "updatedAt": "2026-11-05T21:59:54+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3aef3160717097f7615a823f08104ae050bbe1086d20f889efe1573f8e0099d5",
       "detailLevel": "preview"
     },
     {
@@ -761,30 +739,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "e01da41c6230ee22279232c31517cc4746b920250a0ed78b6a37dd53942ba2d1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-385ed65b1f19fbf06a",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Nigeria, Atiku Abubakar maintient sa candidature à la présidentielle malgré l’annulation par la justice",
-      "bullets": [
-        "Jeudi, un tribunal d’Abuja a annulé la candidature de celui qui brigue pour la septième fois la magistrature suprême en invalidant toutes les décisions prises par le président de sa formation politique, le Congrès démocratique africain (ADC), jugé illégitime."
-      ],
-      "publishedAt": "2026-11-06T15:56:14+00:00",
-      "updatedAt": "2026-11-06T15:56:14+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/06/nigeria-atiku-abubakar-maintient-sa-candidature-a-la-presidentielle-malgre-l-annulation-par-la-justice_6807809_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cddbfd5c128e6c479ac697242230464723752b47ac2679d389da572616a071e3",
       "detailLevel": "preview"
     },
     {
@@ -858,6 +812,54 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "7cf2db3e775d270adbb7b8ec93ae99502b7d5cf6c5831d00e4ed4f6b0e7cfc63",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f7f770332a58ea4390",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La ratification par le Parlement turc du « pacte de La Mecque » convoque pour l’opposition le souvenir douloureux des guerres ottomanes au Yémen",
+      "bullets": [
+        "L’alliance militaire entre la Turquie, le Pakistan et l’Arabie saoudite, qui calque en apparence la clause de défense mutuelle de l’OTAN, laisse toutefois aux parties la décision de la nature et de l’ampleur de leur aide alors qu’un risque d’intervention au Yémen est critiqué par ses détracteurs."
+      ],
+      "publishedAt": "2026-11-06T16:48:12+00:00",
+      "updatedAt": "2026-11-06T16:48:12+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/la-ratification-par-le-parlement-turc-du-pacte-de-la-mecque-convoque-pour-l-opposition-le-souvenir-douloureux-des-guerres-ottomanes-au-yemen_6807828_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "253223155cf48b2c0c25a497561ea9f6cf749fccd3019e726cd0b3cad4bb8eaf",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6de4ad8871d11134d0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
+      "bullets": [
+        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
+      ],
+      "publishedAt": "2026-11-06T09:13:08+00:00",
+      "updatedAt": "2026-11-06T09:13:08+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
       "detailLevel": "preview"
     },
     {
@@ -961,7 +963,7 @@
       "provenance": "article-extract",
       "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T22:53:23.473460+00:00",
       "context": null
     },
     {
@@ -975,7 +977,7 @@
       ],
       "publishedAt": "2026-11-06T10:35:00+00:00",
       "updatedAt": "2026-11-06T10:35:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1156,7 +1158,7 @@
       ],
       "publishedAt": "2026-11-04T10:17:01+00:00",
       "updatedAt": "2026-11-04T10:17:01+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Figaro",
