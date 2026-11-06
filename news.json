@@ -1,90 +1,38 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T10:14:50.348400+00:00",
+  "preparedAt": "2026-11-06T11:15:30.232018+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-3ad0c0fef46023a18e",
+      "id": "rss-3e0a87a3b47438271c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "\"C'est une attaque hybride comme les autres\" : qui menace les avions européens ?",
+      "title": "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
       "bullets": [
-        "En cas d'alerte, quelles sont les procédures prévues ?",
-        "Une attaque à coût zéroUne escorte militaire, voire un atterrissage d'urgence.",
-        "Aucune certitude, mais elles interviennent dans un contexte d'attaques hybrides en Europe, notamment avec les piratages des frigos des supermarchés sur lesquels plane l'ombre de la Russie, même si le Kremlin a démenti ce jeudi 5 novembre."
+        "Un accident de car dans l'Ain fait au moins 2 morts",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
       ],
-      "publishedAt": "2026-11-05T20:55:07+00:00",
-      "updatedAt": "2026-11-05T20:55:07+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/aeronautique/c-est-une-attaque-hybride-comme-les-autres-qui-menace-les-avions-europeens_8269850.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "75fe6a19ada994c92849c147ebb57c9e205548705e490d589f9db3788c65b301",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-164e8ebde95203e0b4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les Bourses de Tokyo et Séoul plongent, après la dégringolade des valeurs technologiques américaines",
-      "bullets": [
-        "Le Nikkei, indice vedette de Tokyo, reculait de 5,69% à 57.602 points vers 00h50 GMT (02h50 à Paris) tandis qu’en Corée du Sud, l’indice Kospi dévissait de 7,92 % à 4.957 points, déclenchant un mécanisme de suspension automatique des échanges qui a interrompu les transactions pendant vingt minutes.",
-        "Samsung Electronics a chuté de près de 10%, tandis que SK hynix a perdu plus de 11 %.",
-        "La débâcle technologique a également affecté les valeurs liées aux semi-conducteurs au Japon, l’action Tokyo Electron reculant d’environ 9 % et Kioxia abandonnant 13 %."
-      ],
-      "publishedAt": "2026-11-06T05:59:07+00:00",
-      "updatedAt": "2026-11-06T05:59:07+00:00",
+      "publishedAt": "2026-11-06T10:15:13+00:00",
+      "updatedAt": "2026-11-06T10:15:13+00:00",
       "importance": 81,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/le-nikkei-chute-de-plus-de-5-apres-la-degringolade-des-valeurs-technologiques-americaines-20261106",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/crise/3-millions-de-paraguayens-ne-peuvent-plus-acceder-a-leurs-economies_8270630.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "167977363c4189b0355db9f27e027ad4f86e125c81aaf8e44158e9b7ec587692",
+      "summaryInput": "af566bec377d9387cc518e15a630b3676af4a80a29b4096f26214292e5764356",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T06:11:48.178721+00:00",
+      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
       "context": null
-    },
-    {
-      "id": "rss-4ad9529cafc25cdb7e",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-      "bullets": [
-        "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie."
-      ],
-      "publishedAt": "2026-11-05T12:00:07+00:00",
-      "updatedAt": "2026-11-05T12:00:07+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3d3107750d59f8d38813d2fb7caa1c34fcbd392ffd5e4887cc5e45daa6b461a5",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-0324125132b0e53552",
@@ -137,6 +85,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
+    },
+    {
+      "id": "rss-e8924bcab2b3a61f83",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les salaires du privé ont baissé de 1,1 % sur un an, en prenant en compte l’inflation",
+      "bullets": [
+        "Sans correction de la hausse des prix, l’indice du salaire mensuel de base des salariés a progressé de 0,2 % au troisième trimestre par rapport au trimestre précédent et augmenté de 1,9 % sur un an."
+      ],
+      "publishedAt": "2026-11-06T10:24:55+00:00",
+      "updatedAt": "2026-11-06T10:24:55+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/les-salaires-du-prive-ont-baisse-de-1-1-sur-un-an-en-prenant-en-compte-l-inflation_6807767_1656968.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1e6b73d730c1a7b86e6cace5307ca668f98435e1da719aa6dd614166d86701eb",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-2eab4868a255c5fe47",
@@ -195,6 +167,33 @@
       "context": null
     },
     {
+      "id": "rss-a30840597ab9f2515c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Une nouvelle fausse alerte à la bombe vise un vol Ryanair au départ de Lisbonne",
+      "bullets": [
+        "Un vol de la compagnie Ryanair qui devait partir de Lisbonne en direction de Rome ce vendredi 6 novembre a été visé par une «menace de bombe» qui s'est avérée une fausse alerte, a indiqué la police portugaise.",
+        "Une vingtaine de fausses alertes à la bombe avaient déjà perturbé le trafic aérien en Europe depuis le début de la semaine, obligeant les autorités à dérouter certains vols ou à faire décoller des avions de chasse pour escorter plusieurs appareils civils."
+      ],
+      "publishedAt": "2026-11-06T11:02:01+00:00",
+      "updatedAt": "2026-11-06T11:02:01+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/une-nouvelle-fausse-alerte-a-la-bombe-vise-un-vol-ryanair-au-depart-de-lisbonne-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "729f4d5ef128d58328d9ef19271855f48bcfed9229a97844c90f2a2413d240ff",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -217,6 +216,59 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "8dcbae40e0e5cadd9ef292749d860d48b6e7288fb3056b086847bf38ca907f97",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6f26c845ea39780378",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Stocks stratégiques de céréales : le ministère de l’Agriculture lance une mission flash",
+      "bullets": [
+        "La Suède, par exemple, a indiqué en octobre 2025 qu'elle mettait en place des réserves de céréales dans le nord du pays, à utiliser en cas de guerre ou de crise.",
+        "La France est la première puissance agricole de l'Union européenne (1er producteur de blé et maïs), mais ses surfaces de cultures diminuent en raison, selon l'AGPB, de la faible rentabilité des cultures céréalières.",
+        "Les surfaces cultivées pour les céréales à paille ont ainsi reculé de 900.000 hectares en dix ans, passant de 8,1 millions d'hectares en 2016 à 7,2 millions en 2026, selon l'AGPB."
+      ],
+      "publishedAt": "2026-11-06T10:45:12+00:00",
+      "updatedAt": "2026-11-06T10:45:12+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/stocks-strategiques-de-cereales-le-ministere-de-l-agriculture-lance-une-mission-flash-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "a59c840865effdfc46e31ddbd5cc17d070d9055bdd4cd88b55804605f8afcf8c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-e9a740b525482fae0a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+      "bullets": [
+        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
+        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la péninsule"
+      ],
+      "publishedAt": "2026-11-06T10:45:05+00:00",
+      "updatedAt": "2026-11-06T10:45:05+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9d4da2784284b91c881ddd1d684998cfe4fb5167b7db3b9a032b12cd795cab31",
       "detailLevel": "preview"
     },
     {
@@ -276,59 +328,6 @@
       "context": null
     },
     {
-      "id": "rss-9e4b7eae1748edb85a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du Smic : franchir la «barre des 1500 euros net» est «important» pour le ministre du Travail",
-      "bullets": [
-        "Le ministre du Travail Jean-Pierre Farandou a jugé «important» d'essayer de «franchir la barre» des 1500 euros net pour le Smic mensuel, actuellement de 1477,93 euros, sur TF1 ce vendredi 6 novembre.",
-        "Les syndicats réclament entre 100 et 150 euros net de plus.",
-        "Le cas échéant, la décision devrait être prise la semaine prochaine pour être appliquée à temps."
-      ],
-      "publishedAt": "2026-11-06T07:38:30+00:00",
-      "updatedAt": "2026-11-06T07:38:30+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-franchir-la-barre-des-1500-euros-net-est-important-pour-le-ministre-du-travail-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "981ab7d85364128274c145eb319a9211889723a2530f59c1a855f2ee4fb7222a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fdab9a0a543e7db9f7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On ne va pas faire le cirque habituel » : dans les coulisses des arbitrages budgétaires de Sébastien Lecornu",
-      "bullets": [
-        "RÉCIT - S’il passe par 49.3 ou par ordonnances, scénarios les plus probables, le budget 2027 sera très proche de la copie originelle.",
-        "Le premier ministre y a imprimé sa marque personnelle et sa méthode au cours d’intenses et discrètes semaines de préparation."
-      ],
-      "publishedAt": "2026-11-05T18:07:54+00:00",
-      "updatedAt": "2026-11-05T18:07:54+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/on-ne-va-pas-faire-le-cirque-habituel-dans-les-coulisses-des-arbitrages-budgetaires-de-sebastien-lecornu-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7070419938a3d19bb8863cce8a096f5103fbd04193fef5bbf824e904e533ba32",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-58a87ea435c000672f",
       "revision": 1,
       "category": "markets",
@@ -382,6 +381,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-93fdf30335e1247e75",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Wall Street plonge, vent de panique sur l’IA : le Nasdaq perd 2500 milliards de capitalisation après la victoire démocrate aux midterms",
+      "bullets": [
+        "La vague bleue pourrait aboutir à la remise en question de nombreux projets de data centers dans le pays ainsi qu'à de nouvelles régulations sur les acteurs du secteur.",
+        "Le Nasdaq a vécu jeudi sa pire journée depuis avril 2025."
+      ],
+      "publishedAt": "2026-11-06T10:28:30+00:00",
+      "updatedAt": "2026-11-06T10:28:30+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/flash-eco/wall-street-l-indice-nasdaq-s-enfonce-de-plus-de-3-face-aux-craintes-sur-l-ia-20261105",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b88660ad20ba48616522e48f73f1352372bcde5b4fb4b6d954d8980643f92b15",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -420,8 +444,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T10:14:49+00:00",
-      "updatedAt": "2026-11-06T10:14:49+00:00",
+      "publishedAt": "2026-11-06T11:15:07+00:00",
+      "updatedAt": "2026-11-06T11:15:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -516,34 +540,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
       "context": "Résultats du troisième trimestre"
-    },
-    {
-      "id": "rss-06008fe8e38060f1ad",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Valeur refuge pour les investisseurs face à la tempête que traverse l'IA, Apple va voir ses marges se contracter sous le poids de la flambée des puces mémoires, Wall Street grimace",
-      "bullets": [
-        "Selon une étude de Gartner du début de cette année, les tarifs des technologies de mémoire vive devraient avoir augmenté de 130% sur l'ensemble de l'année 2026.",
-        "Les seuls revenus dégagés par les iPhone ont augmenté de 17,5% sur un an, à 57,6 milliards de dollars tandis que le services (qui regroupent Apple Music et l'App Store) ont affiché une croissance de 9,8% sur un an, à 31,6 milliards de dollars.",
-        "À Wall Street, les investisseurs prennent leurs bénéfices sur une valeur qui prend plus de 25% depuis le début de l'année."
-      ],
-      "publishedAt": "2026-11-03T11:08:38+00:00",
-      "updatedAt": "2026-11-03T11:08:38+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/valeur-refuge-pour-les-investisseurs-face-a-la-tempete-que-traverse-l-ia-apple-va-voir-ses-marges-se-contracter-sous-le-poids-de-la-flambee-des-puces-memoires-wall-street-grimace-1173046.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "29443a8c27d89e88b1b57a036e8e5ee702db877a8989221230e188540306def6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
-      "context": null
     },
     {
       "id": "rss-395def4b502ce7bfac",
@@ -654,6 +650,34 @@
       "context": null
     },
     {
+      "id": "rss-87e74309340fcbacc3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
+      "bullets": [
+        "Les entreprises d'Elon Musk ont perdu près de 160 milliards de dollarsAprès la défaite du camp républicain aux midterms, les valeurs liées à l'intelligence artificielle s'effondrent, jeudi 5 et vendredi 6 novembre.",
+        "En Corée du Sud, l'indice dévisse de 9% et à New York, le Nasdaq plonge de 5,52%.",
+        "En conséquence, les sept grandes entreprises de la tech dont font partie Meta ou Nvidia ont lâché en une seule séance environ 800 milliards de dollars, jeudi."
+      ],
+      "publishedAt": "2026-11-06T10:46:42+00:00",
+      "updatedAt": "2026-11-06T10:46:42+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "06afeab195f78112073ec07d4447d673321d41a17935db901041d4a61e46f182",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
+      "context": null
+    },
+    {
       "id": "rss-1c0d0793f04d3278f4",
       "revision": 1,
       "category": "world",
@@ -724,30 +748,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "46be335cdad3c950855263b38b591c7be984b099f53d432e1a54fcf8c70dca4b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f36eb511804045f7e7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : retrouvez notre direct consacré aux élections de mi-mandat aux Etats-Unis",
-      "bullets": [
-        "Les Américains ont infligé une sanction historique au président Donald Trump et à son parti, mardi 3 novembre, en élisant en masse des démocrates jusque dans des bastions conservateurs tels que le Kansas et le Texas, à des postes de sénateurs, gouverneurs ou aux Parlements locaux."
-      ],
-      "publishedAt": "2026-11-05T23:18:11+00:00",
-      "updatedAt": "2026-11-05T23:18:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-midterms-2026-apres-avoir-accepte-les-resultats-donald-trump-denonce-a-present-des-elections-truquees_6805528_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "62f4b8f2038597210501a317b0b4aa814795e0743beac14ee56b0f945f16ae78",
       "detailLevel": "preview"
     },
     {
@@ -977,55 +977,55 @@
       "context": null
     },
     {
-      "id": "rss-f170f10d1214d72d8e",
+      "id": "rss-4d9c84ca39dd329ec2",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
+      "title": "Autonomie de la Corse : après l’enterrement du processus par le Sénat, les nationalistes demandent à l’Etat « une concertation au plus haut niveau »",
       "bullets": [
-        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
+        "Réunie en session extraordinaire, l’Assemblée de Corse a voté après un long débat et des échanges parfois houleux une résolution pour relancer le processus d’autonomie et sortir de la crise ouverte par le vote du Sénat fin octobre."
       ],
-      "publishedAt": "2026-11-04T18:19:12+00:00",
-      "updatedAt": "2026-11-04T18:19:12+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-06T10:35:01+00:00",
+      "updatedAt": "2026-11-06T10:35:01+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/06/autonomie-de-la-corse-apres-l-enterrement-du-processus-par-le-senat-les-nationalistes-demandent-a-l-etat-une-concertation-au-plus-haut-niveau_6807771_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
-      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
+      "summaryInput": "00b031ccfafe278ec2d603f350d5e4809d9dea859fca5e44043f9d852c1b2026",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-63fc8d536e5d0163ee",
+      "id": "rss-cf41b9be95465c8efa",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
+      "title": "Alertes à la bombe, des avions déroutés",
       "bullets": [
-        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
-        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
-        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
+        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
       ],
-      "publishedAt": "2026-11-05T21:34:22+00:00",
-      "updatedAt": "2026-11-05T21:34:22+00:00",
+      "publishedAt": "2026-11-05T12:36:00+00:00",
+      "updatedAt": "2026-11-05T12:36:00+00:00",
       "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
+          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
+      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
       "context": null
     },
     {
@@ -1131,6 +1131,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f170f10d1214d72d8e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
+      "bullets": [
+        "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot."
+      ],
+      "publishedAt": "2026-11-04T18:19:12+00:00",
+      "updatedAt": "2026-11-04T18:19:12+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-430763910b33904b9d",
       "revision": 1,
       "category": "france",
@@ -1141,7 +1165,7 @@
       ],
       "publishedAt": "2026-11-04T11:08:30+00:00",
       "updatedAt": "2026-11-04T11:08:30+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1165,7 +1189,7 @@
       ],
       "publishedAt": "2026-11-04T10:17:01+00:00",
       "updatedAt": "2026-11-04T10:17:01+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1179,55 +1203,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3d3629363808250abb",
+      "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
-      "topic": "Justice",
-      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+      "topic": "Santé",
+      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
-        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
+        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
+        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
+        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
       ],
-      "publishedAt": "2026-11-05T17:30:24+00:00",
-      "updatedAt": "2026-11-05T17:30:24+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cf41b9be95465c8efa",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Alertes à la bombe, des avions déroutés",
-      "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
-      ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
+      "publishedAt": "2026-11-05T21:34:22+00:00",
+      "updatedAt": "2026-11-05T21:34:22+00:00",
       "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
     },
     {
@@ -1321,7 +1321,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
@@ -1339,7 +1339,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Figaro",
@@ -1357,7 +1357,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
