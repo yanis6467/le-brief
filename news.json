@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-06",
-  "preparedAt": "2026-11-06T11:15:30.232018+00:00",
+  "preparedAt": "2026-11-06T12:04:38.063787+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -59,31 +59,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-94c0bf446f7026a18e",
-      "revision": 1,
+      "id": "rss-a30840597ab9f2515c",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le budget 2027 rejeté à l'unanimité, du jamais-vu à l'Assemblée",
+      "title": "Plusieurs nouvelles alertes à la bombe sur des avions survolant la France, le gouvernement annonce une enquête",
       "bullets": [
-        "La ligne rouge du gouvernement, revenir à 5% de déficit en 2027Direction le Sénat donc, le 20 novembre, pour être discuté.",
-        "En cas d'échec, le gouvernement peut décider de recourir à l'article 49.3 pour faire adopter le budget, sauf motion de censure.",
-        "Le gouvernement se dit aujourd'hui à l'écoute des oppositions pour un compromis mais avec une ligne rouge : revenir à 5% de déficit en 2027."
+        "Un vol de la compagnie Ryanair qui devait partir de Lisbonne en direction de Rome vendredi matin a été visé par une «menace de bombe» qui s’est avérée une fausse alerte, ont annoncé les autorités portugaises.",
+        "Les menaces concernent les vols arrivant du Danemark, de l’Espagne et de la Grande-Bretagne.",
+        "Quatre nouvelles alertes à la bombe ont été émises vendredi sur des avions survolant le territoire français, qui ont atterri «sans encombre», et sur lesquels les services de déminage «procèdent aux inspections de sécurité», a par ailleurs annoncé Matignon."
       ],
-      "publishedAt": "2026-11-05T21:37:55+00:00",
-      "updatedAt": "2026-11-05T21:37:55+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-06T11:33:26+00:00",
+      "updatedAt": "2026-11-06T11:33:26+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/une-nouvelle-fausse-alerte-a-la-bombe-vise-un-vol-ryanair-au-depart-de-lisbonne-20261106",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "8841454970cde2a56f05c6bc5f6746cf9514ddbf146012a94038696d1aa8dcbd",
+      "summaryInput": "9bd8c82ea8c6cb01765ea328d264413c8fa66355d48bc165f580d6ca411ab4fa",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
       "context": null
     },
     {
@@ -167,33 +167,6 @@
       "context": null
     },
     {
-      "id": "rss-a30840597ab9f2515c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Une nouvelle fausse alerte à la bombe vise un vol Ryanair au départ de Lisbonne",
-      "bullets": [
-        "Un vol de la compagnie Ryanair qui devait partir de Lisbonne en direction de Rome ce vendredi 6 novembre a été visé par une «menace de bombe» qui s'est avérée une fausse alerte, a indiqué la police portugaise.",
-        "Une vingtaine de fausses alertes à la bombe avaient déjà perturbé le trafic aérien en Europe depuis le début de la semaine, obligeant les autorités à dérouter certains vols ou à faire décoller des avions de chasse pour escorter plusieurs appareils civils."
-      ],
-      "publishedAt": "2026-11-06T11:02:01+00:00",
-      "updatedAt": "2026-11-06T11:02:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/une-nouvelle-fausse-alerte-a-la-bombe-vise-un-vol-ryanair-au-depart-de-lisbonne-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "article-extract",
-      "summaryInput": "729f4d5ef128d58328d9ef19271855f48bcfed9229a97844c90f2a2413d240ff",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T11:15:30.232018+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e1f775d51c8672f8ba",
       "revision": 1,
       "category": "eco",
@@ -217,6 +190,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8dcbae40e0e5cadd9ef292749d860d48b6e7288fb3056b086847bf38ca907f97",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ab62cb11f259092c73",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’UE somme TikTok de modifier ses flux de vidéos personnalisées, accusés d’effets «nocifs»",
+      "bullets": [
+        "L'Union européenne a sommé ce vendredi 6 novembre le réseau social TikTok de modifier ses flux de vidéos personnalisés, accusés de nuire au bien-être et à la santé mentale des utilisateurs en les exposant à des spirales de contenus aux effets très négatifs.",
+        "L’UE est lancée dans une vaste offensive pour mettre au pas les réseaux sociaux, en application du DSA, et a présenté en septembre un projet de loi, le Kids Act, qui vise à les interdire aux moins de 13 ans, en raison de nombreux risques pour leur bien-être et leur développement."
+      ],
+      "publishedAt": "2026-11-06T11:17:06+00:00",
+      "updatedAt": "2026-11-06T11:17:06+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/l-ue-somme-tiktok-de-modifier-ses-flux-de-videos-personnalisees-accuses-d-effets-nocifs-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "63f6c389ae7aced848b14cd51e8eae992e362e5b4e116a7f74338ef00e546b75",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
+      "context": null
     },
     {
       "id": "rss-6f26c845ea39780378",
@@ -444,8 +444,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-06T11:15:07+00:00",
-      "updatedAt": "2026-11-06T11:15:07+00:00",
+      "publishedAt": "2026-11-06T12:00:06+00:00",
+      "updatedAt": "2026-11-06T12:00:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -459,6 +459,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T03:00:01.499299+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-a4d99f9f020edfd235",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Alors que le Nasdaq a accusé sa pire séance en 19 mois, le CAC 40 chute de 1,8%, rattrapé par le climat d'aversion au risque",
+      "bullets": [
+        "Le S&P 500 a chuté de 4,4% et le Nasdaq Composite a reculé de 5,5%, accusant sa plus forte baisse en 19 mois.",
+        "Du côté des valeurs, le marché parisien est vendu dans sa globalité, 37 des 40 actions du CAC 40 évoluant dans le rouge, avec Capgemini (-3,9%) et LVMH (-3,8%) qui accusent les plus fortes baisses.",
+        "L'ex-Teleperformance TP chute de 17% après avoir publié une croissance décevante et abaissé ses perspectives 2026."
+      ],
+      "publishedAt": "2026-11-06T11:26:28+00:00",
+      "updatedAt": "2026-11-06T11:26:28+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-le-nasdaq-a-accuse-sa-pire-seance-en-19-mois-le-cac-40-chute-de-18-rattrape-par-le-climat-d-aversion-au-risque-1173337.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "4be2bd685b9a0b2e7ab0e87a0b9e8c7d26503f03a1d19e4b8f42a90e8fde1c99",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
       "context": null
     },
     {
@@ -488,30 +516,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": "Résultats du troisième trimestre"
-    },
-    {
-      "id": "rss-3e7afd27bd0ff75b9a",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -1.22%",
-      "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-122-1173307.html"
-      ],
-      "publishedAt": "2026-11-06T08:00:00+00:00",
-      "updatedAt": "2026-11-06T08:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-122-1173307.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a14acf28b6f64b3cf3ce3d6385c07bbddfc8aef776b0eb6b1a7ec04491ea4191",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-0dc1780ac97141bab1",
@@ -648,6 +652,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T10:14:50.348400+00:00",
       "context": null
+    },
+    {
+      "id": "rss-87b4b550ad1e3f68a0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Belgique : le roi refuse la démission du premier ministre, Bart De Wever, présentée sur fond de blocage budgétaire au Parlement",
+      "bullets": [
+        "Le chef du gouvernement belge avait proposé sa démission lundi.",
+        "Le conservateur flamand souhaite un effort budgétaire massif de 10 milliards d’euros d’ici à 2029, auquel s’oppose l’un des partenaires de la coalition, le Mouvement réformateur."
+      ],
+      "publishedAt": "2026-11-06T11:58:48+00:00",
+      "updatedAt": "2026-11-06T11:58:48+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0729be9f4e5918026fdab8bd0bd94207308ee14d2c486fb61db9d16bd5d4dd4b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-87e74309340fcbacc3",
@@ -852,31 +881,6 @@
       "context": null
     },
     {
-      "id": "rss-3d014e88571f5853ec",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ukraine, l’ombre russe derrière une supposée « prison clandestine » pour les réfractaires à la mobilisation",
-      "bullets": [
-        "RÉCIT - Une opération de manipulation se dessine derrière l’émeute qui a éclaté lundi soir dans une banlieue de Kiev, autour d’une maison où étaient retenus quatorze hommes fraîchement mobilisés.",
-        "Un sujet inflammable dans un pays usé par bientôt cinq ans de guerre."
-      ],
-      "publishedAt": "2026-11-06T05:00:00+00:00",
-      "updatedAt": "2026-11-06T05:00:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/en-ukraine-l-ombre-russe-derriere-une-supposee-prison-clandestine-pour-les-refractaires-a-la-mobilisation-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bc6bfa3b0602c81d444d92dd8c03dd246dae0b00448d870b7176b7f90528d90a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7694bd29cf0d4b4b56",
       "revision": 1,
       "category": "france",
@@ -1001,31 +1005,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cf41b9be95465c8efa",
+      "id": "rss-de2faf224d8b88d912",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Alertes à la bombe, des avions déroutés",
+      "title": "Quatre nouvelles alertes à la bombe ont forcé des avions à se poser sur le territoire français, selon Matignon",
       "bullets": [
-        "Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies aériennes.",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
-        "Une jeune femme de 27 ans est décédée après une intoxication aux champignons"
+        "Quatre nouvelles alertes à la bombe ont été signalées jeudi 6 novembre sur des avions survolant le territoire français, a appris franceinfo auprès de Matignon.",
+        "Les appareils se sont posés en France, sans encombre, et les services de déminage procèdent aux inspections de sécurité, affirment les services du Premier ministre, qui ajoutent qu'une enquête est en cours pour déterminer l’origine de ces alertes.",
+        "Les menaces concernent les vols arrivant du Danemark, de l'Espagne et de la Grande-Bretagne."
       ],
-      "publishedAt": "2026-11-05T12:36:00+00:00",
-      "updatedAt": "2026-11-05T12:36:00+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-06T11:33:27+00:00",
+      "updatedAt": "2026-11-06T11:33:27+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/alertes-a-la-bombe-des-avions-deroutes_8269310.html",
+          "url": "https://www.franceinfo.fr/faits-divers/quatre-nouvelles-alertes-a-la-bombe-ont-cible-des-avions-survolant-le-territoire-francais-annonce-matignon_8270732.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "7d6dabcf8d1458968996eac28145a0b9107ee1ec3b00203fb7061f0d9c6d590d",
+      "summaryInput": "b47837e80c58d9f73aec26b9f4268666924bdbeb04d24bf51086acdc22603f6e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T05:20:25.232246+00:00",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
       "context": null
     },
     {
@@ -1054,17 +1058,17 @@
     },
     {
       "id": "rss-37dac5436add1a359b",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Environnement",
-      "title": "Deux personnes ont été retrouvées mortes en Corse-du-Sud après que leur voiture a été emportée par les inondations",
+      "title": "Deux personnes retrouvées mortes en Corse-du-Sud après que leur voiture a été emportée par les inondations",
       "bullets": [
-        "Deux personnes ont été retrouvées mortes par les sapeurs-pompiers, a annoncé vendredi 6 novembre la préfecture de Corse-du-Sud à France 3 Corse ViaStella et Ici RCFM.",
-        "Selon la préfecture, une voiture à bord de laquelle se trouvaient trois personnes a été emportée par les flots, vers 1 heure du matin dans la nuit de jeudi à vendredi sur la RT10 entre Porto-Vecchio et Bonifacio.",
-        "Les pompiers de l'île avaient indiqué mercredi avoir déjà secouru une personne emportée dans son véhicule en Corse-du-Sud et deux autres dans la même situation en Haute-Corse."
+        "Deux personnes ont été retrouvées mortes par les sapeurs-pompiers, a annoncé vendredi 6 novembre la préfecture de Corse-du-Sud.",
+        "Une voiture à bord de laquelle se trouvaient trois personnes a été emportée par les flots, vers 1 heure du matin dans la nuit de jeudi à vendredi, sur la RT10 entre Porto-Vecchio et Bonifacio.",
+        "Habitants de Porto-Vecchio, ils étaient allés à l'aéroport de Figari \"chercher leur fille qui venait les voir\" pour célébrer l'anniversaire de la maman, décédée dans l'accident."
       ],
-      "publishedAt": "2026-11-06T07:55:20+00:00",
-      "updatedAt": "2026-11-06T07:55:20+00:00",
+      "publishedAt": "2026-11-06T11:43:09+00:00",
+      "updatedAt": "2026-11-06T11:43:09+00:00",
       "importance": 47,
       "sources": [
         {
@@ -1075,9 +1079,9 @@
       ],
       "verifiedAt": "2026-11-06",
       "provenance": "article-extract",
-      "summaryInput": "776d3d16432e4c3783bc63ba7b10193520f79a78d5a5c024e3b924fba0ef24d5",
+      "summaryInput": "968f9ebbe77590da9fffae24be6d92428eaf9afd55a5fb98efbf29561f8e5677",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T09:09:00.408478+00:00",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
       "context": null
     },
     {
@@ -1131,6 +1135,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f2638e8060dfaf1d43",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Le procès de l'attentat de la rue des Rosiers aura lieu entre fin septembre et début novembre 2027",
+      "bullets": [
+        "Le procès se tiendra devant une cour d'assises spécialement constituée à Paris.",
+        "La procédure judiciaire autour de l'une des pires attaques antisémites commises en France depuis la Libération, restée impunie pendant quatre décennies, a connu un tournant à la mi-avril, avec l'extradition du Palestinien Hicham Harb, 71 ans, alors que l'enquête était close et qu'un procès avait déjà été ordonné.",
+        "L'accusation considère qu'il a participé, en tant que tireur et \"chef\" de commando, à l'attaque du 9 août 1982, qui a fait six morts et 22 blessés dans le Marais."
+      ],
+      "publishedAt": "2026-11-06T11:29:39+00:00",
+      "updatedAt": "2026-11-06T11:29:39+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/justice-proces/le-proces-de-l-attentat-de-la-rue-des-rosiers-aura-lieu-entre-fin-septembre-et-debut-novembre-2027_8270774.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-06",
+      "provenance": "article-extract",
+      "summaryInput": "5a146aaff5873341f30934192a0025fce5c36100809cc229b78ba267962bf7f3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T12:04:38.063787+00:00",
+      "context": null
+    },
+    {
       "id": "rss-f170f10d1214d72d8e",
       "revision": 1,
       "category": "france",
@@ -1152,30 +1184,6 @@
       "verifiedAt": "2026-11-06",
       "provenance": "rss-excerpt",
       "summaryInput": "75b328e0592a2c670321d38d4265cc7d7ed64f835cba1451c0c0813a152e6f4b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-430763910b33904b9d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Attentat à Arras : le suspect de l’assassinat de Dominique Bernard sera jugé devant la cour d’assises spéciale",
-      "bullets": [
-        "Trois ans après l’attaque d’Arras, les juges ont estimé que l’attentat résulte d’« un dessein préalable », fruit d’« une minutieuse préparation »."
-      ],
-      "publishedAt": "2026-11-04T11:08:30+00:00",
-      "updatedAt": "2026-11-04T11:08:30+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/04/assassinat-du-professeur-dominique-bernard-l-assaillant-sera-juge-devant-la-cour-d-assises-speciale_6806182_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-06",
-      "provenance": "rss-excerpt",
-      "summaryInput": "efba526664f5dd443b3c28fd987d0189cb3b3168591a8d461be4b57341153d56",
       "detailLevel": "preview"
     },
     {
@@ -1206,7 +1214,7 @@
       "id": "rss-63fc8d536e5d0163ee",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
+      "topic": "Faits divers",
       "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
       "bullets": [
         "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
@@ -1291,7 +1299,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1339,7 +1347,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
@@ -1363,7 +1371,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1393,7 +1401,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
