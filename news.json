@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T13:58:12.602898+00:00",
+  "preparedAt": "2026-11-07T14:52:04.516855+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -187,7 +187,7 @@
       "provenance": "article-extract",
       "summaryInput": "d1e7c2e8613634b4f25b05bbde51bcc15e67a86b855fb4fb93f070b0fe110a10",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T02:08:59.103160+00:00",
+      "enrichedAt": "2026-11-07T14:52:04.516855+00:00",
       "context": null
     },
     {
@@ -292,28 +292,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48156d907b62c533e5",
+      "id": "rss-73b526f7c3a27f3155",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
       "bullets": [
-        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
-        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
       ],
-      "publishedAt": "2026-11-07T04:55:01+00:00",
-      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "publishedAt": "2026-11-07T14:13:21+00:00",
+      "updatedAt": "2026-11-07T14:13:21+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
       "detailLevel": "preview"
     },
     {
@@ -327,9 +326,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T13:58:13+00:00",
-      "updatedAt": "2026-11-07T13:58:13+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-07T14:47:20+00:00",
+      "updatedAt": "2026-11-07T14:47:20+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -385,7 +384,7 @@
       ],
       "publishedAt": "2026-11-06T14:46:10+00:00",
       "updatedAt": "2026-11-06T14:46:10+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -453,7 +452,7 @@
       "provenance": "article-extract",
       "summaryInput": "c97fd56f3e1933033eb184d7f7c46f1c4dbfdf792cced22edc7c46c54177b755",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T02:08:59.103160+00:00",
+      "enrichedAt": "2026-11-07T14:52:04.516855+00:00",
       "context": null
     },
     {
@@ -632,7 +631,7 @@
       ],
       "publishedAt": "2026-11-07T02:13:31+00:00",
       "updatedAt": "2026-11-07T02:13:31+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -644,6 +643,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "789d719af32dc39348fa1ac04d55b3b65926b85e6591d2f3cfc1461b91a6d51c",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6cd02f430196237716",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Stephen Miller, un réactionnaire à la tête de l'administration Trump",
+      "bullets": [
+        "À 41 ans, Stephen Miller, très proche de Donald Trump, vient d'être nommé chef de cabinet à la Maison-Blanche.",
+        "Les migrants, cheval de bataille de Stephen MillerNé en Californie (États-Unis) dans une famille juive, marié, père de quatre enfants, il aurait notamment ordonné aux agents de l'ICE, l'agence chargée de l'immigration, d'arrêter 3 000 clandestins par jour.",
+        "\"La question la plus importante pour l'avenir de notre pays, c'est de mettre fin à l'invasion massive de l'Amérique par des populations du tiers-monde et d'inverser cette invasion\", commentait alors Stephen Miller."
+      ],
+      "publishedAt": "2026-11-07T14:42:06+00:00",
+      "updatedAt": "2026-11-07T14:42:06+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/stephen-miller-un-reactionnaire-a-la-tete-de-l-administration-trump_8272337.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "dbfa934c7522bf41927942a5c473dc26c8c05652e9a92cf70f9dba13f34e9d08",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T14:52:04.516855+00:00",
+      "context": null
     },
     {
       "id": "rss-ecd391bd55ae15346b",
@@ -768,30 +795,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dddb68c09bf2c623cd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
-      "bullets": [
-        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
-      ],
-      "publishedAt": "2026-11-07T13:45:34+00:00",
-      "updatedAt": "2026-11-07T13:45:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
       "detailLevel": "preview"
     },
     {
@@ -1045,28 +1048,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-076a3c4494bb406a63",
+      "id": "rss-47dfec3a7a84fc6119",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
+      "title": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
       "bullets": [
-        "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale.",
-        "La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie dos à dos Russes et Ukrainiens."
+        "La France insoumise a publié vendredi son programme présidentiel pour 2027.",
+        "Les réactions politiques, notamment à droite et à l’extrême droite, se sont multipliées samedi."
       ],
-      "publishedAt": "2026-11-07T09:30:07+00:00",
-      "updatedAt": "2026-11-07T09:30:07+00:00",
+      "publishedAt": "2026-11-07T14:43:54+00:00",
+      "updatedAt": "2026-11-07T14:43:54+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "0a8146d4903527c63aa65baf8d8634540b22eae12b72be0c26c1315a646f1139",
+      "summaryInput": "6b44b20820d6238c04d035657cb149278de67382ae48ab4506ab5633ff7b22ba",
       "detailLevel": "preview"
     },
     {
@@ -1233,7 +1236,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
