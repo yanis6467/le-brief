@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T05:57:15.785063+00:00",
+  "preparedAt": "2026-11-07T07:14:15.325531+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -60,58 +60,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5f49ccbba28a30acc7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les voitures chinoises sont-elles des espionnes ?",
-      "bullets": [
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution"
-      ],
-      "publishedAt": "2026-11-06T21:00:02+00:00",
-      "updatedAt": "2026-11-06T21:00:02+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "5414dc16bf81c71d02077bb23e2b44daeb99e597a8c5bb629f2840b57c8e1c94",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-63599e81d84bc298e2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
-      "bullets": [
-        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
-      ],
-      "publishedAt": "2026-11-06T18:10:39+00:00",
-      "updatedAt": "2026-11-06T18:10:39+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-10d568a972aff97676",
@@ -242,31 +190,6 @@
       "context": null
     },
     {
-      "id": "rss-1d62a4d340113d52b2",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "bullets": [
-        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
-        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
-      ],
-      "publishedAt": "2026-11-06T20:03:24+00:00",
-      "updatedAt": "2026-11-06T20:03:24+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-88accdfead5fd4b24e",
       "revision": 1,
       "category": "eco",
@@ -323,6 +246,87 @@
       "context": null
     },
     {
+      "id": "rss-c6937783884c6b7207",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Barre des 1 500 euros, 10% d'augmentation, 100 euros en plus… Quelles sont les propositions du gouvernement et des syndicats sur le smic ?",
+      "bullets": [
+        "L'intersyndicale à l'origine de la journée de manifestations du jeudi 5 novembre va demander une hausse du smic lors de la conférence sociale organisée lundi 9 novembre par le Premier ministre à Matignon.",
+        "Sur cette base, il a été augmenté de 1,18% à partir du 1er janvier 2026.",
+        "Au-delà des augmentations mécaniques, le gouvernement peut donc donner \"un coup de pouce\" au smic, ce qui n'a pas été le cas depuis juillet 2012, après l'arrivée de François Hollande à l'Elysée, à hauteur de 0,6%."
+      ],
+      "publishedAt": "2026-11-06T16:31:00+00:00",
+      "updatedAt": "2026-11-06T16:31:00+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/barre-des-1-500-euros-10-d-augmentation-100-euros-en-plus-quelles-sont-les-propositions-du-gouvernement-et-des-syndicats-sur-le-smic_8270843.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "0fd60a3396730dc1d655b69601ec2041a7cddc54f34d1dfa0dcfb7b9fb97a001",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T07:14:15.325531+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-41d2340e0f38ecfac8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
+      "bullets": [
+        "Or celui-ci est revalorisé automatiquement, chaque 1er janvier et dès que l’inflation dépasse 2 %.",
+        "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
+        "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
+      ],
+      "publishedAt": "2026-11-06T14:26:52+00:00",
+      "updatedAt": "2026-11-06T14:26:52+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "3c1c3e63db4fbe966c5244ceac2545428ef2669dc479580ebd630ba5ca096884",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T07:14:15.325531+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-e9a740b525482fae0a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+      "bullets": [
+        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
+        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
+      ],
+      "publishedAt": "2026-11-06T10:45:04+00:00",
+      "updatedAt": "2026-11-06T10:45:04+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -361,8 +365,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T05:53:22+00:00",
-      "updatedAt": "2026-11-07T05:53:22+00:00",
+      "publishedAt": "2026-11-07T07:10:52+00:00",
+      "updatedAt": "2026-11-07T07:10:52+00:00",
       "importance": 69,
       "sources": [
         {
@@ -379,32 +383,32 @@
       "context": null
     },
     {
-      "id": "rss-2f9124f9e493356211",
+      "id": "rss-aef656acb72014b02d",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+      "title": "CAC 40 : Stellantis et Renault qui rebondissent de 15,5% et 7%, Kering qui s'effondre de 16%, Carrefour qui perd 14%... Quels groupes du CAC 40 ont le mieux (et le moins bien) réussi la saison des résultats?",
       "bullets": [
-        "L’indice parisien a perdu jusqu’à 1,9% en séance, avant de réduire ses pertes à l’ouverture des marchés américains.",
-        "Le S&P 500 avait alors chuté de 4,4%, tandis que le Nasdaq Composite avait abandonné 5,5%, signant sa plus forte baisse en 19 mois.",
-        "Quelque 165.000 postes ont été créés, tandis que le taux de chômage a légèrement reculé, de 4,2% à 4,1%."
+        "Selon un décompte partiel réalisé par Barclays à la fin de la semaine dernière, les bénéfices par action du Stoxx Europe 600, un indice paneuropéen, ont grimpé de 28% se rapprochant grandement de la performance de leurs homologues américains du S&P 500 (+29%) sur la période.",
+        "Schneider Electric a signé une performance assez anonyme après sa publication (-1,8%).",
+        "Avec une croissance de 7,2% en données comparables, le groupe d'optique et propriétaire de Ray-Ban a (pour l'heure) donné tort aux observateurs les plus pessimistes qui redoutent que ses lunettes d'IA cannibalisent son activité de montures traditionnelles."
       ],
-      "publishedAt": "2026-11-06T16:57:35+00:00",
-      "updatedAt": "2026-11-06T16:57:35+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-07T06:00:00+00:00",
+      "updatedAt": "2026-11-07T06:00:00+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-americain-solides-et-un-sursaut-du-nasdaq-le-cac-40-recule-1173355.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-stellantis-et-renault-qui-rebondissent-de-155-et-7-kering-qui-s-effondre-de-16-carrefour-qui-perd-14-quels-groupes-du-cac-40-ont-le-mieux-et-le-moins-bien-reussi-la-saison-des-resultats-1172997.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "e6cccf66d351a43e2848821e20721d3a2eb137d40801482a1688d82e1c94db3c",
+      "summaryInput": "676948405fcd3d57df789383d8e3ce74796b25e0d984c163088925ffb868c585",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
-      "context": null
+      "enrichedAt": "2026-11-07T07:14:15.325531+00:00",
+      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-c76dd324d3de81b4c4",
@@ -556,8 +560,8 @@
         "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates.",
         "Très opposés au conflit avec la République islamique, ces derniers dénoncent l’inflation du budget de la défense et veulent dégager des marges pour tenir leurs promesses de campagne."
       ],
-      "publishedAt": "2026-11-07T05:00:05+00:00",
-      "updatedAt": "2026-11-07T05:00:05+00:00",
+      "publishedAt": "2026-11-07T05:00:02+00:00",
+      "updatedAt": "2026-11-07T05:00:02+00:00",
       "importance": 99,
       "sources": [
         {
@@ -582,7 +586,7 @@
       ],
       "publishedAt": "2026-11-06T18:50:48+00:00",
       "updatedAt": "2026-11-06T18:50:48+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -618,6 +622,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "789d719af32dc39348fa1ac04d55b3b65926b85e6591d2f3cfc1461b91a6d51c",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5f49ccbba28a30acc7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les voitures chinoises sont-elles des espionnes ?",
+      "bullets": [
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
+        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
+        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution"
+      ],
+      "publishedAt": "2026-11-06T21:00:02+00:00",
+      "updatedAt": "2026-11-06T21:00:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "5414dc16bf81c71d02077bb23e2b44daeb99e597a8c5bb629f2840b57c8e1c94",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
+      "context": null
     },
     {
       "id": "rss-7da7836e5f5a263918",
@@ -700,6 +732,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-fab38c71c6b6ebbda0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Guatemala, un député et trois policiers tués dans une attaque armée",
+      "bullets": [
+        "Le meurtre de Julio Portillo, 35 ans, a eu lieu sur une route d’un village de la province de Zacapa, dans l’est du pays, où sévit le trafic de drogue.",
+        "Les policiers ont été tués par balles alors qu’ils ripostaient à l’attaque."
+      ],
+      "publishedAt": "2026-11-07T05:53:52+00:00",
+      "updatedAt": "2026-11-07T05:53:52+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-guatemala-un-depute-et-trois-policiers-tues-dans-une-attaque-armee_6808245_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ebea1efb975a0d8efc6dd204ba704e8923e24ec2fe92d4da3bab92731cc6ac84",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-63599e81d84bc298e2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "bullets": [
+        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+      ],
+      "publishedAt": "2026-11-06T18:10:39+00:00",
+      "updatedAt": "2026-11-06T18:10:39+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-65f2fe87a0d3a01de8",
       "revision": 1,
       "category": "world",
@@ -710,7 +791,7 @@
       ],
       "publishedAt": "2026-11-05T18:36:22+00:00",
       "updatedAt": "2026-11-05T18:36:22+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -749,104 +830,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6de4ad8871d11134d0",
-      "revision": 1,
+      "id": "rss-1d62a4d340113d52b2",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
+      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
       "bullets": [
-        "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran."
+        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
+        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
       ],
-      "publishedAt": "2026-11-06T09:13:08+00:00",
-      "updatedAt": "2026-11-06T09:13:08+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-81d5b93cc066c1c6ef",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : l’ex-amirale Nancy Lacore, victime des purges de l’administration Trump à la tête du Pentagone, élue surprise en Caroline du Sud",
-      "bullets": [
-        "L’ancienne cheffe d’état-major des forces navales américaines en Europe et en Afrique, qui s’était présentée sous la bannière démocrate, fait partie d’un nombre inédit de vétérans qui se sont lancés dans la course politique lors de ces élections de mi-mandat."
-      ],
-      "publishedAt": "2026-11-07T00:09:11+00:00",
-      "updatedAt": "2026-11-07T00:09:11+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-06T20:03:24+00:00",
+      "updatedAt": "2026-11-06T20:03:24+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-l-ex-amirale-nancy-lacore-victime-des-purges-de-l-administration-trump-a-la-tete-du-pentagone-elue-surprise-en-caroline-du-sud_6807934_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "cc5f5f7a7cfb986288a3f3788dd970940accecf06b4e490c5ae87f6d8cda5fb2",
+      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c983a84ce7d6be3271",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Pologne s’enlise dans la crise institutionnelle et politique",
-      "bullets": [
-        "RÉCIT - Varsovie peine à trouver une issue à la crise politique opposant le président au premier ministre, et qui s’est nouée autour de la nomination de juges du Tribunal constitutionnel."
-      ],
-      "publishedAt": "2026-11-06T20:30:00+00:00",
-      "updatedAt": "2026-11-06T20:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-pologne-s-enlise-dans-la-crise-institutionnelle-et-politique-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e1c941256701280b744ec740eb938392dbc8a5fc6461dc21aeae93c21e412b76",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-60a54a0f5be2f22dd2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Espionnage : faut-il se méfier des voitures chinoises ?",
-      "bullets": [
-        "Plusieurs pays interdisent déjà aux voitures chinoises l'accès à leurs sites sensiblesL'un d'entre eux a trouvé les vidéos par hasard en pianotant sur l'écran du véhicule.",
-        "Face à ces risques, plusieurs pays interdisent déjà aux voitures chinoises l'accès à leurs sites sensibles : le Royaume-Uni, la Belgique, Israël, ainsi qu'une base militaire américaine située au Japon.",
-        "Un député européen français presse MatignonCe réseau 4G pourrait aspirer toutes sortes d'informations vers un logiciel espion introduit à distance dans le véhicule."
-      ],
-      "publishedAt": "2026-11-06T19:57:50+00:00",
-      "updatedAt": "2026-11-06T19:57:50+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/espionnage-faut-il-se-mefier-des-voitures-chinoises_8271485.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "f1a6660afd2ab2accff21013c0d519d42fa8e251fb3845b860cc80586d137876",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
-      "context": null
     },
     {
       "id": "rss-bbf46b96b4726a38e0",
@@ -981,31 +987,31 @@
       "context": null
     },
     {
-      "id": "rss-de2faf224d8b88d912",
+      "id": "rss-cecee5df4adcc88063",
       "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Quatre nouvelles alertes à la bombe ont forcé des avions à se poser sur le territoire français, selon Matignon",
+      "title": "Alertes à la bombe, qui menace les avions européens ?",
       "bullets": [
-        "Quatre nouvelles alertes à la bombe ont été signalées vendredi 6 novembre sur des avions survolant le territoire français, a appris franceinfo auprès de Matignon.",
-        "Les appareils se sont posés en France, sans encombre, et les services de déminage procèdent aux inspections de sécurité, affirment les services du Premier ministre, qui ajoutent qu'une enquête est en cours pour déterminer l’origine de ces alertes.",
-        "Les menaces concernent les vols arrivant du Danemark, de l'Espagne et de la Grande-Bretagne."
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
+        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies"
       ],
-      "publishedAt": "2026-11-06T12:55:16+00:00",
-      "updatedAt": "2026-11-06T12:55:16+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-06T15:12:56+00:00",
+      "updatedAt": "2026-11-06T15:12:56+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/quatre-nouvelles-alertes-a-la-bombe-ont-cible-des-avions-survolant-le-territoire-francais-annonce-matignon_8270732.html",
+          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "b47837e80c58d9f73aec26b9f4268666924bdbeb04d24bf51086acdc22603f6e",
+      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T01:14:03.251341+00:00",
+      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
       "context": null
     },
     {
@@ -1134,30 +1140,6 @@
       "context": null
     },
     {
-      "id": "rss-c0bcae788bf8f96ec0",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«J’ai eu recours à un examen interdit en France » : DIP-A, le débat sur la sélection des embryons revient en force",
-      "bullets": [
-        "DÉCRYPTAGE - Les confidences de Marine Tondelier et les préconisations remises à la ministre de la Santé relancent la controverse sur cet examen qui permet de détecter les anomalies chromosomiques d’embryons conçus par FIV."
-      ],
-      "publishedAt": "2026-11-04T10:17:01+00:00",
-      "updatedAt": "2026-11-04T10:17:01+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/progres-ou-eugenisme-le-debat-sur-la-selection-des-embryons-revient-en-force-20261104",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d3de88c2465b843156750adb7baa8fa2ea804e0bb8d50f211feef509bad37ca2",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f9a389561602832f8d",
       "revision": 1,
       "category": "france",
@@ -1180,34 +1162,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "710531a58bb69ceee2db36213de76f69887cd0e614f5bf08f6ab96b173418004",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cecee5df4adcc88063",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Alertes à la bombe, qui menace les avions européens ?",
-      "bullets": [
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies"
-      ],
-      "publishedAt": "2026-11-06T15:12:56+00:00",
-      "updatedAt": "2026-11-06T15:12:56+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
-      "context": null
     },
     {
       "id": "rss-8771c22c209df15f79",
@@ -1242,8 +1196,8 @@
       "bullets": [
         "Le vainqueur de la primaire sociale-démocrate a dévoilé l’équipe qui portera sa candidature pour l’Elysée, avec le souci de faire la part belle aux différents courants internes du Parti socialiste et de s’assurer du soutien de son premier secrétaire, Olivier Faure."
       ],
-      "publishedAt": "2026-11-07T05:00:20+00:00",
-      "updatedAt": "2026-11-07T05:00:20+00:00",
+      "publishedAt": "2026-11-07T05:00:12+00:00",
+      "updatedAt": "2026-11-07T05:00:12+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1256,6 +1210,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "f6670e64bf216f6e42c0eaf1404f2e48b8d4867b13102adc1caf1ed396d85dda",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3d3629363808250abb",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+      "bullets": [
+        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
+      ],
+      "publishedAt": "2026-11-05T17:30:24+00:00",
+      "updatedAt": "2026-11-05T17:30:24+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-16f2afdacfbafa2ca4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Une jeune femme de 27 ans est décédée après une intoxication aux champignons",
+      "bullets": [
+        "Une jeune femme de 27 ans est décédée au CHU de Montpellier après avoir consommé des champignons en boîte, selon nos informations.",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
+      ],
+      "publishedAt": "2026-11-05T16:16:11+00:00",
+      "updatedAt": "2026-11-05T16:16:11+00:00",
+      "importance": 56,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/une-jeune-femme-de-27-ans-est-decedee-apres-une-intoxication-aux-champignons_8269592.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "5c8e342104abe9569f7e4e04f59015e3f45bb5cea6071230d12e45584c3b82e4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T07:14:15.325531+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1269,7 +1275,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1293,13 +1299,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
@@ -1371,7 +1377,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
