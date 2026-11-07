@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T10:53:40.468205+00:00",
+  "preparedAt": "2026-11-07T11:49:52.348982+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -316,34 +316,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d0ddb76a76e8005947",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
-      "bullets": [
-        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
-        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
-        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
-      ],
-      "publishedAt": "2026-11-07T10:53:42+00:00",
-      "updatedAt": "2026-11-07T10:53:42+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -367,6 +339,34 @@
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
       "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d0ddb76a76e8005947",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
+      "bullets": [
+        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
+        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
+        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
+      ],
+      "publishedAt": "2026-11-07T11:48:42+00:00",
+      "updatedAt": "2026-11-07T11:48:42+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
       "context": null
@@ -722,6 +722,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d3bc603c7193abfd79",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
+      "bullets": [
+        "\"Les forces armées de la République islamique sont aujourd'hui en état d'alerte plus élevé et plus puissantes qu'elles ne l'étaient au début de la guerre.\" En Iran, l'armée a affirmé, samedi 7 novembre, être \"plus forte\" qu'avant l'attaque israélo-américaine d'ampleur de février dernier.",
+        "\"On ne peut pas laisser l'Iran avoir l'arme nucléaire\", a-t-il estimé mardi soir.",
+        "L'armée américaine a annoncé vendredi offrir une récompense de 20 millions de dollars \"et un possible déménagement\" à toute personne lui apportant des informations sur le programme nucléaire iranien."
+      ],
+      "publishedAt": "2026-11-07T11:23:31+00:00",
+      "updatedAt": "2026-11-07T11:23:31+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "b0084ec3a13d21e116ef3ab5a10e789661b771a99471045352ee7478c236c726",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T11:49:52.348982+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0fdcfb9c166cedf8d3",
+      "revision": 3,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
+      "bullets": [
+        "De nouvelles frappes russes \"massives\" ont visé dans la nuit de vendredi à samedi des infrastructures énergétiques en Ukraine, a annoncé le ministère de l'Energie ukrainien, samedi 7 novembre, dans un communiqué.",
+        "Des dommages importants ont été causés aux réseaux de transport et de distribution\", a-t-il rapporté, sans préciser le nombre de foyers concernés par ces coupures d'électricité.",
+        "Cet ouvrage avait déjà été frappé en octobre, poussant les autorités à installer des filets antidrones pour tenter de le protéger, une première dans la capitale depuis le début de l'invasion russe de l'Ukraine en 2022."
+      ],
+      "publishedAt": "2026-11-07T11:20:41+00:00",
+      "updatedAt": "2026-11-07T11:20:41+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "40a5daf1ee2b5e902431d25e5731852d468c036b900ab2ad1fe4f7b70712cb04",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T11:49:52.348982+00:00",
+      "context": null
+    },
+    {
       "id": "rss-dddb68c09bf2c623cd",
       "revision": 1,
       "category": "world",
@@ -744,62 +800,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "341a75db088c77efe98d72dd2c2bdbf052645487fd5d61e9cc60c8a45219f4bb",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0fdcfb9c166cedf8d3",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ukraine, un pont et des infrastructures énergétiques endommagés par des frappes russes dans la région de Kiev",
-      "bullets": [
-        "Des frappes russes ont endommagé un important pont routier et des infrastructures énergétiques à Kiev et sa région, a rapporté le maire, Vitali Klitschko, samedi 7 novembre.",
-        "Au total, les frappes russes sur la capitale ukrainienne durant la nuit de vendredi à samedi ont fait au moins cinq blessés, dont un adolescent de 14 ans, a précisé le maire.",
-        "Cet ouvrage avait déjà été frappé en octobre, poussant les autorités à installer des filets antidrones pour tenter de le protéger, une première dans la capitale depuis le début de l'invasion russe de l'Ukraine en 2022."
-      ],
-      "publishedAt": "2026-11-07T09:42:32+00:00",
-      "updatedAt": "2026-11-07T09:42:32+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "c78cd20557e4a667d50da318b30a79c463aa5b42f84edfdd2f7ba915d918a1cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d3bc603c7193abfd79",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
-      "bullets": [
-        "\"Les forces armées de la République islamique sont aujourd'hui en état d'alerte plus élevé et plus puissantes qu'elles ne l'étaient au début de la guerre.\" En Iran, l'armée a affirmé, samedi 7 novembre être \"plus forte\" qu'avant l'attaque israélo-américaine d'ampleur de février dernier.",
-        "\"On ne peut pas laisser l'Iran avoir l'arme nucléaire\", a-t-il estimé mardi soir.",
-        "L'armée américaine a annoncé vendredi offrir une récompense de 20 millions de dollars \"et un possible déménagement\" à toute personne lui apportant des informations sur le programme nucléaire iranien."
-      ],
-      "publishedAt": "2026-11-07T09:39:21+00:00",
-      "updatedAt": "2026-11-07T09:39:21+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "a99c4b448dae80902e93387ac52b262be0e8b0121b436ca2f15d0c37df0b4f32",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
-      "context": null
     },
     {
       "id": "rss-de658037aba2335357",
@@ -1106,34 +1106,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-caa3923272b63d9490",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
-      "bullets": [
-        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
-        "La vague de menaces sur le ciel européen continue.",
-        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
-      ],
-      "publishedAt": "2026-11-07T07:10:34+00:00",
-      "updatedAt": "2026-11-07T07:10:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cecee5df4adcc88063",
       "revision": 2,
       "category": "france",
@@ -1231,6 +1203,30 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "218a40e9b2e519befa13587d1f4cef694f402ed3bf63e1cdb07866f1ddbecaa2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3d3629363808250abb",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+      "bullets": [
+        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
+      ],
+      "publishedAt": "2026-11-05T17:30:24+00:00",
+      "updatedAt": "2026-11-05T17:30:24+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
       "detailLevel": "preview"
     }
   ],
