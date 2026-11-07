@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T14:52:04.516855+00:00",
+  "preparedAt": "2026-11-07T15:49:56.413489+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -300,8 +300,8 @@
       "bullets": [
         "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
       ],
-      "publishedAt": "2026-11-07T14:13:21+00:00",
-      "updatedAt": "2026-11-07T14:13:21+00:00",
+      "publishedAt": "2026-11-07T14:13:19+00:00",
+      "updatedAt": "2026-11-07T14:13:19+00:00",
       "importance": 65,
       "sources": [
         {
@@ -326,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T14:47:20+00:00",
-      "updatedAt": "2026-11-07T14:47:20+00:00",
+      "publishedAt": "2026-11-07T15:46:35+00:00",
+      "updatedAt": "2026-11-07T15:46:35+00:00",
       "importance": 69,
       "sources": [
         {
@@ -468,7 +468,7 @@
       ],
       "publishedAt": "2026-11-05T15:18:23+00:00",
       "updatedAt": "2026-11-05T15:18:23+00:00",
-      "importance": 56,
+      "importance": 55,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -619,30 +619,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
-    },
-    {
-      "id": "rss-f98da8c07cee2f9225",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien",
-      "bullets": [
-        "Ces informations peuvent concerner « [les] installations, [les] équipements et le personnel associé », a précisé le commandement militaire américain pour le Moyen-Orient."
-      ],
-      "publishedAt": "2026-11-07T02:13:31+00:00",
-      "updatedAt": "2026-11-07T02:13:31+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "789d719af32dc39348fa1ac04d55b3b65926b85e6591d2f3cfc1461b91a6d51c",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-6cd02f430196237716",
@@ -798,6 +774,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ea96e88c04ac5d8d66",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales",
+      "bullets": [
+        "Le président ukrainien a par ailleurs affirmé samedi que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors des frappes massives contre les infrastructures énergétiques ukrainiennes dans la nuit de vendredi à samedi.",
+        "\"Selon des informations préliminaires, sur l'une des infrastructures énergétiques clés ayant subi des dommages, les Russes ont utilisé des missiles KN-23 fabriqués et livrés par la Corée du Nord\", a-t-il poursuivi."
+      ],
+      "publishedAt": "2026-11-07T14:44:52+00:00",
+      "updatedAt": "2026-11-07T14:44:52+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "edf6f77e75dfb665401531d62395e12d7a1220fdf1dbf57c0916b9c15e459504",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
@@ -822,32 +825,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e5d4a84744398237e7",
-      "revision": 2,
+      "id": "rss-8771c22c209df15f79",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "\"Ce sont des conditions inacceptables\" : au cœur d'un lycée vétuste à Montpellier, qui figure parmi les 200 établissements à rénover en priorité",
+      "title": "Immigration : les données-clés pour éclairer le débat",
       "bullets": [
-        "En septembre, il faisait 32 degrés dans les salles de cours.",
-        "Ce lycée et ses 17 hectares ont déjà fait l'objet d'une rénovation avec la modernisation d'une partie des bâtiments.",
-        "La Région Occitanie investit quasiment 24 millions d'euros en l'espace de dix ans, c'est-à-dire l'équivalent d'un collège neuf."
+        "« Les idées claires pour 2027 ». Quels qu’en soient les motifs (travail, asile, regroupement familial…), l’accueil et le séjour d’immigrés et d’étrangers en France représentent une importante source de clivage entre les partis politiques, notamment à l’approche de l’élection présidentielle. Nos explications pour s’y retrouver."
       ],
-      "publishedAt": "2026-11-06T21:10:12+00:00",
-      "updatedAt": "2026-11-06T21:10:12+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-07T05:00:51+00:00",
+      "updatedAt": "2026-11-07T05:00:51+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-sont-des-conditions-inacceptables-au-c-ur-d-un-lycee-vetuste-a-montpellier-qui-figure-parmi-les-200-etablissements-a-renover-en-priorite_8271542.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/07/immigration-les-donnees-cles-pour-eclairer-le-debat_6808243_4355770.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "0f76d6c09a1f50f33fd8b4b339c6afaeb8f59844e6d324f59ef2a8681c2c5e73",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "f78e32a4e47a0a5e8c25d588dcdfc503e92486bda025e076ef40fdec95a0ddd2",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -860,7 +859,7 @@
       ],
       "publishedAt": "2026-11-05T15:36:56+00:00",
       "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -926,29 +925,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-71d4e81969c0fb2fb6",
+      "id": "rss-d2522557f1998494c8",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
       "bullets": [
-        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
-        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
+        "Le parquet de Paris a ouvert une enquête sur les fausses alertes à la bombe ayant visé des avions survolant le territoire français, notamment pour rechercher un lien éventuel des auteurs avec des \"puissances étrangères\", a-t-il annoncé samedi 7 novembre.",
+        "Au total, des dizaines de vols commerciaux européens, ainsi qu'un bateau de croisière, ont fait l'objet d'alertes à la bombe depuis le début de la semaine.",
+        "Cette série de fausses alertes, a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
       ],
-      "publishedAt": "2026-11-07T10:27:51+00:00",
-      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "publishedAt": "2026-11-07T15:36:08+00:00",
+      "updatedAt": "2026-11-07T15:36:08+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "fdd65279e182c62b11ebbc7f480a6bfcb79be10dc904f3afe8383c9a5ebcc98e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
+      "context": null
     },
     {
       "id": "rss-d647c8595237935fbc",
@@ -1057,8 +1059,8 @@
         "La France insoumise a publié vendredi son programme présidentiel pour 2027.",
         "Les réactions politiques, notamment à droite et à l’extrême droite, se sont multipliées samedi."
       ],
-      "publishedAt": "2026-11-07T14:43:54+00:00",
-      "updatedAt": "2026-11-07T14:43:54+00:00",
+      "publishedAt": "2026-11-07T14:43:50+00:00",
+      "updatedAt": "2026-11-07T14:43:50+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1073,31 +1075,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cecee5df4adcc88063",
-      "revision": 2,
+      "id": "rss-71d4e81969c0fb2fb6",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Alertes à la bombe, qui menace les avions européens ?",
+      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
       "bullets": [
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies"
+        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
+        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
       ],
-      "publishedAt": "2026-11-06T15:12:56+00:00",
-      "updatedAt": "2026-11-06T15:12:56+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-07T10:27:51+00:00",
+      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b903bacc9ee1bc626e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "En Pologne, une fusillade à Cracovie fait cinq morts et \"plusieurs blessés\", selon le porte-parole de la police",
+      "bullets": [
+        "L'auteur des faits a été neutralisé par la police et blessé par balle.",
+        "Le Premier ministre polonais, Donald Tusk, a déploré, sur X, une \"fusillade tragique\".",
+        "Jestem na bieżąco informowany przez ministra spraw wewnętrznych o sytuacji w Krakowie po tragicznej strzelaninie."
+      ],
+      "publishedAt": "2026-11-07T15:41:03+00:00",
+      "updatedAt": "2026-11-07T15:41:03+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
+          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
+      "summaryInput": "521d9007783306730f1ee6d12690d8a5dd536c2b9071c3f1f8fd1e0e62e87556",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
+      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
       "context": null
     },
     {
@@ -1122,30 +1149,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8771c22c209df15f79",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Immigration : les données-clés pour éclairer le débat",
-      "bullets": [
-        "« Les idées claires pour 2027 ». Quels qu’en soient les motifs (travail, asile, regroupement familial…), l’accueil et le séjour d’immigrés et d’étrangers en France représentent une importante source de clivage entre les partis politiques, notamment à l’approche de l’élection présidentielle. Nos explications pour s’y retrouver."
-      ],
-      "publishedAt": "2026-11-07T05:00:51+00:00",
-      "updatedAt": "2026-11-07T05:00:51+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/07/immigration-les-donnees-cles-pour-eclairer-le-debat_6808243_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f78e32a4e47a0a5e8c25d588dcdfc503e92486bda025e076ef40fdec95a0ddd2",
       "detailLevel": "preview"
     },
     {
@@ -1212,7 +1215,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
