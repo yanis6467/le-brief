@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T20:49:56.208703+00:00",
+  "preparedAt": "2026-11-07T21:47:15.627867+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -211,34 +211,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cd5ec83a4ab27e56ce",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Alertes à la bombe en Europe : le fondateur de l'\"Etat masculin\" en Russie dément tout lien avec les perturbations",
-      "bullets": [
-        "Le fondateur de l'\"Etat masculin\", mouvement masculiniste russe banni depuis cinq ans dans son pays, a démenti, vendredi 6 novembre, tout lien avec les fausses alertes à la bombe qui se multiplient en Europe.",
-        "Selon des médias, le mouvement a survécu sur internet et s'est transformé en communauté de soutien à l'offensive militaire russe en Ukraine, lancée en 2022.",
-        "En France, la chaîne TF1 a également annoncé été victime d'une fausse alerte à la bombe."
-      ],
-      "publishedAt": "2026-11-06T21:27:34+00:00",
-      "updatedAt": "2026-11-06T21:27:34+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/aeronautique/alertes-a-la-bombe-en-europe-le-fondateur-de-l-etat-masculin-en-russie-dement-tout-lien-avec-les-perturbations_8271548.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "d00ac47f0f923039e3bd202fab52cd045fd153aefee920ee8b7b28fbcc202e17",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
-    },
-    {
       "id": "rss-73b526f7c3a27f3155",
       "revision": 1,
       "category": "eco",
@@ -316,6 +288,31 @@
       "context": null
     },
     {
+      "id": "rss-48156d907b62c533e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "bullets": [
+        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
+        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+      ],
+      "publishedAt": "2026-11-07T04:55:01+00:00",
+      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,8 +323,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T20:45:06+00:00",
-      "updatedAt": "2026-11-07T20:45:06+00:00",
+      "publishedAt": "2026-11-07T21:46:24+00:00",
+      "updatedAt": "2026-11-07T21:46:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -484,31 +481,6 @@
       "context": "Résultats du troisième trimestre"
     },
     {
-      "id": "rss-2ef5d21448382cf7f7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : les démocrates lancés à l’assaut du budget du Pentagone et de la guerre contre l’Iran",
-      "bullets": [
-        "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates.",
-        "Très opposés au conflit avec la République islamique, ces derniers dénoncent l’inflation du budget de la défense et veulent dégager des marges pour tenir leurs promesses de campagne."
-      ],
-      "publishedAt": "2026-11-07T05:00:02+00:00",
-      "updatedAt": "2026-11-07T05:00:02+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ac4dad18f2ad3e2ff7fb36a58c37f25f36b1b1aece0f25313f3093c921d58830",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-351690910d4e7e8a17",
       "revision": 2,
       "category": "world",
@@ -521,7 +493,7 @@
       ],
       "publishedAt": "2026-11-07T09:39:11+00:00",
       "updatedAt": "2026-11-07T09:39:11+00:00",
-      "importance": 89,
+      "importance": 88,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -577,7 +549,7 @@
       ],
       "publishedAt": "2026-11-07T09:22:55+00:00",
       "updatedAt": "2026-11-07T09:22:55+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -705,7 +677,7 @@
       ],
       "publishedAt": "2026-11-05T20:49:57+00:00",
       "updatedAt": "2026-11-05T20:49:57+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -719,30 +691,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0d91440bc745ab01d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
-      "bullets": [
-        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
-      ],
-      "publishedAt": "2026-11-06T09:12:30+00:00",
-      "updatedAt": "2026-11-06T09:12:30+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-fab38c71c6b6ebbda0",
@@ -770,6 +718,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0d91440bc745ab01d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
+      "bullets": [
+        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
+      ],
+      "publishedAt": "2026-11-06T09:12:30+00:00",
+      "updatedAt": "2026-11-06T09:12:30+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b9da297658f4848fef",
       "revision": 1,
       "category": "world",
@@ -793,6 +765,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "53365cdc1388ca92ee4d3e331eb70d314bdeb09457eba1126f9c6a3871881948",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b77c623e4ed4aa95a2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
+      "bullets": [
+        "A peine destitué à la suite d'une crise bancaire au Paraguay, l'ancien président Santiago Peña a comparu samedi 7 novembre devant la justice pour s'expliquer sur ce scandale, au lendemain de l'investiture de son successeur, Pedro Alliana.",
+        "Des entreprises, des institutions et des fonds de pension ont aussi été affectés.",
+        "L'ancien vice-président et nouveau président, Pedro Alliana, 52 ans, a affirmé, devant le Sénat qui l'a investi, que \"les compatriotes qui traversent une situation très difficile à cause du chaos financier seront pleinement indemnisés\"."
+      ],
+      "publishedAt": "2026-11-07T17:26:16+00:00",
+      "updatedAt": "2026-11-07T17:26:16+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "3979b5cfdb4dc6ec87ffe4c092d82ae07c9b6614ad12abadcec14f371a906372",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T21:47:15.627867+00:00",
+      "context": null
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -879,7 +879,7 @@
       ],
       "publishedAt": "2026-11-05T21:34:22+00:00",
       "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -920,17 +920,16 @@
     },
     {
       "id": "rss-b903bacc9ee1bc626e",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, 16 autres sont hospitalisées",
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
       "bullets": [
         "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
-        "Le précédent bilan de la même source faisait état de cinq morts, mais l'une des personnes blessées par le tireur est décédée en début de soirée.",
-        "Même si cela devra encore être vérifié\", a-t-il ajouté."
+        "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée, le ministre de l'Intérieur.\"Un homme a foncé en voiture sur la place du marché principal de Cracovie et a commencé à tirer au hasard sur des passants."
       ],
-      "publishedAt": "2026-11-07T19:59:55+00:00",
-      "updatedAt": "2026-11-07T19:59:55+00:00",
+      "publishedAt": "2026-11-07T21:37:20+00:00",
+      "updatedAt": "2026-11-07T21:37:20+00:00",
       "importance": 67,
       "sources": [
         {
@@ -941,9 +940,9 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "51384d0cdae8bf95f952b180f3c7ad55841cc5f91515cbfb2d323b7a88fb7c6d",
+      "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T20:49:56.208703+00:00",
+      "enrichedAt": "2026-11-07T21:47:15.627867+00:00",
       "context": null
     },
     {
@@ -995,30 +994,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-13b03bc8a6f1058382",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
-      "bullets": [
-        "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
-      ],
-      "publishedAt": "2026-11-03T09:29:05+00:00",
-      "updatedAt": "2026-11-03T09:29:05+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1e3650e99784108042",
       "revision": 2,
       "category": "france",
@@ -1040,6 +1015,30 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-13b03bc8a6f1058382",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
+      "bullets": [
+        "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
+      ],
+      "publishedAt": "2026-11-03T09:29:05+00:00",
+      "updatedAt": "2026-11-03T09:29:05+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
       "detailLevel": "preview"
     },
     {
@@ -1205,7 +1204,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 4
     },
     {
       "publisher": "Franceinfo",
