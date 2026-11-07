@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T02:08:59.103160+00:00",
+  "preparedAt": "2026-11-07T02:59:21.006412+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -290,7 +290,7 @@
       ],
       "publishedAt": "2026-11-06T14:26:52+00:00",
       "updatedAt": "2026-11-06T14:26:52+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -331,6 +331,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d0ddb76a76e8005947",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
+      "bullets": [
+        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
+        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
+        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
+      ],
+      "publishedAt": "2026-11-07T02:59:23+00:00",
+      "updatedAt": "2026-11-07T02:59:23+00:00",
+      "importance": 70,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -354,34 +382,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
       "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d0ddb76a76e8005947",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
-      "bullets": [
-        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
-        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
-        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
-      ],
-      "publishedAt": "2026-11-07T02:04:55+00:00",
-      "updatedAt": "2026-11-07T02:04:55+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T15:59:17.147299+00:00",
       "context": null
@@ -427,7 +427,7 @@
       ],
       "publishedAt": "2026-11-06T14:46:10+00:00",
       "updatedAt": "2026-11-06T14:46:10+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -576,6 +576,30 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "b18ea2bf262528ba3e1a8ea04c177131dbdf4cdb8cb1c4fce2acfa50a338c7fa",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f98da8c07cee2f9225",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien",
+      "bullets": [
+        "Ces informations peuvent concerner « [les] installations, [les] équipements et le personnel associé », a précisé le commandement militaire américain pour le Moyen-Orient."
+      ],
+      "publishedAt": "2026-11-07T02:13:33+00:00",
+      "updatedAt": "2026-11-07T02:13:33+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "789d719af32dc39348fa1ac04d55b3b65926b85e6591d2f3cfc1461b91a6d51c",
       "detailLevel": "preview"
     },
     {
@@ -826,30 +850,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "cc5f5f7a7cfb986288a3f3788dd970940accecf06b4e490c5ae87f6d8cda5fb2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c983a84ce7d6be3271",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Pologne s’enlise dans la crise institutionnelle et politique",
-      "bullets": [
-        "RÉCIT - Varsovie peine à trouver une issue à la crise politique opposant le président au premier ministre, et qui s’est nouée autour de la nomination de juges du Tribunal constitutionnel."
-      ],
-      "publishedAt": "2026-11-06T20:30:00+00:00",
-      "updatedAt": "2026-11-06T20:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-pologne-s-enlise-dans-la-crise-institutionnelle-et-politique-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e1c941256701280b744ec740eb938392dbc8a5fc6461dc21aeae93c21e412b76",
       "detailLevel": "preview"
     },
     {
@@ -1214,34 +1214,6 @@
       "context": null
     },
     {
-      "id": "rss-c24b381e8fc288f3b3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
-      "bullets": [
-        "Mais quel est donc le calcul de Matignon ?",
-        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
-        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
-      ],
-      "publishedAt": "2026-11-06T14:10:59+00:00",
-      "updatedAt": "2026-11-06T14:10:59+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3d3629363808250abb",
       "revision": 1,
       "category": "france",
@@ -1264,6 +1236,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c24b381e8fc288f3b3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Crise sociale : le gouvernement à contretemps ? \"On/Off\", épisode 7",
+      "bullets": [
+        "Mais quel est donc le calcul de Matignon ?",
+        "Face aux revendications portées dès le mois de septembre pour le pouvoir d'achat et par les lycéens, Sébastien Lecornu a annoncé jeudi 5 novembre une conférence sociale qui se tiendra lundi 9 novembre avec les syndicats et le patronat.",
+        "Calendrier jugé tardif, dissonances entre l'Elysée et Matignon..."
+      ],
+      "publishedAt": "2026-11-06T14:10:59+00:00",
+      "updatedAt": "2026-11-06T14:10:59+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/crise-sociale-le-gouvernement-a-contretemps-on-off-episode-7_8270591.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "b17f6b0686700a6e8cc110374f5895c9b3685152fe135ac3bb48f3accf857a57",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
