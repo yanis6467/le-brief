@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T11:49:52.348982+00:00",
+  "preparedAt": "2026-11-07T13:04:13.943690+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -175,7 +175,7 @@
       ],
       "publishedAt": "2026-11-06T12:46:11+00:00",
       "updatedAt": "2026-11-06T12:46:11+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -316,34 +316,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5112c5deff89021eaf",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "La vague bleue démocrate aux États-Unis provoque une baisse des taux, malmène le dollar et propulse le CAC 40 qui gagne 1,6%",
-      "bullets": [
-        "Le rendement de l'obligation française à 10 ans recule de 7 points de base (0,07 point de pourcentage) tandis que celui des États-Unis cède 4 points de base.",
-        "Le Nasdaq est attendu en nette hausse à Wall Street et à Paris, des actions IA ne reculent que légèrement, comme Schneider Electric (-1,11%) et Legrand (-0,34%).",
-        "Le contrat de janvier sur le Brent de mer du Nord abandonne 1,3% à 102,17 dollars le baril tandis que celui de décembre sur le WTI recule de 0,9% à 95,25 dollars le baril."
-      ],
-      "publishedAt": "2026-11-04T12:16:43+00:00",
-      "updatedAt": "2026-11-04T12:16:43+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/marches-financiers/la-vague-bleue-democrate-aux-etats-unis-provoque-une-baisse-des-taux-malmene-le-dollar-et-propulse-le-cac-40-qui-gagne-16-1173139.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "607099a74306c7c0637b12da5d3a629e1e0b449bd357350e503c3b1361ab69b1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -354,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T11:48:42+00:00",
-      "updatedAt": "2026-11-07T11:48:42+00:00",
+      "publishedAt": "2026-11-07T13:02:35+00:00",
+      "updatedAt": "2026-11-07T13:02:35+00:00",
       "importance": 69,
       "sources": [
         {
@@ -468,7 +440,7 @@
       ],
       "publishedAt": "2026-11-06T12:35:54+00:00",
       "updatedAt": "2026-11-06T12:35:54+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -593,6 +565,34 @@
       "context": null
     },
     {
+      "id": "rss-30e7df5bbe99228735",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Iran, un homme a été exécuté en lien avec l'attaque d'un poste de police",
+      "bullets": [
+        "Les autorités iraniennes ont exécuté, samedi 7 novembre, un homme condamné pour implication dans l'attaque meurtrière d'un poste de police de la ville de Khach, dans la province du Sistan-Baloutchistan.",
+        "\"La condamnation à mort de Mohammad Aref Shahbakhsh, un agent lié au groupe terroriste Jaïch al-Adl , a été mise à exécution ce matin, une fois les procédures judiciaires achevées\", a déclaré Mizan, l'agence du pouvoir judiciaire.",
+        "L'homme \"a été reconnu coupable de baghi [rébellion armée contre la République islamique] et de moharabeh [guerre contre Dieu]\", détaille Mizan."
+      ],
+      "publishedAt": "2026-11-07T12:55:30+00:00",
+      "updatedAt": "2026-11-07T12:55:30+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/en-iran-un-homme-a-ete-execute-en-lien-avec-l-attaque-d-un-poste-de-police_8272340.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "aaa4e7c9f318acf162ad69fb81dd2d9d0c91078a91257d413d5935b579a6666f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
+      "context": null
+    },
+    {
       "id": "rss-507b68f9f3dc989231",
       "revision": 1,
       "category": "world",
@@ -642,6 +642,54 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "789d719af32dc39348fa1ac04d55b3b65926b85e6591d2f3cfc1461b91a6d51c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ecd391bd55ae15346b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : le Pakistan s’inquiète du revers essuyé par Donald Trump, allié du maréchal Munir",
+      "bullets": [
+        "Alors que plusieurs accords ont été conclus entre le Pakistan et les Etats-Unis autour des minerais, des cryptomonnaies, des drones et du gaz, la relation entre les deux pays, fondée sur l’entente personnelle entre le locataire de la Maison Blanche et l’homme fort d’Islamabad, pourrait pâtir de la victoire des…"
+      ],
+      "publishedAt": "2026-11-07T12:30:01+00:00",
+      "updatedAt": "2026-11-07T12:30:01+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-le-pakistan-s-inquiete-du-revers-essuye-par-donald-trump-allie-du-marechal-munir_6808272_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d1d2c5fd851222500d9466b49a490b27f1f94ada31dadc560e7c731de4df2542",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e1d03e8428aa6c4c16",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Nouvelle-Zélande, Christopher Luxon, le premier ministre conservateur, assure pouvoir former un gouvernement après des élections législatives très serrées",
+      "bullets": [
+        "Ni le Parti national au pouvoir, ni l’opposition de centre-gauche incarnée par le Parti travailliste n’obtiennent de majorité au Parlement, après ce vote dominé par les problèmes de coût de la vie."
+      ],
+      "publishedAt": "2026-11-07T12:22:44+00:00",
+      "updatedAt": "2026-11-07T12:22:44+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/en-nouvelle-zelande-christopher-luxon-le-premier-ministre-conservateur-assure-pouvoir-former-un-gouvernement-apres-des-elections-legislatives-tres-serrees_6808271_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5e6a7c5adf9d784ca03ee453c2be4294cab10bbb337d7820c8a6514dc7ea0ee5",
       "detailLevel": "preview"
     },
     {
@@ -722,109 +770,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d3bc603c7193abfd79",
-      "revision": 2,
+      "id": "rss-2c38e508b81fc24a10",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
+      "title": "Au Yémen, des frappes saoudiennes font 22 morts, selon les rebelles houthis",
       "bullets": [
-        "\"Les forces armées de la République islamique sont aujourd'hui en état d'alerte plus élevé et plus puissantes qu'elles ne l'étaient au début de la guerre.\" En Iran, l'armée a affirmé, samedi 7 novembre, être \"plus forte\" qu'avant l'attaque israélo-américaine d'ampleur de février dernier.",
-        "\"On ne peut pas laisser l'Iran avoir l'arme nucléaire\", a-t-il estimé mardi soir.",
-        "L'armée américaine a annoncé vendredi offrir une récompense de 20 millions de dollars \"et un possible déménagement\" à toute personne lui apportant des informations sur le programme nucléaire iranien."
+        "Des médias liés aux houthis du Yémen ont annoncé, samedi 7 novembre, la mort de 22 personnes dans des frappes saoudiennes sur la région de Sanaa, contrôlée par le mouvement pro-iranien, en guerre contre le gouvernement yéménite et l'Arabie saoudite qui l'appuie.",
+        "\"Le nombre de victimes du massacre perpétré par l'aviation de l'ennemi saoudien (...) est monté à 22 personnes, dont des femmes et des enfants, et celui des blessés à 30\", a rapporté l'agence Saba, un bilan avancé aussi par la chaîne Almasirah.",
+        "Les autorités saoudiennes n'ont pas commenté ces informations."
       ],
-      "publishedAt": "2026-11-07T11:23:31+00:00",
-      "updatedAt": "2026-11-07T11:23:31+00:00",
+      "publishedAt": "2026-11-07T12:42:56+00:00",
+      "updatedAt": "2026-11-07T12:42:56+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-des-frappes-saoudiennes-font-22-morts-selon-les-houthis_8272298.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "b0084ec3a13d21e116ef3ab5a10e789661b771a99471045352ee7478c236c726",
+      "summaryInput": "4a584dae42b2edeff8b37bcaf8549aa0e2d8923ae07d1e1bd1e9d25f57845a68",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T11:49:52.348982+00:00",
+      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0fdcfb9c166cedf8d3",
-      "revision": 3,
-      "category": "world",
-      "topic": "International",
-      "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
-      "bullets": [
-        "De nouvelles frappes russes \"massives\" ont visé dans la nuit de vendredi à samedi des infrastructures énergétiques en Ukraine, a annoncé le ministère de l'Energie ukrainien, samedi 7 novembre, dans un communiqué.",
-        "Des dommages importants ont été causés aux réseaux de transport et de distribution\", a-t-il rapporté, sans préciser le nombre de foyers concernés par ces coupures d'électricité.",
-        "Cet ouvrage avait déjà été frappé en octobre, poussant les autorités à installer des filets antidrones pour tenter de le protéger, une première dans la capitale depuis le début de l'invasion russe de l'Ukraine en 2022."
-      ],
-      "publishedAt": "2026-11-07T11:20:41+00:00",
-      "updatedAt": "2026-11-07T11:20:41+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "40a5daf1ee2b5e902431d25e5731852d468c036b900ab2ad1fe4f7b70712cb04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T11:49:52.348982+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-dddb68c09bf2c623cd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
-      "bullets": [
-        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 octobre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
-      ],
-      "publishedAt": "2026-11-07T10:12:49+00:00",
-      "updatedAt": "2026-11-07T10:12:49+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "341a75db088c77efe98d72dd2c2bdbf052645487fd5d61e9cc60c8a45219f4bb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-de658037aba2335357",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Erika Fatland : «J’ai été émue de voir des Ukrainiens risquer leur vie pour sauver des chiens et des chats. La guerre fait ressortir le pire comme le meilleur chez les gens»",
-      "bullets": [
-        "ENTRETIEN - Si elle a supporté de travailler à l’abattoir familial dès l’âge de 10 ans, peu de choses auraient pu la dissuader d’explorer l’Himalaya ou la Corée du Nord.",
-        "L’anthropologue norvégienne, qui consacrera son prochain livre à l’Ukraine, a hissé la littérature de voyage à un niveau inédit."
-      ],
-      "publishedAt": "2026-11-07T09:12:38+00:00",
-      "updatedAt": "2026-11-07T09:12:38+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/erika-fatland-j-ai-ete-emue-de-voir-des-ukrainiens-risquer-leur-vie-pour-sauver-des-chiens-et-des-chats-la-guerre-fait-ressortir-le-pire-comme-le-meilleur-chez-les-gens-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "79de656ce7a760b4b12795d95e44d131f11715ea5a8b3c0e5a8740367d99e813",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-1e3650e99784108042",
@@ -837,7 +808,7 @@
       ],
       "publishedAt": "2026-11-07T00:09:38+00:00",
       "updatedAt": "2026-11-07T00:09:38+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1106,6 +1077,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-caa3923272b63d9490",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
+      "bullets": [
+        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
+        "La vague de menaces sur le ciel européen continue.",
+        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
+      ],
+      "publishedAt": "2026-11-07T07:10:34+00:00",
+      "updatedAt": "2026-11-07T07:10:34+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
+      "context": null
+    },
+    {
       "id": "rss-cecee5df4adcc88063",
       "revision": 2,
       "category": "france",
@@ -1204,30 +1203,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "218a40e9b2e519befa13587d1f4cef694f402ed3bf63e1cdb07866f1ddbecaa2",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3d3629363808250abb",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
-      "bullets": [
-        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
-      ],
-      "publishedAt": "2026-11-05T17:30:24+00:00",
-      "updatedAt": "2026-11-05T17:30:24+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1265,7 +1240,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
