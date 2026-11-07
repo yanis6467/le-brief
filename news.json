@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T15:49:56.413489+00:00",
+  "preparedAt": "2026-11-07T16:51:44.685975+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -18,7 +18,7 @@
       ],
       "publishedAt": "2026-11-06T16:12:32+00:00",
       "updatedAt": "2026-11-06T16:12:32+00:00",
-      "importance": 92,
+      "importance": 91,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -46,7 +46,7 @@
       ],
       "publishedAt": "2026-11-06T16:43:50+00:00",
       "updatedAt": "2026-11-06T16:43:50+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -60,59 +60,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5f49ccbba28a30acc7",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les voitures chinoises sont-elles des espionnes ?",
-      "bullets": [
-        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car"
-      ],
-      "publishedAt": "2026-11-06T21:00:02+00:00",
-      "updatedAt": "2026-11-06T21:00:02+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "5414dc16bf81c71d02077bb23e2b44daeb99e597a8c5bb629f2840b57c8e1c94",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f044ad861ee2473c1c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La bulle de l’IA se heurte à la réalité",
-      "bullets": [
-        "Aux Etats-Unis, la large victoire du Parti démocrate aux midterms a entraîné un brusque décrochage du Nasdaq, l’indice boursier spécialisé dans les valeurs technologiques.",
-        "Après avoir été l’un des principaux facteurs de dynamisme de l’économie américaine, l’intelligence artificielle pourrait devenir son talon d’Achille."
-      ],
-      "publishedAt": "2026-11-07T10:30:18+00:00",
-      "updatedAt": "2026-11-07T10:30:18+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/la-bulle-de-l-ia-se-heurte-a-la-realite_6808268_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c593379ebd925c973148c9fa73c6e6d3b154152cca6ae0a551377c64bff77da9",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-63599e81d84bc298e2",
@@ -149,7 +96,7 @@
       ],
       "publishedAt": "2026-11-06T16:06:12+00:00",
       "updatedAt": "2026-11-06T16:06:12+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -316,6 +263,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1620ca18135aa8bf8b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
+      "bullets": [
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
+      ],
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-41d2340e0f38ecfac8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
+      "bullets": [
+        "Or celui-ci est revalorisé automatiquement, chaque 1er janvier et dès que l’inflation dépasse 2 %.",
+        "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
+        "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
+      ],
+      "publishedAt": "2026-11-06T14:26:52+00:00",
+      "updatedAt": "2026-11-06T14:26:52+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "3c1c3e63db4fbe966c5244ceac2545428ef2669dc479580ebd630ba5ca096884",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,8 +329,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T15:46:35+00:00",
-      "updatedAt": "2026-11-07T15:46:35+00:00",
+      "publishedAt": "2026-11-07T16:48:50+00:00",
+      "updatedAt": "2026-11-07T16:48:50+00:00",
       "importance": 69,
       "sources": [
         {
@@ -340,7 +343,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
+      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
       "context": null
     },
     {
@@ -697,6 +700,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5f49ccbba28a30acc7",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Les voitures chinoises sont-elles des espionnes ?",
+      "bullets": [
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car"
+      ],
+      "publishedAt": "2026-11-06T21:00:02+00:00",
+      "updatedAt": "2026-11-06T21:00:02+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "5414dc16bf81c71d02077bb23e2b44daeb99e597a8c5bb629f2840b57c8e1c94",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
+      "context": null
+    },
+    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -725,6 +756,31 @@
       "context": null
     },
     {
+      "id": "rss-f044ad861ee2473c1c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La bulle de l’IA se heurte à la réalité",
+      "bullets": [
+        "Aux Etats-Unis, la large victoire du Parti démocrate aux midterms a entraîné un brusque décrochage du Nasdaq, l’indice boursier spécialisé dans les valeurs technologiques.",
+        "Après avoir été l’un des principaux facteurs de dynamisme de l’économie américaine, l’intelligence artificielle pourrait devenir son talon d’Achille."
+      ],
+      "publishedAt": "2026-11-07T10:30:18+00:00",
+      "updatedAt": "2026-11-07T10:30:18+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/la-bulle-de-l-ia-se-heurte-a-la-realite_6808268_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c593379ebd925c973148c9fa73c6e6d3b154152cca6ae0a551377c64bff77da9",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fab38c71c6b6ebbda0",
       "revision": 2,
       "category": "world",
@@ -748,57 +804,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ef41eb75336f879266b8596a4b2165a1b65227a55c0c15ab2489cd798b35af97",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0d91440bc745ab01d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
-      "bullets": [
-        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
-      ],
-      "publishedAt": "2026-11-06T09:12:30+00:00",
-      "updatedAt": "2026-11-06T09:12:30+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ea96e88c04ac5d8d66",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales",
-      "bullets": [
-        "Le président ukrainien a par ailleurs affirmé samedi que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors des frappes massives contre les infrastructures énergétiques ukrainiennes dans la nuit de vendredi à samedi.",
-        "\"Selon des informations préliminaires, sur l'une des infrastructures énergétiques clés ayant subi des dommages, les Russes ont utilisé des missiles KN-23 fabriqués et livrés par la Corée du Nord\", a-t-il poursuivi."
-      ],
-      "publishedAt": "2026-11-07T14:44:52+00:00",
-      "updatedAt": "2026-11-07T14:44:52+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "edf6f77e75dfb665401531d62395e12d7a1220fdf1dbf57c0916b9c15e459504",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
-      "context": null
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -911,7 +916,7 @@
       ],
       "publishedAt": "2026-11-06T16:15:09+00:00",
       "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -935,8 +940,8 @@
         "Au total, des dizaines de vols commerciaux européens, ainsi qu'un bateau de croisière, ont fait l'objet d'alertes à la bombe depuis le début de la semaine.",
         "Cette série de fausses alertes, a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
       ],
-      "publishedAt": "2026-11-07T15:36:08+00:00",
-      "updatedAt": "2026-11-07T15:36:08+00:00",
+      "publishedAt": "2026-11-07T16:17:43+00:00",
+      "updatedAt": "2026-11-07T16:17:43+00:00",
       "importance": 67,
       "sources": [
         {
@@ -974,6 +979,30 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "4e8297bf84b95255b71629c56ee04c5c1a5569f41ab481124f3eef4560d703b3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d71b120d0bf853f25d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Environnement",
+      "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
+      "bullets": [
+        "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire."
+      ],
+      "publishedAt": "2026-11-07T16:30:10+00:00",
+      "updatedAt": "2026-11-07T16:30:10+00:00",
+      "importance": 47,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "80bbb3f686ee1dfa6482ee713eae550f9c7e25e645bbf6653aeb9e1492741655",
       "detailLevel": "preview"
     },
     {
@@ -1100,31 +1129,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b903bacc9ee1bc626e",
+      "id": "rss-caa3923272b63d9490",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "En Pologne, une fusillade à Cracovie fait cinq morts et \"plusieurs blessés\", selon le porte-parole de la police",
+      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
       "bullets": [
-        "L'auteur des faits a été neutralisé par la police et blessé par balle.",
-        "Le Premier ministre polonais, Donald Tusk, a déploré, sur X, une \"fusillade tragique\".",
-        "Jestem na bieżąco informowany przez ministra spraw wewnętrznych o sytuacji w Krakowie po tragicznej strzelaninie."
+        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
+        "La vague de menaces sur le ciel européen continue.",
+        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
       ],
-      "publishedAt": "2026-11-07T15:41:03+00:00",
-      "updatedAt": "2026-11-07T15:41:03+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-07T07:10:34+00:00",
+      "updatedAt": "2026-11-07T07:10:34+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
+          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "521d9007783306730f1ee6d12690d8a5dd536c2b9071c3f1f8fd1e0e62e87556",
+      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
+      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
       "context": null
     },
     {
@@ -1174,34 +1203,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4eb0bd013d5f5e9b69",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "En prévision des manifestations de samedi à Paris, la préfecture de police a prévu \"un dispositif très agile, très mobile\", prévient sa porte-parole",
-      "bullets": [
-        "Le choix de la place de la Concorde a été fait car c'est \"un lieu emblématique, près de l'Assemblée nationale, un lieu de pouvoir, puisque nos revendications sont politiques\", a déclaré vendredi David Libeskind, avocat des gilets jaunes.",
-        "\"Ce travail en concertation et ce travail en collaboration permet de réaliser ce parcours dans des conditions de sécurité acceptables\", note Hélène Denéchère.",
-        "À Paris, comme partout en France, le dispositif de sécurité sera le même aux deux semaines passées, confirme Hélène Denéchère : \"Le même niveau de risque, donc le même dispositif.\""
-      ],
-      "publishedAt": "2026-11-07T07:32:18+00:00",
-      "updatedAt": "2026-11-07T07:32:18+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/en-prevision-des-manifestations-de-samedi-a-paris-la-prefecture-de-police-a-prevu-un-dispositif-tres-agile-tres-mobile-previent-sa-porte-parole_8272037.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "488e27bb4f120f7b469496bd3d3daebdaf07c9e68d4503d8850ba450c3a06631",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T13:58:12.602898+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
