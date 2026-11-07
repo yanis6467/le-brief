@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T05:00:23.860517+00:00",
+  "preparedAt": "2026-11-07T05:57:15.785063+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -30,7 +30,7 @@
       "provenance": "article-extract",
       "summaryInput": "5f2bb4ef6f62ed8e88a6c699abad3c15f3842643a62557e7018f67727d722ba5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
     },
     {
@@ -58,7 +58,7 @@
       "provenance": "article-extract",
       "summaryInput": "a60fa634877ee4a251aed06557fe0768eaae66f6711254eceb75559c3dbc4377",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
     },
     {
@@ -88,6 +88,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
       "context": null
+    },
+    {
+      "id": "rss-63599e81d84bc298e2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "bullets": [
+        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+      ],
+      "publishedAt": "2026-11-06T18:10:39+00:00",
+      "updatedAt": "2026-11-06T18:10:39+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-10d568a972aff97676",
@@ -142,6 +166,30 @@
       "context": null
     },
     {
+      "id": "rss-19f7ed098526ed4b3b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Thierry Cotillard, patron d’Intermarché : « L’hypersensibilité au prix est telle qu’il y a un risque de déconsommation si l’inflation alimentaire dépasse 2 % ou 3 % »",
+      "bullets": [
+        "En amont des négociations commerciales annuelles entre les enseignes de supermarchés et les industriels de l’agroalimentaire, qui débuteront le 1ᵉʳ décembre, le président de Groupement Mousquetaires appelle, dans un entretien au « Monde », à la responsabilité de tous les acteurs pour que la hausse des prix reste contenue."
+      ],
+      "publishedAt": "2026-11-07T05:00:08+00:00",
+      "updatedAt": "2026-11-07T05:00:08+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/07/thierry-cotillard-patron-d-intermarche-l-hypersensibilite-au-prix-est-telle-qu-il-y-a-un-risque-de-deconsommation-si-l-inflation-alimentaire-depasse-2-ou-3_6808204_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "889aa273b5fb757bfcd1b9dd6bcc9e60846b14d9217f3e961524508c7a400d2b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e8924bcab2b3a61f83",
       "revision": 1,
       "category": "eco",
@@ -192,6 +240,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
       "context": null
+    },
+    {
+      "id": "rss-1d62a4d340113d52b2",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+      "bullets": [
+        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
+        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
+      ],
+      "publishedAt": "2026-11-06T20:03:24+00:00",
+      "updatedAt": "2026-11-06T20:03:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-88accdfead5fd4b24e",
@@ -250,87 +323,6 @@
       "context": null
     },
     {
-      "id": "rss-c6937783884c6b7207",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Barre des 1 500 euros, 10% d'augmentation, 100 euros en plus… Quelles sont les propositions du gouvernement et des syndicats sur le smic ?",
-      "bullets": [
-        "L'intersyndicale à l'origine de la journée de manifestations du jeudi 5 novembre va demander une hausse du smic lors de la conférence sociale organisée lundi 9 novembre par le Premier ministre à Matignon.",
-        "Sur cette base, il a été augmenté de 1,18% à partir du 1er janvier 2026.",
-        "Au-delà des augmentations mécaniques, le gouvernement peut donc donner \"un coup de pouce\" au smic, ce qui n'a pas été le cas depuis juillet 2012, après l'arrivée de François Hollande à l'Elysée, à hauteur de 0,6%."
-      ],
-      "publishedAt": "2026-11-06T16:31:00+00:00",
-      "updatedAt": "2026-11-06T16:31:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/barre-des-1-500-euros-10-d-augmentation-100-euros-en-plus-quelles-sont-les-propositions-du-gouvernement-et-des-syndicats-sur-le-smic_8270843.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "0fd60a3396730dc1d655b69601ec2041a7cddc54f34d1dfa0dcfb7b9fb97a001",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-41d2340e0f38ecfac8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
-      "bullets": [
-        "Or celui-ci est revalorisé automatiquement, chaque 1er janvier et dès que l’inflation dépasse 2 %.",
-        "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
-        "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
-      ],
-      "publishedAt": "2026-11-06T14:26:52+00:00",
-      "updatedAt": "2026-11-06T14:26:52+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "3c1c3e63db4fbe966c5244ceac2545428ef2669dc479580ebd630ba5ca096884",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T05:00:23.860517+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e9a740b525482fae0a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En Italie, une « taxe de sortie » pour les grandes fortunes",
-      "bullets": [
-        "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie.",
-        "Une mesure qui infléchirait une politique fiscale visant depuis 2017 à attirer des ultrariches dans la Péninsule"
-      ],
-      "publishedAt": "2026-11-06T10:45:04+00:00",
-      "updatedAt": "2026-11-06T10:45:04+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "58161464dd3989028f8fbf1fff32e80e36e397517177a6f0394bae9225c50805",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-5112c5deff89021eaf",
       "revision": 1,
       "category": "markets",
@@ -369,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T04:59:34+00:00",
-      "updatedAt": "2026-11-07T04:59:34+00:00",
+      "publishedAt": "2026-11-07T05:53:22+00:00",
+      "updatedAt": "2026-11-07T05:53:22+00:00",
       "importance": 69,
       "sources": [
         {
@@ -411,7 +403,7 @@
       "provenance": "article-extract",
       "summaryInput": "e6cccf66d351a43e2848821e20721d3a2eb137d40801482a1688d82e1c94db3c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
     },
     {
@@ -439,7 +431,7 @@
       "provenance": "article-extract",
       "summaryInput": "644a84b93b4ec60ec21019253a992dcb77b983714c2c940b71df2842c9fe73ae",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:02:48.829719+00:00",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
     },
     {
@@ -523,7 +515,7 @@
       "provenance": "article-extract",
       "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T17:56:17.370764+00:00",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -553,6 +545,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2ef5d21448382cf7f7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : les démocrates lancés à l’assaut du budget du Pentagone et de la guerre contre l’Iran",
+      "bullets": [
+        "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates.",
+        "Très opposés au conflit avec la République islamique, ces derniers dénoncent l’inflation du budget de la défense et veulent dégager des marges pour tenir leurs promesses de campagne."
+      ],
+      "publishedAt": "2026-11-07T05:00:05+00:00",
+      "updatedAt": "2026-11-07T05:00:05+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ac4dad18f2ad3e2ff7fb36a58c37f25f36b1b1aece0f25313f3093c921d58830",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-7fa5c157a18eaea64e",
@@ -683,30 +700,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-63599e81d84bc298e2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
-      "bullets": [
-        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
-      ],
-      "publishedAt": "2026-11-06T18:10:39+00:00",
-      "updatedAt": "2026-11-06T18:10:39+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-65f2fe87a0d3a01de8",
       "revision": 1,
       "category": "world",
@@ -756,31 +749,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1d62a4d340113d52b2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "bullets": [
-        "Les menaces, qui se sont révélées infondées, ont été adressées vendredi à plusieurs médias irlandais ainsi qu’à plusieurs vols commerciaux entre des pays européens.",
-        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
-      ],
-      "publishedAt": "2026-11-06T20:03:25+00:00",
-      "updatedAt": "2026-11-06T20:03:25+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3e00f144fa2d2ffa7cde1aad237946cf2ad0c47536dbf847d0f293410bb5103e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-6de4ad8871d11134d0",
       "revision": 1,
       "category": "world",
@@ -802,31 +770,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "b8268fa954b687546c394951fd761200cb419b1bad891a398a248d9f8de997dd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-48156d907b62c533e5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
-      "bullets": [
-        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
-        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
-      ],
-      "publishedAt": "2026-11-07T04:55:03+00:00",
-      "updatedAt": "2026-11-07T04:55:03+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
       "detailLevel": "preview"
     },
     {
@@ -852,6 +795,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "cc5f5f7a7cfb986288a3f3788dd970940accecf06b4e490c5ae87f6d8cda5fb2",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c983a84ce7d6be3271",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Pologne s’enlise dans la crise institutionnelle et politique",
+      "bullets": [
+        "RÉCIT - Varsovie peine à trouver une issue à la crise politique opposant le président au premier ministre, et qui s’est nouée autour de la nomination de juges du Tribunal constitutionnel."
+      ],
+      "publishedAt": "2026-11-06T20:30:00+00:00",
+      "updatedAt": "2026-11-06T20:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-pologne-s-enlise-dans-la-crise-institutionnelle-et-politique-20261106",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e1c941256701280b744ec740eb938392dbc8a5fc6461dc21aeae93c21e412b76",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-60a54a0f5be2f22dd2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Espionnage : faut-il se méfier des voitures chinoises ?",
+      "bullets": [
+        "Plusieurs pays interdisent déjà aux voitures chinoises l'accès à leurs sites sensiblesL'un d'entre eux a trouvé les vidéos par hasard en pianotant sur l'écran du véhicule.",
+        "Face à ces risques, plusieurs pays interdisent déjà aux voitures chinoises l'accès à leurs sites sensibles : le Royaume-Uni, la Belgique, Israël, ainsi qu'une base militaire américaine située au Japon.",
+        "Un député européen français presse MatignonCe réseau 4G pourrait aspirer toutes sortes d'informations vers un logiciel espion introduit à distance dans le véhicule."
+      ],
+      "publishedAt": "2026-11-06T19:57:50+00:00",
+      "updatedAt": "2026-11-06T19:57:50+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/espionnage-faut-il-se-mefier-des-voitures-chinoises_8271485.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "f1a6660afd2ab2accff21013c0d519d42fa8e251fb3845b860cc80586d137876",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
+      "context": null
     },
     {
       "id": "rss-bbf46b96b4726a38e0",
@@ -1049,7 +1044,7 @@
       ],
       "publishedAt": "2026-11-04T17:24:50+00:00",
       "updatedAt": "2026-11-04T17:24:50+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1215,52 +1210,51 @@
       "context": null
     },
     {
-      "id": "rss-4aa89c49dc08ccbf60",
+      "id": "rss-8771c22c209df15f79",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+      "topic": "Société",
+      "title": "Immigration : les données-clés pour éclairer le débat",
       "bullets": [
-        "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
-        "Stephen Miller va remplacer Susie Wiles, appelée à occuper d’autres fonctions dans l’orbite du président, mais hors du gouvernement."
+        "« Les idées claires pour 2027 ». Quels qu’en soient les motifs (travail, asile, regroupement familial…), l’accueil et le séjour d’immigrés et d’étrangers en France représentent une importante source de clivage entre les partis politiques, notamment à l’approche de l’élection présidentielle. Nos explications pour s’y retrouver."
       ],
-      "publishedAt": "2026-11-06T19:41:18+00:00",
-      "updatedAt": "2026-11-06T19:41:18+00:00",
+      "publishedAt": "2026-11-07T05:00:51+00:00",
+      "updatedAt": "2026-11-07T05:00:51+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/07/immigration-les-donnees-cles-pour-eclairer-le-debat_6808243_4355770.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "544de01dc3493bc3d310208f7f09d2da9a5307aa96cf0cb5f22255389a4bbf39",
+      "summaryInput": "f78e32a4e47a0a5e8c25d588dcdfc503e92486bda025e076ef40fdec95a0ddd2",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3d3629363808250abb",
+      "id": "rss-cfc6a07cbb5e4a5aff",
       "revision": 1,
       "category": "france",
-      "topic": "Justice",
-      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann met en ordre de bataille la famille socialiste pour la campagne",
       "bullets": [
-        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
+        "Le vainqueur de la primaire sociale-démocrate a dévoilé l’équipe qui portera sa candidature pour l’Elysée, avec le souci de faire la part belle aux différents courants internes du Parti socialiste et de s’assurer du soutien de son premier secrétaire, Olivier Faure."
       ],
-      "publishedAt": "2026-11-05T17:30:24+00:00",
-      "updatedAt": "2026-11-05T17:30:24+00:00",
+      "publishedAt": "2026-11-07T05:00:20+00:00",
+      "updatedAt": "2026-11-07T05:00:20+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
+      "summaryInput": "f6670e64bf216f6e42c0eaf1404f2e48b8d4867b13102adc1caf1ed396d85dda",
       "detailLevel": "preview"
     }
   ],
@@ -1365,7 +1359,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
