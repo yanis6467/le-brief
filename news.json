@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T09:02:28.181475+00:00",
+  "preparedAt": "2026-11-07T09:56:57.047736+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -60,6 +60,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T05:57:15.785063+00:00",
       "context": null
+    },
+    {
+      "id": "rss-63599e81d84bc298e2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "bullets": [
+        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+      ],
+      "publishedAt": "2026-11-06T18:10:39+00:00",
+      "updatedAt": "2026-11-06T18:10:39+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-10d568a972aff97676",
@@ -198,7 +222,7 @@
       ],
       "publishedAt": "2026-11-06T21:27:34+00:00",
       "updatedAt": "2026-11-06T21:27:34+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -210,7 +234,7 @@
       "provenance": "article-extract",
       "summaryInput": "d00ac47f0f923039e3bd202fab52cd045fd153aefee920ee8b7b28fbcc202e17",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
     },
     {
@@ -239,34 +263,6 @@
       "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T02:08:59.103160+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c6937783884c6b7207",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Barre des 1 500 euros, 10% d'augmentation, 100 euros en plus… Quelles sont les propositions du gouvernement et des syndicats sur le smic ?",
-      "bullets": [
-        "L'intersyndicale à l'origine de la journée de manifestations du jeudi 5 novembre va demander une hausse du smic lors de la conférence sociale organisée lundi 9 novembre par le Premier ministre à Matignon.",
-        "Sur cette base, il a été augmenté de 1,18% à partir du 1er janvier 2026.",
-        "Au-delà des augmentations mécaniques, le gouvernement peut donc donner \"un coup de pouce\" au smic, ce qui n'a pas été le cas depuis juillet 2012, après l'arrivée de François Hollande à l'Elysée, à hauteur de 0,6%."
-      ],
-      "publishedAt": "2026-11-06T16:31:00+00:00",
-      "updatedAt": "2026-11-06T16:31:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/barre-des-1-500-euros-10-d-augmentation-100-euros-en-plus-quelles-sont-les-propositions-du-gouvernement-et-des-syndicats-sur-le-smic_8270843.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "0fd60a3396730dc1d655b69601ec2041a7cddc54f34d1dfa0dcfb7b9fb97a001",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:02:28.181475+00:00",
       "context": null
     },
     {
@@ -361,8 +357,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T09:02:06+00:00",
-      "updatedAt": "2026-11-07T09:02:06+00:00",
+      "publishedAt": "2026-11-07T09:47:24+00:00",
+      "updatedAt": "2026-11-07T09:47:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -519,34 +515,6 @@
       "context": "Résultats du troisième trimestre"
     },
     {
-      "id": "rss-395def4b502ce7bfac",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Metropole TV (M6) : Considéré comme une cible en vue de raPPR (ex Pinault Printemps)ochements avec d’autres groupes de médias européens, M6 crée la surprise en dépassant les attentes malgré un marché publicitaire exigeant",
-      "bullets": [
-        "Une croissance de 9,4% du chiffre d’affaires Entre juillet et septembre, M6 a en effet réalisé un chiffre d’affaires de 294,5 millions d’euros, en hausse de 9,4% sur un an.",
-        "Les revenus publicitaires vidéo ont progressé de 6,2%, à 199,2 millions d’euros, alors que le marché publicitaire français hors M6 aurait reculé d’environ 9%.",
-        "Le chiffre d’affaires du pôle Audio, qui regroupe notamment les activités de radio, a reculé de 9,5%, à 31 millions d’euros, dans un marché publicitaire toujours difficile."
-      ],
-      "publishedAt": "2026-11-04T09:17:13+00:00",
-      "updatedAt": "2026-11-04T09:17:13+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/metropole-tv-FR0000053225/actualites/metropole-tv-considere-comme-une-cible-en-vue-de-rapprochements-avec-dautres-groupes-de-medias-europeens-m6-cree-la-surprise-en-depassant-les-attentes-malgre-un-marche-publicitaire-exigeant-1173114.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "15ed5695934a95f52e4f702afb0a73a8bf9493d14d94319ea16e7b4587a09047",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2ef5d21448382cf7f7",
       "revision": 1,
       "category": "world",
@@ -573,17 +541,17 @@
     },
     {
       "id": "rss-351690910d4e7e8a17",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Après une crise bancaire majeure, le Paraguay a destitué son président pour en réinvestir un autre",
+      "title": "Après une crise bancaire majeure, le Paraguay destitue son président, Santiago Peña, et investit son vice-président, Pedro Alliana",
       "bullets": [
-        "Le Paraguay a investi, vendredi 6 novembre, un nouveau président, Pedro Alliana, alors que son prédécesseur Santiago Peña a été destitué le jour même pour sa responsabilité dans une crise bancaire majeure.",
-        "Président du Paraguay depuis 2023, proche allié de Washington, Santiago Peña, 47 ans, dont le mandat s'achevait en principe en 2028, a été destitué après que le Sénat l'a reconnu, à l'unanimité, coupable de \"mauvais exercice de ses fonctions\", en lien avec la débâcle de la banque Ueno.",
-        "Mais dans son cas, le Parlement avait voté contre un procès en destitution."
+        "Le Paraguay a investi, vendredi 6 novembre, un nouveau président, Pedro Alliana, après la destitution le jour même de son prédécesseur, Santiago Peña, pour sa responsabilité dans une crise bancaire majeure.",
+        "La crise bancaire, qui a rapidement viré à la crise politique profonde, a éclaté mardi avec la mise sous tutelle pour insolvabilité d'Ueno par la Banque centrale (BCP).",
+        "Pedro Alliana, 52 ans, issu du même Parti Colorado (conservateur) que Santiago Peña, avait lui aussi été mis en cause dans la crise bancaire, mais le Parlement n'avait pas approuvé de procès en destitution."
       ],
-      "publishedAt": "2026-11-07T08:28:08+00:00",
-      "updatedAt": "2026-11-07T08:28:08+00:00",
+      "publishedAt": "2026-11-07T09:39:11+00:00",
+      "updatedAt": "2026-11-07T09:39:11+00:00",
       "importance": 89,
       "sources": [
         {
@@ -594,9 +562,9 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "27a884d0dcc1c90cadc061a8c6650d65fcce17581046c3ceb7e0abc4e90ea584",
+      "summaryInput": "5f27269a719a6dd652b73bcbe0ea20b15d643a55ca1a4ecdac9c22c99d4239cf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:02:28.181475+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
     },
     {
@@ -652,6 +620,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-507b68f9f3dc989231",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les Etats-Unis promettent d'offrir 20 millions de dollars pour toute information sur le programme nucléaire iranien",
+      "bullets": [
+        "L'armée américaine a annoncé, vendredi 7 novembre, qu'elle offrait une récompense de 20 millions de dollars \"et un possible déménagement\" à toute personne lui apportant des informations sur le programme nucléaire iranien.",
+        "Ces informations peuvent concerner \"ses installations, ses équipements et le personnel associé\", a détaillé sur X le commandement militaire américain pour le Moyen-Orient (Centcom).",
+        "Depuis le début de la guerre en Iran, lancée par des frappes américano-israéliennes en février, Donald Trump a à de multiples reprises martelé qu'il ne voulait \"pas laisser l'Iran avoir l'arme nucléaire\"."
+      ],
+      "publishedAt": "2026-11-07T09:22:55+00:00",
+      "updatedAt": "2026-11-07T09:22:55+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-promettent-d-offrir-20-millions-de-dollars-pour-toute-information-sur-le-programme-nucleaire-iranien_8272073.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "2c7c2e69e2b81e210fc9ac755dff7fa3262c18c7759f124adfbb47f61c0e502b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
+      "context": null
+    },
+    {
       "id": "rss-f98da8c07cee2f9225",
       "revision": 1,
       "category": "world",
@@ -677,14 +673,14 @@
     },
     {
       "id": "rss-5f49ccbba28a30acc7",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Les voitures chinoises sont-elles des espionnes ?",
       "bullets": [
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
-        "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution"
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car"
       ],
       "publishedAt": "2026-11-06T21:00:02+00:00",
       "updatedAt": "2026-11-06T21:00:02+00:00",
@@ -700,32 +696,8 @@
       "provenance": "article-extract",
       "summaryInput": "5414dc16bf81c71d02077bb23e2b44daeb99e597a8c5bb629f2840b57c8e1c94",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0d91440bc745ab01d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
-      "bullets": [
-        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
-      ],
-      "publishedAt": "2026-11-06T09:12:30+00:00",
-      "updatedAt": "2026-11-06T09:12:30+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-7da7836e5f5a263918",
@@ -757,16 +729,16 @@
     },
     {
       "id": "rss-fab38c71c6b6ebbda0",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Au Guatemala, un député et trois policiers tués dans une attaque armée",
       "bullets": [
         "Le meurtre de Julio Portillo, 35 ans, a eu lieu sur une route d’un village de la province de Zacapa, dans l’est du pays, où sévit le trafic de drogue.",
-        "Les policiers ont été tués par balles alors qu’ils ripostaient à l’attaque."
+        "Les policiers ont été tués par balle alors qu’ils ripostaient à l’attaque."
       ],
-      "publishedAt": "2026-11-07T05:53:52+00:00",
-      "updatedAt": "2026-11-07T05:53:52+00:00",
+      "publishedAt": "2026-11-07T05:53:50+00:00",
+      "updatedAt": "2026-11-07T05:53:50+00:00",
       "importance": 75,
       "sources": [
         {
@@ -777,31 +749,31 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "ebea1efb975a0d8efc6dd204ba704e8923e24ec2fe92d4da3bab92731cc6ac84",
+      "summaryInput": "ef41eb75336f879266b8596a4b2165a1b65227a55c0c15ab2489cd798b35af97",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-63599e81d84bc298e2",
+      "id": "rss-0d91440bc745ab01d9",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
+      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
       "bullets": [
-        "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre."
+        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
       ],
-      "publishedAt": "2026-11-06T18:10:39+00:00",
-      "updatedAt": "2026-11-06T18:10:39+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-06T09:12:30+00:00",
+      "updatedAt": "2026-11-06T09:12:30+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
+      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
       "detailLevel": "preview"
     },
     {
@@ -830,17 +802,17 @@
     },
     {
       "id": "rss-0fdcfb9c166cedf8d3",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : un pont et des infrastructures énergétiques endommagés par des frappes russes dans la région de Kiev",
+      "title": "En Ukraine, un pont et des infrastructures énergétiques endommagés par des frappes russes dans la région de Kiev",
       "bullets": [
-        "La situation de l'approvisionnement en énergie de la capitale est extrêmement difficile.",
-        "Au total, les frappes russes sur la capitale ukrainienne durant la nuit de vendredi à samedi ont fait au moins cinq blessés dont un adolescent de 14 ans, a précisé le maire.",
-        "La dernière rencontre de ce type entre délégations russe, ukrainienne et américaine a eu lieu mi-février à Genève, sans aboutir à aucune avancée pour un règlement du conflit déclenché par l'invasion russe à grande échelle en février 2022."
+        "Des frappes russes ont endommagé un important pont routier et des infrastructures énergétiques à Kiev et sa région, a rapporté le maire, Vitali Klitschko, samedi 7 novembre.",
+        "Au total, les frappes russes sur la capitale ukrainienne durant la nuit de vendredi à samedi ont fait au moins cinq blessés, dont un adolescent de 14 ans, a précisé le maire.",
+        "Cet ouvrage avait déjà été frappé en octobre, poussant les autorités à installer des filets antidrones pour tenter de le protéger, une première dans la capitale depuis le début de l'invasion russe de l'Ukraine en 2022."
       ],
-      "publishedAt": "2026-11-07T08:06:53+00:00",
-      "updatedAt": "2026-11-07T08:06:53+00:00",
+      "publishedAt": "2026-11-07T09:42:32+00:00",
+      "updatedAt": "2026-11-07T09:42:32+00:00",
       "importance": 67,
       "sources": [
         {
@@ -851,33 +823,33 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "05131820743f29801abdfdb754beb294f0f179feac3dc613efe265e403436cba",
+      "summaryInput": "c78cd20557e4a667d50da318b30a79c463aa5b42f84edfdd2f7ba915d918a1cf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T08:14:08.206471+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
     },
     {
-      "id": "rss-bbf46b96b4726a38e0",
-      "revision": 1,
+      "id": "rss-1e3650e99784108042",
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : l’hypothèse d’une candidature de Christine Lagarde questionne à droite et au sein du bloc central",
+      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
       "bullets": [
-        "Entre éloges publics prudents et scepticisme en coulisses, la démission anticipée de la patronne de la BCE alimente les spéculations au sein d’un camp en quête d’un candidat capable de doubler Jean-Luc Mélenchon et Marine Le Pen."
+        "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes »."
       ],
-      "publishedAt": "2026-11-06T16:00:16+00:00",
-      "updatedAt": "2026-11-06T16:00:16+00:00",
-      "importance": 86,
+      "publishedAt": "2026-11-07T00:09:38+00:00",
+      "updatedAt": "2026-11-07T00:09:38+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-l-hypothese-d-une-candidature-de-christine-lagarde-questionne-a-droite-et-au-sein-du-bloc-central_6807815_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "22b282065349cffd0c4e3d33f6bd9600432816d5f823aad6836da8f23a3b1f33",
+      "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
       "detailLevel": "preview"
     },
     {
@@ -945,7 +917,7 @@
       ],
       "publishedAt": "2026-11-05T21:34:22+00:00",
       "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -985,31 +957,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-caa3923272b63d9490",
-      "revision": 1,
+      "id": "rss-cecee5df4adcc88063",
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
+      "title": "Alertes à la bombe, qui menace les avions européens ?",
       "bullets": [
-        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
-        "La vague de menaces sur le ciel européen continue.",
-        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
+        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
+        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies"
       ],
-      "publishedAt": "2026-11-07T07:10:34+00:00",
-      "updatedAt": "2026-11-07T07:10:34+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-06T15:12:56+00:00",
+      "updatedAt": "2026-11-06T15:12:56+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
+          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
+      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T08:14:08.206471+00:00",
+      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
       "context": null
     },
     {
@@ -1072,7 +1044,7 @@
       ],
       "publishedAt": "2026-11-03T09:29:05+00:00",
       "updatedAt": "2026-11-03T09:29:05+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1083,30 +1055,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1e3650e99784108042",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
-      "bullets": [
-        "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes »."
-      ],
-      "publishedAt": "2026-11-07T00:09:38+00:00",
-      "updatedAt": "2026-11-07T00:09:38+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
       "detailLevel": "preview"
     },
     {
@@ -1122,7 +1070,7 @@
       ],
       "publishedAt": "2026-11-06T21:10:12+00:00",
       "updatedAt": "2026-11-06T21:10:12+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1134,36 +1082,33 @@
       "provenance": "article-extract",
       "summaryInput": "0f76d6c09a1f50f33fd8b4b339c6afaeb8f59844e6d324f59ef2a8681c2c5e73",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-06T21:51:53.393699+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
     },
     {
-      "id": "rss-cecee5df4adcc88063",
-      "revision": 2,
+      "id": "rss-076a3c4494bb406a63",
+      "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Alertes à la bombe, qui menace les avions européens ?",
+      "topic": "Politique",
+      "title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
       "bullets": [
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
-        "Au moins 2 personnes mortes dont une mineure dans un accident de car",
-        "3 millions de Paraguayens ne peuvent plus accéder à leurs économies"
+        "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale.",
+        "La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie dos à dos Russes et Ukrainiens."
       ],
-      "publishedAt": "2026-11-06T15:12:56+00:00",
-      "updatedAt": "2026-11-06T15:12:56+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-07T09:30:07+00:00",
+      "updatedAt": "2026-11-07T09:30:07+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/alertes-a-la-bombe-qui-menace-les-avions-europeens_8271035.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "eca135cf10f3e32d228f8be2937d67a27d901e2c7be674f31564f95ce0a7c18b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T04:00:16.931722+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0a8146d4903527c63aa65baf8d8634540b22eae12b72be0c26c1315a646f1139",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8771c22c209df15f79",
@@ -1261,6 +1206,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "58c58be4e46596f97130ad67645ff158d35db36de3123290a700190092258ab1",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-16f2afdacfbafa2ca4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Une jeune femme de 27 ans est décédée après une intoxication aux champignons",
+      "bullets": [
+        "Une jeune femme de 27 ans est décédée au CHU de Montpellier après avoir consommé des champignons en boîte, selon nos informations.",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
+      ],
+      "publishedAt": "2026-11-05T16:16:11+00:00",
+      "updatedAt": "2026-11-05T16:16:11+00:00",
+      "importance": 56,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/une-jeune-femme-de-27-ans-est-decedee-apres-une-intoxication-aux-champignons_8269592.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "5c8e342104abe9569f7e4e04f59015e3f45bb5cea6071230d12e45584c3b82e4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1274,7 +1247,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1328,7 +1301,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
