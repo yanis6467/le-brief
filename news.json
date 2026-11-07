@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T22:48:42.808036+00:00",
+  "edition": "2026-11-08",
+  "preparedAt": "2026-11-07T23:46:25.874347+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -235,34 +235,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1620ca18135aa8bf8b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
-      "bullets": [
-        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
-        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
-        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
-      ],
-      "publishedAt": "2026-11-06T11:40:34+00:00",
-      "updatedAt": "2026-11-06T11:40:34+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
-      "context": null
-    },
-    {
       "id": "rss-48156d907b62c533e5",
       "revision": 1,
       "category": "eco",
@@ -286,6 +258,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1620ca18135aa8bf8b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
+      "bullets": [
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
+      ],
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
+      "context": null
     },
     {
       "id": "rss-41d2340e0f38ecfac8",
@@ -326,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T22:47:36+00:00",
-      "updatedAt": "2026-11-07T22:47:36+00:00",
+      "publishedAt": "2026-11-07T23:42:03+00:00",
+      "updatedAt": "2026-11-07T23:42:03+00:00",
       "importance": 69,
       "sources": [
         {
@@ -424,7 +424,7 @@
       "provenance": "article-extract",
       "summaryInput": "118a6ce61e7b5409ce42bf5fe4e9e4cd809bd5c8602e83d99686a98d39a37ca6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
+      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -717,7 +717,7 @@
       "provenance": "article-extract",
       "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
+      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
       "context": null
     },
     {
@@ -891,7 +891,7 @@
       "provenance": "article-extract",
       "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T10:53:40.468205+00:00",
+      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
       "context": null
     },
     {
