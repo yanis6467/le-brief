@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T13:04:13.943690+00:00",
+  "preparedAt": "2026-11-07T13:58:12.602898+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -223,8 +223,8 @@
       "bullets": [
         "Pour conserver leur rôle pivot sur les marchés de l’énergie, le Qatar, l’Arabie saoudite et les Emirats arabes unis doivent repenser leurs stratégies commerciales et logistiques."
       ],
-      "publishedAt": "2026-11-07T08:30:04+00:00",
-      "updatedAt": "2026-11-07T08:30:04+00:00",
+      "publishedAt": "2026-11-07T08:30:03+00:00",
+      "updatedAt": "2026-11-07T08:30:03+00:00",
       "importance": 67,
       "sources": [
         {
@@ -236,30 +236,6 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "5da50fa1392104059de1496b448504d854b29ef06e4265478cdd93e5c612235a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e8924bcab2b3a61f83",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les salaires du privé ont baissé de 1,1 % sur un an, en prenant en compte l’inflation",
-      "bullets": [
-        "Sans correction de la hausse des prix, l’indice du salaire mensuel de base des salariés a progressé de 0,2 % au troisième trimestre par rapport au trimestre précédent et augmenté de 1,9 % sur un an."
-      ],
-      "publishedAt": "2026-11-06T10:24:55+00:00",
-      "updatedAt": "2026-11-06T10:24:55+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/les-salaires-du-prive-ont-baisse-de-1-1-sur-un-an-en-prenant-en-compte-l-inflation_6807767_1656968.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1e6b73d730c1a7b86e6cace5307ca668f98435e1da719aa6dd614166d86701eb",
       "detailLevel": "preview"
     },
     {
@@ -316,6 +292,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-48156d907b62c533e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "bullets": [
+        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
+        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+      ],
+      "publishedAt": "2026-11-07T04:55:01+00:00",
+      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,9 +327,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T13:02:35+00:00",
-      "updatedAt": "2026-11-07T13:02:35+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-07T13:58:13+00:00",
+      "updatedAt": "2026-11-07T13:58:13+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -566,17 +567,17 @@
     },
     {
       "id": "rss-30e7df5bbe99228735",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "En Iran, un homme a été exécuté en lien avec l'attaque d'un poste de police",
+      "title": "En Iran, un homme a été exécuté en lien avec l'attaque meurtrière d'un poste de police",
       "bullets": [
         "Les autorités iraniennes ont exécuté, samedi 7 novembre, un homme condamné pour implication dans l'attaque meurtrière d'un poste de police de la ville de Khach, dans la province du Sistan-Baloutchistan.",
-        "\"La condamnation à mort de Mohammad Aref Shahbakhsh, un agent lié au groupe terroriste Jaïch al-Adl , a été mise à exécution ce matin, une fois les procédures judiciaires achevées\", a déclaré Mizan, l'agence du pouvoir judiciaire.",
+        "\"La condamnation à mort de Mohammad Aref Shahbakhsh, un agent lié au groupe terroriste Jaïch al-Adl, a été mise à exécution ce matin, une fois les procédures judiciaires achevées\", a déclaré Mizan, l'agence du pouvoir judiciaire.",
         "L'homme \"a été reconnu coupable de baghi [rébellion armée contre la République islamique] et de moharabeh [guerre contre Dieu]\", détaille Mizan."
       ],
-      "publishedAt": "2026-11-07T12:55:30+00:00",
-      "updatedAt": "2026-11-07T12:55:30+00:00",
+      "publishedAt": "2026-11-07T13:31:04+00:00",
+      "updatedAt": "2026-11-07T13:31:04+00:00",
       "importance": 79,
       "sources": [
         {
@@ -587,9 +588,9 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "aaa4e7c9f318acf162ad69fb81dd2d9d0c91078a91257d413d5935b579a6666f",
+      "summaryInput": "ec90a5718673da62ffcc282a741e9fc1769c5a859953565aab6418a9d6165d7a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
+      "enrichedAt": "2026-11-07T13:58:12.602898+00:00",
       "context": null
     },
     {
@@ -670,15 +671,15 @@
     },
     {
       "id": "rss-e1d03e8428aa6c4c16",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "En Nouvelle-Zélande, Christopher Luxon, le premier ministre conservateur, assure pouvoir former un gouvernement après des élections législatives très serrées",
+      "title": "En Nouvelle-Zélande, Christopher Luxon, le premier ministre conservateur, assure pouvoir former un gouvernement malgré les résultats serrés des élections législatives",
       "bullets": [
-        "Ni le Parti national au pouvoir, ni l’opposition de centre-gauche incarnée par le Parti travailliste n’obtiennent de majorité au Parlement, après ce vote dominé par les problèmes de coût de la vie."
+        "Ni le Parti national, au pouvoir, ni l’opposition de centre gauche, incarnée par le Parti travailliste, n’obtiennent de majorité au Parlement, après une élection dominée par les problèmes de coût de la vie."
       ],
-      "publishedAt": "2026-11-07T12:22:44+00:00",
-      "updatedAt": "2026-11-07T12:22:44+00:00",
+      "publishedAt": "2026-11-07T12:22:41+00:00",
+      "updatedAt": "2026-11-07T12:22:41+00:00",
       "importance": 77,
       "sources": [
         {
@@ -689,7 +690,7 @@
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "5e6a7c5adf9d784ca03ee453c2be4294cab10bbb337d7820c8a6514dc7ea0ee5",
+      "summaryInput": "1611c039ed8b14e7ca2bb901b103fe56b37c95888990b44a22f21f1ad2d98bd0",
       "detailLevel": "preview"
     },
     {
@@ -770,83 +771,79 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2c38e508b81fc24a10",
+      "id": "rss-dddb68c09bf2c623cd",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Au Yémen, des frappes saoudiennes font 22 morts, selon les rebelles houthis",
+      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
       "bullets": [
-        "Des médias liés aux houthis du Yémen ont annoncé, samedi 7 novembre, la mort de 22 personnes dans des frappes saoudiennes sur la région de Sanaa, contrôlée par le mouvement pro-iranien, en guerre contre le gouvernement yéménite et l'Arabie saoudite qui l'appuie.",
-        "\"Le nombre de victimes du massacre perpétré par l'aviation de l'ennemi saoudien (...) est monté à 22 personnes, dont des femmes et des enfants, et celui des blessés à 30\", a rapporté l'agence Saba, un bilan avancé aussi par la chaîne Almasirah.",
-        "Les autorités saoudiennes n'ont pas commenté ces informations."
+        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
       ],
-      "publishedAt": "2026-11-07T12:42:56+00:00",
-      "updatedAt": "2026-11-07T12:42:56+00:00",
+      "publishedAt": "2026-11-07T13:45:34+00:00",
+      "updatedAt": "2026-11-07T13:45:34+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-des-frappes-saoudiennes-font-22-morts-selon-les-houthis_8272298.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "4a584dae42b2edeff8b37bcaf8549aa0e2d8923ae07d1e1bd1e9d25f57845a68",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1e3650e99784108042",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
-      "bullets": [
-        "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes »."
-      ],
-      "publishedAt": "2026-11-07T00:09:38+00:00",
-      "updatedAt": "2026-11-07T00:09:38+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
+      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-384b56efd0dcd54bd2",
+      "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Augmentation du Smic : \"La première chose qu'on pourrait faire, dans un budget aujourd'hui, c'est réhabiliter l'Impôt de solidarité sur la fortune\", propose Guillaume Lacroix, président du Parti radical de gauche",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
       "bullets": [
-        "Vous savez aujourd'hui, nous sommes le 6 novembre…Pour bien comprendre votre position, le Smic est à 1 478 euros net.",
-        "Donc ça fait à peu près 26, 27 milliards.",
-        "Si vous baissez de 20% les achats, c'est quoi ?"
+        "Plusieurs députés communistes ont annoncé, vendredi, soutenir la candidature de Jean-Luc Mélenchon à la présidentielle, alors que Fabien Roussel, secrétaire national du Parti communiste français, est également candidat."
       ],
-      "publishedAt": "2026-11-06T19:18:17+00:00",
-      "updatedAt": "2026-11-06T19:18:17+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-07T13:37:27+00:00",
+      "updatedAt": "2026-11-07T13:37:27+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bf795f4c8ef09c1289527b26f09e116341a60cb2df06987db49ad0825462aaad",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e5d4a84744398237e7",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "\"Ce sont des conditions inacceptables\" : au cœur d'un lycée vétuste à Montpellier, qui figure parmi les 200 établissements à rénover en priorité",
+      "bullets": [
+        "En septembre, il faisait 32 degrés dans les salles de cours.",
+        "Ce lycée et ses 17 hectares ont déjà fait l'objet d'une rénovation avec la modernisation d'une partie des bâtiments.",
+        "La Région Occitanie investit quasiment 24 millions d'euros en l'espace de dix ans, c'est-à-dire l'équivalent d'un collège neuf."
+      ],
+      "publishedAt": "2026-11-06T21:10:12+00:00",
+      "updatedAt": "2026-11-06T21:10:12+00:00",
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/augmentation-du-smic-la-premiere-chose-qu-on-pourrait-faire-dans-un-budget-aujourd-hui-c-est-rehabiliter-l-impot-de-solidarite-sur-la-fortune-propose-guillaume-lacroix-president-du-parti-radical-de-gauche_8271443.html",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-sont-des-conditions-inacceptables-au-c-ur-d-un-lycee-vetuste-a-montpellier-qui-figure-parmi-les-200-etablissements-a-renover-en-priorite_8271542.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "7be3e8f86cd79f78d41eebc49d6f36c561ae280fcab64979ff22130a73a9b22b",
+      "summaryInput": "0f76d6c09a1f50f33fd8b4b339c6afaeb8f59844e6d324f59ef2a8681c2c5e73",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T08:14:08.206471+00:00",
+      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
       "context": null
     },
     {
@@ -1024,32 +1021,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e5d4a84744398237e7",
+      "id": "rss-1e3650e99784108042",
       "revision": 2,
       "category": "france",
-      "topic": "Société",
-      "title": "\"Ce sont des conditions inacceptables\" : au cœur d'un lycée vétuste à Montpellier, qui figure parmi les 200 établissements à rénover en priorité",
+      "topic": "Politique",
+      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
       "bullets": [
-        "En septembre, il faisait 32 degrés dans les salles de cours.",
-        "Ce lycée et ses 17 hectares ont déjà fait l'objet d'une rénovation avec la modernisation d'une partie des bâtiments.",
-        "La Région Occitanie investit quasiment 24 millions d'euros en l'espace de dix ans, c'est-à-dire l'équivalent d'un collège neuf."
+        "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes »."
       ],
-      "publishedAt": "2026-11-06T21:10:12+00:00",
-      "updatedAt": "2026-11-06T21:10:12+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-07T00:09:38+00:00",
+      "updatedAt": "2026-11-07T00:09:38+00:00",
+      "importance": 76,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-sont-des-conditions-inacceptables-au-c-ur-d-un-lycee-vetuste-a-montpellier-qui-figure-parmi-les-200-etablissements-a-renover-en-priorite_8271542.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "0f76d6c09a1f50f33fd8b4b339c6afaeb8f59844e6d324f59ef2a8681c2c5e73",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-076a3c4494bb406a63",
@@ -1075,34 +1068,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "0a8146d4903527c63aa65baf8d8634540b22eae12b72be0c26c1315a646f1139",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-caa3923272b63d9490",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
-      "bullets": [
-        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
-        "La vague de menaces sur le ciel européen continue.",
-        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
-      ],
-      "publishedAt": "2026-11-07T07:10:34+00:00",
-      "updatedAt": "2026-11-07T07:10:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T13:04:13.943690+00:00",
-      "context": null
     },
     {
       "id": "rss-cecee5df4adcc88063",
@@ -1181,28 +1146,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cfc6a07cbb5e4a5aff",
-      "revision": 2,
+      "id": "rss-3d3629363808250abb",
+      "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Raphaël Glucksmann met en ordre de bataille la famille socialiste pour la campagne de la présidentielle 2027",
+      "topic": "Justice",
+      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
       "bullets": [
-        "Le vainqueur de la primaire sociale-démocrate a dévoilé l’équipe qui portera sa candidature pour l’Elysée, avec le souci de faire la part belle aux différents courants internes du PS et de s’assurer du soutien de son premier secrétaire, Olivier Faure."
+        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
       ],
-      "publishedAt": "2026-11-07T05:00:12+00:00",
-      "updatedAt": "2026-11-07T05:00:12+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-05T17:30:24+00:00",
+      "updatedAt": "2026-11-05T17:30:24+00:00",
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
-      "summaryInput": "218a40e9b2e519befa13587d1f4cef694f402ed3bf63e1cdb07866f1ddbecaa2",
+      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4eb0bd013d5f5e9b69",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "En prévision des manifestations de samedi à Paris, la préfecture de police a prévu \"un dispositif très agile, très mobile\", prévient sa porte-parole",
+      "bullets": [
+        "Le choix de la place de la Concorde a été fait car c'est \"un lieu emblématique, près de l'Assemblée nationale, un lieu de pouvoir, puisque nos revendications sont politiques\", a déclaré vendredi David Libeskind, avocat des gilets jaunes.",
+        "\"Ce travail en concertation et ce travail en collaboration permet de réaliser ce parcours dans des conditions de sécurité acceptables\", note Hélène Denéchère.",
+        "À Paris, comme partout en France, le dispositif de sécurité sera le même aux deux semaines passées, confirme Hélène Denéchère : \"Le même niveau de risque, donc le même dispositif.\""
+      ],
+      "publishedAt": "2026-11-07T07:32:18+00:00",
+      "updatedAt": "2026-11-07T07:32:18+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/en-prevision-des-manifestations-de-samedi-a-paris-la-prefecture-de-police-a-prevu-un-dispositif-tres-agile-tres-mobile-previent-sa-porte-parole_8272037.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "488e27bb4f120f7b469496bd3d3daebdaf07c9e68d4503d8850ba450c3a06631",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T13:58:12.602898+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
