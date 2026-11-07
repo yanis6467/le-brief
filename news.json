@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-07",
-  "preparedAt": "2026-11-07T19:51:38.322753+00:00",
+  "preparedAt": "2026-11-07T20:49:56.208703+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -197,7 +197,7 @@
       ],
       "publishedAt": "2026-11-07T08:30:03+00:00",
       "updatedAt": "2026-11-07T08:30:03+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -239,31 +239,6 @@
       "context": null
     },
     {
-      "id": "rss-1d62a4d340113d52b2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "bullets": [
-        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
-        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
-      ],
-      "publishedAt": "2026-11-06T20:03:24+00:00",
-      "updatedAt": "2026-11-06T20:03:24+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-73b526f7c3a27f3155",
       "revision": 1,
       "category": "eco",
@@ -285,6 +260,31 @@
       "verifiedAt": "2026-11-07",
       "provenance": "rss-excerpt",
       "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1d62a4d340113d52b2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+      "bullets": [
+        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
+        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
+      ],
+      "publishedAt": "2026-11-06T20:03:24+00:00",
+      "updatedAt": "2026-11-06T20:03:24+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
       "detailLevel": "preview"
     },
     {
@@ -326,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-07T19:51:31+00:00",
-      "updatedAt": "2026-11-07T19:51:31+00:00",
+      "publishedAt": "2026-11-07T20:45:06+00:00",
+      "updatedAt": "2026-11-07T20:45:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -534,34 +534,6 @@
       "summaryInput": "5f27269a719a6dd652b73bcbe0ea20b15d643a55ca1a4ecdac9c22c99d4239cf",
       "detailLevel": "article",
       "enrichedAt": "2026-11-07T09:56:57.047736+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f61cdac70d41d4a8ff",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Washington se divise sur la guerre en Iran",
-      "bullets": [
-        "Dans une vidéo publiée vendredi 6 novembre, il dit assumer la guerre en Iran, une guerre qui ne serait pas terminée selon lui.",
-        "Trump et Vance en désaccord Donald Trump avait annoncé qu'il ne se passerait rien avant les élections de mi-mandat, mais deux jours avant le scrutin, en pleine fête d'Halloween, il n'excluait déjà rien.",
-        "Vous le saurez bien assez tôt\", a annoncé Trump."
-      ],
-      "publishedAt": "2026-11-07T07:29:31+00:00",
-      "updatedAt": "2026-11-07T07:29:31+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/washington-se-divise-sur-la-guerre-en-iran_8272031.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "5ba9d4ee397541da3d94a0d52711dd75174414065c3ed6cfc002be45a0f36a9b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T08:14:08.206471+00:00",
       "context": null
     },
     {
@@ -798,6 +770,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b9da297658f4848fef",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
+      "bullets": [
+        "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants.",
+        "L’auteur des faits était « fasciné par les idéologies d’extrême droite », a affirmé le ministre de l’intérieur."
+      ],
+      "publishedAt": "2026-11-07T17:34:57+00:00",
+      "updatedAt": "2026-11-07T17:34:57+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "rss-excerpt",
+      "summaryInput": "53365cdc1388ca92ee4d3e331eb70d314bdeb09457eba1126f9c6a3871881948",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
@@ -922,31 +919,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d2522557f1998494c8",
+      "id": "rss-b903bacc9ee1bc626e",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, 16 autres sont hospitalisées",
       "bullets": [
-        "Le parquet de Paris a ouvert une enquête sur les fausses alertes à la bombe ayant visé des avions survolant le territoire français, notamment pour rechercher un lien éventuel des auteurs avec des \"puissances étrangères\", a-t-il annoncé samedi 7 novembre.",
-        "Au total, des dizaines de vols commerciaux européens, ainsi qu'un bateau de croisière, ont fait l'objet d'alertes à la bombe depuis le début de la semaine.",
-        "Cette série de fausses alertes, a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
+        "Le précédent bilan de la même source faisait état de cinq morts, mais l'une des personnes blessées par le tireur est décédée en début de soirée.",
+        "Même si cela devra encore être vérifié\", a-t-il ajouté."
       ],
-      "publishedAt": "2026-11-07T16:17:43+00:00",
-      "updatedAt": "2026-11-07T16:17:43+00:00",
+      "publishedAt": "2026-11-07T19:59:55+00:00",
+      "updatedAt": "2026-11-07T19:59:55+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html",
+          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-07",
       "provenance": "article-extract",
-      "summaryInput": "fdd65279e182c62b11ebbc7f480a6bfcb79be10dc904f3afe8383c9a5ebcc98e",
+      "summaryInput": "51384d0cdae8bf95f952b180f3c7ad55841cc5f91515cbfb2d323b7a88fb7c6d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
+      "enrichedAt": "2026-11-07T20:49:56.208703+00:00",
       "context": null
     },
     {
@@ -1071,6 +1068,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d2522557f1998494c8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
+      "bullets": [
+        "Le parquet de Paris a ouvert une enquête sur les fausses alertes à la bombe ayant visé des avions survolant le territoire français, notamment pour rechercher un lien éventuel des auteurs avec des \"puissances étrangères\", a-t-il annoncé samedi 7 novembre.",
+        "Au total, des dizaines de vols commerciaux européens, ainsi qu'un bateau de croisière, ont fait l'objet d'alertes à la bombe depuis le début de la semaine.",
+        "Cette série de fausses alertes, a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
+      ],
+      "publishedAt": "2026-11-07T16:17:43+00:00",
+      "updatedAt": "2026-11-07T16:17:43+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "provenance": "article-extract",
+      "summaryInput": "fdd65279e182c62b11ebbc7f480a6bfcb79be10dc904f3afe8383c9a5ebcc98e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T15:49:56.413489+00:00",
+      "context": null
+    },
+    {
       "id": "rss-47dfec3a7a84fc6119",
       "revision": 1,
       "category": "france",
@@ -1119,34 +1144,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-caa3923272b63d9490",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
-      "bullets": [
-        "Encore quatre fausses alertes à la bombe dans des aéroports en France.",
-        "La vague de menaces sur le ciel européen continue.",
-        "En Tchéquie, une dizaine de vols ont été concernés, vendredi 6 novembre, tous à destination ou en provenance d'un pays du continent européen."
-      ],
-      "publishedAt": "2026-11-07T07:10:34+00:00",
-      "updatedAt": "2026-11-07T07:10:34+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-07",
-      "provenance": "article-extract",
-      "summaryInput": "85daa01559de3a63e45e66159d3d4aa8c0360d1723c066e11e0fa34cc45fa94c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T19:51:38.322753+00:00",
-      "context": null
     },
     {
       "id": "rss-742deae823ddcb1b44",
@@ -1280,7 +1277,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
