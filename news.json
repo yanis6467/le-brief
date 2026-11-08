@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T16:50:36.516404+00:00",
+  "preparedAt": "2026-11-08T17:46:29.840975+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -125,7 +125,7 @@
       ],
       "publishedAt": "2026-11-07T05:00:02+00:00",
       "updatedAt": "2026-11-07T05:00:02+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -164,34 +164,6 @@
       "summaryInput": "9cef0cae45587de2200b1cfbe4ebd8c121520e6ba8b540d04f91a7165615a59a",
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-bc89f7acf1c6c954ba",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "25 000 euros pour arrêter de conduire",
-      "bullets": [
-        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
-      ],
-      "publishedAt": "2026-11-08T12:00:02+00:00",
-      "updatedAt": "2026-11-08T12:00:02+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T16:50:36.516404+00:00",
       "context": null
     },
     {
@@ -268,31 +240,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48156d907b62c533e5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
-      "bullets": [
-        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
-        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
-      ],
-      "publishedAt": "2026-11-07T04:55:01+00:00",
-      "updatedAt": "2026-11-07T04:55:01+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1620ca18135aa8bf8b",
       "revision": 1,
       "category": "eco",
@@ -321,6 +268,56 @@
       "context": null
     },
     {
+      "id": "rss-6034969cf97f209ed4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "bullets": [
+        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
+        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
+      ],
+      "publishedAt": "2026-11-08T04:00:31+00:00",
+      "updatedAt": "2026-11-08T04:00:31+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-48156d907b62c533e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "bullets": [
+        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
+        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+      ],
+      "publishedAt": "2026-11-07T04:55:01+00:00",
+      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,9 +328,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T16:45:23+00:00",
-      "updatedAt": "2026-11-08T16:45:23+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-08T17:46:31+00:00",
+      "updatedAt": "2026-11-08T17:46:31+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -345,7 +342,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
+      "enrichedAt": "2026-11-08T17:46:29.840975+00:00",
       "context": null
     },
     {
@@ -928,27 +925,27 @@
       "context": null
     },
     {
-      "id": "rss-d647c8595237935fbc",
+      "id": "rss-8e6849ff4122113c2b",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Le cinéaste chilien Sebastian Lelio, oscarisé pour « Une femme fantastique », est mort à 52 ans",
+      "title": "La plateforme d’animes Crunchyroll poursuit sa course de croissance avec la vigueur de ses 20 ans",
       "bullets": [
-        "Né en Argentine mais élevé au Chili, Sebastian Lelio s’est fait connaître sur la scène internationale avec son film « Gloria », dont l’actrice principale, Paulina Garcia, a remporté l’Ours d’argent de la meilleure actrice à la Berlinale, en 2013."
+        "Avec ses 21 millions d’abonnés, son catalogue de 25 000 heures et son implantation internationale, le service de streaming américain qui séduit les fans de mangas et de pop culture cherche désormais à étendre son influence auprès du grand public."
       ],
-      "publishedAt": "2026-11-06T19:36:25+00:00",
-      "updatedAt": "2026-11-06T19:36:25+00:00",
-      "importance": 56,
+      "publishedAt": "2026-11-08T17:00:04+00:00",
+      "updatedAt": "2026-11-08T17:00:04+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/11/06/le-cineaste-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-52-ans_6807860_3382.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/08/la-plateforme-d-animes-crunchyroll-poursuit-sa-course-de-croissance-avec-la-vigueur-de-ses-20-ans_6808455_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "4e8297bf84b95255b71629c56ee04c5c1a5569f41ab481124f3eef4560d703b3",
+      "summaryInput": "7421488a2419ea85758c2283c891dc092fdbe1c9c2dd7943b8821da3c4fa7334",
       "detailLevel": "preview"
     },
     {
