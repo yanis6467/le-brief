@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T04:03:33.898555+00:00",
+  "preparedAt": "2026-11-08T05:02:21.003441+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -18,7 +18,7 @@
       ],
       "publishedAt": "2026-11-06T16:12:32+00:00",
       "updatedAt": "2026-11-06T16:12:32+00:00",
-      "importance": 91,
+      "importance": 90,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -46,7 +46,7 @@
       ],
       "publishedAt": "2026-11-06T16:43:50+00:00",
       "updatedAt": "2026-11-06T16:43:50+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -121,7 +121,7 @@
       ],
       "publishedAt": "2026-11-06T16:06:12+00:00",
       "updatedAt": "2026-11-06T16:06:12+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -173,7 +173,7 @@
       ],
       "publishedAt": "2026-11-07T05:00:02+00:00",
       "updatedAt": "2026-11-07T05:00:02+00:00",
-      "importance": 68,
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -260,31 +260,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48156d907b62c533e5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
-      "bullets": [
-        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
-        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
-      ],
-      "publishedAt": "2026-11-07T04:55:01+00:00",
-      "updatedAt": "2026-11-07T04:55:01+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1620ca18135aa8bf8b",
       "revision": 1,
       "category": "eco",
@@ -309,8 +284,33 @@
       "provenance": "article-extract",
       "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
+      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
       "context": null
+    },
+    {
+      "id": "rss-6034969cf97f209ed4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "bullets": [
+        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
+        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
+      ],
+      "publishedAt": "2026-11-08T04:00:31+00:00",
+      "updatedAt": "2026-11-08T04:00:31+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -323,8 +323,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T04:00:06+00:00",
-      "updatedAt": "2026-11-08T04:00:06+00:00",
+      "publishedAt": "2026-11-08T04:58:36+00:00",
+      "updatedAt": "2026-11-08T04:58:36+00:00",
       "importance": 69,
       "sources": [
         {
@@ -337,7 +337,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T16:51:44.685975+00:00",
+      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
       "context": null
     },
     {
@@ -481,6 +481,31 @@
       "context": "Résultats du troisième trimestre"
     },
     {
+      "id": "rss-e6a5bd649518d92c43",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la guerre en Ukraine",
+      "bullets": [
+        "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev.",
+        "Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment par…"
+      ],
+      "publishedAt": "2026-11-08T05:00:09+00:00",
+      "updatedAt": "2026-11-08T05:00:09+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fe9e97c00c2273de549c954f578beeee507134c89527aea921311f71d0f09e9b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b9da297658f4848fef",
       "revision": 2,
       "category": "world",
@@ -590,6 +615,30 @@
       "context": null
     },
     {
+      "id": "rss-b7203c5b9e66ad4163",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
+      "bullets": [
+        "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre."
+      ],
+      "publishedAt": "2026-11-08T04:30:11+00:00",
+      "updatedAt": "2026-11-08T04:30:11+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b9ace6550d4039671905a9c02a50df9952806f23bca07b8c1185479e1682d7e8",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0bd327e09c553e9b4b",
       "revision": 1,
       "category": "world",
@@ -600,7 +649,7 @@
       ],
       "publishedAt": "2026-11-07T17:00:13+00:00",
       "updatedAt": "2026-11-07T17:00:13+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -718,31 +767,6 @@
       "context": null
     },
     {
-      "id": "rss-fab38c71c6b6ebbda0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Guatemala, un député et trois policiers tués dans une attaque armée",
-      "bullets": [
-        "Le meurtre de Julio Portillo, 35 ans, a eu lieu sur une route d’un village de la province de Zacapa, dans l’est du pays, où sévit le trafic de drogue.",
-        "Les policiers ont été tués par balle alors qu’ils ripostaient à l’attaque."
-      ],
-      "publishedAt": "2026-11-07T05:53:50+00:00",
-      "updatedAt": "2026-11-07T05:53:50+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-guatemala-un-depute-et-trois-policiers-tues-dans-une-attaque-armee_6808245_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ef41eb75336f879266b8596a4b2165a1b65227a55c0c15ab2489cd798b35af97",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-0d91440bc745ab01d9",
       "revision": 1,
       "category": "world",
@@ -765,34 +789,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b77c623e4ed4aa95a2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
-      "bullets": [
-        "A peine destitué à la suite d'une crise bancaire au Paraguay, l'ancien président Santiago Peña a comparu samedi 7 novembre devant la justice pour s'expliquer sur ce scandale, au lendemain de l'investiture de son successeur, Pedro Alliana.",
-        "Des entreprises, des institutions et des fonds de pension ont aussi été affectés.",
-        "L'ancien vice-président et nouveau président, Pedro Alliana, 52 ans, a affirmé, devant le Sénat qui l'a investi, que \"les compatriotes qui traversent une situation très difficile à cause du chaos financier seront pleinement indemnisés\"."
-      ],
-      "publishedAt": "2026-11-07T17:26:16+00:00",
-      "updatedAt": "2026-11-07T17:26:16+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "3979b5cfdb4dc6ec87ffe4c092d82ae07c9b6614ad12abadcec14f371a906372",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T01:20:01.951162+00:00",
-      "context": null
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -829,7 +825,7 @@
       ],
       "publishedAt": "2026-11-07T05:00:51+00:00",
       "updatedAt": "2026-11-07T05:00:51+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -905,7 +901,7 @@
       ],
       "publishedAt": "2026-11-06T16:15:09+00:00",
       "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -980,7 +976,7 @@
       ],
       "publishedAt": "2026-11-07T16:30:10+00:00",
       "updatedAt": "2026-11-07T16:30:10+00:00",
-      "importance": 47,
+      "importance": 46,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1079,7 +1075,7 @@
       ],
       "publishedAt": "2026-11-07T16:17:43+00:00",
       "updatedAt": "2026-11-07T16:17:43+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
