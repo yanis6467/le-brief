@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T13:57:55.675016+00:00",
+  "preparedAt": "2026-11-08T14:50:52.811262+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -139,6 +139,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-8a52115d4af5ac63f6",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
+      "bullets": [
+        "La réunion sur le pouvoir d'achat et les salaires annoncée lundi 9 novembre à Matignon est indispensable pour les personnes croisées dans la matinée.",
+        "\"100 euros de plus, je pense qu'en ce moment, et notamment avant les fêtes de fin d'année, ça serait en effet un geste fortement apprécié\", glisse un homme.",
+        "Si vous doublez les salaires de tout le monde aujourd'hui et que le paquet de pâtes est à 1 euro, demain il sera à 2 euros."
+      ],
+      "publishedAt": "2026-11-08T14:11:46+00:00",
+      "updatedAt": "2026-11-08T14:11:46+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-quelles-sont-les-mesures-souhaitees-par-les-francais-pour-le-pouvoir-d-achat_8273360.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "9cef0cae45587de2200b1cfbe4ebd8c121520e6ba8b540d04f91a7165615a59a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "context": null
+    },
+    {
       "id": "rss-bc89f7acf1c6c954ba",
       "revision": 1,
       "category": "eco",
@@ -191,30 +219,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-73b526f7c3a27f3155",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
-      "bullets": [
-        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
-      ],
-      "publishedAt": "2026-11-07T14:13:19+00:00",
-      "updatedAt": "2026-11-07T14:13:19+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1d62a4d340113d52b2",
       "revision": 1,
       "category": "eco",
@@ -237,6 +241,55 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6034969cf97f209ed4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "bullets": [
+        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
+        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
+      ],
+      "publishedAt": "2026-11-08T04:00:31+00:00",
+      "updatedAt": "2026-11-08T04:00:31+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-73b526f7c3a27f3155",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
+      "bullets": [
+        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
+      ],
+      "publishedAt": "2026-11-07T14:13:19+00:00",
+      "updatedAt": "2026-11-07T14:13:19+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
       "detailLevel": "preview"
     },
     {
@@ -265,62 +318,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1620ca18135aa8bf8b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
-      "bullets": [
-        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
-        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
-        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
-      ],
-      "publishedAt": "2026-11-06T11:40:34+00:00",
-      "updatedAt": "2026-11-06T11:40:34+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-41d2340e0f38ecfac8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
-      "bullets": [
-        "Or celui-ci est revalorisé automatiquement, chaque 1er janvier et dès que l’inflation dépasse 2 %.",
-        "Dans la dernière loi de financement de la sécurité sociale (LFSS) pour 2026, un article conditionne les aides publiques versées aux entreprises.",
-        "Selon un recensement de la CGT, les bureaux d’études techniques (la branche appelée Syntec), les services de l’automobile, les services aux personnes handicapées, le transport routier ou la restauration rapide affichaient un minimum conventionnel en dessous du smic mensuel brut, fixé à 1867,02 euros."
-      ],
-      "publishedAt": "2026-11-06T14:26:52+00:00",
-      "updatedAt": "2026-11-06T14:26:52+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "3c1c3e63db4fbe966c5244ceac2545428ef2669dc479580ebd630ba5ca096884",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T13:04:15.966307+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +328,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T13:54:05+00:00",
-      "updatedAt": "2026-11-08T13:54:05+00:00",
+      "publishedAt": "2026-11-08T14:45:07+00:00",
+      "updatedAt": "2026-11-08T14:45:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -389,7 +386,7 @@
       ],
       "publishedAt": "2026-11-06T14:46:10+00:00",
       "updatedAt": "2026-11-06T14:46:10+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -498,8 +495,8 @@
         "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev.",
         "Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment par…"
       ],
-      "publishedAt": "2026-11-08T05:00:09+00:00",
-      "updatedAt": "2026-11-08T05:00:09+00:00",
+      "publishedAt": "2026-11-08T05:00:00+00:00",
+      "updatedAt": "2026-11-08T05:00:00+00:00",
       "importance": 99,
       "sources": [
         {
@@ -540,6 +537,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
       "context": null
+    },
+    {
+      "id": "rss-6dcbf96e723603093d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "bullets": [
+        "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée."
+      ],
+      "publishedAt": "2026-11-08T13:04:32+00:00",
+      "updatedAt": "2026-11-08T13:04:32+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3a4998a1e82c39038d",
@@ -770,55 +791,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-873c5389de294b6851",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Kiev visée par 172 drones et 36 missiles",
-      "bullets": [
-        "Selon l'armée ukrainienne, 36 missiles balistiques et 172 drones russes ont visé le pays dans la nuit du vendredi 6 au samedi 7 novembre, touchant également les réseaux de transport et de distribution.",
-        "Selon lui, elles visent à perturber la rencontre entre Kiev, Moscou et Washington, prévue à Abou Dabi (Émirats arabes unis) la semaine prochaine.",
-        "Les pourparlers auront lieu les mardi 10 et mercredi 11 novembre, avec pour objectif de relancer les négociations vers une fin du conflit qui dure depuis plus de quatre ans et demi."
-      ],
-      "publishedAt": "2026-11-08T07:16:14+00:00",
-      "updatedAt": "2026-11-08T07:16:14+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "0d0d6337aae309e1c87ba03b80a70eddeef9939073f91ce17c193411bd3c24c5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T08:16:04.055851+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6dcbf96e723603093d",
+      "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
       "bullets": [
-        "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée."
+        "Plusieurs députés communistes ont annoncé, vendredi, soutenir la candidature de Jean-Luc Mélenchon à la présidentielle, alors que Fabien Roussel, secrétaire national du Parti communiste français, est également candidat."
       ],
-      "publishedAt": "2026-11-08T13:04:32+00:00",
-      "updatedAt": "2026-11-08T13:04:32+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-07T13:37:27+00:00",
+      "updatedAt": "2026-11-07T13:37:27+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
+      "summaryInput": "bf795f4c8ef09c1289527b26f09e116341a60cb2df06987db49ad0825462aaad",
       "detailLevel": "preview"
     },
     {
@@ -926,30 +919,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b903bacc9ee1bc626e",
-      "revision": 2,
+      "id": "rss-aba9d2591f93e279df",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
       "bullets": [
-        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
-        "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée, le ministre de l'Intérieur.\"Un homme a foncé en voiture sur la place du marché principal de Cracovie et a commencé à tirer au hasard sur des passants."
+        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
+        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
+        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
       ],
-      "publishedAt": "2026-11-08T10:17:11+00:00",
-      "updatedAt": "2026-11-08T10:17:11+00:00",
+      "publishedAt": "2026-11-08T14:09:54+00:00",
+      "updatedAt": "2026-11-08T14:09:54+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
+          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "article-extract",
-      "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
+      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
+      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
       "context": null
     },
     {
@@ -1025,30 +1019,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9052a70037654f5e80",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
-      "bullets": [
-        "Plusieurs députés communistes ont annoncé, vendredi, soutenir la candidature de Jean-Luc Mélenchon à la présidentielle, alors que Fabien Roussel, secrétaire national du Parti communiste français, est également candidat."
-      ],
-      "publishedAt": "2026-11-07T13:37:27+00:00",
-      "updatedAt": "2026-11-07T13:37:27+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bf795f4c8ef09c1289527b26f09e116341a60cb2df06987db49ad0825462aaad",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-fce3fbab88f205b409",
       "revision": 1,
       "category": "france",
@@ -1099,6 +1069,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b903bacc9ee1bc626e",
+      "revision": 2,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "bullets": [
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
+        "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée, le ministre de l'Intérieur.\"Un homme a foncé en voiture sur la place du marché principal de Cracovie et a commencé à tirer au hasard sur des passants."
+      ],
+      "publishedAt": "2026-11-08T10:17:11+00:00",
+      "updatedAt": "2026-11-08T10:17:11+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d2522557f1998494c8",
       "revision": 2,
       "category": "france",
@@ -1127,57 +1124,53 @@
       "context": null
     },
     {
-      "id": "rss-47dfec3a7a84fc6119",
+      "id": "rss-921e12c25f986b1778",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
+      "title": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
       "bullets": [
-        "La France insoumise a publié vendredi son programme présidentiel pour 2027.",
-        "Les réactions politiques, notamment à droite et à l’extrême droite, se sont multipliées samedi."
+        "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire.",
+        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats, et à l’arrivée on fait un sondage », ou encore d’organiser un « conclave »."
       ],
-      "publishedAt": "2026-11-07T14:43:50+00:00",
-      "updatedAt": "2026-11-07T14:43:50+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-08T14:36:53+00:00",
+      "updatedAt": "2026-11-08T14:36:53+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-laurent-wauquiez-appelle-la-droite-a-designer-un-candidat-unique-avant-noel_6808438_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "6b44b20820d6238c04d035657cb149278de67382ae48ab4506ab5633ff7b22ba",
+      "summaryInput": "5862e84ab6e3c0df5053100083f39667c4be54415102fe671d14ce2845240ffb",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d6a03012ae4c5c3e3e",
+      "id": "rss-afb1617de0ae26cb5e",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
       "bullets": [
-        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
+        "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
       ],
-      "publishedAt": "2026-11-08T11:15:31+00:00",
-      "updatedAt": "2026-11-08T11:15:31+00:00",
+      "publishedAt": "2026-11-08T13:59:33+00:00",
+      "updatedAt": "2026-11-08T13:59:33+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-742deae823ddcb1b44",
@@ -1245,7 +1238,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
