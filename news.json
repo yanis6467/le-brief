@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T17:46:29.840975+00:00",
+  "preparedAt": "2026-11-08T18:56:45.456330+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -328,9 +328,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T17:46:31+00:00",
-      "updatedAt": "2026-11-08T17:46:31+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-08T18:54:40+00:00",
+      "updatedAt": "2026-11-08T18:54:40+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -358,7 +358,7 @@
       ],
       "publishedAt": "2026-11-07T06:00:00+00:00",
       "updatedAt": "2026-11-07T06:00:00+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -611,6 +611,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-9965ea033b3d708186",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies",
+      "bullets": [
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
+      ],
+      "publishedAt": "2026-11-08T18:23:36+00:00",
+      "updatedAt": "2026-11-08T18:23:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "77a8631c9e280a01e187c13beb173c5053af7e4452280d3ad8c4f32995588626",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T18:56:45.456330+00:00",
+      "context": null
+    },
+    {
       "id": "rss-aba9d2591f93e279df",
       "revision": 1,
       "category": "world",
@@ -742,55 +770,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-873c5389de294b6851",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Kiev visée par 172 drones et 36 missiles",
-      "bullets": [
-        "Selon l'armée ukrainienne, 36 missiles balistiques et 172 drones russes ont visé le pays dans la nuit du vendredi 6 au samedi 7 novembre, touchant également les réseaux de transport et de distribution.",
-        "Selon lui, elles visent à perturber la rencontre entre Kiev, Moscou et Washington, prévue à Abou Dabi (Émirats arabes unis) la semaine prochaine.",
-        "Les pourparlers auront lieu les mardi 10 et mercredi 11 novembre, avec pour objectif de relancer les négociations vers une fin du conflit qui dure depuis plus de quatre ans et demi."
-      ],
-      "publishedAt": "2026-11-08T07:16:14+00:00",
-      "updatedAt": "2026-11-08T07:16:14+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "0d0d6337aae309e1c87ba03b80a70eddeef9939073f91ce17c193411bd3c24c5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T16:50:36.516404+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9052a70037654f5e80",
-      "revision": 1,
+      "id": "rss-921e12c25f986b1778",
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
+      "title": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
       "bullets": [
-        "Plusieurs députés communistes ont annoncé, vendredi, soutenir la candidature de Jean-Luc Mélenchon à la présidentielle, alors que Fabien Roussel, secrétaire national du Parti communiste français, est également candidat."
+        "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire.",
+        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats et, à l’arrivée », de faire « un sondage » ou encore d’organiser un « conclave »."
       ],
-      "publishedAt": "2026-11-07T13:37:27+00:00",
-      "updatedAt": "2026-11-07T13:37:27+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-08T14:36:51+00:00",
+      "updatedAt": "2026-11-08T14:36:51+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-laurent-wauquiez-appelle-la-droite-a-designer-un-candidat-unique-avant-noel_6808438_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "bf795f4c8ef09c1289527b26f09e116341a60cb2df06987db49ad0825462aaad",
+      "summaryInput": "465a338b5f787ea2563099d8ae6d2f43a3318559bb7c6bcfdb4b8d40b68e32bd",
       "detailLevel": "preview"
     },
     {
@@ -1008,7 +1009,7 @@
       ],
       "publishedAt": "2026-11-06T17:50:46+00:00",
       "updatedAt": "2026-11-06T17:50:46+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1047,31 +1048,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-921e12c25f986b1778",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
-      "bullets": [
-        "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire.",
-        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats et, à l’arrivée », de faire « un sondage » ou encore d’organiser un « conclave »."
-      ],
-      "publishedAt": "2026-11-08T14:36:51+00:00",
-      "updatedAt": "2026-11-08T14:36:51+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-laurent-wauquiez-appelle-la-droite-a-designer-un-candidat-unique-avant-noel_6808438_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "465a338b5f787ea2563099d8ae6d2f43a3318559bb7c6bcfdb4b8d40b68e32bd",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-afb1617de0ae26cb5e",
       "revision": 1,
       "category": "france",
@@ -1093,6 +1069,31 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f8a6b1745ca30147e9",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
+      "bullets": [
+        "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février.",
+        "Le candidat Renaissance juge, lui, que la…"
+      ],
+      "publishedAt": "2026-11-08T13:48:04+00:00",
+      "updatedAt": "2026-11-08T13:48:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "028b7e7d71225491d89451a49d0caa644ce16eb998dd377d795c24fc0ab7de95",
       "detailLevel": "preview"
     },
     {
@@ -1199,7 +1200,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
@@ -1259,7 +1260,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
