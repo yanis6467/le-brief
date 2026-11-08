@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T10:55:05.657076+00:00",
+  "preparedAt": "2026-11-08T11:50:30.188506+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -236,34 +236,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1620ca18135aa8bf8b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
-      "bullets": [
-        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
-        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
-        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
-      ],
-      "publishedAt": "2026-11-06T11:40:34+00:00",
-      "updatedAt": "2026-11-06T11:40:34+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
-      "context": null
-    },
-    {
       "id": "rss-6034969cf97f209ed4",
       "revision": 1,
       "category": "eco",
@@ -314,6 +286,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1620ca18135aa8bf8b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
+      "bullets": [
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
+      ],
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T05:02:21.003441+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -324,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T10:51:38+00:00",
-      "updatedAt": "2026-11-08T10:51:38+00:00",
+      "publishedAt": "2026-11-08T11:45:48+00:00",
+      "updatedAt": "2026-11-08T11:45:48+00:00",
       "importance": 69,
       "sources": [
         {
@@ -422,7 +422,7 @@
       "provenance": "article-extract",
       "summaryInput": "118a6ce61e7b5409ce42bf5fe4e9e4cd809bd5c8602e83d99686a98d39a37ca6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
+      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -583,30 +583,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0bd327e09c553e9b4b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
-      "bullets": [
-        "L’Union européenne et Ottawa s’inspirent de la stratégie de la « révolution autolimitée », pensée par les dissidents d’Europe de l’Est dans les années 1970 pour bâtir une société parallèle à côté de la société officielle, sans chercher à la réformer, note le politiste bulgare Ivan Krastev, dans une tribune…"
-      ],
-      "publishedAt": "2026-11-07T17:00:13+00:00",
-      "updatedAt": "2026-11-07T17:00:13+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5aea78a815c6c1cf1275de24fb43c42b05ac947b113c6fa7b58017833c9873bf",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-6cd02f430196237716",
       "revision": 1,
       "category": "world",
@@ -659,7 +635,7 @@
       "provenance": "article-extract",
       "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
+      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
       "context": null
     },
     {
@@ -684,6 +660,30 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dddb68c09bf2c623cd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
+      "bullets": [
+        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
+      ],
+      "publishedAt": "2026-11-08T11:18:49+00:00",
+      "updatedAt": "2026-11-08T11:18:49+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
       "detailLevel": "preview"
     },
     {
@@ -894,7 +894,7 @@
       "provenance": "article-extract",
       "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
+      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
       "context": null
     },
     {
@@ -1124,6 +1124,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d6a03012ae4c5c3e3e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
+      "bullets": [
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
+      ],
+      "publishedAt": "2026-11-08T11:15:31+00:00",
+      "updatedAt": "2026-11-08T11:15:31+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5ddb09c966498a67ff",
       "revision": 1,
       "category": "france",
@@ -1146,31 +1174,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "e75c023dff0e71df9953eaf90060e170576ccb9dcf21ff0008c788a01d5913d8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-71d4e81969c0fb2fb6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
-      "bullets": [
-        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
-        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
-      ],
-      "publishedAt": "2026-11-07T10:27:51+00:00",
-      "updatedAt": "2026-11-07T10:27:51+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
       "detailLevel": "preview"
     },
     {
