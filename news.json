@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T07:16:30.282299+00:00",
+  "preparedAt": "2026-11-08T08:16:04.055851+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -187,31 +187,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1d62a4d340113d52b2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "bullets": [
-        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
-        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
-      ],
-      "publishedAt": "2026-11-06T20:03:24+00:00",
-      "updatedAt": "2026-11-06T20:03:24+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-73b526f7c3a27f3155",
       "revision": 1,
       "category": "eco",
@@ -233,6 +208,31 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1d62a4d340113d52b2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+      "bullets": [
+        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
+        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
+      ],
+      "publishedAt": "2026-11-06T20:03:24+00:00",
+      "updatedAt": "2026-11-06T20:03:24+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
       "detailLevel": "preview"
     },
     {
@@ -324,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T07:12:38+00:00",
-      "updatedAt": "2026-11-08T07:12:38+00:00",
+      "publishedAt": "2026-11-08T08:15:06+00:00",
+      "updatedAt": "2026-11-08T08:15:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -366,7 +366,7 @@
       "provenance": "article-extract",
       "summaryInput": "676948405fcd3d57df789383d8e3ce74796b25e0d984c163088925ffb868c585",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T19:51:38.322753+00:00",
+      "enrichedAt": "2026-11-08T08:16:04.055851+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -687,6 +687,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-873c5389de294b6851",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Kiev visée par 172 drones et 36 missiles",
+      "bullets": [
+        "Selon l'armée ukrainienne, 36 missiles balistiques et 172 drones russes ont visé le pays dans la nuit du vendredi 6 au samedi 7 novembre, touchant également les réseaux de transport et de distribution.",
+        "Selon lui, elles visent à perturber la rencontre entre Kiev, Moscou et Washington, prévue à Abou Dabi (Émirats arabes unis) la semaine prochaine.",
+        "Les pourparlers auront lieu les mardi 10 et mercredi 11 novembre, avec pour objectif de relancer les négociations vers une fin du conflit qui dure depuis plus de quatre ans et demi."
+      ],
+      "publishedAt": "2026-11-08T07:16:14+00:00",
+      "updatedAt": "2026-11-08T07:16:14+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "0d0d6337aae309e1c87ba03b80a70eddeef9939073f91ce17c193411bd3c24c5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T08:16:04.055851+00:00",
+      "context": null
+    },
+    {
       "id": "rss-b21c8e594423cadd94",
       "revision": 1,
       "category": "world",
@@ -763,33 +791,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ea96e88c04ac5d8d66",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales",
-      "bullets": [
-        "Le président ukrainien a par ailleurs affirmé samedi que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors des frappes massives contre les infrastructures énergétiques ukrainiennes dans la nuit de vendredi à samedi.",
-        "\"Selon des informations préliminaires, sur l'une des infrastructures énergétiques clés ayant subi des dommages, les Russes ont utilisé des missiles KN-23 fabriqués et livrés par la Corée du Nord\", a-t-il poursuivi."
-      ],
-      "publishedAt": "2026-11-07T14:44:52+00:00",
-      "updatedAt": "2026-11-07T14:44:52+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "edf6f77e75dfb665401531d62395e12d7a1220fdf1dbf57c0916b9c15e459504",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
@@ -814,28 +815,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8771c22c209df15f79",
+      "id": "rss-9483d20b0a47b638c4",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Immigration : les données-clés pour éclairer le débat",
+      "title": "REPORTAGE. \"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
       "bullets": [
-        "« Les idées claires pour 2027 ». Quels qu’en soient les motifs (travail, asile, regroupement familial…), l’accueil et le séjour d’immigrés et d’étrangers en France représentent une importante source de clivage entre les partis politiques, notamment à l’approche de l’élection présidentielle. Nos explications pour s’y retrouver."
+        "La journée du samedi 7 novembre a rassemblé 146 000 personnes partout en France, dont 46 000 à Paris, selon le ministère de l'Intérieur.",
+        "Les syndicats ont, eux, comptabilisé 250 000 manifestants, dont 75 00 dans la capitale.",
+        "Tous disent qu'ils sont prêts à se remobiliser mardi 10 novembre, jour d'une nouvelle manifestation à l'appel des syndicats enseignants, étudiants et lycéens."
       ],
-      "publishedAt": "2026-11-07T05:00:51+00:00",
-      "updatedAt": "2026-11-07T05:00:51+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-08T08:05:40+00:00",
+      "updatedAt": "2026-11-08T08:05:40+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/07/immigration-les-donnees-cles-pour-eclairer-le-debat_6808243_4355770.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f78e32a4e47a0a5e8c25d588dcdfc503e92486bda025e076ef40fdec95a0ddd2",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "67499e635db979245e2b69a57efd47907f2ba1b43f29e5d31e0d1298ca0994ed",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T08:16:04.055851+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -951,7 +956,7 @@
       ],
       "publishedAt": "2026-11-06T19:36:25+00:00",
       "updatedAt": "2026-11-06T19:36:25+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1047,8 +1052,8 @@
         "Le 5 novembre 2025, Jacques, 70 ans, était renversé par un individu qui a délibérément foncé sur des piétons et des cyclistes sur l’île d’Oléron, disant répondre à un «appel d’Allah».",
         "Il accepte de témoigner pour la première fois, alors que Le Figaro Magazine a eu accès à des documents…"
       ],
-      "publishedAt": "2026-11-08T06:00:00+00:00",
-      "updatedAt": "2026-11-08T06:00:00+00:00",
+      "publishedAt": "2026-11-08T08:02:10+00:00",
+      "updatedAt": "2026-11-08T08:02:10+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1225,19 +1230,19 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
