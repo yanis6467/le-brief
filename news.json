@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T05:02:21.003441+00:00",
+  "preparedAt": "2026-11-08T05:58:19.890844+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -108,30 +108,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "b91f6609124d6ea86d85e3d7717906bd2cfc3e87aa86eabcdb7297a862667967",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-10d568a972aff97676",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
-      "bullets": [
-        "Le principal souci des Américains n’est pas de se retrouver au chômage, mais de voir que leur travail ne leur permet pas de faire face au coût de la vie, alors que les possibilités de trouver mieux ailleurs se sont raréfiées."
-      ],
-      "publishedAt": "2026-11-06T16:06:12+00:00",
-      "updatedAt": "2026-11-06T16:06:12+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/marche-du-travail-aux-etats-unis-chomage-en-baisse-creations-d-emplois-en-hausse_6807818_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e01da41c6230ee22279232c31517cc4746b920250a0ed78b6a37dd53942ba2d1",
       "detailLevel": "preview"
     },
     {
@@ -313,6 +289,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-48156d907b62c533e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "bullets": [
+        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
+        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+      ],
+      "publishedAt": "2026-11-07T04:55:01+00:00",
+      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -323,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T04:58:36+00:00",
-      "updatedAt": "2026-11-08T04:58:36+00:00",
+      "publishedAt": "2026-11-08T05:57:54+00:00",
+      "updatedAt": "2026-11-08T05:57:54+00:00",
       "importance": 69,
       "sources": [
         {
@@ -503,31 +504,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "fe9e97c00c2273de549c954f578beeee507134c89527aea921311f71d0f09e9b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b9da297658f4848fef",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
-      "bullets": [
-        "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville.",
-        "Deux jours de deuil national ont été décrétés."
-      ],
-      "publishedAt": "2026-11-07T17:34:57+00:00",
-      "updatedAt": "2026-11-07T17:34:57+00:00",
-      "importance": 97,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ef729ea11414639fbd18ab74763d64bb140e87097ec0d1377f6a3765c57f99c8",
       "detailLevel": "preview"
     },
     {
@@ -715,30 +691,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e1d03e8428aa6c4c16",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Nouvelle-Zélande, Christopher Luxon, le premier ministre conservateur, assure pouvoir former un gouvernement malgré les résultats serrés des élections législatives",
-      "bullets": [
-        "Ni le Parti national, au pouvoir, ni l’opposition de centre gauche, incarnée par le Parti travailliste, n’obtiennent de majorité au Parlement, après une élection dominée par les problèmes de coût de la vie."
-      ],
-      "publishedAt": "2026-11-07T12:22:41+00:00",
-      "updatedAt": "2026-11-07T12:22:41+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/en-nouvelle-zelande-christopher-luxon-le-premier-ministre-conservateur-assure-pouvoir-former-un-gouvernement-apres-des-elections-legislatives-tres-serrees_6808271_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1611c039ed8b14e7ca2bb901b103fe56b37c95888990b44a22f21f1ad2d98bd0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -789,6 +741,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b21c8e594423cadd94",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La guerre des céréales entre l’Ukraine et la Russie redessine les rapports de force géopolitiques",
+      "bullets": [
+        "Depuis le début de la guerre en Ukraine, blocus maritimes, céréales pillées, attaques contre les cargos se multiplient... En mer Noire, la Russie fait des céréales un instrument de pression diplomatique. Une bataille qui entrave les approvisionnements et fragilise la sécurité alimentaire mondiale."
+      ],
+      "publishedAt": "2026-11-08T04:00:35+00:00",
+      "updatedAt": "2026-11-08T04:00:35+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/la-guerre-des-cereales-entre-l-ukraine-et-la-russie-redessine-les-rapports-de-force-geopolitiques_6808390_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "81beae1bc3ee0a443d3ed27c665c0e8a350e628d51e7647b0d0a231ae0029ad8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b77c623e4ed4aa95a2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
+      "bullets": [
+        "A peine destitué à la suite d'une crise bancaire au Paraguay, l'ancien président Santiago Peña a comparu samedi 7 novembre devant la justice pour s'expliquer sur ce scandale, au lendemain de l'investiture de son successeur, Pedro Alliana.",
+        "Des entreprises, des institutions et des fonds de pension ont aussi été affectés.",
+        "L'ancien vice-président et nouveau président, Pedro Alliana, 52 ans, a affirmé, devant le Sénat qui l'a investi, que \"les compatriotes qui traversent une situation très difficile à cause du chaos financier seront pleinement indemnisés\"."
+      ],
+      "publishedAt": "2026-11-07T17:26:16+00:00",
+      "updatedAt": "2026-11-07T17:26:16+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "3979b5cfdb4dc6ec87ffe4c092d82ae07c9b6614ad12abadcec14f371a906372",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T05:58:19.890844+00:00",
+      "context": null
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -1014,30 +1018,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1e3650e99784108042",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
-      "bullets": [
-        "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes »."
-      ],
-      "publishedAt": "2026-11-07T00:09:38+00:00",
-      "updatedAt": "2026-11-07T00:09:38+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4c4412250a6e6e564a280f40f0470b854ff8904c8c7c9b2523dce31940d843e2",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-fce3fbab88f205b409",
       "revision": 1,
       "category": "france",
@@ -1049,7 +1029,7 @@
       ],
       "publishedAt": "2026-11-06T17:50:46+00:00",
       "updatedAt": "2026-11-06T17:50:46+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1141,6 +1121,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-076a3c4494bb406a63",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
+      "bullets": [
+        "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale.",
+        "La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie dos à dos Russes et Ukrainiens."
+      ],
+      "publishedAt": "2026-11-07T09:30:07+00:00",
+      "updatedAt": "2026-11-07T09:30:07+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0a8146d4903527c63aa65baf8d8634540b22eae12b72be0c26c1315a646f1139",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-742deae823ddcb1b44",
       "revision": 1,
       "category": "france",
@@ -1175,7 +1180,7 @@
       ],
       "publishedAt": "2026-11-05T17:30:24+00:00",
       "updatedAt": "2026-11-05T17:30:24+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1224,7 +1229,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
