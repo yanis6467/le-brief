@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T09:07:54.901664+00:00",
+  "preparedAt": "2026-11-08T09:57:21.273575+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -324,9 +324,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T09:07:56+00:00",
-      "updatedAt": "2026-11-08T09:07:56+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-08T09:50:38+00:00",
+      "updatedAt": "2026-11-08T09:50:38+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -508,17 +508,17 @@
     },
     {
       "id": "rss-4260363f8c3140d700",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Iran, trois hommes soupçonnés d'avoir agi pour Israël et les Etats-Unis vont être exécutés",
       "bullets": [
-        "La justice iranienne a annoncé, dimanche 8 novembre, l'exécution de trois hommes jugés coupables d'avoir agi pour le compte d'Israël et des États-Unis en janvier.",
-        "Selon l'agence, les trois hommes ont été reconnus coupables d'avoir participé à \"des activités opérationnelles pour le compte du régime israélien sioniste, des États-Unis et de groupes hostiles\" durant les manifestations initialement déclenchées fin décembre 2025 par la hausse du coût de la vie.",
+        "La justice iranienne a annoncé, dimanche 8 novembre, l'exécution de trois hommes jugés coupables d'avoir agi pour le compte d'Israël et des Etats-Unis en janvier.",
+        "Selon l'agence, les trois hommes ont été reconnus coupables d'avoir participé à \"des activités opérationnelles pour le compte du régime israélien sioniste, des Etats-Unis et de groupes hostiles\" durant les manifestations initialement déclenchées fin décembre 2025 par la hausse du coût de la vie.",
         "Le mouvement de contestation débuté en décembre 2025 s'était rapidement transformé en vastes manifestations antigouvernementales, qui ont culminé les 8 et 9 janvier."
       ],
-      "publishedAt": "2026-11-08T08:23:52+00:00",
-      "updatedAt": "2026-11-08T08:23:52+00:00",
+      "publishedAt": "2026-11-08T09:49:47+00:00",
+      "updatedAt": "2026-11-08T09:49:47+00:00",
       "importance": 97,
       "sources": [
         {
@@ -529,9 +529,9 @@
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "article-extract",
-      "summaryInput": "8743ee5affbc357b2b147d0036a01a9a6f35dd68382cf915eef3002e55f8def6",
+      "summaryInput": "b354be3902f14c757998218342aebb81dbe6a2180ed345479be8d25610fb8cff",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T09:07:54.901664+00:00",
+      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
       "context": null
     },
     {
@@ -635,30 +635,6 @@
       "context": null
     },
     {
-      "id": "rss-0d91440bc745ab01d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
-      "bullets": [
-        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
-      ],
-      "publishedAt": "2026-11-06T09:12:30+00:00",
-      "updatedAt": "2026-11-06T09:12:30+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7da7836e5f5a263918",
       "revision": 1,
       "category": "world",
@@ -687,6 +663,57 @@
       "context": null
     },
     {
+      "id": "rss-0d91440bc745ab01d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "François Godement : « Trump nous a obsédés mais nous assistons à sa chute politique, ralentie et progressive »",
+      "bullets": [
+        "ENTRETIEN - Selon l’historien et conseiller spécial Chine et États-Unis à l’Institut Montaigne, la victoire massive de tous les courants démocrates, socialiste et radical comme centriste et modéré, lors des élections de mi-mandat, « prouve un rejet massif et un vote avant tout négatif, contre Trump »."
+      ],
+      "publishedAt": "2026-11-06T09:12:30+00:00",
+      "updatedAt": "2026-11-06T09:12:30+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/francois-godement-trump-nous-a-obsedes-mais-nous-assistons-a-sa-chute-politique-ralentie-et-progressive-20261106",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f6ec01d098d828309a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un bâtiment d'Aramco à Riyad a été la cible d'une \"tentative\" d'attaque, affirme l'Arabie saoudite",
+      "bullets": [
+        "Le ministère de l'Energie saoudien a affirmé, dimanche 8 novembre, qu'un bâtiment du géant pétrolier Aramco à Riyad avait été visé par une \"tentative\" d'attaque, selon un média d'Etat.",
+        "Plus tôt dimanche matin, la coalition dirigée par l'Arabie saoudite avait annoncé l'interception de deux missiles balistiques, tirés par les houthis et visant la capitale saoudienne, peu après la diffusion par les autorités d'une alerte et le signalement de puissantes explosions par des journalistes de l'AFP."
+      ],
+      "publishedAt": "2026-11-08T09:42:41+00:00",
+      "updatedAt": "2026-11-08T09:42:41+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/moyen-orient/un-batiment-d-aramco-a-riyad-a-ete-la-cible-d-une-tentative-d-attaque-affirme-l-arabie-saoudite_8273063.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "cb87c7f0d9beacc8ee22f04b4bf53a9bbd175aa2c412547a03e9e588e68ba5e4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
+      "context": null
+    },
+    {
       "id": "rss-f5c71c1c4d9c1e1356",
       "revision": 1,
       "category": "world",
@@ -695,8 +722,8 @@
       "bullets": [
         "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
       ],
-      "publishedAt": "2026-11-08T08:38:49+00:00",
-      "updatedAt": "2026-11-08T08:38:49+00:00",
+      "publishedAt": "2026-11-08T08:38:48+00:00",
+      "updatedAt": "2026-11-08T08:38:48+00:00",
       "importance": 67,
       "sources": [
         {
@@ -761,34 +788,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "81beae1bc3ee0a443d3ed27c665c0e8a350e628d51e7647b0d0a231ae0029ad8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b77c623e4ed4aa95a2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
-      "bullets": [
-        "A peine destitué à la suite d'une crise bancaire au Paraguay, l'ancien président Santiago Peña a comparu samedi 7 novembre devant la justice pour s'expliquer sur ce scandale, au lendemain de l'investiture de son successeur, Pedro Alliana.",
-        "Des entreprises, des institutions et des fonds de pension ont aussi été affectés.",
-        "L'ancien vice-président et nouveau président, Pedro Alliana, 52 ans, a affirmé, devant le Sénat qui l'a investi, que \"les compatriotes qui traversent une situation très difficile à cause du chaos financier seront pleinement indemnisés\"."
-      ],
-      "publishedAt": "2026-11-07T17:26:16+00:00",
-      "updatedAt": "2026-11-07T17:26:16+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "3979b5cfdb4dc6ec87ffe4c092d82ae07c9b6614ad12abadcec14f371a906372",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T05:58:19.890844+00:00",
-      "context": null
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -879,7 +878,7 @@
       ],
       "publishedAt": "2026-11-05T21:34:22+00:00",
       "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -930,7 +929,7 @@
       ],
       "publishedAt": "2026-11-07T21:37:20+00:00",
       "updatedAt": "2026-11-07T21:37:20+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -942,7 +941,7 @@
       "provenance": "article-extract",
       "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T21:47:15.627867+00:00",
+      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
       "context": null
     },
     {
@@ -1146,52 +1145,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-076a3c4494bb406a63",
+      "id": "rss-5ddb09c966498a67ff",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
+      "title": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
       "bullets": [
-        "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale.",
-        "La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie dos à dos Russes et Ukrainiens."
+        "Le candidat de La France insoumise a présenté samedi son programme, « L’Avenir en commun », devant plusieurs milliers de sympathisants.",
+        "Tout en assurant qu’il n’avait pas l’intention de « mettre de l’eau dans son vin », le tribun s’est livré à une rhétorique moins conflictuelle."
       ],
-      "publishedAt": "2026-11-07T09:30:07+00:00",
-      "updatedAt": "2026-11-07T09:30:07+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-08T04:00:04+00:00",
+      "updatedAt": "2026-11-08T04:00:04+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "0a8146d4903527c63aa65baf8d8634540b22eae12b72be0c26c1315a646f1139",
+      "summaryInput": "e75c023dff0e71df9953eaf90060e170576ccb9dcf21ff0008c788a01d5913d8",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3d955f18769a2fb6e0",
+      "id": "rss-742deae823ddcb1b44",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
+      "topic": "France",
+      "title": "«Je veux servir mon pays» : l’avocat Thibault de Montbrial se livre comme jamais sur sa volonté farouche d’entrer en politique",
       "bullets": [
-        "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le gouvernement."
+        "EXCLUSIF - Dans un texte très personnel écrit sous haute tension, à la fois manifeste et programme, le médiatique avocat pénaliste exprime ses convictions et son envie de peser d’une manière ou d’une autre dans les élections à venir."
       ],
-      "publishedAt": "2026-11-07T17:07:26+00:00",
-      "updatedAt": "2026-11-07T17:07:26+00:00",
+      "publishedAt": "2026-11-07T10:00:00+00:00",
+      "updatedAt": "2026-11-07T10:00:00+00:00",
       "importance": 64,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/je-veux-servir-mon-pays-l-avocat-thibault-de-montbrial-se-livre-comme-jamais-sur-sa-volonte-farouche-d-entrer-en-politique-20261107",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "4c05d2f569357e7cfdd151ce9ad2999a92d11678bb1789f068df71fc70db7dbd",
+      "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
       "detailLevel": "preview"
     }
   ],
