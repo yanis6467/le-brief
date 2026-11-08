@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T14:50:52.811262+00:00",
+  "preparedAt": "2026-11-08T15:48:14.374292+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -111,7 +111,7 @@
       "provenance": "article-extract",
       "summaryInput": "d1e7c2e8613634b4f25b05bbde51bcc15e67a86b855fb4fb93f070b0fe110a10",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T03:00:18.417004+00:00",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
     },
     {
@@ -164,34 +164,6 @@
       "summaryInput": "9cef0cae45587de2200b1cfbe4ebd8c121520e6ba8b540d04f91a7165615a59a",
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-bc89f7acf1c6c954ba",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "25 000 euros pour arrêter de conduire",
-      "bullets": [
-        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
-      ],
-      "publishedAt": "2026-11-08T12:00:02+00:00",
-      "updatedAt": "2026-11-08T12:00:02+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T13:57:55.675016+00:00",
       "context": null
     },
     {
@@ -318,6 +290,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1620ca18135aa8bf8b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
+      "bullets": [
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
+      ],
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -328,9 +328,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T14:45:07+00:00",
-      "updatedAt": "2026-11-08T14:45:07+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-08T15:48:15+00:00",
+      "updatedAt": "2026-11-08T15:48:15+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -454,36 +454,8 @@
       "provenance": "article-extract",
       "summaryInput": "c97fd56f3e1933033eb184d7f7c46f1c4dbfdf792cced22edc7c46c54177b755",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T03:00:18.417004+00:00",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0dc1780ac97141bab1",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "«Un abaissement de prévisions qui ébranle la confiance»…Nouvelle déception pour la star de la défense européenne Rheinmetall, qui plonge de 15% et tombe de son piédestal en Bourse (-50% en 2026)",
-      "bullets": [
-        "Rheinmetall vise des revenus d'environ 13,2 milliards d'euros contre un intervalle précédent de 13,7 à 14,2 milliards d'euros auparavant, tandis que la marge opérationnelle est attendue à 18,5% contre 19% précédemment.",
-        "Le directeur général de la société, Armin Papperger avait en août indiqué s'attendre à réaliser 12,4 milliards d'euros de revenus sur le premier contrat de ce programme, qu'il espérait décrocher avant la fin de l'année.",
-        "La société a notamment accusé en juin une chute de 18,65% sur une séance, plombée par la perte d'un immense contrat, à savoir le projet de méga-frégate allemande F126."
-      ],
-      "publishedAt": "2026-11-05T15:18:23+00:00",
-      "updatedAt": "2026-11-05T15:18:23+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/un-abaissement-de-previsions-qui-ebranle-la-confiancenouvelle-deception-pour-la-star-de-la-defense-europeenne-rheinmetall-qui-plonge-de-15-et-tombe-de-son-piedestal-en-bourse-50-en-2026-1173255.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
-      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-e6a5bd649518d92c43",
@@ -587,6 +559,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5baadc55fdb29db349",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump",
+      "bullets": [
+        "\"Mais n'ayez pas peur, nous reviendrons PLUS GRANDS ET PLUS FORTS QUE JAMAIS\", a-t-il ajouté.\"Vague bleue\"Les élections de mi-mandat ont été marquées mardi par une \"vague bleue\", dont l'ampleur a sidéré les observateurs, assommé les républicains et galvanisé les démocrates.",
+        "Le milliardaire républicain affiche depuis une attitude combative face à la future majorité parlementaire démocrate.",
+        "Le lendemain, il a également annoncé avoir proposé le poste de porte-parole de l'exécutif à Dana White, un de ses proches qui dirige l'UFC, principale organisation mondiale d'arts martiaux mixtes (MMA)."
+      ],
+      "publishedAt": "2026-11-08T15:00:57+00:00",
+      "updatedAt": "2026-11-08T15:00:57+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "19e851baefd7187693af457ee9f70fa01e82f6f0a4c6f492965c034c4129ae25",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "context": null
+    },
+    {
       "id": "rss-af50893cfe3be1d5c5",
       "revision": 1,
       "category": "world",
@@ -609,30 +609,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "0ef4315451cf62806b945d604daf6bf5fd0eb1003e47ace9b4f099b6ab5fc180",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b7203c5b9e66ad4163",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
-      "bullets": [
-        "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre."
-      ],
-      "publishedAt": "2026-11-08T04:30:11+00:00",
-      "updatedAt": "2026-11-08T04:30:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b9ace6550d4039671905a9c02a50df9952806f23bca07b8c1185479e1682d7e8",
       "detailLevel": "preview"
     },
     {
@@ -686,6 +662,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-aba9d2591f93e279df",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "bullets": [
+        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
+        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
+        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+      ],
+      "publishedAt": "2026-11-08T14:09:54+00:00",
+      "updatedAt": "2026-11-08T14:09:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "context": null
     },
     {
       "id": "rss-dddb68c09bf2c623cd",
@@ -767,30 +771,6 @@
       "context": null
     },
     {
-      "id": "rss-f5c71c1c4d9c1e1356",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
-      "bullets": [
-        "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
-      ],
-      "publishedAt": "2026-11-08T08:38:48+00:00",
-      "updatedAt": "2026-11-08T08:38:48+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
@@ -853,7 +833,7 @@
       ],
       "publishedAt": "2026-11-05T15:36:56+00:00",
       "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -867,31 +847,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-63fc8d536e5d0163ee",
+      "id": "rss-dc44a4c0ef57f11ff4",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
+      "title": "Le vaccin, nouvel outil de lutte contre le cancer",
       "bullets": [
-        "Marie-Lou, 27 ans, est décédée brutalement ce mardi 3 novembre à Montpellier (Hérault), victime d'une possible intoxication alimentaire après avoir consommé des pâtes aux morilles, son plat préféré selon sa famille.",
-        "Déjà 700 intoxications aux champignons recensées depuis la rentréeCes morilles sont désormais retirées du commerce partout en France, et les clients doivent les rapporter en magasin s'ils ont acheté le lot concerné.",
-        "L'Agence de Sécurité Sanitaire alerte : les intoxications aux champignons augmentent depuis la rentrée."
+        "Nos journées ne durent pas vraiment 24 heures !",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
       ],
-      "publishedAt": "2026-11-05T21:34:22+00:00",
-      "updatedAt": "2026-11-05T21:34:22+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-08T09:00:02+00:00",
+      "updatedAt": "2026-11-08T09:00:02+00:00",
+      "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html",
+          "url": "https://www.franceinfo.fr/sante/le-vaccin-nouvel-outil-de-lutte-contre-le-cancer_8271224.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "article-extract",
-      "summaryInput": "64daada1383542f5216bbcb71dc695534ffb7ece3d8b702dfc33b5db0946a5df",
+      "summaryInput": "35595780e78ecab644e71403e9fdf030f331f3106e658a47cd46b9ecc5311960",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
     },
     {
@@ -919,31 +899,30 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-aba9d2591f93e279df",
-      "revision": 1,
+      "id": "rss-b903bacc9ee1bc626e",
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
       "bullets": [
-        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
-        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
-        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
+        "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée, le ministre de l'Intérieur.\"Un homme a foncé en voiture sur la place du marché principal de Cracovie et a commencé à tirer au hasard sur des passants."
       ],
-      "publishedAt": "2026-11-08T14:09:54+00:00",
-      "updatedAt": "2026-11-08T14:09:54+00:00",
+      "publishedAt": "2026-11-08T10:17:11+00:00",
+      "updatedAt": "2026-11-08T10:17:11+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "article-extract",
-      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
       "context": null
     },
     {
@@ -1069,33 +1048,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b903bacc9ee1bc626e",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
-      "bullets": [
-        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé, a annoncé un porte-parole de la police à l'AFP.",
-        "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée, le ministre de l'Intérieur.\"Un homme a foncé en voiture sur la place du marché principal de Cracovie et a commencé à tirer au hasard sur des passants."
-      ],
-      "publishedAt": "2026-11-08T10:17:11+00:00",
-      "updatedAt": "2026-11-08T10:17:11+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "a68163908f7c9fe5b07cad69279fcdcaa9b5dc9a70048642c9fba805723da598",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T09:57:21.273575+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d2522557f1998494c8",
       "revision": 2,
       "category": "france",
@@ -1125,16 +1077,16 @@
     },
     {
       "id": "rss-921e12c25f986b1778",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
       "bullets": [
         "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire.",
-        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats, et à l’arrivée on fait un sondage », ou encore d’organiser un « conclave »."
+        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats et, à l’arrivée », de faire « un sondage » ou encore d’organiser un « conclave »."
       ],
-      "publishedAt": "2026-11-08T14:36:53+00:00",
-      "updatedAt": "2026-11-08T14:36:53+00:00",
+      "publishedAt": "2026-11-08T14:36:51+00:00",
+      "updatedAt": "2026-11-08T14:36:51+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1145,14 +1097,14 @@
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "5862e84ab6e3c0df5053100083f39667c4be54415102fe671d14ce2845240ffb",
+      "summaryInput": "465a338b5f787ea2563099d8ae6d2f43a3318559bb7c6bcfdb4b8d40b68e32bd",
       "detailLevel": "preview"
     },
     {
       "id": "rss-afb1617de0ae26cb5e",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
       "bullets": [
         "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
@@ -1173,28 +1125,57 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-742deae823ddcb1b44",
+      "id": "rss-f8a6b1745ca30147e9",
       "revision": 1,
       "category": "france",
-      "topic": "France",
-      "title": "«Je veux servir mon pays» : l’avocat Thibault de Montbrial se livre comme jamais sur sa volonté farouche d’entrer en politique",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
       "bullets": [
-        "EXCLUSIF - Dans un texte très personnel écrit sous haute tension, à la fois manifeste et programme, le médiatique avocat pénaliste exprime ses convictions et son envie de peser d’une manière ou d’une autre dans les élections à venir."
+        "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février.",
+        "Le candidat Renaissance juge, lui, que la…"
       ],
-      "publishedAt": "2026-11-07T10:00:00+00:00",
-      "updatedAt": "2026-11-07T10:00:00+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-08T13:48:04+00:00",
+      "updatedAt": "2026-11-08T13:48:04+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/je-veux-servir-mon-pays-l-avocat-thibault-de-montbrial-se-livre-comme-jamais-sur-sa-volonte-farouche-d-entrer-en-politique-20261107",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
+      "summaryInput": "028b7e7d71225491d89451a49d0caa644ce16eb998dd377d795c24fc0ab7de95",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d6a03012ae4c5c3e3e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
+      "bullets": [
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
+      ],
+      "publishedAt": "2026-11-08T11:15:31+00:00",
+      "updatedAt": "2026-11-08T11:15:31+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
