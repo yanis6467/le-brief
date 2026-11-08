@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T22:49:08.814246+00:00",
+  "edition": "2026-11-09",
+  "preparedAt": "2026-11-08T23:46:33.222822+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -195,6 +195,34 @@
       "context": null
     },
     {
+      "id": "rss-bc89f7acf1c6c954ba",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "25 000 euros pour arrêter de conduire",
+      "bullets": [
+        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
+        "Tesla va progressivement arrêter la production du Cybertruck vers mi-2027, annonce Elon Musk",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque"
+      ],
+      "publishedAt": "2026-11-08T12:00:02+00:00",
+      "updatedAt": "2026-11-08T12:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T23:46:33.222822+00:00",
+      "context": null
+    },
+    {
       "id": "rss-25887781fa1ad9b98d",
       "revision": 1,
       "category": "eco",
@@ -268,34 +296,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1620ca18135aa8bf8b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
-      "bullets": [
-        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
-        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
-        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
-      ],
-      "publishedAt": "2026-11-06T11:40:34+00:00",
-      "updatedAt": "2026-11-06T11:40:34+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
-      "context": null
-    },
-    {
       "id": "rss-6034969cf97f209ed4",
       "revision": 1,
       "category": "eco",
@@ -331,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T22:49:05+00:00",
-      "updatedAt": "2026-11-08T22:49:05+00:00",
+      "publishedAt": "2026-11-08T23:40:24+00:00",
+      "updatedAt": "2026-11-08T23:40:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -482,30 +482,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3a4998a1e82c39038d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le parti d’extrême droite allemand AfD ambitionne d’organiser un sommet entre l’Allemagne, la Russie et les Etats-Unis, mais sans l’Ukraine",
-      "bullets": [
-        "Alors que le pays est le premier contributeur de l’aide à Kiev, l’AfD, en tête des intentions de vote à l’échelle nationale, défend une reprise immédiate des relations avec Moscou, notamment économiques, et une levée sans condition des sanctions qui visent la Russie."
-      ],
-      "publishedAt": "2026-11-08T07:00:13+00:00",
-      "updatedAt": "2026-11-08T07:00:13+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/le-parti-d-extreme-droite-allemand-afd-ambitionne-d-organiser-un-sommet-entre-l-allemagne-la-russie-et-les-etats-unis-mais-sans-l-ukraine_6808410_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "431344ccc16345ce55ba0040d56e61369de98e187725832f5ec6caf114b571d5",
       "detailLevel": "preview"
     },
     {
@@ -733,7 +709,7 @@
       ],
       "publishedAt": "2026-11-08T11:18:49+00:00",
       "updatedAt": "2026-11-08T11:18:49+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -769,6 +745,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ac752828e4cb6c5453",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Qui est Gadi Eisenkot, le possible successeur de Benyamin Nétanyahou ?",
+      "bullets": [
+        "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
+      ],
+      "publishedAt": "2026-11-08T17:41:04+00:00",
+      "updatedAt": "2026-11-08T17:41:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "dd64ead8fd7ab12d80bc5bc9263f4654e998d35807bacdb9c0b0e22a6f8f51e4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T23:46:33.222822+00:00",
+      "context": null
     },
     {
       "id": "rss-520b6b03b4add49ae7",
@@ -915,7 +919,7 @@
       ],
       "publishedAt": "2026-11-08T11:15:31+00:00",
       "updatedAt": "2026-11-08T11:15:31+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -939,8 +943,8 @@
       "bullets": [
         "Avec ses 21 millions d’abonnés, son catalogue de 25 000 heures et son implantation internationale, le service de streaming américain qui séduit les fans de mangas et de pop culture cherche désormais à étendre son influence auprès du grand public."
       ],
-      "publishedAt": "2026-11-08T17:00:04+00:00",
-      "updatedAt": "2026-11-08T17:00:04+00:00",
+      "publishedAt": "2026-11-08T17:00:00+00:00",
+      "updatedAt": "2026-11-08T17:00:00+00:00",
       "importance": 59,
       "sources": [
         {
