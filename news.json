@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T05:58:19.890844+00:00",
+  "preparedAt": "2026-11-08T07:16:30.282299+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -30,7 +30,7 @@
       "provenance": "article-extract",
       "summaryInput": "5f2bb4ef6f62ed8e88a6c699abad3c15f3842643a62557e7018f67727d722ba5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T18:56:49.246883+00:00",
+      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
       "context": null
     },
     {
@@ -58,7 +58,7 @@
       "provenance": "article-extract",
       "summaryInput": "a60fa634877ee4a251aed06557fe0768eaae66f6711254eceb75559c3dbc4377",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T18:56:49.246883+00:00",
+      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
       "context": null
     },
     {
@@ -97,7 +97,7 @@
       ],
       "publishedAt": "2026-11-06T18:10:39+00:00",
       "updatedAt": "2026-11-06T18:10:39+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -324,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T05:57:54+00:00",
-      "updatedAt": "2026-11-08T05:57:54+00:00",
+      "publishedAt": "2026-11-08T07:12:38+00:00",
+      "updatedAt": "2026-11-08T07:12:38+00:00",
       "importance": 69,
       "sources": [
         {
@@ -354,7 +354,7 @@
       ],
       "publishedAt": "2026-11-07T06:00:00+00:00",
       "updatedAt": "2026-11-07T06:00:00+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -394,7 +394,7 @@
       "provenance": "article-extract",
       "summaryInput": "644a84b93b4ec60ec21019253a992dcb77b983714c2c940b71df2842c9fe73ae",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T18:56:49.246883+00:00",
+      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
       "context": null
     },
     {
@@ -478,7 +478,7 @@
       "provenance": "article-extract",
       "summaryInput": "d925cebd294e40778a375a3d299796b4ce0103018b334c45ab272259717d5118",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-07T18:56:49.246883+00:00",
+      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -507,32 +507,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-351690910d4e7e8a17",
-      "revision": 2,
+      "id": "rss-3a4998a1e82c39038d",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Après une crise bancaire majeure, le Paraguay destitue son président, Santiago Peña, et investit son vice-président, Pedro Alliana",
+      "title": "Le parti d’extrême droite allemand AfD ambitionne d’organiser un sommet entre l’Allemagne, la Russie et les Etats-Unis, mais sans l’Ukraine",
       "bullets": [
-        "Le Paraguay a investi, vendredi 6 novembre, un nouveau président, Pedro Alliana, après la destitution le jour même de son prédécesseur, Santiago Peña, pour sa responsabilité dans une crise bancaire majeure.",
-        "La crise bancaire, qui a rapidement viré à la crise politique profonde, a éclaté mardi avec la mise sous tutelle pour insolvabilité d'Ueno par la Banque centrale (BCP).",
-        "Pedro Alliana, 52 ans, issu du même Parti Colorado (conservateur) que Santiago Peña, avait lui aussi été mis en cause dans la crise bancaire, mais le Parlement n'avait pas approuvé de procès en destitution."
+        "Alors que le pays est le premier contributeur de l’aide à Kiev, l’AfD, en tête des intentions de vote à l’échelle nationale, défend une reprise immédiate des relations avec Moscou, notamment économiques, et une levée sans condition des sanctions qui visent la Russie."
       ],
-      "publishedAt": "2026-11-07T09:39:11+00:00",
-      "updatedAt": "2026-11-07T09:39:11+00:00",
-      "importance": 88,
+      "publishedAt": "2026-11-08T07:00:13+00:00",
+      "updatedAt": "2026-11-08T07:00:13+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/ameriques/apres-une-crise-bancaire-majeure-le-paraguay-a-destitue-son-president-pour-en-reinvestir-un-autre_8272058.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/le-parti-d-extreme-droite-allemand-afd-ambitionne-d-organiser-un-sommet-entre-l-allemagne-la-russie-et-les-etats-unis-mais-sans-l-ukraine_6808410_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "5f27269a719a6dd652b73bcbe0ea20b15d643a55ca1a4ecdac9c22c99d4239cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T22:48:42.808036+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "431344ccc16345ce55ba0040d56e61369de98e187725832f5ec6caf114b571d5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-30e7df5bbe99228735",
@@ -560,34 +556,6 @@
       "summaryInput": "ec90a5718673da62ffcc282a741e9fc1769c5a859953565aab6418a9d6165d7a",
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T03:00:18.417004+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-507b68f9f3dc989231",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les Etats-Unis promettent d'offrir 20 millions de dollars pour toute information sur le programme nucléaire iranien",
-      "bullets": [
-        "L'armée américaine a annoncé, vendredi 7 novembre, qu'elle offrait une récompense de 20 millions de dollars \"et un possible déménagement\" à toute personne lui apportant des informations sur le programme nucléaire iranien.",
-        "Ces informations peuvent concerner \"ses installations, ses équipements et le personnel associé\", a détaillé sur X le commandement militaire américain pour le Moyen-Orient (Centcom).",
-        "Depuis le début de la guerre en Iran, lancée par des frappes américano-israéliennes en février, Donald Trump a à de multiples reprises martelé qu'il ne voulait \"pas laisser l'Iran avoir l'arme nucléaire\"."
-      ],
-      "publishedAt": "2026-11-07T09:22:55+00:00",
-      "updatedAt": "2026-11-07T09:22:55+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-promettent-d-offrir-20-millions-de-dollars-pour-toute-information-sur-le-programme-nucleaire-iranien_8272073.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "2c7c2e69e2b81e210fc9ac755dff7fa3262c18c7759f124adfbb47f61c0e502b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T22:48:42.808036+00:00",
       "context": null
     },
     {
@@ -665,30 +633,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T03:00:18.417004+00:00",
       "context": null
-    },
-    {
-      "id": "rss-ecd391bd55ae15346b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Midterms 2026 : le Pakistan s’inquiète du revers essuyé par Donald Trump, allié du maréchal Munir",
-      "bullets": [
-        "Alors que plusieurs accords ont été conclus entre le Pakistan et les Etats-Unis autour des minerais, des cryptomonnaies, des drones et du gaz, la relation entre les deux pays, fondée sur l’entente personnelle entre le locataire de la Maison Blanche et l’homme fort d’Islamabad, pourrait pâtir de la victoire des…"
-      ],
-      "publishedAt": "2026-11-07T12:30:01+00:00",
-      "updatedAt": "2026-11-07T12:30:01+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-le-pakistan-s-inquiete-du-revers-essuye-par-donald-trump-allie-du-marechal-munir_6808272_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d1d2c5fd851222500d9466b49a490b27f1f94ada31dadc560e7c731de4df2542",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-7da7836e5f5a263918",
@@ -792,6 +736,57 @@
       "summaryInput": "3979b5cfdb4dc6ec87ffe4c092d82ae07c9b6614ad12abadcec14f371a906372",
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T05:58:19.890844+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-dddb68c09bf2c623cd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
+      "bullets": [
+        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
+      ],
+      "publishedAt": "2026-11-07T16:48:34+00:00",
+      "updatedAt": "2026-11-07T16:48:34+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ea96e88c04ac5d8d66",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales",
+      "bullets": [
+        "Le président ukrainien a par ailleurs affirmé samedi que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors des frappes massives contre les infrastructures énergétiques ukrainiennes dans la nuit de vendredi à samedi.",
+        "\"Selon des informations préliminaires, sur l'une des infrastructures énergétiques clés ayant subi des dommages, les Russes ont utilisé des missiles KN-23 fabriqués et livrés par la Corée du Nord\", a-t-il poursuivi."
+      ],
+      "publishedAt": "2026-11-07T14:44:52+00:00",
+      "updatedAt": "2026-11-07T14:44:52+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "edf6f77e75dfb665401531d62395e12d7a1220fdf1dbf57c0916b9c15e459504",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T07:16:30.282299+00:00",
       "context": null
     },
     {
@@ -1043,6 +1038,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4448e3f691a29f5756",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Un an après l’attaque à la voiture-bélier sur l’île d’Oléron : la vie meurtrie de Jacques, l’homme qui rêvait de reprendre la mer",
+      "bullets": [
+        "Le 5 novembre 2025, Jacques, 70 ans, était renversé par un individu qui a délibérément foncé sur des piétons et des cyclistes sur l’île d’Oléron, disant répondre à un «appel d’Allah».",
+        "Il accepte de témoigner pour la première fois, alors que Le Figaro Magazine a eu accès à des documents…"
+      ],
+      "publishedAt": "2026-11-08T06:00:00+00:00",
+      "updatedAt": "2026-11-08T06:00:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/faits-divers/un-an-apres-l-attaque-a-la-voiture-belier-sur-l-ile-d-oleron-la-vie-meurtrie-de-jacques-l-homme-qui-revait-de-reprendre-la-mer-20261108",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d2522557f1998494c8",
       "revision": 2,
       "category": "france",
@@ -1168,30 +1188,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3d3629363808250abb",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
-      "bullets": [
-        "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne."
-      ],
-      "publishedAt": "2026-11-05T17:30:24+00:00",
-      "updatedAt": "2026-11-05T17:30:24+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8c06c52e36b53aee8c3c9fbc4c48ba3071beae6735a9f3ef9ab24a52505b8eff",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1307,7 +1303,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
