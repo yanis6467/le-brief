@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T08:16:04.055851+00:00",
+  "preparedAt": "2026-11-08T09:07:54.901664+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -173,7 +173,7 @@
       ],
       "publishedAt": "2026-11-07T08:30:03+00:00",
       "updatedAt": "2026-11-07T08:30:03+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -324,9 +324,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T08:15:06+00:00",
-      "updatedAt": "2026-11-08T08:15:06+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-08T09:07:56+00:00",
+      "updatedAt": "2026-11-08T09:07:56+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -507,6 +507,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4260363f8c3140d700",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Iran, trois hommes soupçonnés d'avoir agi pour Israël et les Etats-Unis vont être exécutés",
+      "bullets": [
+        "La justice iranienne a annoncé, dimanche 8 novembre, l'exécution de trois hommes jugés coupables d'avoir agi pour le compte d'Israël et des États-Unis en janvier.",
+        "Selon l'agence, les trois hommes ont été reconnus coupables d'avoir participé à \"des activités opérationnelles pour le compte du régime israélien sioniste, des États-Unis et de groupes hostiles\" durant les manifestations initialement déclenchées fin décembre 2025 par la hausse du coût de la vie.",
+        "Le mouvement de contestation débuté en décembre 2025 s'était rapidement transformé en vastes manifestations antigouvernementales, qui ont culminé les 8 et 9 janvier."
+      ],
+      "publishedAt": "2026-11-08T08:23:52+00:00",
+      "updatedAt": "2026-11-08T08:23:52+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/en-iran-trois-hommes-soupconnes-d-avoir-agi-pour-israel-et-les-etats-unis-vont-etre-executes_8273084.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "8743ee5affbc357b2b147d0036a01a9a6f35dd68382cf915eef3002e55f8def6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T09:07:54.901664+00:00",
+      "context": null
+    },
+    {
       "id": "rss-3a4998a1e82c39038d",
       "revision": 1,
       "category": "world",
@@ -529,34 +557,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "431344ccc16345ce55ba0040d56e61369de98e187725832f5ec6caf114b571d5",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-30e7df5bbe99228735",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Iran, un homme a été exécuté en lien avec l'attaque meurtrière d'un poste de police",
-      "bullets": [
-        "Les autorités iraniennes ont exécuté, samedi 7 novembre, un homme condamné pour implication dans l'attaque meurtrière d'un poste de police de la ville de Khach, dans la province du Sistan-Baloutchistan.",
-        "\"La condamnation à mort de Mohammad Aref Shahbakhsh, un agent lié au groupe terroriste Jaïch al-Adl, a été mise à exécution ce matin, une fois les procédures judiciaires achevées\", a déclaré Mizan, l'agence du pouvoir judiciaire.",
-        "L'homme \"a été reconnu coupable de baghi [rébellion armée contre la République islamique] et de moharabeh [guerre contre Dieu]\", détaille Mizan."
-      ],
-      "publishedAt": "2026-11-07T13:31:04+00:00",
-      "updatedAt": "2026-11-07T13:31:04+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/en-iran-un-homme-a-ete-execute-en-lien-avec-l-attaque-d-un-poste-de-police_8272340.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "ec90a5718673da62ffcc282a741e9fc1769c5a859953565aab6418a9d6165d7a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T03:00:18.417004+00:00",
-      "context": null
     },
     {
       "id": "rss-b7203c5b9e66ad4163",
@@ -635,34 +635,6 @@
       "context": null
     },
     {
-      "id": "rss-7da7836e5f5a263918",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Russie poursuit la croissance de ses stocks de missiles malgré les sanctions internationales, selon le renseignement ukrainien",
-      "bullets": [
-        "Telles sont les conclusions du renseignement ukrainien (HUR), dans un rapport rendu public le 4 novembre, et publié sur Facebook.",
-        "L’industrie de défense russe aurait actuellement la capacité de fabriquer plus de 200 missiles par mois, dont jusqu’à 110 pour des balistiques.",
-        "Pour augmenter l’efficacité de l’utilisation contre des cibles au sol, les missiles, qui se déplacent à plus de 2.000 kilomètres par heure, ont reçu une ogive plus puissante et une portée de vol accrue."
-      ],
-      "publishedAt": "2026-11-05T20:49:57+00:00",
-      "updatedAt": "2026-11-05T20:49:57+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-russie-poursuit-la-croissance-de-ses-stocks-de-missiles-malgre-les-sanctions-internationales-selon-le-renseignement-ukrainien-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0d91440bc745ab01d9",
       "revision": 1,
       "category": "world",
@@ -684,6 +656,58 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "045a39aced90e5e28ba270ce817efe9240d3180fb4a3c19a9e9684bc2ee9ef7f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7da7836e5f5a263918",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie poursuit la croissance de ses stocks de missiles malgré les sanctions internationales, selon le renseignement ukrainien",
+      "bullets": [
+        "Telles sont les conclusions du renseignement ukrainien (HUR), dans un rapport rendu public le 4 novembre, et publié sur Facebook.",
+        "L’industrie de défense russe aurait actuellement la capacité de fabriquer plus de 200 missiles par mois, dont jusqu’à 110 pour des balistiques.",
+        "Pour augmenter l’efficacité de l’utilisation contre des cibles au sol, les missiles, qui se déplacent à plus de 2.000 kilomètres par heure, ont reçu une ogive plus puissante et une portée de vol accrue."
+      ],
+      "publishedAt": "2026-11-05T20:49:57+00:00",
+      "updatedAt": "2026-11-05T20:49:57+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-russie-poursuit-la-croissance-de-ses-stocks-de-missiles-malgre-les-sanctions-internationales-selon-le-renseignement-ukrainien-20261105",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-07T23:46:25.874347+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f5c71c1c4d9c1e1356",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
+      "bullets": [
+        "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
+      ],
+      "publishedAt": "2026-11-08T08:38:49+00:00",
+      "updatedAt": "2026-11-08T08:38:49+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
       "detailLevel": "preview"
     },
     {
@@ -765,30 +789,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T05:58:19.890844+00:00",
       "context": null
-    },
-    {
-      "id": "rss-dddb68c09bf2c623cd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
-      "bullets": [
-        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
-      ],
-      "publishedAt": "2026-11-07T16:48:34+00:00",
-      "updatedAt": "2026-11-07T16:48:34+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-9052a70037654f5e80",
@@ -1052,8 +1052,8 @@
         "Le 5 novembre 2025, Jacques, 70 ans, était renversé par un individu qui a délibérément foncé sur des piétons et des cyclistes sur l’île d’Oléron, disant répondre à un «appel d’Allah».",
         "Il accepte de témoigner pour la première fois, alors que Le Figaro Magazine a eu accès à des documents…"
       ],
-      "publishedAt": "2026-11-08T08:02:10+00:00",
-      "updatedAt": "2026-11-08T08:02:10+00:00",
+      "publishedAt": "2026-11-08T08:35:14+00:00",
+      "updatedAt": "2026-11-08T08:35:14+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1171,27 +1171,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-742deae823ddcb1b44",
+      "id": "rss-3d955f18769a2fb6e0",
       "revision": 1,
       "category": "france",
-      "topic": "France",
-      "title": "«Je veux servir mon pays» : l’avocat Thibault de Montbrial se livre comme jamais sur sa volonté farouche d’entrer en politique",
+      "topic": "Société",
+      "title": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
       "bullets": [
-        "EXCLUSIF - Dans un texte très personnel écrit sous haute tension, à la fois manifeste et programme, le médiatique avocat pénaliste exprime ses convictions et son envie de peser d’une manière ou d’une autre dans les élections à venir."
+        "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le gouvernement."
       ],
-      "publishedAt": "2026-11-07T10:00:00+00:00",
-      "updatedAt": "2026-11-07T10:00:00+00:00",
+      "publishedAt": "2026-11-07T17:07:26+00:00",
+      "updatedAt": "2026-11-07T17:07:26+00:00",
       "importance": 64,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/je-veux-servir-mon-pays-l-avocat-thibault-de-montbrial-se-livre-comme-jamais-sur-sa-volonte-farouche-d-entrer-en-politique-20261107",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
+      "summaryInput": "4c05d2f569357e7cfdd151ce9ad2999a92d11678bb1789f068df71fc70db7dbd",
       "detailLevel": "preview"
     }
   ],
