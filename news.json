@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T20:49:29.894973+00:00",
+  "preparedAt": "2026-11-08T21:48:12.808529+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -195,6 +195,34 @@
       "context": null
     },
     {
+      "id": "rss-bc89f7acf1c6c954ba",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "25 000 euros pour arrêter de conduire",
+      "bullets": [
+        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
+      ],
+      "publishedAt": "2026-11-08T12:00:02+00:00",
+      "updatedAt": "2026-11-08T12:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T21:48:12.808529+00:00",
+      "context": null
+    },
+    {
       "id": "rss-25887781fa1ad9b98d",
       "revision": 1,
       "category": "eco",
@@ -296,31 +324,6 @@
       "context": null
     },
     {
-      "id": "rss-6034969cf97f209ed4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
-      "bullets": [
-        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
-        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
-      ],
-      "publishedAt": "2026-11-08T04:00:31+00:00",
-      "updatedAt": "2026-11-08T04:00:31+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T20:47:06+00:00",
-      "updatedAt": "2026-11-08T20:47:06+00:00",
+      "publishedAt": "2026-11-08T21:40:09+00:00",
+      "updatedAt": "2026-11-08T21:40:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -695,6 +698,34 @@
       "context": null
     },
     {
+      "id": "rss-aba9d2591f93e279df",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "bullets": [
+        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
+        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
+        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+      ],
+      "publishedAt": "2026-11-08T14:09:54+00:00",
+      "updatedAt": "2026-11-08T14:09:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "context": null
+    },
+    {
       "id": "rss-dddb68c09bf2c623cd",
       "revision": 1,
       "category": "world",
@@ -747,52 +778,32 @@
       "context": null
     },
     {
-      "id": "rss-f5c71c1c4d9c1e1356",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
-      "bullets": [
-        "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
-      ],
-      "publishedAt": "2026-11-08T08:38:48+00:00",
-      "updatedAt": "2026-11-08T08:38:48+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f9a4d70d41d37bdfea",
+      "id": "rss-520b6b03b4add49ae7",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+      "title": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
       "bullets": [
-        "Accusé par ses adversaires de proximité avec le macronisme, le candidat social-démocrate a énuméré ses divergences avec Emmanuel Macron, de « l’individualisme triomphant » à la suppression de l’ISF."
+        "La pétition sur le site de l'Assemblée nationale appelant à \"supprimer CNews de l'audiovisuel français\" a recueilli plus d'un million de signatures, dans la soirée du dimanche 8 novembre.",
+        "Selon le règlement de l'Assemblée, un débat dans l'hémicycle peut être organisé sur un rapport relatif à une pétition lorsqu'elle dépasse les 500 000 signatures.",
+        "Jusqu'ici, la pétition contre la loi Duplomb était la seule à avoir dépassé le seuil du million de signatures."
       ],
-      "publishedAt": "2026-11-08T19:26:03+00:00",
-      "updatedAt": "2026-11-08T19:26:03+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-08T20:57:47+00:00",
+      "updatedAt": "2026-11-08T20:57:47+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bb06b0826220e42199ad5e2baceaa139c49d2abc742bf62cf1484fdcdc6ba186",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "02cfb5814266be61863db01ee4dd7f3284562b8e2555d863bc6a056cd19480ca",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T21:48:12.808529+00:00",
+      "context": null
     },
     {
       "id": "rss-9483d20b0a47b638c4",
@@ -859,7 +870,7 @@
       ],
       "publishedAt": "2026-11-08T09:00:02+00:00",
       "updatedAt": "2026-11-08T09:00:02+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -899,31 +910,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-aba9d2591f93e279df",
+      "id": "rss-d6a03012ae4c5c3e3e",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
       "bullets": [
-        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
-        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
-        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
       ],
-      "publishedAt": "2026-11-08T14:09:54+00:00",
-      "updatedAt": "2026-11-08T14:09:54+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-08T11:15:31+00:00",
+      "updatedAt": "2026-11-08T11:15:31+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "article-extract",
-      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
     },
     {
@@ -1049,81 +1060,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-921e12c25f986b1778",
-      "revision": 2,
+      "id": "rss-80ff08792cf90cadd6",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
+      "title": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
       "bullets": [
-        "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire.",
-        "Il estime qu’il serait aussi possible de faire « une succession de cinq débats et, à l’arrivée », de faire « un sondage » ou encore d’organiser un « conclave »."
+        "Crédité de 2 % à 3 % des intentions de vote, le patron du Parti communiste français « regrette » le choix de neuf députés de son groupe et assure que le chef de file de La France Insoumise « ne gagnera jamais »."
       ],
-      "publishedAt": "2026-11-08T14:36:51+00:00",
-      "updatedAt": "2026-11-08T14:36:51+00:00",
+      "publishedAt": "2026-11-08T21:00:53+00:00",
+      "updatedAt": "2026-11-08T21:00:53+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-laurent-wauquiez-appelle-la-droite-a-designer-un-candidat-unique-avant-noel_6808438_823448.html",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "465a338b5f787ea2563099d8ae6d2f43a3318559bb7c6bcfdb4b8d40b68e32bd",
+      "summaryInput": "98849a6fdc14c747d695f3dceb4cb2ddc8f3560fa37ed1e48edcd1bc8b9d1ce3",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-afb1617de0ae26cb5e",
+      "id": "rss-f9a4d70d41d37bdfea",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
       "bullets": [
-        "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
+        "Accusé par ses adversaires de proximité avec le macronisme, le candidat social-démocrate a énuméré ses divergences avec Emmanuel Macron, de « l’individualisme triomphant » à la suppression de l’ISF."
       ],
-      "publishedAt": "2026-11-08T13:59:33+00:00",
-      "updatedAt": "2026-11-08T13:59:33+00:00",
+      "publishedAt": "2026-11-08T19:26:03+00:00",
+      "updatedAt": "2026-11-08T19:26:03+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
-      "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
+      "summaryInput": "bb06b0826220e42199ad5e2baceaa139c49d2abc742bf62cf1484fdcdc6ba186",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d6a03012ae4c5c3e3e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
-      "bullets": [
-        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
-      ],
-      "publishedAt": "2026-11-08T11:15:31+00:00",
-      "updatedAt": "2026-11-08T11:15:31+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
-      "context": null
     },
     {
       "id": "rss-71d4e81969c0fb2fb6",
@@ -1173,6 +1155,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-67264a6b9ba2e3ae6a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
+      "bullets": [
+        "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement.",
+        "Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler."
+      ],
+      "publishedAt": "2026-11-08T13:39:05+00:00",
+      "updatedAt": "2026-11-08T13:39:05+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45e7980448d7f59c881b475b101ea4ed66f536e296185ef1cb474fc7eca8aa5b",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1186,7 +1193,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
