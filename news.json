@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-08",
-  "preparedAt": "2026-11-08T15:48:14.374292+00:00",
+  "preparedAt": "2026-11-08T16:50:36.516404+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -18,7 +18,7 @@
       ],
       "publishedAt": "2026-11-06T16:12:32+00:00",
       "updatedAt": "2026-11-06T16:12:32+00:00",
-      "importance": 90,
+      "importance": 89,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -46,7 +46,7 @@
       ],
       "publishedAt": "2026-11-06T16:43:50+00:00",
       "updatedAt": "2026-11-06T16:43:50+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -167,6 +167,34 @@
       "context": null
     },
     {
+      "id": "rss-bc89f7acf1c6c954ba",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "25 000 euros pour arrêter de conduire",
+      "bullets": [
+        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida"
+      ],
+      "publishedAt": "2026-11-08T12:00:02+00:00",
+      "updatedAt": "2026-11-08T12:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T16:50:36.516404+00:00",
+      "context": null
+    },
+    {
       "id": "rss-25887781fa1ad9b98d",
       "revision": 1,
       "category": "eco",
@@ -213,31 +241,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6034969cf97f209ed4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
-      "bullets": [
-        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
-        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
-      ],
-      "publishedAt": "2026-11-08T04:00:31+00:00",
-      "updatedAt": "2026-11-08T04:00:31+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
       "detailLevel": "preview"
     },
     {
@@ -328,9 +331,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-08T15:48:15+00:00",
-      "updatedAt": "2026-11-08T15:48:15+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-08T16:45:23+00:00",
+      "updatedAt": "2026-11-08T16:45:23+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -456,31 +459,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
-    },
-    {
-      "id": "rss-e6a5bd649518d92c43",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la guerre en Ukraine",
-      "bullets": [
-        "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev.",
-        "Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment par…"
-      ],
-      "publishedAt": "2026-11-08T05:00:00+00:00",
-      "updatedAt": "2026-11-08T05:00:00+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fe9e97c00c2273de549c954f578beeee507134c89527aea921311f71d0f09e9b",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-4260363f8c3140d700",
@@ -610,34 +588,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "0ef4315451cf62806b945d604daf6bf5fd0eb1003e47ace9b4f099b6ab5fc180",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7da7836e5f5a263918",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Russie poursuit la croissance de ses stocks de missiles malgré les sanctions internationales, selon le renseignement ukrainien",
-      "bullets": [
-        "Telles sont les conclusions du renseignement ukrainien (HUR), dans un rapport rendu public le 4 novembre, et publié sur Facebook.",
-        "L’industrie de défense russe aurait actuellement la capacité de fabriquer plus de 200 missiles par mois, dont jusqu’à 110 pour des balistiques.",
-        "Pour augmenter l’efficacité de l’utilisation contre des cibles au sol, les missiles, qui se déplacent à plus de 2.000 kilomètres par heure, ont reçu une ogive plus puissante et une portée de vol accrue."
-      ],
-      "publishedAt": "2026-11-05T20:49:57+00:00",
-      "updatedAt": "2026-11-05T20:49:57+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-russie-poursuit-la-croissance-de-ses-stocks-de-missiles-malgre-les-sanctions-internationales-selon-le-renseignement-ukrainien-20261105",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "d50e7a602de635c930869eec30181ae44b8427ee634e455da84baf70bda17726",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T11:50:30.188506+00:00",
-      "context": null
     },
     {
       "id": "rss-0d91440bc745ab01d9",
@@ -771,6 +721,58 @@
       "context": null
     },
     {
+      "id": "rss-f5c71c1c4d9c1e1356",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
+      "bullets": [
+        "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
+      ],
+      "publishedAt": "2026-11-08T08:38:48+00:00",
+      "updatedAt": "2026-11-08T08:38:48+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-873c5389de294b6851",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Kiev visée par 172 drones et 36 missiles",
+      "bullets": [
+        "Selon l'armée ukrainienne, 36 missiles balistiques et 172 drones russes ont visé le pays dans la nuit du vendredi 6 au samedi 7 novembre, touchant également les réseaux de transport et de distribution.",
+        "Selon lui, elles visent à perturber la rencontre entre Kiev, Moscou et Washington, prévue à Abou Dabi (Émirats arabes unis) la semaine prochaine.",
+        "Les pourparlers auront lieu les mardi 10 et mercredi 11 novembre, avec pour objectif de relancer les négociations vers une fin du conflit qui dure depuis plus de quatre ans et demi."
+      ],
+      "publishedAt": "2026-11-08T07:16:14+00:00",
+      "updatedAt": "2026-11-08T07:16:14+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "0d0d6337aae309e1c87ba03b80a70eddeef9939073f91ce17c193411bd3c24c5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T16:50:36.516404+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9052a70037654f5e80",
       "revision": 1,
       "category": "france",
@@ -885,7 +887,7 @@
       ],
       "publishedAt": "2026-11-06T16:15:09+00:00",
       "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -960,7 +962,7 @@
       ],
       "publishedAt": "2026-11-07T16:30:10+00:00",
       "updatedAt": "2026-11-07T16:30:10+00:00",
-      "importance": 46,
+      "importance": 45,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1048,34 +1050,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d2522557f1998494c8",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
-      "bullets": [
-        "Le parquet de Paris a ouvert une enquête sur les fausses alertes à la bombe ayant visé des avions survolant le territoire français, notamment pour rechercher un lien éventuel des auteurs avec des \"puissances étrangères\", a-t-il annoncé samedi 7 novembre.",
-        "Jeudi, un avion d'Aer Lingus avait été dérouté à Evreux après une alerte à la bombe.",
-        "Cette série de fausses alertes a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
-      ],
-      "publishedAt": "2026-11-07T16:17:43+00:00",
-      "updatedAt": "2026-11-07T16:17:43+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "article-extract",
-      "summaryInput": "fdd65279e182c62b11ebbc7f480a6bfcb79be10dc904f3afe8383c9a5ebcc98e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T04:03:33.898555+00:00",
-      "context": null
-    },
-    {
       "id": "rss-921e12c25f986b1778",
       "revision": 2,
       "category": "france",
@@ -1104,7 +1078,7 @@
       "id": "rss-afb1617de0ae26cb5e",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
       "bullets": [
         "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
@@ -1122,31 +1096,6 @@
       "verifiedAt": "2026-11-08",
       "provenance": "rss-excerpt",
       "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f8a6b1745ca30147e9",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
-      "bullets": [
-        "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février.",
-        "Le candidat Renaissance juge, lui, que la…"
-      ],
-      "publishedAt": "2026-11-08T13:48:04+00:00",
-      "updatedAt": "2026-11-08T13:48:04+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-08",
-      "provenance": "rss-excerpt",
-      "summaryInput": "028b7e7d71225491d89451a49d0caa644ce16eb998dd377d795c24fc0ab7de95",
       "detailLevel": "preview"
     },
     {
@@ -1176,6 +1125,58 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
+    },
+    {
+      "id": "rss-d2522557f1998494c8",
+      "revision": 2,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
+      "bullets": [
+        "Le parquet de Paris a ouvert une enquête sur les fausses alertes à la bombe ayant visé des avions survolant le territoire français, notamment pour rechercher un lien éventuel des auteurs avec des \"puissances étrangères\", a-t-il annoncé samedi 7 novembre.",
+        "Jeudi, un avion d'Aer Lingus avait été dérouté à Evreux après une alerte à la bombe.",
+        "Cette série de fausses alertes a pour conséquence de mobiliser les services de sécurité et de semer la peur à moindre coût, soulignent les experts."
+      ],
+      "publishedAt": "2026-11-07T16:17:43+00:00",
+      "updatedAt": "2026-11-07T16:17:43+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "article-extract",
+      "summaryInput": "fdd65279e182c62b11ebbc7f480a6bfcb79be10dc904f3afe8383c9a5ebcc98e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T16:50:36.516404+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-742deae823ddcb1b44",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "«Je veux servir mon pays» : l’avocat Thibault de Montbrial se livre comme jamais sur sa volonté farouche d’entrer en politique",
+      "bullets": [
+        "EXCLUSIF - Dans un texte très personnel écrit sous haute tension, à la fois manifeste et programme, le médiatique avocat pénaliste exprime ses convictions et son envie de peser d’une manière ou d’une autre dans les élections à venir."
+      ],
+      "publishedAt": "2026-11-07T10:00:00+00:00",
+      "updatedAt": "2026-11-07T10:00:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/je-veux-servir-mon-pays-l-avocat-thibault-de-montbrial-se-livre-comme-jamais-sur-sa-volonte-farouche-d-entrer-en-politique-20261107",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-08",
+      "provenance": "rss-excerpt",
+      "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1213,13 +1214,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1255,7 +1256,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
