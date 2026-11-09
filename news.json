@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T12:07:21.113478+00:00",
+  "preparedAt": "2026-11-09T13:27:30.184355+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -55,32 +55,164 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-342d832dca64b84b9f",
+      "id": "rss-dc6563eacfeb9582c3",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Conférence sociale : \"Les Français au smic ne vont pas se satisfaire d'une hausse de 10 ou 15 euros\", estime Sébastien Chenu",
+      "title": "Sébastien Chenu dénonce le programme non chiffré de LFI",
       "bullets": [
-        "\"Les Français au smic ne vont pas se satisfaire d'une hausse de 10 ou 15 euros\", estime lundi 9 novembre sur franceinfo Sébastien Chenu, président du groupe Rassemblement national (RN) à l'Assemblée nationale, alors que le gouvernement réfléchit à une revalorisation anticipée du salaire minimum.",
-        "Pour le président du groupe RN à l'Assemblée, \"il faut des réponses pour les travailleurs au smic et pour les travailleurs qui gagnent jusqu'à trois fois le smic\", soit près de 4 500 euros nets par mois.",
-        "\"Il faut embarquer un maximum de Français\", dit-il."
+        "Sébastien Chenu, vice-président RN de l'Assemblée nationale dénonce le \"deux poids, deux mesures\", entre le contre-programme économique du RN et celui de LFI, pour l'instant non chiffré.",
+        "Collecte de la Banque alimentaire : le nombre de bénéficiaires augmente partout en France",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque"
       ],
-      "publishedAt": "2026-11-09T08:23:03+00:00",
-      "updatedAt": "2026-11-09T08:23:03+00:00",
+      "publishedAt": "2026-11-09T12:30:02+00:00",
+      "updatedAt": "2026-11-09T12:30:02+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-les-francais-au-smic-ne-vont-pas-se-satisfaire-d-une-hausse-de-10-ou-15-euros-estime-sebastien-chenu_8274188.html",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/sebastien-chenu-denonce-le-programme-non-chiffre-de-lfi_8274515.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "article-extract",
-      "summaryInput": "8537f3089c29cb509cbd342bc199a398e2a4c22ab3644105976105eda225ab30",
+      "summaryInput": "68944d58a82884e4939ef01fa328000d1fec109c1641b9dd034731683cbf627b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
       "context": null
+    },
+    {
+      "id": "rss-4a5c79327fb3ebf91c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du smic : \"On apporte une mauvaise réponse à un vrai problème\", réagit le président du Medef Patrick Martin",
+      "bullets": [
+        "\"On apporte une mauvaise réponse à un vrai problème\", réagit sur franceinfo, lundi 9 novembre, Patrick Martin, président du Medef, après l'annonce de la hausse du smic de 1,6% en décembre.",
+        "Patrick Martin rappelle qu'il y a eu trois augmentations du smic en 2026 et que \"plus personne ne parle d'emploi, d'investissement et de croissance\", ce qu'il estime être \"la vraie réponse\" à apporter à la perte de pouvoir d'achat des Français."
+      ],
+      "publishedAt": "2026-11-09T13:02:27+00:00",
+      "updatedAt": "2026-11-09T13:02:27+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/hausse-du-smic-on-apporte-une-mauvaise-reponse-a-un-vrai-probleme-reagit-le-president-du-medef-patrick-martin_8274548.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "c6681ca657095ccb88995b90055ba1bb17d8dfa7828456db31ce3f29cec99142",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8705c6c3e8bec35bb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du Smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement à l’issue de la conférence sociale",
+      "bullets": [
+        "Une hausse du Smic de 1,6% au 1er décembre Le ministre du Travail Jean-Pierre Farandou a annoncé une hausse anticipée du smic, à laquelle s’ajoute un «coup de pouce».",
+        "LIRE AUSSI - Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums Le plafond de la prime carburant à 1000 euros prolongé en 2027 En dehors de la revalorisation du smic, le gouvernement a annoncé d’autres mesures de pouvoir d’achat.",
+        "Le gouvernement avait annoncé fin septembre relever le plafond de cette aide de 600 à 1000 euros."
+      ],
+      "publishedAt": "2026-11-09T12:31:01+00:00",
+      "updatedAt": "2026-11-09T12:31:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-prime-carburant-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale-20261109",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "3e839863448a839a52222adcd46a853336cb17e666eca32fa9b9066538ccf631",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-61cc302b9b8918a1c8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Stéphane Carcillo et Gilbert Cette, économistes : « Le coup de pouce au smic est une mauvaise nouvelle pour l’emploi et la lutte contre la pauvreté »",
+      "bullets": [
+        "Alors que le gouvernement a décidé de revaloriser le salaire minimum de 1,6 %, les deux économistes Stéphane Carcillo et Gilbert Cette expliquent, dans une tribune au « Monde », pourquoi ils sont opposés à une telle mesure et disent redouter une « smicardisation » de la société."
+      ],
+      "publishedAt": "2026-11-09T12:30:04+00:00",
+      "updatedAt": "2026-11-09T12:30:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/stephane-carcillo-et-gilbert-cette-le-coup-de-pouce-au-smic-est-une-mauvaise-nouvelle-pour-l-emploi-et-la-lutte-contre-la-pauvrete_6808650_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1d11609bc3057398fae49e83afb6b046b52a3749547eb30fc710fb966ec024f2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-55eb85622458e5b791",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le gouvernement annonce une revalorisation du smic de 1,6% pour le porter à 1502 euros dès le 1er décembre",
+      "bullets": [
+        "À l’issue d’une «conférence sociale», le gouvernement a annoncé ce lundi 9 novembre une augmentation du salaire minimum de 1,6 % au 1er décembre.",
+        "«Il n’y a pas que le smic dans la vie» Le salaire minimum a déjà été augmenté en juin dernier de 2,41% (+35 euros net par mois) pour suivre l’inflation repartie à la hausse en raison de la guerre au Moyen-Orient.",
+        "Dans un contexte d’accélération de la hausse des prix (+3,4% sur un an en octobre), le gouvernement n’a pas attendu les chiffres d’inflation de novembre pour décider d’une revalorisation."
+      ],
+      "publishedAt": "2026-11-09T12:17:46+00:00",
+      "updatedAt": "2026-11-09T12:17:46+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/le-gouvernement-annonce-une-revalorisation-du-smic-de-1-6-pour-le-porter-a-1502-euros-des-le-1er-decembre-20261109",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "07e8e9dbdd2e737dded69d5d795796f89bdabe1f586b7a7e54cceba2f54e7be0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1f2f546a828c6c3c95",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Un bond de 31% en dix ans : l’inexorable envolée du smic, ou le risque de smicardisation de la France",
+      "bullets": [
+        "Face à la colère sociale, le gouvernement vient d’annoncer une revalorisation anticipée du salaire minimum de 1,6% au 1er décembre.",
+        "Ce dernier a augmenté nettement plus vite que le salaire médian au cours de la dernière décennie."
+      ],
+      "publishedAt": "2026-11-09T12:17:39+00:00",
+      "updatedAt": "2026-11-09T12:17:39+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/un-bond-de-29-en-dix-ans-l-inexorable-envolee-du-smic-ou-le-risque-de-smicardisation-de-la-france-20261027",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fde96835134d3de82acde942e335c1018ab2dfd908fd2fdabe89e8f0a75bf69c",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-09965c33351c99c9cf",
@@ -91,8 +223,8 @@
       "bullets": [
         "Réduire les déficits est indispensable. Encore faut-il préserver les dépenses qui préparent la prospérité de demain. Mais, à ce jour, la question de la création de richesse reste la grande absente des débats en vue de l’élection présidentielle, déplore Stéphane Lauer, éditorialiste au « Monde », dans sa chronique."
       ],
-      "publishedAt": "2026-11-09T12:00:06+00:00",
-      "updatedAt": "2026-11-09T12:00:06+00:00",
+      "publishedAt": "2026-11-09T12:00:02+00:00",
+      "updatedAt": "2026-11-09T12:00:02+00:00",
       "importance": 65,
       "sources": [
         {
@@ -104,6 +236,30 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "517f00bc2111265522b579e2178e139f7fd310527bb6dc585c308bcb3108e350",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0c5ec4519375ef57da",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "C’est «la plus grande rupture technologique de tous les Temps» mais les candidats à la présidentielle ne s’y intéressent pas : le coup de gueule des patrons de la tech",
+      "bullets": [
+        "TÉMOIGNAGES - Les dirigeants de la tech française attendent de pied ferme les candidats à la présidentielle auxquels ils reprochent de ne pas se saisir du sujet de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-09T11:38:01+00:00",
+      "updatedAt": "2026-11-09T11:38:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/vie-professionnelle/c-est-la-plus-grande-rupture-technologique-de-tous-les-temps-mais-les-candidats-a-la-presidentielle-ne-s-y-interessent-pas-le-coup-de-gueule-des-patrons-de-la-tech-20261109",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fe4d7ebc4f64d07a1fb8d04355d5634be47d48799c5035ddcff20e087f083015",
       "detailLevel": "preview"
     },
     {
@@ -135,34 +291,6 @@
       "context": null
     },
     {
-      "id": "rss-1775c9257583750bc5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du smic : \"La conférence sociale, ce n'est pas une opération Pièces Jaunes\", lance Sophie Binet",
-      "bullets": [
-        "Donc, si le gouvernement nous annonce tout à l'heure une hausse de 23 euros, cela veut dire cinq euros\" [d'aide du gouvernement], assure la secrétaire générale de la CGT, qui dénonce \"un scandale\", rappelant que c'est l'équivalent \"d'un kilo de tomates\".",
-        "La CGT demande une hausse du Smic de 150 euros nets par mois.",
-        "\"Tous nos voisins qui ont augmenté le Smic, cela a eu un bénéfice positif sur l'économie, ça a créé des emplois, ça a dopé la croissance\", assure Sophie Binet."
-      ],
-      "publishedAt": "2026-11-09T07:36:57+00:00",
-      "updatedAt": "2026-11-09T07:36:57+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/hausse-du-smic-la-conference-sociale-ce-n-est-pas-une-operation-pieces-jaunes-lance-sophie-binet_8274131.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "3c48992ca74f158a6811a00a82e9da7faf868e216c5b83641146f23735de3630",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d985d41a0f969f7aa5",
       "revision": 1,
       "category": "eco",
@@ -188,132 +316,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bb3586a36bb655012d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "De nombreux commerces parisiens pourront ouvrir le dimanche après les pillages du 17 octobre",
-      "bullets": [
-        "La préfecture de la région Île-de-France a appliqué ces consignes en les détaillant dans un communiqué.",
-        "« À Paris, des arrêtés préfectoraux viennent compléter les mesures économiques annoncées fin octobre, en autorisant l’ouverture des commerces parisiens le dimanche, dans les arrondissements concernés », peut-on y lire.",
-        "Les établissements concernés « pourront ouvrir exceptionnellement pendant trois dimanches consécutifs, à compter du 8 novembre », soit jusqu’au dimanche 22 novembre inclus, un dispositif qui pourrait être « complété » et élargi aux « nouvelles branches qui en feront la demande », ajoute la préfecture."
-      ],
-      "publishedAt": "2026-11-08T14:52:16+00:00",
-      "updatedAt": "2026-11-08T14:52:16+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/de-nombreux-commerces-parisiens-pourront-ouvrir-le-dimanche-apres-les-pillages-du-17-octobre-20261108",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "91334deea728d0bd6ae0a4503d79394a4f288e25c91d928177813f12bcdd8412",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6034969cf97f209ed4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
-      "bullets": [
-        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
-        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
-      ],
-      "publishedAt": "2026-11-08T04:00:31+00:00",
-      "updatedAt": "2026-11-08T04:00:31+00:00",
-      "importance": 61,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9c9b263694d99a2791",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "À la recherche de 250 millions de dollars pour réparer le sarcophage de Tchernobyl, percé par un drone russe",
-      "bullets": [
-        "DÉCRYPTAGE - Une conférence de pays donateurs est organisée ce lundi à Paris pour réunir des fonds pour financer un chantier urgent, d’un montant total de 500 millions d’euros, sur le réacteur ukrainien accidenté en 1986."
-      ],
-      "publishedAt": "2026-11-09T07:42:40+00:00",
-      "updatedAt": "2026-11-09T07:42:40+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/a-la-recherche-de-250-millions-de-dollars-pour-reparer-le-sarcophage-de-tchernobyl-perce-par-un-drone-russe-20261108",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "547fc3cd42e48673bbe2a290fafda6552c03868a60c3235b5d2117eebbd67388",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-96f7c2caed02ac0f39",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Jensen Huang, le dirigeant de Nvidia, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
-      "bullets": [
-        "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine.",
-        "La firme a lancé une enquête interne."
-      ],
-      "publishedAt": "2026-11-09T02:21:07+00:00",
-      "updatedAt": "2026-11-09T02:21:07+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "74b6cc05f5bbcb76aa610ccf74f0a1dba0719348c52ae25b1db963ffb377afd8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-214961c1f54307695b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La contestation contre les data centers monte en Europe",
-      "bullets": [
-        "A l’appel d’une coalition d’associations environnementales, des dizaines de manifestations se sont tenues dans une quinzaine de pays européens, vendredi et samedi, pour réclamer un moratoire sur la construction de centres de données."
-      ],
-      "publishedAt": "2026-11-08T16:00:08+00:00",
-      "updatedAt": "2026-11-08T16:00:08+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8d76de82e1be4c2fc456e11ba008c1ee092f5e41e5c698da61ba46b5b5be3165",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -324,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T11:58:29+00:00",
-      "updatedAt": "2026-11-09T11:58:29+00:00",
+      "publishedAt": "2026-11-09T13:25:27+00:00",
+      "updatedAt": "2026-11-09T13:25:27+00:00",
       "importance": 69,
       "sources": [
         {
@@ -339,6 +341,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-dac7254c6c62125f3f",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Alors qu'une affaire de mœurs (et d'espionnage) plombe Nvidia à Wall Street, le CAC 40 avance tranquillement, aidé par le repli du pétrole",
+      "bullets": [
+        "L'indice phare de la Bourse de Paris prend 0,8% en début d'après-midi.",
+        "Du côté des valeurs françaises, Airbus prend 3,1% après avoir annoncé le lancement de son programme de rachats d'actions, avec une première tranche de 800 millions d'euros réalisée entre le 9 novembre et le 23 décembre.",
+        "Crédit Agricole SA abandonne 0,5% alors que le groupe bancaire a annoncé avoir proposé de fusionner sa filiale italienne avec Banco BPM, troisième banque d'Italie, en échange d'une montée à son capital à 45% contre 29,6% précédemment."
+      ],
+      "publishedAt": "2026-11-09T12:33:14+00:00",
+      "updatedAt": "2026-11-09T12:33:14+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-qu-une-affaire-de-moeurs-et-d-espionnage-plombe-nvidia-a-wall-street-le-cac-40-avance-tranquillement-aide-par-le-repli-du-petrole-1173416.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "51db047b67b99881ef00ce1e2f7ab9000a6a426d7ef53788cc68887b304ec300",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
       "context": null
     },
     {
@@ -394,58 +424,6 @@
       "context": null
     },
     {
-      "id": "rss-89a834687a7655584f",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.39%",
-      "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-039-1173384.html"
-      ],
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "updatedAt": "2026-11-09T08:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-039-1173384.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "381e676f0b20895fa7509282fa4dfdd43ac3f82b51fbd657c27332a52c00ca04",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5a8042ce4fa328ece6",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "BONDUELLE : Les Américains boudent ses salades à cause d'un parasite, les Européens plébiscitent ses conserves... Bonduelle résiste et grimpe en Bourse",
-      "bullets": [
-        "Entre juillet et fin septembre, période correspondant au premier trimestre pour Bonduelle, le groupe a réalisé un chiffre d’affaires de 524,8 millions d’euros, en hausse de 1% en données publiées et de 0,5% à données comparables.",
-        "Allinvest Securities remarque que ce début d’exercice s’inscrit dans la continuité de l’exercice 2025-2026, qui s’était achevé sur une croissance de 0,4% à données comparables, mais bénéficie du retour d’un effet de change favorable.",
-        "Par segment, le trimestre se caractérise par une croissance soutenue de l’activité des conserves, en hausse de 9,8% à données comparables."
-      ],
-      "publishedAt": "2026-11-06T12:35:54+00:00",
-      "updatedAt": "2026-11-06T12:35:54+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/bonduelle-FR0000063935/actualites/bonduelle-les-americains-boudent-ses-salades-a-cause-d-un-parasite-les-europeens-plebiscitent-ses-conserves-bonduelle-resiste-et-grimpe-en-bourse-1173335.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "c97fd56f3e1933033eb184d7f7c46f1c4dbfdf792cced22edc7c46c54177b755",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ccfed5c14848b876ac",
       "revision": 1,
       "category": "world",
@@ -472,6 +450,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
       "context": null
+    },
+    {
+      "id": "rss-e1ede780e9093abbe7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Midterms 2026 : « Le réalignement des Hispaniques sur le Parti démocrate n’est pas acquis pour la présidentielle de 2028 »",
+      "bullets": [
+        "Après les jeunes, les Hispaniques constituent le second segment de population qui a le plus basculé en faveur des démocrates lors des élections de mi-mandat aux Etats-Unis, explique, dans une tribune au « Monde », Jonathan Leblanc, spécialiste de la civilisation américaine."
+      ],
+      "publishedAt": "2026-11-09T13:00:08+00:00",
+      "updatedAt": "2026-11-09T13:00:08+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/midterms-2026-le-realignement-des-hispaniques-sur-le-parti-democrate-n-est-pas-acquis-pour-la-presidentielle-de-2028_6808652_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "970ee8ccd1928729423bbacd4f6110d42c4f1af6f239a6a0a8ad5e01e89293ee",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d802a5afec5207f277",
@@ -522,6 +524,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c93d5acbf0792360d3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité",
+      "bullets": [
+        "Des frappes massives et répétées dans la région de Kiev et une lutte sans fin pour les pompiers ukrainiens.",
+        "Priver la population d'électricité, de chauffage et d'eau avant même le début de l'hiver.",
+        "Le week-end du 7 novembre, plus de 850 000 personnes ont été totalement privées d'électricité dans le pays."
+      ],
+      "publishedAt": "2026-11-09T13:21:51+00:00",
+      "updatedAt": "2026-11-09T13:21:51+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-a-kiev-les-habitants-redoutent-l-hiver-face-aux-coupures-d-electricite_8274575.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "08c91c9d60ed551f920e8aad9eb8cca091ae0e8891d781887b0b6291855fdcef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
+      "context": null
+    },
+    {
       "id": "rss-7834f337473c1347f0",
       "revision": 1,
       "category": "world",
@@ -531,8 +561,8 @@
         "Les inondations qui frappent la bande de Gaza révèlent l’ampleur des destructions causées par la guerre menée par Israël depuis le 7 octobre 2023, alors que l’Etat hébreu continue de restreindre l’acheminement de l’aide nécessaire à la reconstruction.",
         "Dimanche, cinq personnes, dont trois enfants, ont perdu la vie."
       ],
-      "publishedAt": "2026-11-09T11:30:02+00:00",
-      "updatedAt": "2026-11-09T11:30:02+00:00",
+      "publishedAt": "2026-11-09T11:30:01+00:00",
+      "updatedAt": "2026-11-09T11:30:01+00:00",
       "importance": 67,
       "sources": [
         {
@@ -701,63 +731,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "08fbb92727de0ed9cc0345209275bf738ffacf8af00d2c9f9d72af47390f550c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-36e8e5b3c2d18bc887",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump reconnaît que la politique d'expulsions d'immigrés de son administration est \"trop dure\"",
-      "bullets": [
-        "Donald Trump a reconnu, dimanche 8 novembre, dans un long entretien accordé à la chaîne CBS, que sa politique d'expulsions massives d'immigrés avait été \"trop dure\", quelques jours après la débâcle de son camp lors des élections de mi-mandat.",
-        "Lors des élections de mi-mandat, largement remportées mardi par les démocrates, les électeurs hispaniques qui avaient contribué à la réélection de Donald Trump se sont retournés contre lui.",
-        "Ces électeurs ont été déçus par ses promesses non tenues de baisse des prix et le caractère jugé indiscriminé des expulsions pratiquées par la police de l'immigration."
-      ],
-      "publishedAt": "2026-11-09T09:01:10+00:00",
-      "updatedAt": "2026-11-09T09:01:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnait-une-politique-d-expulsions-d-immigres-trop-dure_8274197.html",
-          "access": "public"
-        },
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "5a58ef5cabed993aa43ca83f856518ca99d3d4b02063be2f881476fbd6ed2b4e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-dddb68c09bf2c623cd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
-      "bullets": [
-        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
-      ],
-      "publishedAt": "2026-11-08T11:18:49+00:00",
-      "updatedAt": "2026-11-08T11:18:49+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
       "detailLevel": "preview"
     },
     {
@@ -963,15 +936,15 @@
     },
     {
       "id": "rss-a09145fe5a7b99a494",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
       "bullets": [
-        "imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
+        "Imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
       ],
-      "publishedAt": "2026-11-09T10:30:09+00:00",
-      "updatedAt": "2026-11-09T10:30:09+00:00",
+      "publishedAt": "2026-11-09T10:30:07+00:00",
+      "updatedAt": "2026-11-09T10:30:07+00:00",
       "importance": 85,
       "sources": [
         {
@@ -982,7 +955,7 @@
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "0655e16f1178b6353cabcf0f070717fcafb542b577156afcf804d5812a136498",
+      "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
       "detailLevel": "preview"
     },
     {
@@ -996,7 +969,7 @@
       ],
       "publishedAt": "2026-11-08T13:04:32+00:00",
       "updatedAt": "2026-11-08T13:04:32+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1087,59 +1060,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2e31c41489c04c353d",
+      "id": "rss-88064e79e376e24b85",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Blocages de lycées : \"Le premier des droits en France, c'est le droit à l'éducation. Vous ne pouvez pas priver votre camarade du droit à l'éducation\", réagit Édouard Geffray, ministre de l'Éducation nationale",
+      "title": "Le gouvernement annonce une augmentation du smic de 1,6% dès le 1er décembre, pour le porter à 1 502 euros",
       "bullets": [
-        "Alors que le mouvement de contestation dans les lycées se poursuit, avec des blocages et des manifestations qui ont donné lieu à des affrontements et à plusieurs blessés, le ministre de l'Éducation nationale, Édouard Geffray, était l'invité des 4V sur France 2, lundi 9 novembre.",
-        "Aujourd'hui, vous avez des élèves qui sont privés de cours parce que 1 % ou 2 % de leurs camarades bloquent leur lycée.",
-        "Plus de 200 personnels ont été blessés, notamment des AED."
+        "La revalorisation du smic aura bien lieu dès le 1er décembre, et à hauteur de 1,6%, a annoncé, lundi 9 novembre, le gouvernement, pour tenter de répondre à la crise sociale qui secoue le pays ces dernières semaines.",
+        "Le salaire minimum sera porté à environ 1 502 euros par mois dès le 1er décembre, soit près de 24 euros supplémentaires, a précisé le ministre du Travail, Jean-Pierre Farandou, à l'issue d'une conférence sociale qui réunissait à Matignon les syndicats et le patronat.",
+        "De quoi représenter, sur l'année, une augmentation mensuelle d'environ 75 euros."
       ],
-      "publishedAt": "2026-11-09T08:29:41+00:00",
-      "updatedAt": "2026-11-09T08:29:41+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-09T13:21:11+00:00",
+      "updatedAt": "2026-11-09T13:21:11+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/blocages-de-lycees-le-premier-des-droits-en-france-c-est-le-droit-a-l-education-vous-ne-pouvez-pas-priver-votre-camarade-du-droit-a-l-education-reagit-edouard-geffray-ministre-de-l-education-nationale_8274158.html",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-deuxieme-hausse-la-plus-importante-en-20-ans-le-gouvernement-annonce-une-augmentation-du-smic-de-1-6-des-le-1er-decembre_8274524.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "article-extract",
-      "summaryInput": "f391bdbb033d17f8f5712d9639a641a9e8757d93fccffa2ef0e0524a79d44aca",
+      "summaryInput": "ac946b4b4eafeefb97514ef12418336f41904ec145e4718e03dc7de1ab2b662e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T12:07:21.113478+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-aba9d2591f93e279df",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
-      "bullets": [
-        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
-        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
-        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
-      ],
-      "publishedAt": "2026-11-08T14:09:54+00:00",
-      "updatedAt": "2026-11-08T14:09:54+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T02:59:04.930640+00:00",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
       "context": null
     },
     {
@@ -1165,6 +1110,31 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-71d4e81969c0fb2fb6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+      "bullets": [
+        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
+        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
+      ],
+      "publishedAt": "2026-11-07T10:27:51+00:00",
+      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
       "detailLevel": "preview"
     }
   ],
@@ -1203,7 +1173,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1227,7 +1197,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1281,7 +1251,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
