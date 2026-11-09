@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T01:23:37.169032+00:00",
+  "preparedAt": "2026-11-09T02:59:04.930640+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -179,7 +179,7 @@
       ],
       "publishedAt": "2026-11-08T14:11:46+00:00",
       "updatedAt": "2026-11-08T14:11:46+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -191,7 +191,7 @@
       "provenance": "article-extract",
       "summaryInput": "9cef0cae45587de2200b1cfbe4ebd8c121520e6ba8b540d04f91a7165615a59a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "enrichedAt": "2026-11-09T02:59:04.930640+00:00",
       "context": null
     },
     {
@@ -247,30 +247,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-73b526f7c3a27f3155",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
-      "bullets": [
-        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
-      ],
-      "publishedAt": "2026-11-07T14:13:19+00:00",
-      "updatedAt": "2026-11-07T14:13:19+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1d62a4d340113d52b2",
       "revision": 1,
       "category": "eco",
@@ -321,6 +297,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-73b526f7c3a27f3155",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
+      "bullets": [
+        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
+      ],
+      "publishedAt": "2026-11-07T14:13:19+00:00",
+      "updatedAt": "2026-11-07T14:13:19+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T01:20:22+00:00",
-      "updatedAt": "2026-11-09T01:20:22+00:00",
+      "publishedAt": "2026-11-09T02:57:40+00:00",
+      "updatedAt": "2026-11-09T02:57:40+00:00",
       "importance": 69,
       "sources": [
         {
@@ -389,7 +389,7 @@
       ],
       "publishedAt": "2026-11-06T14:46:10+00:00",
       "updatedAt": "2026-11-06T14:46:10+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -548,7 +548,7 @@
       ],
       "publishedAt": "2026-11-08T13:50:39+00:00",
       "updatedAt": "2026-11-08T13:50:39+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -671,6 +671,34 @@
       "context": null
     },
     {
+      "id": "rss-aba9d2591f93e279df",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "bullets": [
+        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
+        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
+        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+      ],
+      "publishedAt": "2026-11-08T14:09:54+00:00",
+      "updatedAt": "2026-11-08T14:09:54+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T02:59:04.930640+00:00",
+      "context": null
+    },
+    {
       "id": "rss-dddb68c09bf2c623cd",
       "revision": 1,
       "category": "world",
@@ -692,30 +720,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f5c71c1c4d9c1e1356",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
-      "bullets": [
-        "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes."
-      ],
-      "publishedAt": "2026-11-08T08:38:48+00:00",
-      "updatedAt": "2026-11-08T08:38:48+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f156d61443bbc551ddeffff4944cf7c79b9d49c2a2faf7bf64f7f63302941f04",
       "detailLevel": "preview"
     },
     {
@@ -903,31 +907,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-aba9d2591f93e279df",
+      "id": "rss-d6a03012ae4c5c3e3e",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
       "bullets": [
-        "Au lendemain d'un attentat qui a fait six morts et 15 blessés à Cracovie samedi 7 novembre, la Pologne entame deux jours de deuil national.",
-        "Les faits se sont produits vers 15 heures, sur la célèbre place du marché de l'ancienne capitale historique.",
-        "Nous avons découvert les corps de trois personnes [dans le logement] : un homme de 53 ans et deux femmes de 52 et 21 ans."
+        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
       ],
-      "publishedAt": "2026-11-08T14:09:54+00:00",
-      "updatedAt": "2026-11-08T14:09:54+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-08T11:15:31+00:00",
+      "updatedAt": "2026-11-08T11:15:31+00:00",
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "article-extract",
-      "summaryInput": "9eab6a2bfc9a1d7f92b470a0c325dfc03c8ca66bbf64b6fa21c106accb0df521",
+      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T14:50:52.811262+00:00",
+      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
       "context": null
     },
     {
@@ -1101,34 +1105,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d6a03012ae4c5c3e3e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous n'avons pas connu de cas de terrorisme aussi radicaux\" : une fusillade fait au moins six morts à Cracovie",
-      "bullets": [
-        "Au moins six personnes ont été tuées, samedi 7 novembre, dans le centre de Cracovie, deuxième ville de Pologne, par un homme qui a ouvert le feu au hasard sur des passants et qui a été interpellé.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
-      ],
-      "publishedAt": "2026-11-08T11:15:31+00:00",
-      "updatedAt": "2026-11-08T11:15:31+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/nous-n-avons-pas-connu-de-cas-de-terrorisme-aussi-radicaux-une-fusillade-fait-au-moins-six-morts-a-cracovie_8273279.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
-      "context": null
-    },
-    {
       "id": "rss-71d4e81969c0fb2fb6",
       "revision": 1,
       "category": "france",
@@ -1175,6 +1151,31 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-67264a6b9ba2e3ae6a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
+      "bullets": [
+        "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement.",
+        "Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler."
+      ],
+      "publishedAt": "2026-11-08T13:39:05+00:00",
+      "updatedAt": "2026-11-08T13:39:05+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45e7980448d7f59c881b475b101ea4ed66f536e296185ef1cb474fc7eca8aa5b",
       "detailLevel": "preview"
     }
   ],
@@ -1255,7 +1256,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
