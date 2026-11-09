@@ -1,58 +1,65 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T13:27:30.184355+00:00",
+  "preparedAt": "2026-11-09T15:07:01.131498+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-ab648a1c6b6335fa73",
+      "id": "rss-4dde9c9419657ac788",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La France renforce enfin son arsenal face aux cyberattaques",
+      "title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
       "bullets": [
-        "DÉCRYPTAGE - Après une longue attente, le texte sur la résilience des infrastructures critiques et la cybersécurité va être examiné à partir de ce lundi à l’Assemblée nationale."
+        "Au cours de l’année 2026, le Smic aura augmenté de 5,3 %“, affirme Jean-Pierre Farandou, ministre du Travail.",
+        "\"Le gouvernement ne nous a annoncé que des miettes\", a dénoncé de son côté Sophie Binet, la secrétaire générale de la CGT, relevant que le smic devait automatiquement \"augmenter de 18 euros au 1er janvier\".",
+        "Face à la flambée des prix du carburant, le gouvernement avait annoncé fin septembre relever le plafond de cette aide versée par les employeurs de 600 à 1 000 euros."
       ],
-      "publishedAt": "2026-11-08T17:44:29+00:00",
-      "updatedAt": "2026-11-08T17:44:29+00:00",
-      "importance": 96,
+      "publishedAt": "2026-11-09T14:03:03+00:00",
+      "updatedAt": "2026-11-09T14:03:03+00:00",
+      "importance": 95,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/la-france-renforce-enfin-son-arsenal-face-aux-cyberattaques-20261108",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bb5043045ac494afa1b779d2fc5add70fe2aea2e848e73934b2f6ff4db857457",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "bb4e41e72d626c3e420184a3bfd22846661de1d6f7aebe53d920c83475e0a806",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
+      "context": null
     },
     {
-      "id": "rss-32e6b15970df2dc092",
+      "id": "rss-0367fe35f596fb0991",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "72,8 milliards d’euros selon EDF, 680 milliards selon Greenpeace : quel est le véritable coût des six prochains réacteurs nucléaires ?",
+      "title": "La Cour des comptes propose 18 mesures pour économiser jusqu'à 38 milliards d'euros et redresser les finances publiques",
       "bullets": [
-        "DÉCRYPTAGE - Objet de négociations entre la France et l’Europe, au cœur de tensions entre les candidats à la présidentielle, le coût du nouveau nucléaire exacerbe le débat."
+        "La Cour des comptes propose, lundi 9 novembre, dans un rapport un ensemble de 18 mesures pouvant s'appliquer dès l'an prochain pour redresser les finances publiques, représentant \"jusqu'à 38 milliards d'euros d'économies\", dont \"11 à 14 milliards d'euros\" figurent déjà dans le budget 2027.",
+        "Parmi les mesures proposées figure notamment une \"non-revalorisation des prestations sociales (hors minima sociaux)\", avec une économie estimée par la Cour des comptes à 4,8 milliards en 2027."
       ],
-      "publishedAt": "2026-11-08T16:44:07+00:00",
-      "updatedAt": "2026-11-08T16:44:07+00:00",
-      "importance": 96,
+      "publishedAt": "2026-11-09T14:11:37+00:00",
+      "updatedAt": "2026-11-09T14:11:37+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/72-8-milliards-d-euros-selon-edf-680-milliards-selon-greenpeace-quel-est-le-veritable-cout-des-six-prochains-reacteurs-nucleaires-20261108",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/la-cour-des-comptes-propose-18-mesures-pour-economiser-jusqu-a-38-milliards-d-euros-et-redresser-les-finances-publiques_8274623.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ce55c2ce0336ff378e56ec285fa1c006b779c8cd9de90a33bf196faf1f25abfc",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7bc0e695525e362f9be720241a6a98976be08f83edb070a891da9e4d41a326df",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
+      "context": null
     },
     {
       "id": "rss-dc6563eacfeb9582c3",
@@ -83,6 +90,134 @@
       "context": null
     },
     {
+      "id": "rss-870e34581992a249ac",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
+      "bullets": [
+        "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT."
+      ],
+      "publishedAt": "2026-11-09T14:55:56+00:00",
+      "updatedAt": "2026-11-09T14:55:56+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-55eb85622458e5b791",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le gouvernement annonce une revalorisation du smic de 1,6% pour le porter à 1502 euros dès le 1er décembre",
+      "bullets": [
+        "À l’issue d’une «conférence sociale», le gouvernement a annoncé ce lundi 9 novembre une augmentation du salaire minimum de 1,6 % au 1er décembre.",
+        "«Il n’y a pas que le smic dans la vie» Le salaire minimum a déjà été augmenté en juin dernier de 2,41% (+35 euros net par mois) pour suivre l’inflation repartie à la hausse en raison de la guerre au Moyen-Orient.",
+        "Dans un contexte d’accélération de la hausse des prix (+3,4% sur un an en octobre), le gouvernement n’a pas attendu les chiffres d’inflation de novembre pour décider d’une revalorisation."
+      ],
+      "publishedAt": "2026-11-09T14:07:44+00:00",
+      "updatedAt": "2026-11-09T14:07:44+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/le-gouvernement-annonce-une-revalorisation-du-smic-de-1-6-pour-le-porter-a-1502-euros-des-le-1er-decembre-20261109",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "07e8e9dbdd2e737dded69d5d795796f89bdabe1f586b7a7e54cceba2f54e7be0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0c5ec4519375ef57da",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’IA est «la plus grande rupture technologique de tous les temps» mais les candidats à la présidentielle ne s’y intéressent pas : le coup de gueule des patrons de la tech",
+      "bullets": [
+        "TÉMOIGNAGES - Les dirigeants de la tech française attendent de pied ferme les candidats à la présidentielle auxquels ils reprochent de ne pas se saisir du sujet de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-09T13:56:40+00:00",
+      "updatedAt": "2026-11-09T13:56:40+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/vie-professionnelle/c-est-la-plus-grande-rupture-technologique-de-tous-les-temps-mais-les-candidats-a-la-presidentielle-ne-s-y-interessent-pas-le-coup-de-gueule-des-patrons-de-la-tech-20261109",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c9fb9d302d656f26d20d33506c3eebf28175951eeac01f3e4ea3406055f5d4fc",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3edbb082be7abcefd8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après l'annonce de la hausse du smic, la Confédération des cadres dit ne pas vouloir \"assister à une smicardisation du pays\"",
+      "bullets": [
+        "Un moment de \"vérité\"Elle se réjouit donc de l'ouverture de négociations salariales au sein des branches professionnelles.",
+        "Christelle Thieffinne évoque un moment de \"vérité\" où elle espère que \"le patronat sera au rendez-vous de la crise sociale\".",
+        "\"Nous avons réussi à mettre un premier pas dans la porte\", se réjouit Christelle Thieffinne."
+      ],
+      "publishedAt": "2026-11-09T13:54:55+00:00",
+      "updatedAt": "2026-11-09T13:54:55+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/apres-l-annonce-de-la-hausse-du-smic-la-confederation-des-cadres-dit-ne-pas-vouloir-assister-a-une-smicardisation-du-pays_8274611.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "a0ad4a431a29f7a056eecaf5aa4113bd24f83ccc74455ceb96e7b7bdab83cd38",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8705c6c3e8bec35bb7",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement à l’issue de la conférence sociale",
+      "bullets": [
+        "Le premier ministre Sébastien Lecornu, accompagné de ses ministres Jean-Pierre Farandou, Serge Papin et Roland Lescure, a tenu un point de presse, à l’issue de la conférence sociale avec les organisations syndicales et patronales organisée ce lundi matin à Matignon."
+      ],
+      "publishedAt": "2026-11-09T13:53:19+00:00",
+      "updatedAt": "2026-11-09T13:53:19+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-prime-carburant-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale-20261109",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7d8c21cfae09d92cbba3e37d89dc92ad3ff33b5d8c675b20edfcbaeb49169bc2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4a5c79327fb3ebf91c",
       "revision": 1,
       "category": "eco",
@@ -110,34 +245,6 @@
       "context": null
     },
     {
-      "id": "rss-8705c6c3e8bec35bb7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du Smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement à l’issue de la conférence sociale",
-      "bullets": [
-        "Une hausse du Smic de 1,6% au 1er décembre Le ministre du Travail Jean-Pierre Farandou a annoncé une hausse anticipée du smic, à laquelle s’ajoute un «coup de pouce».",
-        "LIRE AUSSI - Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums Le plafond de la prime carburant à 1000 euros prolongé en 2027 En dehors de la revalorisation du smic, le gouvernement a annoncé d’autres mesures de pouvoir d’achat.",
-        "Le gouvernement avait annoncé fin septembre relever le plafond de cette aide de 600 à 1000 euros."
-      ],
-      "publishedAt": "2026-11-09T12:31:01+00:00",
-      "updatedAt": "2026-11-09T12:31:01+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-prime-carburant-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale-20261109",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "3e839863448a839a52222adcd46a853336cb17e666eca32fa9b9066538ccf631",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
-      "context": null
-    },
-    {
       "id": "rss-61cc302b9b8918a1c8",
       "revision": 1,
       "category": "eco",
@@ -160,34 +267,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "1d11609bc3057398fae49e83afb6b046b52a3749547eb30fc710fb966ec024f2",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-55eb85622458e5b791",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le gouvernement annonce une revalorisation du smic de 1,6% pour le porter à 1502 euros dès le 1er décembre",
-      "bullets": [
-        "À l’issue d’une «conférence sociale», le gouvernement a annoncé ce lundi 9 novembre une augmentation du salaire minimum de 1,6 % au 1er décembre.",
-        "«Il n’y a pas que le smic dans la vie» Le salaire minimum a déjà été augmenté en juin dernier de 2,41% (+35 euros net par mois) pour suivre l’inflation repartie à la hausse en raison de la guerre au Moyen-Orient.",
-        "Dans un contexte d’accélération de la hausse des prix (+3,4% sur un an en octobre), le gouvernement n’a pas attendu les chiffres d’inflation de novembre pour décider d’une revalorisation."
-      ],
-      "publishedAt": "2026-11-09T12:17:46+00:00",
-      "updatedAt": "2026-11-09T12:17:46+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/le-gouvernement-annonce-une-revalorisation-du-smic-de-1-6-pour-le-porter-a-1502-euros-des-le-1er-decembre-20261109",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "07e8e9dbdd2e737dded69d5d795796f89bdabe1f586b7a7e54cceba2f54e7be0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T13:27:30.184355+00:00",
-      "context": null
     },
     {
       "id": "rss-1f2f546a828c6c3c95",
@@ -239,83 +318,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0c5ec4519375ef57da",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "C’est «la plus grande rupture technologique de tous les Temps» mais les candidats à la présidentielle ne s’y intéressent pas : le coup de gueule des patrons de la tech",
-      "bullets": [
-        "TÉMOIGNAGES - Les dirigeants de la tech française attendent de pied ferme les candidats à la présidentielle auxquels ils reprochent de ne pas se saisir du sujet de l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-09T11:38:01+00:00",
-      "updatedAt": "2026-11-09T11:38:01+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vie-professionnelle/c-est-la-plus-grande-rupture-technologique-de-tous-les-temps-mais-les-candidats-a-la-presidentielle-ne-s-y-interessent-pas-le-coup-de-gueule-des-patrons-de-la-tech-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fe4d7ebc4f64d07a1fb8d04355d5634be47d48799c5035ddcff20e087f083015",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d3e7e2d100901fc625",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Reporters sans frontières dresse dix priorités pour \"le droit à l'information\" et demande des \"engagements concrets\" aux candidats à la présidentielle",
-      "bullets": [
-        "Fiabilité de l'information, indépendance des rédactions, protection face à l'IA… Reporters sans frontières (RSF) a dressé lundi 9 novembre dix priorités pour \"défendre la liberté de la presse\".",
-        "\"Avec ses dix propositions, RSF entend placer les candidates et les candidats [à la présidentielle] face à leurs responsabilités\", a écrit l'ONG dans un communiqué.",
-        "Le Rassemblement national a prévu de privatiser ce secteur s'il arrive au pouvoir."
-      ],
-      "publishedAt": "2026-11-09T09:34:14+00:00",
-      "updatedAt": "2026-11-09T09:34:14+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/reporters-sans-frontieres-dresse-dix-priorites-pour-le-droit-a-l-information-et-demande-des-engagements-concrets-aux-candidats-a-la-presidentielle_8274254.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "22c448579c98ae7f4e9ae58246a83c6d705e7aaeb86060090180ea26d7514d4c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d985d41a0f969f7aa5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« S’engager dans le syndicalisme aujourd’hui en France, c’est souvent s’exposer aux discriminations et à la répression »",
-      "bullets": [
-        "Trois spécialistes des syndicats rejettent, dans une tribune au « Monde », les propositions des économistes Pierre Cahuc et André Zylberberg visant à lutter contre la désaffection qui touche les syndicats.",
-        "Ils estiment que leur faiblesse vient plutôt des réformes menées à leur encontre."
-      ],
-      "publishedAt": "2026-11-09T05:00:52+00:00",
-      "updatedAt": "2026-11-09T05:00:52+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/s-engager-dans-le-syndicalisme-aujourd-hui-en-france-c-est-souvent-s-exposer-aux-discriminations-et-a-la-repression_6808613_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "38733bcac9de7cf1ad098f8202df838a31966637ae07f64840f0be5bc845ad4e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,8 +328,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T13:25:27+00:00",
-      "updatedAt": "2026-11-09T13:25:27+00:00",
+      "publishedAt": "2026-11-09T15:03:50+00:00",
+      "updatedAt": "2026-11-09T15:03:50+00:00",
       "importance": 69,
       "sources": [
         {
@@ -341,6 +343,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0f1e7115b2ff2641e0",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "«Un scénario d'espionnage hollywoodien rejeté»... Alors que son patron a eu une liaison dangereuse avec une femme suspectée d'être une espionne chinoise, Nvidia chute de 7% à Wall Street",
+      "bullets": [
+        "Nvidia se retrouve dans la tempête ce lundi 9 novembre, après que son directeur général, Jensen Huang, a reconnu avoir eu une relation extra-conjugale avec une femme identifiée comme étant une espionne chinoise.",
+        "En début de séance, le titre du fabricant de processeurs graphiques (GPU) chute de 7% ce lundi 9 novembre.",
+        "Sur son dernier exercice, Nvidia a affiché une croissance de 65% de ses revenus tandis que son bénéfice a grimpé de 65% également, à 120,7 milliards de dollars."
+      ],
+      "publishedAt": "2026-11-09T14:36:20+00:00",
+      "updatedAt": "2026-11-09T14:36:20+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/un-scenario-d-espionnage-hollywoodien-rejete-alors-que-son-patron-a-eu-une-liaison-dangereuse-avec-une-femme-suspectee-d-etre-une-espionne-chinoise-nvidia-chute-de-7-a-wall-street-1173403.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
       "context": null
     },
     {
@@ -394,34 +424,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "3566052d96a98cca2d95201505443b1f3e735c14a61218bfcc4000451389e740",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-22ec48330d57261c6d",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "«Un scénario d'espionnage hollywoodien rejeté»... Alors que son patron a eu une liaison dangereuse avec une femme suspectée d'être une espionne chinoise, Nvidia chute de 4,5% à Wall Street, l'avenir de sa gouvernance s'obscurcit",
-      "bullets": [
-        "Nvidia se retrouve dans la tempête ce lundi 9 novembre, après que son directeur général, Jensen Huang, a reconnu avoir eu une relation extra-conjugale avec une femme identifiée comme étant une espionne chinoise.",
-        "En préouverture le titre du fabricant de processeurs graphiques (GPU) chute de 4,5% ce lundi 9 novembre.",
-        "Sur son dernier exercice, Nvidia a affiché une croissance de 65% de ses revenus tandis que son bénéfice a grimpé de 65% également, à 120,7 milliards de dollars."
-      ],
-      "publishedAt": "2026-11-09T09:56:20+00:00",
-      "updatedAt": "2026-11-09T09:56:20+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/un-scenario-d-espionnage-hollywoodien-rejete-alors-que-son-patron-a-eu-une-liaison-dangereuse-avec-une-femme-suspectee-d-etre-une-espionne-chinoise-nvidia-chute-de-45-a-wall-street-l-avenir-de-sa-gouvernance-s-obscurcit-1173403.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "0a7f74dd5fed5bf28b11e4c02b49efe6bdf324c5915b18e374ba3eb2aec6462d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
-      "context": null
     },
     {
       "id": "rss-ccfed5c14848b876ac",
@@ -524,6 +526,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-43a8884d71e3efc2d1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie",
+      "bullets": [
+        "Le Canada a décidé d'imposer des sanctions supplémentaires contre la Russie \"pour alourdir encore davantage le coût économique de la guerre\" que Moscou mène contre l'Ukraine, a annoncé, lundi 9 novembre, la cheffe de la diplomatie canadienne, Anita Anand, en marge d'une réunion ministérielle du G7 à Paris.",
+        "Ottawa \"ajoute 38 entités et 24 personnes à sa liste de sanctions afin de réduire davantage les capacités militaires de la Russie\", détaille un communiqué du ministère des Affaires étrangères."
+      ],
+      "publishedAt": "2026-11-09T13:49:36+00:00",
+      "updatedAt": "2026-11-09T13:49:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "d7d6489238145a326b9e5f5ee3ec73c55af2e59be46676753886f21403a259a3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
+      "context": null
+    },
+    {
       "id": "rss-c93d5acbf0792360d3",
       "revision": 1,
       "category": "world",
@@ -577,34 +606,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f741cc9e89614997a7",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump juge \"très improbable\" une reprise de la guerre contre l'Iran pour le moment",
-      "bullets": [
-        "Une sortie quelques jours après sa débâcle électorale.",
-        "Donald Trump a estimé, dimanche 8 novembre, qu'une reprise de la guerre avec l'Iran était \"très improbable\" à condition que des progrès soient réalisés dans les négociations avec Téhéran.",
-        "\"Cela dépend de s'ils signent ou non un accord très solide\", a déclaré le président américain lors d'un entretien par téléphone avec un journaliste de CNN."
-      ],
-      "publishedAt": "2026-11-09T07:24:37+00:00",
-      "updatedAt": "2026-11-09T07:24:37+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-juge-tres-improbable-une-reprise-de-la-guerre-contre-l-iran-pour-le-moment_8273696.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "5d747ff2a514050b66c25556bb93d95211df7e6a3f3f12687c567b965ddd1b2a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
-      "context": null
-    },
-    {
       "id": "rss-29fed7203401350f9c",
       "revision": 2,
       "category": "world",
@@ -654,60 +655,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-940e943db5d82affef",
+      "id": "rss-373daa15493bcacd7b",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\"",
+      "title": "Crédit agricole ambitionne de créer le troisième groupe bancaire d’Italie",
       "bullets": [
-        "Plus de 600 câbles sous-marins traversent nos mers et nos océans.",
-        "Des câbles par lesquels transitent 99 % des télécommunications mondiales : recherches Internet, appels, mails ou encore transactions bancaires.",
-        "\"On peut penser que si, après l'Ukraine, la Russie attaque un autre pays européen, peut-être qu'attaquer les infrastructures de télécommunication, et notamment les câbles sous-marins, fera partie des premières étapes d'une attaque de plus grande ampleur\", anticipe Marie Baléo, auteure de \"La guerre silencieuse, Enquête sur les câbles sous-marins\" (éditions Grasset)."
+        "La banque française propose de fusionner sa filiale transalpine avec la banque BPM.",
+        "Un mariage 100 % italien visant à rassurer le gouvernement Meloni."
       ],
-      "publishedAt": "2026-11-08T20:15:58+00:00",
-      "updatedAt": "2026-11-08T20:15:58+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-09T14:30:03+00:00",
+      "updatedAt": "2026-11-09T14:30:03+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/credit-agricole-ambitionne-de-creer-le-troisieme-groupe-bancaire-d-italie_6808659_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "2862a1283ec1ffc6dbcecac7e49f9a19f41d24f970e4704bbb0250d2055d5936",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9965ea033b3d708186",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies",
-      "bullets": [
-        "Les pluies torrentielles qui se sont abattues sur Gaza ces derniers jours ont inondé ou détruit les tentes des réfugiés gazaouis.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "\"Il m’a dit, qu’il m’avait confondu avec un sanglier\" - Simon, 25 ans"
-      ],
-      "publishedAt": "2026-11-08T18:23:36+00:00",
-      "updatedAt": "2026-11-08T18:23:36+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "77a8631c9e280a01e187c13beb173c5053af7e4452280d3ad8c4f32995588626",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1d38093ba274817c2eb592d68fa5602e6de0328f811f963b72fa452731f1c97f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-7b7ca46eda71722818",
@@ -732,6 +702,39 @@
       "provenance": "rss-excerpt",
       "summaryInput": "08fbb92727de0ed9cc0345209275bf738ffacf8af00d2c9f9d72af47390f550c",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-36e8e5b3c2d18bc887",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Donald Trump reconnaît que la politique d'expulsions d'immigrés de son administration est \"trop dure\"",
+      "bullets": [
+        "Donald Trump a reconnu, dimanche 8 novembre, dans un long entretien accordé à la chaîne CBS, que sa politique d'expulsions massives d'immigrés avait été \"trop dure\", quelques jours après la débâcle de son camp lors des élections de mi-mandat.",
+        "Lors des élections de mi-mandat, largement remportées mardi par les démocrates, les électeurs hispaniques qui avaient contribué à la réélection de Donald Trump se sont retournés contre lui.",
+        "Ces électeurs ont été déçus par ses promesses non tenues de baisse des prix et le caractère jugé indiscriminé des expulsions pratiquées par la police de l'immigration."
+      ],
+      "publishedAt": "2026-11-09T09:01:10+00:00",
+      "updatedAt": "2026-11-09T09:01:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnait-une-politique-d-expulsions-d-immigres-trop-dure_8274197.html",
+          "access": "public"
+        },
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "5a58ef5cabed993aa43ca83f856518ca99d3d4b02063be2f881476fbd6ed2b4e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T15:07:01.131498+00:00",
+      "context": null
     },
     {
       "id": "rss-ad1b5856f59e776778",
@@ -959,27 +962,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6dcbf96e723603093d",
+      "id": "rss-55133da4143dd52c05",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "title": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
       "bullets": [
-        "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée."
+        "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
       ],
-      "publishedAt": "2026-11-08T13:04:32+00:00",
-      "updatedAt": "2026-11-08T13:04:32+00:00",
-      "importance": 83,
+      "publishedAt": "2026-11-09T10:47:04+00:00",
+      "updatedAt": "2026-11-09T10:47:04+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
+      "summaryInput": "07a3f5ede7f34043509a8dbdb4dec939879f69325e2ea6a86de257079dc4e3e8",
       "detailLevel": "preview"
     },
     {
@@ -1007,34 +1010,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7ba5c5452bd8b5d771",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
-      "bullets": [
-        "Sous pression des manifestants et sans marge financière, le Premier ministre, Sébastien Lecornu, continue de tenter de répondre à la colère sociale en multipliant les rencontres avec les syndicats et la jeunesse, lundi 9 novembre.",
-        "Le smic mensuel net est aujourd'hui de 1 477,93 euros.",
-        "Une nouvelle revalorisation uniforme de 1% coûterait 2,4 milliards d'euros à l'Etat, ce qui n'est \"pas envisageable\", avait fait valoir dès cet été le cabinet du ministre des Comptes publics, David Amiel."
-      ],
-      "publishedAt": "2026-11-09T09:49:16+00:00",
-      "updatedAt": "2026-11-09T09:49:16+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "aa20fd34ae439bf29ad537f0c88994f7bdd7acde527ec13692d74813ce170814",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T12:07:21.113478+00:00",
-      "context": null
-    },
-    {
       "id": "rss-fce3fbab88f205b409",
       "revision": 1,
       "category": "france",
@@ -1060,6 +1035,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1ea1cc19be65ce48e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Déserts médicaux : le gouvernement veut atteindre 100 médicobus labellisés en 2027",
+      "bullets": [
+        "Ces cabinets mobiles proposent des consultations dans les zones où les ressources médicales manquent, particulièrement dans les zones rurales et les quartiers politiques de la ville."
+      ],
+      "publishedAt": "2026-11-09T13:35:10+00:00",
+      "updatedAt": "2026-11-09T13:35:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/09/deserts-medicaux-le-gouvernement-veut-atteindre-100-medicobus-labellises-en-2027_6808654_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bad932367a3d4e7175e0fc825becfc676d0dd3d5a34871f9a86f462bf4f11c8a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-88064e79e376e24b85",
       "revision": 1,
       "category": "france",
@@ -1070,8 +1069,8 @@
         "Le salaire minimum sera porté à environ 1 502 euros par mois dès le 1er décembre, soit près de 24 euros supplémentaires, a précisé le ministre du Travail, Jean-Pierre Farandou, à l'issue d'une conférence sociale qui réunissait à Matignon les syndicats et le patronat.",
         "De quoi représenter, sur l'année, une augmentation mensuelle d'environ 75 euros."
       ],
-      "publishedAt": "2026-11-09T13:21:11+00:00",
-      "updatedAt": "2026-11-09T13:21:11+00:00",
+      "publishedAt": "2026-11-09T13:26:37+00:00",
+      "updatedAt": "2026-11-09T13:26:37+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1149,7 +1148,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1197,7 +1196,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
@@ -1251,7 +1250,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
