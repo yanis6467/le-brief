@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T02:59:04.930640+00:00",
+  "preparedAt": "2026-11-09T04:09:34.675017+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -111,7 +111,7 @@
       "provenance": "article-extract",
       "summaryInput": "d1e7c2e8613634b4f25b05bbde51bcc15e67a86b855fb4fb93f070b0fe110a10",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
       "context": null
     },
     {
@@ -272,31 +272,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6034969cf97f209ed4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
-      "bullets": [
-        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
-        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
-      ],
-      "publishedAt": "2026-11-08T04:00:31+00:00",
-      "updatedAt": "2026-11-08T04:00:31+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-73b526f7c3a27f3155",
       "revision": 1,
       "category": "eco",
@@ -321,6 +296,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-48156d907b62c533e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "bullets": [
+        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
+        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+      ],
+      "publishedAt": "2026-11-07T04:55:01+00:00",
+      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T02:57:40+00:00",
-      "updatedAt": "2026-11-09T02:57:40+00:00",
+      "publishedAt": "2026-11-09T04:06:41+00:00",
+      "updatedAt": "2026-11-09T04:06:41+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,7 +457,7 @@
       "provenance": "article-extract",
       "summaryInput": "c97fd56f3e1933033eb184d7f7c46f1c4dbfdf792cced22edc7c46c54177b755",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
       "context": null
     },
     {
@@ -521,7 +521,7 @@
       ],
       "publishedAt": "2026-11-08T15:00:57+00:00",
       "updatedAt": "2026-11-08T15:00:57+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -533,7 +533,7 @@
       "provenance": "article-extract",
       "summaryInput": "19e851baefd7187693af457ee9f70fa01e82f6f0a4c6f492965c034c4129ae25",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
       "context": null
     },
     {
@@ -559,6 +559,31 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "0ef4315451cf62806b945d604daf6bf5fd0eb1003e47ace9b4f099b6ab5fc180",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-29fed7203401350f9c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La fermeture de « Novaïa Gazeta », la fin d’un repère pour l’« autre Russie »",
+      "bullets": [
+        "Le journal du Prix Nobel de la paix Dmitri Mouratov cesse son existence ce lundi 9 novembre.",
+        "Ses journalistes, sous la pression du Kremlin, avaient réussi à tenir à bout de bras le titre depuis les débuts de la guerre en Ukraine en 2022."
+      ],
+      "publishedAt": "2026-11-09T04:00:07+00:00",
+      "updatedAt": "2026-11-09T04:00:07+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fdf172002f4a2ca2d890ae224aea95b3eaf7ebe986b54330427d26eb47d2fb5f",
       "detailLevel": "preview"
     },
     {
@@ -751,30 +776,6 @@
       "context": null
     },
     {
-      "id": "rss-d07b7c62e58f86f207",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
-      "bullets": [
-        "Selon les organisateurs de la manifestation, environ 200 000 personnes ont défilé pour réclamer des actions du gouvernement néerlandais à l’encontre d’Israël."
-      ],
-      "publishedAt": "2026-11-08T16:39:24+00:00",
-      "updatedAt": "2026-11-08T16:39:24+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5101cdefcf816fb8feaf8319a72cf5d79154180688a57a13ca5079116cb1f911",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-520b6b03b4add49ae7",
       "revision": 1,
       "category": "france",
@@ -841,7 +842,7 @@
       ],
       "publishedAt": "2026-11-05T15:36:56+00:00",
       "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -879,7 +880,7 @@
       "provenance": "article-extract",
       "summaryInput": "35595780e78ecab644e71403e9fdf030f331f3106e658a47cd46b9ecc5311960",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
       "context": null
     },
     {
@@ -931,7 +932,7 @@
       "provenance": "article-extract",
       "summaryInput": "ebe1ec1a3d492413a17b94d826fb409e945af61cfbf257b7f01e7839e1db5be7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-08T15:48:14.374292+00:00",
+      "enrichedAt": "2026-11-09T04:09:34.675017+00:00",
       "context": null
     },
     {
@@ -1057,6 +1058,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6777ff7e0e2855e2f3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Edouard Philippe tente le pari risqué du virage à droite pour sa campagne",
+      "bullets": [
+        "En durcissant son discours sur l’immigration afin de consolider son socle électoral, l’ancien premier ministre pourrait s’aliéner les électeurs modérés dont il a besoin pour franchir le premier tour."
+      ],
+      "publishedAt": "2026-11-09T04:00:12+00:00",
+      "updatedAt": "2026-11-09T04:00:12+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "74ced1f90bae28a711d71600ab0a4a8a274cf1aa551bbe7070b28cf8ca07b040",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-80ff08792cf90cadd6",
       "revision": 1,
       "category": "france",
@@ -1081,27 +1106,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f9a4d70d41d37bdfea",
+      "id": "rss-afb1617de0ae26cb5e",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
       "bullets": [
-        "Accusé par ses adversaires de proximité avec le macronisme, le candidat social-démocrate a énuméré ses divergences avec Emmanuel Macron, de « l’individualisme triomphant » à la suppression de l’ISF."
+        "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
       ],
-      "publishedAt": "2026-11-08T19:26:03+00:00",
-      "updatedAt": "2026-11-08T19:26:03+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-08T13:59:33+00:00",
+      "updatedAt": "2026-11-08T13:59:33+00:00",
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "bb06b0826220e42199ad5e2baceaa139c49d2abc742bf62cf1484fdcdc6ba186",
+      "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
       "detailLevel": "preview"
     },
     {
@@ -1151,31 +1176,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-67264a6b9ba2e3ae6a",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
-      "bullets": [
-        "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement.",
-        "Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler."
-      ],
-      "publishedAt": "2026-11-08T13:39:05+00:00",
-      "updatedAt": "2026-11-08T13:39:05+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "45e7980448d7f59c881b475b101ea4ed66f536e296185ef1cb474fc7eca8aa5b",
       "detailLevel": "preview"
     }
   ],
