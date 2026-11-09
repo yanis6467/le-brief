@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T11:09:17.258668+00:00",
+  "preparedAt": "2026-11-09T12:07:21.113478+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -83,31 +83,28 @@
       "context": null
     },
     {
-      "id": "rss-d0aa8c7e4d057a2620",
+      "id": "rss-09965c33351c99c9cf",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Grève de la fonction publique : une intersyndicale appelle à la grève le mardi 17 novembre",
+      "title": "« La France doit apprendre à dépenser mieux pour pouvoir distribuer du pouvoir d’achat »",
       "bullets": [
-        "Une intersyndicale dans la fonction publique appelle à la mobilisation et à la grève mardi 17 novembre pour demander notamment des augmentations de salaires, selon un communiqué diffusé lundi.",
-        "«Pour nos organisations CGT, UNSA, FSU, Solidaires, CFE-CGC, FAFP, il n’est pas envisageable qu’une telle mesure ne soit pas prise au regard de l’inflation qui continue de progresser», écrivent-elles, jugeant «pas acceptable que le point d’indice reste gelé une quatrième année»."
+        "Réduire les déficits est indispensable. Encore faut-il préserver les dépenses qui préparent la prospérité de demain. Mais, à ce jour, la question de la création de richesse reste la grande absente des débats en vue de l’élection présidentielle, déplore Stéphane Lauer, éditorialiste au « Monde », dans sa chronique."
       ],
-      "publishedAt": "2026-11-09T10:59:03+00:00",
-      "updatedAt": "2026-11-09T10:59:03+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-09T12:00:06+00:00",
+      "updatedAt": "2026-11-09T12:00:06+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/greve-de-la-fonction-publique-une-intersyndicale-appelle-a-la-greve-le-mardi-17-novembre-20261109",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "ef5b55042d3037fc7f9430a24b5c27b8fe804b317b2f57740ffb08a3f54aa211",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "517f00bc2111265522b579e2178e139f7fd310527bb6dc585c308bcb3108e350",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d3e7e2d100901fc625",
@@ -191,34 +188,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e901bd71d949a1d8f4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
-      "bullets": [
-        "Le smic mensuel net est aujourd'hui de 1 477,93 euros.",
-        "La CGT demande une augmentation de 10%, soit environ 150 euros net mensuels, tandis que la CFDT réclame 100 euros.",
-        "Force ouvrière plaide quant à elle pour un smic à \"80% du salaire médian, soit 2 000 euros\"."
-      ],
-      "publishedAt": "2026-11-09T04:52:42+00:00",
-      "updatedAt": "2026-11-09T04:52:42+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "fcffb6945f2e4f5574ca630064ebc4c52312fb3e0d4c8d86cb8545b5b64fec01",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T05:19:06.014926+00:00",
-      "context": null
-    },
-    {
       "id": "rss-bb3586a36bb655012d",
       "revision": 1,
       "category": "eco",
@@ -247,79 +216,101 @@
       "context": null
     },
     {
-      "id": "rss-774277072f171ce991",
+      "id": "rss-6034969cf97f209ed4",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "«C’est essentiel pour faire monter les salaires» : Gabriel Attal juge «sidérant» le peu de place fait à l'IA dans la campagne présidentielle",
+      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
       "bullets": [
-        "Gabriel Attal a jugé dimanche «sidérant» le peu de place selon lui accordé à l’intelligence artificielle dans la campagne présidentielle, y voyant «la clé» pour «gagner en productivité» et «faire monter le salaire des Français».",
-        "Ce second volet est «essentiel, parce que c'est ce qui nous permettra de gagner en productivité et donc de faire monter les salaires des Français.",
-        "«Crédit d’impôt productivité» Il a rappelé ses propositions d'instaurer «un crédit d'impôt productivité» pour permettre de financer «l'adoption de solutions IA» dans les entreprises, et de «former 20 millions de Français en trois ans»."
+        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
+        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
       ],
-      "publishedAt": "2026-11-08T14:02:26+00:00",
-      "updatedAt": "2026-11-08T14:02:26+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/c-est-essentiel-pour-faire-monter-les-salaires-gabriel-attal-juge-siderant-le-peu-de-place-fait-a-l-ia-dans-la-campagne-presidentielle-20261108",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "553ea8b4659081fa147928c1bc8ca929ef44058a22b2b978b2e8bcfde8900ec4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f7704cf013943f7d46",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Moins dix degrés pendant la canicule et 60% d’économies d’énergie»: quand la rénovation d’une école bretonne fait recette",
-      "bullets": [
-        "ÉCOLE, CES SOLUTIONS VENUES D’AILLEURS 2/4 - Les élèves de Louargat ne craignent pas de souffrir du froid. La rénovation de l’établissement a permis d’améliorer le confort thermique des classes, été comme hiver. Las, le programme Actee qui l’a rendu possible vient d’être supprimé par le gouvernement. L’incompréhension règne."
-      ],
-      "publishedAt": "2026-11-08T09:00:23+00:00",
-      "updatedAt": "2026-11-08T09:00:23+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/moins-dix-degres-pendant-la-canicule-et-60-d-economies-d-energie-quand-la-renovation-d-une-ecole-bretonne-fait-recette-20261108",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "73bf26b3b19c4956b696f3f3f0f7dc0599c7c3374c98ecdcecc8b38b9dbf74a8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-73b526f7c3a27f3155",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les prix de l’électricité pour les particuliers « seront stables jusqu’au 1ᵉʳ février au moins », selon le PDG d’EDF",
-      "bullets": [
-        "Le 7 octobre, le premier ministre, Sébastien Lecornu, avait déclaré que le prix de l’électricité ne « devait pas augmenter cet hiver »."
-      ],
-      "publishedAt": "2026-11-07T14:13:19+00:00",
-      "updatedAt": "2026-11-07T14:13:19+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-08T04:00:31+00:00",
+      "updatedAt": "2026-11-08T04:00:31+00:00",
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-prix-de-l-electricite-pour-les-particuliers-seront-stables-jusqu-au-1-fevrier-au-moins-selon-le-pdg-d-edf_6808283_3234.html",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "3e954bbf7a94c5f096c7259aef31e52b9aab6be18a7281195070a8494ab089d0",
+      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9c9b263694d99a2791",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "À la recherche de 250 millions de dollars pour réparer le sarcophage de Tchernobyl, percé par un drone russe",
+      "bullets": [
+        "DÉCRYPTAGE - Une conférence de pays donateurs est organisée ce lundi à Paris pour réunir des fonds pour financer un chantier urgent, d’un montant total de 500 millions d’euros, sur le réacteur ukrainien accidenté en 1986."
+      ],
+      "publishedAt": "2026-11-09T07:42:40+00:00",
+      "updatedAt": "2026-11-09T07:42:40+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/a-la-recherche-de-250-millions-de-dollars-pour-reparer-le-sarcophage-de-tchernobyl-perce-par-un-drone-russe-20261108",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "547fc3cd42e48673bbe2a290fafda6552c03868a60c3235b5d2117eebbd67388",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-96f7c2caed02ac0f39",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Jensen Huang, le dirigeant de Nvidia, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+      "bullets": [
+        "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine.",
+        "La firme a lancé une enquête interne."
+      ],
+      "publishedAt": "2026-11-09T02:21:07+00:00",
+      "updatedAt": "2026-11-09T02:21:07+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "74b6cc05f5bbcb76aa610ccf74f0a1dba0719348c52ae25b1db963ffb377afd8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-214961c1f54307695b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La contestation contre les data centers monte en Europe",
+      "bullets": [
+        "A l’appel d’une coalition d’associations environnementales, des dizaines de manifestations se sont tenues dans une quinzaine de pays européens, vendredi et samedi, pour réclamer un moratoire sur la construction de centres de données."
+      ],
+      "publishedAt": "2026-11-08T16:00:08+00:00",
+      "updatedAt": "2026-11-08T16:00:08+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8d76de82e1be4c2fc456e11ba008c1ee092f5e41e5c698da61ba46b5b5be3165",
       "detailLevel": "preview"
     },
     {
@@ -333,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T11:04:44+00:00",
-      "updatedAt": "2026-11-09T11:04:44+00:00",
+      "publishedAt": "2026-11-09T11:58:29+00:00",
+      "updatedAt": "2026-11-09T11:58:29+00:00",
       "importance": 69,
       "sources": [
         {
@@ -359,8 +350,8 @@
       "bullets": [
         "En 2025, la France ne représentait que 24,2 % du chiffre d’affaires global des entreprises du CAC 40, avec des contributions « variant de 1 % à 64 % » des ventes, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
       ],
-      "publishedAt": "2026-11-09T10:00:08+00:00",
-      "updatedAt": "2026-11-09T10:00:08+00:00",
+      "publishedAt": "2026-11-09T10:00:06+00:00",
+      "updatedAt": "2026-11-09T10:00:06+00:00",
       "importance": 63,
       "sources": [
         {
@@ -531,6 +522,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7834f337473c1347f0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Gaza, la détresse des habitants après les pluies diluviennes qui ont submergé des dizaines de milliers d’abris de fortune",
+      "bullets": [
+        "Les inondations qui frappent la bande de Gaza révèlent l’ampleur des destructions causées par la guerre menée par Israël depuis le 7 octobre 2023, alors que l’Etat hébreu continue de restreindre l’acheminement de l’aide nécessaire à la reconstruction.",
+        "Dimanche, cinq personnes, dont trois enfants, ont perdu la vie."
+      ],
+      "publishedAt": "2026-11-09T11:30:02+00:00",
+      "updatedAt": "2026-11-09T11:30:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/09/a-gaza-la-detresse-des-habitants-apres-les-pluies-diluviennes-qui-ont-submerge-des-dizaines-de-milliers-d-abris-de-fortune_6808645_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2e188de3de2e97a0f6232e4ddc4741ccc86b6438f6d79eb5d498be2c2ce7bb18",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f741cc9e89614997a7",
       "revision": 2,
       "category": "world",
@@ -594,7 +610,7 @@
       ],
       "publishedAt": "2026-11-08T23:34:04+00:00",
       "updatedAt": "2026-11-08T23:34:04+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -664,30 +680,6 @@
       "context": null
     },
     {
-      "id": "rss-dddb68c09bf2c623cd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
-      "bullets": [
-        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
-      ],
-      "publishedAt": "2026-11-08T11:18:49+00:00",
-      "updatedAt": "2026-11-08T11:18:49+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7b7ca46eda71722818",
       "revision": 1,
       "category": "world",
@@ -745,62 +737,34 @@
       "context": null
     },
     {
-      "id": "rss-ac752828e4cb6c5453",
+      "id": "rss-dddb68c09bf2c623cd",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Qui est Gadi Eisenkot, le possible successeur de Benyamin Nétanyahou ?",
+      "title": "«Je prenais souvent le Concorde» : depuis la Floride, Donald Trump rêve de supersonique et annonce un salon «plus grand que le Bourget»",
       "bullets": [
-        "Le président israélien, Isaac Herzog, a officiellement remis, dimanche 8 novembre, à Gadi Eisenkot, chef du principal bloc d’opposition, le mandat de former le prochain gouvernement.",
-        "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque"
+        "Création du «plus grand salon aéronautique de la planète», éloge du Concorde, vaisseau nucléaire vers Mars… Vendredi 6 novembre, le président américain, en quête de «suprématie technologique», a étalé sa folie des grandeurs."
       ],
-      "publishedAt": "2026-11-08T17:41:04+00:00",
-      "updatedAt": "2026-11-08T17:41:04+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-08T11:18:49+00:00",
+      "updatedAt": "2026-11-08T11:18:49+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "dd64ead8fd7ab12d80bc5bc9263f4654e998d35807bacdb9c0b0e22a6f8f51e4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-a09145fe5a7b99a494",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
-      "bullets": [
-        "imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
-      ],
-      "publishedAt": "2026-11-09T10:30:09+00:00",
-      "updatedAt": "2026-11-09T10:30:09+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/je-prenais-souvent-le-concorde-depuis-la-floride-donald-trump-reve-de-supersonique-et-annonce-un-salon-plus-grand-que-le-bourget-20261107",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "0655e16f1178b6353cabcf0f070717fcafb542b577156afcf804d5812a136498",
+      "summaryInput": "11d381267858c63849d3543c5e06439d47ecbc85df385883acd90b65e2e24a88",
       "detailLevel": "preview"
     },
     {
       "id": "rss-ad1b5856f59e776778",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
       "bullets": [
         "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
@@ -819,6 +783,30 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f830768cea37ec9082",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
+      "bullets": [
+        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
+      ],
+      "publishedAt": "2026-11-09T07:00:09+00:00",
+      "updatedAt": "2026-11-09T07:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
       "detailLevel": "preview"
     },
     {
@@ -974,6 +962,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a09145fe5a7b99a494",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
+      "bullets": [
+        "imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
+      ],
+      "publishedAt": "2026-11-09T10:30:09+00:00",
+      "updatedAt": "2026-11-09T10:30:09+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0655e16f1178b6353cabcf0f070717fcafb542b577156afcf804d5812a136498",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-6dcbf96e723603093d",
       "revision": 1,
       "category": "france",
@@ -995,82 +1007,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-55133da4143dd52c05",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Marine Le Pen affirme sur la chaîne américaine CBS que la France est « le pays le moins raciste au monde » et qu’il n’y a « pas de discriminations »",
-      "bullets": [
-        "Interrogée par CBS sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
-      ],
-      "publishedAt": "2026-11-09T10:47:04+00:00",
-      "updatedAt": "2026-11-09T10:47:04+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "51d1037643e51cce4fb5fdb16a9b5d13d86c71e163acffff7ced51c931aaba1f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-520b6b03b4add49ae7",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
-      "bullets": [
-        "La pétition sur le site de l'Assemblée nationale appelant à \"supprimer CNews de l'audiovisuel français\" a recueilli plus d'un million de signatures, dans la soirée du dimanche 8 novembre.",
-        "Selon le règlement de l'Assemblée, un débat dans l'hémicycle peut être organisé sur un rapport relatif à une pétition lorsqu'elle dépasse les 500 000 signatures.",
-        "Jusqu'ici, la pétition contre la loi Duplomb était la seule à avoir dépassé le seuil du million de signatures."
-      ],
-      "publishedAt": "2026-11-09T08:13:18+00:00",
-      "updatedAt": "2026-11-09T08:13:18+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "863ffea77bdc01f2da837cdb19e5ff2ce1d3dcef3da5fd33a4b512af0d89febc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f830768cea37ec9082",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
-      "bullets": [
-        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
-      ],
-      "publishedAt": "2026-11-09T07:00:09+00:00",
-      "updatedAt": "2026-11-09T07:00:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
       "detailLevel": "preview"
     },
     {
@@ -1098,6 +1034,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7ba5c5452bd8b5d771",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
+      "bullets": [
+        "Sous pression des manifestants et sans marge financière, le Premier ministre, Sébastien Lecornu, continue de tenter de répondre à la colère sociale en multipliant les rencontres avec les syndicats et la jeunesse, lundi 9 novembre.",
+        "Le smic mensuel net est aujourd'hui de 1 477,93 euros.",
+        "Une nouvelle revalorisation uniforme de 1% coûterait 2,4 milliards d'euros à l'Etat, ce qui n'est \"pas envisageable\", avait fait valoir dès cet été le cabinet du ministre des Comptes publics, David Amiel."
+      ],
+      "publishedAt": "2026-11-09T09:49:16+00:00",
+      "updatedAt": "2026-11-09T09:49:16+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "aa20fd34ae439bf29ad537f0c88994f7bdd7acde527ec13692d74813ce170814",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T12:07:21.113478+00:00",
+      "context": null
+    },
+    {
       "id": "rss-fce3fbab88f205b409",
       "revision": 1,
       "category": "france",
@@ -1121,6 +1085,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "456ece4d8ab10b2aafbae1ab045c94818b2f79e64a2ba5c1e09deaee45b5abd8",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2e31c41489c04c353d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Blocages de lycées : \"Le premier des droits en France, c'est le droit à l'éducation. Vous ne pouvez pas priver votre camarade du droit à l'éducation\", réagit Édouard Geffray, ministre de l'Éducation nationale",
+      "bullets": [
+        "Alors que le mouvement de contestation dans les lycées se poursuit, avec des blocages et des manifestations qui ont donné lieu à des affrontements et à plusieurs blessés, le ministre de l'Éducation nationale, Édouard Geffray, était l'invité des 4V sur France 2, lundi 9 novembre.",
+        "Aujourd'hui, vous avez des élèves qui sont privés de cours parce que 1 % ou 2 % de leurs camarades bloquent leur lycée.",
+        "Plus de 200 personnels ont été blessés, notamment des AED."
+      ],
+      "publishedAt": "2026-11-09T08:29:41+00:00",
+      "updatedAt": "2026-11-09T08:29:41+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/blocages-de-lycees-le-premier-des-droits-en-france-c-est-le-droit-a-l-education-vous-ne-pouvez-pas-priver-votre-camarade-du-droit-a-l-education-reagit-edouard-geffray-ministre-de-l-education-nationale_8274158.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "f391bdbb033d17f8f5712d9639a641a9e8757d93fccffa2ef0e0524a79d44aca",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T12:07:21.113478+00:00",
+      "context": null
     },
     {
       "id": "rss-aba9d2591f93e279df",
@@ -1187,7 +1179,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1199,7 +1191,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1235,7 +1227,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
@@ -1253,7 +1245,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
