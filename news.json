@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T09:24:12.169166+00:00",
+  "preparedAt": "2026-11-09T11:09:17.258668+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -83,29 +83,59 @@
       "context": null
     },
     {
-      "id": "rss-f044ad861ee2473c1c",
+      "id": "rss-d0aa8c7e4d057a2620",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La bulle de l’IA se heurte à la réalité",
+      "title": "Grève de la fonction publique : une intersyndicale appelle à la grève le mardi 17 novembre",
       "bullets": [
-        "Aux Etats-Unis, la large victoire du Parti démocrate aux midterms a entraîné un brusque décrochage du Nasdaq, l’indice boursier spécialisé dans les valeurs technologiques.",
-        "Après avoir été l’un des principaux facteurs de dynamisme de l’économie américaine, l’intelligence artificielle pourrait devenir son talon d’Achille."
+        "Une intersyndicale dans la fonction publique appelle à la mobilisation et à la grève mardi 17 novembre pour demander notamment des augmentations de salaires, selon un communiqué diffusé lundi.",
+        "«Pour nos organisations CGT, UNSA, FSU, Solidaires, CFE-CGC, FAFP, il n’est pas envisageable qu’une telle mesure ne soit pas prise au regard de l’inflation qui continue de progresser», écrivent-elles, jugeant «pas acceptable que le point d’indice reste gelé une quatrième année»."
       ],
-      "publishedAt": "2026-11-07T10:30:18+00:00",
-      "updatedAt": "2026-11-07T10:30:18+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-09T10:59:03+00:00",
+      "updatedAt": "2026-11-09T10:59:03+00:00",
+      "importance": 69,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/la-bulle-de-l-ia-se-heurte-a-la-realite_6808268_3232.html",
-          "access": "extrait"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/greve-de-la-fonction-publique-une-intersyndicale-appelle-a-la-greve-le-mardi-17-novembre-20261109",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c593379ebd925c973148c9fa73c6e6d3b154152cca6ae0a551377c64bff77da9",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "ef5b55042d3037fc7f9430a24b5c27b8fe804b317b2f57740ffb08a3f54aa211",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d3e7e2d100901fc625",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Reporters sans frontières dresse dix priorités pour \"le droit à l'information\" et demande des \"engagements concrets\" aux candidats à la présidentielle",
+      "bullets": [
+        "Fiabilité de l'information, indépendance des rédactions, protection face à l'IA… Reporters sans frontières (RSF) a dressé lundi 9 novembre dix priorités pour \"défendre la liberté de la presse\".",
+        "\"Avec ses dix propositions, RSF entend placer les candidates et les candidats [à la présidentielle] face à leurs responsabilités\", a écrit l'ONG dans un communiqué.",
+        "Le Rassemblement national a prévu de privatiser ce secteur s'il arrive au pouvoir."
+      ],
+      "publishedAt": "2026-11-09T09:34:14+00:00",
+      "updatedAt": "2026-11-09T09:34:14+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/reporters-sans-frontieres-dresse-dix-priorites-pour-le-droit-a-l-information-et-demande-des-engagements-concrets-aux-candidats-a-la-presidentielle_8274254.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "22c448579c98ae7f4e9ae58246a83c6d705e7aaeb86060090180ea26d7514d4c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
+      "context": null
     },
     {
       "id": "rss-1775c9257583750bc5",
@@ -186,34 +216,6 @@
       "summaryInput": "fcffb6945f2e4f5574ca630064ebc4c52312fb3e0d4c8d86cb8545b5b64fec01",
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T05:19:06.014926+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9a0db81716355c5dcb",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Conférence sociale du 9 novembre : des annonces décisives à la clé ?",
-      "bullets": [
-        "\"Ce serait important qu'elle puisse franchir la barre des 1 500 euros net\", a déclaré le ministre du Travail, Jean-Pierre Farandou, dans \"La Tribune Dimanche\".",
-        "Vers un SMIC à 1 500 euros ?",
-        "À 13 heures, le gouvernement tiendra un point presse pour annoncer ses arbitrages, avec une deuxième réunion cruciale à 15h30."
-      ],
-      "publishedAt": "2026-11-08T19:18:22+00:00",
-      "updatedAt": "2026-11-08T19:18:22+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-des-annonces-decisives-a-la-cle_8273687.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "aaf066411899c1ad9a2f91bf68d8fcb233128b2c213cb71f1eb41f0839ffdc3b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
       "context": null
     },
     {
@@ -331,8 +333,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T09:20:08+00:00",
-      "updatedAt": "2026-11-09T09:20:08+00:00",
+      "publishedAt": "2026-11-09T11:04:44+00:00",
+      "updatedAt": "2026-11-09T11:04:44+00:00",
       "importance": 69,
       "sources": [
         {
@@ -346,6 +348,58 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T07:40:21.073326+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-bc3a1980177ab10fde",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "« Pour les géants du CAC 40, la France devient un fardeau, aussi bien en matière de perspectives économiques que de réputation »",
+      "bullets": [
+        "En 2025, la France ne représentait que 24,2 % du chiffre d’affaires global des entreprises du CAC 40, avec des contributions « variant de 1 % à 64 % » des ventes, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      ],
+      "publishedAt": "2026-11-09T10:00:08+00:00",
+      "updatedAt": "2026-11-09T10:00:08+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/pour-les-geants-du-cac-40-la-france-devient-un-fardeau-aussi-bien-en-matiere-de-perspectives-economiques-que-de-reputation_6808633_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3566052d96a98cca2d95201505443b1f3e735c14a61218bfcc4000451389e740",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-22ec48330d57261c6d",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "«Un scénario d'espionnage hollywoodien rejeté»... Alors que son patron a eu une liaison dangereuse avec une femme suspectée d'être une espionne chinoise, Nvidia chute de 4,5% à Wall Street, l'avenir de sa gouvernance s'obscurcit",
+      "bullets": [
+        "Nvidia se retrouve dans la tempête ce lundi 9 novembre, après que son directeur général, Jensen Huang, a reconnu avoir eu une relation extra-conjugale avec une femme identifiée comme étant une espionne chinoise.",
+        "En préouverture le titre du fabricant de processeurs graphiques (GPU) chute de 4,5% ce lundi 9 novembre.",
+        "Sur son dernier exercice, Nvidia a affiché une croissance de 65% de ses revenus tandis que son bénéfice a grimpé de 65% également, à 120,7 milliards de dollars."
+      ],
+      "publishedAt": "2026-11-09T09:56:20+00:00",
+      "updatedAt": "2026-11-09T09:56:20+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/un-scenario-d-espionnage-hollywoodien-rejete-alors-que-son-patron-a-eu-une-liaison-dangereuse-avec-une-femme-suspectee-d-etre-une-espionne-chinoise-nvidia-chute-de-45-a-wall-street-l-avenir-de-sa-gouvernance-s-obscurcit-1173403.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "0a7f74dd5fed5bf28b11e4c02b49efe6bdf324c5915b18e374ba3eb2aec6462d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T11:09:17.258668+00:00",
       "context": null
     },
     {
@@ -371,34 +425,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "381e676f0b20895fa7509282fa4dfdd43ac3f82b51fbd657c27332a52c00ca04",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dccce98b5feedae94f",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "La déroute des valeurs technologiques à Wall Street jette une ombre sur l'introduction en Bourse record d'Anthropic",
-      "bullets": [
-        "Aux États-Unis, le Nasdaq a plongé de plus de 5,5% jeudi, signant sa plus forte baisse depuis avril 2025.",
-        "Selon une personne proche du dossier, le chiffre d’affaires annualisé d’Anthropic (un indicateur utilisé pour estimer les revenus annuels) a dépassé 80 milliards de dollars à la fin octobre, en hausse par rapport au mois précédent.",
-        "Une perte nette de 104 milliards de dollars sur neuf mois Cette prudence intervient alors même qu’Anthropic affiche une croissance spectaculaire, mais aussi des pertes et des engagements d’infrastructure colossaux."
-      ],
-      "publishedAt": "2026-11-06T10:00:52+00:00",
-      "updatedAt": "2026-11-06T10:00:52+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/la-deroute-des-valeurs-technologiques-a-wall-street-jette-une-ombre-sur-l-introduction-en-bourse-record-d-anthropic-1173320.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "118a6ce61e7b5409ce42bf5fe4e9e4cd809bd5c8602e83d99686a98d39a37ca6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T01:23:37.169032+00:00",
-      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-5a8042ce4fa328ece6",
@@ -747,10 +773,34 @@
       "context": null
     },
     {
-      "id": "rss-ad1b5856f59e776778",
+      "id": "rss-a09145fe5a7b99a494",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
+      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
+      "bullets": [
+        "imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
+      ],
+      "publishedAt": "2026-11-09T10:30:09+00:00",
+      "updatedAt": "2026-11-09T10:30:09+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0655e16f1178b6353cabcf0f070717fcafb542b577156afcf804d5812a136498",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ad1b5856f59e776778",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
       "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
       "bullets": [
         "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
@@ -769,30 +819,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f830768cea37ec9082",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
-      "bullets": [
-        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
-      ],
-      "publishedAt": "2026-11-09T07:00:09+00:00",
-      "updatedAt": "2026-11-09T07:00:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
       "detailLevel": "preview"
     },
     {
@@ -972,6 +998,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-55133da4143dd52c05",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Marine Le Pen affirme sur la chaîne américaine CBS que la France est « le pays le moins raciste au monde » et qu’il n’y a « pas de discriminations »",
+      "bullets": [
+        "Interrogée par CBS sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
+      ],
+      "publishedAt": "2026-11-09T10:47:04+00:00",
+      "updatedAt": "2026-11-09T10:47:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "51d1037643e51cce4fb5fdb16a9b5d13d86c71e163acffff7ced51c931aaba1f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-520b6b03b4add49ae7",
       "revision": 1,
       "category": "france",
@@ -998,6 +1048,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
       "context": null
+    },
+    {
+      "id": "rss-f830768cea37ec9082",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
+      "bullets": [
+        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
+      ],
+      "publishedAt": "2026-11-09T07:00:09+00:00",
+      "updatedAt": "2026-11-09T07:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-13b03bc8a6f1058382",
@@ -1049,34 +1123,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2e31c41489c04c353d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Blocages de lycées : \"Le premier des droits en France, c'est le droit à l'éducation. Vous ne pouvez pas priver votre camarade du droit à l'éducation\", réagit Édouard Geffray, ministre de l'Éducation nationale",
-      "bullets": [
-        "Alors que le mouvement de contestation dans les lycées se poursuit, avec des blocages et des manifestations qui ont donné lieu à des affrontements et à plusieurs blessés, le ministre de l'Éducation nationale, Édouard Geffray, était l'invité des 4V sur France 2, lundi 9 novembre.",
-        "Aujourd'hui, vous avez des élèves qui sont privés de cours parce que 1 % ou 2 % de leurs camarades bloquent leur lycée.",
-        "Plus de 200 personnels ont été blessés, notamment des AED."
-      ],
-      "publishedAt": "2026-11-09T08:29:41+00:00",
-      "updatedAt": "2026-11-09T08:29:41+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/blocages-de-lycees-le-premier-des-droits-en-france-c-est-le-droit-a-l-education-vous-ne-pouvez-pas-priver-votre-camarade-du-droit-a-l-education-reagit-edouard-geffray-ministre-de-l-education-nationale_8274158.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "f391bdbb033d17f8f5712d9639a641a9e8757d93fccffa2ef0e0524a79d44aca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T09:24:12.169166+00:00",
-      "context": null
-    },
-    {
       "id": "rss-aba9d2591f93e279df",
       "revision": 1,
       "category": "france",
@@ -1116,7 +1162,7 @@
       ],
       "publishedAt": "2026-11-08T10:24:19+00:00",
       "updatedAt": "2026-11-08T10:24:19+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1127,30 +1173,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-89999759469970b9cc",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Conférence sociale : Sébastien Lecornu tiraillé entre hausse des salaires et préservation de l’emploi",
-      "bullets": [
-        "Le premier ministre, qui devait recevoir les principales organisations d’employeurs et de salariés du secteur privé, lundi 9 novembre, va tenter de dénouer un dialogue social miné par la crise."
-      ],
-      "publishedAt": "2026-11-09T08:02:26+00:00",
-      "updatedAt": "2026-11-09T08:02:26+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/09/conference-sociale-sebastien-lecornu-tiraille-entre-hausse-des-salaires-et-preservation-de-l-emploi_6808625_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3c7778eb7216870d75b92652b81128aae8603045e7af17fd0bcae56409c2bdfc",
       "detailLevel": "preview"
     }
   ],
@@ -1165,7 +1187,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1189,7 +1211,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1231,13 +1253,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1261,7 +1283,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
