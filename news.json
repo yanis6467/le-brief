@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-09",
-  "preparedAt": "2026-11-09T04:09:34.675017+00:00",
+  "preparedAt": "2026-11-09T05:19:06.014926+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -18,7 +18,7 @@
       ],
       "publishedAt": "2026-11-06T16:12:32+00:00",
       "updatedAt": "2026-11-06T16:12:32+00:00",
-      "importance": 89,
+      "importance": 88,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -46,7 +46,7 @@
       ],
       "publishedAt": "2026-11-06T16:43:50+00:00",
       "updatedAt": "2026-11-06T16:43:50+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -115,28 +115,57 @@
       "context": null
     },
     {
-      "id": "rss-19f7ed098526ed4b3b",
+      "id": "rss-d985d41a0f969f7aa5",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Thierry Cotillard, patron d’Intermarché : « L’hypersensibilité au prix est telle qu’il y a un risque de déconsommation si l’inflation alimentaire dépasse 2 % ou 3 % »",
+      "title": "« S’engager dans le syndicalisme aujourd’hui en France, c’est souvent s’exposer aux discriminations et à la répression »",
       "bullets": [
-        "En amont des négociations commerciales annuelles entre les enseignes de supermarchés et les industriels de l’agroalimentaire, qui débuteront le 1ᵉʳ décembre, le président de Groupement Mousquetaires appelle, dans un entretien au « Monde », à la responsabilité de tous les acteurs pour que la hausse des prix reste contenue."
+        "Trois spécialistes des syndicats rejettent, dans une tribune au « Monde », les propositions des économistes Pierre Cahuc et André Zylberberg visant à lutter contre la désaffection qui touche les syndicats.",
+        "Ils estiment que leur faiblesse vient plutôt des réformes menées à leur encontre."
       ],
-      "publishedAt": "2026-11-07T05:00:02+00:00",
-      "updatedAt": "2026-11-07T05:00:02+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-09T05:00:52+00:00",
+      "updatedAt": "2026-11-09T05:00:52+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/07/thierry-cotillard-patron-d-intermarche-l-hypersensibilite-au-prix-est-telle-qu-il-y-a-un-risque-de-deconsommation-si-l-inflation-alimentaire-depasse-2-ou-3_6808204_3234.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/s-engager-dans-le-syndicalisme-aujourd-hui-en-france-c-est-souvent-s-exposer-aux-discriminations-et-a-la-repression_6808613_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "889aa273b5fb757bfcd1b9dd6bcc9e60846b14d9217f3e961524508c7a400d2b",
+      "summaryInput": "38733bcac9de7cf1ad098f8202df838a31966637ae07f64840f0be5bc845ad4e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e901bd71d949a1d8f4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
+      "bullets": [
+        "Le smic mensuel net est aujourd'hui de 1 477,93 euros.",
+        "La CGT demande une augmentation de 10%, soit environ 150 euros net mensuels, tandis que la CFDT réclame 100 euros.",
+        "Force ouvrière plaide quant à elle pour un smic à \"80% du salaire médian, soit 2 000 euros\"."
+      ],
+      "publishedAt": "2026-11-09T04:52:42+00:00",
+      "updatedAt": "2026-11-09T04:52:42+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "fcffb6945f2e4f5574ca630064ebc4c52312fb3e0d4c8d86cb8545b5b64fec01",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T05:19:06.014926+00:00",
+      "context": null
     },
     {
       "id": "rss-9a0db81716355c5dcb",
@@ -195,34 +224,6 @@
       "context": null
     },
     {
-      "id": "rss-bc89f7acf1c6c954ba",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "25 000 euros pour arrêter de conduire",
-      "bullets": [
-        "Face aux embouteillages toujours plus nombreux, le gouvernement maltais a décidé d'offrir 25 000 euros aux automobilistes pour qu'ils arrêtent de conduire pendant au moins cinq ans.",
-        "Tesla va progressivement arrêter la production du Cybertruck vers mi-2027, annonce Elon Musk",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque"
-      ],
-      "publishedAt": "2026-11-08T12:00:02+00:00",
-      "updatedAt": "2026-11-08T12:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "1fd81fdfac3c44b94028056463dd74872197e91a8b600fd5b01582def6fb1f7c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T23:46:33.222822+00:00",
-      "context": null
-    },
-    {
       "id": "rss-25887781fa1ad9b98d",
       "revision": 1,
       "category": "eco",
@@ -244,31 +245,6 @@
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
       "summaryInput": "5da50fa1392104059de1496b448504d854b29ef06e4265478cdd93e5c612235a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1d62a4d340113d52b2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "bullets": [
-        "Les menaces, qui se sont révélées infondées, ont ciblé vendredi plusieurs médias irlandais ainsi que plusieurs vols commerciaux entre des pays européens.",
-        "Le flou demeure sur l’origine et les intentions réelles des auteurs."
-      ],
-      "publishedAt": "2026-11-06T20:03:24+00:00",
-      "updatedAt": "2026-11-06T20:03:24+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3a16cf2ae1d6d92437ee2100b4c9457de364b3c233026b81c948e124981225f3",
       "detailLevel": "preview"
     },
     {
@@ -296,28 +272,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48156d907b62c533e5",
+      "id": "rss-1620ca18135aa8bf8b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+      "title": "15.000 cartes-cadeaux Illicado volées lors d’une cyberattaque",
       "bullets": [
-        "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ?",
-        "Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+        "L’entreprise française Illi&co, l’un des leaders du marché des cartes-cadeaux, a en effet été victime d’une cyberattaque le 1er novembre, confirme-t-elle au Figaro ce vendredi.",
+        "Attaque «ciblée et automatisée» Elle dit également avoir prévenu les entreprises clientes ayant acheté les cartes-cadeaux.",
+        "Le site spécialisé sur les cyberattaques FrenchBreaches a publié un courrier reçu par un client, dans lequel Illicado détaille une cyberattaque «ciblée et automatisée» qui visait «le service de génération des documents PDF des e-cartes»."
       ],
-      "publishedAt": "2026-11-07T04:55:01+00:00",
-      "updatedAt": "2026-11-07T04:55:01+00:00",
+      "publishedAt": "2026-11-06T11:40:34+00:00",
+      "updatedAt": "2026-11-06T11:40:34+00:00",
       "importance": 62,
       "sources": [
         {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/15-000-cartes-cadeaux-illicado-volees-lors-d-une-cyberattaque-20261106",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "320838c6700ddd7b1e8a6db1324b2576be0299ebc3a19cd790dc28f640b8893b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T05:19:06.014926+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6034969cf97f209ed4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "bullets": [
+        "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %.",
+        "Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
+      ],
+      "publishedAt": "2026-11-08T04:00:31+00:00",
+      "updatedAt": "2026-11-08T04:00:31+00:00",
+      "importance": 61,
+      "sources": [
+        {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "45ead585272a914381ff3dd663bcc66f7d9854bece32ca61acdcc1a8b5301d94",
+      "summaryInput": "8a7ef8c6d09f261c2edbf711e9816bbcdb3f3e1f477ef54643661f1c25ad1db9",
       "detailLevel": "preview"
     },
     {
@@ -331,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T04:06:41+00:00",
-      "updatedAt": "2026-11-09T04:06:41+00:00",
+      "publishedAt": "2026-11-09T05:15:09+00:00",
+      "updatedAt": "2026-11-09T05:15:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -461,27 +465,27 @@
       "context": null
     },
     {
-      "id": "rss-6dcbf96e723603093d",
+      "id": "rss-997be612442c574b6d",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
       "bullets": [
-        "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée."
+        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
       ],
-      "publishedAt": "2026-11-08T13:04:32+00:00",
-      "updatedAt": "2026-11-08T13:04:32+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "updatedAt": "2026-11-09T05:00:00+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
       "provenance": "rss-excerpt",
-      "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
+      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
       "detailLevel": "preview"
     },
     {
@@ -587,6 +591,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-29478dd64d0a6cb49a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre. Retrouvez les informations du 1ᵉʳ au 8 novembre.",
+      "bullets": [
+        "Le secrétaire d’Etat américain s’exprimait avant de s’envoler pour un sommet des ministres des affaires étrangères du G7 à Paris, alors que des négociations entre la Russie et l’Ukraine sous médiation américaine sont prévues mardi et mercredi à Abou Dhabi."
+      ],
+      "publishedAt": "2026-11-08T23:34:04+00:00",
+      "updatedAt": "2026-11-08T23:34:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "db753221a1dcba02dd53362f2b07591686bd561e3c6ce3dd037bc995d6b948ad",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-940e943db5d82affef",
       "revision": 1,
       "category": "world",
@@ -641,31 +669,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-08T19:53:45.043710+00:00",
       "context": null
-    },
-    {
-      "id": "rss-570acd875b5b2c61f8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Italie : le ministre des affaires étrangères visé par une cyberattaque, Giorgia Meloni dénonce des « hackers prorusses »",
-      "bullets": [
-        "Antonio Tajani a annoncé, samedi, que certaines de ses données personnelles avaient été diffusées sur le dark Web.",
-        "Selon lui, de futures opérations de déstabilisation pourraient chercher à influencer l’opinion italienne dans la perspective des prochaines échéances électorales, des législatives étant attendues en 2027."
-      ],
-      "publishedAt": "2026-11-08T19:19:16+00:00",
-      "updatedAt": "2026-11-08T19:19:16+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5a17fc10134c30b45466f1cd8176c76435a2be059a5c392831bd9d4bab9f7421",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-9965ea033b3d708186",
@@ -776,32 +779,29 @@
       "context": null
     },
     {
-      "id": "rss-520b6b03b4add49ae7",
+      "id": "rss-ad1b5856f59e776778",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
+      "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
       "bullets": [
-        "La pétition sur le site de l'Assemblée nationale appelant à \"supprimer CNews de l'audiovisuel français\" a recueilli plus d'un million de signatures, dans la soirée du dimanche 8 novembre.",
-        "Selon le règlement de l'Assemblée, un débat dans l'hémicycle peut être organisé sur un rapport relatif à une pétition lorsqu'elle dépasse les 500 000 signatures.",
-        "Jusqu'ici, la pétition contre la loi Duplomb était la seule à avoir dépassé le seuil du million de signatures."
+        "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
+        "Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées."
       ],
-      "publishedAt": "2026-11-08T20:57:47+00:00",
-      "updatedAt": "2026-11-08T20:57:47+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-09T05:00:42+00:00",
+      "updatedAt": "2026-11-09T05:00:42+00:00",
+      "importance": 97,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-09",
-      "provenance": "article-extract",
-      "summaryInput": "02cfb5814266be61863db01ee4dd7f3284562b8e2555d863bc6a056cd19480ca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-08T21:48:12.808529+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-9483d20b0a47b638c4",
@@ -894,7 +894,7 @@
       ],
       "publishedAt": "2026-11-06T16:15:09+00:00",
       "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -946,7 +946,7 @@
       ],
       "publishedAt": "2026-11-08T17:00:00+00:00",
       "updatedAt": "2026-11-08T17:00:00+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -970,7 +970,7 @@
       ],
       "publishedAt": "2026-11-07T16:30:10+00:00",
       "updatedAt": "2026-11-07T16:30:10+00:00",
-      "importance": 45,
+      "importance": 44,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -982,6 +982,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "80bbb3f686ee1dfa6482ee713eae550f9c7e25e645bbf6653aeb9e1492741655",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6dcbf96e723603093d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "bullets": [
+        "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée."
+      ],
+      "publishedAt": "2026-11-08T13:04:32+00:00",
+      "updatedAt": "2026-11-08T13:04:32+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9960abe8ea202f0ba48a7dc5be979bb9621741c6db4bcac9e3b12d93461d8724",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-520b6b03b4add49ae7",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
+      "bullets": [
+        "La pétition sur le site de l'Assemblée nationale appelant à \"supprimer CNews de l'audiovisuel français\" a recueilli plus d'un million de signatures, dans la soirée du dimanche 8 novembre.",
+        "Selon le règlement de l'Assemblée, un débat dans l'hémicycle peut être organisé sur un rapport relatif à une pétition lorsqu'elle dépasse les 500 000 signatures.",
+        "Jusqu'ici, la pétition contre la loi Duplomb était la seule à avoir dépassé le seuil du million de signatures."
+      ],
+      "publishedAt": "2026-11-08T20:57:47+00:00",
+      "updatedAt": "2026-11-08T20:57:47+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "article-extract",
+      "summaryInput": "02cfb5814266be61863db01ee4dd7f3284562b8e2555d863bc6a056cd19480ca",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-08T21:48:12.808529+00:00",
+      "context": null
     },
     {
       "id": "rss-13b03bc8a6f1058382",
@@ -1058,78 +1110,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6777ff7e0e2855e2f3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Edouard Philippe tente le pari risqué du virage à droite pour sa campagne",
-      "bullets": [
-        "En durcissant son discours sur l’immigration afin de consolider son socle électoral, l’ancien premier ministre pourrait s’aliéner les électeurs modérés dont il a besoin pour franchir le premier tour."
-      ],
-      "publishedAt": "2026-11-09T04:00:12+00:00",
-      "updatedAt": "2026-11-09T04:00:12+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "74ced1f90bae28a711d71600ab0a4a8a274cf1aa551bbe7070b28cf8ca07b040",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-80ff08792cf90cadd6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
-      "bullets": [
-        "Crédité de 2 % à 3 % des intentions de vote, le patron du Parti communiste français « regrette » le choix de neuf députés de son groupe et assure que le chef de file de La France Insoumise « ne gagnera jamais »."
-      ],
-      "publishedAt": "2026-11-08T21:00:53+00:00",
-      "updatedAt": "2026-11-08T21:00:53+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "98849a6fdc14c747d695f3dceb4cb2ddc8f3560fa37ed1e48edcd1bc8b9d1ce3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-afb1617de0ae26cb5e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
-      "bullets": [
-        "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post »."
-      ],
-      "publishedAt": "2026-11-08T13:59:33+00:00",
-      "updatedAt": "2026-11-08T13:59:33+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "555881fa819254b42a5164e13be58c7a57de2a8b02fb8d58d76d8ba8b84a1910",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-71d4e81969c0fb2fb6",
       "revision": 1,
       "category": "france",
@@ -1177,6 +1157,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "651d9f378dea89a454a075a949df717af52935d6875edb356cd906159a826dcd",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-67264a6b9ba2e3ae6a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
+      "bullets": [
+        "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement.",
+        "Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler."
+      ],
+      "publishedAt": "2026-11-08T13:39:05+00:00",
+      "updatedAt": "2026-11-08T13:39:05+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-09",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45e7980448d7f59c881b475b101ea4ed66f536e296185ef1cb474fc7eca8aa5b",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1190,7 +1195,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1256,7 +1261,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
