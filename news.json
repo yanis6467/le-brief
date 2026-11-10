@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T19:08:42.002744+00:00",
+  "preparedAt": "2026-11-10T20:02:09.123026+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -150,7 +150,7 @@
       ],
       "publishedAt": "2026-11-10T07:30:59+00:00",
       "updatedAt": "2026-11-10T07:30:59+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -244,6 +244,34 @@
       "context": null
     },
     {
+      "id": "rss-07ccc59d89b5448cda",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sophie Binet est-elle la première dirigeante de la CGT à n'avoir jamais travaillé dans le privé, comme l'affirme le député RN Jean-Philippe Tanguy ?",
+      "bullets": [
+        "Ce n'est pas étonnant que Mme Binet soit la première dirigeante de la CGT à n'avoir jamais connu le monde du travail privé, le monde de l'industrie.",
+        "Sophie Binet, âgée de 44 ans, a commencé sa carrière professionnelle en 2008, en tant que CPE dans un lycée à Marseille (Bouches-du-Rhône).",
+        "Sept dirigeants de la CGT issus du secteur publicDepuis 1895, la CGT a connu 16 secrétaires généraux, dont sept qui n'ont jamais travaillé dans le privé avant de diriger le syndicat."
+      ],
+      "publishedAt": "2026-11-10T19:47:19+00:00",
+      "updatedAt": "2026-11-10T19:47:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/syndicats/sophie-binet-est-elle-la-premiere-dirigeante-de-la-cgt-a-n-avoir-jamais-travaille-dans-le-prive-comme-l-affirme-le-depute-rn-jean-philippe-tanguy_8276849.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "38ab58150518b7b5c866c43439152d9010e60bb8bc8506cf2d3476ded262eda5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:02:09.123026+00:00",
+      "context": null
+    },
+    {
       "id": "rss-3d306580ca5645912e",
       "revision": 2,
       "category": "eco",
@@ -293,34 +321,6 @@
       "summaryInput": "fa292e93f7749424ac464cc7743362b86b0039ca5a1132d875577daacca36706",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T15:59:11.970422+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-eb760474affdcd581b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Retraites : 40% des Français ignorent le principe du système par répartition",
-      "bullets": [
-        "Pire, la complexité du système de retraite français pousserait 29 % des non-retraités à adopter une attitude d’abandon face à leur future retraite, et 19 % assument être dans le déni.",
-        "L’étude révèle que 64 % des Français souhaitent introduire une part de capitalisation dans le système, contre 15 % qui veulent conserver le système actuel et s’en tenir à la seule répartition.",
-        "Pourtant, les plus grosses lacunes de connaissance du système de retraite s’enregistrent parmi les 18-24 ans, leur note moyenne au test général de connaissance sur les retraites s’élevant à 3,3/10."
-      ],
-      "publishedAt": "2026-11-10T14:59:33+00:00",
-      "updatedAt": "2026-11-10T14:59:33+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/retraites-40-des-francais-ignorent-le-principe-du-systeme-par-repartition-20261110",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "cdb3bd3d284a1739728a13a2a889a4e58beb988006cbd5eb1c307d637d23f543",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
       "context": null
     },
     {
@@ -414,8 +414,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T19:05:46+00:00",
-      "updatedAt": "2026-11-10T19:05:46+00:00",
+      "publishedAt": "2026-11-10T19:57:35+00:00",
+      "updatedAt": "2026-11-10T19:57:35+00:00",
       "importance": 69,
       "sources": [
         {
@@ -619,6 +619,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1f99992d45969efd08",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
+      "bullets": [
+        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+      ],
+      "publishedAt": "2026-11-10T12:51:21+00:00",
+      "updatedAt": "2026-11-10T12:51:21+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
+    },
+    {
       "id": "rss-714e3a8dc0560fdfe8",
       "revision": 1,
       "category": "world",
@@ -629,7 +657,7 @@
       ],
       "publishedAt": "2026-11-09T19:30:00+00:00",
       "updatedAt": "2026-11-09T19:30:00+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -719,6 +747,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-2ff664ec2811de315c",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
+      "bullets": [
+        "Téhéran a réfuté, mardi 10 novembre, les \"accusations infondées\" de Paris, qui a pointé le rôle de l'Iran dans les cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés français en octobre.",
+        "Dans un communiqué, le ministère des Affaires étrangères iranien \"rejette catégoriquement les accusations infondées et unilatérales du gouvernement français à l'encontre de l'Iran concernant de prétendues activités cyber en France\".",
+        "Cette attaque a entraîné des pertes de marchandise importantes et, dans au moins 15 cas, des départs de feu, selon les services de sécurité français."
+      ],
+      "publishedAt": "2026-11-10T19:17:26+00:00",
+      "updatedAt": "2026-11-10T19:17:26+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "4cdfe15ca97f9ee25fbcac1151e09c848b31b88aaadc41b1ab1088ec000e3a83",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:02:09.123026+00:00",
+      "context": null
+    },
+    {
       "id": "rss-26c93e974c56815999",
       "revision": 1,
       "category": "world",
@@ -741,34 +797,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "548df4b5fe566dc70ece20e45645f6ce4c796973162a873eb37a05be5b479681",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2ff664ec2811de315c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
-      "bullets": [
-        "Téhéran a réfuté, mardi 10 novembre, les \"accusations infondées\" de Paris, qui a pointé le rôle de l'Iran dans les cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés, en octobre.",
-        "Cette attaque a entraîné des pertes de marchandise importantes et dans au moins 15 cas des départs de feu, selon les services de sécurité français.",
-        "Début novembre, au moins 11 pays européens ont connu des incidents similaires."
-      ],
-      "publishedAt": "2026-11-10T18:58:09+00:00",
-      "updatedAt": "2026-11-10T18:58:09+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "b75d23facb05fef4293751d2e7bba9af9e4de16beffbdba65b5e3b0ea1824f2c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
-      "context": null
     },
     {
       "id": "rss-eb7cc1ae89e32c0df3",
@@ -824,62 +852,10 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-237ce1d57c4d0924af",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Iran, la tentation de l’arme nucléaire gagne du terrain après la guerre israélo-américaine",
-      "bullets": [
-        "Longtemps justifié par une interdiction religieuse et présenté comme un choix stratégique, le renoncement au développement et à la possession de l’arme nucléaire est désormais contesté au sein d’une partie des élites iraniennes."
-      ],
-      "publishedAt": "2026-11-10T16:00:03+00:00",
-      "updatedAt": "2026-11-10T16:00:03+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/en-iran-la-tentation-de-l-arme-nucleaire-gagne-du-terrain-apres-la-guerre-israelo-americaine_6808868_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "99b7dfe7494a9e6e88efff5baf39d8af29a531ce4a4b33baecee7cfe1c7517ee",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c1c9ada0dbc14d382b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-      "bullets": [
-        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
-        "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
-        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
-      ],
-      "publishedAt": "2026-11-10T16:10:30+00:00",
-      "updatedAt": "2026-11-10T16:10:30+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8d2c068771c77e0578",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Jean-Marie Burguburu, président de la CNCDH : « La dégradation des libertés publiques est très inquiétante »",
       "bullets": [
         "A 81 ans, l’avocat quitte la tête de la Commission nationale consultative des droits de l’homme, qui rend des avis indépendants et formule des recommandations au gouvernement.",
@@ -899,6 +875,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9558fba9642493e066a88cf616ebfcf2774aef73722c44bc68cda833ac60f0af",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-de57ad6a23ab8b3aae",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "bullets": [
+        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
+        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
+        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+      ],
+      "publishedAt": "2026-11-10T18:15:54+00:00",
+      "updatedAt": "2026-11-10T18:15:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -978,32 +982,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1f99992d45969efd08",
+      "id": "rss-71d4e81969c0fb2fb6",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
+      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
       "bullets": [
-        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
+        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
       ],
-      "publishedAt": "2026-11-10T12:51:21+00:00",
-      "updatedAt": "2026-11-10T12:51:21+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-07T10:27:51+00:00",
+      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "importance": 61,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-f53341bdf825f59ceb",
@@ -1031,6 +1032,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c1c9ada0dbc14d382b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+      "bullets": [
+        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
+        "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
+        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
+      ],
+      "publishedAt": "2026-11-10T19:28:47+00:00",
+      "updatedAt": "2026-11-10T19:28:47+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8d5f6893c84e382dcf",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "\"Il faut qu'on revoie la loi sur la justice des mineurs\", suggère Jad Zahab, porte-parole de Gabriel Attal",
+      "bullets": [
+        "Ces violences sur dépositaires de l’ordre public, vous risquez la réclusion criminelle à perpétuité si vous êtes majeur et 20 ans de réclusion criminelle si vous êtes mineur.",
+        "Deuxièmement, savez-vous que si vous avez 17 ans et 364 jours, c’est-à-dire mineur, vous ne pouvez pas passer en comparution immédiate ?",
+        "Si vous avez 18 ans et un jour, vous pouvez passer en comparution immédiate."
+      ],
+      "publishedAt": "2026-11-10T18:56:10+00:00",
+      "updatedAt": "2026-11-10T18:56:10+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/il-faut-qu-on-revoie-la-loi-sur-la-justice-des-mineurs-suggere-jad-zahab-porte-parole-de-gabriel-attal_8276834.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "4d7b3ec168f662d6e942e218d3b3fab2a47cce39c8fc21a0dc52f5da82d5051f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:02:09.123026+00:00",
+      "context": null
+    },
+    {
       "id": "rss-826ae8de5832821406",
       "revision": 1,
       "category": "france",
@@ -1052,30 +1109,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "5a2db3caa7dae0694a1b4ff977ca845ae59294cb14f81930cc08c680bb985559",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bb03a493e4347afdc5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
-      "bullets": [
-        "Les députés de la commission des affaires culturelles ont décidé, mardi 10 novembre, de classer le texte qui avait dépassé le million de signataires dimanche."
-      ],
-      "publishedAt": "2026-11-10T14:16:10+00:00",
-      "updatedAt": "2026-11-10T14:16:10+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "af22d69d9f8022c1d830c1c9170310f7ea86af942666723f368571b8b74e00cc",
       "detailLevel": "preview"
     },
     {
@@ -1127,89 +1160,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de57ad6a23ab8b3aae",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
-      "bullets": [
-        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
-        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
-        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
-      ],
-      "publishedAt": "2026-11-10T18:15:54+00:00",
-      "updatedAt": "2026-11-10T18:15:54+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ad352e12a25b9f615b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
-      "bullets": [
-        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
-        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
-        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
-      ],
-      "publishedAt": "2026-11-09T20:39:17+00:00",
-      "updatedAt": "2026-11-09T20:39:17+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-8d1d468f76337209b1",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik",
-      "bullets": [
-        "Ce Polonais de 24 ans s'intéressait au néonazi Anders Behring Breivik, a déclaré le ministre de la Justice polonais, mardi 10 novembre, estimant que plusieurs éléments recueillis par les enquêteurs renforçaient l'hypothèse d'une radicalisation d'extrême droite.\"Les services ont accès à l'ordinateur du terroriste.",
-        "L'équipée meurtrière de Michal Oksinski a coûté la vie à un total de neuf personnes, selon le bilan établi après la découverte des corps de ses parents et de sa sœur, retrouvés avec des plaies par balles à leur domicile à deux heures de route du lieu de la fusillade à Cracovie."
-      ],
-      "publishedAt": "2026-11-10T15:54:34+00:00",
-      "updatedAt": "2026-11-10T15:54:34+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "8ac9062de8a3b1c27a7e5705d233b6bf80e8168f79e9319984463f008b371456",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T15:59:11.970422+00:00",
-      "context": null
-    },
-    {
       "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
@@ -1256,6 +1206,56 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-70368decfd00d44ffa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
+      "bullets": [
+        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
+        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
+      ],
+      "publishedAt": "2026-11-10T08:42:17+00:00",
+      "updatedAt": "2026-11-10T08:42:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9054c468c703e63407",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
+      "bullets": [
+        "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
+        "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
+      ],
+      "publishedAt": "2026-11-10T03:30:07+00:00",
+      "updatedAt": "2026-11-10T03:30:07+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
       "detailLevel": "preview"
     }
   ],
@@ -1324,7 +1324,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1336,13 +1336,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1366,7 +1366,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
