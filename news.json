@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-09T23:50:19.215857+00:00",
+  "preparedAt": "2026-11-10T01:15:11.745431+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -26,7 +26,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "dba56206d0426d197e5f2c5feab74f0fdc9df8beb6763b97956185bead1ec83a",
       "detailLevel": "preview"
@@ -52,7 +52,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "b183697b96761d166606f84040d8a08732d42304032157f2445ce318c4b39b34",
       "detailLevel": "article",
@@ -78,7 +78,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "0ab6759296eccdeb4fd2766175a18e3c3eac3ebcb8b7e6ee827f58eceaf75716",
       "detailLevel": "preview"
@@ -103,7 +103,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "bb626296fe3e53378766a6d344ad46db420133f3747599ddf231cda0e8ef13f2",
       "detailLevel": "article",
@@ -131,7 +131,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
       "detailLevel": "article",
@@ -159,7 +159,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "31b536d37638749b70927c835aed82ff7695758965adfecbbe1864bc85c93db8",
       "detailLevel": "article",
@@ -187,36 +187,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "c4581e5fd3300f25c56eaeae3ad954b46b7524c1f8d2d6ccb83298168ee8b73a",
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T17:23:15.119469+00:00",
       "context": null
-    },
-    {
-      "id": "rss-870e34581992a249ac",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
-      "bullets": [
-        "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT."
-      ],
-      "publishedAt": "2026-11-09T14:55:54+00:00",
-      "updatedAt": "2026-11-09T14:55:54+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-8699dbf2bed7c2567c",
@@ -237,7 +213,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "f8c3d691a53edd94177fe6d2b636952a09df965e519c5ace19fa1d5ae751ea8d",
       "detailLevel": "preview"
@@ -263,7 +239,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "dd4b1c5721eca483a731882fb01f140f75e10ac77007ceb2c5758081fb52e1b6",
       "detailLevel": "article",
@@ -289,7 +265,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "bccbc47f210f7c5db4ed4cfb88b15a7c60e577544f0007c183117268e31933b5",
       "detailLevel": "preview"
@@ -314,10 +290,38 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "cff7a96a661f3196cad592242d721fab945efb1d0b07e34d65df087432c0485c",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-08e15f62e64096f304",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats",
+      "bullets": [
+        "Au total pour 2026, pour suivre l'inflation, le SMIC aura augmenté de 5,3 %.",
+        "Environ 24 euros net de plus chaque mois, 15 euros automatiques liés à l'inflation et 9 euros de coup de pouce du gouvernement.",
+        "Le gouvernement ne nous a annoncé que des miettes\", réagit Sophie Binet, secrétaire générale de la CGT.\"Une contrainte\" pour les patronsAu 1er décembre, 2,1 millions de travailleurs bénéficieront de cette augmentation du SMIC."
+      ],
+      "publishedAt": "2026-11-09T20:42:23+00:00",
+      "updatedAt": "2026-11-09T20:42:23+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-smic-a-1500-euros-un-coup-de-pouce-insuffisant-pour-les-syndicats_8275157.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "ce26815dd58fac145ddd1b12cf3b5d8c0de06af0344776cfcae828a5fcbb6b89",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T01:15:11.745431+00:00",
+      "context": null
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -330,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-09T23:30:09+00:00",
-      "updatedAt": "2026-11-09T23:30:09+00:00",
+      "publishedAt": "2026-11-10T01:10:08+00:00",
+      "updatedAt": "2026-11-10T01:10:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -340,7 +344,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -368,7 +372,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "4644339752e81bc08d06bb139123890ad1da2d72879101731f656da0ecd8476c",
       "detailLevel": "article",
@@ -396,7 +400,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
       "detailLevel": "article",
@@ -422,7 +426,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "3566052d96a98cca2d95201505443b1f3e735c14a61218bfcc4000451389e740",
       "detailLevel": "preview"
@@ -447,7 +451,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "68fae716a8f8f8506a040e215a217e0a9dc376f231ff3406ad2325b215c5015b",
       "detailLevel": "preview"
@@ -471,7 +475,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "c4e5af79617c453c84a13fc6be3da79d607912f63989f9b20e66395210dfaa7b",
       "detailLevel": "preview"
@@ -497,7 +501,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "12aacc5b636badb1bf060b762e3593fe9d12d1175c3529245c8edd4758606908",
       "detailLevel": "article",
@@ -523,7 +527,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "00198ea1c5a6613b4be33d7b2f77f38323998718adfbf283480fde374ce98b8e",
       "detailLevel": "preview"
@@ -549,7 +553,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "7a45e44838fe9d0620ba608c8c1d311a436de4ac8acb6ebf41452ada35fbc67b",
       "detailLevel": "article",
@@ -576,7 +580,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "c239f63d4144830ad29ffb196eca6212461052efc41e6df1d0e44ffdf7009a51",
       "detailLevel": "preview"
@@ -600,7 +604,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "867f8368e6efbf9cdcf0291985c00690ec432078313c8735325662ded42d6a0c",
       "detailLevel": "preview"
@@ -616,7 +620,7 @@
       ],
       "publishedAt": "2026-11-09T13:00:08+00:00",
       "updatedAt": "2026-11-09T13:00:08+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -624,7 +628,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "970ee8ccd1928729423bbacd4f6110d42c4f1af6f239a6a0a8ad5e01e89293ee",
       "detailLevel": "preview"
@@ -648,7 +652,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "04fdcf9a038ac6c0f15b99b31f0be3dbc146cfb1ff3450a4b4f270defdde2d03",
       "detailLevel": "preview"
@@ -672,7 +676,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
       "detailLevel": "preview"
@@ -698,7 +702,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "bce92cb41f5ca05611fe415ee905b79183b9be9641ee41c34ee2121b17a84b81",
       "detailLevel": "article",
@@ -724,7 +728,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "e983c13ed3f1f3fd295dc56b17a6b34ef2caefed436f9144d7824203f13c8fe2",
       "detailLevel": "preview"
@@ -749,16 +753,40 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f830768cea37ec9082",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
+      "bullets": [
+        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
+      ],
+      "publishedAt": "2026-11-09T07:00:09+00:00",
+      "updatedAt": "2026-11-09T07:00:09+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
       "detailLevel": "preview"
     },
     {
       "id": "rss-e731c0ea0fc686e839",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Éducation",
       "title": "Mobilisation lycéenne : une grande partie des organisations lycéennes et étudiantes ont quitté Matignon pendant la réunion sur Parcoursup. Retrouvez notre direct",
       "bullets": [
         "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’Union nationale interuniversitaire et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence France-Presse."
@@ -773,33 +801,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "1e161157faff52790a6b8dc57c36c3b2e6a9b6e14e721172a258e7c788374ba3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-362b73c39cbd681dc5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
-      "bullets": [
-        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
-      ],
-      "publishedAt": "2026-11-05T15:36:56+00:00",
-      "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -823,7 +827,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "599b50330f17af4b2408826f6771a0b79a1c71ede56944e1606e164102fd6978",
       "detailLevel": "article",
@@ -849,7 +853,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "710531a58bb69ceee2db36213de76f69887cd0e614f5bf08f6ab96b173418004",
       "detailLevel": "preview"
@@ -875,7 +879,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
       "detailLevel": "article",
@@ -901,7 +905,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "7421488a2419ea85758c2283c891dc092fdbe1c9c2dd7943b8821da3c4fa7334",
       "detailLevel": "preview"
@@ -925,7 +929,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "80bbb3f686ee1dfa6482ee713eae550f9c7e25e645bbf6653aeb9e1492741655",
       "detailLevel": "preview"
@@ -949,7 +953,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "dae6186e6d858789b42267969a224b244deb731fbd8c8e0bee8dd58ff48f0ab7",
       "detailLevel": "preview"
@@ -973,33 +977,33 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f830768cea37ec9082",
+      "id": "rss-362b73c39cbd681dc5",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
+      "topic": "Éducation",
+      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
       "bullets": [
-        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
+        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
       ],
-      "publishedAt": "2026-11-09T07:00:09+00:00",
-      "updatedAt": "2026-11-09T07:00:09+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-05T15:36:56+00:00",
+      "updatedAt": "2026-11-05T15:36:56+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
+      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -1021,33 +1025,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-64d09ba2d1898b4cba",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
-      "bullets": [
-        "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni, sénatrice UDR des Alpes-Maritimes."
-      ],
-      "publishedAt": "2026-11-09T22:00:45+00:00",
-      "updatedAt": "2026-11-09T22:00:45+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-09",
-      "provenance": "rss-excerpt",
-      "summaryInput": "99a30e2a1579870042773c5c3741239fa82338af3aabb4a0436a74a3bbbac042",
       "detailLevel": "preview"
     },
     {
@@ -1071,7 +1051,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
       "detailLevel": "article",
@@ -1097,7 +1077,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "bad932367a3d4e7175e0fc825becfc676d0dd3d5a34871f9a86f462bf4f11c8a",
       "detailLevel": "preview"
@@ -1122,9 +1102,34 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-71d4e81969c0fb2fb6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+      "bullets": [
+        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
+        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
+      ],
+      "publishedAt": "2026-11-07T10:27:51+00:00",
+      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
       "detailLevel": "preview"
     }
   ],
