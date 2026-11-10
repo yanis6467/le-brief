@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T17:56:41.014762+00:00",
+  "preparedAt": "2026-11-10T19:08:42.002744+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -16,8 +16,8 @@
         "L’incapacité des gouvernements successifs à s’attaquer au problème du dérapage des comptes publics a fait perdre énormément d’argent à la France.",
         "Car l’envolée de la dette s’accompagne d’une explosion de ses intérêts, qui deviendront cette année le premier poste de dépenses de l’État."
       ],
-      "publishedAt": "2026-11-10T17:17:20+00:00",
-      "updatedAt": "2026-11-10T17:17:20+00:00",
+      "publishedAt": "2026-11-10T19:03:06+00:00",
+      "updatedAt": "2026-11-10T19:03:06+00:00",
       "importance": 97,
       "sources": [
         {
@@ -109,6 +109,34 @@
       "summaryInput": "1e5bd5a5268aabc18a41c28688792717c9e08abc02e200769eb2f5b4023ca282",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ac59c3baaf43026c1a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement",
+      "bullets": [
+        "D'après le rapport de l'Insee, mardi 10 novembre, pour le troisième trimestre 2026, le taux de chômage en France est de 8,2%.",
+        "Un chiffre quasiment stable par rapport au deuxième trimestre (8,3%), mais une hausse de 0,4 point par rapport au troisième trimestre 2025.",
+        "Mais dans le département de Seine-Saint-Denis, le chômage des jeunes dépasse légèrement la moyenne, avec 23%, d'après les chiffres de juin."
+      ],
+      "publishedAt": "2026-11-10T18:10:52+00:00",
+      "updatedAt": "2026-11-10T18:10:52+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/chomage/ia-etudes-en-alternance-interrompues-faute-de-stage-a-saint-denis-des-jeunes-au-chomage-tanguent-entre-interim-et-decouragement_8276696.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "bca82f8cc9587d2000d3234dbb2395ffd23423e88a22ad93f1ca383cf891dfcc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
       "context": null
     },
     {
@@ -296,34 +324,6 @@
       "context": null
     },
     {
-      "id": "rss-03f6e763b2a9299b25",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Prix du gaz : une nouvelle hausse de 5,8 % attendue en décembre",
-      "bullets": [
-        "Avec le froid des derniers jours, les factures de gaz augmentent.",
-        "Et je mets des affaires assez chaudes sur moi.\"Au 1er décembre, une nouvelle hausse de 5,8 % du prix de référence du gaz va fortement impacter les 10 millions de ménages qui utilisent cette énergie.",
-        "Des factures de gaz qui devraient continuer à augmenterFrédérique Feriaud, directrice générale du Médiateur de l'énergie, explique : \"Au moins jusqu'au début de l'année prochaine, on devrait continuer à avoir des augmentations."
-      ],
-      "publishedAt": "2026-11-10T10:38:22+00:00",
-      "updatedAt": "2026-11-10T10:38:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/prix-du-gaz-une-nouvelle-hausse-de-5-8-attendue-en-decembre_8276096.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "62b793625dc58c374542397ac4cb0d55e68856f14593ca163e9ec0176adac430",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:56:41.014762+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0d5817fac798e883d1",
       "revision": 1,
       "category": "markets",
@@ -350,6 +350,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T17:56:41.014762+00:00",
       "context": null
+    },
+    {
+      "id": "rss-dcf691ae13f47aa61d",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "bullets": [
+        "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-10T18:43:56+00:00",
+      "updatedAt": "2026-11-10T18:43:56+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "830070f2946cfa5689cc0641ce9c267ffe9ebe7a1f471c8fc1137ec1e04c7aad",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4021f0b9b8e532a5fd",
@@ -390,8 +414,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T17:55:23+00:00",
-      "updatedAt": "2026-11-10T17:55:23+00:00",
+      "publishedAt": "2026-11-10T19:05:46+00:00",
+      "updatedAt": "2026-11-10T19:05:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -464,28 +488,60 @@
       "context": null
     },
     {
-      "id": "rss-1010ff4bf25eb29f6a",
+      "id": "rss-32187279287a3f5e2b",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump estime que la guerre contre l’Iran est « militairement terminée », après sa rencontre avec le premier ministre du Qatar",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Des revenus multipliés par plus de 150 à 685 milliards de dollars d'ici à 2030, plus de 30 milliards de cash généré… Goldman Sachs vante la trajectoire financière d'Anthropic avant son IPO",
       "bullets": [
-        "Le président américain a ajouté sur son réseau, Truth Social, que, si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
+        "L'an passé, la jeune pousse n'avait généré que 4,6 milliards de dollars de revenus.",
+        "D'après le Financial Times et Bloomberg, qui citent des personnes proches du dossier, l'établissement voit les revenus de la société atteindre 685 milliards de dollars en 2030, soit une multiplication par 150 par rapport à 2025, avec notamment 100 milliards de dollars qui seraient réalisés auprès du secteur public.",
+        "En 2030, le bénéfice opérationnel atteindrait 65,2 milliards de dollars, anticipe encore Goldman Sachs."
       ],
-      "publishedAt": "2026-11-10T13:05:32+00:00",
-      "updatedAt": "2026-11-10T13:05:32+00:00",
-      "importance": 97,
+      "publishedAt": "2026-11-10T17:55:25+00:00",
+      "updatedAt": "2026-11-10T17:55:25+00:00",
+      "importance": 59,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-estime-que-la-guerre-contre-l-iran-est-militairement-terminee-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3211.html",
-          "access": "extrait"
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/des-revenus-multiplies-par-plus-de-150-a-685-milliards-de-dollars-d-ici-a-2030-plus-de-30-milliards-de-cash-genere-goldman-sachs-vante-la-trajectoire-financiere-d-anthropic-avant-son-ipo-1173554.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5911476b4a6804f8eddc7ba9bea2c37c58db50dbe1b53ff110734ad08699fa0e",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "1e52b712b0751a2b1a385e5cc3a47a0e698a8f18c252dc602bb12a80acf25cdc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0bc8d117fddc4ee300",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Plus de 400 milliards de dollars de capitalisation partie en fumée, un second rang mondial cédé à Microsoft… Nvidia poursuit sa chute, ébranlé par l'affaire d'espionnage présumé qui touche son patron",
+      "bullets": [
+        "L'action Nvidia perd 6,32% à 167,37 dollars à la Bourse de New York.",
+        "Désormais relégué derrière Apple et Microsoft, Nvidia n'avait pas été si bas dans le classement des plus importantes capitalisations mondiales depuis 2025.",
+        "Plainte pour tromperie Nvidia n'avait pas occupé une position aussi basse dans ce classement depuis 2025."
+      ],
+      "publishedAt": "2026-11-10T17:16:25+00:00",
+      "updatedAt": "2026-11-10T17:16:25+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/plus-de-400-milliards-de-dollars-de-capitalisation-partie-en-fumee-un-second-rang-mondial-cede-a-microsoft-nvidia-poursuit-sa-chute-ebranle-par-l-affaire-d-espionnage-presume-qui-touche-son-patron-1173550.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
     },
     {
       "id": "rss-9b32828d56e6319689",
@@ -663,6 +719,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-26c93e974c56815999",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Gaza : sept personnes, dont un adolescent, tuées par des bombardements et des tirs israéliens, selon les services de secours palestiniens",
+      "bullets": [
+        "Un « raid », deux bombardements et des tirs israéliens ont tué sept personnes, mardi, dans différents endroits du territoire, alors que le cessez-le-feu entre l’Etat hébreu et le Hamas est toujours en vigueur."
+      ],
+      "publishedAt": "2026-11-10T18:58:10+00:00",
+      "updatedAt": "2026-11-10T18:58:10+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/gaza-sept-personnes-dont-un-adolescent-tuees-par-des-bombardements-et-des-tirs-israeliens-selon-les-services-de-secours-palestiniens_6808897_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "548df4b5fe566dc70ece20e45645f6ce4c796973162a873eb37a05be5b479681",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2ff664ec2811de315c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
+      "bullets": [
+        "Téhéran a réfuté, mardi 10 novembre, les \"accusations infondées\" de Paris, qui a pointé le rôle de l'Iran dans les cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés, en octobre.",
+        "Cette attaque a entraîné des pertes de marchandise importantes et dans au moins 15 cas des départs de feu, selon les services de sécurité français.",
+        "Début novembre, au moins 11 pays européens ont connu des incidents similaires."
+      ],
+      "publishedAt": "2026-11-10T18:58:09+00:00",
+      "updatedAt": "2026-11-10T18:58:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "b75d23facb05fef4293751d2e7bba9af9e4de16beffbdba65b5e3b0ea1824f2c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
+    },
+    {
       "id": "rss-eb7cc1ae89e32c0df3",
       "revision": 1,
       "category": "world",
@@ -740,30 +848,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3be1c7826b00dca7d7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’élu républicain Thomas Massie déclenche une procédure de destitution envers Pete Hegseth, secrétaire à la défense de Donald Trump",
-      "bullets": [
-        "L’élu accuse Pete Hegseth de crimes graves et délits mineurs concernant notamment la guerre en Iran, lancée par Donald Trump sans l’accord du Congrès."
-      ],
-      "publishedAt": "2026-11-10T14:42:25+00:00",
-      "updatedAt": "2026-11-10T14:42:25+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/video/2026/11/10/l-elu-republicain-thomas-massie-declenche-une-procedure-de-destitution-envers-pete-hegseth-secretaire-a-la-defense-de-donald-trump_6808851_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9cde69a6351bba6bea2f1b6a6799e26543ddfb59550a653041f238884ebc5d7b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c1c9ada0dbc14d382b",
       "revision": 1,
       "category": "france",
@@ -792,51 +876,52 @@
       "context": null
     },
     {
-      "id": "rss-faaa06fd07a017aa05",
+      "id": "rss-8d2c068771c77e0578",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
+      "title": "Jean-Marie Burguburu, président de la CNCDH : « La dégradation des libertés publiques est très inquiétante »",
       "bullets": [
-        "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
+        "A 81 ans, l’avocat quitte la tête de la Commission nationale consultative des droits de l’homme, qui rend des avis indépendants et formule des recommandations au gouvernement.",
+        "Après six ans d’exercice, il déplore dans un entretien au « Monde » les attaques contre l’Etat de droit et l’aggravation du racisme…"
       ],
-      "publishedAt": "2026-11-10T11:00:02+00:00",
-      "updatedAt": "2026-11-10T11:00:02+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-10T18:30:05+00:00",
+      "updatedAt": "2026-11-10T18:30:05+00:00",
+      "importance": 97,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/10/jean-marie-burguburu-president-de-la-cncdh-la-degradation-des-libertes-publiques-est-tres-inquietante_6808893_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
+      "summaryInput": "9558fba9642493e066a88cf616ebfcf2774aef73722c44bc68cda833ac60f0af",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e731c0ea0fc686e839",
+      "id": "rss-362b73c39cbd681dc5",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : une grande partie des organisations lycéennes et étudiantes ont quitté Matignon pendant la réunion sur Parcoursup. Retrouvez notre direct",
+      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
       "bullets": [
-        "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’Union nationale interuniversitaire et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence France-Presse."
+        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
       ],
-      "publishedAt": "2026-11-09T19:29:54+00:00",
-      "updatedAt": "2026-11-09T19:29:54+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-05T15:36:56+00:00",
+      "updatedAt": "2026-11-05T15:36:56+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "1e161157faff52790a6b8dc57c36c3b2e6a9b6e14e721172a258e7c788374ba3",
+      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -946,6 +1031,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-826ae8de5832821406",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget de la « Sécu » 2027 : l’exécutif prépare les esprits à des « efforts supplémentaires »",
+      "bullets": [
+        "En ouverture des débats au Sénat sur le projet de loi de financement de la Sécurité sociale, le ministre des comptes publics, David Amiel, a déclaré, lundi 9 novembre, qu’il faudrait trouver de nouvelles mesures, s’ajoutant à celles de la copie initiale, pour atteindre l’objectif d’un déficit ramené à 12,7…"
+      ],
+      "publishedAt": "2026-11-10T17:56:07+00:00",
+      "updatedAt": "2026-11-10T17:56:07+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/budget-de-la-secu-2027-l-executif-prepare-les-esprits-a-des-efforts-supplementaires_6808887_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5a2db3caa7dae0694a1b4ff977ca845ae59294cb14f81930cc08c680bb985559",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-bb03a493e4347afdc5",
       "revision": 1,
       "category": "france",
@@ -967,30 +1076,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "af22d69d9f8022c1d830c1c9170310f7ea86af942666723f368571b8b74e00cc",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-362b73c39cbd681dc5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
-      "bullets": [
-        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
-      ],
-      "publishedAt": "2026-11-05T15:36:56+00:00",
-      "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -1018,29 +1103,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-13969cd86b6cfd45da",
+      "id": "rss-b227804c9f9aaf062f",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Nomination d’Amélie de Montchalin à la tête de la Cour des comptes : le Conseil d’Etat rejette le recours des députés RN",
+      "topic": "Éducation",
+      "title": "CNews : les organisations lycéennes et la CGT font front contre la chaîne ; Catherine Pégard, la ministre de la culture, appelle à ne pas « trier les journalistes »",
       "bullets": [
-        "La requête des parlementaires menés par le député de la Somme Jean-Philippe Tanguy a été déclarée « irrecevable ».",
-        "Ils ne disposaient pas d’un « intérêt à agir » pour attaquer la nomination de l’ancienne ministre, estime la plus haute juridiction administrative."
+        "Alors que la CGT et les organisations lycéennes refusent de répondre aux questions de la presse en présence des journalistes de la chaîne, le gouvernement, la droite et l’extrême droite appellent à respecter la liberté de la presse."
       ],
-      "publishedAt": "2026-11-10T09:52:27+00:00",
-      "updatedAt": "2026-11-10T09:52:27+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-10T15:06:42+00:00",
+      "updatedAt": "2026-11-10T15:06:42+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes-le-conseil-d-etat-rejette-le-recours-des-deputes-rn_6808808_823448.html",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "4a86cdade9b486368c4c1a4f64d689dc76935d9b819f2affc520b1360a6110d3",
+      "summaryInput": "7c40c3e78754f0324bd5533b8f17cba930aefd4581d26433d372d0415a06ba2e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-de57ad6a23ab8b3aae",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "bullets": [
+        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
+        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
+        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+      ],
+      "publishedAt": "2026-11-10T18:15:54+00:00",
+      "updatedAt": "2026-11-10T18:15:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
     },
     {
       "id": "rss-ad352e12a25b9f615b",
@@ -1123,53 +1235,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-70368decfd00d44ffa",
+      "id": "rss-faaa06fd07a017aa05",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
+      "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
       "bullets": [
-        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
-        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
+        "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
       ],
-      "publishedAt": "2026-11-10T08:42:17+00:00",
-      "updatedAt": "2026-11-10T08:42:17+00:00",
+      "publishedAt": "2026-11-10T11:00:02+00:00",
+      "updatedAt": "2026-11-10T11:00:02+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9054c468c703e63407",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
-      "bullets": [
-        "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
-        "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
-      ],
-      "publishedAt": "2026-11-10T03:30:07+00:00",
-      "updatedAt": "2026-11-10T03:30:07+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
+      "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
       "detailLevel": "preview"
     }
   ],
@@ -1184,7 +1270,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 11
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1208,13 +1294,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1256,7 +1342,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1286,7 +1372,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
