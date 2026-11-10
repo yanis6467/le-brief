@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T21:52:43.836771+00:00",
+  "preparedAt": "2026-11-10T22:54:04.720861+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -70,7 +70,7 @@
       ],
       "publishedAt": "2026-11-10T10:00:09+00:00",
       "updatedAt": "2026-11-10T10:00:09+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -245,6 +245,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-49b07770491c313839",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Un sparadrap sur une plaie immense\" : Jordan Bardella critique la hausse du smic annoncée par le gouvernement",
+      "bullets": [
+        "\"Je pense que cette solution non seulement est insuffisante, mais qu'elle est un sparadrap sur une plaie immense dans cette urgence de la fin du mois.\" Le président du RN, Jordan Bardella, a réagi sur BFMTV, mardi 10 novembre, au coup de pouce sur le smic annoncé la veille par le gouvernement.",
+        "A l'issue d'une conférence sociale à Matignon, qui a réuni syndicats et patronat, le Premier ministre a fait savoir lundi que le smic augmenterait de 0,6%, et que cela s'ajouterait à sa revalorisation automatique sur les prix, qui s'établit à +1%."
+      ],
+      "publishedAt": "2026-11-10T22:18:01+00:00",
+      "updatedAt": "2026-11-10T22:18:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/un-sparadrap-sur-une-plaie-immense-jordan-bardella-critique-la-hausse-du-smic-annoncee-par-le-gouvernement_8276999.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "c4b3bfb76e813ae9c295e7116005b1852de5fa25181c638b2ee79ae6d4844dae",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4a3bc9550db2597040",
       "revision": 1,
       "category": "eco",
@@ -295,34 +322,6 @@
       "summaryInput": "fa292e93f7749424ac464cc7743362b86b0039ca5a1132d875577daacca36706",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T15:59:11.970422+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-03f6e763b2a9299b25",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Prix du gaz : une nouvelle hausse de 5,8 % attendue en décembre",
-      "bullets": [
-        "Avec le froid des derniers jours, les factures de gaz augmentent.",
-        "Et je mets des affaires assez chaudes sur moi.\"Au 1er décembre, une nouvelle hausse de 5,8 % du prix de référence du gaz va fortement impacter les 10 millions de ménages qui utilisent cette énergie.",
-        "Des factures de gaz qui devraient continuer à augmenterFrédérique Feriaud, directrice générale du Médiateur de l'énergie, explique : \"Au moins jusqu'au début de l'année prochaine, on devrait continuer à avoir des augmentations."
-      ],
-      "publishedAt": "2026-11-10T10:38:22+00:00",
-      "updatedAt": "2026-11-10T10:38:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/prix-du-gaz-une-nouvelle-hausse-de-5-8-attendue-en-decembre_8276096.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "62b793625dc58c374542397ac4cb0d55e68856f14593ca163e9ec0176adac430",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
       "context": null
     },
     {
@@ -392,8 +391,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T21:49:28+00:00",
-      "updatedAt": "2026-11-10T21:49:28+00:00",
+      "publishedAt": "2026-11-10T22:49:34+00:00",
+      "updatedAt": "2026-11-10T22:49:34+00:00",
       "importance": 69,
       "sources": [
         {
@@ -422,7 +421,7 @@
       ],
       "publishedAt": "2026-11-10T10:26:14+00:00",
       "updatedAt": "2026-11-10T10:26:14+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -718,6 +717,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0f123cea22f78ae200",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Répondre sans être embarqué dans la guerre de Trump» : ce que les sanctions réclamées à l’égard de l’Iran disent de la position française",
+      "bullets": [
+        "DÉCRYPTAGE - Un mois après les cyberattaques contre les frigos de supermarchés français et dans un contexte de regain de tension avec l’Iran, le quai d’Orsay «ne s’interdit rien» mais marche sur une ligne de crête."
+      ],
+      "publishedAt": "2026-11-10T22:16:19+00:00",
+      "updatedAt": "2026-11-10T22:16:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/repondre-sans-etre-embarque-dans-la-guerre-de-trump-ce-que-les-sanctions-reclamees-a-l-egard-de-l-iran-disent-de-la-position-francaise-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cba96f56b48ae680fa",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
+      "bullets": [
+        "Volodymyr Zelensky a évoqué sur Telegram des échanges \"constructifs et assez substantiels\".",
+        "Ces pourparlers entre Kiev et Moscou, les premiers depuis février, visent à progresser vers un règlement diplomatique du conflit provoqué par l'invasion russe de l'Ukraine en 2022 et, selon Washington, à travailler à un \"nouveau\" cadre de sécurité incluant l'Europe.",
+        "Selon lui, la possibilité d'un \"grand\" échange de prisonniers entre Moscou et Kiev a par ailleurs été évoquée lors des pourparlers ukraino-russes à Abou Dhabi."
+      ],
+      "publishedAt": "2026-11-10T22:01:30+00:00",
+      "updatedAt": "2026-11-10T22:01:30+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "6c62c1826f3833baec53758e360aada327737d1056398e59f7af138380b440fb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
+      "context": null
+    },
+    {
       "id": "rss-371c24aefdc6c0eda0",
       "revision": 1,
       "category": "world",
@@ -774,62 +825,38 @@
       "context": null
     },
     {
-      "id": "rss-26c93e974c56815999",
+      "id": "rss-c1c9ada0dbc14d382b",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Gaza : sept personnes, dont un adolescent, tuées par des bombardements et des tirs israéliens, selon les services de secours palestiniens",
+      "category": "france",
+      "topic": "Politique",
+      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
       "bullets": [
-        "Un « raid », deux bombardements et des tirs israéliens ont tué sept personnes, mardi, dans différents endroits du territoire, alors que le cessez-le-feu entre l’Etat hébreu et le Hamas est toujours en vigueur."
+        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
+        "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
+        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
       ],
-      "publishedAt": "2026-11-10T18:58:10+00:00",
-      "updatedAt": "2026-11-10T18:58:10+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/gaza-sept-personnes-dont-un-adolescent-tuees-par-des-bombardements-et-des-tirs-israeliens-selon-les-services-de-secours-palestiniens_6808897_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "548df4b5fe566dc70ece20e45645f6ce4c796973162a873eb37a05be5b479681",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-eb7cc1ae89e32c0df3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Cyberattaques, propagande, manipulation de l'opinion... La France face à la multiplication des opérations iraniennes",
-      "bullets": [
-        "Par exemple, en octobre 2026, pendant les manifestations lycéennes, plusieurs médias et diplomates iraniens ont dénoncé - c'est assez ironique - la répression policière en France.",
-        "Une manière pour Téhéran d'alimenter sa propagande et de relativiser la violence exercée par le régime contre ses propres opposants.",
-        "Le porte-parole de la diplomatie iranienne a également diffusé un visuel généré par IA, dénonçant le prétendu double discours de la France sur le droit de manifester, au point que, le 7 octobre, Paris a convoqué l'ambassadeur iranien pour dénoncer cette campagne de désinformation."
-      ],
-      "publishedAt": "2026-11-10T17:44:41+00:00",
-      "updatedAt": "2026-11-10T17:44:41+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-10T19:28:47+00:00",
+      "updatedAt": "2026-11-10T19:28:47+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-propagande-manipulation-de-l-opinion-la-france-face-a-la-multiplication-des-operations-iraniennes_8276546.html",
+          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "eb648bd2c233c7a057efaa54b354975a79a60a7378e3698c73ba1daf2aa7aa0c",
+      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T21:52:43.836771+00:00",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
       "context": null
     },
     {
       "id": "rss-8d2c068771c77e0578",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Jean-Marie Burguburu, président de la CNCDH : « La dégradation des libertés publiques est très inquiétante »",
       "bullets": [
         "A 81 ans, l’avocat quitte la tête de la Commission nationale consultative des droits de l’homme, qui rend des avis indépendants et formule des recommandations au gouvernement.",
@@ -849,34 +876,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9558fba9642493e066a88cf616ebfcf2774aef73722c44bc68cda833ac60f0af",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-de57ad6a23ab8b3aae",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
-      "bullets": [
-        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
-        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
-        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
-      ],
-      "publishedAt": "2026-11-10T18:15:54+00:00",
-      "updatedAt": "2026-11-10T18:15:54+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
-      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -927,7 +926,7 @@
       "provenance": "article-extract",
       "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T10:05:46.690894+00:00",
+      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
       "context": null
     },
     {
@@ -1009,34 +1008,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c1c9ada0dbc14d382b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-      "bullets": [
-        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
-        "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
-        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
-      ],
-      "publishedAt": "2026-11-10T19:28:47+00:00",
-      "updatedAt": "2026-11-10T19:28:47+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8d5f6893c84e382dcf",
       "revision": 1,
       "category": "france",
@@ -1089,6 +1060,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bb03a493e4347afdc5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
+      "bullets": [
+        "Les députés de la commission des affaires culturelles ont décidé, mardi 10 novembre, de classer le texte qui avait dépassé le million de signataires dimanche."
+      ],
+      "publishedAt": "2026-11-10T14:16:10+00:00",
+      "updatedAt": "2026-11-10T14:16:10+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "af22d69d9f8022c1d830c1c9170310f7ea86af942666723f368571b8b74e00cc",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9b4e5991cbc1e9701a",
       "revision": 1,
       "category": "france",
@@ -1135,6 +1130,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "7c40c3e78754f0324bd5533b8f17cba930aefd4581d26433d372d0415a06ba2e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-de57ad6a23ab8b3aae",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "bullets": [
+        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
+        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
+        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+      ],
+      "publishedAt": "2026-11-10T18:15:54+00:00",
+      "updatedAt": "2026-11-10T18:15:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
     },
     {
       "id": "rss-8d1d468f76337209b1",
@@ -1211,31 +1234,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-70368decfd00d44ffa",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
-      "bullets": [
-        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
-        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
-      ],
-      "publishedAt": "2026-11-10T08:42:17+00:00",
-      "updatedAt": "2026-11-10T08:42:17+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1249,7 +1247,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
