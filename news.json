@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T06:04:02.812884+00:00",
+  "preparedAt": "2026-11-10T07:24:51.833736+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
       "id": "rss-2b49e07b8d147546d5",
-      "revision": 2,
+      "revision": 3,
       "category": "eco",
       "topic": "Économie",
       "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
       "bullets": [
-        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué ce week-end la succession de Christine Lagarde à la tête de la Banque centrale européenne.",
+        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué ce week-end la succession de la présidente de la Banque centrale européenne.",
         "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
       ],
       "publishedAt": "2026-11-09T21:26:21+00:00",
@@ -28,32 +28,32 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "68fae716a8f8f8506a040e215a217e0a9dc376f231ff3406ad2325b215c5015b",
+      "summaryInput": "86e634774a76545c59f078c1e28360119513b37839090896932e290287fdf89d",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de2d625b10b4d74252",
+      "id": "rss-65af9760ff8da1675b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Avec le départ de Christine Lagarde de la BCE, l’influence de la France recule dans les grandes institutions internationales",
+      "title": "A suivre Loïc de la Mornais : Smic : 24€ net en plus, des \"miettes\" ?",
       "bullets": [
-        "DÉCRYPTAGE - La France voit s’effriter un peu plus sa place à la tête des grandes instances européennes et mondiales.",
-        "Sa position est aussi affaiblie par la crise politique et budgétaire."
+        "Dans cette première partie, Loïc de la Mornais revient sur l'annonce du gouvernement concernant la revalorisation du Smic au 1er décembre prochain.",
+        "Les salariés concernés gagneront 24 euros de plus par mois, une hausse principalement liée à l'indexation sur l'inflation, mais aussi à un petit coup de pouce du gouvernement…"
       ],
-      "publishedAt": "2026-11-09T18:30:00+00:00",
-      "updatedAt": "2026-11-09T18:30:00+00:00",
-      "importance": 99,
+      "publishedAt": "2026-11-10T06:04:50+00:00",
+      "updatedAt": "2026-11-10T06:04:50+00:00",
+      "importance": 87,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/avec-le-depart-de-christine-lagarde-de-la-bce-l-influence-de-la-france-recule-dans-les-grandes-institutions-internationales-20261109",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-smic-24-net-en-plus-des-miettes_8275793.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "dba56206d0426d197e5f2c5feab74f0fdc9df8beb6763b97956185bead1ec83a",
+      "summaryInput": "05e94ff7bf837cd9395159bbe84154fad1ce4f16471f788c9019874f39b3ef21",
       "detailLevel": "preview"
     },
     {
@@ -83,30 +83,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8f88f982e819f73ce1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Etats-Unis : le naufrage du projet Matador au Texas, prélude au coup de frein sur les data centers",
-      "bullets": [
-        "L’un des plus gros centres de données en construction dans le pays est déjà à vendre et la valeur de l’entreprise a fondu, au moment où les élections de mi-mandat, le 3 novembre, ont marqué un fort rejet de ces infrastructures nécessaires au développement des intelligences artificielles."
-      ],
-      "publishedAt": "2026-11-10T04:00:38+00:00",
-      "updatedAt": "2026-11-10T04:00:38+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/etats-unis-le-naufrage-du-projet-matador-au-texas-prelude-au-coup-de-frein-sur-les-data-centers_6808778_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7648cab9869a127d698fce9d3e6e9a6a495f3c9f1f23a69aefb24998fbcf90ad",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-8b374592e26c8caf5a",
@@ -158,34 +134,6 @@
       "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-63c77747187f08097b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Voitures de luxe, montres, robes haute couture… La justice met aux enchères des biens saisis prestigieux",
-      "bullets": [
-        "De l’or et des paillettes pour mettre en lumière l’action de la justice.",
-        "Ce mardi 10 novembre, à l’École nationale de la magistrature à Bordeaux, mais aussi en ligne, se tiendra une vente aux enchères « exceptionnelle ».",
-        "Les mises à prix se situent entre 35 000 et 49 000 euros."
-      ],
-      "publishedAt": "2026-11-09T18:35:43+00:00",
-      "updatedAt": "2026-11-09T18:35:43+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/voitures-de-luxe-montres-robes-haute-couture-la-justice-met-aux-encheres-des-biens-saisis-prestigieux-20261109",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "31b536d37638749b70927c835aed82ff7695758965adfecbbe1864bc85c93db8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T19:07:52.269727+00:00",
       "context": null
     },
     {
@@ -250,8 +198,8 @@
         "Avec la baisse du pouvoir d’achat, l’enseigne de hard-discount allemande capte toujours plus de clients.",
         "Notamment ses « Outlets », des points de vente où le distributeur écoule les invendus non alimentaires, au nombre de quatre en France."
       ],
-      "publishedAt": "2026-11-10T05:00:30+00:00",
-      "updatedAt": "2026-11-10T05:00:30+00:00",
+      "publishedAt": "2026-11-10T05:00:19+00:00",
+      "updatedAt": "2026-11-10T05:00:19+00:00",
       "importance": 69,
       "sources": [
         {
@@ -266,51 +214,105 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8699dbf2bed7c2567c",
+      "id": "rss-3588f069d2bc37c363",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La France et l’Allemagne à la manœuvre pour nommer le successeur de Christine Lagarde à la tête de la BCE",
+      "title": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
       "bullets": [
-        "DÉCRYPTAGE - Paris et Berlin espèrent départager les deux candidats, l’Espagnol Pablo Hernández de Cos et le Néerlandais Klaas Knot, d’ici à quinze jours."
+        "La justice française soupçonne une unité des Gardiens de la Révolution iraniens d'être responsable de la cyberattaque qui a touché les frigos de supermarchés français dans la nuit du 11 au 12 octobre, annonce le parquet de Paris lundi 9 novembre, confirmant une information du Figaro.",
+        "Ce qui avait provoqué \"des pertes alimentaires importantes et une vingtaine de départs de feu\".",
+        "D'autres cyberattaques contre des installations frigorifiques ont récemment touché des supermarchés dans plusieurs pays d'Europe, ainsi que trois sites de l'Etablissement français du sang."
       ],
-      "publishedAt": "2026-11-09T18:00:00+00:00",
-      "updatedAt": "2026-11-09T18:00:00+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-france-et-l-allemagne-a-la-manoeuvre-pour-nommer-le-successeur-de-christine-lagarde-a-la-tete-de-la-bce-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f8c3d691a53edd94177fe6d2b636952a09df965e519c5ace19fa1d5ae751ea8d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bd2a92e29122d9913c",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Cyberattaque contre des frigos de supermarchés : les services français identifient la main de l’Iran",
-      "bullets": [
-        "INFO LE FIGARO - Les services de renseignements pointent la responsabilité du régime des mollahs derrière les piratages qui ont déréglé les températures de réfrigérateurs de centaines de supermarchés en octobre."
-      ],
-      "publishedAt": "2026-11-09T17:54:44+00:00",
-      "updatedAt": "2026-11-09T17:54:44+00:00",
+      "publishedAt": "2026-11-09T17:59:10+00:00",
+      "updatedAt": "2026-11-09T17:59:10+00:00",
       "importance": 66,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "dd4b1c5721eca483a731882fb01f140f75e10ac77007ceb2c5758081fb52e1b6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f53341bdf825f59ceb",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
+      "bullets": [
+        "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans.",
+        "Elle s’insurge également contre l’Etat, qui cherche à récupérer quelques millions d’euros de taxes."
+      ],
+      "publishedAt": "2026-11-09T17:42:38+00:00",
+      "updatedAt": "2026-11-09T17:42:38+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "bccbc47f210f7c5db4ed4cfb88b15a7c60e577544f0007c183117268e31933b5",
+      "summaryInput": "cff7a96a661f3196cad592242d721fab945efb1d0b07e34d65df087432c0485c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-86a61fbbf4cbf98249",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« C’est un enjeu démocratique » : le gouvernement veut un fléchage des investissements publicitaires numériques vers la presse",
+      "bullets": [
+        "Le gouvernement doit présenter son projet de loi ce mardi en Conseil des ministres.",
+        "Le texte vise à compenser la captation des revenus publicitaires par les plateformes."
+      ],
+      "publishedAt": "2026-11-10T06:00:00+00:00",
+      "updatedAt": "2026-11-10T06:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/medias/c-est-un-enjeu-democratique-le-gouvernement-veut-un-flechage-des-investissements-publicitaires-numeriques-vers-la-presse-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "66428d765defae4bd6efc816bd369e29984c986b15775b2e47760100432dd792",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c39986c89ca6a992e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Une commission préconise de mieux encadrer les assistants IA, de ChatGPT à Gemini ou Grok",
+      "bullets": [
+        "Mandaté par le gouvernement, le Conseil de l’IA et du numérique rend, mardi 10 novembre, son rapport sur l’exploitation des « vulnérabilités » des utilisateurs par les services d’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-10T05:50:04+00:00",
+      "updatedAt": "2026-11-10T05:50:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/une-commission-preconise-de-mieux-encadrer-les-assistants-ia-de-chatgpt-a-gemini-ou-grok_6808789_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "604ab6f60389aceafbad534a2762ee61afd884a4bad902a2b4e4c6ffac32466a",
       "detailLevel": "preview"
     },
     {
@@ -324,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T05:58:42+00:00",
-      "updatedAt": "2026-11-10T05:58:42+00:00",
+      "publishedAt": "2026-11-10T07:20:09+00:00",
+      "updatedAt": "2026-11-10T07:20:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -399,10 +401,10 @@
     },
     {
       "id": "rss-c6d6ba2ec7cc1b208d",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
+      "title": "Donald Trump dit que la guerre contre l’Iran était « militairement terminée » après sa rencontre avec le premier ministre du Qatar",
       "bullets": [
         "Le président américain a ajouté sur son réseau Truth Social que si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
       ],
@@ -418,8 +420,36 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "c4e5af79617c453c84a13fc6be3da79d607912f63989f9b20e66395210dfaa7b",
+      "summaryInput": "11400d502312d7a6b4596c8089a2a36de5b5e5e16338d6653ddd24b982ad695b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2a48b5a74c7a3e8913",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La France \"ne s'interdit rien\" dans la riposte contre l'Iran, accusé d'être à l'origine de la cyberattaque contre des frigos connectés en octobre, affirme Jean-Noël Barrot",
+      "bullets": [
+        "La veille, la France a accusé les Gardiens de la révolution iraniens d'être à l'origine des cyberattaques d'ampleur contre des centaines de réfrigérateurs connectés de supermarchés en octobre.",
+        "Mardi, le chef de la diplomatie française a précisé qu'il s'agira d'\"interdictions d'entrer sur le territoire européen, de gels d'avoirs et d'immobilisations de leurs actifs financiers\".",
+        "Jean-Noël Barrot a souligné que la France ne \"s'interdit rien\" en matière de sanctions et de réponse à cette cyberattaque."
+      ],
+      "publishedAt": "2026-11-10T07:07:19+00:00",
+      "updatedAt": "2026-11-10T07:07:19+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "9b08955579f91bfb5446af61dce1abe0870af08819817903b7062fcda667cbde",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
+      "context": null
     },
     {
       "id": "rss-b26ee7e3befe208739",
@@ -486,7 +516,7 @@
       ],
       "publishedAt": "2026-11-09T18:43:03+00:00",
       "updatedAt": "2026-11-09T18:43:03+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -498,8 +528,33 @@
       "provenance": "article-extract",
       "summaryInput": "7a45e44838fe9d0620ba608c8c1d311a436de4ac8acb6ebf41452ada35fbc67b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T19:07:52.269727+00:00",
+      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
       "context": null
+    },
+    {
+      "id": "rss-0b3cf0f32224db04be",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A suivre Loïc de la Mornais : ICE : que vaut le mea culpa de Trump ?",
+      "bullets": [
+        "Dans le quart d'heure américain, Loïc de la Mornais et ses invités reviennent sur les conséquences des élections de mi-mandat aux États-Unis, entre les difficultés de Donald Trump, les méthodes de la police de l'immigration ICE et les ajustements de stratégie du Parti démocrate.",
+        "Une séquence à retrouver dans l'émission…"
+      ],
+      "publishedAt": "2026-11-10T06:17:37+00:00",
+      "updatedAt": "2026-11-10T06:17:37+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-ice-que-vaut-le-mea-culpa-de-trump_8275829.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "acf831044bd20753fbec09b3571c77c4b1174fa8f5c0ab15b77bc4fc8a6d5f2b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d5d8d01fd8c5db8786",
@@ -552,6 +607,31 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "1eacaabc68d30da48df348c5c38d50b52dd30a33b5f1be19009dcdacd690ef09",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3b2dd1c338e140e359",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Taxe Zucman : les électeurs de Californie rejettent une taxation de 5 % des milliardaires après un long dépouillement",
+      "bullets": [
+        "La « proposition 40 », qui était soumise à référendum lors des midterms aux Etats-Unis, a été repoussée, selon les résultats proclamés dans la nuit de lundi à mardi.",
+        "Après la victoire des démocrates aux élections de mi-mandat, l’imposition des grandes fortunes devrait néanmoins revenir dans le débat."
+      ],
+      "publishedAt": "2026-11-10T02:57:41+00:00",
+      "updatedAt": "2026-11-10T02:57:41+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "39b9e224cfa026cf6baf5bb17e9c0efd2f5fd08d4019b0017bbdf72721850063",
       "detailLevel": "preview"
     },
     {
@@ -631,108 +711,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-843518c4d9eb3cf9c9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : des hackeurs révèlent la mort de 400.000 Russes au combat",
-      "bullets": [
-        "11 millions d’actes de décès épluchés Le groupe SilentCrow a également publié des données, qui diffèrent légèrement de celles de leurs associés en raison de méthodes de calcul différentes.",
-        "Selon des données diffusées sur leur canal Telegram, 426.822 personnes sont décédées sous le code Y36 «opérations de guerre» et Y89.1, autrement dit «formulation de combat sans code».",
-        "Durant six mois, les deux groupes de hackeurs ont infiltré 25.000 postes de l’agence Rosstat et extrait 23 téraoctets de données, leur permettant notamment d’éplucher 11 millions d’actes de décès, ont-ils annoncé le 1er novembre."
-      ],
-      "publishedAt": "2026-11-10T05:19:56+00:00",
-      "updatedAt": "2026-11-10T05:19:56+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-hackeurs-revelent-la-mort-de-400-000-russes-au-combat-20261109",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "a6556eb44b61098e68edb59fb3ffc9791ee925b7ab7232f8571be3a90f443577",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T04:01:59.406295+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-273744f97f5896bbb0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Haïti, le président salvadorien Nayib Bukele promet de \"faire le ménage\", mais que peuvent faire ses 2 000 soldats face aux gangs ?",
-      "bullets": [
-        "Ces renforts suscitent un espoir dans les populations concernées, même si le contour de cette intervention reste opaque, une dizaine de jours après le début des patrouilles.",
-        "Les Nations unies estiment autour de 1,5 million le nombre de personnes déplacées à l'intérieur du pays, soit 12% de la population totale.\"Nous avons déjà fait le ménage avec les gangs au Salvador, et nous pouvons faire de même avec vous\", a menacé Nayib Bukele.",
-        "Depuis son arrivée au pouvoir, 93 000 personnes ont été emprisonnées dans le cadre d'un régime d'exception maintenu depuis quatre ans."
-      ],
-      "publishedAt": "2026-11-10T05:02:12+00:00",
-      "updatedAt": "2026-11-10T05:02:12+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/ameriques/en-haiti-le-president-salvadorien-nayib-bukele-promet-de-faire-le-menage-mais-que-peuvent-faire-ses-2-000-soldats-face-aux-gangs_8274269.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "74e2c192573cd369e6f66b5510cebd236638564e945579516e86c2a03f35d009",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f4592906027e8e464b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pete Hegseth, secrétaire à la défense de Donald Trump, visé par une procédure de destitution déclenchée par un élu républicain",
-      "bullets": [
-        "L’impeachment a été lancé par Thomas Massie, qui dénonce la guerre en Iran et la manière dont ce membre du cabinet de Donald Trump l’a menée."
-      ],
-      "publishedAt": "2026-11-09T20:33:10+00:00",
-      "updatedAt": "2026-11-09T20:33:10+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/pete-hegseth-secretaire-a-la-defense-de-donald-trump-vise-par-une-procedure-de-destitution-declenchee-par-un-elu-republicain_6808699_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30d215a0647024642685ba543a24928e321937ec2d7aef8e939884b12b356e01",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ad1b5856f59e776778",
-      "revision": 1,
+      "id": "rss-a09145fe5a7b99a494",
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
       "bullets": [
-        "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
-        "Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées."
+        "Imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
       ],
-      "publishedAt": "2026-11-09T05:00:31+00:00",
-      "updatedAt": "2026-11-09T05:00:31+00:00",
-      "importance": 95,
+      "publishedAt": "2026-11-09T10:30:07+00:00",
+      "updatedAt": "2026-11-09T10:30:07+00:00",
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
+      "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
       "detailLevel": "preview"
     },
     {
@@ -796,7 +795,7 @@
       ],
       "publishedAt": "2026-11-09T19:19:32+00:00",
       "updatedAt": "2026-11-09T19:19:32+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -812,55 +811,56 @@
       "context": null
     },
     {
-      "id": "rss-f9a389561602832f8d",
+      "id": "rss-ad1b5856f59e776778",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Les « Cahiers de la justice » s’interrogent sur l’encadrement de la liberté d’expression en démocratie",
+      "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
       "bullets": [
-        "La revue de l’Ecole nationale de la magistrature revient, dans son dernier numéro, sur les dérives de la liberté d’expression en ligne et sur la difficulté pour la justice de préserver l’équilibre entre ce droit et la dignité de chacun."
+        "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
+        "Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées."
       ],
-      "publishedAt": "2026-11-06T16:15:09+00:00",
-      "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 60,
+      "publishedAt": "2026-11-09T05:00:31+00:00",
+      "updatedAt": "2026-11-09T05:00:31+00:00",
+      "importance": 95,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/06/les-cahiers-de-la-justice-s-interrogent-sur-l-encadrement-de-la-liberte-d-expression-en-democratie_6807820_3232.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "710531a58bb69ceee2db36213de76f69887cd0e614f5bf08f6ab96b173418004",
+      "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4ae78eb6224af1f385",
+      "id": "rss-ad352e12a25b9f615b",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
+      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
       "bullets": [
-        "Dans l'émission phare \"60 minutes\", Marine Le Pen a qualifié la France comme pays \"le moins raciste au monde\".",
-        "\"Le racisme existe dans notre société\"Sébastien Chenu reconnaît lundi matin qu'en France, \"les discriminations existent mais elles sont surtout sociales\".",
-        "Sébastien Chenu s'est exprimé plusieurs jours après l'attentat raciste de Trappes où Kevin Tessier, le principal suspect de l'attaque terroriste est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes."
+        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
+        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
+        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
       ],
-      "publishedAt": "2026-11-09T08:47:51+00:00",
-      "updatedAt": "2026-11-09T08:47:51+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-09T20:39:17+00:00",
+      "updatedAt": "2026-11-09T20:39:17+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
+      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T22:56:44.208027+00:00",
+      "enrichedAt": "2026-11-09T21:02:28.795500+00:00",
       "context": null
     },
     {
@@ -873,8 +873,8 @@
         "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
         "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
       ],
-      "publishedAt": "2026-11-10T03:30:09+00:00",
-      "updatedAt": "2026-11-10T03:30:09+00:00",
+      "publishedAt": "2026-11-10T03:30:07+00:00",
+      "updatedAt": "2026-11-10T03:30:07+00:00",
       "importance": 65,
       "sources": [
         {
@@ -889,51 +889,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-22f9e47bbfdd602c57",
+      "id": "rss-55133da4143dd52c05",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
+      "title": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
       "bullets": [
-        "La pétition demandant la fermeture de la chaîne, qui a recueilli plus d’un million de signatures, sera examinée en commission des affaires culturelles et de l’éducation mardi 10 novembre à 13 heures."
+        "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
       ],
-      "publishedAt": "2026-11-09T17:51:47+00:00",
-      "updatedAt": "2026-11-09T17:51:47+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dae6186e6d858789b42267969a224b244deb731fbd8c8e0bee8dd58ff48f0ab7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a09145fe5a7b99a494",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
-      "bullets": [
-        "Imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
-      ],
-      "publishedAt": "2026-11-09T10:30:07+00:00",
-      "updatedAt": "2026-11-09T10:30:07+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-09T10:47:04+00:00",
+      "updatedAt": "2026-11-09T10:47:04+00:00",
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
+      "summaryInput": "07a3f5ede7f34043509a8dbdb4dec939879f69325e2ea6a86de257079dc4e3e8",
       "detailLevel": "preview"
     },
     {
@@ -971,8 +947,8 @@
         "Une enquête du Snes-FSU avance que, à la rentrée 2026, l'équipe pédagogique était incomplète dans 69% des lycées.",
         "Parmi les pistes proposées : la diminution du nombre de textes à étudier pour l'oral de français – pour les élèves de première –, actuellement au nombre de 16 dans la filière générale et 12 pour la filière technologique."
       ],
-      "publishedAt": "2026-11-10T04:58:37+00:00",
-      "updatedAt": "2026-11-10T04:58:37+00:00",
+      "publishedAt": "2026-11-10T06:46:58+00:00",
+      "updatedAt": "2026-11-10T06:46:58+00:00",
       "importance": 73,
       "sources": [
         {
@@ -990,15 +966,16 @@
     },
     {
       "id": "rss-90df1864a41fc17ef6",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
       "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
       "bullets": [
-        "La réunion présidée par le premier ministre, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN."
+        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
+        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
       ],
-      "publishedAt": "2026-11-10T04:00:22+00:00",
-      "updatedAt": "2026-11-10T04:00:22+00:00",
+      "publishedAt": "2026-11-10T04:00:14+00:00",
+      "updatedAt": "2026-11-10T04:00:14+00:00",
       "importance": 73,
       "sources": [
         {
@@ -1009,36 +986,57 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "3685676be6570abb11014e51a5300a1773c4f0b9fbddc78ac9d238c173b69f55",
+      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad352e12a25b9f615b",
+      "id": "rss-dbd8002f5aa2ee8a48",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : « En sélectionnant deux candidats, une grande primaire ouverte garantirait une pluralité de choix non extrêmes au premier tour »",
       "bullets": [
-        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
-        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
-        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+        "Pour éviter un duel entre LFI et le RN au second tour, les économistes Philippe Aghion, Pierre-Olivier Gourinchas et Vincent Pons proposent, dans une tribune au « Monde », d’organiser une primaire rassemblant la gauche, le centre et la droite, et qui sélectionnerait deux candidats afin de respecter la diversité…"
       ],
-      "publishedAt": "2026-11-09T20:39:17+00:00",
-      "updatedAt": "2026-11-09T20:39:17+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-10T06:00:01+00:00",
+      "updatedAt": "2026-11-10T06:00:01+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/10/presidentielle-2027-en-selectionnant-deux-candidats-une-grande-primaire-ouverte-garantirait-une-pluralite-de-choix-non-extremes-au-premier-tour_6808790_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T21:02:28.795500+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1238544a82683ff23773cfa83c44ec1ba2a87c33ee84389b65460e3ee0c534c5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-45998be9cb9607af0f",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
+      "bullets": [
+        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
+        "Ils exigent un sursaut d’autorité."
+      ],
+      "publishedAt": "2026-11-10T06:00:00+00:00",
+      "updatedAt": "2026-11-10T06:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-1ea1cc19be65ce48e2",
@@ -1126,7 +1124,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1150,7 +1148,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1174,7 +1172,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1192,7 +1190,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
