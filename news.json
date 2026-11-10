@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T07:24:51.833736+00:00",
+  "preparedAt": "2026-11-10T09:03:29.579674+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-2b49e07b8d147546d5",
-      "revision": 3,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-      "bullets": [
-        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué ce week-end la succession de la présidente de la Banque centrale européenne.",
-        "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
-      ],
-      "publishedAt": "2026-11-09T21:26:21+00:00",
-      "updatedAt": "2026-11-09T21:26:21+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "86e634774a76545c59f078c1e28360119513b37839090896932e290287fdf89d",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-65af9760ff8da1675b",
       "revision": 1,
@@ -57,34 +32,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a6aa3648379271eae8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le smic augmentera de 1,6% dès le 1er décembre",
-      "bullets": [
-        "La hausse sera de 0,6% à l’initiative du gouvernement, s’ajoutant à sa revalorisation automatique de 1% due à l’inflation.",
-        "Le salaire minimum atteindra environ 1 502 euros par mois, soit près de 24 euros supplémentaires par rapport à aujourd’hui.",
-        "Le prix de référence du gaz augmentera encore en décembre, de 5,8%"
-      ],
-      "publishedAt": "2026-11-09T16:41:50+00:00",
-      "updatedAt": "2026-11-09T16:41:50+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/le-smic-augmentera-de-1-6-des-le-1er-decembre_8274887.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "b183697b96761d166606f84040d8a08732d42304032157f2445ce318c4b39b34",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8b374592e26c8caf5a",
       "revision": 1,
       "category": "eco",
@@ -109,60 +56,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-003c6edc8f4d054606",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La chaîne CNews peut-elle disparaître ?",
-      "bullets": [
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
-      ],
-      "publishedAt": "2026-11-09T15:56:27+00:00",
-      "updatedAt": "2026-11-09T15:56:27+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6cca1b9c2d88aec5a1",
+      "id": "rss-655fd46241e8889b63",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L'augmentation du smic annoncée par le gouvernement est \"insuffisante\" pour la CFDT, et représente \"des miettes\" pour la CGT",
+      "title": "Le chômage en France expliqué en quatre graphiques",
       "bullets": [
-        "Le salaire minimum autorisé augmentera de 1,6% dès le 1er décembre, soit une augmentation d'environ 24 euros pour atteindre 1 502 euros net environ, a annoncé le ministre du Travail Jean-Pierre Farandou à l'issue d'une conférence sociale à Matignon réunissant les organisations syndicales et patronales.",
-        "Le gouvernement nous annonce donc un coup de pouce de 5 euros.",
-        "\"En ce qui concerne les négociations de branches, c'est les 15 jours de la dernière chance\", a-t-elle cependant prévenu."
+        "INFOGRAPHIE – Le taux de chômage, au sens du Bureau international du travail (BIT), s’élève à 8,2% au troisième trimestre 2026."
       ],
-      "publishedAt": "2026-11-09T16:46:03+00:00",
-      "updatedAt": "2026-11-09T16:46:03+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-10T07:30:59+00:00",
+      "updatedAt": "2026-11-10T07:30:59+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/syndicats/hausse-du-smic-une-augmentation-insuffisante-pour-la-cfdt-des-miettes-selon-la-cgt_8274710.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/visualisez-l-evolution-du-taux-de-chomage-en-france-20261110",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "c4581e5fd3300f25c56eaeae3ad954b46b7524c1f8d2d6ccb83298168ee8b73a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "6ce2e85f19c13b1047d7611d4aaeb0e4f11e9e2ead46363cb2e7f7c352edec07",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-870e34581992a249ac",
@@ -187,6 +102,61 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fcc583a04a7ab74a67",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Le marché du travail tient bien\", note Jean-Pierre Farandou qui parle d'une baisse \"satisfaisante\" du chômage",
+      "bullets": [
+        "\"Le marché du travail est quand même résilient\" face à une \"situation économique\" et une \"croissance ralentie\", \"malgré cela, on a un marché du travail qui tient bien\", note Jean-Pierre Farandou, ministre du Travail, mardi 10 novembre, invité de la matinale de franceinfo.",
+        "Un chiffre \"très marginal\" comparé aux 47 000 personnes qui ont retrouvé un travail lors du troisième trimestre en France, avec la très légère baisse du chômage.",
+        "La hausse du Smic annoncée par le gouvernement sera de 0,6% à l'initiative du gouvernement, s'ajoutant à sa revalorisation automatique de 1% due à l'inflation."
+      ],
+      "publishedAt": "2026-11-10T07:37:14+00:00",
+      "updatedAt": "2026-11-10T07:37:14+00:00",
+      "importance": 71,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/chomage/chomage-le-marche-du-travail-tient-bien-note-jean-pierre-farandou-qui-parle-d-une-baisse-satisfaisante_8275784.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "ea0084a1ca768071dd2b371388d8bfc96766c061fb0507eea38e876940b8cd15",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3a86b9951b7cfaa1d3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La croissance du PIB en 2026 attendue «autour de 0,3%» plutôt que 0,4%, déclare le gouverneur de la Banque de France",
+      "bullets": [
+        "Un chômage plus élevé que nos voisins Bien que le gouverneur de la Banque de France considère le taux de chômage de 8,2 % au troisième trimestre comme «plutôt une bonne nouvelle», «le taux de chômage français reste plus élevé que nos voisins européens», a-t-il déploré.",
+        "Également invité à réagir sur la hausse du smic de 1,6%, annoncée lundi 9 novembre par le gouvernement, Emmanuel Moulin a déclaré : «Le problème, c’est qu’on a beaucoup de la population qui est déjà au smic."
+      ],
+      "publishedAt": "2026-11-10T08:39:52+00:00",
+      "updatedAt": "2026-11-10T08:39:52+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-declare-le-gouverneur-de-la-banque-de-france-20261110",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "7c5b5cf769d51376a47ecd51007809f4d28102c7d5fded8eecc8f3c11db5f9eb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
     },
     {
       "id": "rss-6db16a2f82875a94df",
@@ -214,34 +184,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3588f069d2bc37c363",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
-      "bullets": [
-        "La justice française soupçonne une unité des Gardiens de la Révolution iraniens d'être responsable de la cyberattaque qui a touché les frigos de supermarchés français dans la nuit du 11 au 12 octobre, annonce le parquet de Paris lundi 9 novembre, confirmant une information du Figaro.",
-        "Ce qui avait provoqué \"des pertes alimentaires importantes et une vingtaine de départs de feu\".",
-        "D'autres cyberattaques contre des installations frigorifiques ont récemment touché des supermarchés dans plusieurs pays d'Europe, ainsi que trois sites de l'Etablissement français du sang."
-      ],
-      "publishedAt": "2026-11-09T17:59:10+00:00",
-      "updatedAt": "2026-11-09T17:59:10+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "dd4b1c5721eca483a731882fb01f140f75e10ac77007ceb2c5758081fb52e1b6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
-      "context": null
-    },
-    {
       "id": "rss-f53341bdf825f59ceb",
       "revision": 1,
       "category": "eco",
@@ -267,17 +209,45 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-86a61fbbf4cbf98249",
+      "id": "rss-86595c30f695128c62",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Carburants : le prix du gazole en baisse «de 18 centimes en moyenne» depuis le début du mois, indique Serge Papin",
+      "bullets": [
+        "Une nette amélioration par rapport aux quelque 2,37 euros du 31 octobre.",
+        "LIRE AUSSI - De 2,29 à 2,46 euros le litre de gazole : pourquoi le prix des carburants diffère autant d’un département à l’autre «Dégel des seuils d’allègements de charges» Autre sujet au cœur de l’actualité, la hausse du smic décidée par le gouvernement.",
+        "Lundi 9 novembre, le premier ministre Sébastien Lecornu a annoncé que le salaire minimum serait augmenté de 24 euros (1,6%) au 1er décembre pour atteindre 1502 euros net par mois pour un temps plein."
+      ],
+      "publishedAt": "2026-11-10T08:30:11+00:00",
+      "updatedAt": "2026-11-10T08:30:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/carburants-le-prix-du-gazole-en-baisse-de-18-centimes-en-moyenne-depuis-le-debut-du-mois-indique-serge-papin-20261110",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "27b14f5a66a660a36384ba77032d7b6b382f688e43d8f05bb917a182c5a5545d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-86a61fbbf4cbf98249",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "« C’est un enjeu démocratique » : le gouvernement veut un fléchage des investissements publicitaires numériques vers la presse",
       "bullets": [
-        "Le gouvernement doit présenter son projet de loi ce mardi en Conseil des ministres.",
+        "Le gouvernement présente son projet de loi ce mardi en Conseil des ministres.",
         "Le texte vise à compenser la captation des revenus publicitaires par les plateformes."
       ],
-      "publishedAt": "2026-11-10T06:00:00+00:00",
-      "updatedAt": "2026-11-10T06:00:00+00:00",
+      "publishedAt": "2026-11-10T07:37:22+00:00",
+      "updatedAt": "2026-11-10T07:37:22+00:00",
       "importance": 65,
       "sources": [
         {
@@ -288,15 +258,15 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "66428d765defae4bd6efc816bd369e29984c986b15775b2e47760100432dd792",
+      "summaryInput": "d242d4d5a784204c9740b96921fa20ee8110c83d710a686022a5bf056bf24ea4",
       "detailLevel": "preview"
     },
     {
       "id": "rss-c39986c89ca6a992e5",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Une commission préconise de mieux encadrer les assistants IA, de ChatGPT à Gemini ou Grok",
+      "title": "Une commission préconise de mieux encadrer les assistants IA en France, de ChatGPT à Gemini ou Grok",
       "bullets": [
         "Mandaté par le gouvernement, le Conseil de l’IA et du numérique rend, mardi 10 novembre, son rapport sur l’exploitation des « vulnérabilités » des utilisateurs par les services d’intelligence artificielle."
       ],
@@ -312,8 +282,36 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "604ab6f60389aceafbad534a2762ee61afd884a4bad902a2b4e4c6ffac32466a",
+      "summaryInput": "de89275c3c984af0f942e0e8132b4fd22fa3e94b31cd77a3dfeac7e998dc6ca5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-456419bfde9a12d991",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’Australie va imposer des garde-fous «obligatoires» aux entreprises de l’IA",
+      "bullets": [
+        "Les entreprises spécialisées dans l’intelligence artificielle (IA) devront se conformer à de nouvelles mesures de protection «obligatoires» lorsqu’elles exerceront en Australie, a déclaré mardi le premier ministre du pays Anthony Albanese.",
+        "L’Australie va créer une nouvelle autorité de régulation de l’IA, chargée de mettre en œuvre des mesures visant à encadrer ce secteur, a ajouté M.",
+        "Les nouvelles mesures de protection devraient inclure l’obligation de signaler les risques liés à l’IA et l’évaluation indépendante des modèles de pointe."
+      ],
+      "publishedAt": "2026-11-10T01:35:01+00:00",
+      "updatedAt": "2026-11-10T01:35:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/l-australie-va-imposer-des-garde-fous-obligatoires-aux-entreprises-de-l-ia-20261110",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "99f1884df6b2244b5fa96b971a110be35b809e56e9eb8f51057fea1dc49c1c1f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -326,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T07:20:09+00:00",
-      "updatedAt": "2026-11-10T07:20:09+00:00",
+      "publishedAt": "2026-11-10T09:00:11+00:00",
+      "updatedAt": "2026-11-10T09:00:11+00:00",
       "importance": 69,
       "sources": [
         {
@@ -340,35 +338,34 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T20:04:13.585268+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
-      "id": "rss-14e71d7f55e15c1292",
+      "id": "rss-4b022230db60686d4d",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Alors que Nvidia chute de 6% à Wall Street sur fond de liaison extraconjugale, le CAC 40 gagne 1,2%, porté par le repli du pétrole",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.88%",
       "bullets": [
-        "Son indice phare, le CAC 40, rebondit de 1,16%, à 8.233,30 points, à la clôture de ce lundi 9 novembre.",
-        "Le prix du baril de Brent de la mer du Nord cède 4,5% à 93,93 dollars, tandis que celui de WTI, recule de 3,3% à 87,83 dollars.",
-        "Crédit Agricole SA a reculé de 0,3% alors que le groupe bancaire a annoncé avoir proposé de fusionner sa filiale italienne avec Banco BPM, troisième banque d'Italie, en échange d'une montée à son capital à 45% contre 29,6% précédemment."
+        "(BFM Bourse) - Après avoir fini en hausse de +1.16% à 8233.2998 points lors de sa dernière séance, le CAC 40 continue sur sa lancée en ouvrant à 8306.0996 points (+0.88%).",
+        "Joyau …- De 275 milliards de dollars de capitalisation boursière à moins de 60 milliards en cinq …"
       ],
-      "publishedAt": "2026-11-09T16:45:20+00:00",
-      "updatedAt": "2026-11-09T16:45:20+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "updatedAt": "2026-11-10T08:00:00+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-nvidia-chute-de-6-a-wall-street-sur-fond-de-liaison-extraconjugale-le-cac-40-gagne-12-porte-par-le-repli-du-petrole-1173430.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-088-1173473.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "4644339752e81bc08d06bb139123890ad1da2d72879101731f656da0ecd8476c",
+      "summaryInput": "1d0871e7abe37ddb7ec41c2dd34dc84eea55d7e4a8b87bbc871e98cdc8c08840",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
@@ -400,13 +397,38 @@
       "context": null
     },
     {
-      "id": "rss-c6d6ba2ec7cc1b208d",
-      "revision": 2,
+      "id": "rss-2b49e07b8d147546d5",
+      "revision": 4,
       "category": "world",
       "topic": "International",
-      "title": "Donald Trump dit que la guerre contre l’Iran était « militairement terminée » après sa rencontre avec le premier ministre du Qatar",
+      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
       "bullets": [
-        "Le président américain a ajouté sur son réseau Truth Social que si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
+        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué la succession de la présidente de la Banque centrale européenne.",
+        "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
+      ],
+      "publishedAt": "2026-11-09T21:26:21+00:00",
+      "updatedAt": "2026-11-09T21:26:21+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "253fe77950a32e9dc887412815de8fb5141ab1c652045283ef86eca05bd2106e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c6d6ba2ec7cc1b208d",
+      "revision": 3,
+      "category": "world",
+      "topic": "International",
+      "title": "Donald Trump estime que la guerre contre l’Iran est « militairement terminée », après sa rencontre avec le premier ministre du Qatar",
+      "bullets": [
+        "Le président américain a ajouté sur son réseau Truth Social que, si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
       ],
       "publishedAt": "2026-11-09T23:26:10+00:00",
       "updatedAt": "2026-11-09T23:26:10+00:00",
@@ -420,22 +442,46 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "11400d502312d7a6b4596c8089a2a36de5b5e5e16338d6653ddd24b982ad695b",
+      "summaryInput": "b13d174b75b108acf9591e4768621c1eeedbee23ee0111a3e4da17e1e9b8adec",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f65cb6cac950929cce",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : la France « ne s’interdit rien » dans la riposte contre l’Iran, avertit le gouvernement",
+      "bullets": [
+        "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre."
+      ],
+      "publishedAt": "2026-11-10T08:37:11+00:00",
+      "updatedAt": "2026-11-10T08:37:11+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "136ce61256882ac3bcb47fc5baa282d0929b7d039cfe078a5bc4d60e3ed62b1b",
       "detailLevel": "preview"
     },
     {
       "id": "rss-2a48b5a74c7a3e8913",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "La France \"ne s'interdit rien\" dans la riposte contre l'Iran, accusé d'être à l'origine de la cyberattaque contre des frigos connectés en octobre, affirme Jean-Noël Barrot",
+      "title": "La France \"ne s'interdit rien\" dans la riposte contre l'Iran, accusé d'être à l'origine de la cyberattaque contre des frigos connectés en octobre",
       "bullets": [
-        "La veille, la France a accusé les Gardiens de la révolution iraniens d'être à l'origine des cyberattaques d'ampleur contre des centaines de réfrigérateurs connectés de supermarchés en octobre.",
-        "Mardi, le chef de la diplomatie française a précisé qu'il s'agira d'\"interdictions d'entrer sur le territoire européen, de gels d'avoirs et d'immobilisations de leurs actifs financiers\".",
+        "La veille, la France a accusé les Gardiens de la Révolution iraniens d'être à l'origine des cyberattaques d'ampleur contre des centaines de réfrigérateurs connectés de supermarchés en octobre.",
+        "#canal16 1:54 Jean-Noël Barrot avait déjà promis lundi soir des sanctions \"à l'échelle européenne\".",
         "Jean-Noël Barrot a souligné que la France ne \"s'interdit rien\" en matière de sanctions et de réponse à cette cyberattaque."
       ],
-      "publishedAt": "2026-11-10T07:07:19+00:00",
-      "updatedAt": "2026-11-10T07:07:19+00:00",
+      "publishedAt": "2026-11-10T08:39:10+00:00",
+      "updatedAt": "2026-11-10T08:39:10+00:00",
       "importance": 79,
       "sources": [
         {
@@ -446,9 +492,9 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "9b08955579f91bfb5446af61dce1abe0870af08819817903b7062fcda667cbde",
+      "summaryInput": "8a391353588097fb075ab9b2d7268d3d611d06cc9306a5969d46fb00378e9709",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
@@ -490,7 +536,7 @@
       ],
       "publishedAt": "2026-11-09T19:30:00+00:00",
       "updatedAt": "2026-11-09T19:30:00+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -504,31 +550,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-38cf77253da6d25aec",
-      "revision": 1,
+      "id": "rss-d5d8d01fd8c5db8786",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "\"Les Etats-Unis ont presque un droit de vie et de mort numérique sur chacun d'entre nous\", dénonce Nicolas Guillou, juge de la Cour pénale internationale sanctionné par Washington",
+      "title": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatarien",
       "bullets": [
-        "Sanctionné par les Etats-Unis en 2025, Nicolas Guillou s'était lui aussi retrouvé du jour au lendemain privé de sa carte Visa.",
-        "Douze de ses collègues sont dans le même cas que lui et, depuis le 9 octobre dernier, c'est toute la Cour qui est menacée de sanctions effectives, théoriquement le 9 avril 2027.",
-        "Mais pour tout ça, il faut du courage politique.\"Nicolas Guillou, juge à la CPIsur France Inter\"Personnellement, j'ai été mis sous sanctions en août 2025."
+        "Le président américain a déclaré, lundi 9 novembre, qu'il voyait un \"élan positif\" en faveur d'un accord pour mettre fin à la guerre au Moyen-Orient, après sa rencontre avec le Premier ministre du Qatar, pays médiateur dans ce conflit.",
+        "Mais Donald Trump, coutumier des déclarations contradictoires face à la République islamique, laisse toujours planer la perspective d'un retour aux armes.",
+        "D'après un message posté sur son réseau Truth social, une reprise des frappes contre l'Iran est \"peu probable\"."
       ],
-      "publishedAt": "2026-11-09T18:43:03+00:00",
-      "updatedAt": "2026-11-09T18:43:03+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-10T07:33:20+00:00",
+      "updatedAt": "2026-11-10T07:33:20+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/les-etats-unis-ont-presque-un-droit-de-vie-et-de-mort-numerique-sur-chacun-d-entre-nous-denonce-nicolas-guillou-juge-de-la-cour-penale-internationale-sanctionne-par-washington_8275049.html",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "7a45e44838fe9d0620ba608c8c1d311a436de4ac8acb6ebf41452ada35fbc67b",
+      "summaryInput": "c99d810b8a6f4813c2e34eeacb58ca4f80901a3d0fa95c3ee15fb59e6d235733",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
@@ -555,34 +601,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "acf831044bd20753fbec09b3571c77c4b1174fa8f5c0ab15b77bc4fc8a6d5f2b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d5d8d01fd8c5db8786",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatari",
-      "bullets": [
-        "Le président américain a déclaré lundi 9 novembre qu'il voyait un \"élan positif\" en faveur d'un accord pour mettre fin à la guerre avec ce pays, après sa rencontre avec le Premier ministre du Qatar, pays médiateur.",
-        "Mais Donald Trump, coutumier des déclarations contradictoires face à l'Iran, laisse toujours planer la perspective d'un retour aux armes.",
-        "D'après un message posté sur son réseau Truth social, une reprise des frappes contre l'Iran est \"peu probable\"."
-      ],
-      "publishedAt": "2026-11-10T05:58:29+00:00",
-      "updatedAt": "2026-11-10T05:58:29+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "9a4255075fc6b7c38ff5762866fada0adbe529637f7041840a031ae649c60a98",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
-      "context": null
     },
     {
       "id": "rss-670fd0e4929b70bcff",
@@ -659,34 +677,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c183f2221a7b931d08",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Piratage des frigos : la France accuse l’Iran et les Gardiens de la révolution",
-      "bullets": [
-        "Derrière la cyberattaque qui a frappé 700 supermarchés français le mois dernier, la France pointe lundi 9 novembre un seul responsable : l'Iran.",
-        "Je suis en mesure de confirmer que la responsabilité de cette attaque revient au corps des Gardiens de la révolution de la République islamique d'Iran.",
-        "Nous prendrons des sanctions à l'échelle européenne contre tous les responsables de cette attaque\", indique Jean-Noël Barrot, ministre de l’Europe et des Affaires étrangères."
-      ],
-      "publishedAt": "2026-11-09T20:04:25+00:00",
-      "updatedAt": "2026-11-09T20:04:25+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "bce92cb41f5ca05611fe415ee905b79183b9be9641ee41c34ee2121b17a84b81",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T21:02:28.795500+00:00",
-      "context": null
-    },
-    {
       "id": "rss-997be612442c574b6d",
       "revision": 1,
       "category": "world",
@@ -745,7 +735,7 @@
       ],
       "publishedAt": "2026-11-09T19:29:54+00:00",
       "updatedAt": "2026-11-09T19:29:54+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -807,7 +797,7 @@
       "provenance": "article-extract",
       "summaryInput": "599b50330f17af4b2408826f6771a0b79a1c71ede56944e1606e164102fd6978",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T20:04:13.585268+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
@@ -836,31 +826,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad352e12a25b9f615b",
-      "revision": 1,
+      "id": "rss-003c6edc8f4d054606",
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "title": "La chaîne CNews peut-elle disparaître ?",
       "bullets": [
-        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
-        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
-        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
       ],
-      "publishedAt": "2026-11-09T20:39:17+00:00",
-      "updatedAt": "2026-11-09T20:39:17+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-09T15:56:27+00:00",
+      "updatedAt": "2026-11-09T15:56:27+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
+      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T21:02:28.795500+00:00",
+      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
       "context": null
     },
     {
@@ -892,7 +882,7 @@
       "id": "rss-55133da4143dd52c05",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
       "bullets": [
         "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
@@ -990,6 +980,87 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ad352e12a25b9f615b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "bullets": [
+        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
+        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
+        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+      ],
+      "publishedAt": "2026-11-09T20:39:17+00:00",
+      "updatedAt": "2026-11-09T20:39:17+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3588f069d2bc37c363",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
+      "bullets": [
+        "La justice française soupçonne une unité des Gardiens de la Révolution iraniens d'être responsable de la cyberattaque qui a touché les frigos de supermarchés français dans la nuit du 11 au 12 octobre, annonce le parquet de Paris lundi 9 novembre, confirmant une information du Figaro.",
+        "Ce qui avait provoqué \"des pertes alimentaires importantes et une vingtaine de départs de feu\".",
+        "D'autres cyberattaques contre des installations frigorifiques ont récemment touché des supermarchés dans plusieurs pays d'Europe, ainsi que trois sites de l'Etablissement français du sang."
+      ],
+      "publishedAt": "2026-11-09T17:59:10+00:00",
+      "updatedAt": "2026-11-09T17:59:10+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "dd4b1c5721eca483a731882fb01f140f75e10ac77007ceb2c5758081fb52e1b6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T07:24:51.833736+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-70ab867f51211eb4ec",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle",
+      "bullets": [
+        "Le sportif de haut niveau a créé la surprise lundi, déclarant se présenter pour « relever la France » tout en n’étant « ni de droite ni de gauche ».",
+        "Quelques dossiers, notamment fiscaux, pourraient handicaper son début de campagne."
+      ],
+      "publishedAt": "2026-11-10T08:59:20+00:00",
+      "updatedAt": "2026-11-10T08:59:20+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b4f4116c1c2828ce617689849a96347d26dc8ba2d4cd0d20f0a4d75cc9abee40",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dbd8002f5aa2ee8a48",
       "revision": 1,
       "category": "france",
@@ -1037,80 +1108,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1ea1cc19be65ce48e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Déserts médicaux : le gouvernement veut atteindre 100 médicobus labellisés en 2027",
-      "bullets": [
-        "Ces cabinets mobiles proposent des consultations dans les zones où les ressources médicales manquent, particulièrement dans les zones rurales et les quartiers politiques de la ville."
-      ],
-      "publishedAt": "2026-11-09T13:35:10+00:00",
-      "updatedAt": "2026-11-09T13:35:10+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/09/deserts-medicaux-le-gouvernement-veut-atteindre-100-medicobus-labellises-en-2027_6808654_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bad932367a3d4e7175e0fc825becfc676d0dd3d5a34871f9a86f462bf4f11c8a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4448e3f691a29f5756",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Un an après l’attaque à la voiture-bélier sur l’île d’Oléron : la vie meurtrie de Jacques, l’homme qui rêvait de reprendre la mer",
-      "bullets": [
-        "Le 5 novembre 2025, Jacques, 70 ans, était renversé par un individu qui a délibérément foncé sur des piétons et des cyclistes sur l’île d’Oléron, disant répondre à un «appel d’Allah».",
-        "Il accepte de témoigner pour la première fois, alors que Le Figaro Magazine a eu accès à des documents…"
-      ],
-      "publishedAt": "2026-11-08T10:24:19+00:00",
-      "updatedAt": "2026-11-08T10:24:19+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/faits-divers/un-an-apres-l-attaque-a-la-voiture-belier-sur-l-ile-d-oleron-la-vie-meurtrie-de-jacques-l-homme-qui-revait-de-reprendre-la-mer-20261108",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-71d4e81969c0fb2fb6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
-      "bullets": [
-        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
-        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
-      ],
-      "publishedAt": "2026-11-07T10:27:51+00:00",
-      "updatedAt": "2026-11-07T10:27:51+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1124,7 +1121,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1148,7 +1145,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1172,7 +1169,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1190,7 +1187,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1208,7 +1205,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
