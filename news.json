@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T20:02:09.123026+00:00",
+  "preparedAt": "2026-11-10T20:57:07.350714+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -140,30 +140,6 @@
       "context": null
     },
     {
-      "id": "rss-655fd46241e8889b63",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le chômage en France expliqué en quatre graphiques",
-      "bullets": [
-        "INFOGRAPHIE – Le taux de chômage, au sens du Bureau international du travail (BIT), s’élève à 8,2% au troisième trimestre 2026."
-      ],
-      "publishedAt": "2026-11-10T07:30:59+00:00",
-      "updatedAt": "2026-11-10T07:30:59+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/visualisez-l-evolution-du-taux-de-chomage-en-france-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6ce2e85f19c13b1047d7611d4aaeb0e4f11e9e2ead46363cb2e7f7c352edec07",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7604f56a4a19673f4d",
       "revision": 1,
       "category": "eco",
@@ -215,33 +191,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "77c723b8e47bc60e2e183d1c54d9554cf8a8272e4a01763d5548c0595eee8976",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3a86b9951b7cfaa1d3",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La croissance du PIB en 2026 attendue «autour de 0,3%» plutôt que 0,4%, déclare le gouverneur de la Banque de France",
-      "bullets": [
-        "Un chômage plus élevé que nos voisins Bien que le gouverneur de la Banque de France considère le taux de chômage de 8,2 % au troisième trimestre comme «plutôt une bonne nouvelle», «le taux de chômage français reste plus élevé que nos voisins européens», a-t-il déploré.",
-        "Également invité à réagir sur la hausse du smic de 1,6%, annoncée lundi 9 novembre par le gouvernement, Emmanuel Moulin a déclaré : «Le problème, c’est qu’on a beaucoup de la population qui est déjà au smic."
-      ],
-      "publishedAt": "2026-11-10T08:39:52+00:00",
-      "updatedAt": "2026-11-10T08:39:52+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-declare-le-gouverneur-de-la-banque-de-france-20261110",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "7c5b5cf769d51376a47ecd51007809f4d28102c7d5fded8eecc8f3c11db5f9eb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
     },
     {
       "id": "rss-07ccc59d89b5448cda",
@@ -296,6 +245,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4a3bc9550db2597040",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
+      "bullets": [
+        "DÉCRYPTAGE - Le géant américain a signé un partenariat à Paris pour appuyer l’institut chargé d’évaluer la sécurité de ces technologies.",
+        "Un moyen de tisser sa toile sur un marché en pleine expansion."
+      ],
+      "publishedAt": "2026-11-10T19:15:00+00:00",
+      "updatedAt": "2026-11-10T19:15:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/en-accord-avec-le-gouvernement-microsoft-s-implique-dans-la-surveillance-des-risques-lies-aux-ia-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "03661375997df272ead21a7c1a01671df933aa5a242a03ff86a38baff2773e27",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8762d68f79512912dd",
       "revision": 1,
       "category": "eco",
@@ -321,6 +295,34 @@
       "summaryInput": "fa292e93f7749424ac464cc7743362b86b0039ca5a1132d875577daacca36706",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T15:59:11.970422+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-03f6e763b2a9299b25",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Prix du gaz : une nouvelle hausse de 5,8 % attendue en décembre",
+      "bullets": [
+        "Avec le froid des derniers jours, les factures de gaz augmentent.",
+        "Et je mets des affaires assez chaudes sur moi.\"Au 1er décembre, une nouvelle hausse de 5,8 % du prix de référence du gaz va fortement impacter les 10 millions de ménages qui utilisent cette énergie.",
+        "Des factures de gaz qui devraient continuer à augmenterFrédérique Feriaud, directrice générale du Médiateur de l'énergie, explique : \"Au moins jusqu'au début de l'année prochaine, on devrait continuer à avoir des augmentations."
+      ],
+      "publishedAt": "2026-11-10T10:38:22+00:00",
+      "updatedAt": "2026-11-10T10:38:22+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/prix-du-gaz-une-nouvelle-hausse-de-5-8-attendue-en-decembre_8276096.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "62b793625dc58c374542397ac4cb0d55e68856f14593ca163e9ec0176adac430",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
       "context": null
     },
     {
@@ -414,8 +416,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T19:57:35+00:00",
-      "updatedAt": "2026-11-10T19:57:35+00:00",
+      "publishedAt": "2026-11-10T20:53:18+00:00",
+      "updatedAt": "2026-11-10T20:53:18+00:00",
       "importance": 69,
       "sources": [
         {
@@ -544,6 +546,34 @@
       "context": null
     },
     {
+      "id": "rss-00db0fd64ebae86d38",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au moins 400 000 soldats russes seraient morts depuis l'invasion de l’Ukraine en 2022 selon des pirates informatiques",
+      "bullets": [
+        "Entre 400 000 et 450 000 soldats russes seraient morts sur le front en Ukraine depuis février 2022.",
+        "Devant un mémorial à Moscou, mardi 10 novembre, des Russes rendent hommage à leurs proches disparus sur le front.",
+        "Comme la Russie, l'Ukraine rechigne à donner le bilan concernant ses morts au combat et les seuls qui sortent sont largement sous-estimés."
+      ],
+      "publishedAt": "2026-11-10T20:04:07+00:00",
+      "updatedAt": "2026-11-10T20:04:07+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/au-moins-400-000-soldats-russes-seraient-morts-depuis-l-invasion-de-l-ukraine-en-2022-selon-des-pirates-informatiques_8276888.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "db14c971ee702888c3b6913818b1f461e4d474b207d76fd37787282db28eb35a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9b32828d56e6319689",
       "revision": 1,
       "category": "world",
@@ -565,6 +595,30 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "18da17b30f2bb636df7176dfd245da9594aa3f1a158af686bb0487ca5225e842",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dcb91b788eaefba006",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Face à la Russie, les sanctions européennes montrent encore leurs limites",
+      "bullets": [
+        "DÉCRYPTAGE - Avant un nouveau débat au Parlement ce jeudi, un rapport de la Cour des comptes européenne met en lumière les failles du dispositif visant à affaiblir Moscou."
+      ],
+      "publishedAt": "2026-11-10T20:15:00+00:00",
+      "updatedAt": "2026-11-10T20:15:00+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/face-a-la-russie-les-sanctions-europeennes-montrent-encore-leurs-limites-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
       "detailLevel": "preview"
     },
     {
@@ -617,34 +671,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9458e58601a1f934da4c37a38d0e50c8adfb4a282710e2c96e9a274b12a3e81f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1f99992d45969efd08",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
-      "bullets": [
-        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
-      ],
-      "publishedAt": "2026-11-10T12:51:21+00:00",
-      "updatedAt": "2026-11-10T12:51:21+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
-      "context": null
     },
     {
       "id": "rss-714e3a8dc0560fdfe8",
@@ -747,6 +773,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-371c24aefdc6c0eda0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Gaza, au moins sept personnes sont mortes dans des frappes israéliennes, dont un jeune de 13 ans, rapporte la Défense civile",
+      "bullets": [
+        "Des frappes et des tirs israéliens ont fait sept morts dans la bande de Gaza, mardi 10 novembre, ont annoncé les services de secours du territoire palestinien.",
+        "Israël et le Hamas s'accusent mutuellement de violer le cessez-le-feu entré en vigueur le 10 octobre 2025, après deux ans d'une guerre déclenchée par l'attaque sans précédent du mouvement islamiste palestinien sur le sol israélien, le 7 octobre 2023.",
+        "Dans le même temps, l'Etat hébreu a déploré la perte de sept soldats, ainsi que d'un intervenant civil."
+      ],
+      "publishedAt": "2026-11-10T20:18:04+00:00",
+      "updatedAt": "2026-11-10T20:18:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-au-moins-sept-personnes-sont-mortes-dans-des-frappes-israeliennes-dont-un-jeune-de-13-ans-rapporte-la-defense-civile_8276867.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "d0644f1c5c31ef15682fc7efa57c076f70de449a364413e3eb5ffae36a0e566b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2ff664ec2811de315c",
       "revision": 2,
       "category": "world",
@@ -796,59 +850,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "548df4b5fe566dc70ece20e45645f6ce4c796973162a873eb37a05be5b479681",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-eb7cc1ae89e32c0df3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Cyberattaques, propagande, manipulation de l'opinion... La France face à la multiplication des opérations iraniennes",
-      "bullets": [
-        "Par exemple, en octobre 2026, pendant les manifestations lycéennes, plusieurs médias et diplomates iraniens ont dénoncé - c'est assez ironique - la répression policière en France.",
-        "Une manière pour Téhéran d'alimenter sa propagande et de relativiser la violence exercée par le régime contre ses propres opposants.",
-        "Le porte-parole de la diplomatie iranienne a également diffusé un visuel généré par IA, dénonçant le prétendu double discours de la France sur le droit de manifester, au point que, le 7 octobre, Paris a convoqué l'ambassadeur iranien pour dénoncer cette campagne de désinformation."
-      ],
-      "publishedAt": "2026-11-10T17:44:41+00:00",
-      "updatedAt": "2026-11-10T17:44:41+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-propagande-manipulation-de-l-opinion-la-france-face-a-la-multiplication-des-operations-iraniennes_8276546.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "eb648bd2c233c7a057efaa54b354975a79a60a7378e3698c73ba1daf2aa7aa0c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:56:41.014762+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0e098d2b8a65402910",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "De Verdun à Kiev, un siècle de médecine de guerre pour reconstruire les « gueules cassées »",
-      "bullets": [
-        "Les visages défigurés et les corps amputés des soldats victimes du conflit en Ukraine rappellent les innombrables mutilés de la guerre de 14-18, dont on commémore l’armistice le 11 novembre.",
-        "Pour panser des blessures inédites infligées aux poilus par les obus, il a fallu improviser à l’aide d’instruments rudimentaires et…"
-      ],
-      "publishedAt": "2026-11-10T17:00:07+00:00",
-      "updatedAt": "2026-11-10T17:00:07+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/histoire/article/2026/11/10/de-verdun-a-kiev-un-siecle-de-medecine-de-guerre-pour-reconstruire-les-gueules-cassees_6808879_4655323.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ef8d71c7b0854740ca46f13c35a4c27dd66d20c1f83db6c74a868063cf9a747c",
       "detailLevel": "preview"
     },
     {
@@ -982,29 +983,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-71d4e81969c0fb2fb6",
+      "id": "rss-1f99992d45969efd08",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
       "bullets": [
-        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
-        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
+        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
       ],
-      "publishedAt": "2026-11-07T10:27:51+00:00",
-      "updatedAt": "2026-11-07T10:27:51+00:00",
-      "importance": 61,
+      "publishedAt": "2026-11-10T12:51:21+00:00",
+      "updatedAt": "2026-11-10T12:51:21+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
     },
     {
       "id": "rss-f53341bdf825f59ceb",
@@ -1160,6 +1164,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-8d1d468f76337209b1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik",
+      "bullets": [
+        "Ce Polonais de 24 ans s'intéressait au néonazi Anders Behring Breivik, a déclaré le ministre de la Justice polonais, mardi 10 novembre, estimant que plusieurs éléments recueillis par les enquêteurs renforçaient l'hypothèse d'une radicalisation d'extrême droite.\"Les services ont accès à l'ordinateur du terroriste.",
+        "L'équipée meurtrière de Michal Oksinski a coûté la vie à un total de neuf personnes, selon le bilan établi après la découverte des corps de ses parents et de sa sœur, retrouvés avec des plaies par balles à leur domicile à deux heures de route du lieu de la fusillade à Cracovie."
+      ],
+      "publishedAt": "2026-11-10T15:54:34+00:00",
+      "updatedAt": "2026-11-10T15:54:34+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "8ac9062de8a3b1c27a7e5705d233b6bf80e8168f79e9319984463f008b371456",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
+      "context": null
+    },
+    {
       "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
@@ -1220,7 +1251,7 @@
       ],
       "publishedAt": "2026-11-10T08:42:17+00:00",
       "updatedAt": "2026-11-10T08:42:17+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1231,31 +1262,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9054c468c703e63407",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
-      "bullets": [
-        "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
-        "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
-      ],
-      "publishedAt": "2026-11-10T03:30:07+00:00",
-      "updatedAt": "2026-11-10T03:30:07+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
       "detailLevel": "preview"
     }
   ],
@@ -1270,7 +1276,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1282,7 +1288,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
@@ -1294,7 +1300,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1306,7 +1312,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Figaro",
@@ -1318,7 +1324,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
