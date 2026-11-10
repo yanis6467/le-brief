@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T09:03:29.579674+00:00",
+  "preparedAt": "2026-11-10T10:05:46.690894+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-2b49e07b8d147546d5",
+      "revision": 4,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+      "bullets": [
+        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué la succession de la présidente de la Banque centrale européenne.",
+        "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
+      ],
+      "publishedAt": "2026-11-09T21:26:21+00:00",
+      "updatedAt": "2026-11-09T21:26:21+00:00",
+      "importance": 98,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "253fe77950a32e9dc887412815de8fb5141ab1c652045283ef86eca05bd2106e",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-65af9760ff8da1675b",
       "revision": 1,
@@ -159,31 +184,6 @@
       "context": null
     },
     {
-      "id": "rss-6db16a2f82875a94df",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« On n’achète de la viande que si c’est à moins 30 %, on fait attention à tout » : avec l’inflation, Lidl n’attire pas seulement les clients les plus modestes",
-      "bullets": [
-        "Avec la baisse du pouvoir d’achat, l’enseigne de hard-discount allemande capte toujours plus de clients.",
-        "Notamment ses « Outlets », des points de vente où le distributeur écoule les invendus non alimentaires, au nombre de quatre en France."
-      ],
-      "publishedAt": "2026-11-10T05:00:19+00:00",
-      "updatedAt": "2026-11-10T05:00:19+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/on-n-achete-de-la-viande-que-si-c-est-a-moins-30-on-fait-attention-a-tout-avec-l-inflation-lidl-n-attire-pas-seulement-les-clients-les-plus-modestes_6808787_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7d1e2d25bceb1479620a5158a346b8da3b5d889663a82a8c3fb52172e0bc1657",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f53341bdf825f59ceb",
       "revision": 1,
       "category": "eco",
@@ -219,8 +219,8 @@
         "LIRE AUSSI - De 2,29 à 2,46 euros le litre de gazole : pourquoi le prix des carburants diffère autant d’un département à l’autre «Dégel des seuils d’allègements de charges» Autre sujet au cœur de l’actualité, la hausse du smic décidée par le gouvernement.",
         "Lundi 9 novembre, le premier ministre Sébastien Lecornu a annoncé que le salaire minimum serait augmenté de 24 euros (1,6%) au 1er décembre pour atteindre 1502 euros net par mois pour un temps plein."
       ],
-      "publishedAt": "2026-11-10T08:30:11+00:00",
-      "updatedAt": "2026-11-10T08:30:11+00:00",
+      "publishedAt": "2026-11-10T09:31:25+00:00",
+      "updatedAt": "2026-11-10T09:31:25+00:00",
       "importance": 65,
       "sources": [
         {
@@ -324,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T09:00:11+00:00",
-      "updatedAt": "2026-11-10T09:00:11+00:00",
+      "publishedAt": "2026-11-10T10:05:23+00:00",
+      "updatedAt": "2026-11-10T10:05:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -397,31 +397,6 @@
       "context": null
     },
     {
-      "id": "rss-2b49e07b8d147546d5",
-      "revision": 4,
-      "category": "world",
-      "topic": "International",
-      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-      "bullets": [
-        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué la succession de la présidente de la Banque centrale européenne.",
-        "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
-      ],
-      "publishedAt": "2026-11-09T21:26:21+00:00",
-      "updatedAt": "2026-11-09T21:26:21+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "253fe77950a32e9dc887412815de8fb5141ab1c652045283ef86eca05bd2106e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c6d6ba2ec7cc1b208d",
       "revision": 3,
       "category": "world",
@@ -470,6 +445,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a611ef07a8081599d2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le scandale d’espionnage chez Nvidia « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
+      "bullets": [
+        "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      ],
+      "publishedAt": "2026-11-10T10:00:12+00:00",
+      "updatedAt": "2026-11-10T10:00:12+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0d74b9a7d112b6b7432dff0feb7d71991c2fb2c435bddae58b367614a0ef4b0e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2a48b5a74c7a3e8913",
       "revision": 2,
       "category": "world",
@@ -510,7 +509,7 @@
       ],
       "publishedAt": "2026-11-09T21:46:43+00:00",
       "updatedAt": "2026-11-09T21:46:43+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -663,7 +662,7 @@
       ],
       "publishedAt": "2026-11-09T09:08:34+00:00",
       "updatedAt": "2026-11-09T09:08:34+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -701,27 +700,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a09145fe5a7b99a494",
-      "revision": 2,
+      "id": "rss-13969cd86b6cfd45da",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "La diplomatie dans le programme de LFI pour la présidentielle : le risque d’une France affaiblie",
+      "title": "Nomination d’Amélie de Montchalin à la tête de la Cour des comptes : le Conseil d’Etat rejette le recours des députés RN",
       "bullets": [
-        "Imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à l’élection présidentielle de 2027, fait du « non-alignement » la ligne directrice de la France."
+        "La requête des parlementaires menés par le député de la Somme Jean-Philippe Tanguy a été déclarée « irrecevable ».",
+        "Ils ne disposaient pas d’un « intérêt à agir » pour attaquer la nomination de l’ancienne ministre, estime la plus haute juridiction administrative."
       ],
-      "publishedAt": "2026-11-09T10:30:07+00:00",
-      "updatedAt": "2026-11-09T10:30:07+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-10T09:52:27+00:00",
+      "updatedAt": "2026-11-10T09:52:27+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes-le-conseil-d-etat-rejette-le-recours-des-deputes-rn_6808808_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
+      "summaryInput": "4a86cdade9b486368c4c1a4f64d689dc76935d9b819f2affc520b1360a6110d3",
       "detailLevel": "preview"
     },
     {
@@ -773,31 +773,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cf71776755208f5a7d",
-      "revision": 2,
+      "id": "rss-48106dbecbca782d0e",
+      "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
+      "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
       "bullets": [
-        "Les morts liées à la consommation de drogues ou de médicaments ont bondi de 171% en 10 ans.",
-        "En 2024, \"659 décès\" ont été comptabilisés en 2024 \"contre 243 en 2014\", selon l'enquête Drames (pour \"décès en relation avec l'abus de médicaments et de substances\") du Centre d'évaluation et d'information sur la pharmacodépendance et addictovigilance de Grenoble, citée dans cette note.",
-        "Les victimes sont âgées de 14 à 71 ans, l'âge moyen étant de 39 ans."
+        "La CLCV (Consommation, logement et cadre de vie) annonce mardi 10 novembre, dans un communiqué, avoir saisi l'Anses pour connaître les effets des gaz lacrymogènes sur la santé et l'environnement.",
+        "Ces dernières semaines, les témoignages de personnes inquiètes, exposées aux gaz lacrymogènes lors des manifestations lycéennes, étudiantes ou contre la vie chère, notamment de personnes menstruées ou enceintes, se sont multipliés.",
+        "Des douleurs inhabituellesEn octobre, le collectif Lacrymos de sang a recueilli plus de 10 000 témoignages de personnes menstruées faisant état d'effets sur leur cycle après une exposition aux gaz lacrymogènes."
       ],
-      "publishedAt": "2026-11-09T19:19:32+00:00",
-      "updatedAt": "2026-11-09T19:19:32+00:00",
-      "importance": 54,
+      "publishedAt": "2026-11-10T09:31:25+00:00",
+      "updatedAt": "2026-11-10T09:31:25+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html",
+          "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "599b50330f17af4b2408826f6771a0b79a1c71ede56944e1606e164102fd6978",
+      "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "enrichedAt": "2026-11-10T10:05:46.690894+00:00",
       "context": null
     },
     {
@@ -879,51 +879,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-55133da4143dd52c05",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
-      "bullets": [
-        "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
-      ],
-      "publishedAt": "2026-11-09T10:47:04+00:00",
-      "updatedAt": "2026-11-09T10:47:04+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "07a3f5ede7f34043509a8dbdb4dec939879f69325e2ea6a86de257079dc4e3e8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-13b03bc8a6f1058382",
+      "id": "rss-e5373a9c0d94ac8d59",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
+      "title": "Grève du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d’action pour « mettre le gouvernement sous pression »",
       "bullets": [
-        "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
+        "Près de deux mois après le début du mouvement de contestation et alors que les réponses de l’exécutif sont jugées « insuffisantes », des manifestations sont prévues dans la plupart des grandes villes de France."
       ],
-      "publishedAt": "2026-11-03T09:29:05+00:00",
-      "updatedAt": "2026-11-03T09:29:05+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-10T09:08:26+00:00",
+      "updatedAt": "2026-11-10T09:08:26+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
+      "summaryInput": "c4169c8d3dd3aa59993cf36923a0f2866d05e0d560b48d82889ffeefa1990398",
       "detailLevel": "preview"
     },
     {
@@ -1036,17 +1012,42 @@
       "context": null
     },
     {
-      "id": "rss-70ab867f51211eb4ec",
+      "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle",
+      "topic": "France",
+      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
       "bullets": [
-        "Le sportif de haut niveau a créé la surprise lundi, déclarant se présenter pour « relever la France » tout en n’étant « ni de droite ni de gauche ».",
+        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
+        "Ils exigent un sursaut d’autorité."
+      ],
+      "publishedAt": "2026-11-10T09:25:10+00:00",
+      "updatedAt": "2026-11-10T09:25:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-70ab867f51211eb4ec",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle pour 2027",
+      "bullets": [
+        "Le sportif de haut niveau a créé la surprise, lundi, en déclarant se présenter pour « relever la France », tout en n’étant « ni de droite ni de gauche ».",
         "Quelques dossiers, notamment fiscaux, pourraient handicaper son début de campagne."
       ],
-      "publishedAt": "2026-11-10T08:59:20+00:00",
-      "updatedAt": "2026-11-10T08:59:20+00:00",
+      "publishedAt": "2026-11-10T08:59:19+00:00",
+      "updatedAt": "2026-11-10T08:59:19+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1057,7 +1058,32 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "b4f4116c1c2828ce617689849a96347d26dc8ba2d4cd0d20f0a4d75cc9abee40",
+      "summaryInput": "f362aa0c6b9a906cc52d2d4d49f0f3cbe3bca77fec3d687ad8ef13c3de232d7e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-70368decfd00d44ffa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
+      "bullets": [
+        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
+        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
+      ],
+      "publishedAt": "2026-11-10T08:42:17+00:00",
+      "updatedAt": "2026-11-10T08:42:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
       "detailLevel": "preview"
     },
     {
@@ -1082,31 +1108,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "1238544a82683ff23773cfa83c44ec1ba2a87c33ee84389b65460e3ee0c534c5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-45998be9cb9607af0f",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
-      "bullets": [
-        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
-        "Ils exigent un sursaut d’autorité."
-      ],
-      "publishedAt": "2026-11-10T06:00:00+00:00",
-      "updatedAt": "2026-11-10T06:00:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
       "detailLevel": "preview"
     }
   ],
@@ -1151,7 +1152,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 15
     },
     {
       "publisher": "Le Figaro",
@@ -1187,13 +1188,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
