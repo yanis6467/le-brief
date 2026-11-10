@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T13:17:27.412963+00:00",
+  "preparedAt": "2026-11-10T15:01:46.439764+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -185,6 +185,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7604f56a4a19673f4d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Malgré les annonces, les manifestants ne comptent pas baisser les bras",
+      "bullets": [
+        "Un défilé au rythme de la fanfare ce mardi 10 novembre à Clermont-Ferrand (Puy-de-Dôme), avec un mélange de drapeaux de syndicats enseignants et d'organisations lycéennes, et un refrain qui ne change pas malgré les premières annonces du gouvernement.",
+        "Une cinquantaine de lycées encore bloquésUne cinquantaine de lycées étaient encore bloqués ce mardi 10 novembre, comme à la cité scolaire Marseilleveyre, où des poubelles entravaient l'accès avant que la police obtienne la levée du blocus.",
+        "À Paris, au lycée Jean-Monnet, dans le 13e arrondissement, de nombreux élèves restent déterminés."
+      ],
+      "publishedAt": "2026-11-10T13:32:10+00:00",
+      "updatedAt": "2026-11-10T13:32:10+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/malgre-les-annonces-les-manifestants-ne-comptent-pas-baisser-les-bras_8276369.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "7f19de9a7bae7707acf833f837548aa7d2d9120a414773e812a72b53fb6c49cc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
       "id": "rss-fcc583a04a7ab74a67",
       "revision": 2,
       "category": "eco",
@@ -241,10 +269,10 @@
     },
     {
       "id": "rss-3d306580ca5645912e",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage de la guerre au Moyen-Orient",
+      "title": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
       "bullets": [
         "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie."
       ],
@@ -260,63 +288,91 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "b2017161d86368758a62073cea57c60ed2002a3c38bd4e60f1d64649f5a98154",
+      "summaryInput": "78d27406d038f5c5f92ccfefb3e64fdaaabe2af46d42df64853bc97ddfe2d027",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2f2be5030414b93c8a",
+      "id": "rss-eb760474affdcd581b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Salaires : un décret publié pour sanctionner les branches dont les minima sont inférieurs au smic",
+      "title": "Retraites : 40% des Français ignorent le principe du système par répartition",
       "bullets": [
-        "Les allègements de cotisations patronales des entreprises de branches professionnelles dont les minima conventionnels sont inférieurs au smic seront réduits en les calculant à partir de ces minima et non plus du montant du smic, en vertu d’un décret publié au Journal officiel mardi.",
-        "Aujourd'hui, 69 branches ont des minima inférieurs au smic et la hausse du salaire minimum le 1er décembre prochain doit en faire basculer 64 supplémentaires dans la non-conformité, selon le ministère du Travail.",
-        "La liste des branches concernées est publiée «chaque année, au plus tard le 31 janvier»."
+        "Pire, la complexité du système de retraite français pousserait 29 % des non-retraités à adopter une attitude d’abandon face à leur future retraite, et 19 % assument être dans le déni.",
+        "L’étude révèle que 64 % des Français souhaitent introduire une part de capitalisation dans le système, contre 15 % qui veulent conserver le système actuel et s’en tenir à la seule répartition.",
+        "Pourtant, les plus grosses lacunes de connaissance du système de retraite s’enregistrent parmi les 18-24 ans, leur note moyenne au test général de connaissance sur les retraites s’élevant à 3,3/10."
       ],
-      "publishedAt": "2026-11-10T10:51:01+00:00",
-      "updatedAt": "2026-11-10T10:51:01+00:00",
+      "publishedAt": "2026-11-10T14:59:33+00:00",
+      "updatedAt": "2026-11-10T14:59:33+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/salaires-un-decret-publie-pour-sanctionner-les-branches-dont-les-minima-sont-inferieurs-au-smic-20261110",
+          "url": "https://www.lefigaro.fr/social/retraites-40-des-francais-ignorent-le-principe-du-systeme-par-repartition-20261110",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "7b44bc2463e7f4177daa55b865f6be78ce121e630a040c7ab9e62777488936c9",
+      "summaryInput": "cdb3bd3d284a1739728a13a2a889a4e58beb988006cbd5eb1c307d637d23f543",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T11:01:50.883402+00:00",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
       "context": null
     },
     {
-      "id": "rss-03f6e763b2a9299b25",
+      "id": "rss-e609900f1df4e754fa",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Prix du gaz : une nouvelle hausse de 5,8 % attendue en décembre",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : La chute des cours du pétrole donne un coup de fouet au CAC 40, Wall Street ouvre dans le rouge à cause d'une inflation américaine plus forte qu'attendu",
       "bullets": [
-        "Avec le froid des derniers jours, les factures de gaz augmentent.",
-        "Et je mets des affaires assez chaudes sur moi.\"Au 1er décembre, une nouvelle hausse de 5,8 % du prix de référence du gaz va fortement impacter les 10 millions de ménages qui utilisent cette énergie.",
-        "Des factures de gaz qui devraient continuer à augmenterFrédérique Feriaud, directrice générale du Médiateur de l'énergie, explique : \"Au moins jusqu'au début de l'année prochaine, on devrait continuer à avoir des augmentations."
+        "L'indice parisien s'adjuge 0,8% à 8.302,40 points ce mardi 10 novembre en milieu d'après-midi.",
+        "Le S&P 500 baisse de 0,7% et celui sur le Nasdaq composite abandonne 0,85%.",
+        "Sur un mois, l'indice des prix à la consommation, la mesure la plus connue du grand public, a progressé de 0,4% sur un mois et l'indice \"core\", c'est-à-dire hors prix de l'énergie et alimentaires, a augmenté de 0,3% sur un mois."
       ],
-      "publishedAt": "2026-11-10T10:38:22+00:00",
-      "updatedAt": "2026-11-10T10:38:22+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-10T14:34:55+00:00",
+      "updatedAt": "2026-11-10T14:34:55+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/prix-du-gaz-une-nouvelle-hausse-de-5-8-attendue-en-decembre_8276096.html",
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-chute-des-cours-du-petrole-donne-un-coup-de-fouet-au-cac-40-wall-street-ouvre-dans-le-rouge-a-cause-d-une-inflation-americaine-plus-forte-qu-attendu-1173527.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "62b793625dc58c374542397ac4cb0d55e68856f14593ca163e9ec0176adac430",
+      "summaryInput": "3e4b0a2dc27c4b519fd3d686cd17cca3864c0d1349ff76ea58ce1649b72cd3cf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T11:01:50.883402+00:00",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4021f0b9b8e532a5fd",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Avec la chute de l'IA en Bourse, Anthropic sabre ses ambitions et vise une valorisation allant jusqu'à 1.400 milliards de dollars pour son introduction à Wall Street",
+      "bullets": [
+        "Anthropic a indiqué qu'il proposerait lors de cette opération 825 millions d'actions dont 801,35 millions seront émises par la société et 23,65 millions seront offertes par des actionnaires existants.",
+        "En incluant donc toutes les options prévues, Anthropic lèverait au total plus de 100 milliards de dollars.",
+        "Hypercroissance \"À notre avis, une valorisation de 1.000 milliards de dollars d'Anhtropic, avec un cours et des débuts de cotations satisfaisants, justifierait les dépenses d'investissement sur lesquelles reposent toutes les entreprises de la chaîne d'approvisionnement de l'IA, ainsi que la croissance du cloud que les hyperscalers viennent d'annoncer\", ajoute-t-il."
+      ],
+      "publishedAt": "2026-11-10T13:28:43+00:00",
+      "updatedAt": "2026-11-10T13:28:43+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/avec-la-chute-de-l-ia-en-bourse-anthropic-sabre-ses-ambitions-et-vise-une-valorisation-allant-jusqu-a-1400-milliards-de-dollars-pour-son-introduction-a-wall-street-1173512.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "b609532389dd8dc58d990ddc61c3515794856668b5e2a4e953942a291a2f2070",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
       "context": null
     },
     {
@@ -330,8 +386,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T13:12:43+00:00",
-      "updatedAt": "2026-11-10T13:12:43+00:00",
+      "publishedAt": "2026-11-10T14:56:47+00:00",
+      "updatedAt": "2026-11-10T14:56:47+00:00",
       "importance": 69,
       "sources": [
         {
@@ -376,33 +432,6 @@
       "context": null
     },
     {
-      "id": "rss-4b022230db60686d4d",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.88%",
-      "bullets": [
-        "(BFM Bourse) - Après avoir fini en hausse de +1.16% à 8233.2998 points lors de sa dernière séance, le CAC 40 continue sur sa lancée en ouvrant à 8306.0996 points (+0.88%).",
-        "Joyau …- De 275 milliards de dollars de capitalisation boursière à moins de 60 milliards en cinq …"
-      ],
-      "publishedAt": "2026-11-10T08:00:00+00:00",
-      "updatedAt": "2026-11-10T08:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-088-1173473.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "1d0871e7abe37ddb7ec41c2dd34dc84eea55d7e4a8b87bbc871e98cdc8c08840",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0f1e7115b2ff2641e0",
       "revision": 1,
       "category": "markets",
@@ -415,7 +444,7 @@
       ],
       "publishedAt": "2026-11-09T14:36:20+00:00",
       "updatedAt": "2026-11-09T14:36:20+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -455,27 +484,54 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f65cb6cac950929cce",
+      "id": "rss-324d068f020d9bb956",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : la France « ne s’interdit rien » dans la riposte contre l’Iran, avertit le gouvernement",
+      "title": "Face à la cyberattaque en France attribuée à l'Iran, l'Union européenne se dit prête à une réponse \"rapide et unie\"",
       "bullets": [
-        "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre."
+        "L'Union européenne s'est dite prête, mardi 10 novembre, à \"apporter une réponse rapide et unie\", après que la France a accusé l'Iran d'être à l'origine de cyberattaques ayant visé des centaines de réfrigérateurs dans des supermarchés.",
+        "La France a officiellement attribué lundi à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque ayant ciblé, dans la nuit du 11 au 12 octobre, des contrôleurs de réfrigération de supermarchés d'environ 700 sites français de la grande distribution."
       ],
-      "publishedAt": "2026-11-10T08:37:11+00:00",
-      "updatedAt": "2026-11-10T08:37:11+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-10T14:31:30+00:00",
+      "updatedAt": "2026-11-10T14:31:30+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/face-a-la-cyberattaque-en-france-attribuee-a-l-iran-l-union-europeenne-se-dit-prete-a-une-reponse-rapide-et-unie_8276429.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "19d92322a630132e650374d9268b6d9d7157ebac659c9229f6de283781a3286e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1a2a19c7d3322eff35",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : « C’est en offrant une démarche commune à tous les Européens que les grandes capitales peuvent reprendre la main »",
+      "bullets": [
+        "Alors que la Communauté politique européenne se réunit à Dublin, jeudi 12 novembre, l’ancien ambassadeur français Michel Duclos appelle, dans une tribune au « Monde », les Européens à élever la voix pour peser face à Washington dans les débats concernant le conflit entre Moscou et Kiev."
+      ],
+      "publishedAt": "2026-11-10T13:30:09+00:00",
+      "updatedAt": "2026-11-10T13:30:09+00:00",
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/10/guerre-en-ukraine-c-est-en-offrant-une-demarche-commune-a-tous-les-europeens-que-les-grandes-capitales-peuvent-reprendre-la-main_6808838_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "136ce61256882ac3bcb47fc5baa282d0929b7d039cfe078a5bc4d60e3ed62b1b",
+      "summaryInput": "9458e58601a1f934da4c37a38d0e50c8adfb4a282710e2c96e9a274b12a3e81f",
       "detailLevel": "preview"
     },
     {
@@ -502,34 +558,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
       "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b26ee7e3befe208739",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense, Pete Hegseth, a été lancée au Congrès",
-      "bullets": [
-        "Une procédure de mise en accusation du ministre de la Défense américain, Pete Hegseth, a été lancée au Congrès par un député républicain, lundi 9 novembre.",
-        "Dans sa résolution, l'élu du Kentucky accuse le ministre d'avoir enfreint la loi en menant la guerre contre l'Iran sans avoir obtenu l'autorisation du Congrès (le Sénat et la Chambre des représentants).",
-        "Sous sa direction, l'armée américaine a mené des frappes contre des bateaux de narcotrafiquants dans les Caraïbes et le Pacifique, une campagne particulièrement critiquée sur le plan du droit international."
-      ],
-      "publishedAt": "2026-11-10T12:21:04+00:00",
-      "updatedAt": "2026-11-10T12:21:04+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "48c94952742b187d0cd8d21a61e7005c0c641cd27b775f0c95b6db703d930e02",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
       "context": null
@@ -738,34 +766,62 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-870e34581992a249ac",
+      "id": "rss-c1c9ada0dbc14d382b",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
+      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
       "bullets": [
-        "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT."
+        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
+        "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
+        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
       ],
-      "publishedAt": "2026-11-09T14:55:54+00:00",
-      "updatedAt": "2026-11-09T14:55:54+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-10T14:02:17+00:00",
+      "updatedAt": "2026-11-10T14:02:17+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-faaa06fd07a017aa05",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
+      "bullets": [
+        "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
+      ],
+      "publishedAt": "2026-11-10T11:00:02+00:00",
+      "updatedAt": "2026-11-10T11:00:02+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
+      "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
       "detailLevel": "preview"
     },
     {
       "id": "rss-e731c0ea0fc686e839",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Éducation",
       "title": "Mobilisation lycéenne : une grande partie des organisations lycéennes et étudiantes ont quitté Matignon pendant la réunion sur Parcoursup. Retrouvez notre direct",
       "bullets": [
         "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’Union nationale interuniversitaire et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence France-Presse."
@@ -783,30 +839,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "1e161157faff52790a6b8dc57c36c3b2e6a9b6e14e721172a258e7c788374ba3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-362b73c39cbd681dc5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
-      "bullets": [
-        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
-      ],
-      "publishedAt": "2026-11-05T15:36:56+00:00",
-      "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
       "detailLevel": "preview"
     },
     {
@@ -863,31 +895,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-003c6edc8f4d054606",
-      "revision": 2,
+      "id": "rss-ad352e12a25b9f615b",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "La chaîne CNews peut-elle disparaître ?",
+      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
       "bullets": [
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
+        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
+        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
       ],
-      "publishedAt": "2026-11-09T15:56:27+00:00",
-      "updatedAt": "2026-11-09T15:56:27+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-09T20:39:17+00:00",
+      "updatedAt": "2026-11-09T20:39:17+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
+      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
       "context": null
     },
     {
@@ -916,134 +948,101 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e5373a9c0d94ac8d59",
-      "revision": 2,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Grève du 10 novembre : étudiants, lycéens et enseignants à nouveau mobilisés pour « mettre le gouvernement sous pression »",
-      "bullets": [
-        "Près de deux mois après le début du mouvement de contestation et alors que les réponses de l’exécutif sont jugées « insuffisantes », des manifestations sont prévues dans la plupart des grandes villes de France."
-      ],
-      "publishedAt": "2026-11-10T09:08:26+00:00",
-      "updatedAt": "2026-11-10T09:08:26+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dcb21ee90a472587be6ce3468029ac62db4452c9324fe53bbfdfd4eedfc75da1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-53f499ead40a65bcec",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
-      "bullets": [
-        "\"Cela fait maintenant un mois qu'on n'a pas eu cours, ça devient très inquiétant.\" Début novembre, une lycéenne rencontrée devant un lycée bloqué d'Aubervilliers (Seine-Saint-Denis) s'inquiétait pour son avenir.",
-        "Une enquête du Snes-FSU avance que, à la rentrée 2026, l'équipe pédagogique était incomplète dans 69% des lycées.",
-        "Parmi les pistes proposées : la diminution du nombre de textes à étudier pour l'oral de français – pour les élèves de première –, actuellement au nombre de 16 dans la filière générale et 12 pour la filière technologique."
-      ],
-      "publishedAt": "2026-11-10T06:46:58+00:00",
-      "updatedAt": "2026-11-10T06:46:58+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "588f4ba3ae7226f0e3b2799e595e4a76736abc85f1fdab14f1cd508581c34723",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-90df1864a41fc17ef6",
-      "revision": 2,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
-      "bullets": [
-        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
-        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
-      ],
-      "publishedAt": "2026-11-10T04:00:14+00:00",
-      "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-13969cd86b6cfd45da",
+      "id": "rss-bb03a493e4347afdc5",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Nomination d’Amélie de Montchalin à la tête de la Cour des comptes : le Conseil d’Etat rejette le recours des députés RN",
+      "title": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
       "bullets": [
-        "La requête des parlementaires menés par le député de la Somme Jean-Philippe Tanguy a été déclarée « irrecevable ».",
-        "Ils ne disposaient pas d’un « intérêt à agir » pour attaquer la nomination de l’ancienne ministre, estime la plus haute juridiction administrative."
+        "Les députés de la commission des affaires culturelles ont décidé, mardi 10 novembre, de classer le texte qui avait dépassé le million de signataires dimanche."
       ],
-      "publishedAt": "2026-11-10T09:52:27+00:00",
-      "updatedAt": "2026-11-10T09:52:27+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-10T14:16:10+00:00",
+      "updatedAt": "2026-11-10T14:16:10+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes-le-conseil-d-etat-rejette-le-recours-des-deputes-rn_6808808_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "4a86cdade9b486368c4c1a4f64d689dc76935d9b819f2affc520b1360a6110d3",
+      "summaryInput": "af22d69d9f8022c1d830c1c9170310f7ea86af942666723f368571b8b74e00cc",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad352e12a25b9f615b",
+      "id": "rss-362b73c39cbd681dc5",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "topic": "Éducation",
+      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
       "bullets": [
-        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
-        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
-        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
       ],
-      "publishedAt": "2026-11-09T20:39:17+00:00",
-      "updatedAt": "2026-11-09T20:39:17+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-05T15:36:56+00:00",
+      "updatedAt": "2026-11-05T15:36:56+00:00",
+      "importance": 76,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3bbb267a437ab9f492",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "A Chelles, une bouteille d’essence jetée sur une élue devant le lycée Gaston-Bachelard",
+      "bullets": [
+        "La conseillère régionale a porté plainte pour tentative de meurtre, a fait savoir la présidente de la région Ile-de-France, Valérie Pécresse, en déplorant une « forte intensité de violence » dans le mouvement lycéen.",
+        "Selon le gouvernement, 240 enseignants ont été blessés au total."
+      ],
+      "publishedAt": "2026-11-10T14:01:21+00:00",
+      "updatedAt": "2026-11-10T14:01:21+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/a-chelles-une-bouteille-d-essence-jetee-sur-une-elue-devant-le-lycee-gaston-bachelard_6808842_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "387c0206b1a2d8d1ece96f24c4c4665829f8eb91bc1759a49a644de6512a19ec",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-870e34581992a249ac",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
+      "bullets": [
+        "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT."
+      ],
+      "publishedAt": "2026-11-09T14:55:54+00:00",
+      "updatedAt": "2026-11-09T14:55:54+00:00",
+      "importance": 71,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3588f069d2bc37c363",
@@ -1074,6 +1073,33 @@
       "context": null
     },
     {
+      "id": "rss-8d1d468f76337209b1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik",
+      "bullets": [
+        "L'auteur de la tuerie de Cracovie la semaine dernière s'intéressait au néonazi Anders Behring Breivik, a déclaré, mardi 10 novembre, le ministre polonais de la Justice, estimant que plusieurs éléments recueillis par les enquêteurs renforçaient l'hypothèse d'une radicalisation d'extrême droite.\"Les services ont accès à l'ordinateur du terroriste.",
+        "Ce symbole est parfois associé à certains mouvements d'extrême droite américains."
+      ],
+      "publishedAt": "2026-11-10T13:25:14+00:00",
+      "updatedAt": "2026-11-10T13:25:14+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "c05037d38b8b54058b4cb8e6633866ae4dc481c799be1d90dc0204aa6e5ef7e0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T15:01:46.439764+00:00",
+      "context": null
+    },
+    {
       "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
@@ -1099,51 +1125,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-faaa06fd07a017aa05",
+      "id": "rss-70368decfd00d44ffa",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
+      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
       "bullets": [
-        "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
+        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
+        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
       ],
-      "publishedAt": "2026-11-10T11:00:02+00:00",
-      "updatedAt": "2026-11-10T11:00:02+00:00",
+      "publishedAt": "2026-11-10T08:42:17+00:00",
+      "updatedAt": "2026-11-10T08:42:17+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
+      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7504c771ad91b8a0f3",
+      "id": "rss-9054c468c703e63407",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "« A l’approche de l’élection présidentielle de 2027, la question de la légitimité de l’ensemble des acteurs politiques et sociaux se pose »",
+      "topic": "Culture",
+      "title": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
       "bullets": [
-        "La conférence sociale convoquée par Sébastien Lecornu apparaît autant comme la bouée de sauvetage d’un pouvoir dont la légitimité s’épuise qu’une revanche pour des partenaires sociaux tenus à l’écart au lendemain du mouvement des « gilets jaunes », analyse, dans sa chronique, Françoise Fressoz, éditorialiste au « Monde »."
+        "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
+        "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
       ],
-      "publishedAt": "2026-11-10T10:15:08+00:00",
-      "updatedAt": "2026-11-10T10:15:08+00:00",
+      "publishedAt": "2026-11-10T03:30:07+00:00",
+      "updatedAt": "2026-11-10T03:30:07+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/10/a-l-approche-de-l-election-presidentielle-de-2027-la-question-de-la-legitimite-de-l-ensemble-des-acteurs-politiques-et-sociaux-se-pose_6808812_3232.html",
+          "url": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "14415e04d9b46db373dd1b8adda3c7976912e56296a3b7724f282f745ff33ccf",
+      "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
       "detailLevel": "preview"
     }
   ],
@@ -1158,7 +1186,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1206,7 +1234,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 14
     },
     {
       "publisher": "Le Figaro",
@@ -1260,7 +1288,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 26
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
