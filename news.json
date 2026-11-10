@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T11:59:22.790546+00:00",
+  "preparedAt": "2026-11-10T13:17:27.412963+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -79,6 +79,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "62c95f0c683247d9876a3a8eed37df6f9be4de0dc179eb915213e579f6f3dcb0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cc6fa95b01a98cf25f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La CGT juge trop faible l'augmentation du Smic proposé par le gouvernement",
+      "bullets": [
+        "Sa secrétaire nationale, Sophie Binet, déplore les annonces du gouvernement concernant l'augmentation du Smic, qu'elle juge bien trop faible.",
+        "La hausse du smic de 1,6% n'est \"pas à la hauteur de l'explosion du coût de la vie\", juge Sophie Binet",
+        "Le smic augmentera de 1,6% dès le 1er décembre"
+      ],
+      "publishedAt": "2026-11-10T12:30:01+00:00",
+      "updatedAt": "2026-11-10T12:30:01+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/syndicats/la-cgt-juge-trop-faible-l-augmentation-du-smic-propose-par-le-gouvernement_8276300.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "1e5bd5a5268aabc18a41c28688792717c9e08abc02e200769eb2f5b4023ca282",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
     },
     {
       "id": "rss-47d8ea7b5cf8d8e5b3",
@@ -292,34 +320,6 @@
       "context": null
     },
     {
-      "id": "rss-86595c30f695128c62",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Carburants : le prix du gazole en baisse «de 18 centimes en moyenne» depuis le début du mois, indique Serge Papin",
-      "bullets": [
-        "Une nette amélioration par rapport aux quelque 2,37 euros du 31 octobre.",
-        "LIRE AUSSI - De 2,29 à 2,46 euros le litre de gazole : pourquoi le prix des carburants diffère autant d’un département à l’autre «Dégel des seuils d’allègements de charges» Autre sujet au cœur de l’actualité, la hausse du smic décidée par le gouvernement.",
-        "Lundi 9 novembre, le premier ministre Sébastien Lecornu a annoncé que le salaire minimum serait augmenté de 24 euros (1,6%) au 1er décembre pour atteindre 1502 euros net par mois pour un temps plein."
-      ],
-      "publishedAt": "2026-11-10T09:31:25+00:00",
-      "updatedAt": "2026-11-10T09:31:25+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/carburants-le-prix-du-gazole-en-baisse-de-18-centimes-en-moyenne-depuis-le-debut-du-mois-indique-serge-papin-20261110",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "27b14f5a66a660a36384ba77032d7b6b382f688e43d8f05bb917a182c5a5545d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -330,8 +330,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T11:52:29+00:00",
-      "updatedAt": "2026-11-10T11:52:29+00:00",
+      "publishedAt": "2026-11-10T13:12:43+00:00",
+      "updatedAt": "2026-11-10T13:12:43+00:00",
       "importance": 69,
       "sources": [
         {
@@ -431,6 +431,30 @@
       "context": null
     },
     {
+      "id": "rss-1010ff4bf25eb29f6a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Donald Trump estime que la guerre contre l’Iran est « militairement terminée », après sa rencontre avec le premier ministre du Qatar",
+      "bullets": [
+        "Le président américain a ajouté sur son réseau, Truth Social, que, si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
+      ],
+      "publishedAt": "2026-11-10T13:05:32+00:00",
+      "updatedAt": "2026-11-10T13:05:32+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-estime-que-la-guerre-contre-l-iran-est-militairement-terminee-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3211.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5911476b4a6804f8eddc7ba9bea2c37c58db50dbe1b53ff110734ad08699fa0e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f65cb6cac950929cce",
       "revision": 1,
       "category": "world",
@@ -455,13 +479,69 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-77c4893d01b6713d35",
+      "id": "rss-1f99992d45969efd08",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
+      "bullets": [
+        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+      ],
+      "publishedAt": "2026-11-10T12:51:21+00:00",
+      "updatedAt": "2026-11-10T12:51:21+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b26ee7e3befe208739",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense, Pete Hegseth, a été lancée au Congrès",
+      "bullets": [
+        "Une procédure de mise en accusation du ministre de la Défense américain, Pete Hegseth, a été lancée au Congrès par un député républicain, lundi 9 novembre.",
+        "Dans sa résolution, l'élu du Kentucky accuse le ministre d'avoir enfreint la loi en menant la guerre contre l'Iran sans avoir obtenu l'autorisation du Congrès (le Sénat et la Chambre des représentants).",
+        "Sous sa direction, l'armée américaine a mené des frappes contre des bateaux de narcotrafiquants dans les Caraïbes et le Pacifique, une campagne particulièrement critiquée sur le plan du droit international."
+      ],
+      "publishedAt": "2026-11-10T12:21:04+00:00",
+      "updatedAt": "2026-11-10T12:21:04+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "48c94952742b187d0cd8d21a61e7005c0c641cd27b775f0c95b6db703d930e02",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-77c4893d01b6713d35",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Sanctions contre la Russie : les ratés de l’Union européenne",
       "bullets": [
-        "Pour élaborer les dernières mesures de rétorsion adoptées par les Vingt-sept contre le complexe militaro-industriel russe, la diplomatie européenne a changé de méthode.",
+        "Pour élaborer les dernières mesures de rétorsion adoptées par les Vingt-Sept contre le complexe militaro-industriel russe, la diplomatie européenne a changé de méthode.",
         "Le site « The Insider » relève de nombreuses erreurs et approximations."
       ],
       "publishedAt": "2026-11-10T10:58:35+00:00",
@@ -476,7 +556,7 @@
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "b7b8b4a4f8295da474be7e54df16c2d48d3b19006e54eac0b977374d31711b61",
+      "summaryInput": "81ce435d43ba38608118fed4cb936583157747722a305ddb347fafbad39889e9",
       "detailLevel": "preview"
     },
     {
@@ -505,34 +585,6 @@
       "summaryInput": "8a391353588097fb075ab9b2d7268d3d611d06cc9306a5969d46fb00378e9709",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b26ee7e3befe208739",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense a été lancée au Congrès",
-      "bullets": [
-        "Une procédure de mise en accusation du ministre américain de la Défense, Pete Hegseth, a été lancée au Congrès par un député républicain, lundi 9 novembre.",
-        "Dans sa résolution, l'élu du Kentucky accuse le ministre d'avoir enfreint la loi en menant la guerre contre l'Iran sans avoir obtenu l'autorisation du Congrès.",
-        "Sous sa direction, l'armée américaine a mené des frappes contre des bateaux de narcotrafiquants dans les Caraïbes et le Pacifique, une campagne particulièrement critiquée sur le plan du droit international."
-      ],
-      "publishedAt": "2026-11-09T21:46:43+00:00",
-      "updatedAt": "2026-11-09T21:46:43+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "12aacc5b636badb1bf060b762e3593fe9d12d1175c3529245c8edd4758606908",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T11:01:50.883402+00:00",
       "context": null
     },
     {
@@ -638,31 +690,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-670fd0e4929b70bcff",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les midterms aux Etats-Unis, miroir des élections législatives en Israël",
-      "bullets": [
-        "Le scrutin législatif du 27 octobre a sanctionné la politique de Benyamin Nétanyahou, en Israël.",
-        "Huit jours plus tard, l’image dégradée de l’Etat hébreu aux Etats-Unis, son allié historique, a joué en faveur des démocrates dans les élections de mi-mandat."
-      ],
-      "publishedAt": "2026-11-10T04:00:26+00:00",
-      "updatedAt": "2026-11-10T04:00:26+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/10/les-midterms-aux-etats-unis-miroir-des-elections-legislatives-en-israel_6808776_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1eacaabc68d30da48df348c5c38d50b52dd30a33b5f1be19009dcdacd690ef09",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d802a5afec5207f277",
       "revision": 1,
       "category": "world",
@@ -708,31 +735,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bdab848f55c3d3564b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-      "bullets": [
-        "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris.",
-        "Cette unité est connue pour ses attaques contre les systèmes industriels."
-      ],
-      "publishedAt": "2026-11-10T10:30:17+00:00",
-      "updatedAt": "2026-11-10T10:30:17+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b610cf7bcda30b014d66bbc59616bf06d5c46c91a3cf82609d141a975eea6f2e",
       "detailLevel": "preview"
     },
     {
@@ -1072,6 +1074,31 @@
       "context": null
     },
     {
+      "id": "rss-45998be9cb9607af0f",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
+      "bullets": [
+        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
+        "Ils exigent un sursaut d’autorité."
+      ],
+      "publishedAt": "2026-11-10T12:50:25+00:00",
+      "updatedAt": "2026-11-10T12:50:25+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-faaa06fd07a017aa05",
       "revision": 1,
       "category": "france",
@@ -1118,31 +1145,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "14415e04d9b46db373dd1b8adda3c7976912e56296a3b7724f282f745ff33ccf",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-45998be9cb9607af0f",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
-      "bullets": [
-        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
-        "Ils exigent un sursaut d’autorité."
-      ],
-      "publishedAt": "2026-11-10T09:25:10+00:00",
-      "updatedAt": "2026-11-10T09:25:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1156,7 +1158,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1258,7 +1260,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 26
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
