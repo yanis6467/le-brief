@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T04:01:59.406295+00:00",
+  "preparedAt": "2026-11-10T05:04:29.505262+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -69,7 +69,7 @@
       ],
       "publishedAt": "2026-11-09T16:41:50+00:00",
       "updatedAt": "2026-11-09T16:41:50+00:00",
-      "importance": 87,
+      "importance": 86,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -83,6 +83,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-09T17:23:15.119469+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8f88f982e819f73ce1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Etats-Unis : le naufrage du projet Matador au Texas, prélude au coup de frein sur les data centers",
+      "bullets": [
+        "L’un des plus gros centres de données en construction dans le pays est déjà à vendre et la valeur de l’entreprise a fondu, au moment où les élections de mi-mandat, le 3 novembre, ont marqué un fort rejet de ces infrastructures nécessaires au développement des intelligences artificielles."
+      ],
+      "publishedAt": "2026-11-10T04:00:38+00:00",
+      "updatedAt": "2026-11-10T04:00:38+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/etats-unis-le-naufrage-du-projet-matador-au-texas-prelude-au-coup-de-frein-sur-les-data-centers_6808778_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7648cab9869a127d698fce9d3e6e9a6a495f3c9f1f23a69aefb24998fbcf90ad",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8b374592e26c8caf5a",
@@ -136,34 +160,6 @@
       "context": null
     },
     {
-      "id": "rss-003c6edc8f4d054606",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La chaîne CNews peut-elle disparaître ?",
-      "bullets": [
-        "L’Assemblée nationale devrait donc en débattre demain, mardi 10 novembre.",
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants"
-      ],
-      "publishedAt": "2026-11-09T15:56:27+00:00",
-      "updatedAt": "2026-11-09T15:56:27+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T16:15:22.295918+00:00",
-      "context": null
-    },
-    {
       "id": "rss-63c77747187f08097b",
       "revision": 1,
       "category": "eco",
@@ -204,7 +200,7 @@
       ],
       "publishedAt": "2026-11-09T16:46:03+00:00",
       "updatedAt": "2026-11-09T16:46:03+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -241,6 +237,31 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6db16a2f82875a94df",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« On n’achète de la viande que si c’est à moins 30 %, on fait attention à tout » : avec l’inflation, Lidl n’attire pas seulement les clients les plus modestes",
+      "bullets": [
+        "Avec la baisse du pouvoir d’achat, l’enseigne de hard-discount allemande capte toujours plus de clients.",
+        "Notamment ses « Outlets », des points de vente où le distributeur écoule les invendus non alimentaires, au nombre de quatre en France."
+      ],
+      "publishedAt": "2026-11-10T05:00:30+00:00",
+      "updatedAt": "2026-11-10T05:00:30+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/on-n-achete-de-la-viande-que-si-c-est-a-moins-30-on-fait-attention-a-tout-avec-l-inflation-lidl-n-attire-pas-seulement-les-clients-les-plus-modestes_6808787_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7d1e2d25bceb1479620a5158a346b8da3b5d889663a82a8c3fb52172e0bc1657",
       "detailLevel": "preview"
     },
     {
@@ -292,31 +313,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f53341bdf825f59ceb",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
-      "bullets": [
-        "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans.",
-        "Elle s’insurge également contre l’Etat, qui cherche à récupérer quelques millions d’euros de taxes."
-      ],
-      "publishedAt": "2026-11-09T17:42:38+00:00",
-      "updatedAt": "2026-11-09T17:42:38+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cff7a96a661f3196cad592242d721fab945efb1d0b07e34d65df087432c0485c",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -327,9 +323,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T03:55:22+00:00",
-      "updatedAt": "2026-11-10T03:55:22+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-10T05:04:30+00:00",
+      "updatedAt": "2026-11-10T05:04:30+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -357,7 +353,7 @@
       ],
       "publishedAt": "2026-11-09T16:45:20+00:00",
       "updatedAt": "2026-11-09T16:45:20+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -399,30 +395,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T04:01:59.406295+00:00",
       "context": null
-    },
-    {
-      "id": "rss-bc3a1980177ab10fde",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "« Pour les géants du CAC 40, la France devient un fardeau, aussi bien en matière de perspectives économiques que de réputation »",
-      "bullets": [
-        "En 2025, la France ne représentait que 24,2 % du chiffre d’affaires global des entreprises du CAC 40, avec des contributions « variant de 1 % à 64 % » des ventes, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
-      ],
-      "publishedAt": "2026-11-09T10:00:06+00:00",
-      "updatedAt": "2026-11-09T10:00:06+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/pour-les-geants-du-cac-40-la-france-devient-un-fardeau-aussi-bien-en-matiere-de-perspectives-economiques-que-de-reputation_6808633_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3566052d96a98cca2d95201505443b1f3e735c14a61218bfcc4000451389e740",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-c6d6ba2ec7cc1b208d",
@@ -578,30 +550,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-997be612442c574b6d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
-      "bullets": [
-        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
-      ],
-      "publishedAt": "2026-11-09T05:00:00+00:00",
-      "updatedAt": "2026-11-09T05:00:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c183f2221a7b931d08",
       "revision": 1,
       "category": "world",
@@ -630,27 +578,27 @@
       "context": null
     },
     {
-      "id": "rss-8587a979e63b388f11",
-      "revision": 3,
+      "id": "rss-997be612442c574b6d",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : 400 000 morts russes, le bilan que Vladimir Poutine voulait cacher",
+      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
       "bullets": [
-        "Des hackeurs biélorusses et ukrainiens ont réussi à infiltrer les ordinateurs de Rosstat, l’agence russe des statistiques. Leurs chiffres, publiés par Bloomberg, prennent en compte les certificats de décès liés à l’« opération militaire spéciale ». Un bilan qui sous-estime l’ampleur réelle des pertes."
+        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
       ],
-      "publishedAt": "2026-11-09T17:05:37+00:00",
-      "updatedAt": "2026-11-09T17:05:37+00:00",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "updatedAt": "2026-11-09T05:00:00+00:00",
       "importance": 75,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "e983c13ed3f1f3fd295dc56b17a6b34ef2caefed436f9144d7824203f13c8fe2",
+      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
       "detailLevel": "preview"
     },
     {
@@ -730,6 +678,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b5ca70c7e36461458a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Invisibles et stratégiques, l'enjeu des câbles sous-marins",
+      "bullets": [
+        "Des câbles par lesquels transitent 99 % des télécommunications mondiales.",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+      ],
+      "publishedAt": "2026-11-09T18:00:02+00:00",
+      "updatedAt": "2026-11-09T18:00:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/invisibles-et-strategiques-l-enjeu-des-cables-sous-marins_8274971.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "713820030d3d2370c7ee8233a6b0f56f0286fa3d67b333b2cce70d45d33446b3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ad1b5856f59e776778",
       "revision": 1,
       "category": "france",
@@ -741,7 +717,7 @@
       ],
       "publishedAt": "2026-11-09T05:00:31+00:00",
       "updatedAt": "2026-11-09T05:00:31+00:00",
-      "importance": 96,
+      "importance": 95,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -841,7 +817,7 @@
       ],
       "publishedAt": "2026-11-06T16:15:09+00:00",
       "updatedAt": "2026-11-06T16:15:09+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -855,31 +831,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4ae78eb6224af1f385",
-      "revision": 1,
+      "id": "rss-003c6edc8f4d054606",
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
+      "title": "La chaîne CNews peut-elle disparaître ?",
       "bullets": [
-        "Dans l'émission phare \"60 minutes\", Marine Le Pen a qualifié la France comme pays \"le moins raciste au monde\".",
-        "\"Le racisme existe dans notre société\"Sébastien Chenu reconnaît lundi matin qu'en France, \"les discriminations existent mais elles sont surtout sociales\".",
-        "Sébastien Chenu s'est exprimé plusieurs jours après l'attentat raciste de Trappes où Kevin Tessier, le principal suspect de l'attaque terroriste est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes."
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
       ],
-      "publishedAt": "2026-11-09T08:47:51+00:00",
-      "updatedAt": "2026-11-09T08:47:51+00:00",
+      "publishedAt": "2026-11-09T15:56:27+00:00",
+      "updatedAt": "2026-11-09T15:56:27+00:00",
       "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
+          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
+      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T22:56:44.208027+00:00",
+      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
       "context": null
     },
     {
@@ -905,30 +881,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d71b120d0bf853f25d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Environnement",
-      "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
-      "bullets": [
-        "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire."
-      ],
-      "publishedAt": "2026-11-07T16:30:10+00:00",
-      "updatedAt": "2026-11-07T16:30:10+00:00",
-      "importance": 43,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "80bbb3f686ee1dfa6482ee713eae550f9c7e25e645bbf6653aeb9e1492741655",
       "detailLevel": "preview"
     },
     {
@@ -980,52 +932,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-55133da4143dd52c05",
+      "id": "rss-4ae78eb6224af1f385",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
+      "topic": "Faits divers",
+      "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
       "bullets": [
-        "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé »."
+        "Dans l'émission phare \"60 minutes\", Marine Le Pen a qualifié la France comme pays \"le moins raciste au monde\".",
+        "\"Le racisme existe dans notre société\"Sébastien Chenu reconnaît lundi matin qu'en France, \"les discriminations existent mais elles sont surtout sociales\".",
+        "Sébastien Chenu s'est exprimé plusieurs jours après l'attentat raciste de Trappes où Kevin Tessier, le principal suspect de l'attaque terroriste est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes."
       ],
-      "publishedAt": "2026-11-09T10:47:04+00:00",
-      "updatedAt": "2026-11-09T10:47:04+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "07a3f5ede7f34043509a8dbdb4dec939879f69325e2ea6a86de257079dc4e3e8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f830768cea37ec9082",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
-      "bullets": [
-        "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est devenu pour des millions de Français : une urgence quotidienne »."
-      ],
-      "publishedAt": "2026-11-09T07:00:09+00:00",
-      "updatedAt": "2026-11-09T07:00:09+00:00",
+      "publishedAt": "2026-11-09T08:47:51+00:00",
+      "updatedAt": "2026-11-09T08:47:51+00:00",
       "importance": 76,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a1b82535d1c6b3a244137d5be6b2ba76a92a096ef4fa8a85412dcd73d89f368b",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-09T22:56:44.208027+00:00",
+      "context": null
     },
     {
       "id": "rss-13b03bc8a6f1058382",
@@ -1050,6 +982,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "36f082a99c7dadf1fb37c5f333ee8a53406614e8e1640ac135e7279dc3310e13",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-53f499ead40a65bcec",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+      "bullets": [
+        "\"Cela fait maintenant un mois qu'on n'a pas eu cours, ça devient très inquiétant.\" Début novembre, une lycéenne rencontrée devant un lycée bloqué d'Aubervilliers (Seine-Saint-Denis) s'inquiétait pour son avenir.",
+        "Une enquête du Snes-FSU avance que, à la rentrée 2026, l'équipe pédagogique était incomplète dans 69% des lycées.",
+        "Parmi les pistes proposées : la diminution du nombre de textes à étudier pour l'oral de français – pour les élèves de première –, actuellement au nombre de 16 dans la filière générale et 12 pour la filière technologique."
+      ],
+      "publishedAt": "2026-11-10T04:58:37+00:00",
+      "updatedAt": "2026-11-10T04:58:37+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "588f4ba3ae7226f0e3b2799e595e4a76736abc85f1fdab14f1cd508581c34723",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
+      "context": null
     },
     {
       "id": "rss-90df1864a41fc17ef6",
@@ -1104,6 +1064,30 @@
       "context": null
     },
     {
+      "id": "rss-1ea1cc19be65ce48e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Déserts médicaux : le gouvernement veut atteindre 100 médicobus labellisés en 2027",
+      "bullets": [
+        "Ces cabinets mobiles proposent des consultations dans les zones où les ressources médicales manquent, particulièrement dans les zones rurales et les quartiers politiques de la ville."
+      ],
+      "publishedAt": "2026-11-09T13:35:10+00:00",
+      "updatedAt": "2026-11-09T13:35:10+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/09/deserts-medicaux-le-gouvernement-veut-atteindre-100-medicobus-labellises-en-2027_6808654_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bad932367a3d4e7175e0fc825becfc676d0dd3d5a34871f9a86f462bf4f11c8a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4448e3f691a29f5756",
       "revision": 1,
       "category": "france",
@@ -1140,7 +1124,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1206,13 +1190,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
