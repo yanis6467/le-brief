@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T15:59:11.970422+00:00",
+  "preparedAt": "2026-11-10T17:03:59.941989+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-2b49e07b8d147546d5",
-      "revision": 4,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-      "bullets": [
-        "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué la succession de la présidente de la Banque centrale européenne.",
-        "Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
-      ],
-      "publishedAt": "2026-11-09T21:26:21+00:00",
-      "updatedAt": "2026-11-09T21:26:21+00:00",
-      "importance": 98,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "253fe77950a32e9dc887412815de8fb5141ab1c652045283ef86eca05bd2106e",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-548d672a891e87bc41",
       "revision": 1,
@@ -55,6 +30,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "57ae458cc1e00e3d1daf96a874300afb7b4c9321711c74681319098a4b07d796",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d64c91e621c3e3c2b4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des cyberattaques",
+      "bullets": [
+        "Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi 10 novembre Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa), dans un entretien à l’AFP.",
+        "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.",
+        "Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs (équipements pour les réseaux informatiques, NDLR), et après-demain les appareils ménagers domestiques, et ainsi de suite», a souligné le responsable."
+      ],
+      "publishedAt": "2026-11-10T17:01:24+00:00",
+      "updatedAt": "2026-11-10T17:01:24+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/apres-les-supermarches-les-appareils-menagers-pourraient-etre-la-prochaine-cible-des-cyberattaques-20261110",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "4a18bfd24daf52cae599ea5eca5adc4561165bd769f07e03643bf9d6b7c142c6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
+      "context": null
     },
     {
       "id": "rss-a611ef07a8081599d2",
@@ -107,58 +110,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
       "context": null
-    },
-    {
-      "id": "rss-47d8ea7b5cf8d8e5b3",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Taxe sur les superprofits, chèque énergie… Que contient le plan de «révolution écologique» à 200 milliards d’euros de Raphaël Glucksmann ?",
-      "bullets": [
-        "Raphaël Glucksmann a annoncé un plan massif d'investissements publics sur le quinquennat pour financer son projet de «révolution écologique», dont il présentait lundi les «100 premiers jours» pour engager la «sortie des énergies fossiles ».",
-        "Cette contribution est évaluée à 50 milliards d'euros, a précisé Yannick Jadot.",
-        "Leasing social et «chèque énergie exceptionnel» Pour améliorer le pouvoir d'achat, Raphaël Glucksmann prévoit également «des mesures d'urgence» dans les 100 premiers jours, comme un « leasing social pour un million de voitures électriques compactes», sur 5 ans, pour 100 euros par mois sans apport."
-      ],
-      "publishedAt": "2026-11-10T10:27:01+00:00",
-      "updatedAt": "2026-11-10T10:27:01+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/taxe-sur-les-superprofits-cheque-energie-que-contient-le-plan-de-revolution-ecologique-a-200-milliards-d-euros-de-raphael-glucksmann-20261110",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "58f70b6df8714564864a014e2ca0f6fe9baf9b9827bccbfeef43e798fa7b5574",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T11:01:50.883402+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-8b374592e26c8caf5a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
-      "bullets": [
-        "A partir du 1ᵉʳ décembre, le gestionnaire du réseau de distribution d’électricité mettra en place la deuxième phase de la réforme des heures creuses, lancée il y a un an, dans le but de déplacer la consommation au moment où la production est plus abondante et moins coûteuse."
-      ],
-      "publishedAt": "2026-11-09T23:16:16+00:00",
-      "updatedAt": "2026-11-09T23:16:16+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0ab6759296eccdeb4fd2766175a18e3c3eac3ebcb8b7e6ee827f58eceaf75716",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-655fd46241e8889b63",
@@ -241,6 +192,31 @@
       "context": null
     },
     {
+      "id": "rss-f5f40e0f3f94bb38ea",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Vers une importante hausse du taux du livret A en février, porté par l’inflation ?",
+      "bullets": [
+        "Le livret A, comme le livret de développement durable et solidaire (LDDS), fait partie des produits d’épargne dits réglementés.",
+        "Les fonds qui y sont placés sont actuellement rémunérés à 1,7%."
+      ],
+      "publishedAt": "2026-11-10T16:55:32+00:00",
+      "updatedAt": "2026-11-10T16:55:32+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/vers-une-importante-hausse-du-taux-du-livret-a-en-fevrier-porte-par-l-inflation-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b1f4e54ceed012987a4c0132bf34a735c0ae70a5061f4ecf36886c2d2db85643",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-3a86b9951b7cfaa1d3",
       "revision": 1,
       "category": "eco",
@@ -320,6 +296,34 @@
       "context": null
     },
     {
+      "id": "rss-eb760474affdcd581b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Retraites : 40% des Français ignorent le principe du système par répartition",
+      "bullets": [
+        "Pire, la complexité du système de retraite français pousserait 29 % des non-retraités à adopter une attitude d’abandon face à leur future retraite, et 19 % assument être dans le déni.",
+        "L’étude révèle que 64 % des Français souhaitent introduire une part de capitalisation dans le système, contre 15 % qui veulent conserver le système actuel et s’en tenir à la seule répartition.",
+        "Pourtant, les plus grosses lacunes de connaissance du système de retraite s’enregistrent parmi les 18-24 ans, leur note moyenne au test général de connaissance sur les retraites s’élevant à 3,3/10."
+      ],
+      "publishedAt": "2026-11-10T14:59:33+00:00",
+      "updatedAt": "2026-11-10T14:59:33+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/retraites-40-des-francais-ignorent-le-principe-du-systeme-par-repartition-20261110",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "cdb3bd3d284a1739728a13a2a889a4e58beb988006cbd5eb1c307d637d23f543",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e609900f1df4e754fa",
       "revision": 1,
       "category": "markets",
@@ -386,9 +390,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T15:59:13+00:00",
-      "updatedAt": "2026-11-10T15:59:13+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-10T17:00:17+00:00",
+      "updatedAt": "2026-11-10T17:00:17+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -456,7 +460,7 @@
       "provenance": "article-extract",
       "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T04:01:59.406295+00:00",
+      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
       "context": null
     },
     {
@@ -543,8 +547,8 @@
       "bullets": [
         "Alors que la Communauté politique européenne se réunit à Dublin, jeudi 12 novembre, l’ancien ambassadeur français Michel Duclos appelle, dans une tribune au « Monde », les Européens à élever la voix pour peser face à Washington dans les débats concernant le conflit entre Moscou et Kiev."
       ],
-      "publishedAt": "2026-11-10T13:30:09+00:00",
-      "updatedAt": "2026-11-10T13:30:09+00:00",
+      "publishedAt": "2026-11-10T13:30:08+00:00",
+      "updatedAt": "2026-11-10T13:30:08+00:00",
       "importance": 79,
       "sources": [
         {
@@ -557,87 +561,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9458e58601a1f934da4c37a38d0e50c8adfb4a282710e2c96e9a274b12a3e81f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1f99992d45969efd08",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
-      "bullets": [
-        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
-      ],
-      "publishedAt": "2026-11-10T12:51:21+00:00",
-      "updatedAt": "2026-11-10T12:51:21+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-77c4893d01b6713d35",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Sanctions contre la Russie : les ratés de l’Union européenne",
-      "bullets": [
-        "Pour élaborer les dernières mesures de rétorsion adoptées par les Vingt-Sept contre le complexe militaro-industriel russe, la diplomatie européenne a changé de méthode.",
-        "Le site « The Insider » relève de nombreuses erreurs et approximations."
-      ],
-      "publishedAt": "2026-11-10T10:58:35+00:00",
-      "updatedAt": "2026-11-10T10:58:35+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/sanctions-contre-la-russie-les-rates-de-l-union-europeenne_6808822_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "81ce435d43ba38608118fed4cb936583157747722a305ddb347fafbad39889e9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2a48b5a74c7a3e8913",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "La France \"ne s'interdit rien\" dans la riposte contre l'Iran, accusé d'être à l'origine de la cyberattaque contre des frigos connectés en octobre",
-      "bullets": [
-        "La veille, la France a accusé les Gardiens de la Révolution iraniens d'être à l'origine des cyberattaques d'ampleur contre des centaines de réfrigérateurs connectés de supermarchés en octobre.",
-        "#canal16 1:54 Jean-Noël Barrot avait déjà promis lundi soir des sanctions \"à l'échelle européenne\".",
-        "Jean-Noël Barrot a souligné que la France ne \"s'interdit rien\" en matière de sanctions et de réponse à cette cyberattaque."
-      ],
-      "publishedAt": "2026-11-10T08:39:10+00:00",
-      "updatedAt": "2026-11-10T08:39:10+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "8a391353588097fb075ab9b2d7268d3d611d06cc9306a5969d46fb00378e9709",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
-      "context": null
     },
     {
       "id": "rss-714e3a8dc0560fdfe8",
@@ -661,56 +584,6 @@
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
       "summaryInput": "00198ea1c5a6613b4be33d7b2f77f38323998718adfbf283480fde374ce98b8e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-56504c88f5c06299aa",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Pologne, les démocrates ont besoin de l’unité de l’Europe",
-      "bullets": [
-        "Alors que la violence saisit une société polonaise très divisée, les Européens doivent serrer les rangs autour du premier ministre de centre droit, Donald Tusk.",
-        "Les démocraties auraient tout à craindre de la perspective d’un retour au pouvoir du PiS, allié à l’extrême droite."
-      ],
-      "publishedAt": "2026-11-10T10:30:07+00:00",
-      "updatedAt": "2026-11-10T10:30:07+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/10/en-pologne-les-democrates-ont-besoin-de-l-unite-de-l-europe_6808816_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dc170dc1275242776094f54113a65043fb224fdcf5dc6916593830d58a507625",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0b3cf0f32224db04be",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Loïc de la Mornais : ICE : que vaut le mea culpa de Trump ?",
-      "bullets": [
-        "Dans le quart d'heure américain, Loïc de la Mornais et ses invités reviennent sur les conséquences des élections de mi-mandat aux États-Unis, entre les difficultés de Donald Trump, les méthodes de la police de l'immigration ICE et les ajustements de stratégie du Parti démocrate.",
-        "Une séquence à retrouver dans l'émission…"
-      ],
-      "publishedAt": "2026-11-10T06:17:37+00:00",
-      "updatedAt": "2026-11-10T06:17:37+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-ice-que-vaut-le-mea-culpa-de-trump_8275829.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "acf831044bd20753fbec09b3571c77c4b1174fa8f5c0ab15b77bc4fc8a6d5f2b",
       "detailLevel": "preview"
     },
     {
@@ -766,6 +639,131 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-997be612442c574b6d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
+      "bullets": [
+        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
+      ],
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "updatedAt": "2026-11-09T05:00:00+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0e098d2b8a65402910",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "De Verdun à Kiev, un siècle de médecine de guerre pour reconstruire les « gueules cassées »",
+      "bullets": [
+        "Les visages défigurés et les corps amputés des soldats victimes du conflit en Ukraine rappellent les innombrables mutilés de la guerre de 14-18, dont on commémore l’armistice le 11 novembre.",
+        "Pour panser des blessures inédites infligées aux poilus par les obus, il a fallu improviser à l’aide d’instruments rudimentaires et…"
+      ],
+      "publishedAt": "2026-11-10T17:00:07+00:00",
+      "updatedAt": "2026-11-10T17:00:07+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/histoire/article/2026/11/10/de-verdun-a-kiev-un-siecle-de-medecine-de-guerre-pour-reconstruire-les-gueules-cassees_6808879_4655323.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ef8d71c7b0854740ca46f13c35a4c27dd66d20c1f83db6c74a868063cf9a747c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-237ce1d57c4d0924af",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Iran, la tentation de l’arme nucléaire gagne du terrain après la guerre israélo-américaine",
+      "bullets": [
+        "Longtemps justifié par une interdiction religieuse et présenté comme un choix stratégique, le renoncement au développement et à la possession de l’arme nucléaire est désormais contesté au sein d’une partie des élites iraniennes."
+      ],
+      "publishedAt": "2026-11-10T16:00:03+00:00",
+      "updatedAt": "2026-11-10T16:00:03+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/en-iran-la-tentation-de-l-arme-nucleaire-gagne-du-terrain-apres-la-guerre-israelo-americaine_6808868_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "99b7dfe7494a9e6e88efff5baf39d8af29a531ce4a4b33baecee7cfe1c7517ee",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3be1c7826b00dca7d7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’élu républicain Thomas Massie déclenche une procédure de destitution envers Pete Hegseth, secrétaire à la défense de Donald Trump",
+      "bullets": [
+        "L’élu accuse Pete Hegseth de crimes graves et délits mineurs concernant notamment la guerre en Iran, lancée par Donald Trump sans l’accord du Congrès."
+      ],
+      "publishedAt": "2026-11-10T14:42:25+00:00",
+      "updatedAt": "2026-11-10T14:42:25+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/video/2026/11/10/l-elu-republicain-thomas-massie-declenche-une-procedure-de-destitution-envers-pete-hegseth-secretaire-a-la-defense-de-donald-trump_6808851_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9cde69a6351bba6bea2f1b6a6799e26543ddfb59550a653041f238884ebc5d7b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e5316b18572efdc14e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Qu'est-ce que Shahid Kaveh, le groupe cyber iranien accusé d'avoir attaqué les frigos de supermarchés en France ?",
+      "bullets": [
+        "L'Iran est soupçonné d'être à l'origine de la cyberattaque qui a touché plusieurs centaines de frigos de supermarchés en France mi-octobre, provoquant des millions d'euros de pertes alimentaires, ont annoncé le ministère des Affaires étrangères français et le parquet de Paris, lundi 9 novembre.",
+        "\"Depuis 2020, le groupe CyberAv3ngers a revendiqué la responsabilité de cyberattaques en Israël, bien que plusieurs de ces prétendues intrusions dans des infrastructures critiques israéliennes s'avèrent fausses\", pointait l'agence de cyberdéfense américaine (Cisa) fin 2024.",
+        "Selon le C4, Shahid Kaveh est dirigée par deux personnes, \"Reza Salarvand et Mahdi Lashgarian\"."
+      ],
+      "publishedAt": "2026-11-10T14:11:19+00:00",
+      "updatedAt": "2026-11-10T14:11:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "8f64cbf8b61a53b4f5d6a53a8e1505e23332be314cfe2646e2e6c31a25fa9bb0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
+      "context": null
+    },
+    {
       "id": "rss-c1c9ada0dbc14d382b",
       "revision": 1,
       "category": "france",
@@ -776,8 +774,8 @@
         "Les députés ont rejeté l'organisation d'un débat dans l'hémicycle.",
         "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
       ],
-      "publishedAt": "2026-11-10T15:13:02+00:00",
-      "updatedAt": "2026-11-10T15:13:02+00:00",
+      "publishedAt": "2026-11-10T16:10:30+00:00",
+      "updatedAt": "2026-11-10T16:10:30+00:00",
       "importance": 85,
       "sources": [
         {
@@ -881,7 +879,7 @@
       ],
       "publishedAt": "2026-11-09T05:00:31+00:00",
       "updatedAt": "2026-11-09T05:00:31+00:00",
-      "importance": 95,
+      "importance": 94,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -895,31 +893,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad352e12a25b9f615b",
+      "id": "rss-1f99992d45969efd08",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
       "bullets": [
-        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
-        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
-        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
       ],
-      "publishedAt": "2026-11-09T20:39:17+00:00",
-      "updatedAt": "2026-11-09T20:39:17+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-10T12:51:21+00:00",
+      "updatedAt": "2026-11-10T12:51:21+00:00",
+      "importance": 79,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
+      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "enrichedAt": "2026-11-10T13:17:27.412963+00:00",
       "context": null
     },
     {
@@ -996,52 +994,81 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b227804c9f9aaf062f",
+      "id": "rss-9b4e5991cbc1e9701a",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "CNews : les organisations lycéennes et la CGT font front contre la chaîne ; Catherine Pégard, la ministre de la culture, appelle à ne pas « trier les journalistes »",
+      "title": "Yaëlle Amsellem-Mainguy, sociologue : « Par les blocages, les lycéens ont trouvé les moyens de se faire entendre »",
       "bullets": [
-        "Alors que la CGT et les organisations lycéennes refusent de répondre aux questions de la presse en présence des journalistes de la chaîne, le gouvernement, la droite et l’extrême droite appellent à respecter la liberté de la presse."
+        "Conditions d’apprentissage dégradées, changement climatique, instabilités politique et économique, guerres, crainte de la précarité, difficulté à se loger… Ces sujets, source d’angoisse pour les jeunes Français quant à leur avenir, pèsent sur leur équilibre, observe la sociologue dans un entretien au « Monde »."
       ],
-      "publishedAt": "2026-11-10T15:06:42+00:00",
-      "updatedAt": "2026-11-10T15:06:42+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-10T17:00:22+00:00",
+      "updatedAt": "2026-11-10T17:00:22+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/10/yaelle-amsellem-mainguy-sociologue-par-les-blocages-les-lyceens-ont-trouve-les-moyens-de-se-faire-entendre_6808881_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "7c40c3e78754f0324bd5533b8f17cba930aefd4581d26433d372d0415a06ba2e",
+      "summaryInput": "0e461540e8403d9ddc10fcf629bde7a46a0986733b62e2fd403726d5d679953b",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-870e34581992a249ac",
+      "id": "rss-13969cd86b6cfd45da",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
+      "title": "Nomination d’Amélie de Montchalin à la tête de la Cour des comptes : le Conseil d’Etat rejette le recours des députés RN",
       "bullets": [
-        "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT."
+        "La requête des parlementaires menés par le député de la Somme Jean-Philippe Tanguy a été déclarée « irrecevable ».",
+        "Ils ne disposaient pas d’un « intérêt à agir » pour attaquer la nomination de l’ancienne ministre, estime la plus haute juridiction administrative."
       ],
-      "publishedAt": "2026-11-09T14:55:54+00:00",
-      "updatedAt": "2026-11-09T14:55:54+00:00",
-      "importance": 71,
+      "publishedAt": "2026-11-10T09:52:27+00:00",
+      "updatedAt": "2026-11-10T09:52:27+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes-le-conseil-d-etat-rejette-le-recours-des-deputes-rn_6808808_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "rss-excerpt",
-      "summaryInput": "2751c3f3430ca735bc0a023a8f771f8332a9c8eff216a723b64c6d438e02d5f7",
+      "summaryInput": "4a86cdade9b486368c4c1a4f64d689dc76935d9b819f2affc520b1360a6110d3",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ad352e12a25b9f615b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "bullets": [
+        "Le Syndicat national des personnels de direction de l'Education nationale (SNPDEN-Unsa) appelle les proviseurs à se rassembler devant leur établissement vendredi 13 novembre à 15 heures, annonce son secrétaire national lundi sur franceinfo.",
+        "\"Nous sommes devenus des cibles\" et sommes victimes de \"violences extrêmes\", regrette Nicolas Bonnet, après l'agression de plusieurs proviseurs en marge des blocus et des manifestations lycéennes.",
+        "Le syndicat dénonce notamment l'agression de leur collègue de Bègles (Gironde) lundi matin, blessé à la tête par un projectile."
+      ],
+      "publishedAt": "2026-11-09T20:39:17+00:00",
+      "updatedAt": "2026-11-09T20:39:17+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "f873eb001bbf3995a77d546c08dcf61aa2c62250c27c7d1e9406b5f8f6af23b0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T09:03:29.579674+00:00",
+      "context": null
     },
     {
       "id": "rss-8d1d468f76337209b1",
@@ -1144,34 +1171,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5e421eb7175dbe06a4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Revalorisation du smic : \"On va enfin pouvoir faire la vérité des prix sur les salaires\", affirme la secrétaire générale de la CFDT",
-      "bullets": [
-        "Alors que le gouvernement a annoncé une revalorisation de 1,6% du smic, jugée insuffisante par les syndicats, la secrétaire générale de la CFDT, Marylise Léon, était l'invitée des \"4V\" sur France 2, mardi 10 novembre.",
-        "Au troisième trimestre, c'est-à-dire de juillet à septembre, le chômage a baissé de 0,1%.",
-        "On est dans la marge d'erreur : 2 600 000 chômeurs en France."
-      ],
-      "publishedAt": "2026-11-10T08:28:36+00:00",
-      "updatedAt": "2026-11-10T08:28:36+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/revalorisation-du-smic-c-est-une-avancee-importante-parce-qu-on-va-enfin-pouvoir-faire-la-verite-des-prix-sur-les-salaires-avec-la-volonte-ou-non-reelle-des-employeurs-d-avancer-affirme-marylise-leon-secretaire-generale-de-la-cfdt_8275934.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "fbce805b4836bf45ae1468afe9f63f80f276340ee9aaba06f6eaaa7d54a0544c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T15:59:11.970422+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1209,7 +1208,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1233,7 +1232,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 15
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
@@ -1251,7 +1250,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1287,7 +1286,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
