@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-10",
-  "preparedAt": "2026-11-10T05:04:29.505262+00:00",
+  "preparedAt": "2026-11-10T06:04:02.812884+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -81,7 +81,7 @@
       "provenance": "article-extract",
       "summaryInput": "b183697b96761d166606f84040d8a08732d42304032157f2445ce318c4b39b34",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T17:23:15.119469+00:00",
+      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
       "context": null
     },
     {
@@ -133,30 +133,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0367fe35f596fb0991",
-      "revision": 1,
+      "id": "rss-003c6edc8f4d054606",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "La Cour des comptes propose 18 mesures pour économiser jusqu'à 38 milliards d'euros et redresser les finances publiques",
+      "title": "La chaîne CNews peut-elle disparaître ?",
       "bullets": [
-        "La Cour des comptes propose, lundi 9 novembre, dans un rapport un ensemble de 18 mesures pouvant s'appliquer dès l'an prochain pour redresser les finances publiques, représentant \"jusqu'à 38 milliards d'euros d'économies\", dont \"11 à 14 milliards d'euros\" figurent déjà dans le budget 2027.",
-        "Parmi les mesures proposées figure notamment une \"non-revalorisation des prestations sociales (hors minima sociaux)\", avec une économie estimée par la Cour des comptes à 4,8 milliards en 2027."
+        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+        "Le smic augmentera de 1,6% dès le 1er décembre",
+        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
       ],
-      "publishedAt": "2026-11-09T19:49:28+00:00",
-      "updatedAt": "2026-11-09T19:49:28+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-09T15:56:27+00:00",
+      "updatedAt": "2026-11-09T15:56:27+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/la-cour-des-comptes-propose-18-mesures-pour-economiser-jusqu-a-38-milliards-d-euros-et-redresser-les-finances-publiques_8274623.html",
+          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "bb626296fe3e53378766a6d344ad46db420133f3747599ddf231cda0e8ef13f2",
+      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T20:04:13.585268+00:00",
+      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
       "context": null
     },
     {
@@ -212,7 +213,7 @@
       "provenance": "article-extract",
       "summaryInput": "c4581e5fd3300f25c56eaeae3ad954b46b7524c1f8d2d6ccb83298168ee8b73a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T17:23:15.119469+00:00",
+      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
       "context": null
     },
     {
@@ -275,7 +276,7 @@
       ],
       "publishedAt": "2026-11-09T18:00:00+00:00",
       "updatedAt": "2026-11-09T18:00:00+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -299,7 +300,7 @@
       ],
       "publishedAt": "2026-11-09T17:54:44+00:00",
       "updatedAt": "2026-11-09T17:54:44+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -323,9 +324,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-10T05:04:30+00:00",
-      "updatedAt": "2026-11-10T05:04:30+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-10T05:58:42+00:00",
+      "updatedAt": "2026-11-10T05:58:42+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -365,7 +366,7 @@
       "provenance": "article-extract",
       "summaryInput": "4644339752e81bc08d06bb139123890ad1da2d72879101731f656da0ecd8476c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-09T17:23:15.119469+00:00",
+      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
       "context": null
     },
     {
@@ -501,6 +502,34 @@
       "context": null
     },
     {
+      "id": "rss-d5d8d01fd8c5db8786",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatari",
+      "bullets": [
+        "Le président américain a déclaré lundi 9 novembre qu'il voyait un \"élan positif\" en faveur d'un accord pour mettre fin à la guerre avec ce pays, après sa rencontre avec le Premier ministre du Qatar, pays médiateur.",
+        "Mais Donald Trump, coutumier des déclarations contradictoires face à l'Iran, laisse toujours planer la perspective d'un retour aux armes.",
+        "D'après un message posté sur son réseau Truth social, une reprise des frappes contre l'Iran est \"peu probable\"."
+      ],
+      "publishedAt": "2026-11-10T05:58:29+00:00",
+      "updatedAt": "2026-11-10T05:58:29+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "9a4255075fc6b7c38ff5762866fada0adbe529637f7041840a031ae649c60a98",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
+      "context": null
+    },
+    {
       "id": "rss-670fd0e4929b70bcff",
       "revision": 1,
       "category": "world",
@@ -612,8 +641,8 @@
         "Selon des données diffusées sur leur canal Telegram, 426.822 personnes sont décédées sous le code Y36 «opérations de guerre» et Y89.1, autrement dit «formulation de combat sans code».",
         "Durant six mois, les deux groupes de hackeurs ont infiltré 25.000 postes de l’agence Rosstat et extrait 23 téraoctets de données, leur permettant notamment d’éplucher 11 millions d’actes de décès, ont-ils annoncé le 1er novembre."
       ],
-      "publishedAt": "2026-11-09T21:35:22+00:00",
-      "updatedAt": "2026-11-09T21:35:22+00:00",
+      "publishedAt": "2026-11-10T05:19:56+00:00",
+      "updatedAt": "2026-11-10T05:19:56+00:00",
       "importance": 67,
       "sources": [
         {
@@ -627,6 +656,34 @@
       "summaryInput": "a6556eb44b61098e68edb59fb3ffc9791ee925b7ab7232f8571be3a90f443577",
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T04:01:59.406295+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-273744f97f5896bbb0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Haïti, le président salvadorien Nayib Bukele promet de \"faire le ménage\", mais que peuvent faire ses 2 000 soldats face aux gangs ?",
+      "bullets": [
+        "Ces renforts suscitent un espoir dans les populations concernées, même si le contour de cette intervention reste opaque, une dizaine de jours après le début des patrouilles.",
+        "Les Nations unies estiment autour de 1,5 million le nombre de personnes déplacées à l'intérieur du pays, soit 12% de la population totale.\"Nous avons déjà fait le ménage avec les gangs au Salvador, et nous pouvons faire de même avec vous\", a menacé Nayib Bukele.",
+        "Depuis son arrivée au pouvoir, 93 000 personnes ont été emprisonnées dans le cadre d'un régime d'exception maintenu depuis quatre ans."
+      ],
+      "publishedAt": "2026-11-10T05:02:12+00:00",
+      "updatedAt": "2026-11-10T05:02:12+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/ameriques/en-haiti-le-president-salvadorien-nayib-bukele-promet-de-faire-le-menage-mais-que-peuvent-faire-ses-2-000-soldats-face-aux-gangs_8274269.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "article-extract",
+      "summaryInput": "74e2c192573cd369e6f66b5510cebd236638564e945579516e86c2a03f35d009",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T06:04:02.812884+00:00",
       "context": null
     },
     {
@@ -652,58 +709,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "30d215a0647024642685ba543a24928e321937ec2d7aef8e939884b12b356e01",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-63dc76d2c92d95e6d3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« On a prié pour que la paix arrive enfin… » : après le cessez-le-feu, la reprise des combats à Kherson",
-      "bullets": [
-        "RÉCIT - Après près de six jours de trêve, la Russie a repris des attaques de drones sur Kherson, depuis ses positions renforcées à Olechky, sur la rive opposée du Dniepr."
-      ],
-      "publishedAt": "2026-11-09T20:00:00+00:00",
-      "updatedAt": "2026-11-09T20:00:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/on-a-prie-pour-que-la-paix-arrive-enfin-apres-le-cessez-le-feu-la-reprise-des-combats-a-kherson-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "rss-excerpt",
-      "summaryInput": "39f5af83d311fd917ebc77b1b959e2ab7959b1df65b890853d449af630df1462",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b5ca70c7e36461458a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Invisibles et stratégiques, l'enjeu des câbles sous-marins",
-      "bullets": [
-        "Des câbles par lesquels transitent 99 % des télécommunications mondiales.",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
-      ],
-      "publishedAt": "2026-11-09T18:00:02+00:00",
-      "updatedAt": "2026-11-09T18:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/invisibles-et-strategiques-l-enjeu-des-cables-sous-marins_8274971.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "713820030d3d2370c7ee8233a6b0f56f0286fa3d67b333b2cce70d45d33446b3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
-      "context": null
     },
     {
       "id": "rss-ad1b5856f59e776778",
@@ -831,31 +836,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-003c6edc8f4d054606",
-      "revision": 2,
+      "id": "rss-4ae78eb6224af1f385",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "La chaîne CNews peut-elle disparaître ?",
+      "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
       "bullets": [
-        "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-        "Le smic augmentera de 1,6% dès le 1er décembre",
-        "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés"
+        "Dans l'émission phare \"60 minutes\", Marine Le Pen a qualifié la France comme pays \"le moins raciste au monde\".",
+        "\"Le racisme existe dans notre société\"Sébastien Chenu reconnaît lundi matin qu'en France, \"les discriminations existent mais elles sont surtout sociales\".",
+        "Sébastien Chenu s'est exprimé plusieurs jours après l'attentat raciste de Trappes où Kevin Tessier, le principal suspect de l'attaque terroriste est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes."
       ],
-      "publishedAt": "2026-11-09T15:56:27+00:00",
-      "updatedAt": "2026-11-09T15:56:27+00:00",
+      "publishedAt": "2026-11-09T08:47:51+00:00",
+      "updatedAt": "2026-11-09T08:47:51+00:00",
       "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/la-chaine-cnews-peut-elle-disparaitre_8274770.html",
+          "url": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-10",
       "provenance": "article-extract",
-      "summaryInput": "a33006a8612ab0e5597a87bbb064f239810860f73240c1d96a170649a815a947",
+      "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T05:04:29.505262+00:00",
+      "enrichedAt": "2026-11-09T22:56:44.208027+00:00",
       "context": null
     },
     {
@@ -894,7 +899,7 @@
       ],
       "publishedAt": "2026-11-09T17:51:47+00:00",
       "updatedAt": "2026-11-09T17:51:47+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -930,34 +935,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "c55990786306d84f5d56ecc1be14ecfe924b249bbec3f10784ca5b0398497444",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4ae78eb6224af1f385",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
-      "bullets": [
-        "Dans l'émission phare \"60 minutes\", Marine Le Pen a qualifié la France comme pays \"le moins raciste au monde\".",
-        "\"Le racisme existe dans notre société\"Sébastien Chenu reconnaît lundi matin qu'en France, \"les discriminations existent mais elles sont surtout sociales\".",
-        "Sébastien Chenu s'est exprimé plusieurs jours après l'attentat raciste de Trappes où Kevin Tessier, le principal suspect de l'attaque terroriste est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes."
-      ],
-      "publishedAt": "2026-11-09T08:47:51+00:00",
-      "updatedAt": "2026-11-09T08:47:51+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-10",
-      "provenance": "article-extract",
-      "summaryInput": "b63e9aca94d9a7027292e50979dde67c04fcd4dfdd030a4916f57540f6847f99",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-09T22:56:44.208027+00:00",
-      "context": null
     },
     {
       "id": "rss-13b03bc8a6f1058382",
@@ -1111,6 +1088,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6e527e8f6d21ca7130346fa7c88eb46cb13e70566c8bc7359e50234554f0790e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-71d4e81969c0fb2fb6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions violentes",
+      "bullets": [
+        "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande.",
+        "Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage."
+      ],
+      "publishedAt": "2026-11-07T10:27:51+00:00",
+      "updatedAt": "2026-11-07T10:27:51+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-10",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31a69cf8e34c001425f6834b9409cc241006aa13625e1cc4406729f6280832f8",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1124,7 +1126,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1136,7 +1138,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1148,7 +1150,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
