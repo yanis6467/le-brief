@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T04:08:28.843791+00:00",
+  "preparedAt": "2026-11-11T05:12:40.803945+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -32,19 +32,43 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d64c91e621c3e3c2b4",
+      "id": "rss-5ea87efbe165c299d9",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
+      "bullets": [
+        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
+      ],
+      "publishedAt": "2026-11-11T05:00:42+00:00",
+      "updatedAt": "2026-11-11T05:00:42+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d64c91e621c3e3c2b4",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des cyberattaques",
       "bullets": [
         "Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi 10 novembre Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa), dans un entretien à l’AFP.",
         "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.",
-        "Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs (équipements pour les réseaux informatiques, NDLR), et après-demain les appareils ménagers domestiques, et ainsi de suite», a souligné le responsable."
+        "Des supermarchés d’au moins 12 pays européens ont été touchés par des cyberattaques en octobre et en novembre, la plus grave ayant eu lieu en France."
       ],
       "publishedAt": "2026-11-10T17:05:04+00:00",
       "updatedAt": "2026-11-10T17:05:04+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -56,32 +80,8 @@
       "provenance": "article-extract",
       "summaryInput": "4a18bfd24daf52cae599ea5eca5adc4561165bd769f07e03643bf9d6b7c142c6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
+      "enrichedAt": "2026-11-11T05:12:40.803945+00:00",
       "context": null
-    },
-    {
-      "id": "rss-a611ef07a8081599d2",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
-      "bullets": [
-        "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
-      ],
-      "publishedAt": "2026-11-10T10:00:09+00:00",
-      "updatedAt": "2026-11-10T10:00:09+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "62c95f0c683247d9876a3a8eed37df6f9be4de0dc179eb915213e579f6f3dcb0",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-cc6fa95b01a98cf25f",
@@ -333,7 +333,7 @@
       ],
       "publishedAt": "2026-11-10T16:52:00+00:00",
       "updatedAt": "2026-11-10T16:52:00+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -347,6 +347,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T17:56:41.014762+00:00",
       "context": null
+    },
+    {
+      "id": "rss-dcf691ae13f47aa61d",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "bullets": [
+        "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-10T18:43:56+00:00",
+      "updatedAt": "2026-11-10T18:43:56+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "830070f2946cfa5689cc0641ce9c267ffe9ebe7a1f471c8fc1137ec1e04c7aad",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4021f0b9b8e532a5fd",
@@ -387,8 +411,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T04:06:31+00:00",
-      "updatedAt": "2026-11-11T04:06:31+00:00",
+      "publishedAt": "2026-11-11T05:09:05+00:00",
+      "updatedAt": "2026-11-11T05:09:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,7 +481,7 @@
       "provenance": "article-extract",
       "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:03:59.941989+00:00",
+      "enrichedAt": "2026-11-11T05:12:40.803945+00:00",
       "context": null
     },
     {
@@ -593,6 +617,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cd8059358ea8f7b019",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d’un champ de ruines »",
+      "bullets": [
+        "Les élections de mi-mandat ont été l’occasion, pour le Parti démocrate, d’un exercice de droit d’inventaire sur le bilan diplomatique de Joe Biden.",
+        "Et si l’un des principaux clivages internes à ce camp, concernant Israël, a été éliminé, des dissensions sont en revanche à attendre sur la relation avec la…"
+      ],
+      "publishedAt": "2026-11-11T05:00:29+00:00",
+      "updatedAt": "2026-11-11T05:00:29+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/aux-etats-unis-les-democrates-ont-deux-ans-pour-redessiner-une-politique-etrangere-a-partir-d-un-champ-de-ruines_6808933_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "aaa3fd5ec504e9759d79418c2e244edef0f6466405f31bfccca0ab5ab4a6ee40",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5dfef1d82a7d221c13",
       "revision": 1,
       "category": "world",
@@ -665,30 +714,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dcf691ae13f47aa61d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
-      "bullets": [
-        "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-10T18:43:56+00:00",
-      "updatedAt": "2026-11-10T18:43:56+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "830070f2946cfa5689cc0641ce9c267ffe9ebe7a1f471c8fc1137ec1e04c7aad",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d802a5afec5207f277",
       "revision": 1,
       "category": "world",
@@ -710,30 +735,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "04fdcf9a038ac6c0f15b99b31f0be3dbc146cfb1ff3450a4b4f270defdde2d03",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-997be612442c574b6d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
-      "bullets": [
-        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
-      ],
-      "publishedAt": "2026-11-09T05:00:00+00:00",
-      "updatedAt": "2026-11-09T05:00:00+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
       "detailLevel": "preview"
     },
     {
@@ -761,6 +762,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-997be612442c574b6d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
+      "bullets": [
+        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
+      ],
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "updatedAt": "2026-11-09T05:00:00+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-265389fac44bf44c2e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : à Abu Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
+      "bullets": [
+        "A l’issue de la rencontre, mardi 10 novembre, le président Zelensky a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
+        "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
+      ],
+      "publishedAt": "2026-11-11T04:30:13+00:00",
+      "updatedAt": "2026-11-11T04:30:13+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "74444cf70efa93a887c6fc1b251acb4e336902a92fbfb216b6dabc6bd93819dd",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0f123cea22f78ae200",
       "revision": 1,
       "category": "world",
@@ -783,34 +833,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cba96f56b48ae680fa",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
-      "bullets": [
-        "Volodymyr Zelensky a évoqué sur Telegram des échanges \"constructifs et assez substantiels\".",
-        "Ces pourparlers entre Kiev et Moscou, les premiers depuis février, visent à progresser vers un règlement diplomatique du conflit provoqué par l'invasion russe de l'Ukraine en 2022 et, selon Washington, à travailler à un \"nouveau\" cadre de sécurité incluant l'Europe.",
-        "Selon lui, la possibilité d'un \"grand\" échange de prisonniers entre Moscou et Kiev a par ailleurs été évoquée lors des pourparlers ukraino-russes à Abou Dhabi."
-      ],
-      "publishedAt": "2026-11-10T22:01:30+00:00",
-      "updatedAt": "2026-11-10T22:01:30+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "6c62c1826f3833baec53758e360aada327737d1056398e59f7af138380b440fb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
-      "context": null
     },
     {
       "id": "rss-8d2c068771c77e0578",
@@ -838,32 +860,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de57ad6a23ab8b3aae",
+      "id": "rss-a609762131ccd94f93",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
       "bullets": [
-        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
-        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
-        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+        "Alors que les consultations spécialisées dans les troubles psychiques liés au travail, en Ile-de-France, voient affluer les patients, le gouvernement appelle à une « réforme structurelle » de la prise en charge des arrêts maladie dans le cadre des débats budgétaires.",
+        "A Garches et à Paris, des équipes alertent sur…"
       ],
-      "publishedAt": "2026-11-10T18:15:54+00:00",
-      "updatedAt": "2026-11-10T18:15:54+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-11T05:00:21+00:00",
+      "updatedAt": "2026-11-11T05:00:21+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6e13fbfd001b62069d864260a817ed6d27dd78977585e90875a80c7c8be1f35",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -929,7 +948,7 @@
       ],
       "publishedAt": "2026-11-09T05:00:31+00:00",
       "updatedAt": "2026-11-09T05:00:31+00:00",
-      "importance": 94,
+      "importance": 93,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1086,7 +1105,7 @@
       ],
       "publishedAt": "2026-11-10T17:00:16+00:00",
       "updatedAt": "2026-11-10T17:00:16+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1122,6 +1141,59 @@
       "provenance": "rss-excerpt",
       "summaryInput": "7c40c3e78754f0324bd5533b8f17cba930aefd4581d26433d372d0415a06ba2e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2b5020c0c3edfbdcca",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "11-Novembre : à l’origine du coquelicot et du bleuet comme fleurs symboles de l’armistice, des femmes dont l’histoire a oublié les noms",
+      "bullets": [
+        "A chaque anniversaire de l’armistice de 1918, les Anglo-Saxons ont coutume d’arborer un coquelicot, tandis que les Français se parent d’un bleuet.",
+        "A l’origine de cette tradition destinée à récolter des fonds pour les mutilés de guerre, une histoire méconnue."
+      ],
+      "publishedAt": "2026-11-11T04:55:01+00:00",
+      "updatedAt": "2026-11-11T04:55:01+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/11/11-novembre-a-l-origine-du-coquelicot-et-du-bleuet-comme-fleurs-symboles-de-l-armistice-des-femmes-dont-l-histoire-a-oublie-les-noms_6652970_4500056.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cd38156eb346001193386d3b279b6800fafd1eea860190eefbb88799a40b7378",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-de57ad6a23ab8b3aae",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "bullets": [
+        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
+        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
+        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+      ],
+      "publishedAt": "2026-11-10T18:15:54+00:00",
+      "updatedAt": "2026-11-10T18:15:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "context": null
     },
     {
       "id": "rss-8d1d468f76337209b1",
@@ -1174,55 +1246,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-faaa06fd07a017aa05",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
-      "bullets": [
-        "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
-      ],
-      "publishedAt": "2026-11-10T11:00:02+00:00",
-      "updatedAt": "2026-11-10T11:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b9ac4b72839382b14fb1824329fc4a71585d23ae5bb95f17f15906f996486d68",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-70368decfd00d44ffa",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
-      "bullets": [
-        "Le salaire minimum va être augmenté, dès le 1ᵉʳ décembre, de 1,6 % et le gouvernement souhaite impulser des négociations sur les salaires dans les entreprises.",
-        "Si la CGT a appelé à une nouvelle mobilisation dès le 17 novembre, la CFDT, la CFTC et FO attendent de voir si ces…"
-      ],
-      "publishedAt": "2026-11-10T08:42:17+00:00",
-      "updatedAt": "2026-11-10T08:42:17+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6efb89c189c44c17db060101caf936be653207e70b070c2802c2fc9c4c41ec08",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1260,13 +1283,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1302,7 +1325,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
