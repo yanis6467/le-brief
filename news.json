@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T19:12:44.789558+00:00",
+  "preparedAt": "2026-11-11T20:11:09.961760+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -311,7 +311,7 @@
       ],
       "publishedAt": "2026-11-10T19:15:00+00:00",
       "updatedAt": "2026-11-10T19:15:00+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -387,8 +387,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T19:06:37+00:00",
-      "updatedAt": "2026-11-11T19:06:37+00:00",
+      "publishedAt": "2026-11-11T20:06:34+00:00",
+      "updatedAt": "2026-11-11T20:06:34+00:00",
       "importance": 69,
       "sources": [
         {
@@ -541,7 +541,7 @@
       "provenance": "article-extract",
       "summaryInput": "1e52b712b0751a2b1a385e5cc3a47a0e698a8f18c252dc602bb12a80acf25cdc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
+      "enrichedAt": "2026-11-11T20:11:09.961760+00:00",
       "context": null
     },
     {
@@ -569,8 +569,33 @@
       "provenance": "article-extract",
       "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
+      "enrichedAt": "2026-11-11T20:11:09.961760+00:00",
       "context": null
+    },
+    {
+      "id": "rss-4d1201794bf0707c97",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Israël : Gadi Eisenkot appelle Benyamin Nétanyahou à faire « preuve de retenue et de prudence » quant à de possibles nouvelles attaques en Iran",
+      "bullets": [
+        "Chargé de former un nouveau gouvernement, le chef de l’opposition israélienne a demandé au premier ministre sortant, qui est toujours chargé des affaires courantes, de « faire preuve de responsabilité nationale », alors que M.",
+        "Nétanyahou évoquait mardi la « menace nucléaire » de l’Iran."
+      ],
+      "publishedAt": "2026-11-11T19:21:03+00:00",
+      "updatedAt": "2026-11-11T19:21:03+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1e289163d800f506392f8fc814db59e43c4072e41e4f1649597d92b9bb6e1589",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-dcb91b788eaefba006",
@@ -666,55 +691,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "099341bba74ce4d71b50263f49dd920a0b1231f9faf6d7db6b5350ed11308c66",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b8560c536275e8d9fe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le premier ministre du Kosovo, Albin Kurti, veut « une accession à l’UE fondée sur le mérite, et non pas par une porte dérobée »",
-      "bullets": [
-        "Rencontré à Paris lors de son passage dans la capitale pour voir Emmanuel Macron, le dirigeant kosovar défend une intégration européenne reposant sur les réformes entreprises.",
-        "Il appelle aussi la France à soutenir les projets d’infrastructures et d’énergie du pays, pour améliorer sa résilience dans un contexte géopolitique incertain."
-      ],
-      "publishedAt": "2026-11-11T10:00:06+00:00",
-      "updatedAt": "2026-11-11T10:00:06+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/le-premier-ministre-du-kosovo-albin-kurti-veut-une-accession-a-l-ue-fondee-sur-le-merite-et-non-pas-par-une-porte-derobee_6808952_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6573a856b2f135ac1dd6fafece7c473e2405e85fa3c6775a8beb43f35301243f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-714e3a8dc0560fdfe8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Vladimir Medinski, un idéologue à la tête de la délégation russe aux pourparlers d’Abu Dhabi",
-      "bullets": [
-        "DÉCRYPTAGE - L’ex-ministre de la Culture de Vladimir Poutine est réputé pour son intransigeance ainsi que pour son attachement à une lecture nationaliste et conservatrice de l’histoire."
-      ],
-      "publishedAt": "2026-11-09T19:30:00+00:00",
-      "updatedAt": "2026-11-09T19:30:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-vladimir-medinski-un-ideologue-a-la-tete-de-la-delegation-russe-aux-pourparlers-d-abu-dhabi-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "00198ea1c5a6613b4be33d7b2f77f38323998718adfbf283480fde374ce98b8e",
       "detailLevel": "preview"
     },
     {
@@ -879,28 +855,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8d2c068771c77e0578",
+      "id": "rss-0f123cea22f78ae200",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Jean-Marie Burguburu, président de la CNCDH : « La dégradation des libertés publiques est très inquiétante »",
+      "category": "world",
+      "topic": "International",
+      "title": "«Répondre sans être embarqué dans la guerre de Trump» : ce que les sanctions réclamées à l’égard de l’Iran disent de la position française",
       "bullets": [
-        "A 81 ans, l’avocat quitte la tête de la Commission nationale consultative des droits de l’homme, qui rend des avis indépendants et formule des recommandations au gouvernement.",
-        "Après six ans d’exercice, il déplore dans un entretien au « Monde » les attaques contre l’Etat de droit et l’aggravation du racisme…"
+        "DÉCRYPTAGE - Un mois après les cyberattaques contre les frigos de supermarchés français et dans un contexte de regain de tension avec l’Iran, le quai d’Orsay «ne s’interdit rien» mais marche sur une ligne de crête."
       ],
-      "publishedAt": "2026-11-10T18:30:02+00:00",
-      "updatedAt": "2026-11-10T18:30:02+00:00",
-      "importance": 95,
+      "publishedAt": "2026-11-10T22:16:19+00:00",
+      "updatedAt": "2026-11-10T22:16:19+00:00",
+      "importance": 66,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/10/jean-marie-burguburu-president-de-la-cncdh-la-degradation-des-libertes-publiques-est-tres-inquietante_6808893_3224.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/repondre-sans-etre-embarque-dans-la-guerre-de-trump-ce-que-les-sanctions-reclamees-a-l-egard-de-l-iran-disent-de-la-position-francaise-20261110",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "9558fba9642493e066a88cf616ebfcf2774aef73722c44bc68cda833ac60f0af",
+      "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7170dd36ac182411f4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
+      "bullets": [
+        "Par économie budgétaire, l’exécutif vient de s’attaquer à deux dispositifs utilisés par les collectivités locales pour le financement de l’adaptation au changement climatique et la décarbonation."
+      ],
+      "publishedAt": "2026-11-11T13:00:06+00:00",
+      "updatedAt": "2026-11-11T13:00:06+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9420de07ddf0b2c1a67cd315ab9675265d74e0245efd79f4dbb79a345c706b93",
       "detailLevel": "preview"
     },
     {
@@ -977,56 +976,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad1b5856f59e776778",
+      "id": "rss-51875bac1c93a28eed",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+      "title": "Affaire Mohamed Al Fayed : gardes à vue et perquisitions, dont une au Ritz, dans l’enquête sur un réseau présumé de traite de femmes",
       "bullets": [
-        "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
-        "Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées."
+        "Mort en 2023 sans avoir jamais été poursuivi, malgré de nombreuses plaintes, le milliardaire égyptien fait l’objet d’enquêtes conjointes en France et au Royaume-Uni, où la police a déjà reçu 163 signalements de violences ou d’exploitation sexuelles."
       ],
-      "publishedAt": "2026-11-09T05:00:31+00:00",
-      "updatedAt": "2026-11-09T05:00:31+00:00",
-      "importance": 92,
+      "publishedAt": "2026-11-10T15:31:14+00:00",
+      "updatedAt": "2026-11-10T15:31:14+00:00",
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/affaire-mohamed-al-fayed-gardes-a-vue-et-perquisitions-dont-une-au-ritz-dans-l-enquete-sur-un-reseau-presume-de-traite-de-femmes_6808864_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "4ffe50c01240066ba6d0884dbc6f2943b8f6e3248967bdd5f35b5f862c1e01fb",
+      "summaryInput": "a57dedf1b1f8cf96424a7ede82facfe8f32a84f77f07dd127a2beb85b91ac560",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-83f59c1f043f415c64",
+      "id": "rss-5140a1ab4c6c06f03e",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Attentat raciste de Trappes : le suspect avait listé des personnalités de gauche et d'extrême gauche",
+      "title": "\"Des ennemis de la France\" : quatre personnalités de gauche sur la liste du suspect de l'attentat raciste de Trappes",
       "bullets": [
-        "Attentat raciste de Trappes : un post-it avec les noms et les numéros de téléphone de quatre personnalités de gauche et d’extrême gauche a été retrouvé au domicile du suspect.",
-        "Les célébrations du 11 novembre dans les écoles font débat",
-        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans"
+        "Dans l'appartement de Kevin Tessier, l'auteur de l'attentat raciste de Trappes (Yvelines), les enquêteurs découvrent un post-it.",
+        "Quatre noms y sont inscrits : Assa Traoré, Aymeric Caron, Sandrine Rousseau et David Guiraud.",
+        "J'ai répété ça deux fois et je lui ai tiré dessus.\" Grièvement blessée, la jeune fille de 12 ans est désormais hors de danger."
       ],
-      "publishedAt": "2026-11-11T17:53:32+00:00",
-      "updatedAt": "2026-11-11T17:53:32+00:00",
+      "publishedAt": "2026-11-11T19:39:51+00:00",
+      "updatedAt": "2026-11-11T19:39:51+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-le-suspect-avait-liste-des-personnalites-de-gauche-et-d-extreme-gauche_8278193.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/des-ennemis-de-la-france-quatre-personnalites-de-gauche-sur-la-liste-du-suspect-de-l-attentat-raciste-de-trappes_8278262.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "9d2f7b7ffb80eb6bed3cd839d19d63da34b783087b6bd8fcad8ba05deae7d15c",
+      "summaryInput": "03f47f156a47a4819c21594a505755dc4d6bcba1aafc07c07df1115380372e23",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T18:03:49.830704+00:00",
+      "enrichedAt": "2026-11-11T20:11:09.961760+00:00",
       "context": null
     },
     {
@@ -1052,58 +1050,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "4ec3c8640fd441b2460450e0b3164e507a494d8fc8a00a1b72dd74864588b9f8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7170dd36ac182411f4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
-      "bullets": [
-        "Par économie budgétaire, l’exécutif vient de s’attaquer à deux dispositifs utilisés par les collectivités locales pour le financement de l’adaptation au changement climatique et la décarbonation."
-      ],
-      "publishedAt": "2026-11-11T13:00:06+00:00",
-      "updatedAt": "2026-11-11T13:00:06+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9420de07ddf0b2c1a67cd315ab9675265d74e0245efd79f4dbb79a345c706b93",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8d5f6893c84e382dcf",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "\"Il faut qu'on revoie la loi sur la justice des mineurs\", suggère Jad Zahab, porte-parole de Gabriel Attal",
-      "bullets": [
-        "Ces violences sur dépositaires de l’ordre public, vous risquez la réclusion criminelle à perpétuité si vous êtes majeur et 20 ans de réclusion criminelle si vous êtes mineur.",
-        "Deuxièmement, savez-vous que si vous avez 17 ans et 364 jours, c’est-à-dire mineur, vous ne pouvez pas passer en comparution immédiate ?",
-        "Si vous avez 18 ans et un jour, vous pouvez passer en comparution immédiate."
-      ],
-      "publishedAt": "2026-11-10T18:56:10+00:00",
-      "updatedAt": "2026-11-10T18:56:10+00:00",
-      "importance": 83,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/il-faut-qu-on-revoie-la-loi-sur-la-justice-des-mineurs-suggere-jad-zahab-porte-parole-de-gabriel-attal_8276834.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "4d7b3ec168f662d6e942e218d3b3fab2a47cce39c8fc21a0dc52f5da82d5051f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
-      "context": null
     },
     {
       "id": "rss-c3e6b1465ab9d40642",
@@ -1233,6 +1179,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ed826a139a252fb3dc",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence pour répondre à la mobilisation étudiante",
+      "bullets": [
+        "Formalisée dans un courrier aux présidents d’université, à qui il assure son « soutien personnel », la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires."
+      ],
+      "publishedAt": "2026-11-11T20:07:55+00:00",
+      "updatedAt": "2026-11-11T20:07:55+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e3b2eb81d741a4b0932d8a3cd7b0e2c03374c953831128daf87511e0573dd4cb",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-48106dbecbca782d0e",
       "revision": 1,
       "category": "france",
@@ -1284,6 +1254,30 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7ec885d2b0c0fb541f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Aurelia Ivan, directrice du Mouffetard : « A Paris, la marionnette doit prendre toute la place qu’elle mérite »",
+      "bullets": [
+        "Nommée en janvier à la tête du Mouffetard – Centre national de la marionnette, la metteuse en scène détaille, dans un entretien au « Monde », ses objectifs, et défend la nécessité d’un lieu mieux adapté à la création marionnettique contemporaine, à la mesure des besoins des artistes et des…"
+      ],
+      "publishedAt": "2026-11-11T17:30:07+00:00",
+      "updatedAt": "2026-11-11T17:30:07+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/11/aurelia-ivan-directrice-du-mouffetard-a-paris-la-marionnette-doit-prendre-toute-la-place-qu-elle-merite_6809008_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5865aa8fb07b4cb85aaf8ea44c49ad5069e0b011139b03b1de21a70451dd1eed",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1297,7 +1291,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1321,7 +1315,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1333,7 +1327,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
