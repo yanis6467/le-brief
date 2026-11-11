@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-11T23:01:56.680799+00:00",
+  "preparedAt": "2026-11-11T23:57:26.080648+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -124,7 +124,7 @@
       ],
       "publishedAt": "2026-11-11T11:39:45+00:00",
       "updatedAt": "2026-11-11T11:39:45+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -232,7 +232,7 @@
       ],
       "publishedAt": "2026-11-11T11:39:36+00:00",
       "updatedAt": "2026-11-11T11:39:36+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -300,52 +300,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4a3bc9550db2597040",
+      "id": "rss-4be20f8636f7498c5d",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
+      "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
       "bullets": [
-        "DÉCRYPTAGE - Le géant américain a signé un partenariat à Paris pour appuyer l’institut chargé d’évaluer la sécurité de ces technologies.",
-        "Un moyen de tisser sa toile sur un marché en pleine expansion."
+        "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence artificielle."
       ],
-      "publishedAt": "2026-11-10T19:15:00+00:00",
-      "updatedAt": "2026-11-10T19:15:00+00:00",
+      "publishedAt": "2026-11-11T23:30:03+00:00",
+      "updatedAt": "2026-11-11T23:30:03+00:00",
       "importance": 63,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/en-accord-avec-le-gouvernement-microsoft-s-implique-dans-la-surveillance-des-risques-lies-aux-ia-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "03661375997df272ead21a7c1a01671df933aa5a242a03ff86a38baff2773e27",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dcf691ae13f47aa61d",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
-      "bullets": [
-        "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-10T18:43:56+00:00",
-      "updatedAt": "2026-11-10T18:43:56+00:00",
-      "importance": 73,
-      "sources": [
-        {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "830070f2946cfa5689cc0641ce9c267ffe9ebe7a1f471c8fc1137ec1e04c7aad",
+      "summaryInput": "7e24263cc998877c36d9f46108f0b93d50bc421a1db41ffd8cb4390ef23bfb73",
       "detailLevel": "preview"
     },
     {
@@ -387,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T23:01:49+00:00",
-      "updatedAt": "2026-11-11T23:01:49+00:00",
+      "publishedAt": "2026-11-11T23:55:19+00:00",
+      "updatedAt": "2026-11-11T23:55:19+00:00",
       "importance": 69,
       "sources": [
         {
@@ -473,7 +448,7 @@
       ],
       "publishedAt": "2026-11-11T11:13:18+00:00",
       "updatedAt": "2026-11-11T11:13:18+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -1125,7 +1100,7 @@
       "provenance": "article-extract",
       "summaryInput": "cb1bcd847e115ea56483d36b6edc2da793bdbf3ff3c16b42e41c0c031efc7444",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
+      "enrichedAt": "2026-11-11T23:57:26.080648+00:00",
       "context": null
     },
     {
@@ -1206,27 +1181,27 @@
       "context": null
     },
     {
-      "id": "rss-ed826a139a252fb3dc",
-      "revision": 2,
+      "id": "rss-35943ac664bcb31542",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
+      "title": "Présidentielle 2027 : Bruno Retailleau propose aux candidats de la droite et du centre d’organiser une primaire les 31 janvier et 7 février",
       "bullets": [
-        "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires."
+        "Le président des Républicains s’est vu opposer une nouvelle fin de non-recevoir du camp d’Edouard Philippe, qui refuse le principe de la primaire mais estime qu’un « grand rassemblement » est nécessaire autour d’un seul candidat."
       ],
-      "publishedAt": "2026-11-11T20:07:54+00:00",
-      "updatedAt": "2026-11-11T20:07:54+00:00",
+      "publishedAt": "2026-11-11T14:24:18+00:00",
+      "updatedAt": "2026-11-11T14:24:18+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "095336328629ec89aec4d4fb70ade4dda4c023ca71534d16780dcc4233eef814",
+      "summaryInput": "9366e3a3b60a94cc4d7daff0638d578e16bbe15fdcee9f8578f22714fe535f6d",
       "detailLevel": "preview"
     },
     {
@@ -1254,7 +1229,7 @@
       "provenance": "article-extract",
       "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
+      "enrichedAt": "2026-11-11T23:57:26.080648+00:00",
       "context": null
     },
     {
