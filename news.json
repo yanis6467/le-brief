@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T15:06:33.784067+00:00",
+  "preparedAt": "2026-11-11T16:05:51.896447+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -32,30 +32,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5ea87efbe165c299d9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-      "bullets": [
-        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
-      ],
-      "publishedAt": "2026-11-11T05:00:42+00:00",
-      "updatedAt": "2026-11-11T05:00:42+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d64c91e621c3e3c2b4",
       "revision": 2,
       "category": "eco",
@@ -81,59 +57,6 @@
       "summaryInput": "4a18bfd24daf52cae599ea5eca5adc4561165bd769f07e03643bf9d6b7c142c6",
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T05:12:40.803945+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5cfefd172a2162f62e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
-      "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie.",
-        "Elle avait déjà rencontré une douzaine de patrons de grands groupes en avril."
-      ],
-      "publishedAt": "2026-11-11T12:07:18+00:00",
-      "updatedAt": "2026-11-11T12:07:18+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c4c01c14a0dc32cb88edf582f25e81f3c0b7b8aa9236304c74f7f79728f92b6a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-49b07770491c313839",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Un sparadrap sur une plaie immense\" : Jordan Bardella critique la hausse du smic annoncée par le gouvernement",
-      "bullets": [
-        "Avec une augmentation de 0,6%, en plus de sa revalorisation automatique sur les prix, le salaire minimum va être porté, dès le 1er décembre, à près de 1 502 euros mensuels net, soit une augmentation d'environ 24 euros.",
-        "Jordan Bardella propose pour sa part \"de libérer 10% d'augmentation des salaires, 10% d'augmentation nette qui serait exonérée de charges pour les chefs d'entreprise\".",
-        "Cette mesure, estime l'eurodéputé, concernerait les personnes gagnant \"jusqu'à trois fois le smic\", soit \"15 millions de salariés\", contre \"deux millions\" dans le cadre d'une augmentation du salaire minimum."
-      ],
-      "publishedAt": "2026-11-10T22:18:01+00:00",
-      "updatedAt": "2026-11-10T22:18:01+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/un-sparadrap-sur-une-plaie-immense-jordan-bardella-critique-la-hausse-du-smic-annoncee-par-le-gouvernement_8276999.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "9e2904ac0c8b1461cafc5e3ca8cf7fe9cee852df8fb0949d386a841f5b67b706",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
     },
     {
@@ -256,7 +179,7 @@
       ],
       "publishedAt": "2026-11-11T04:00:02+00:00",
       "updatedAt": "2026-11-11T04:00:02+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -317,6 +240,84 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "e23b98c4a4884e261b598ac8f752bb84a881fb61a1320a2f2701855b66bbcd9e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-652fa35a4ec1146347",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Baisse du prix du gazole : la libération des stocks stratégiques est-elle vraiment la seule explication ?",
+      "bullets": [
+        "ANALYSE - Présentée comme un succès par l’exécutif, la libération de 10 millions de barils de carburant n’explique qu’en partie le recul des prix à la pompe.",
+        "Surtout, cette opération pourrait se payer cher demain."
+      ],
+      "publishedAt": "2026-11-11T10:14:13+00:00",
+      "updatedAt": "2026-11-11T10:14:13+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/baisse-du-prix-du-gazole-la-liberation-des-stocks-strategiques-est-elle-vraiment-la-seule-explication-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "12274c1fac12540eb7fe05d760be0f7b1527af565b4ec1cb7b087a27ab58b860",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-eebfeea600e3b37cb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Collab\", \"contenu sponsorisé\"… La Commission européenne interdit ces termes flous et renforce la transparence sur les réseaux sociaux",
+      "bullets": [
+        "A l'occasion de la présentation de son \"Digital Fairness Act\", visant à renforcer la protection des consommateurs en ligne, la Commission européenne va dévoiler, mercredi 11 novembre, un certain nombre de mesures.",
+        "Pour des questions de transparence, la Commission européenne exigera désormais de tous les influenceurs de faire apparaître cette expression précise.",
+        "Les termes \"collab\", \"contenu sponsorisé\" ou \"ambassadeur\" sont jugés trop flous."
+      ],
+      "publishedAt": "2026-11-11T05:44:54+00:00",
+      "updatedAt": "2026-11-11T05:44:54+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/collab-contenu-sponsorise-la-commission-europeenne-interdit-ces-termes-flous-et-renforce-la-transparence-sur-les-reseaux-sociaux_8276885.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "64effaf3ded076bb6713e415bba3ae24be76a6f683bfc6cb9616acd61182e715",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T16:05:51.896447+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-04eae9adc6a861e151",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Bretagne, le foisonnement de la seconde main : « Quand on voit le prix du neuf, il y a de quoi se restreindre »",
+      "bullets": [
+        "Les Bretons ont un panier moyen pour les achats d’occasion plus élevé que la moyenne des Français, selon une étude qui a analysé les données de paiement de plus de 20 millions de cartes bancaires en France.",
+        "Le nombre de boutiques spécialisées dans le réemploi, important dans la région, illustre…"
+      ],
+      "publishedAt": "2026-11-11T05:00:06+00:00",
+      "updatedAt": "2026-11-11T05:00:06+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/11/en-bretagne-le-foisonnement-de-la-seconde-main-quand-on-voit-le-prix-du-neuf-il-y-a-de-quoi-se-restreindre_6808928_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "196fb22d418d4e3ea98f9301087423101137011dc0942bd7af92b1128eb1fe0d",
       "detailLevel": "preview"
     },
     {
@@ -382,8 +383,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T15:06:24+00:00",
-      "updatedAt": "2026-11-11T15:06:24+00:00",
+      "publishedAt": "2026-11-11T16:05:46+00:00",
+      "updatedAt": "2026-11-11T16:05:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -568,6 +569,30 @@
       "context": null
     },
     {
+      "id": "rss-5ea87efbe165c299d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
+      "bullets": [
+        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
+      ],
+      "publishedAt": "2026-11-11T05:00:42+00:00",
+      "updatedAt": "2026-11-11T05:00:42+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-38ab9dc9b28c6da9ac",
       "revision": 1,
       "category": "world",
@@ -596,31 +621,6 @@
       "context": null
     },
     {
-      "id": "rss-5c251f1f687370042a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Loïc de la Mornais : Ukraine : nouveaux pourparlers, nouveaux espoirs ?",
-      "bullets": [
-        "Loïc de la Mornais conclut cette édition avec un retour sur les révélations concernant le bilan humain de la guerre en Ukraine, alors que des hackers ont mis au jour des données faisant état de plus de 400 000 soldats russes tués depuis février 2022.",
-        "Avec ses invités, il revient…"
-      ],
-      "publishedAt": "2026-11-11T07:44:09+00:00",
-      "updatedAt": "2026-11-11T07:44:09+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-ukraine-nouveaux-pourparlers-nouveaux-espoirs_8277452.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "36669e0446f69d80cdfcdceb88e7243b76af8fd9fbe017eee1d0469d5cf5a57d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-dcb91b788eaefba006",
       "revision": 1,
       "category": "world",
@@ -642,6 +642,30 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5f437bbd66a309233e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Egypte, Hossam Hassan, le sélectionneur de l’équipe nationale de football, débarqué à cause de ses déboires conjugaux",
+      "bullets": [
+        "La Fédération de football égyptienne a décidé de limoger l’entraîneur après avoir constaté la « répercussion négative sur l’image et la stabilité de la sélection nationale » de ses problèmes de couple."
+      ],
+      "publishedAt": "2026-11-11T15:30:02+00:00",
+      "updatedAt": "2026-11-11T15:30:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/11/en-egypte-hossam-hassan-le-selectionneur-de-l-equipe-nationale-de-football-debarque-a-cause-de-ses-deboires-conjugaux_6808992_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "dae42ef0019dbd9eaebfa810bf2e90271f6c60f3f887acf45f142a64b769af9f",
       "detailLevel": "preview"
     },
     {
@@ -742,6 +766,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3b6f0708544d798ac5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"On se barre, on n'en peut plus d'être ici\" : à Kiev, des commerces ferment les uns après les autres",
+      "bullets": [
+        "Le proprio m'a dit : 'On se barre de Kiev, on n'en peut plus d'être ici'.\"En quelques mois, près d'un millier de commerces ont fermé dans la capitale ukrainienne.",
+        "J'ai investi à peu près 35 000 dollars dans ce resto.",
+        "Je suis prêt à le céder pour 15 000 dollars\", assure Oleksandr."
+      ],
+      "publishedAt": "2026-11-11T15:27:09+00:00",
+      "updatedAt": "2026-11-11T15:27:09+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/on-se-barre-de-kiev-on-n-en-peut-plus-d-etre-ici-a-kiev-des-commerces-ferment-les-uns-apres-les-autres_8277908.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "7b6920192c14c60b454acd8f68685b23290125c5b94a132a15450dcbbc5e6c83",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T16:05:51.896447+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2084db827ab7f16182",
       "revision": 1,
       "category": "world",
@@ -815,55 +867,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "04fdcf9a038ac6c0f15b99b31f0be3dbc146cfb1ff3450a4b4f270defdde2d03",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-997be612442c574b6d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
-      "bullets": [
-        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
-      ],
-      "publishedAt": "2026-11-09T05:00:00+00:00",
-      "updatedAt": "2026-11-09T05:00:00+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-265389fac44bf44c2e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
-      "bullets": [
-        "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
-        "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
-      ],
-      "publishedAt": "2026-11-11T04:30:08+00:00",
-      "updatedAt": "2026-11-11T04:30:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eed75cfa812a2945f6842eab7fca7e7d58fa1927c360dc4f7c183382ee31cd3f",
       "detailLevel": "preview"
     },
     {
@@ -994,56 +997,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-78649fed1a216f0edb",
+      "id": "rss-6a499e64c1baa36172",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Les mots tuent, on vit dans une atmosphère qui prépare ce type d'actes\", déplore l'écrivaine Leïla Slimani à propos de l'attentat raciste à Trappes",
+      "title": "Attentat raciste dans les Yvelines : \"Ce que je regrette c'est de pas avoir fait plus et s'il y a des survivants, c'est parce que j'ai été clément\", a déclaré Kevin Tessier en garde à vue",
       "bullets": [
-        "\"Les mots tuent, les mots arment ceux qui ont envie ensuite de s'en prendre physiquement à des personnes\", estime mercredi 11 novembre sur France Culture l'écrivaine Leïla Slimani, après l'attentat raciste dans les Yvelines qui a fait un mort fin octobre.",
-        "Pour celle qui a décroché le prix Goncourt en 2016 pour Chanson douce, \"il faut être extrêmement vigilant sur la manière dont on parle\".",
-        "Par \"nous\", Leïla Slimani entend \"ceux que les politiques et les médias désignent depuis 10, 20 ou 30 ans comme issus de l'immigration, ceux qu'on désigne comme des minorités visibles\"."
+        "Kevin Tessier explique n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France\".",
+        "Placé en détention provisoire à l'issue de sa mise en examen, Kevin Tessier, 39 ans, est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes, dont plusieurs d'origines africaine ou maghrébine, à Trappes et à La Verrière.",
+        "Parmi les blessés figure une enfant de 11 ans gravement touchée."
       ],
-      "publishedAt": "2026-11-11T09:06:19+00:00",
-      "updatedAt": "2026-11-11T09:06:19+00:00",
+      "publishedAt": "2026-11-11T15:49:11+00:00",
+      "updatedAt": "2026-11-11T15:49:11+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/les-mots-tuent-on-vit-dans-une-atmosphere-qui-prepare-ce-type-d-actes-deplore-l-ecrivaine-leila-slimani-a-propos-de-l-attentat-raciste-a-trappes_8277524.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "471227aef0b6668b0abe9f86b7e619fa7384a59a71d1d729ba52aeac9477f260",
+      "summaryInput": "9c4340c4041a9126861a9262bdc1b7db1d49a46b0f6381e6748c5662086c514c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T10:12:02.803517+00:00",
+      "enrichedAt": "2026-11-11T16:05:51.896447+00:00",
       "context": null
     },
     {
-      "id": "rss-f53341bdf825f59ceb",
+      "id": "rss-9054c468c703e63407",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
+      "title": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
       "bullets": [
-        "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans.",
-        "Elle s’insurge également contre l’Etat, qui cherche à récupérer quelques millions d’euros de taxes."
+        "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran.",
+        "Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un agent obsessionnel dans « 12 12 12 »."
       ],
-      "publishedAt": "2026-11-09T17:42:34+00:00",
-      "updatedAt": "2026-11-09T17:42:34+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-10T03:30:07+00:00",
+      "updatedAt": "2026-11-10T03:30:07+00:00",
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
+          "url": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "cff7a96a661f3196cad592242d721fab945efb1d0b07e34d65df087432c0485c",
+      "summaryInput": "26b69861db10b2e6d8114fcee06930dd80c1672ad46a9f934fea671ec2fa335b",
       "detailLevel": "preview"
     },
     {
@@ -1183,7 +1186,7 @@
       ],
       "publishedAt": "2026-11-10T15:06:42+00:00",
       "updatedAt": "2026-11-10T15:06:42+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1208,7 +1211,7 @@
       ],
       "publishedAt": "2026-11-10T04:00:14+00:00",
       "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1286,7 +1289,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1364,7 +1367,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
