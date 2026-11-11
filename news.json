@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T10:12:02.803517+00:00",
+  "preparedAt": "2026-11-11T11:12:14.690548+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -72,7 +72,7 @@
       ],
       "publishedAt": "2026-11-10T22:18:01+00:00",
       "updatedAt": "2026-11-10T22:18:01+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -89,10 +89,10 @@
     },
     {
       "id": "rss-ac59c3baaf43026c1a",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement",
+      "title": "IA, études en alternance interrompues faute de stage… A Saint-Denis, des jeunes au chômage tanguent entre intérim et découragement",
       "bullets": [
         "D'après le rapport de l'Insee, mardi 10 novembre, pour le troisième trimestre 2026, le taux de chômage en France est de 8,2%.",
         "Un chiffre quasiment stable par rapport au deuxième trimestre (8,3%), mais une hausse de 0,4 point par rapport au troisième trimestre 2025.",
@@ -110,9 +110,9 @@
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "bca82f8cc9587d2000d3234dbb2395ffd23423e88a22ad93f1ca383cf891dfcc",
+      "summaryInput": "f79b3e9bbb965230a9a21938b635eb2747b40626a367d001052ec8d62b0e6ceb",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
+      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
       "context": null
     },
     {
@@ -385,8 +385,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T10:04:59+00:00",
-      "updatedAt": "2026-11-11T10:04:59+00:00",
+      "publishedAt": "2026-11-11T11:09:40+00:00",
+      "updatedAt": "2026-11-11T11:09:40+00:00",
       "importance": 69,
       "sources": [
         {
@@ -415,7 +415,7 @@
       ],
       "publishedAt": "2026-11-10T10:26:14+00:00",
       "updatedAt": "2026-11-10T10:26:14+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -640,6 +640,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5d2ae017f5539edc7c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La tempête Charles s’annonce moins intense que prévu à l’approche du Portugal",
+      "bullets": [
+        "Mardi soir, l’agence météo nationale portugaise anticipait des rafales pouvant atteindre les 140 kilomètres/heure, et le gouvernement avait décidé de fermer les écoles et les services publics non essentiels mercredi."
+      ],
+      "publishedAt": "2026-11-11T11:01:57+00:00",
+      "updatedAt": "2026-11-11T11:01:57+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/la-tempete-charles-s-annonce-moins-intense-que-prevu-a-l-approche-du-portugal_6808959_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "099341bba74ce4d71b50263f49dd920a0b1231f9faf6d7db6b5350ed11308c66",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b8560c536275e8d9fe",
       "revision": 1,
       "category": "world",
@@ -649,8 +673,8 @@
         "Rencontré à Paris lors de son passage dans la capitale pour voir Emmanuel Macron, le dirigeant kosovar défend une intégration européenne reposant sur les réformes entreprises.",
         "Il appelle aussi la France à soutenir les projets d’infrastructures et d’énergie du pays, pour améliorer sa résilience dans un contexte géopolitique incertain."
       ],
-      "publishedAt": "2026-11-11T10:00:07+00:00",
-      "updatedAt": "2026-11-11T10:00:07+00:00",
+      "publishedAt": "2026-11-11T10:00:06+00:00",
+      "updatedAt": "2026-11-11T10:00:06+00:00",
       "importance": 77,
       "sources": [
         {
@@ -817,31 +841,6 @@
       "context": null
     },
     {
-      "id": "rss-265389fac44bf44c2e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
-      "bullets": [
-        "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
-        "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
-      ],
-      "publishedAt": "2026-11-11T04:30:08+00:00",
-      "updatedAt": "2026-11-11T04:30:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eed75cfa812a2945f6842eab7fca7e7d58fa1927c360dc4f7c183382ee31cd3f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8d2c068771c77e0578",
       "revision": 1,
       "category": "france",
@@ -867,29 +866,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c5aa11aa80d9f8a9f5",
+      "id": "rss-d6b5729e2cc91e1f40",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
+      "title": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
       "bullets": [
-        "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts.",
-        "Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se retrouvent sans…"
+        "Des cortèges se sont formés un peu partout dans le pays mardi 10 novembre, à l'appel des organisations lycéennes, étudiantes et des syndicats enseignants.",
+        "Suzanne Nijdam, présidente de la FAGEà franceinfoLa question, selon la syndicaliste, est de savoir \"tout ce que peut faire le gouvernement, avec ce qui lui reste comme temps et comme budget.\"Des annonces \"très, très superficielles\"La création de 15 000 places dans l'enseignement supérieur ne convainc pas la FAGE.",
+        "Ce qu'il faut mettre en perspective, c'est combien vont être supprimées, pointe Suzanne Nijdam."
       ],
-      "publishedAt": "2026-11-11T05:30:05+00:00",
-      "updatedAt": "2026-11-11T05:30:05+00:00",
+      "publishedAt": "2026-11-11T10:10:15+00:00",
+      "updatedAt": "2026-11-11T10:10:15+00:00",
       "importance": 73,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "270ddf2a73afe12042661d14ff6191c29c05c76378daaab3e3b553b12b9e127e",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "cb1bcd847e115ea56483d36b6edc2da793bdbf3ff3c16b42e41c0c031efc7444",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -1119,6 +1121,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c5aa11aa80d9f8a9f5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
+      "bullets": [
+        "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts.",
+        "Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se retrouvent sans…"
+      ],
+      "publishedAt": "2026-11-11T05:30:05+00:00",
+      "updatedAt": "2026-11-11T05:30:05+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "270ddf2a73afe12042661d14ff6191c29c05c76378daaab3e3b553b12b9e127e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a609762131ccd94f93",
       "revision": 1,
       "category": "france",
@@ -1168,31 +1195,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2b5020c0c3edfbdcca",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "11-Novembre : à l’origine du coquelicot et du bleuet comme fleurs symboles de l’armistice, des femmes dont l’histoire a oublié les noms",
-      "bullets": [
-        "A chaque anniversaire de l’armistice de 1918, les Anglo-Saxons ont coutume d’arborer un coquelicot, tandis que les Français se parent d’un bleuet.",
-        "A l’origine de cette tradition destinée à récolter des fonds pour les mutilés de guerre, une histoire méconnue."
-      ],
-      "publishedAt": "2026-11-11T04:55:01+00:00",
-      "updatedAt": "2026-11-11T04:55:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/11/11-novembre-a-l-origine-du-coquelicot-et-du-bleuet-comme-fleurs-symboles-de-l-armistice-des-femmes-dont-l-histoire-a-oublie-les-noms_6652970_4500056.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cd38156eb346001193386d3b279b6800fafd1eea860190eefbb88799a40b7378",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-48106dbecbca782d0e",
       "revision": 1,
       "category": "france",
@@ -1217,7 +1219,7 @@
       "provenance": "article-extract",
       "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
+      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
       "context": null
     },
     {
@@ -1281,7 +1283,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
