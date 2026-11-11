@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T07:29:51.571433+00:00",
+  "preparedAt": "2026-11-11T09:08:06.395283+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -84,31 +84,31 @@
       "context": null
     },
     {
-      "id": "rss-cc6fa95b01a98cf25f",
+      "id": "rss-49b07770491c313839",
       "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "La CGT juge trop faible l'augmentation du Smic proposé par le gouvernement",
+      "title": "\"Un sparadrap sur une plaie immense\" : Jordan Bardella critique la hausse du smic annoncée par le gouvernement",
       "bullets": [
-        "Sa secrétaire nationale, Sophie Binet, déplore les annonces du gouvernement concernant l'augmentation du Smic, qu'elle juge bien trop faible.",
-        "La hausse du smic de 1,6% n'est \"pas à la hauteur de l'explosion du coût de la vie\", juge Sophie Binet",
-        "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats"
+        "Avec une augmentation de 0,6%, en plus de sa revalorisation automatique sur les prix, le salaire minimum va être porté, dès le 1er décembre, à près de 1 502 euros mensuels net, soit une augmentation d'environ 24 euros.",
+        "Jordan Bardella propose pour sa part \"de libérer 10% d'augmentation des salaires, 10% d'augmentation nette qui serait exonérée de charges pour les chefs d'entreprise\".",
+        "Cette mesure, estime l'eurodéputé, concernerait les personnes gagnant \"jusqu'à trois fois le smic\", soit \"15 millions de salariés\", contre \"deux millions\" dans le cadre d'une augmentation du salaire minimum."
       ],
-      "publishedAt": "2026-11-10T12:30:01+00:00",
-      "updatedAt": "2026-11-10T12:30:01+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-10T22:18:01+00:00",
+      "updatedAt": "2026-11-10T22:18:01+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/syndicats/la-cgt-juge-trop-faible-l-augmentation-du-smic-propose-par-le-gouvernement_8276300.html",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/un-sparadrap-sur-une-plaie-immense-jordan-bardella-critique-la-hausse-du-smic-annoncee-par-le-gouvernement_8276999.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "1e5bd5a5268aabc18a41c28688792717c9e08abc02e200769eb2f5b4023ca282",
+      "summaryInput": "9e2904ac0c8b1461cafc5e3ca8cf7fe9cee852df8fb0949d386a841f5b67b706",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T01:19:15.419937+00:00",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
     },
     {
@@ -140,34 +140,6 @@
       "context": null
     },
     {
-      "id": "rss-7604f56a4a19673f4d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Malgré les annonces, les manifestants ne comptent pas baisser les bras",
-      "bullets": [
-        "Un défilé au rythme de la fanfare ce mardi 10 novembre à Clermont-Ferrand (Puy-de-Dôme), avec un mélange de drapeaux de syndicats enseignants et d'organisations lycéennes, et un refrain qui ne change pas malgré les premières annonces du gouvernement.",
-        "Une cinquantaine de lycées encore bloquésUne cinquantaine de lycées étaient encore bloqués ce mardi 10 novembre, comme à la cité scolaire Marseilleveyre, où des poubelles entravaient l'accès avant que la police obtienne la levée du blocus.",
-        "À Paris, au lycée Jean-Monnet, dans le 13e arrondissement, de nombreux élèves restent déterminés."
-      ],
-      "publishedAt": "2026-11-10T13:32:10+00:00",
-      "updatedAt": "2026-11-10T13:32:10+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/greve/malgre-les-annonces-les-manifestants-ne-comptent-pas-baisser-les-bras_8276369.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "7f19de9a7bae7707acf833f837548aa7d2d9120a414773e812a72b53fb6c49cc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T04:08:28.843791+00:00",
-      "context": null
-    },
-    {
       "id": "rss-f5f40e0f3f94bb38ea",
       "revision": 2,
       "category": "eco",
@@ -193,6 +165,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-60276eda17a86fe818",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Il faut augmenter les salaires, il faut que le travail paye plus, que nos enfants puissent acheter un appartement avec leurs salaires\", affirme Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc",
+      "bullets": [
+        "Lorsqu'on annonce un SMIC à 1 500 euros, cela coûte en réalité 2 000 ou 2 500 euros à l'entreprise.",
+        "Selon le gouvernement, le gazole a baissé dans plus de 80 % des stations-service grâce à la libération des stocks stratégiques.",
+        "La baisse était peut-être de l'ordre de 28 %."
+      ],
+      "publishedAt": "2026-11-11T09:02:36+00:00",
+      "updatedAt": "2026-11-11T09:02:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-faut-augmenter-les-salaires-il-faut-que-le-travail-paye-plus-que-nos-enfants-puissent-acheter-un-appartement-avec-leurs-salaires-affirme-michel-edouard-leclerc-president-du-comite-strategique-des-centres-e-leclerc_8277500.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "1f01f977ac872897de7db3048d9d560576ca49f8142a6a8592561ef80d5d9d45",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
+      "context": null
+    },
+    {
       "id": "rss-07ccc59d89b5448cda",
       "revision": 1,
       "category": "eco",
@@ -205,7 +205,7 @@
       ],
       "publishedAt": "2026-11-10T19:47:19+00:00",
       "updatedAt": "2026-11-10T19:47:19+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -217,7 +217,7 @@
       "provenance": "article-extract",
       "summaryInput": "38ab58150518b7b5c866c43439152d9010e60bb8bc8506cf2d3476ded262eda5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T20:02:09.123026+00:00",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
     },
     {
@@ -269,33 +269,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-49b07770491c313839",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Un sparadrap sur une plaie immense\" : Jordan Bardella critique la hausse du smic annoncée par le gouvernement",
-      "bullets": [
-        "\"Je pense que cette solution non seulement est insuffisante, mais qu'elle est un sparadrap sur une plaie immense dans cette urgence de la fin du mois.\" Le président du RN, Jordan Bardella, a réagi sur BFMTV, mardi 10 novembre, au coup de pouce sur le smic annoncé la veille par le gouvernement.",
-        "A l'issue d'une conférence sociale à Matignon, qui a réuni syndicats et patronat, le Premier ministre a fait savoir lundi que le smic augmenterait de 0,6%, et que cela s'ajouterait à sa revalorisation automatique sur les prix, qui s'établit à +1%."
-      ],
-      "publishedAt": "2026-11-10T22:18:01+00:00",
-      "updatedAt": "2026-11-10T22:18:01+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/un-sparadrap-sur-une-plaie-immense-jordan-bardella-critique-la-hausse-du-smic-annoncee-par-le-gouvernement_8276999.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "c4b3bfb76e813ae9c295e7116005b1852de5fa25181c638b2ee79ae6d4844dae",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
-      "context": null
-    },
-    {
       "id": "rss-4a3bc9550db2597040",
       "revision": 1,
       "category": "eco",
@@ -321,31 +294,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0d5817fac798e883d1",
+      "id": "rss-8762d68f79512912dd",
       "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Freiné par l'inflation américaine, le CAC 40 échoue aux portes des 8.300 points",
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On a remarqué que les jouets ont tendance à augmenter\" : ils arpentent déjà les rayons en quête de bonnes affaires pour Noël",
       "bullets": [
-        "La hausse dépassait encore 1% avant l’ouverture de Wall Street, mais elle s’est ensuite tassée après la publication des chiffres de l’inflation américaine pour octobre, supérieurs aux attentes.",
-        "L’inflation américaine dépasse les prévisions Aux États-Unis, les prix à la consommation ont augmenté de 0,4% sur un mois.",
-        "Le prix du baril de Brent de la mer du Nord cède encore 0,5% à 92,13 dollars, tandis que celui de WTI, recule de 0,1% à 86,75 dollars."
+        "Pour tenir son budget d'environ 500 euros rien que pour les jouets, la famille doit faire des concessions.",
+        "L'alimentation également visée par les consommateursPour les cadeaux mais aussi la nourriture, la décoration, les Français devraient dépenser en moyenne 478 euros pour Noël, soit huit euros de plus que l'an dernier.",
+        "Noël est un temps fort pour les commerçants, qui réalisent en moyenne 20 à 30% de leur chiffre d'affaires sur cette période."
       ],
-      "publishedAt": "2026-11-10T16:52:00+00:00",
-      "updatedAt": "2026-11-10T16:52:00+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-10T15:24:25+00:00",
+      "updatedAt": "2026-11-10T15:24:25+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-freine-par-l-inflation-americaine-le-cac-40-echoue-aux-portes-des-8300-points-1173544.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/on-a-remarque-que-les-jouets-ont-tendance-a-augmenter-ils-arpentent-deja-les-rayons-en-quete-de-bonnes-affaires-pour-noel_8276480.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "6d1dfb7314d8b1bcef7ae0d4098e8d7ec657e13f2da03ada275197b383561828",
+      "summaryInput": "fa292e93f7749424ac464cc7743362b86b0039ca5a1132d875577daacca36706",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T06:12:45.851820+00:00",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
     },
     {
@@ -411,9 +384,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T07:26:28+00:00",
-      "updatedAt": "2026-11-11T07:26:28+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-11T09:08:07+00:00",
+      "updatedAt": "2026-11-11T09:08:07+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -455,6 +428,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T23:46:59.961347+00:00",
       "context": null
+    },
+    {
+      "id": "rss-fadfe65f28eb7794b4",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.58%",
+      "bullets": [
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-058-1173568.html"
+      ],
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "updatedAt": "2026-11-11T08:00:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-058-1173568.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1bc6e6b489197fd2f84f4e3e041c4c17b08d716f8e5b9ef8407fd80217094f84",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-0f1e7115b2ff2641e0",
@@ -565,32 +562,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-00db0fd64ebae86d38",
+      "id": "rss-5c251f1f687370042a",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Au moins 400 000 soldats russes seraient morts depuis l'invasion de l’Ukraine en 2022 selon des pirates informatiques",
+      "title": "A suivre Loïc de la Mornais : Ukraine : nouveaux pourparlers, nouveaux espoirs ?",
       "bullets": [
-        "Entre 400 000 et 450 000 soldats russes seraient morts sur le front en Ukraine depuis février 2022.",
-        "Devant un mémorial à Moscou, mardi 10 novembre, des Russes rendent hommage à leurs proches disparus sur le front.",
-        "Comme la Russie, l'Ukraine rechigne à donner le bilan concernant ses morts au combat et les seuls qui sortent sont largement sous-estimés."
+        "Loïc de la Mornais conclut cette édition avec un retour sur les révélations concernant le bilan humain de la guerre en Ukraine, alors que des hackers ont mis au jour des données faisant état de plus de 400 000 soldats russes tués depuis février 2022.",
+        "Avec ses invités, il revient…"
       ],
-      "publishedAt": "2026-11-10T20:04:07+00:00",
-      "updatedAt": "2026-11-10T20:04:07+00:00",
-      "importance": 87,
+      "publishedAt": "2026-11-11T07:44:09+00:00",
+      "updatedAt": "2026-11-11T07:44:09+00:00",
+      "importance": 79,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/au-moins-400-000-soldats-russes-seraient-morts-depuis-l-invasion-de-l-ukraine-en-2022-selon-des-pirates-informatiques_8276888.html",
-          "access": "public"
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-ukraine-nouveaux-pourparlers-nouveaux-espoirs_8277452.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "db14c971ee702888c3b6913818b1f461e4d474b207d76fd37787282db28eb35a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "36669e0446f69d80cdfcdceb88e7243b76af8fd9fbe017eee1d0469d5cf5a57d",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-87329c10848b4f5404",
@@ -627,7 +621,7 @@
       ],
       "publishedAt": "2026-11-10T20:15:00+00:00",
       "updatedAt": "2026-11-10T20:15:00+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -642,15 +636,15 @@
     },
     {
       "id": "rss-8b067d599ab65feb1d",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Macron",
+      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Emmanuel Macron",
       "bullets": [
-        "A l’occasion d’une assemblée parlementaire franco-allemande, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
+        "A l’occasion d’une assemblée parlementaire franco-allemande lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
       ],
-      "publishedAt": "2026-11-11T06:00:09+00:00",
-      "updatedAt": "2026-11-11T06:00:09+00:00",
+      "publishedAt": "2026-11-11T06:00:07+00:00",
+      "updatedAt": "2026-11-11T06:00:07+00:00",
       "importance": 77,
       "sources": [
         {
@@ -661,7 +655,7 @@
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "df0c31ac54ce6e2cc2cde3aaa51054044bf0b01c291df186827a773e7ac4debf",
+      "summaryInput": "e00624e6d3d69e959cb92067c12980d2404d4861ec3152e8a8f2545fb49afc4f",
       "detailLevel": "preview"
     },
     {
@@ -690,30 +684,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5dfef1d82a7d221c13",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Etats-Unis : le très conservateur Jim Jordan nommé chef de la minorité républicaine à la Chambre des représentants",
-      "bullets": [
-        "L’élu de l’Ohio, figure de l’aile droite du parti, promet de durcir la ligne républicaine à la Chambre, après la déroute du camp Trump aux élections de mi-mandat."
-      ],
-      "publishedAt": "2026-11-10T22:53:09+00:00",
-      "updatedAt": "2026-11-10T22:53:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-le-tres-conservateur-jim-jordan-nomme-chef-de-la-minorite-republicaine-a-la-chambre-des-representants_6808909_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "21076f8ef976252a6aa4123a4b4b97365c53a13a0769b99ceb6ae040284fc064",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-714e3a8dc0560fdfe8",
       "revision": 1,
       "category": "world",
@@ -724,7 +694,7 @@
       ],
       "publishedAt": "2026-11-09T19:30:00+00:00",
       "updatedAt": "2026-11-09T19:30:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -840,6 +810,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
       "context": null
+    },
+    {
+      "id": "rss-265389fac44bf44c2e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
+      "bullets": [
+        "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
+        "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
+      ],
+      "publishedAt": "2026-11-11T04:30:08+00:00",
+      "updatedAt": "2026-11-11T04:30:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "eed75cfa812a2945f6842eab7fca7e7d58fa1927c360dc4f7c183382ee31cd3f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8d2c068771c77e0578",
@@ -1043,34 +1038,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c1c9ada0dbc14d382b",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-      "bullets": [
-        "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé, mardi 10 novembre, de classer, par 28 voix contre 25, la pétition appelant à \"supprimer CNews de l'audiovisuel français\", qui a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale.",
-        "Le RN, l'UDR, LR et Horizons ont voté pour le classement de la pétition, selon le compte rendu de la réunion.",
-        "Des trois pétitions ayant précédemment franchi le seuil de 500 000 signatures, seule celle contre la loi Duplomb a débouché sur un débat dans l'hémicycle."
-      ],
-      "publishedAt": "2026-11-10T19:28:47+00:00",
-      "updatedAt": "2026-11-10T19:28:47+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "cc8b7d78aa712d5873561ee3eddc1ef7678c8306b8ef5b89079d684fdb268b03",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T04:08:28.843791+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8d5f6893c84e382dcf",
       "revision": 1,
       "category": "france",
@@ -1095,8 +1062,32 @@
       "provenance": "article-extract",
       "summaryInput": "4d7b3ec168f662d6e942e218d3b3fab2a47cce39c8fc21a0dc52f5da82d5051f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T20:02:09.123026+00:00",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
+    },
+    {
+      "id": "rss-826ae8de5832821406",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget de la « Sécu » 2027 : l’exécutif prépare les esprits à des « efforts supplémentaires »",
+      "bullets": [
+        "En ouverture des débats au Sénat sur le projet de loi de financement de la Sécurité sociale, le ministre des comptes publics, David Amiel, a déclaré, lundi 9 novembre, qu’il faudrait trouver de nouvelles mesures, s’ajoutant à celles de la copie initiale, pour atteindre l’objectif d’un déficit ramené à 12,7…"
+      ],
+      "publishedAt": "2026-11-10T17:56:07+00:00",
+      "updatedAt": "2026-11-10T17:56:07+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/budget-de-la-secu-2027-l-executif-prepare-les-esprits-a-des-efforts-supplementaires_6808887_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5a2db3caa7dae0694a1b4ff977ca845ae59294cb14f81930cc08c680bb985559",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-9b4e5991cbc1e9701a",
@@ -1248,7 +1239,7 @@
       "provenance": "article-extract",
       "summaryInput": "8ac9062de8a3b1c27a7e5705d233b6bf80e8168f79e9319984463f008b371456",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
+      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
       "context": null
     }
   ],
@@ -1263,7 +1254,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1287,7 +1278,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
