@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T17:08:26.437598+00:00",
+  "preparedAt": "2026-11-11T18:03:49.830704+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-5ea87efbe165c299d9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-      "bullets": [
-        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
-      ],
-      "publishedAt": "2026-11-11T05:00:42+00:00",
-      "updatedAt": "2026-11-11T05:00:42+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-81eb2dff74008f7313",
       "revision": 1,
@@ -57,31 +33,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T17:08:26.437598+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5cfefd172a2162f62e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
-      "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie.",
-        "Elle avait déjà rencontré une douzaine de patrons de grands groupes en avril."
-      ],
-      "publishedAt": "2026-11-11T12:07:18+00:00",
-      "updatedAt": "2026-11-11T12:07:18+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c4c01c14a0dc32cb88edf582f25e81f3c0b7b8aa9236304c74f7f79728f92b6a",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-58c192a06f0dda9b87",
@@ -248,6 +199,34 @@
       "context": null
     },
     {
+      "id": "rss-afb8321d94035623b6",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+      "bullets": [
+        "De quoi, peut-être, intéresser Pedro, car cet ingénieur de 35 ans ne peut pas se permettre de louer un appartement pour lui seul.",
+        "Je vis en colocation et je paie 600 euros par mois.",
+        "Et quoi de mieux pour faire passer le message que de paralyser le pays ?\" Un vrai défi pour cette grève générale, la première consacrée à la question du logement."
+      ],
+      "publishedAt": "2026-11-11T11:39:36+00:00",
+      "updatedAt": "2026-11-11T11:39:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/reportage-quoi-de-mieux-pour-faire-passer-le-message-que-de-paralyser-le-pays-en-espagne-une-greve-generale-pour-denoncer-la-crise-du-logement_8277602.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "c34291451274e249e80987cb3d2a41d0babe1486520a1a891969d8903ae777e4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T13:24:34.023904+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ca5f3c76e4298885c6",
       "revision": 1,
       "category": "eco",
@@ -325,6 +304,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6f5cb66b96576c4850",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Imaginez que FedEx disparaisse, le monde s’arrêterait» : le PDG du géant américain dévoile ses ambitions au Figaro",
+      "bullets": [
+        "EXCLUSIF - Raj Subramaniam explique pourquoi il est confiant dans la capacité de son groupe à croître.",
+        "Il achemine déjà 18 millions de colis par jour."
+      ],
+      "publishedAt": "2026-11-11T12:00:00+00:00",
+      "updatedAt": "2026-11-11T12:00:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/imaginez-que-fedex-disparaisse-le-monde-s-arreterait-le-pdg-du-geant-americain-devoile-ses-ambitions-au-figaro-20261111",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4cb73678ee4a4b5954051705051a801bd19dfa7de773f26352c69a69495afd21",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dcf691ae13f47aa61d",
       "revision": 1,
       "category": "markets",
@@ -387,8 +391,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T17:03:38+00:00",
-      "updatedAt": "2026-11-11T17:03:38+00:00",
+      "publishedAt": "2026-11-11T18:03:46+00:00",
+      "updatedAt": "2026-11-11T18:03:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -433,31 +437,31 @@
       "context": null
     },
     {
-      "id": "rss-18d2feb868685baf02",
+      "id": "rss-8a787934c2a6be3bfa",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Alors que le marché est rassuré par les résultats de Coreweave, le CAC 40 avance un peu",
+      "title": "CAC 40 : L'IA rebondit en Bourse grâce notamemnt aux espoirs autour d'un relèvement de la valorisation cible d'Anthropic pour son entrée à Wall Street, le CAC 40 termine en hausse",
       "bullets": [
-        "L'indice phare de la Bourse de Paris avance de 0,36% à la mi-séance de ce mercredi 11 novembre.",
-        "Schneider Electric et Legrand, dont la croissance a été portée par leurs produits à destination des data centers (armoires racks, systèmes de refroidissements, onduleurs…), gagnent respectivement 2,3% et 1,44%.",
-        "Le contrat de janvier sur le Brent de mer du Nord gagne 1,8% à 93,11 dollars le baril tandis que celui de décembre sur le WTI coté à New York abandonne 1,2% à 87,05 dollars le baril."
+        "La Bourse de Paris a connu une belle séance en ce jour férié du mercredi 11 novembre.",
+        "Le Financial Times a rapporté qu'Anthropic envisagerait de revoir à la hausse sa valorisation cible pour son introduction en Bourse pour la porter à 1.500 milliards de dollars contre jusqu'à 1.400 milliards de dollars précédemment.",
+        "Bloomberg a de son côté écrit qu'OpenAI avait effectivement réalisé des revenus de 10 milliards de dollars pour la première fois de son histoire sur le trimestre clos fin septembre, en hausse de 50% par rapport au précédent trimestre."
       ],
-      "publishedAt": "2026-11-11T12:14:41+00:00",
-      "updatedAt": "2026-11-11T12:14:41+00:00",
+      "publishedAt": "2026-11-11T17:17:34+00:00",
+      "updatedAt": "2026-11-11T17:17:34+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-le-marche-est-rassure-par-les-resultats-de-coreweave-le-cac-40-avance-un-peu-1173585.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "458752b0c19e234c0c930c6d2e9a91fbeed89a18ef3c7d8285d3ed533aeeacd5",
+      "summaryInput": "bb227603c4b5cf44fe635dad4719eb550e47f66f0a8f7dc691a97f4025d1eaaf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T13:24:34.023904+00:00",
+      "enrichedAt": "2026-11-11T18:03:49.830704+00:00",
       "context": null
     },
     {
@@ -513,7 +517,7 @@
       "provenance": "article-extract",
       "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T05:12:40.803945+00:00",
+      "enrichedAt": "2026-11-11T18:03:49.830704+00:00",
       "context": null
     },
     {
@@ -529,7 +533,7 @@
       ],
       "publishedAt": "2026-11-10T17:55:25+00:00",
       "updatedAt": "2026-11-10T17:55:25+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -557,7 +561,7 @@
       ],
       "publishedAt": "2026-11-10T17:16:25+00:00",
       "updatedAt": "2026-11-10T17:16:25+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -571,6 +575,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5ea87efbe165c299d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
+      "bullets": [
+        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
+      ],
+      "publishedAt": "2026-11-11T05:00:42+00:00",
+      "updatedAt": "2026-11-11T05:00:42+00:00",
+      "importance": 80,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-dcb91b788eaefba006",
@@ -680,7 +708,7 @@
       ],
       "publishedAt": "2026-11-11T06:00:07+00:00",
       "updatedAt": "2026-11-11T06:00:07+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -798,80 +826,57 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-997be612442c574b6d",
+      "id": "rss-24ce7066c7eac555c6",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Aux États-Unis, ces personnalités démocrates qui affûtent leurs armes à deux ans de la présidentielle",
+      "title": "L'Iran menace de frapper des bases américaines en Europe si elles servent à lancer des attaques",
       "bullets": [
-        "PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération."
+        "Le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen Rezaï, a affirmé que Téhéran frapperait des bases américaines, \"même située[s] en Europe\", si elles étaient utilisées pour lancer des attaques contre la République islamique.",
+        "Le chef de la diplomatie américaine, Marco Rubio, a exclu mardi une opération militaire majeure contre l'Iran, en écho à des déclarations de Donald Trump jugeant une reprise des frappes \"peu probable\".",
+        "La guerre entre l'Iran et les Etats-Unis a été déclenchée le 28 février par une offensive israélo-américaine sur Téhéran."
       ],
-      "publishedAt": "2026-11-09T05:00:00+00:00",
-      "updatedAt": "2026-11-09T05:00:00+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-ces-personnalites-democrates-qui-affutent-leurs-armes-a-deux-ans-de-la-presidentielle-20261109",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a0e5fe09881dfb73af9b66a3fc75d334e051c69fd79045b63ba9bb593ce12104",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0f123cea22f78ae200",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Répondre sans être embarqué dans la guerre de Trump» : ce que les sanctions réclamées à l’égard de l’Iran disent de la position française",
-      "bullets": [
-        "DÉCRYPTAGE - Un mois après les cyberattaques contre les frigos de supermarchés français et dans un contexte de regain de tension avec l’Iran, le quai d’Orsay «ne s’interdit rien» mais marche sur une ligne de crête."
-      ],
-      "publishedAt": "2026-11-10T22:16:19+00:00",
-      "updatedAt": "2026-11-10T22:16:19+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/repondre-sans-etre-embarque-dans-la-guerre-de-trump-ce-que-les-sanctions-reclamees-a-l-egard-de-l-iran-disent-de-la-position-francaise-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-afb8321d94035623b6",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-      "bullets": [
-        "De quoi, peut-être, intéresser Pedro, car cet ingénieur de 35 ans ne peut pas se permettre de louer un appartement pour lui seul.",
-        "Je vis en colocation et je paie 600 euros par mois.",
-        "Et quoi de mieux pour faire passer le message que de paralyser le pays ?\" Un vrai défi pour cette grève générale, la première consacrée à la question du logement."
-      ],
-      "publishedAt": "2026-11-11T11:39:36+00:00",
-      "updatedAt": "2026-11-11T11:39:36+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-11T17:22:22+00:00",
+      "updatedAt": "2026-11-11T17:22:22+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/reportage-quoi-de-mieux-pour-faire-passer-le-message-que-de-paralyser-le-pays-en-espagne-une-greve-generale-pour-denoncer-la-crise-du-logement_8277602.html",
+          "url": "https://www.franceinfo.fr/monde/iran/l-iran-menace-de-frapper-des-bases-americaines-en-europe-si-elles-servent-a-lancer-des-attaques_8278151.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "c34291451274e249e80987cb3d2a41d0babe1486520a1a891969d8903ae777e4",
+      "summaryInput": "d33f5211863c0a7af0278552db16d2c3483d7666a0cfba0db19d799cbd94dc1e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T13:24:34.023904+00:00",
+      "enrichedAt": "2026-11-11T18:03:49.830704+00:00",
       "context": null
+    },
+    {
+      "id": "rss-a63d0ccbfd96834911",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
+      "bullets": [
+        "Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky.",
+        "Mais aucune percée diplomatique n’a été annoncée."
+      ],
+      "publishedAt": "2026-11-11T17:20:33+00:00",
+      "updatedAt": "2026-11-11T17:20:33+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9b216c425bf8a856a16cb33d22cedfc993293a310429159e8606b979e325b495",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8d2c068771c77e0578",
@@ -899,28 +904,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-783900114e957647f2",
+      "id": "rss-d6b5729e2cc91e1f40",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présidentielle 2027 : des hauts fonctionnaires dénoncent un « Etat incapable » et alertent sur l’« urgence de gouverner autrement »",
+      "title": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
       "bullets": [
-        "Dans deux ouvrages parus en octobre, Alexandre Pointier et François Perret posent un regard critique sur le fonctionnement actuel de la puissance publique et esquissent leur vision de l’Etat de demain."
+        "Des cortèges se sont formés un peu partout dans le pays mardi 10 novembre, à l'appel des organisations lycéennes, étudiantes et des syndicats enseignants.",
+        "Suzanne Nijdam, présidente de la FAGEà franceinfoLa question, selon la syndicaliste, est de savoir \"tout ce que peut faire le gouvernement, avec ce qui lui reste comme temps et comme budget.\"Des annonces \"très, très superficielles\"La création de 15 000 places dans l'enseignement supérieur ne convainc pas la FAGE.",
+        "Ce qu'il faut mettre en perspective, c'est combien vont être supprimées, pointe Suzanne Nijdam."
       ],
-      "publishedAt": "2026-11-11T17:00:18+00:00",
-      "updatedAt": "2026-11-11T17:00:18+00:00",
+      "publishedAt": "2026-11-11T10:10:15+00:00",
+      "updatedAt": "2026-11-11T10:10:15+00:00",
       "importance": 73,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-des-hauts-fonctionnaires-denoncent-un-etat-incapable-et-alertent-sur-l-urgence-de-gouverner-autrement_6809007_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ed975e10ba4f98471d8e74c0561570fa609c936a7e372114b99708b1b40d7378",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "cb1bcd847e115ea56483d36b6edc2da793bdbf3ff3c16b42e41c0c031efc7444",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
+      "context": null
     },
     {
       "id": "rss-362b73c39cbd681dc5",
@@ -958,7 +967,7 @@
       ],
       "publishedAt": "2026-11-11T05:40:00+00:00",
       "updatedAt": "2026-11-11T05:40:00+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -997,31 +1006,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6a499e64c1baa36172",
-      "revision": 2,
+      "id": "rss-83f59c1f043f415c64",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Des ennemis de la France\" : le suspect de l'attentat raciste de Trappes avait dressé une liste de personnalités de gauche et d'extrême gauche",
+      "title": "Attentat raciste de Trappes : le suspect avait listé des personnalités de gauche et d'extrême gauche",
       "bullets": [
-        "Au moins \"128 cartouches\" tirées par le suspectPlacé en détention provisoire à l'issue de sa mise en examen, Kevin Tessier, 39 ans, est soupçonné d'avoir tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes, dont plusieurs d'origines africaine ou maghrébine, à Trappes et à La Verrière.",
-        "Parmi les blessés figure une enfant de 11 ans, gravement touchée.",
-        "Relâché après son interpellation, l'homme de 39 ans devait être entendu au commissariat de Levallois-Perret le jour même de l'attentat raciste dans les Yvelines."
+        "Attentat raciste de Trappes : un post-it avec les noms et les numéros de téléphone de quatre personnalités de gauche et d’extrême gauche a été retrouvé au domicile du suspect.",
+        "Les célébrations du 11 novembre dans les écoles font débat",
+        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans"
       ],
-      "publishedAt": "2026-11-11T15:49:11+00:00",
-      "updatedAt": "2026-11-11T15:49:11+00:00",
+      "publishedAt": "2026-11-11T17:53:32+00:00",
+      "updatedAt": "2026-11-11T17:53:32+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-le-suspect-avait-liste-des-personnalites-de-gauche-et-d-extreme-gauche_8278193.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "eb8c16fa0de7907e0eb046bd65d1578a02c443decb5890f2cbaef4c5533eff3f",
+      "summaryInput": "9d2f7b7ffb80eb6bed3cd839d19d63da34b783087b6bd8fcad8ba05deae7d15c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T17:08:26.437598+00:00",
+      "enrichedAt": "2026-11-11T18:03:49.830704+00:00",
       "context": null
     },
     {
@@ -1074,30 +1083,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9b32828d56e6319689",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Pete Hegseth, visé par une procédure de destitution, dénonce une « mise en scène politique »",
-      "bullets": [
-        "Le ministre de la défense américain est accusé d’avoir enfreint la loi en menant la guerre contre l’Iran sans avoir obtenu l’autorisation du Congrès, et ce « au grand préjudice de la cause du droit et de la justice, et au détriment manifeste du peuple des Etats-Unis d’Amérique »."
-      ],
-      "publishedAt": "2026-11-10T15:02:53+00:00",
-      "updatedAt": "2026-11-10T15:02:53+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "18da17b30f2bb636df7176dfd245da9594aa3f1a158af686bb0487ca5225e842",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8d5f6893c84e382dcf",
       "revision": 1,
       "category": "france",
@@ -1126,32 +1111,29 @@
       "context": null
     },
     {
-      "id": "rss-d6b5729e2cc91e1f40",
+      "id": "rss-c3e6b1465ab9d40642",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
+      "topic": "Politique",
+      "title": "Vincent Caure, un macroniste de la première heure à la tête de la commission d’enquête sur le 17 octobre",
       "bullets": [
-        "Des cortèges se sont formés un peu partout dans le pays mardi 10 novembre, à l'appel des organisations lycéennes, étudiantes et des syndicats enseignants.",
-        "Suzanne Nijdam, présidente de la FAGEà franceinfoLa question, selon la syndicaliste, est de savoir \"tout ce que peut faire le gouvernement, avec ce qui lui reste comme temps et comme budget.\"Des annonces \"très, très superficielles\"La création de 15 000 places dans l'enseignement supérieur ne convainc pas la FAGE.",
-        "Ce qu'il faut mettre en perspective, c'est combien vont être supprimées, pointe Suzanne Nijdam."
+        "Proche de Stéphane Séjourné, le député de la circonscription des Français de l’étranger d’Europe du Nord élu en 2024 fait partie de l’aventure macroniste depuis 2016.",
+        "Porté en juillet à la présidence de la commission des lois de l’Assemblée nationale, il devient le plus jeune député de la Vᵉ République…"
       ],
-      "publishedAt": "2026-11-11T10:10:15+00:00",
-      "updatedAt": "2026-11-11T10:10:15+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-11T13:30:02+00:00",
+      "updatedAt": "2026-11-11T13:30:02+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/11/vincent-caure-un-macroniste-de-la-premiere-heure-a-la-tete-de-la-commission-d-enquete-sur-le-17-octobre_6808975_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "cb1bcd847e115ea56483d36b6edc2da793bdbf3ff3c16b42e41c0c031efc7444",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T11:12:14.690548+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0697c7625ead5efc277490cde12d1c977d8ba0c5a136ba0771be10e86ce7c523",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-c5aa11aa80d9f8a9f5",
@@ -1165,7 +1147,7 @@
       ],
       "publishedAt": "2026-11-11T05:30:05+00:00",
       "updatedAt": "2026-11-11T05:30:05+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1176,6 +1158,31 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "270ddf2a73afe12042661d14ff6191c29c05c76378daaab3e3b553b12b9e127e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a609762131ccd94f93",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
+      "bullets": [
+        "Alors que les consultations spécialisées dans les troubles psychiques liés au travail, en Ile-de-France, voient affluer les patients, le gouvernement appelle à une « réforme structurelle » de la prise en charge des arrêts maladie dans le cadre des débats budgétaires.",
+        "A Garches et à Paris, des équipes alertent sur…"
+      ],
+      "publishedAt": "2026-11-11T05:00:21+00:00",
+      "updatedAt": "2026-11-11T05:00:21+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6e13fbfd001b62069d864260a817ed6d27dd78977585e90875a80c7c8be1f35",
       "detailLevel": "preview"
     },
     {
@@ -1382,7 +1389,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1394,7 +1401,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
