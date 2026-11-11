@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T11:12:14.690548+00:00",
+  "preparedAt": "2026-11-11T12:06:32.710773+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -29,6 +29,30 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "b978af4d6adbbba0f69f7b0753ddd5fb22180359c50be423da93e2f265089d6b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5ea87efbe165c299d9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
+      "bullets": [
+        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
+      ],
+      "publishedAt": "2026-11-11T05:00:42+00:00",
+      "updatedAt": "2026-11-11T05:00:42+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
       "detailLevel": "preview"
     },
     {
@@ -116,6 +140,34 @@
       "context": null
     },
     {
+      "id": "rss-d151182c19219734d1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Certaines stations essences \"peuvent être en rupture ponctuelle dans le nord-est de la France\", alerte le PDG de Coopérative U",
+      "bullets": [
+        "\"La situation de l'approvisionnement en carburant se tend dans le quart nord-est de la France\", indique mercredi 11 novembre sur X Dominique Schelcher, le président-directeur général de Coopérative U.",
+        "L'essence consommée dans l'est de la France, en provenance des raffineries du nord de l'Europe, transite en effet par le Rhin.",
+        "Selon les données mises en ligne par le gouvernement, 19% des stations-service du Grand Est subissaient au moins une rupture de distribution sur un carburant mercredi matin à 9h."
+      ],
+      "publishedAt": "2026-11-11T11:39:45+00:00",
+      "updatedAt": "2026-11-11T11:39:45+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "b9ef02a501e5eccf708971a1aee4bc80cab669b9244d895199778f80c6b6b755",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T12:06:32.710773+00:00",
+      "context": null
+    },
+    {
       "id": "rss-f5f40e0f3f94bb38ea",
       "revision": 2,
       "category": "eco",
@@ -197,30 +249,6 @@
       "context": null
     },
     {
-      "id": "rss-3d306580ca5645912e",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
-      "bullets": [
-        "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie."
-      ],
-      "publishedAt": "2026-11-10T11:16:20+00:00",
-      "updatedAt": "2026-11-10T11:16:20+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "78d27406d038f5c5f92ccfefb3e64fdaaabe2af46d42df64853bc97ddfe2d027",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-3d45ea296c0ef53c76",
       "revision": 1,
       "category": "eco",
@@ -242,6 +270,30 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "feadf3fafde7a655db841123d5177c99518cc2ec48ec5976a4cf6e117b7b81fe",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3d306580ca5645912e",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
+      "bullets": [
+        "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie."
+      ],
+      "publishedAt": "2026-11-10T11:16:20+00:00",
+      "updatedAt": "2026-11-10T11:16:20+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "78d27406d038f5c5f92ccfefb3e64fdaaabe2af46d42df64853bc97ddfe2d027",
       "detailLevel": "preview"
     },
     {
@@ -267,59 +319,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "03661375997df272ead21a7c1a01671df933aa5a242a03ff86a38baff2773e27",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8762d68f79512912dd",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"On a remarqué que les jouets ont tendance à augmenter\" : ils arpentent déjà les rayons en quête de bonnes affaires pour Noël",
-      "bullets": [
-        "Pour tenir son budget d'environ 500 euros rien que pour les jouets, la famille doit faire des concessions.",
-        "L'alimentation également visée par les consommateursPour les cadeaux mais aussi la nourriture, la décoration, les Français devraient dépenser en moyenne 478 euros pour Noël, soit huit euros de plus que l'an dernier.",
-        "Noël est un temps fort pour les commerçants, qui réalisent en moyenne 20 à 30% de leur chiffre d'affaires sur cette période."
-      ],
-      "publishedAt": "2026-11-10T15:24:25+00:00",
-      "updatedAt": "2026-11-10T15:24:25+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/on-a-remarque-que-les-jouets-ont-tendance-a-augmenter-ils-arpentent-deja-les-rayons-en-quete-de-bonnes-affaires-pour-noel_8276480.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "fa292e93f7749424ac464cc7743362b86b0039ca5a1132d875577daacca36706",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-64bee91d9adb494347",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le chômage des jeunes, point noir du marché de l’emploi en France",
-      "bullets": [
-        "DÉCRYPTAGE - La situation des 15-24 ans s’est dégradée depuis un an.",
-        "Dans certains secteurs, l’arrivée de l’intelligence artificielle a un impact certain."
-      ],
-      "publishedAt": "2026-11-10T18:20:38+00:00",
-      "updatedAt": "2026-11-10T18:20:38+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/le-chomage-des-jeunes-point-noir-du-marche-de-l-emploi-en-france-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e23b98c4a4884e261b598ac8f752bb84a881fb61a1320a2f2701855b66bbcd9e",
       "detailLevel": "preview"
     },
     {
@@ -385,8 +384,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T11:09:40+00:00",
-      "updatedAt": "2026-11-11T11:09:40+00:00",
+      "publishedAt": "2026-11-11T12:02:36+00:00",
+      "updatedAt": "2026-11-11T12:02:36+00:00",
       "importance": 69,
       "sources": [
         {
@@ -427,8 +426,36 @@
       "provenance": "article-extract",
       "summaryInput": "e91d0d1a5f9f371636e13337379710ad7f058de015572e0ef71a90ee80fcf436",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T23:46:59.961347+00:00",
+      "enrichedAt": "2026-11-11T12:06:32.710773+00:00",
       "context": null
+    },
+    {
+      "id": "rss-a9f637675acacb69dd",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Épicentre du séisme qui secoue l'IA en Bourse, le neocloud Coreweave rassure, prend 10% à Wall Street, et entraîne avec lui Soitec (+9%), STMicro (+4%) et Schneider Electric(+2,4%)",
+      "bullets": [
+        "À la Bourse de Paris, les spécialistes des équipements électriques Schneider Electric et Legrand, dont la croissance a été portée par leurs produits à destination des data centers (armoires racks, systèmes de refroidissements, onduleurs…), gagnent respectivement 2,3% et 1,44%.",
+        "De juillet à fin septembre, Coreweave a dégagé 3,66 milliards de dollars de revenus, un chiffre quasiment triplé par rapport à la même période de 2025.",
+        "La perte nette par action s'est cependant inscrite à 1,27 dollar contre 0,22 dollar sur la même période de 2025."
+      ],
+      "publishedAt": "2026-11-11T11:13:18+00:00",
+      "updatedAt": "2026-11-11T11:13:18+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/epicentre-du-seisme-qui-secoue-l-ia-en-bourse-le-neocloud-coreweave-rassure-prend-10-a-wall-street-et-entraine-avec-lui-soitec-9-stmicro-4-et-schneider-electric24-1173583.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T12:06:32.710773+00:00",
+      "context": "Résultats du troisième trimestre"
     },
     {
       "id": "rss-fadfe65f28eb7794b4",
@@ -537,30 +564,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
       "context": null
-    },
-    {
-      "id": "rss-5ea87efbe165c299d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-      "bullets": [
-        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
-      ],
-      "publishedAt": "2026-11-11T05:00:42+00:00",
-      "updatedAt": "2026-11-11T05:00:42+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-38ab9dc9b28c6da9ac",
@@ -690,12 +693,12 @@
     },
     {
       "id": "rss-8b067d599ab65feb1d",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
-      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Emmanuel Macron",
+      "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
       "bullets": [
-        "A l’occasion d’une assemblée parlementaire franco-allemande lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
+        "A l’occasion d’une assemblée parlementaire, lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
       ],
       "publishedAt": "2026-11-11T06:00:07+00:00",
       "updatedAt": "2026-11-11T06:00:07+00:00",
@@ -709,7 +712,7 @@
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "e00624e6d3d69e959cb92067c12980d2404d4861ec3152e8a8f2545fb49afc4f",
+      "summaryInput": "dc187288f8bb1aa3179146ec847962540e6acc2882266a898ea1d2842364a450",
       "detailLevel": "preview"
     },
     {
@@ -839,6 +842,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T07:29:51.571433+00:00",
       "context": null
+    },
+    {
+      "id": "rss-265389fac44bf44c2e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
+      "bullets": [
+        "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
+        "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
+      ],
+      "publishedAt": "2026-11-11T04:30:08+00:00",
+      "updatedAt": "2026-11-11T04:30:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "eed75cfa812a2945f6842eab7fca7e7d58fa1927c360dc4f7c183382ee31cd3f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8d2c068771c77e0578",
@@ -1283,7 +1311,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1361,7 +1389,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
