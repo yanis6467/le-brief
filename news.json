@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T05:12:40.803945+00:00",
+  "preparedAt": "2026-11-11T06:12:45.851820+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -124,7 +124,7 @@
       ],
       "publishedAt": "2026-11-10T18:10:52+00:00",
       "updatedAt": "2026-11-10T18:10:52+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -179,7 +179,7 @@
       ],
       "publishedAt": "2026-11-10T17:51:04+00:00",
       "updatedAt": "2026-11-10T17:51:04+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -345,7 +345,7 @@
       "provenance": "article-extract",
       "summaryInput": "6d1dfb7314d8b1bcef7ae0d4098e8d7ec657e13f2da03ada275197b383561828",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T17:56:41.014762+00:00",
+      "enrichedAt": "2026-11-11T06:12:45.851820+00:00",
       "context": null
     },
     {
@@ -411,8 +411,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T05:09:05+00:00",
-      "updatedAt": "2026-11-11T05:09:05+00:00",
+      "publishedAt": "2026-11-11T06:08:27+00:00",
+      "updatedAt": "2026-11-11T06:08:27+00:00",
       "importance": 69,
       "sources": [
         {
@@ -497,7 +497,7 @@
       ],
       "publishedAt": "2026-11-10T17:55:25+00:00",
       "updatedAt": "2026-11-10T17:55:25+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -525,7 +525,7 @@
       ],
       "publishedAt": "2026-11-10T17:16:25+00:00",
       "updatedAt": "2026-11-10T17:16:25+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -614,6 +614,30 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8b067d599ab65feb1d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Macron",
+      "bullets": [
+        "A l’occasion d’une assemblée parlementaire franco-allemande, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
+      ],
+      "publishedAt": "2026-11-11T06:00:09+00:00",
+      "updatedAt": "2026-11-11T06:00:09+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "df0c31ac54ce6e2cc2cde3aaa51054044bf0b01c291df186827a773e7ac4debf",
       "detailLevel": "preview"
     },
     {
@@ -738,30 +762,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f325f34da40cc5fda4",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La tempête Charles arrive au Portugal, placé en alerte mercredi par crainte de « phénomènes météorologiques extrêmes »",
-      "bullets": [
-        "Les autorités portugaises ont placé la partie sud du pays, dont Lisbonne, en alerte rouge mardi soir. « Ne sous-estimez pas la dangerosité et les risques associés » a averti le premier ministre, Luis Montenegro, alors que des inondations pourraient avoir lieu."
-      ],
-      "publishedAt": "2026-11-10T21:46:31+00:00",
-      "updatedAt": "2026-11-10T21:46:31+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/la-tempete-charles-arrive-au-portugal-place-en-alerte-mercredi-par-crainte-de-phenomenes-meteorologiques-extremes_6808908_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "97dee6c162fea09d885bf248f3bf68d4d68bf8b5388459d3d27d938cba1cc4b8",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-997be612442c574b6d",
       "revision": 1,
       "category": "world",
@@ -787,16 +787,16 @@
     },
     {
       "id": "rss-265389fac44bf44c2e",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : à Abu Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
+      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
       "bullets": [
         "A l’issue de la rencontre, mardi 10 novembre, le président Zelensky a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette.",
         "Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
       ],
-      "publishedAt": "2026-11-11T04:30:13+00:00",
-      "updatedAt": "2026-11-11T04:30:13+00:00",
+      "publishedAt": "2026-11-11T04:30:08+00:00",
+      "updatedAt": "2026-11-11T04:30:08+00:00",
       "importance": 67,
       "sources": [
         {
@@ -807,7 +807,7 @@
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "74444cf70efa93a887c6fc1b251acb4e336902a92fbfb216b6dabc6bd93819dd",
+      "summaryInput": "13d4e4349647203674bc2a584b624b57421d3641b93ac2d9cb6cce3e3374df22",
       "detailLevel": "preview"
     },
     {
@@ -860,28 +860,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a609762131ccd94f93",
+      "id": "rss-c5aa11aa80d9f8a9f5",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
+      "title": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
       "bullets": [
-        "Alors que les consultations spécialisées dans les troubles psychiques liés au travail, en Ile-de-France, voient affluer les patients, le gouvernement appelle à une « réforme structurelle » de la prise en charge des arrêts maladie dans le cadre des débats budgétaires.",
-        "A Garches et à Paris, des équipes alertent sur…"
+        "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts.",
+        "Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se retrouvent sans…"
       ],
-      "publishedAt": "2026-11-11T05:00:21+00:00",
-      "updatedAt": "2026-11-11T05:00:21+00:00",
+      "publishedAt": "2026-11-11T05:30:05+00:00",
+      "updatedAt": "2026-11-11T05:30:05+00:00",
       "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "c6e13fbfd001b62069d864260a817ed6d27dd78977585e90875a80c7c8be1f35",
+      "summaryInput": "270ddf2a73afe12042661d14ff6191c29c05c76378daaab3e3b553b12b9e127e",
       "detailLevel": "preview"
     },
     {
@@ -909,32 +909,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48106dbecbca782d0e",
+      "id": "rss-79858b93cc91f6f7da",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
+      "title": "Bâti scolaire : le plan incertain du gouvernement pour rénover les lycées, sur fond de dégradations croissantes",
       "bullets": [
-        "La CLCV (Consommation, logement et cadre de vie) annonce mardi 10 novembre, dans un communiqué, avoir saisi l'Anses pour connaître les effets des gaz lacrymogènes sur la santé et l'environnement.",
-        "Ces dernières semaines, les témoignages de personnes inquiètes, exposées aux gaz lacrymogènes lors des manifestations lycéennes, étudiantes ou contre la vie chère, notamment de personnes menstruées ou enceintes, se sont multipliés.",
-        "Des douleurs inhabituellesEn octobre, le collectif Lacrymos de sang a recueilli plus de 10 000 témoignages de personnes menstruées faisant état d'effets sur leur cycle après une exposition aux gaz lacrymogènes."
+        "DÉCRYPTAGE - Alors que les présidents de région s’interrogent sur la liste des « 200 établissements prioritaires » publiée par l’exécutif, les violences montent d’un cran.",
+        "En témoignent la centaine de tirs de mortiers, dont la moitié à l’intérieur des lycées, depuis la rentrée."
       ],
-      "publishedAt": "2026-11-10T09:31:25+00:00",
-      "updatedAt": "2026-11-10T09:31:25+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-11T05:40:00+00:00",
+      "updatedAt": "2026-11-11T05:40:00+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/bati-scolaire-le-plan-incertain-du-gouvernement-pour-renover-les-lycees-sur-fond-de-degradations-croissantes-20261111",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "8115c0b2dde9a98f13653c9e270848504e38995f3dd2bf8b0fd75df8ebc0a0f1",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ad1b5856f59e776778",
@@ -1001,7 +998,7 @@
       ],
       "publishedAt": "2026-11-09T17:42:34+00:00",
       "updatedAt": "2026-11-09T17:42:34+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1119,6 +1116,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a609762131ccd94f93",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
+      "bullets": [
+        "Alors que les consultations spécialisées dans les troubles psychiques liés au travail, en Ile-de-France, voient affluer les patients, le gouvernement appelle à une « réforme structurelle » de la prise en charge des arrêts maladie dans le cadre des débats budgétaires.",
+        "A Garches et à Paris, des équipes alertent sur…"
+      ],
+      "publishedAt": "2026-11-11T05:00:21+00:00",
+      "updatedAt": "2026-11-11T05:00:21+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6e13fbfd001b62069d864260a817ed6d27dd78977585e90875a80c7c8be1f35",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b227804c9f9aaf062f",
       "revision": 1,
       "category": "france",
@@ -1168,31 +1190,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de57ad6a23ab8b3aae",
+      "id": "rss-48106dbecbca782d0e",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "topic": "Santé",
+      "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
       "bullets": [
-        "Deux mois après le début de la mobilisation lycéenne, certains professeurs n'ont pas hésité à rejoindre le mouvement insufflé par leurs élèves.",
-        "Tout comme les lycéens, les professeurs demandent un plan d'investissement pour le bâti scolaire, le recrutement de personnel éducatif ou encore la création de places dans l'enseignement supérieur.",
-        "Le point d'indice, sur lequel est calculé le salaire des agents de la fonction publique, n'a pas évolué depuis 2023."
+        "La CLCV (Consommation, logement et cadre de vie) annonce mardi 10 novembre, dans un communiqué, avoir saisi l'Anses pour connaître les effets des gaz lacrymogènes sur la santé et l'environnement.",
+        "Ces dernières semaines, les témoignages de personnes inquiètes, exposées aux gaz lacrymogènes lors des manifestations lycéennes, étudiantes ou contre la vie chère, notamment de personnes menstruées ou enceintes, se sont multipliés.",
+        "Des douleurs inhabituellesEn octobre, le collectif Lacrymos de sang a recueilli plus de 10 000 témoignages de personnes menstruées faisant état d'effets sur leur cycle après une exposition aux gaz lacrymogènes."
       ],
-      "publishedAt": "2026-11-10T18:15:54+00:00",
-      "updatedAt": "2026-11-10T18:15:54+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-10T09:31:25+00:00",
+      "updatedAt": "2026-11-10T09:31:25+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html",
+          "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "65efa6e0ed9707a4adf294390d78528892a256a8ea1438bfd5df695c787e30ef",
+      "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T19:08:42.002744+00:00",
+      "enrichedAt": "2026-11-10T22:54:04.720861+00:00",
       "context": null
     },
     {
@@ -1221,31 +1243,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-10T20:57:07.350714+00:00",
       "context": null
-    },
-    {
-      "id": "rss-45998be9cb9607af0f",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
-      "bullets": [
-        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
-        "Ils exigent un sursaut d’autorité."
-      ],
-      "publishedAt": "2026-11-10T12:50:25+00:00",
-      "updatedAt": "2026-11-10T12:50:25+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1259,7 +1256,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1283,7 +1280,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1325,7 +1322,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
