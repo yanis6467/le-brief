@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-11",
-  "preparedAt": "2026-11-11T09:08:06.395283+00:00",
+  "preparedAt": "2026-11-11T10:12:02.803517+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -29,30 +29,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "b978af4d6adbbba0f69f7b0753ddd5fb22180359c50be423da93e2f265089d6b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5ea87efbe165c299d9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-      "bullets": [
-        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
-      ],
-      "publishedAt": "2026-11-11T05:00:42+00:00",
-      "updatedAt": "2026-11-11T05:00:42+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
       "detailLevel": "preview"
     },
     {
@@ -253,8 +229,8 @@
       "bullets": [
         "Supprimer toute régulation à l’entrée de l’université revient à fabriquer des générations de jeunes sans emploi, explique le président du conseil d’orientation des politiques de jeunesse, Hugo Huet, dans une tribune au « Monde »."
       ],
-      "publishedAt": "2026-11-11T04:00:03+00:00",
-      "updatedAt": "2026-11-11T04:00:03+00:00",
+      "publishedAt": "2026-11-11T04:00:02+00:00",
+      "updatedAt": "2026-11-11T04:00:02+00:00",
       "importance": 65,
       "sources": [
         {
@@ -322,6 +298,31 @@
       "context": null
     },
     {
+      "id": "rss-64bee91d9adb494347",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le chômage des jeunes, point noir du marché de l’emploi en France",
+      "bullets": [
+        "DÉCRYPTAGE - La situation des 15-24 ans s’est dégradée depuis un an.",
+        "Dans certains secteurs, l’arrivée de l’intelligence artificielle a un impact certain."
+      ],
+      "publishedAt": "2026-11-10T18:20:38+00:00",
+      "updatedAt": "2026-11-10T18:20:38+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/le-chomage-des-jeunes-point-noir-du-marche-de-l-emploi-en-france-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e23b98c4a4884e261b598ac8f752bb84a881fb61a1320a2f2701855b66bbcd9e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dcf691ae13f47aa61d",
       "revision": 1,
       "category": "markets",
@@ -384,9 +385,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-11T09:08:07+00:00",
-      "updatedAt": "2026-11-11T09:08:07+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-11T10:04:59+00:00",
+      "updatedAt": "2026-11-11T10:04:59+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -398,7 +399,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-10T21:52:43.836771+00:00",
+      "enrichedAt": "2026-11-11T10:12:02.803517+00:00",
       "context": null
     },
     {
@@ -538,28 +539,56 @@
       "context": null
     },
     {
-      "id": "rss-6d3cf211aea9f6ed84",
-      "revision": 3,
+      "id": "rss-5ea87efbe165c299d9",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La justice américaine inculpe trois « agents iraniens » après l’incident près d’une base aérienne anglaise",
+      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
       "bullets": [
-        "Le 27 septembre, la police britannique était intervenue près de la base de Fairford, dans le sud-ouest de l’Angleterre, utilisée par les Etats-Unis pour mener des attaques contre l’Iran, après le signalement aux services d’urgence de « trois véhicules suspects »."
+        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
       ],
-      "publishedAt": "2026-11-10T23:33:21+00:00",
-      "updatedAt": "2026-11-10T23:33:21+00:00",
-      "importance": 87,
+      "publishedAt": "2026-11-11T05:00:42+00:00",
+      "updatedAt": "2026-11-11T05:00:42+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/la-justice-americaine-inculpe-trois-agents-iraniens-apres-l-incident-pres-d-une-base-aerienne-anglaise_6808911_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
-      "summaryInput": "60bef9af327b7f0ba042f9b06a7a39e335a760813fe1cf6f136f92f0fdf61304",
+      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-38ab9dc9b28c6da9ac",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : \"Vladimir Poutine sait qu'il a le temps pour lui\", analyse David Rigoulet-Roze, chercheur à l'Institut français d'analyse stratégique",
+      "bullets": [
+        "Rendez-vous compte : en 2026, les Russes n'ont pris que 119 kilomètres.",
+        "Vous parliez de temporalité, mais il s'agit aussi du coût humain.",
+        "Ce sont des données fiables et certifiées, qui donnent une idée de l'ampleur des pertes."
+      ],
+      "publishedAt": "2026-11-11T10:03:35+00:00",
+      "updatedAt": "2026-11-11T10:03:35+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-sait-qu-il-a-le-temps-pour-lui-analyse-david-rigoulet-roze-chercheur-a-l-institut-francais-d-analyse-strategique_8277584.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "article-extract",
+      "summaryInput": "759b46179e025a21d73b7b699dfe248b5c79a45617deaf648b2ba2cfc2fe3dcb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-11T10:12:02.803517+00:00",
+      "context": null
     },
     {
       "id": "rss-5c251f1f687370042a",
@@ -587,30 +616,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-87329c10848b4f5404",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
-      "bullets": [
-        "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué, dans un avant-goût de la bataille qu’entend lui livrer la future majorité démocrate."
-      ],
-      "publishedAt": "2026-11-11T00:28:18+00:00",
-      "updatedAt": "2026-11-11T00:28:18+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3c5c5050d543a97aeb64d909487c204a8fa045e5ca686332cc1ddecb53638fcc",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-dcb91b788eaefba006",
       "revision": 1,
       "category": "world",
@@ -635,6 +640,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b8560c536275e8d9fe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le premier ministre du Kosovo, Albin Kurti, veut « une accession à l’UE fondée sur le mérite, et non pas par une porte dérobée »",
+      "bullets": [
+        "Rencontré à Paris lors de son passage dans la capitale pour voir Emmanuel Macron, le dirigeant kosovar défend une intégration européenne reposant sur les réformes entreprises.",
+        "Il appelle aussi la France à soutenir les projets d’infrastructures et d’énergie du pays, pour améliorer sa résilience dans un contexte géopolitique incertain."
+      ],
+      "publishedAt": "2026-11-11T10:00:07+00:00",
+      "updatedAt": "2026-11-11T10:00:07+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/le-premier-ministre-du-kosovo-albin-kurti-veut-une-accession-a-l-ue-fondee-sur-le-merite-et-non-pas-par-une-porte-derobee_6808952_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-11",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6573a856b2f135ac1dd6fafece7c473e2405e85fa3c6775a8beb43f35301243f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8b067d599ab65feb1d",
       "revision": 2,
       "category": "world",
@@ -656,31 +686,6 @@
       "verifiedAt": "2026-11-11",
       "provenance": "rss-excerpt",
       "summaryInput": "e00624e6d3d69e959cb92067c12980d2404d4861ec3152e8a8f2545fb49afc4f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cd8059358ea8f7b019",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d’un champ de ruines »",
-      "bullets": [
-        "Les élections de mi-mandat ont été l’occasion, pour le Parti démocrate, d’un exercice de droit d’inventaire sur le bilan diplomatique de Joe Biden.",
-        "Et si l’un des principaux clivages internes à ce camp, concernant Israël, a été éliminé, des dissensions sont en revanche à attendre sur la relation avec la…"
-      ],
-      "publishedAt": "2026-11-11T05:00:29+00:00",
-      "updatedAt": "2026-11-11T05:00:29+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/aux-etats-unis-les-democrates-ont-deux-ans-pour-redessiner-une-politique-etrangere-a-partir-d-un-champ-de-ruines_6808933_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-11",
-      "provenance": "rss-excerpt",
-      "summaryInput": "aaa3fd5ec504e9759d79418c2e244edef0f6466405f31bfccca0ab5ab4a6ee40",
       "detailLevel": "preview"
     },
     {
@@ -718,7 +723,7 @@
       ],
       "publishedAt": "2026-11-09T09:08:34+00:00",
       "updatedAt": "2026-11-09T09:08:34+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -961,31 +966,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1f99992d45969efd08",
-      "revision": 2,
+      "id": "rss-78649fed1a216f0edb",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Un citoyen chinois mécontent détruit un bâtiment administratif à la pelleteuse",
+      "title": "\"Les mots tuent, on vit dans une atmosphère qui prépare ce type d'actes\", déplore l'écrivaine Leïla Slimani à propos de l'attentat raciste à Trappes",
       "bullets": [
-        "En Chine, un homme s’est attaqué à un bâtiment administratif à coups de pelleteuse.",
-        "Des vidéos publiées en ligne lundi le montrent endommageant une partie de la façade, dans la nouvelle ville de Fengdong, au Shaanxi.",
-        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans"
+        "\"Les mots tuent, les mots arment ceux qui ont envie ensuite de s'en prendre physiquement à des personnes\", estime mercredi 11 novembre sur France Culture l'écrivaine Leïla Slimani, après l'attentat raciste dans les Yvelines qui a fait un mort fin octobre.",
+        "Pour celle qui a décroché le prix Goncourt en 2016 pour Chanson douce, \"il faut être extrêmement vigilant sur la manière dont on parle\".",
+        "Par \"nous\", Leïla Slimani entend \"ceux que les politiques et les médias désignent depuis 10, 20 ou 30 ans comme issus de l'immigration, ceux qu'on désigne comme des minorités visibles\"."
       ],
-      "publishedAt": "2026-11-10T12:51:21+00:00",
-      "updatedAt": "2026-11-10T12:51:21+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-11T09:06:19+00:00",
+      "updatedAt": "2026-11-11T09:06:19+00:00",
+      "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/un-citoyen-chinois-mecontent-detruit-un-batiment-administratif-a-la-pelleteuse_8276312.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/les-mots-tuent-on-vit-dans-une-atmosphere-qui-prepare-ce-type-d-actes-deplore-l-ecrivaine-leila-slimani-a-propos-de-l-attentat-raciste-a-trappes_8277524.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-11",
       "provenance": "article-extract",
-      "summaryInput": "ef7afff12a93c4724fd4ccf2bcb27204c1b28899432e21de84f7813da5d6b24d",
+      "summaryInput": "471227aef0b6668b0abe9f86b7e619fa7384a59a71d1d729ba52aeac9477f260",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T01:19:15.419937+00:00",
+      "enrichedAt": "2026-11-11T10:12:02.803517+00:00",
       "context": null
     },
     {
@@ -1200,7 +1205,7 @@
       ],
       "publishedAt": "2026-11-10T09:31:25+00:00",
       "updatedAt": "2026-11-10T09:31:25+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1216,31 +1221,29 @@
       "context": null
     },
     {
-      "id": "rss-8d1d468f76337209b1",
+      "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik",
+      "topic": "France",
+      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
       "bullets": [
-        "Ce Polonais de 24 ans s'intéressait au néonazi Anders Behring Breivik, a déclaré le ministre de la Justice polonais, mardi 10 novembre, estimant que plusieurs éléments recueillis par les enquêteurs renforçaient l'hypothèse d'une radicalisation d'extrême droite.\"Les services ont accès à l'ordinateur du terroriste.",
-        "L'équipée meurtrière de Michal Oksinski a coûté la vie à un total de neuf personnes, selon le bilan établi après la découverte des corps de ses parents et de sa sœur, retrouvés avec des plaies par balles à leur domicile à deux heures de route du lieu de la fusillade à Cracovie."
+        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
+        "Ils exigent un sursaut d’autorité."
       ],
-      "publishedAt": "2026-11-10T15:54:34+00:00",
-      "updatedAt": "2026-11-10T15:54:34+00:00",
+      "publishedAt": "2026-11-10T12:50:25+00:00",
+      "updatedAt": "2026-11-10T12:50:25+00:00",
       "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-11",
-      "provenance": "article-extract",
-      "summaryInput": "8ac9062de8a3b1c27a7e5705d233b6bf80e8168f79e9319984463f008b371456",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T09:08:06.395283+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1266,7 +1269,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1290,7 +1293,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
@@ -1356,7 +1359,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
