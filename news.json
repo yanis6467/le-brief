@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T07:42:44.025558+00:00",
+  "preparedAt": "2026-11-12T09:14:29.186145+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -110,6 +110,30 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "c4c01c14a0dc32cb88edf582f25e81f3c0b7b8aa9236304c74f7f79728f92b6a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-390e01faec55b22d3c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Allemagne, l’économie va mieux qu’en France, mais l’envolée de la dette fait craindre une « crise budgétaire » d’envergure",
+      "bullets": [
+        "Remis jeudi au chancelier, Friedrich Merz, le rapport annuel du Conseil allemand des experts économiques confirme la reprise de l’activité, mais alerte sur la hausse des dépenses publiques, notamment dans le secteur de la défense."
+      ],
+      "publishedAt": "2026-11-12T08:00:09+00:00",
+      "updatedAt": "2026-11-12T08:00:09+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/en-allemagne-l-economie-va-mieux-qu-en-france-mais-l-envolee-de-la-dette-fait-craindre-une-crise-budgetaire-d-envergure_6809071_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b88f9e722f94b1e385299cd1b057256c287623961a5acef1976d15ec995e4575",
       "detailLevel": "preview"
     },
     {
@@ -245,6 +269,34 @@
       "context": null
     },
     {
+      "id": "rss-126080c1871025d15f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le gouvernement va annoncer un nouveau plan de relance de l'agriculture, après un été caniculaire",
+      "bullets": [
+        "Après la sécheresse historique de l'été 2026, le gouvernement veut relancer la production agricole.",
+        "Le Premier ministre annoncera jeudi 12 novembre les contours du plan de relance de l'agriculture.",
+        "Le chef du gouvernement a évoqué 700 millions d'euros dans le projet de budget pour l'an prochain, afin d'adapter notamment les poulaillers et éviter la mort comme cet été de millions de volailles, étouffées par la chaleur."
+      ],
+      "publishedAt": "2026-11-12T08:04:23+00:00",
+      "updatedAt": "2026-11-12T08:04:23+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-gouvernement-va-annoncer-un-nouveau-plan-de-relance-de-l-agriculture-apres-un-ete-caniculaire_8278871.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "537cad2e01faddd53a31fe81eeee6b559418ed6911a05edf5599cb6e389546da",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
+      "context": null
+    },
+    {
       "id": "rss-98ed5a0fb99e0b4b77",
       "revision": 1,
       "category": "eco",
@@ -266,54 +318,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "b0d1d0a2364288edce524296be2b50372ecd8c3516cfd4c1d551b056502df7f7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-815d2295f30b151a28",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La question des morts au travail peine à émerger dans les débats politiques",
-      "bullets": [
-        "La France connaît une augmentation continue des accidents mortels au travail. Depuis 2022, le problème n’a été traité que de manière partielle par le gouvernement. A cinq mois de l’élection présidentielle, la sécurité dans l’espace professionnel n’apparaît investie que par la gauche."
-      ],
-      "publishedAt": "2026-11-12T04:00:13+00:00",
-      "updatedAt": "2026-11-12T04:00:13+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/la-question-des-morts-au-travail-peine-a-emerger-dans-les-debats-politiques_6809045_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e7356d82213a72ee2d2ee414c4c191a0bb62afe74ceb8e4be0c46d828c0f4c94",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5756424537c61dd31c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le gouvernement mobilisé pour limiter l’attrait de la cigarette électronique auprès des jeunes",
-      "bullets": [
-        "Les cigarettes électroniques jetables ont été interdites et le gouvernement s’est prononcé pour un paquet neutre."
-      ],
-      "publishedAt": "2026-11-11T16:33:36+00:00",
-      "updatedAt": "2026-11-11T16:33:36+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/le-gouvernement-mobilise-pour-limiter-l-attrait-de-la-cigarette-electronique-aupres-des-jeunes-20261111",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0bc340c500e39f76c6ff0396f517673f5d0de8ad382bd78f7e71882af962087b",
       "detailLevel": "preview"
     },
     {
@@ -355,8 +359,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T07:38:21+00:00",
-      "updatedAt": "2026-11-12T07:38:21+00:00",
+      "publishedAt": "2026-11-12T09:12:16+00:00",
+      "updatedAt": "2026-11-12T09:12:16+00:00",
       "importance": 69,
       "sources": [
         {
@@ -401,32 +405,28 @@
       "context": null
     },
     {
-      "id": "rss-096131547419ea8241",
+      "id": "rss-1ae2daf4c9adf340e2",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : IA d'la joie !",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.40%",
       "bullets": [
-        "Le CAC40 a terminé la séance dans le vert, gagnant 0,66% à 8 332 points mercredi, l'appétit pour le risque étant alimenté par les comptes du neocloud Coreweave, qui ont rassuré au point de rassurer sur l'écosystème IA en Bourse de part et d'autre de l'Atlantique.",
-        "A Paris, les principaux dossiers estampillés IA étaient particulièrement recherchés, à l'image de Legrand (+2,21%), Schneder Electric (+3,04%), OVH (+3,26%), STMicro (+5,16%) et Soitec (+11,93%).",
-        "Aux États-Unis, les prix à la consommation ont augmenté de 0,4% sur un mois."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-040-1173624.html"
       ],
-      "publishedAt": "2026-11-12T07:30:13+00:00",
-      "updatedAt": "2026-11-12T07:30:13+00:00",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "updatedAt": "2026-11-12T08:00:00+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-ia-d-la-joie-1173614.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-040-1173624.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "291f269f95633ec714d74bd7d6c00ae0a033de386f12aa18dabe97417a79ccb9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T07:42:44.025558+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "e8a89860a12ba696bac74579e6717f4efadb3bc80dedc967847e26f9ad15ecf5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-a9f637675acacb69dd",
@@ -509,7 +509,7 @@
       "provenance": "article-extract",
       "summaryInput": "1e52b712b0751a2b1a385e5cc3a47a0e698a8f18c252dc602bb12a80acf25cdc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T20:11:09.961760+00:00",
+      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
     },
     {
@@ -537,33 +537,8 @@
       "provenance": "article-extract",
       "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T20:11:09.961760+00:00",
+      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
-    },
-    {
-      "id": "rss-4d1201794bf0707c97",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Israël : Gadi Eisenkot appelle Benyamin Nétanyahou à faire « preuve de retenue et de prudence » quant à de possibles nouvelles attaques en Iran",
-      "bullets": [
-        "Chargé de former un nouveau gouvernement, le chef de l’opposition israélienne a demandé au premier ministre sortant, qui est toujours chargé des affaires courantes, de « faire preuve de responsabilité nationale », alors que M.",
-        "Nétanyahou évoquait mardi la « menace nucléaire » de l’Iran."
-      ],
-      "publishedAt": "2026-11-11T19:21:03+00:00",
-      "updatedAt": "2026-11-11T19:21:03+00:00",
-      "importance": 96,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1e289163d800f506392f8fc814db59e43c4072e41e4f1649597d92b9bb6e1589",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-db6309f556eb449df7",
@@ -603,7 +578,7 @@
       ],
       "publishedAt": "2026-11-11T21:07:53+00:00",
       "updatedAt": "2026-11-11T21:07:53+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -752,7 +727,7 @@
       ],
       "publishedAt": "2026-11-10T20:15:00+00:00",
       "updatedAt": "2026-11-10T20:15:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -788,6 +763,31 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "a5dedef7f375c2f56fce59ed99f5a80b1e93ec3f9c1939ce1ffd99ba97ddbd26",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-91bf2b9787f614da03",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Pologne, les nationalistes défilent en nombre quatre jours après l’attentat de Cracovie",
+      "bullets": [
+        "Malgré la fusillade mortelle du 7 novembre, à Cracovie, 250 000 personnes ont défilé à Varsovie, mercredi 11 novembre, pour la marche de l’indépendance, un rassemblement plébiscité par l’extrême droite polonaise.",
+        "La querelle autour du Tribunal constitutionnel a mobilisé les manifestants et les leaders de la droite polonaise."
+      ],
+      "publishedAt": "2026-11-12T08:30:04+00:00",
+      "updatedAt": "2026-11-12T08:30:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/en-pologne-les-nationalistes-defilent-en-nombre-quatre-jours-apres-l-attentat-de-cracovie_6809074_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "617b2abea13c1782d81cdbf761ec21f159bbe96ebf111335bc6b64ed37c74902",
       "detailLevel": "preview"
     },
     {
@@ -963,31 +963,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7c9d9b3db11b5b15f7",
+      "id": "rss-205487e43fa5fdba9d",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Plusieurs personnalités politiques réagissent après avoir été visées par le principal suspect de l'attentat raciste de Trappes",
+      "title": "Sandrine Rousseau, Assa Traoré...qui était sur la liste de Kevin Tessier ?",
       "bullets": [
-        "Le racisme doit être interdit et condamné fermement en France.",
-        "Par ailleurs, dans un communiqué posté dans la nuit de mercredi à jeudi sur son compte Instagram, Assa Traoré écrit \"avoir décidé de porter plainte\".",
-        "Le suspect a assuré lors de sa garde à vue que cela \"pouvait servir un jour\" et expliqué n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France.\""
+        "Sandrine Rousseau, Assa Traoré, Aymeric Caron et David Guiraud...",
+        "Les célébrations du 11 novembre dans les écoles font débat",
+        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans"
       ],
-      "publishedAt": "2026-11-12T07:38:12+00:00",
-      "updatedAt": "2026-11-12T07:38:12+00:00",
+      "publishedAt": "2026-11-12T08:42:49+00:00",
+      "updatedAt": "2026-11-12T08:42:49+00:00",
       "importance": 55,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/plusieurs-personnalites-politiques-reagissent-apres-avoir-ete-visees-par-le-principal-suspect-de-l-attentat-raciste-de-trappes_8278679.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/sandrine-rousseau-assa-traore-qui-etait-sur-la-liste-de-kevin-tessier_8278934.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "f40a9e81ffac386ec25aecc4119fa6c3ad40e2aef2d52b38d398ba524ffa37c1",
+      "summaryInput": "d2259ccf75cb7a51635e6c59b5bc13eb75561f3ec7496aa27654b28f5e2c2ce2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T06:17:09.469035+00:00",
+      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
     },
     {
@@ -1088,31 +1088,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c5aa11aa80d9f8a9f5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
-      "bullets": [
-        "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts.",
-        "Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se retrouvent sans…"
-      ],
-      "publishedAt": "2026-11-11T05:30:05+00:00",
-      "updatedAt": "2026-11-11T05:30:05+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "270ddf2a73afe12042661d14ff6191c29c05c76378daaab3e3b553b12b9e127e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-90df1864a41fc17ef6",
       "revision": 1,
       "category": "france",
@@ -1160,6 +1135,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "99a30e2a1579870042773c5c3741239fa82338af3aabb4a0436a74a3bbbac042",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-89f6e5d2f7423832e3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs",
+      "bullets": [
+        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
+      ],
+      "publishedAt": "2026-11-12T04:00:10+00:00",
+      "updatedAt": "2026-11-12T04:00:10+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ceaf632e637d24117d38abd45d6d1cd14971bc4f0f1334f400d490597f8ef8c9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9f998c302c4380141a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "L'Alliance mondiale pour les vaccins alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres",
+      "bullets": [
+        "Gavi, l'Alliance mondiale pour les vaccins, alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres, rapporte mercredi 11 novembre France Inter.",
+        "\"Ce qui s'est traduit par une décision de notre conseil d'administration de réduire la couverture vaccinale, notamment sur le vaccin contre le paludisme, une couverture cible qui était à l'origine à 85% a dû être ramenée à 70%\", explique Pascal Barollier, directeur général de l'engagement public de l'alliance Gavi.",
+        "Mais pour atteindre cette ambition, il manque des fonds, près d'1,5 milliard de dollars."
+      ],
+      "publishedAt": "2026-11-11T19:03:13+00:00",
+      "updatedAt": "2026-11-11T19:03:13+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/vaccins/l-alliance-mondiale-pour-les-vaccins-alerte-sur-la-baisse-des-financements-des-campagnes-de-vaccination-dans-les-pays-les-plus-pauvres_8278226.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "5b1ab047f7790c04fabc6c69f37469d739d74ac2f82bdc7aee27aa521361f36f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
+      "context": null
     },
     {
       "id": "rss-48106dbecbca782d0e",
@@ -1213,30 +1240,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7ec885d2b0c0fb541f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Aurelia Ivan, directrice du Mouffetard : « A Paris, la marionnette doit prendre toute la place qu’elle mérite »",
-      "bullets": [
-        "Nommée en janvier à la tête du Mouffetard – Centre national de la marionnette, la metteuse en scène détaille, dans un entretien au « Monde », ses objectifs, et défend la nécessité d’un lieu mieux adapté à la création marionnettique contemporaine, à la mesure des besoins des artistes et des…"
-      ],
-      "publishedAt": "2026-11-11T17:30:07+00:00",
-      "updatedAt": "2026-11-11T17:30:07+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/11/aurelia-ivan-directrice-du-mouffetard-a-paris-la-marionnette-doit-prendre-toute-la-place-qu-elle-merite_6809008_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5865aa8fb07b4cb85aaf8ea44c49ad5069e0b011139b03b1de21a70451dd1eed",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1250,7 +1253,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1262,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1274,7 +1277,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1298,7 +1301,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1346,7 +1349,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
