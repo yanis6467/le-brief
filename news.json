@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T22:57:46.834048+00:00",
+  "edition": "2026-11-13",
+  "preparedAt": "2026-11-12T23:54:26.525897+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -343,8 +343,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T22:55:07+00:00",
-      "updatedAt": "2026-11-12T22:55:07+00:00",
+      "publishedAt": "2026-11-12T23:50:12+00:00",
+      "updatedAt": "2026-11-12T23:50:12+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,7 +457,7 @@
       ],
       "publishedAt": "2026-11-11T11:13:18+00:00",
       "updatedAt": "2026-11-11T11:13:18+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -690,6 +690,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-48a41a05d0dc8f51d4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Vladimir Poutine refuse la possibilité d'établir des \"zones grises\" face aux émissaires américains",
+      "bullets": [
+        "Auprès des émissaires américains, le président russe a affirmé, jeudi 12 novembre, qu'il resterait inflexible sur ses exigences maximalistes pour mettre fin au conflit en Ukraine.",
+        "La Russie occupe actuellement un peu plus de 19% du territoire ukrainien, et revendique depuis 2022 l'annexion, rejetée par Kiev et la communauté internationale, de quatre régions ukrainiennes dont elle ne contrôle pas l'intégralité : Lougansk, Donetsk, Zaporijjia et Kherson.",
+        "Vladimir Poutine a qualifié \"d'absolument inacceptable\" la possibilité de déploiement de troupes étrangères en Ukraine, demandé par Kiev comme garantie de sécurité contre une reprise du conflit."
+      ],
+      "publishedAt": "2026-11-12T23:00:35+00:00",
+      "updatedAt": "2026-11-12T23:00:35+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "cd1aaaaf65f42d319f38a6c7c1169c7e01b9e5bcc36916f35ebba6a3d6fb2630",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T23:54:26.525897+00:00",
+      "context": null
+    },
+    {
       "id": "rss-a833e2b291fa6232de",
       "revision": 2,
       "category": "world",
@@ -847,30 +875,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8b02deabdd41eaca6d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
-      "bullets": [
-        "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
-      ],
-      "publishedAt": "2026-11-12T16:25:43+00:00",
-      "updatedAt": "2026-11-12T16:25:43+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ca91185a07f0e5cdf9747a7ae93cfe3db1e9a45bc72f238c91d05f6fad876547",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e8baf1e1cfe92f27ae",
       "revision": 1,
       "category": "france",
@@ -881,7 +885,7 @@
       ],
       "publishedAt": "2026-11-12T11:13:01+00:00",
       "updatedAt": "2026-11-12T11:13:01+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -906,7 +910,7 @@
       ],
       "publishedAt": "2026-11-12T11:24:53+00:00",
       "updatedAt": "2026-11-12T11:24:53+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1000,31 +1004,30 @@
       "context": null
     },
     {
-      "id": "rss-4588ad746f0252e0ec",
-      "revision": 2,
+      "id": "rss-6cee96959ee935f76d",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Je n'ai jamais entendu un politique dire que c'était scandaleux qu'on me menace\", assure Eric Zemmour, après la découverte d'une liste de personnalités de gauche chez le suspect de l'attentat raciste de Trappes",
+      "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
       "bullets": [
-        "Kévin Tessier explique n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France\".",
-        "Avant de glisser : \"Je n'ai jamais entendu un politique dire 'c'est scandaleux qu'on menace Eric Zemmour'\", assure-t-il.\"Il y a 40 ans, le service de la protection policière se limitait aux ministres et au président de la République\", poursuit Eric Zemmour, évoquant un \"basculement\".",
-        "Un \"basculement\" lié selon lui à une \"société multiculturelle qui est une société multiconflictuelle\"."
+        "Chacun ressort avec un sac noir en bandoulière, chargé du précieux butin : près d'un million d'euros de bijoux sertis de diamants, dérobés en plein cœur de Paris, dans le 2e arrondissement, chez le diamantaire De Beers, rue de la Paix, tout proche de la place Vendôme.",
+        "Les voleurs se sont attaqués au leader mondial du diamant, tout près de la place Vendôme, qui concentre de nombreuses maisons de la haute joaillerie, déjà la cible de braquages en plein jour, comme Bulgari en avril 2023, ou encore Chanel, en mai 2022."
       ],
-      "publishedAt": "2026-11-12T13:49:52+00:00",
-      "updatedAt": "2026-11-12T13:49:52+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-12T19:39:22+00:00",
+      "updatedAt": "2026-11-12T19:39:22+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/liste-de-personnalites-de-gauche-retrouvee-chez-le-suspect-de-l-attentat-raciste-de-trappes-moi-meme-je-vis-sous-protection-policiere-depuis-des-annees-reagit-eric-zemmour_8279345.html",
+          "url": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "3e6162ba02bb3249d890f7b147f7c22c53a1d15aabe9037df759bb84950ae055",
+      "summaryInput": "056060cfa13171ee99167592163387778864bd35141b3d1773354bea5116dd2a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "enrichedAt": "2026-11-12T20:04:19.606977+00:00",
       "context": null
     },
     {
@@ -1153,33 +1156,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6cee96959ee935f76d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
-      "bullets": [
-        "Chacun ressort avec un sac noir en bandoulière, chargé du précieux butin : près d'un million d'euros de bijoux sertis de diamants, dérobés en plein cœur de Paris, dans le 2e arrondissement, chez le diamantaire De Beers, rue de la Paix, tout proche de la place Vendôme.",
-        "Les voleurs se sont attaqués au leader mondial du diamant, tout près de la place Vendôme, qui concentre de nombreuses maisons de la haute joaillerie, déjà la cible de braquages en plein jour, comme Bulgari en avril 2023, ou encore Chanel, en mai 2022."
-      ],
-      "publishedAt": "2026-11-12T19:39:22+00:00",
-      "updatedAt": "2026-11-12T19:39:22+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "056060cfa13171ee99167592163387778864bd35141b3d1773354bea5116dd2a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T20:04:19.606977+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ab6241ff8f660720c9",
       "revision": 1,
       "category": "france",
@@ -1286,6 +1262,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
+    },
+    {
+      "id": "rss-da20adb4a0d4d5edbd",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "bullets": [
+        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+      ],
+      "publishedAt": "2026-11-12T17:00:18+00:00",
+      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1323,7 +1323,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
