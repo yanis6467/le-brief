@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T17:18:16.139403+00:00",
+  "preparedAt": "2026-11-12T19:10:24.059605+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -55,52 +55,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-265862180df3135489",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La hausse du smic mettra 164 branches professionnelles dans l’« illégalité », alerte la CGT",
-      "bullets": [
-        "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, dénonce le syndicat."
-      ],
-      "publishedAt": "2026-11-12T01:18:19+00:00",
-      "updatedAt": "2026-11-12T01:18:19+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "14f1d65e7cba65a35daccd9dc842cafc39a2e0b365705dfb31550c4765785446",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-94071eaafa4af606f2",
+      "id": "rss-10cf7de7e1ad8105f3",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« On a dû se passer de tout ce qui n’est pas une absolue nécessité » : heurtés par l’inflation, de plus en plus d’Australiens tombent dans la précarité",
+      "title": "L’industrie recrute massivement pour répondre à la relance du nucléaire",
       "bullets": [
-        "REPORTAGE - Pour juguler la hausse des prix, la banque centrale d’Australie a relevé pour la 5e fois sur un an son taux directeur.",
-        "Un remède inefficace, particulièrement délétère pour le secteur de l’immobilier."
+        "DÉCRYPTAGE - Le groupement des industriels français de l’énergie nucléaire reste optimiste sur la capacité du secteur à créer des emplois.",
+        "Mais il lui faut consolider son socle de sous-traitants."
       ],
-      "publishedAt": "2026-11-12T14:37:24+00:00",
-      "updatedAt": "2026-11-12T14:37:24+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-12T17:21:55+00:00",
+      "updatedAt": "2026-11-12T17:21:55+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/on-a-du-se-passer-de-tout-ce-qui-n-est-pas-une-absolue-necessite-heurtes-par-l-inflation-de-plus-en-plus-d-australiens-tombent-dans-la-precarite-20261112",
+          "url": "https://www.lefigaro.fr/societes/l-industrie-recrute-massivement-pour-repondre-a-la-relance-du-nucleaire-20261112",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "656fe5f0e6d8ef28ad5bd22c9de30d7ef2050b35b8a05933e258e3469132c867",
+      "summaryInput": "f960ec99fa46d05a9c2b2fdce7681aaf144924e9a39e0d0d0732f5877afb4235",
       "detailLevel": "preview"
     },
     {
@@ -128,28 +104,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-10cf7de7e1ad8105f3",
+      "id": "rss-0075e883926501e631",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L’industrie recrute massivement pour répondre à la relance du nucléaire",
+      "title": "Abattement « retraités », allégements de charges, donations… Les propositions surprenantes du Sénat sur la fiscalité",
       "bullets": [
-        "DÉCRYPTAGE - Le groupement des industriels français de l’énergie nucléaire reste optimiste sur la capacité du secteur à créer des emplois.",
-        "Mais il lui faut consolider son socle de sous-traitants."
+        "DÉCRYPTAGE - Après le fiasco à l’Assemblée, la Chambre Haute veut réduire le déficit dans sa copie budgétaire."
       ],
-      "publishedAt": "2026-11-12T15:17:47+00:00",
-      "updatedAt": "2026-11-12T15:17:47+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-12T18:09:43+00:00",
+      "updatedAt": "2026-11-12T18:09:43+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/l-industrie-recrute-massivement-pour-repondre-a-la-relance-du-nucleaire-20261112",
+          "url": "https://www.lefigaro.fr/economie/abattement-retraites-allegements-de-charges-donations-les-propositions-surprenantes-du-senat-sur-la-fiscalite-20261112",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "f960ec99fa46d05a9c2b2fdce7681aaf144924e9a39e0d0d0732f5877afb4235",
+      "summaryInput": "923c7e788039e118569c7791156ebcd188d62eccb995f9354778ce145faefe6f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8b87e74e3416be2c4f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les clés pour comprendre le débat sur les « gros héritages »",
+      "bullets": [
+        "La transmission par succession et son système de taxation font débat parmi les candidats à l’élection présidentielle, notamment parce qu’une minorité de Français concentre la majorité des biens hérités."
+      ],
+      "publishedAt": "2026-11-12T17:14:28+00:00",
+      "updatedAt": "2026-11-12T17:14:28+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/12/les-cles-pour-comprendre-le-debat-sur-les-gros-heritages_6809137_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a9fdbe005b262d3dbfdd7d7f45bb2a77616af0bda4951311e0a0ae50138384cc",
       "detailLevel": "preview"
     },
     {
@@ -230,58 +229,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e4ff88d8dda7b4df5b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le plan de relance agricole s’élèvera finalement à 725 millions d’euros, annonce Annie Genevard",
-      "bullets": [
-        "Le plan de relance agricole pour 2027, déjà présenté mi-octobre, s’élèvera finalement à 725 millions d’euros, a indiqué jeudi la ministre de l’Agriculture Annie Genevard, accompagnée du premier ministre Sébastien Lecornu, lors des conclusions des Conférences de la souveraineté alimentaire lancées un an plus tôt.",
-        "Quelque 100 millions d’euros sont également dédiés à garantir pour un milliard d’euros de prêts afin de «permettre une adaptation durable des fermes»."
-      ],
-      "publishedAt": "2026-11-12T13:23:43+00:00",
-      "updatedAt": "2026-11-12T13:23:43+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/le-plan-de-relance-agricole-s-elevera-finalement-a-725-millions-d-euros-annonce-annie-genevard-20261112",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "7f68aca0d143c3188d4a9ae59a660062da3779a367839dc4dcb50e6bfdaacff0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6663c9b5c8c23e7da1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Bonbons, biscuits, viennoiseries… Quels produits sont visés par la «taxe sucre» du budget 2027 de la Sécu, adoptée par le Sénat ?",
-      "bullets": [
-        "Mardi 10 novembre, le Sénat a approuvé l’extension de la «taxe soda» aux produits sucrés «solides» et «pré-emballés», l’une des mesures phares du projet de loi de financement de la Sécurité sociale (PLFSS) 2027.",
-        "Cette mesure inquiète les industriels, qui dénoncent «une catastrophe annoncée»."
-      ],
-      "publishedAt": "2026-11-12T10:35:34+00:00",
-      "updatedAt": "2026-11-12T10:35:34+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/bonbons-biscuits-viennoiseries-industrielles-quels-produits-seraient-vises-par-la-taxe-sucre-du-budget-2027-20261002",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a31da54ce3867a50bdc56d58459ba687e054480dd764ba3bc57e2ce679f94d5d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-98ed5a0fb99e0b4b77",
       "revision": 1,
       "category": "eco",
@@ -304,6 +251,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b0d1d0a2364288edce524296be2b50372ecd8c3516cfd4c1d551b056502df7f7",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-815d2295f30b151a28",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La question des morts au travail peine à émerger dans les débats politiques",
+      "bullets": [
+        "La France connaît une augmentation continue des accidents mortels au travail. Depuis 2022, le problème n’a été traité que de manière partielle par le gouvernement. A cinq mois de l’élection présidentielle, la sécurité dans l’espace professionnel n’apparaît investie que par la gauche."
+      ],
+      "publishedAt": "2026-11-12T04:00:13+00:00",
+      "updatedAt": "2026-11-12T04:00:13+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/la-question-des-morts-au-travail-peine-a-emerger-dans-les-debats-politiques_6809045_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e7356d82213a72ee2d2ee414c4c191a0bb62afe74ceb8e4be0c46d828c0f4c94",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cbfc0c7e4ac2cef630",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Six mois avant la démission de Jensen Huang, un fonds new-yorkais alertait déjà sur le «problème chinois» de Nvidia",
+      "bullets": [
+        "L’action de l’entreprise bat un record en gagnant 3% le lendemain.",
+        "Premièrement, alors que Nvidia assure ne plus vendre de puces d’IA en Chine depuis les restrictions américaines d’avril 2025, Culper estime tout de même que plus de 20% de ces revenus restaient tirés par la demande chinoise via des intermédiaires d’Asie du Sud-Est.",
+        "Derrière cette note se trouve Christian Lamarco, 31 ans, qui s’est lancé seul en 2019 avec deux associés depuis Brooklyn, rapporte le Wall Street Journal."
+      ],
+      "publishedAt": "2026-11-12T17:15:00+00:00",
+      "updatedAt": "2026-11-12T17:15:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/six-mois-avant-la-demission-de-jensen-huang-un-fonds-new-yorkais-alertait-deja-sur-le-probleme-chinois-de-nvidia-20261112",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "3fc8f1553128d907c4bd8fb92ca75de53f02f9f690544640d7a3385557340601",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
+      "context": null
     },
     {
       "id": "rss-4021f0b9b8e532a5fd",
@@ -344,8 +343,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T17:14:50+00:00",
-      "updatedAt": "2026-11-12T17:14:50+00:00",
+      "publishedAt": "2026-11-12T19:10:10+00:00",
+      "updatedAt": "2026-11-12T19:10:10+00:00",
       "importance": 69,
       "sources": [
         {
@@ -514,7 +513,7 @@
       ],
       "publishedAt": "2026-11-10T17:55:25+00:00",
       "updatedAt": "2026-11-10T17:55:25+00:00",
-      "importance": 56,
+      "importance": 55,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -558,29 +557,32 @@
       "context": null
     },
     {
-      "id": "rss-7c9dc7a14fad382692",
+      "id": "rss-5d24aced589fadd5b1",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Soudan du Sud : Amnesty International dénonce l’inaction tragique des autorités et de l’ONU",
+      "title": "Dans la bande de Gaza, au moins 11 personnes sont mortes dans des frappes israéliennes, jour le plus meurtrier depuis les élections en Israël",
       "bullets": [
-        "Plus de 200 personnes dont des enfants sont mortes au cours d’un massacre perpétré le 1ᵉʳ mars par des rebelles.",
-        "Selon un rapport de l’organisation de défense des droits humains, publié jeudi, le pouvoir soudanais ainsi que la Minuss avaient été informés de la possibilité de cette attaque au moins…"
+        "Des frappes israéliennes ont fait 11 morts dans la bande de Gaza, jeudi 12 novembre, selon les secours palestiniens, dont six dans un hôpital bombardé à Khan Younès.",
+        "L'armée israélienne a confirmé avoir frappé l'hôpital Nasser, dans le sud du territoire, affirmant avoir visé \"un haut responsable du Hamas et d'autres membres de la branche armée du mouvement\" islamiste, qu'elle accuse d'avoir utilisé le complexe hospitalier comme \"centre de commandement\".",
+        "Sur des images de l'AFP, des soignants se tiennent au milieu d'une salle dévastée, dont le plafond s'écroule."
       ],
-      "publishedAt": "2026-11-12T05:16:35+00:00",
-      "updatedAt": "2026-11-12T05:16:35+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-12T18:59:51+00:00",
+      "updatedAt": "2026-11-12T18:59:51+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/12/soudan-du-sud-amnesty-international-denonce-l-inaction-tragique-des-autorites-et-de-l-onu_6809060_3212.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fce84230bef1837b04aecd251aba3ea44eee453fbb3a7011b0afb3ff4ef5ba56",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "dbc2968d84091a30df7cbc534a030f479814f10b97bacb17aa2fe9f630f8047b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
+      "context": null
     },
     {
       "id": "rss-dcb91b788eaefba006",
@@ -604,6 +606,79 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9150682742d83c0008",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« C’est moi la cible, mon frère n’est qu’un instrument » : en Hongrie, la justice durcit le ton avec le clan de Viktor Orbán",
+      "bullets": [
+        "DÉCRYPTAGE - Le frère cadet de l’ancien premier ministre, Aron Orbán, ainsi que plusieurs ex-ministres ont été placés en détention provisoire dans différentes affaires."
+      ],
+      "publishedAt": "2026-11-12T18:40:00+00:00",
+      "updatedAt": "2026-11-12T18:40:00+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/c-est-moi-la-cible-mon-frere-n-est-qu-un-instrument-en-hongrie-la-justice-durcit-le-ton-avec-le-clan-de-viktor-orban-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9a01620e9bbd841d6a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Moldavie, la mémoire retrouvée de la grande famine planifiée par l’URSS en 1946-1947",
+      "bullets": [
+        "Entre 120 000 et 200 000 personnes sont mortes de faim dans la Moldavie soviétique, au lendemain de la seconde guerre mondiale.",
+        "Un projet de loi vise à faire reconnaître cette tragédie, longtemps oubliée, comme un crime contre l’humanité, organisé par le régime stalinien afin de mater les résistances locales."
+      ],
+      "publishedAt": "2026-11-12T18:30:07+00:00",
+      "updatedAt": "2026-11-12T18:30:07+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/en-moldavie-la-memoire-retrouvee-de-la-grande-famine-planifiee-par-l-urss-en-1946-1947_6809151_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a50d145ea6def514dba90ce8cef63cbd2b1a9415499c233a9a6be79dacfc6706",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-48858c3dce63eb9d75",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Bande de Gaza : dans un camp de déplacés glacial et inondé, un bébé de 9 mois est « mort de froid », selon des médecins palestiniens",
+      "bullets": [
+        "En outre, des frappes israéliennes ont fait au moins 11 morts, jeudi, dont six dans un hôpital à Khan Younès, dans le sud du territoire, selon les services de secours palestiniens."
+      ],
+      "publishedAt": "2026-11-12T14:55:54+00:00",
+      "updatedAt": "2026-11-12T14:55:54+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/a-gaza-un-bebe-est-mort-de-froid-dans-un-camp-de-deplaces-a-khan-younes-selon-une-source-medicale-et-les-services-de-secours-palestiniens_6809112_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a2714468d808e16cae640ef01b4e529d08c1531a91c87bfcfed546ecb90955c6",
       "detailLevel": "preview"
     },
     {
@@ -635,81 +710,113 @@
       "context": null
     },
     {
-      "id": "rss-ec3512ebd3ba0921cc",
-      "revision": 2,
+      "id": "rss-ee6333568ee751bed8",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les Californiens disent finalement non à l'impôt sur la fortune des milliardaires, inspiré de la \"taxe Zucman\"",
+      "title": "Affaire Nvidia : les dangereuses liaisons de Jensen Huang embarrassent l’Administration Trump",
       "bullets": [
-        "L'initiative prévoyait de taxer les quelque 200 milliardaires californiens, mais elle n'entrera finalement pas en vigueur.",
-        "La Californie a rejeté par référendum un projet d'impôt sur la fortune des milliardaires défendu notamment par l'économiste Gabriel Zucman, a annoncé l'agence de presse américaine Associated Press (AP), mercredi 11 novembre, plus d'une semaine après le scrutin.",
-        "Pour la première fois aux Etats-Unis, la 'Prop 40' a imprimé sur un bulletin de vote l'idée d'un impôt sur la fortune des milliardaires\", a-t-il souligné.\"Les milliardaires de la Silicon Valley ont gagné cette bataille."
+        "RÉCIT - Dans un domaine aussi stratégique, l’inaction du gouvernement américain face à la compromission de l’un des plus influents patrons de la Silicon Valley soulève des critiques au Congrès."
       ],
-      "publishedAt": "2026-11-12T11:31:15+00:00",
-      "updatedAt": "2026-11-12T11:31:15+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-12T18:30:00+00:00",
+      "updatedAt": "2026-11-12T18:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/affaire-nvidia-les-dangereuses-liaisons-de-jensen-huang-embarrassent-l-administration-trump-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3925806f2cf389b75dd8059a836ec140409f39d643b969bcf3714d25ad88dfef",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bc0788f6566e6ae1b3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+      "bullets": [
+        "Israël a décidé d'interdire au chef de file de La France insoumise, Jean-Luc Mélenchon, ainsi qu'à Mathilde Panot, président de son groupe à l'Assemblée nationale, l'entrée sur son territoire, jeudi 12 novembre.",
+        "Israël répondra avec fermeté à ceux qui cherchent à lui nuire et ne permettra pas aux individus qui agissent contre Israël et incitent à la haine envers ses citoyens d'entrer sur son territoire\".\"On m'interdit d'entrer sur un territoire où je n'ai pas demandé à entrer.",
+        "Message aux autorités israéliennes : Libérez la Palestine !\", a de son côté écrit sur X Mathilde Panot."
+      ],
+      "publishedAt": "2026-11-12T18:09:44+00:00",
+      "updatedAt": "2026-11-12T18:09:44+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/les-californiens-disent-finalement-non-a-l-impot-sur-la-fortune-des-milliardaires-inspire-de-la-taxe-zucman_8278967.html",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "ac02d1c9a9ea6f8a124f9b896e136ad30f11b79b4e27b9fecd070e3aa2b3d0ab",
+      "summaryInput": "f6d6c579937e388a742a454a1f7ca831b2d26cc5506289fbae84f84a34f74622",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
+      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
     },
     {
-      "id": "rss-91bf2b9787f614da03",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Pologne, les nationalistes défilent en nombre quatre jours après l’attentat de Cracovie",
-      "bullets": [
-        "Malgré la fusillade mortelle du 7 novembre, à Cracovie, 250 000 personnes ont participé à la marche de l’indépendance, un rassemblement plébiscité par l’extrême droite polonaise, à Varsovie, mercredi.",
-        "La querelle autour du Tribunal constitutionnel a mobilisé les manifestants et les leaders de la droite polonaise."
-      ],
-      "publishedAt": "2026-11-12T08:30:04+00:00",
-      "updatedAt": "2026-11-12T08:30:04+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/en-pologne-les-nationalistes-defilent-en-nombre-quatre-jours-apres-l-attentat-de-cracovie_6809074_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6b33f84cc579e452354c984e1162119e529a536ba331a2c0a47c4ca8192b1caf",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a63d0ccbfd96834911",
+      "id": "rss-eb383575e0daeac966",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
+      "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
       "bullets": [
-        "Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky.",
-        "Mais aucune percée diplomatique n’a été annoncée."
+        "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien",
+        "Christophe Gleizes détenu depuis 500 jours en Algérie",
+        "63% des Français pensent que la solidarité se mérite"
       ],
-      "publishedAt": "2026-11-11T17:59:44+00:00",
-      "updatedAt": "2026-11-11T17:59:44+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-12T18:05:17+00:00",
+      "updatedAt": "2026-11-12T18:05:17+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html",
+          "access": "public"
+        },
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "45eed6e15bd16291b9c376074b77fa0b4d637034462c170c5ca9cd0bb107d6f7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6daf26a6aefdbaee16",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Byron Donalds, premier gouverneur noir de Floride",
+      "bullets": [
+        "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité.",
+        "Cette semaine, ce républicain est devenu le premier gouverneur afro-américain de l’Etat de Floride, lors des élections de mi-mandat du 3 novembre, marquées par un raz de marée démocrate."
+      ],
+      "publishedAt": "2026-11-12T17:30:03+00:00",
+      "updatedAt": "2026-11-12T17:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/byron-donalds-premier-gouverneur-noir-de-floride_6809139_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "9b216c425bf8a856a16cb33d22cedfc993293a310429159e8606b979e325b495",
+      "summaryInput": "bbbd65240fee24f934c41cffecc6405a48b752597ec728c9f454a7a7b0454c30",
       "detailLevel": "preview"
     },
     {
@@ -760,110 +867,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "dfc958aaae0aca618b3cf90c886c1a052c8073cd2e82c2e6deb9ed63c2643431",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7cfa808dd5a53af9b5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Droits des femmes : la Hongrie prévoit de ratifier la convention d’Istanbul",
-      "bullets": [
-        "Le premier ministre hongrois a également annoncé, jeudi, la suppression d’une réglementation qui obligeait les femmes à écouter les battements du cœur de leur fœtus avant un avortement."
-      ],
-      "publishedAt": "2026-11-12T15:38:36+00:00",
-      "updatedAt": "2026-11-12T15:38:36+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/droits-des-femmes-la-hongrie-prevoit-de-ratifier-la-convention-d-istanbul_6809118_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a078a85dc0e79ed728064aa97e2cd3045b2fdf6126e5f032a738ac40fd62b1a5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0f123cea22f78ae200",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«Répondre sans être embarqué dans la guerre de Trump» : ce que les sanctions réclamées à l’égard de l’Iran disent de la position française",
-      "bullets": [
-        "DÉCRYPTAGE - Un mois après les cyberattaques contre les frigos de supermarchés français et dans un contexte de regain de tension avec l’Iran, le quai d’Orsay «ne s’interdit rien» mais marche sur une ligne de crête."
-      ],
-      "publishedAt": "2026-11-10T22:16:19+00:00",
-      "updatedAt": "2026-11-10T22:16:19+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/repondre-sans-etre-embarque-dans-la-guerre-de-trump-ce-que-les-sanctions-reclamees-a-l-egard-de-l-iran-disent-de-la-position-francaise-20261110",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9e78dd9d02bfe6ac97",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un immeuble de trois étages s'écroule à New York, au moins quatre morts et une vingtaine de blessés",
-      "bullets": [
-        "Une scène de chaos en plein New York (États-Unis).",
-        "Selon un premier bilan, au moins quatre personnes sont mortes et 19 autres sont blessées, dont quatre grièvement.",
-        "250 secouristes sont toujours sur les lieux à la recherche de victimes."
-      ],
-      "publishedAt": "2026-11-12T16:49:41+00:00",
-      "updatedAt": "2026-11-12T16:49:41+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-de-trois-etages-s-ecroule-a-new-york-au-moins-quatre-morts-et-une-vingtaine-de-blesses_8279408.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "fdd4a18312f40ae21c017a229244e4947f8a6ddd54dd568cba4f2c6a702e78c8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-98395f84de4153cc5e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Un bon moyen d'apporter de la biodiversité\" : le plus grand bateau de croisière américain coulé pour devenir un récif artificiel",
-      "bullets": [
-        "Le paquebot a été sabordé volontairement pour devenir un récif artificiel à 55 mètres de profondeur.",
-        "C'était le plus grand bateau de croisière construit par les Américains : Dali, Kennedy, ou encore Marilyn Monroe l'ont pris pour traverser l'Atlantique.",
-        "Inauguré en 1952, le navire fait 300 mètres de long, plus que le paquebot France."
-      ],
-      "publishedAt": "2026-11-12T16:32:00+00:00",
-      "updatedAt": "2026-11-12T16:32:00+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/un-bon-moyen-d-apporter-de-la-biodiversite-le-plus-grand-bateau-de-croisiere-americain-coule-pour-devenir-un-recif-artificiel_8279624.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "55ab5e75a20ae8962766246670ee2263f45b09bfd2f7d728ef3a9bd2015c2afc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
-      "context": null
     },
     {
       "id": "rss-e8baf1e1cfe92f27ae",
@@ -1033,8 +1036,8 @@
         "L'entreprise californienne BurgerMotorsports, elle, ferme exceptionnellement ses portes ce jour-là, pour éviter que des milliers d'employés se faire passer pour malade au moment de la sortie du jeu, comme cela s'était déroulé pour GTA V en 2013, comme l'a raconté The Telegraph quelques années plus tôt.",
         "Ça leur appartient, et ça dépend des négociations propres à chaque entreprise\"."
       ],
-      "publishedAt": "2026-11-12T17:01:39+00:00",
-      "updatedAt": "2026-11-12T17:01:39+00:00",
+      "publishedAt": "2026-11-12T18:50:22+00:00",
+      "updatedAt": "2026-11-12T18:50:22+00:00",
       "importance": 59,
       "sources": [
         {
@@ -1049,30 +1052,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
       "context": null
-    },
-    {
-      "id": "rss-3e4bfe54a8ab22fd95",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
-      "bullets": [
-        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Notamment en ne remplaçant pas tous les fonctionnaires partant à la retraite."
-      ],
-      "publishedAt": "2026-11-12T06:00:09+00:00",
-      "updatedAt": "2026-11-12T06:00:09+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "65a575ce8d78f954683f2674008725f445d7474f065cf00e1d4b50b0093e4b44",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-6bf01461f6f7e8cc94",
@@ -1158,7 +1137,7 @@
       ],
       "publishedAt": "2026-11-11T05:40:00+00:00",
       "updatedAt": "2026-11-11T05:40:00+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1249,32 +1228,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9f998c302c4380141a",
+      "id": "rss-b1f0f76215418da9fd",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "L'Alliance mondiale pour les vaccins alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres",
+      "title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
       "bullets": [
-        "Gavi, l'Alliance mondiale pour les vaccins, alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres, rapporte mercredi 11 novembre France Inter.",
-        "\"Ce qui s'est traduit par une décision de notre conseil d'administration de réduire la couverture vaccinale, notamment sur le vaccin contre le paludisme, une couverture cible qui était à l'origine à 85% a dû être ramenée à 70%\", explique Pascal Barollier, directeur général de l'engagement public de l'alliance Gavi.",
-        "Mais pour atteindre cette ambition, il manque des fonds, près d'1,5 milliard de dollars."
+        "Jean-Luc Mélenchon, candidat de La France insoumise à la présidentielle, propose dans son programme présenté samedi 7 novembre que les arrêts-maladies de courte durée puissent être autodéclarés.",
+        "Pour défendre sa proposition, Jean-Luc Mélenchon rappelle que la Cour des comptes s'est penchée sur le sujet dans un rapport publié en mai 2024.",
+        "Alors que le nombre d'arrêts a augmenté de 10% entre 2019 et 2024 selon le gouvernement, celui-ci multiplie depuis plusieurs mois les mesures pour réduire le coût des arrêts-maladies."
       ],
-      "publishedAt": "2026-11-11T19:03:13+00:00",
-      "updatedAt": "2026-11-11T19:03:13+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-12T18:05:23+00:00",
+      "updatedAt": "2026-11-12T18:05:23+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/vaccins/l-alliance-mondiale-pour-les-vaccins-alerte-sur-la-baisse-des-financements-des-campagnes-de-vaccination-dans-les-pays-les-plus-pauvres_8278226.html",
+          "url": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "5b1ab047f7790c04fabc6c69f37469d739d74ac2f82bdc7aee27aa521361f36f",
+      "summaryInput": "26964ef88f1f3286d12cf1b75e8dc0be5979b4372923973c97266e6158a1be04",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
+      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
+    },
+    {
+      "id": "rss-da20adb4a0d4d5edbd",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "bullets": [
+        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+      ],
+      "publishedAt": "2026-11-12T17:00:18+00:00",
+      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1312,13 +1315,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1354,7 +1357,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1378,7 +1381,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
