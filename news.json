@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T10:20:47.185173+00:00",
+  "preparedAt": "2026-11-12T12:08:57.652726+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -89,15 +89,15 @@
     },
     {
       "id": "rss-2e476a78aebfd75b42",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme des grands bouleversements économiques, de la guerre commerciale au réarmement mondial »",
+      "title": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme de la guerre commerciale et du réarmement mondial »",
       "bullets": [
         "Alors que le constructeur européen a annoncé, lundi 9 novembre, la vente du grand site industriel de Brampton, dans l’Ontario, à l’industriel de défense canadien Roshel, les questions soulevées par cette reconversion qui fait écho à beaucoup d’autres sont à la fois éthiques et économiques, explique Isabelle Chaperon, chroniqueuse au…"
       ],
-      "publishedAt": "2026-11-12T10:00:09+00:00",
-      "updatedAt": "2026-11-12T10:00:09+00:00",
+      "publishedAt": "2026-11-12T10:00:08+00:00",
+      "updatedAt": "2026-11-12T10:00:08+00:00",
       "importance": 79,
       "sources": [
         {
@@ -108,7 +108,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "eaafb4e3dbcedd31faa49b42912af0d2b81e12fad5549aa5d2b80339478f3e23",
+      "summaryInput": "f06bb0385e33f05efd8b4d0ff541ec6bbdbb04da1ac4b6a0f7b9a362bc172016",
       "detailLevel": "preview"
     },
     {
@@ -268,6 +268,31 @@
       "context": null
     },
     {
+      "id": "rss-6663c9b5c8c23e7da1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Bonbons, biscuits, viennoiseries… Quels produits sont visés par la «taxe sucre» du budget 2027 de la Sécu, adoptée par le Sénat ?",
+      "bullets": [
+        "Mardi 10 novembre, le Sénat a approuvé l’extension de la «taxe soda» aux produits sucrés «solides» et «pré-emballés», l’une des mesures phares du projet de loi de financement de la Sécurité sociale (PLFSS) 2027.",
+        "Cette mesure inquiète les industriels, qui dénoncent «une catastrophe annoncée»."
+      ],
+      "publishedAt": "2026-11-12T10:35:34+00:00",
+      "updatedAt": "2026-11-12T10:35:34+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/bonbons-biscuits-viennoiseries-industrielles-quels-produits-seraient-vises-par-la-taxe-sucre-du-budget-2027-20261002",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a31da54ce3867a50bdc56d58459ba687e054480dd764ba3bc57e2ce679f94d5d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-126080c1871025d15f",
       "revision": 1,
       "category": "eco",
@@ -294,30 +319,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
-    },
-    {
-      "id": "rss-98ed5a0fb99e0b4b77",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
-      "bullets": [
-        "Le projet de budget 2027 ne prévoit pas de réforme du CIR ou du pacte Dutreil, malgré les critiques récurrentes sur leur coût et leur efficacité, déplorent l’économiste Maxime Combes et le journaliste Olivier Petitjean, dans une tribune au « Monde »."
-      ],
-      "publishedAt": "2026-11-12T05:00:42+00:00",
-      "updatedAt": "2026-11-12T05:00:42+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b0d1d0a2364288edce524296be2b50372ecd8c3516cfd4c1d551b056502df7f7",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-4021f0b9b8e532a5fd",
@@ -358,8 +359,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T10:17:59+00:00",
-      "updatedAt": "2026-11-12T10:17:59+00:00",
+      "publishedAt": "2026-11-12T12:05:58+00:00",
+      "updatedAt": "2026-11-12T12:05:58+00:00",
       "importance": 69,
       "sources": [
         {
@@ -372,7 +373,35 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-11T23:01:56.680799+00:00",
+      "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-5cc4e3b475da7e9fd7",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Alors que Nvidia est en pleine crise, avec son directeur général sur le point de prendre la porte, le CAC 40 grimpe de 0,8% grâce au luxe",
+      "bullets": [
+        "En fin de matinée, l'indice parisien s'adjuge 0,74% à 8.394,452 points, alors que les investisseurs sont suspendus au sort de Jensen Huang.",
+        "Nvidia chute de 6% en préouverture ce jeudi 12 novembre.",
+        "Le maroquinier s'envole de 9,4% à Londres, après avoir livré des comptes montrant que \"son redressement avance\", tranche Bernstein."
+      ],
+      "publishedAt": "2026-11-12T10:49:12+00:00",
+      "updatedAt": "2026-11-12T10:49:12+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-nvidia-est-en-pleine-crise-avec-son-directeur-general-sur-le-point-de-prendre-la-porte-le-cac-40-grimpe-de-08-grace-au-luxe-1173653.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "6e64c6b36a19b14effee627d949cd8362082027ad05dc305a323cecd915ba88f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
       "context": null
     },
     {
@@ -388,7 +417,7 @@
       ],
       "publishedAt": "2026-11-10T10:26:14+00:00",
       "updatedAt": "2026-11-10T10:26:14+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -404,30 +433,6 @@
       "context": null
     },
     {
-      "id": "rss-1ae2daf4c9adf340e2",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.40%",
-      "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-040-1173624.html"
-      ],
-      "publishedAt": "2026-11-12T08:00:00+00:00",
-      "updatedAt": "2026-11-12T08:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-040-1173624.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e8a89860a12ba696bac74579e6717f4efadb3bc80dedc967847e26f9ad15ecf5",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a9f637675acacb69dd",
       "revision": 1,
       "category": "markets",
@@ -440,7 +445,7 @@
       ],
       "publishedAt": "2026-11-11T11:13:18+00:00",
       "updatedAt": "2026-11-11T11:13:18+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -565,34 +570,6 @@
       "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-36538f493baf6048ee",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les menaces d'ingérence de la Russie \"sont à prendre très au sérieux\", réagit le député Sacha Houlié après son interdiction de territoire par Moscou",
-      "bullets": [
-        "Les menaces d'ingérence de la Russie \"sont à prendre très au sérieux\", estime mercredi 11 novembre sur franceinfo Sacha Houlié, après l'annonce de son interdiction de territoire russe.",
-        "À l'approche de l'élection présidentielle, le député Place publique appelle à la vigilance face à la multiplication des tentatives d'ingérences et cyberattaques.",
-        "L'interdiction de territoire russe concerne aussi le député du Calvados Athur Delaporte (PS), ainsi que deux journalistes, Ariane Chemin et Paul Gogo."
-      ],
-      "publishedAt": "2026-11-11T21:07:53+00:00",
-      "updatedAt": "2026-11-11T21:07:53+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/les-menaces-d-ingerence-de-la-russie-sont-a-prendre-tres-au-serieux-reagit-le-depute-sacha-houlie-apres-son-interdiction-de-territoire-par-moscou_8278337.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "64c72a0e530a7b8b108fbf42a8ef1642012a10ec998f556a54c5e57ef8b033f5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T23:01:56.680799+00:00",
       "context": null
     },
     {
@@ -743,34 +720,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dc3698417d5d8764d9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
-      "bullets": [
-        "La présidente du Conseil italien, Giorgia Meloni a assuré, mercredi 11 novembre, qu'aucune des alertes à la bombe ayant visé des milliers d'établissements scolaires dans le pays ne permettait, à ce stade, de conclure à une menace concrète.",
-        "Giorgia Meloni a estimé que ces messages visaient avant tout à \"faire peur\", à provoquer \"le soupçon\" et \"le chaos\", rappelant que des alertes similaires avaient également touché le Royaume-Uni et l'Irlande mercredi.",
-        "Ces attaques suscitent une inquiétude croissante en Europe quant à la possibilité d'une escalade de la guerre hybride."
-      ],
-      "publishedAt": "2026-11-12T10:03:43+00:00",
-      "updatedAt": "2026-11-12T10:03:43+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "6911b160ba69e8b224daed015d59117ac5c7188f5f1fae38038d411d8ae90513",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5e61e0aeef10a1c11a",
       "revision": 2,
       "category": "world",
@@ -796,45 +745,18 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f10dc151744bcd5ac8",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Leur inaction a coûté des vies\" : Amnesty dénonce la passivité des autorités et de l'ONU pour empêcher un massacre au Soudan du Sud",
-      "bullets": [
-        "Les autorités sud-soudanaises et la mission de l'ONU au Soudan du Sud (Minuss) n'ont pas agi en dépit d'avertissements pour empêcher un massacre qui a tué plus de 200 personnes en mars, a dénoncé Amnesty International, jeudi 11 novembre.",
-        "Le 1er mars dernier, plus de mille hommes armés issus de l'ethnie Nuer, celle de Riek Machar, ont lancé un assaut de quatre heures dans le comté d'Abiemnom, près de la frontière soudanaise, tuant plus de 200 personnes, dont des enfants, et en blessant beaucoup d'autres, affirme Amnesty dans un rapport."
-      ],
-      "publishedAt": "2026-11-12T09:56:40+00:00",
-      "updatedAt": "2026-11-12T09:56:40+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/afrique/soudan-du-sud/amnesty-denonce-l-inaction-des-autorites-et-de-l-onu-pour-empecher-un-massacre-au-soudan-du-sud_8278367.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "ec39048564e054a0504b1b579ce1af9bce2983dd69f210bb71264c625d9deefd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ec3512ebd3ba0921cc",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Les Californiens disent finalement non à l'impôt sur la fortune des milliardaires, inspiré de la \"taxe Zucman\"",
       "bullets": [
-        "L'initiative prévoyait de taxer les quelque 200 milliardaires californiens.",
-        "La Californie a rejeté par référendum un projet d'impôt sur la fortune des milliardaires défendu notamment par l'économiste Gabriel Zucman, a annoncé Associated Press, mercredi 11 novembre, plus d'une semaine après le scrutin.",
-        "Les milliardaires de l'État américain devaient être taxés à hauteur de 5% de leur patrimoine net."
+        "L'initiative prévoyait de taxer les quelque 200 milliardaires californiens, mais elle n'entrera finalement pas en vigueur.",
+        "La Californie a rejeté par référendum un projet d'impôt sur la fortune des milliardaires défendu notamment par l'économiste Gabriel Zucman, a annoncé l'agence de presse américaine Associated Press (AP), mercredi 11 novembre, plus d'une semaine après le scrutin.",
+        "Pour la première fois aux Etats-Unis, la 'Prop 40' a imprimé sur un bulletin de vote l'idée d'un impôt sur la fortune des milliardaires\", a-t-il souligné.\"Les milliardaires de la Silicon Valley ont gagné cette bataille."
       ],
-      "publishedAt": "2026-11-12T09:22:53+00:00",
-      "updatedAt": "2026-11-12T09:22:53+00:00",
+      "publishedAt": "2026-11-12T11:31:15+00:00",
+      "updatedAt": "2026-11-12T11:31:15+00:00",
       "importance": 67,
       "sources": [
         {
@@ -845,9 +767,9 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "0f137fb1053796f207e2d0c738f1d8693c5bafa069e1533d89161c5307eb1b14",
+      "summaryInput": "ac02d1c9a9ea6f8a124f9b896e136ad30f11b79b4e27b9fecd070e3aa2b3d0ab",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
       "context": null
     },
     {
@@ -876,51 +798,124 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e4bfe54a8ab22fd95",
+      "id": "rss-4551e9a9fba5822055",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Génocide des Tutsi : au Sénégal, l’avenir incertain des génocidaires condamnés par la justice internationale",
+      "bullets": [
+        "La signature, début octobre, d’un accord entre Dakar et Kigali prévoyant notamment le transfèrement des personnes condamnées pourrait permettre au Rwanda de récupérer huit génocidaires toujours emprisonnés au Sénégal."
+      ],
+      "publishedAt": "2026-11-12T05:00:22+00:00",
+      "updatedAt": "2026-11-12T05:00:22+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/12/genocide-des-tutsi-au-senegal-l-avenir-incertain-des-genocidaires-condamnes-par-la-justice-internationale_6809053_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cb854171bf36f8c20090583f085622e8a0d78915c4113196dd29c7b0662315ce",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a63d0ccbfd96834911",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
+      "bullets": [
+        "Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky.",
+        "Mais aucune percée diplomatique n’a été annoncée."
+      ],
+      "publishedAt": "2026-11-11T17:59:44+00:00",
+      "updatedAt": "2026-11-11T17:59:44+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9b216c425bf8a856a16cb33d22cedfc993293a310429159e8606b979e325b495",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0f123cea22f78ae200",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«Répondre sans être embarqué dans la guerre de Trump» : ce que les sanctions réclamées à l’égard de l’Iran disent de la position française",
+      "bullets": [
+        "DÉCRYPTAGE - Un mois après les cyberattaques contre les frigos de supermarchés français et dans un contexte de regain de tension avec l’Iran, le quai d’Orsay «ne s’interdit rien» mais marche sur une ligne de crête."
+      ],
+      "publishedAt": "2026-11-10T22:16:19+00:00",
+      "updatedAt": "2026-11-10T22:16:19+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/repondre-sans-etre-embarque-dans-la-guerre-de-trump-ce-que-les-sanctions-reclamees-a-l-egard-de-l-iran-disent-de-la-position-francaise-20261110",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e8baf1e1cfe92f27ae",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
+      "title": "CNews : un débat public est nécessaire",
       "bullets": [
-        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Et faire en sorte qu’il y ait bien un budget."
+        "La conférence des présidents de l’Assemblée peut encore décider qu’un débat ait lieu dans l’Hémicycle sur le bien-fondé du maintien de la chaîne dont les émissions servent à diffuser des propos incitant à la haine ou à la discrimination, et qui ne dévie pas de sa ligne éditoriale malgré les…"
       ],
-      "publishedAt": "2026-11-12T06:00:11+00:00",
-      "updatedAt": "2026-11-12T06:00:11+00:00",
+      "publishedAt": "2026-11-12T11:13:01+00:00",
+      "updatedAt": "2026-11-12T11:13:01+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f6edd23d98757158e3de246272780bca52532b073d73d8bf67bca9182b89def",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f62cd088e9b8aa411c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le milliardaire conservateur Pierre-Edouard Stérin sera jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
+      "bullets": [
+        "M. Stérin, homme d’affaires proche de l’extrême droite, avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ». Il devait s’expliquer devant les députés sur son militantisme politique."
+      ],
+      "publishedAt": "2026-11-12T11:24:53+00:00",
+      "updatedAt": "2026-11-12T11:24:53+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "f5c35e9b301f07df7f7c7f0d1513964a4ac3b0dc68fbf9071a1f50e4282063d2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6bf01461f6f7e8cc94",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
-      "bullets": [
-        "Le président du conseil exécutif et la présidente de l’Assemblée de Corse, qui reprochent au gouvernement de ne pas avoir répondu à des propositions adoptées le 4 novembre, avaient annoncé qu’ils ne participeraient pas à la réunion."
-      ],
-      "publishedAt": "2026-11-11T21:20:11+00:00",
-      "updatedAt": "2026-11-11T21:20:11+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8f0426171d41ca63cf0f9d02d45debd4c7c1f62d3789409eece61882770a263f",
+      "summaryInput": "fc5a9fe5c886e1df893e65739ac97e02e30a384460a2778355bcb92bc0a3582a",
       "detailLevel": "preview"
     },
     {
@@ -948,52 +943,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-79858b93cc91f6f7da",
+      "id": "rss-1103f176c792df3d40",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Bâti scolaire : le plan incertain du gouvernement pour rénover les lycées, sur fond de dégradations croissantes",
+      "title": "VIDEO. Déserts médicaux : quel bilan pour le plan de lutte lancé en 2025 ?",
       "bullets": [
-        "DÉCRYPTAGE - Alors que les présidents de région s’interrogent sur la liste des « 200 établissements prioritaires » publiée par l’exécutif, les violences montent d’un cran.",
-        "En témoignent la centaine de tirs de mortiers, dont la moitié à l’intérieur des lycées, depuis la rentrée."
+        "Dernière mesure en date pour répondre à la pénurie de médecins dont souffre une grande partie du territoire français : le déploiement, depuis lundi 2 novembre 2026, de 3 000 médecins \"juniors\" dans des territoires ruraux.",
+        "Sera-t-elle plus efficace que le dispositif de renforts annoncé en 2025 par le gouvernement Bayrou ?",
+        "Peu de médecins volontairesEn France, 153 déserts médicaux ont été désignés pour recevoir ces renforts, dont seulement une cinquantaine ont à ce jour reçu l'aide de médecins."
       ],
-      "publishedAt": "2026-11-11T05:40:00+00:00",
-      "updatedAt": "2026-11-11T05:40:00+00:00",
-      "importance": 71,
+      "publishedAt": "2026-11-12T10:27:30+00:00",
+      "updatedAt": "2026-11-12T10:27:30+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/bati-scolaire-le-plan-incertain-du-gouvernement-pour-renover-les-lycees-sur-fond-de-degradations-croissantes-20261111",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-deserts-medicaux-quel-bilan-pour-le-plan-de-lutte-lance-en-2025_8276234.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8115c0b2dde9a98f13653c9e270848504e38995f3dd2bf8b0fd75df8ebc0a0f1",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7b2878bd21fad8fa37a3f5195bb29251bb819d655f518c6096d394ebbe95cc4f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
+      "context": null
     },
     {
-      "id": "rss-51875bac1c93a28eed",
+      "id": "rss-9565d8ef1d383d6991",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Affaire Mohamed Al Fayed : gardes à vue et perquisitions, dont une au Ritz, dans l’enquête sur un réseau présumé de traite de femmes",
+      "title": "Procès du triple narchomicide de 2020 : le parquet général dénonce des meurtres d’une « sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
       "bullets": [
-        "Mort en 2023 sans avoir jamais été poursuivi, malgré de nombreuses plaintes, le milliardaire égyptien fait l’objet d’enquêtes conjointes en France et au Royaume-Uni, où la police a déjà reçu 163 signalements de violences ou d’exploitation sexuelles."
+        "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… méthode habituelle des criminels et du narcobanditisme en particulier » et a requis, le 11 novembre, de lourdes peines à l’égard des accusés."
       ],
-      "publishedAt": "2026-11-10T15:31:14+00:00",
-      "updatedAt": "2026-11-10T15:31:14+00:00",
-      "importance": 56,
+      "publishedAt": "2026-11-11T19:37:09+00:00",
+      "updatedAt": "2026-11-11T19:37:09+00:00",
+      "importance": 54,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/affaire-mohamed-al-fayed-gardes-a-vue-et-perquisitions-dont-une-au-ritz-dans-l-enquete-sur-un-reseau-presume-de-traite-de-femmes_6808864_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "a57dedf1b1f8cf96424a7ede82facfe8f32a84f77f07dd127a2beb85b91ac560",
+      "summaryInput": "e97331d3097b61931e5591ebbded90aebef2e1410b0aebdb2c408c1ab959e86a",
       "detailLevel": "preview"
     },
     {
@@ -1048,28 +1046,75 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c3e6b1465ab9d40642",
+      "id": "rss-3e4bfe54a8ab22fd95",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Vincent Caure, un macroniste de la première heure à la tête de la commission d’enquête sur le 17 octobre",
+      "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
       "bullets": [
-        "Proche de Stéphane Séjourné, le député de la circonscription des Français de l’étranger d’Europe du Nord élu en 2024 fait partie de l’aventure macroniste depuis 2016.",
-        "Porté en juillet à la présidence de la commission des lois de l’Assemblée nationale, il devient le plus jeune député de la Vᵉ République…"
+        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Et faire en sorte qu’il y ait bien un budget."
       ],
-      "publishedAt": "2026-11-11T13:30:02+00:00",
-      "updatedAt": "2026-11-11T13:30:02+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-12T06:00:11+00:00",
+      "updatedAt": "2026-11-12T06:00:11+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/11/vincent-caure-un-macroniste-de-la-premiere-heure-a-la-tete-de-la-commission-d-enquete-sur-le-17-octobre_6808975_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "0697c7625ead5efc277490cde12d1c977d8ba0c5a136ba0771be10e86ce7c523",
+      "summaryInput": "f5c35e9b301f07df7f7c7f0d1513964a4ac3b0dc68fbf9071a1f50e4282063d2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6bf01461f6f7e8cc94",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
+      "bullets": [
+        "Le président du conseil exécutif et la présidente de l’Assemblée de Corse, qui reprochent au gouvernement de ne pas avoir répondu à des propositions adoptées le 4 novembre, avaient annoncé qu’ils ne participeraient pas à la réunion."
+      ],
+      "publishedAt": "2026-11-11T21:20:11+00:00",
+      "updatedAt": "2026-11-11T21:20:11+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8f0426171d41ca63cf0f9d02d45debd4c7c1f62d3789409eece61882770a263f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dc3f0517ca75502fa2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+      "bullets": [
+        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
+      ],
+      "publishedAt": "2026-11-12T10:53:16+00:00",
+      "updatedAt": "2026-11-12T10:53:16+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
       "detailLevel": "preview"
     },
     {
@@ -1097,6 +1142,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-79858b93cc91f6f7da",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Bâti scolaire : le plan incertain du gouvernement pour rénover les lycées, sur fond de dégradations croissantes",
+      "bullets": [
+        "DÉCRYPTAGE - Alors que les présidents de région s’interrogent sur la liste des « 200 établissements prioritaires » publiée par l’exécutif, les violences montent d’un cran.",
+        "En témoignent la centaine de tirs de mortiers, dont la moitié à l’intérieur des lycées, depuis la rentrée."
+      ],
+      "publishedAt": "2026-11-11T05:40:00+00:00",
+      "updatedAt": "2026-11-11T05:40:00+00:00",
+      "importance": 71,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/bati-scolaire-le-plan-incertain-du-gouvernement-pour-renover-les-lycees-sur-fond-de-degradations-croissantes-20261111",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8115c0b2dde9a98f13653c9e270848504e38995f3dd2bf8b0fd75df8ebc0a0f1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-90df1864a41fc17ef6",
       "revision": 1,
       "category": "france",
@@ -1119,54 +1189,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-64d09ba2d1898b4cba",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
-      "bullets": [
-        "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni, sénatrice UDR des Alpes-Maritimes."
-      ],
-      "publishedAt": "2026-11-09T22:00:45+00:00",
-      "updatedAt": "2026-11-09T22:00:45+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "99a30e2a1579870042773c5c3741239fa82338af3aabb4a0436a74a3bbbac042",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-89f6e5d2f7423832e3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs",
-      "bullets": [
-        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
-      ],
-      "publishedAt": "2026-11-12T04:00:10+00:00",
-      "updatedAt": "2026-11-12T04:00:10+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ceaf632e637d24117d38abd45d6d1cd14971bc4f0f1334f400d490597f8ef8c9",
       "detailLevel": "preview"
     },
     {
@@ -1222,34 +1244,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48106dbecbca782d0e",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
-      "bullets": [
-        "La CLCV (Consommation, logement et cadre de vie) annonce mardi 10 novembre, dans un communiqué, avoir saisi l'Anses pour connaître les effets des gaz lacrymogènes sur la santé et l'environnement.",
-        "Ces dernières semaines, les témoignages de personnes inquiètes, exposées aux gaz lacrymogènes lors des manifestations lycéennes, étudiantes ou contre la vie chère, notamment de personnes menstruées ou enceintes, se sont multipliés.",
-        "Des douleurs inhabituellesEn octobre, le collectif Lacrymos de sang a recueilli plus de 10 000 témoignages de personnes menstruées faisant état d'effets sur leur cycle après une exposition aux gaz lacrymogènes."
-      ],
-      "publishedAt": "2026-11-10T09:31:25+00:00",
-      "updatedAt": "2026-11-10T09:31:25+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "cef76b54ca37be70da8511e9e75c7fac89159d55c92e11cad41f90425e157156",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T23:57:26.080648+00:00",
-      "context": null
-    },
-    {
       "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
@@ -1286,7 +1280,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1298,7 +1292,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1358,7 +1352,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1388,7 +1382,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 33
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
