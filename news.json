@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T21:57:37.675500+00:00",
+  "preparedAt": "2026-11-12T22:57:46.834048+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -42,7 +42,7 @@
       ],
       "publishedAt": "2026-11-12T10:00:08+00:00",
       "updatedAt": "2026-11-12T10:00:08+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -77,30 +77,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "b88f9e722f94b1e385299cd1b057256c287623961a5acef1976d15ec995e4575",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8b02deabdd41eaca6d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
-      "bullets": [
-        "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
-      ],
-      "publishedAt": "2026-11-12T16:25:43+00:00",
-      "updatedAt": "2026-11-12T16:25:43+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ca91185a07f0e5cdf9747a7ae93cfe3db1e9a45bc72f238c91d05f6fad876547",
       "detailLevel": "preview"
     },
     {
@@ -301,6 +277,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cbfc0c7e4ac2cef630",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Six mois avant la démission de Jensen Huang, un fonds new-yorkais alertait déjà sur le «problème chinois» de Nvidia",
+      "bullets": [
+        "L’action de l’entreprise bat un record en gagnant 3% le lendemain.",
+        "Premièrement, alors que Nvidia assure ne plus vendre de puces d’IA en Chine depuis les restrictions américaines d’avril 2025, Culper estime tout de même que plus de 20% de ces revenus restaient tirés par la demande chinoise via des intermédiaires d’Asie du Sud-Est.",
+        "Derrière cette note se trouve Christian Lamarco, 31 ans, qui s’est lancé seul en 2019 avec deux associés depuis Brooklyn, rapporte le Wall Street Journal."
+      ],
+      "publishedAt": "2026-11-12T17:15:00+00:00",
+      "updatedAt": "2026-11-12T17:15:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/six-mois-avant-la-demission-de-jensen-huang-un-fonds-new-yorkais-alertait-deja-sur-le-probleme-chinois-de-nvidia-20261112",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "3fc8f1553128d907c4bd8fb92ca75de53f02f9f690544640d7a3385557340601",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -339,8 +343,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T21:55:13+00:00",
-      "updatedAt": "2026-11-12T21:55:13+00:00",
+      "publishedAt": "2026-11-12T22:55:07+00:00",
+      "updatedAt": "2026-11-12T22:55:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -425,7 +429,7 @@
       ],
       "publishedAt": "2026-11-10T10:26:14+00:00",
       "updatedAt": "2026-11-10T10:26:14+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -493,7 +497,7 @@
       "provenance": "article-extract",
       "summaryInput": "1d0f4680fef542e7f0624b2b9a0099a1bf24488909f9868ce1ebc74fa5da05e7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
       "context": null
     },
     {
@@ -687,17 +691,17 @@
     },
     {
       "id": "rss-a833e2b291fa6232de",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "\"Déjà 12 ou 13 personnes dans le village qui ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
+      "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
       "bullets": [
         "L'Inde abrite 60 % des éléphants sauvages d'Asie, plus de 22 000 bêtes, qui chaque année font des centaines de morts et de blessés.",
         "Des tensions mortellesEn 2024, l'Inde a recensé 623 personnes tuées par des éléphants.",
         "Depuis que nous sommes ici, il n'y a plus que 5 % de perte\", indique-t-il."
       ],
-      "publishedAt": "2026-11-12T21:48:42+00:00",
-      "updatedAt": "2026-11-12T21:48:42+00:00",
+      "publishedAt": "2026-11-12T21:56:41+00:00",
+      "updatedAt": "2026-11-12T21:56:41+00:00",
       "importance": 67,
       "sources": [
         {
@@ -708,9 +712,9 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "a1ac8d5049a8a3e594a09692041816be3ff1edb020a84756aac1aa2fe3255b7a",
+      "summaryInput": "1a3b04beb01491e26425f37dccc0ce0515c504305a0235c399647e7a74866190",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T21:57:37.675500+00:00",
+      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
       "context": null
     },
     {
@@ -827,8 +831,8 @@
         "Entre 120 000 et 200 000 personnes sont mortes de faim dans la Moldavie soviétique, au lendemain de la seconde guerre mondiale.",
         "Un projet de loi vise à faire reconnaître cette tragédie, longtemps oubliée, comme un crime contre l’humanité, organisé par le régime stalinien afin de mater les résistances locales."
       ],
-      "publishedAt": "2026-11-12T18:30:07+00:00",
-      "updatedAt": "2026-11-12T18:30:07+00:00",
+      "publishedAt": "2026-11-12T18:30:05+00:00",
+      "updatedAt": "2026-11-12T18:30:05+00:00",
       "importance": 67,
       "sources": [
         {
@@ -843,27 +847,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48858c3dce63eb9d75",
+      "id": "rss-8b02deabdd41eaca6d",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Bande de Gaza : dans un camp de déplacés glacial et inondé, un bébé de 9 mois est « mort de froid », selon des médecins palestiniens",
+      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
       "bullets": [
-        "En outre, des frappes israéliennes ont fait au moins 11 morts, jeudi, dont six dans un hôpital à Khan Younès, dans le sud du territoire, selon les services de secours palestiniens."
+        "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
       ],
-      "publishedAt": "2026-11-12T14:55:54+00:00",
-      "updatedAt": "2026-11-12T14:55:54+00:00",
+      "publishedAt": "2026-11-12T16:25:43+00:00",
+      "updatedAt": "2026-11-12T16:25:43+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/a-gaza-un-bebe-est-mort-de-froid-dans-un-camp-de-deplaces-a-khan-younes-selon-une-source-medicale-et-les-services-de-secours-palestiniens_6809112_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "a2714468d808e16cae640ef01b4e529d08c1531a91c87bfcfed546ecb90955c6",
+      "summaryInput": "ca91185a07f0e5cdf9747a7ae93cfe3db1e9a45bc72f238c91d05f6fad876547",
       "detailLevel": "preview"
     },
     {
@@ -952,7 +956,7 @@
       ],
       "publishedAt": "2026-11-12T10:27:30+00:00",
       "updatedAt": "2026-11-12T10:27:30+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1110,7 +1114,7 @@
       ],
       "publishedAt": "2026-11-12T10:53:16+00:00",
       "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1228,6 +1232,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6831cdda7ed5ac42ee",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "VIDEO. Déserts médicaux : les renforts suffiront-ils ?",
+      "bullets": [
+        "Retards de diagnostics, erreurs d’automédication, urgences non traitées dans les temps...",
+        "Pour lutter contre les situations d’urgence et renforcer la présence de médecins dans les territoires les moins dotés, le gouvernement a créé, en 2025, un Pacte de lutte contre les déserts médicaux.",
+        "Un reportage d’Anaïs Bard, Léo Bensimon, Luis Marques et Soline Braun, diffusé dans “Envoyé spécial” le 12 novembre 2026.> Les replays des magazines d'info de France Télévisions sont disponibles sur le site de franceinfo, rubrique \"Les émissions\"."
+      ],
+      "publishedAt": "2026-11-12T22:15:07+00:00",
+      "updatedAt": "2026-11-12T22:15:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-deserts-medicaux-les-renforts-suffiront-ils_8271020.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "fc4fc0325b7e169fa6b53ca83eb250394decafded63a531d9e5298838845b853",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
+      "context": null
+    },
+    {
       "id": "rss-b1f0f76215418da9fd",
       "revision": 1,
       "category": "france",
@@ -1254,30 +1286,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
-    },
-    {
-      "id": "rss-da20adb4a0d4d5edbd",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
-      "bullets": [
-        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
-      ],
-      "publishedAt": "2026-11-12T17:00:18+00:00",
-      "updatedAt": "2026-11-12T17:00:18+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
