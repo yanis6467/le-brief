@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T06:17:09.469035+00:00",
+  "preparedAt": "2026-11-12T07:42:44.025558+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-5f875477d0f20ce0a0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Allemagne, le comité des « sages » alerte : le réarmement est financé par un endettement excessif",
+      "bullets": [
+        "Les experts indépendants qui conseillent le gouvernement jugent dangereux le recours à la dette pour assurer la moitié de l’effort militaire.",
+        "La dette publique allemande pourrait passer de 64 % du PIB aujourd’hui à 98 % en 2040."
+      ],
+      "publishedAt": "2026-11-11T19:26:59+00:00",
+      "updatedAt": "2026-11-11T19:26:59+00:00",
+      "importance": 94,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/en-allemagne-le-comite-des-sages-alerte-le-rearmement-est-finance-par-un-endettement-excessif-20261111",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fa6c35d9e53ba55359d2fc75e91f1cfab2f60c68b6cb43145f23f04efce7cfcc",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-c5b15ebda601cc20e8",
       "revision": 1,
@@ -58,58 +83,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
       "summaryInput": "bce2a17cdfdf20f855c154d1b5a2af4e10a47d13d73ee314391ccdd938c62d22",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5ea87efbe165c299d9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-      "bullets": [
-        "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles."
-      ],
-      "publishedAt": "2026-11-11T05:00:42+00:00",
-      "updatedAt": "2026-11-11T05:00:42+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2f556b43a0bdc930d706656586225d4f46b4a600c71f87f627a506bdc56f1082",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-81eb2dff74008f7313",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
-      "bullets": [
-        "Cette réserve, qui devra atteindre 24 térawattheures (TWh), soit environ 10 % de la capacité de stockage allemande, doit remplacer à partir de 2027 les objectifs obligatoires de remplissage des stockages de gaz mis en place après l'invasion russe de l'Ukraine.",
-        "Le volume retenu de 24 TWh correspond notamment à un scénario de perte de la principale infrastructure d'importation pendant 30 jours.",
-        "Diversification Le coût du dispositif, estimé entre 247 et 405 millions d'euros par an sur dix ans, sera financé par une contribution répercutée sur les consommateurs de gaz."
-      ],
-      "publishedAt": "2026-11-11T16:13:56+00:00",
-      "updatedAt": "2026-11-11T16:13:56+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-eco/apres-la-crise-russe-l-allemagne-instaure-une-reserve-strategique-de-gaz-20261111",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "dd9ed5adaefc8e89d0e765cd3ce20bf5098350deaac86cf06fb2dfb0f75e2b26",
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
       "context": null
@@ -168,6 +141,30 @@
       "context": null
     },
     {
+      "id": "rss-265862180df3135489",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La hausse du smic mettra 164 branches professionnelles dans l’« illégalité », alerte la CGT",
+      "bullets": [
+        "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, dénonce le syndicat."
+      ],
+      "publishedAt": "2026-11-12T01:18:19+00:00",
+      "updatedAt": "2026-11-12T01:18:19+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "14f1d65e7cba65a35daccd9dc842cafc39a2e0b365705dfb31550c4765785446",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-58c192a06f0dda9b87",
       "revision": 1,
       "category": "eco",
@@ -196,32 +193,28 @@
       "context": null
     },
     {
-      "id": "rss-d151182c19219734d1",
+      "id": "rss-72dff933b929db8a17",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Certaines stations essences \"peuvent être en rupture ponctuelle dans le nord-est de la France\", alerte le PDG de Coopérative U",
+      "title": "Recommandations publicitaires, abonnements forcés, prix mensongers… Bruxelles s’attaque aux pratiques trompeuses des sites marchands",
       "bullets": [
-        "\"La situation de l'approvisionnement en carburant se tend dans le quart nord-est de la France\", indique mercredi 11 novembre sur X Dominique Schelcher, le président-directeur général de Coopérative U.",
-        "L'essence consommée dans l'est de la France, en provenance des raffineries du nord de l'Europe, transite en effet par le Rhin.",
-        "Selon les données mises en ligne par le gouvernement, 19% des stations-service du Grand Est subissaient au moins une rupture de distribution sur un carburant mercredi matin à 9h."
+        "La loi sur « l’équité numérique » vise à renforcer la protection des consommateurs face aux abus des plateformes de commerce ou de jeux en ligne."
       ],
-      "publishedAt": "2026-11-11T11:39:45+00:00",
-      "updatedAt": "2026-11-11T11:39:45+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-11T17:13:15+00:00",
+      "updatedAt": "2026-11-11T17:13:15+00:00",
+      "importance": 66,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/recommandations-publicitaires-abonnements-forces-prix-mensongers-bruxelles-s-attaque-aux-pratiques-trompeuses-des-sites-marchands-20261111",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "b9ef02a501e5eccf708971a1aee4bc80cab669b9244d895199778f80c6b6b755",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T01:26:42.082186+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "8a5892c78522e1023d14002f385d695ff08e869a9b20da3867aead8c32d1be1b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d994db41c6c1269dde",
@@ -300,27 +293,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-265862180df3135489",
+      "id": "rss-5756424537c61dd31c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+      "title": "Le gouvernement mobilisé pour limiter l’attrait de la cigarette électronique auprès des jeunes",
       "bullets": [
-        "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, interpelle le syndicat."
+        "Les cigarettes électroniques jetables ont été interdites et le gouvernement s’est prononcé pour un paquet neutre."
       ],
-      "publishedAt": "2026-11-12T01:18:19+00:00",
-      "updatedAt": "2026-11-12T01:18:19+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-11T16:33:36+00:00",
+      "updatedAt": "2026-11-11T16:33:36+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/le-gouvernement-mobilise-pour-limiter-l-attrait-de-la-cigarette-electronique-aupres-des-jeunes-20261111",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "420f0e08236177a9ade353525ae4b52dcff37563b8984b8d0ebccc1c1a8d58b1",
+      "summaryInput": "0bc340c500e39f76c6ff0396f517673f5d0de8ad382bd78f7e71882af962087b",
       "detailLevel": "preview"
     },
     {
@@ -362,8 +355,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T06:14:17+00:00",
-      "updatedAt": "2026-11-12T06:14:17+00:00",
+      "publishedAt": "2026-11-12T07:38:21+00:00",
+      "updatedAt": "2026-11-12T07:38:21+00:00",
       "importance": 69,
       "sources": [
         {
@@ -408,31 +401,31 @@
       "context": null
     },
     {
-      "id": "rss-8a787934c2a6be3bfa",
+      "id": "rss-096131547419ea8241",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L'IA rebondit en Bourse grâce notamemnt aux espoirs autour d'un relèvement de la valorisation cible d'Anthropic pour son entrée à Wall Street, le CAC 40 termine en hausse",
+      "title": "CAC 40 : IA d'la joie !",
       "bullets": [
-        "La Bourse de Paris a connu une belle séance en ce jour férié du mercredi 11 novembre.",
-        "Le Financial Times a rapporté qu'Anthropic envisagerait de revoir à la hausse sa valorisation cible pour son introduction en Bourse pour la porter à 1.500 milliards de dollars contre jusqu'à 1.400 milliards de dollars précédemment.",
-        "Bloomberg a de son côté écrit qu'OpenAI avait effectivement réalisé des revenus de 10 milliards de dollars pour la première fois de son histoire sur le trimestre clos fin septembre, en hausse de 50% par rapport au précédent trimestre."
+        "Le CAC40 a terminé la séance dans le vert, gagnant 0,66% à 8 332 points mercredi, l'appétit pour le risque étant alimenté par les comptes du neocloud Coreweave, qui ont rassuré au point de rassurer sur l'écosystème IA en Bourse de part et d'autre de l'Atlantique.",
+        "A Paris, les principaux dossiers estampillés IA étaient particulièrement recherchés, à l'image de Legrand (+2,21%), Schneder Electric (+3,04%), OVH (+3,26%), STMicro (+5,16%) et Soitec (+11,93%).",
+        "Aux États-Unis, les prix à la consommation ont augmenté de 0,4% sur un mois."
       ],
-      "publishedAt": "2026-11-11T17:17:34+00:00",
-      "updatedAt": "2026-11-11T17:17:34+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-12T07:30:13+00:00",
+      "updatedAt": "2026-11-12T07:30:13+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-ia-d-la-joie-1173614.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "bb227603c4b5cf44fe635dad4719eb550e47f66f0a8f7dc691a97f4025d1eaaf",
+      "summaryInput": "291f269f95633ec714d74bd7d6c00ae0a033de386f12aa18dabe97417a79ccb9",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T06:17:09.469035+00:00",
+      "enrichedAt": "2026-11-12T07:42:44.025558+00:00",
       "context": null
     },
     {
@@ -559,7 +552,7 @@
       ],
       "publishedAt": "2026-11-11T19:21:03+00:00",
       "updatedAt": "2026-11-11T19:21:03+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -574,16 +567,16 @@
     },
     {
       "id": "rss-db6309f556eb449df7",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
+      "title": "Des écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
       "bullets": [
         "Des courriers électroniques menaçants ont été envoyés à des milliers d’établissements scolaires, mercredi 11 novembre.",
-        "Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais en Italie le gouvernement voudrait quand même sensibiliser davantage les citoyens aux risques de la guerre hybride."
+        "Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais, en Italie, le gouvernement veut sensibiliser davantage les citoyens aux risques de la guerre hybride."
       ],
-      "publishedAt": "2026-11-11T22:30:54+00:00",
-      "updatedAt": "2026-11-11T22:30:54+00:00",
+      "publishedAt": "2026-11-11T22:30:51+00:00",
+      "updatedAt": "2026-11-11T22:30:51+00:00",
       "importance": 93,
       "sources": [
         {
@@ -594,7 +587,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "4f6a1bf5920f32ba5c7ed4fc6a47fd6c29df97e275233e0ff02d63058ed78092",
+      "summaryInput": "f3f310d699e1ec84baa13048dfd8eeddbc7fbe3792e622f722829871aa0339b9",
       "detailLevel": "preview"
     },
     {
@@ -624,6 +617,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T23:01:56.680799+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2db924a4f98082f285",
+      "revision": 1,
+      "category": "world",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+      "bullets": [
+        "Le candidat « insoumis » a, lors de son meeting du 7 novembre, évoqué la possibilité d’un référendum sur la cession du Donbass à la Russie pour résoudre la guerre.",
+        "Il a vivement répondu aux critiques mercredi 11 novembre dans un « discours sur la paix »."
+      ],
+      "publishedAt": "2026-11-11T19:20:46+00:00",
+      "updatedAt": "2026-11-11T19:20:46+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f766f1e5657a00850ca4f954d2b87af87d6b8487c45de7a0e47a41f1b8094e41",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-7c9dc7a14fad382692",
@@ -676,13 +694,37 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d2e124b9815f1e5847",
+      "id": "rss-eebf10fd5be240a124",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A suivre Loïc de la Mornais : la rougeole fait son retour, la faute de Trump ?",
+      "bullets": [
+        "Dans cette troisième partie, Loïc de la Mornais et ses invités reviennent sur le retour de la rougeole aux États-Unis. Après la victoire des démocrates aux élections de mi-mandat, ils s'interrogent également sur qui sera le mieux placé pour se présenter à l'élection présidentielle de 2028. Une séquence à retrouver…"
+      ],
+      "publishedAt": "2026-11-12T06:43:41+00:00",
+      "updatedAt": "2026-11-12T06:43:41+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-la-rougeole-fait-son-retour-la-faute-de-trump_8278808.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ae01c298fbbb2e34a4ae54ae1ec7c030b71a3ba1080db1ad21b15886b0fe899f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d2e124b9815f1e5847",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »",
       "bullets": [
-        "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien."
+        "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à y apporter en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien."
       ],
       "publishedAt": "2026-11-12T02:36:03+00:00",
       "updatedAt": "2026-11-12T02:36:03+00:00",
@@ -696,31 +738,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "76bd7243a26734c9f2f5882266358dd8dde36fcc577357369e6045525ee5ddf9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-927d1772349f7773d7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux",
-      "bullets": [
-        "Cette révision constitutionnelle vise les citoyennetés obtenues par fraude ou les personnes condamnées pour des crimes portant gravement atteinte aux « intérêts vitaux » du pays, mais ses modalités restent à définir par le prochain gouvernement."
-      ],
-      "publishedAt": "2026-11-11T18:40:40+00:00",
-      "updatedAt": "2026-11-11T18:40:40+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5804930b3c13a467731fc9917c967dda33a41cc4cc876c166c2f5e688a40bcf5",
+      "summaryInput": "9ab82ba2808a20f6f0e366b64ed623449260e7b4cb9fea37b4a99d380456e44a",
       "detailLevel": "preview"
     },
     {
@@ -748,39 +766,11 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3b6f0708544d798ac5",
+      "id": "rss-5e61e0aeef10a1c11a",
       "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "REPORTAGE.\"On se barre, on n'en peut plus d'être ici\" : à Kiev, des commerces ferment les uns après les autres",
-      "bullets": [
-        "Le proprio m'a dit : 'On se barre de Kiev, on n'en peut plus d'être ici'.\"En quelques mois, près d'un millier de commerces ont fermé dans la capitale ukrainienne.",
-        "J'ai investi à peu près 35 000 dollars dans ce resto.",
-        "Je suis prêt à le céder pour 15 000 dollars\", assure Oleksandr."
-      ],
-      "publishedAt": "2026-11-11T15:27:09+00:00",
-      "updatedAt": "2026-11-11T15:27:09+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/on-se-barre-de-kiev-on-n-en-peut-plus-d-etre-ici-a-kiev-des-commerces-ferment-les-uns-apres-les-autres_8277908.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "8fc0e32ead74a194579d0d67c1b9cd228e2735aa41adfdfea8ef9ec986b44694",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5e61e0aeef10a1c11a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président",
+      "title": "Paraguay : la banque centrale rembourse en partie tous les clients d’Ueno Bank, dont l’effondrement a provoqué la chute du président",
       "bullets": [
         "L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité.",
         "Les plus gros déposants devront patienter pour espérer récupérer l’intégralité de leurs fonds."
@@ -797,7 +787,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "45964f9ae98828e086cb50fec1b08d961011c9182de5337799edc65d21167228",
+      "summaryInput": "a5dedef7f375c2f56fce59ed99f5a80b1e93ec3f9c1939ce1ffd99ba97ddbd26",
       "detailLevel": "preview"
     },
     {
@@ -983,8 +973,8 @@
         "Par ailleurs, dans un communiqué posté dans la nuit de mercredi à jeudi sur son compte Instagram, Assa Traoré écrit \"avoir décidé de porter plainte\".",
         "Le suspect a assuré lors de sa garde à vue que cela \"pouvait servir un jour\" et expliqué n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France.\""
       ],
-      "publishedAt": "2026-11-12T05:28:24+00:00",
-      "updatedAt": "2026-11-12T05:28:24+00:00",
+      "publishedAt": "2026-11-12T07:38:12+00:00",
+      "updatedAt": "2026-11-12T07:38:12+00:00",
       "importance": 55,
       "sources": [
         {
@@ -1260,7 +1250,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1272,7 +1262,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1308,7 +1298,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1326,7 +1316,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1350,7 +1340,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
