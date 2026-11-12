@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T15:07:55.840577+00:00",
+  "preparedAt": "2026-11-12T16:15:34.700430+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -101,6 +101,30 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "656fe5f0e6d8ef28ad5bd22c9de30d7ef2050b35b8a05933e258e3469132c867",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b5ab4b0497d47cb8ec",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Le développement économique incarné par l’essor des data centers conduit l’humanité vers une fracture inégalitaire »",
+      "bullets": [
+        "En parallèle des élections américaines de mi-mandat, les citoyens états-uniens se sont prononcés pour mettre un terme à l’expansion des centres de données, symboles d’un modèle économique déréglé, analyse Pascal Riché, journaliste au « Monde », dans sa chronique."
+      ],
+      "publishedAt": "2026-11-12T16:00:12+00:00",
+      "updatedAt": "2026-11-12T16:00:12+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/le-developpement-economique-incarne-par-l-essor-des-data-centers-conduit-l-humanite-vers-une-fracture-inegalitaire_6809125_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "366da6d38e6f4c43727c32c49cd15d8fa319deff1e3298c2017944ece73f55a3",
       "detailLevel": "preview"
     },
     {
@@ -243,7 +267,7 @@
       ],
       "publishedAt": "2026-11-12T04:00:13+00:00",
       "updatedAt": "2026-11-12T04:00:13+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -285,30 +309,6 @@
       "context": null
     },
     {
-      "id": "rss-4be20f8636f7498c5d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
-      "bullets": [
-        "Selon le « Wall Street Journal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces électroniques nécessaires à la révolution de l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-11T23:30:03+00:00",
-      "updatedAt": "2026-11-11T23:30:03+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b7b311a9e8bdc7598b20e7fcb4dae8b82831731751c8938a07b51e2780ce9977",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -347,8 +347,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T15:05:25+00:00",
-      "updatedAt": "2026-11-12T15:05:25+00:00",
+      "publishedAt": "2026-11-12T16:12:53+00:00",
+      "updatedAt": "2026-11-12T16:12:53+00:00",
       "importance": 69,
       "sources": [
         {
@@ -561,31 +561,6 @@
       "context": null
     },
     {
-      "id": "rss-2db924a4f98082f285",
-      "revision": 1,
-      "category": "world",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
-      "bullets": [
-        "Le candidat « insoumis » a, lors de son meeting du 7 novembre, évoqué la possibilité d’un référendum sur la cession du Donbass à la Russie pour résoudre la guerre.",
-        "Il a vivement répondu aux critiques mercredi 11 novembre dans un « discours sur la paix »."
-      ],
-      "publishedAt": "2026-11-11T19:20:46+00:00",
-      "updatedAt": "2026-11-11T19:20:46+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f766f1e5657a00850ca4f954d2b87af87d6b8487c45de7a0e47a41f1b8094e41",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7c9dc7a14fad382692",
       "revision": 1,
       "category": "world",
@@ -765,6 +740,79 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-fa3c6392c2edd1c473",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le Canada envisage d’abolir la « loi sur les Indiens », vestige de la colonisation",
+      "bullets": [
+        "Le premier ministre canadien, Mark Carney, a ouvert la voie à une possible abolition de cette loi, qui encadre depuis cent cinquante ans la vie des peuples autochtones.",
+        "Si son caractère colonial et obsolète est consensuel, l’idée de la voir disparaître ne fait pas l’unanimité."
+      ],
+      "publishedAt": "2026-11-12T16:00:07+00:00",
+      "updatedAt": "2026-11-12T16:00:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/le-canada-envisage-d-abolir-la-loi-sur-les-indiens-vestige-de-la-colonisation_6809124_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d374bb352c58812566dd082ab0a618424a0e2d67be8aca542a22c9875691b973",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e375f703bbddc94fe0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Israël, Avigdor Lieberman, l’opposant à Benyamin Nétanyahou qui se verrait bien « calife à la place du calife »",
+      "bullets": [
+        "Malgré son alliance avec Gadi Eisenkot, que le chef de l’Etat a chargé de réunir une coalition pour former un gouvernement, cet insaisissable vétéran de la politique israélienne cultive les ambiguïtés et laisse planer le doute sur ses ambitions."
+      ],
+      "publishedAt": "2026-11-12T15:54:31+00:00",
+      "updatedAt": "2026-11-12T15:54:31+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/en-israel-avigdor-lieberman-l-opposant-a-benyamin-netanyahou-qui-se-verrait-bien-calife-a-la-place-du-calife_6809123_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "dfc958aaae0aca618b3cf90c886c1a052c8073cd2e82c2e6deb9ed63c2643431",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7cfa808dd5a53af9b5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Droits des femmes : la Hongrie prévoit de ratifier la convention d’Istanbul",
+      "bullets": [
+        "Le premier ministre hongrois a également annoncé, jeudi, la suppression d’une réglementation qui obligeait les femmes à écouter les battements du cœur de leur fœtus avant un avortement."
+      ],
+      "publishedAt": "2026-11-12T15:38:36+00:00",
+      "updatedAt": "2026-11-12T15:38:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/droits-des-femmes-la-hongrie-prevoit-de-ratifier-la-convention-d-istanbul_6809118_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a078a85dc0e79ed728064aa97e2cd3045b2fdf6126e5f032a738ac40fd62b1a5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0f123cea22f78ae200",
       "revision": 1,
       "category": "world",
@@ -799,7 +847,7 @@
       ],
       "publishedAt": "2026-11-11T03:16:28+00:00",
       "updatedAt": "2026-11-11T03:16:28+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -811,62 +859,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "c9f63fdbef053404755523d35858e60a45ab6feb3e1c87e1906605c76aa08ea7",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5998d4edf3c70dbc3c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le patron du géant de la tech Nvidia, Jensen Huang, démissionne après la révélation d'une liaison avec une femme soupçonnée d'espionnage pour la Chine",
-      "bullets": [
-        "Jensen Huang, dirigeant du concepteur de puces électroniques américain Nvidia, a démissionné de ses fonctions de président, directeur général et membre du conseil d'administration, avec effet immédiat, annonce son conseil d'administration dans un communiqué, jeudi 12 novembre.",
-        "Les composants les plus performants de Nvidia sont interdits d'exportation vers la Chine, rivale des Etats-Unis dans la course à l'IA.",
-        "La Chine dément les accusation d'espionnageJensen Huang, 63 ans, avait cofondé Nvidia en 1993 et la dirigeait depuis."
-      ],
-      "publishedAt": "2026-11-12T14:37:47+00:00",
-      "updatedAt": "2026-11-12T14:37:47+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-du-geant-de-la-tech-nvidia-jensen-huang-demissionne-apres-la-revelation-d-une-liaison-avec-une-femme-soupconnee-d-espionnage-pour-la-chine_8279405.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "a91e13ba304d6ff464d8ca2a73356b65b12c4d7e8e33e58eac022aba3c87bec7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9e78dd9d02bfe6ac97",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un immeuble de trois étages s'écroule à New York, au moins quatre morts et une vingtaine de blessés",
-      "bullets": [
-        "Une scène de chaos en plein New York (États-Unis).",
-        "De ce qui reste de l'immeuble, on aperçoit une chambre et un dressing éventrés par la violence de l'effondrement.",
-        "250 secouristes sont toujours sur les lieux à la recherche de victimes."
-      ],
-      "publishedAt": "2026-11-12T14:11:55+00:00",
-      "updatedAt": "2026-11-12T14:11:55+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-de-trois-etages-s-ecroule-a-new-york-au-moins-quatre-morts-et-une-vingtaine-de-blesses_8279408.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "dd33c1ba61a5bb0ed5fff04ec5de423c0e569f271ef720eaaa1c4611a4f1d5b2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
-      "context": null
     },
     {
       "id": "rss-e8baf1e1cfe92f27ae",
@@ -918,27 +910,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-362b73c39cbd681dc5",
-      "revision": 1,
+      "id": "rss-1018fa030de9934abb",
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
-      "title": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
+      "title": "Mobilisation lycéenne : Carole Delga, la présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
       "bullets": [
-        "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la première fois, les lycéens ont un effet sur leur vie »."
+        "La présidente socialiste de l’association Régions de France défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une enquête fondée sur les seules remontées des lycéens."
       ],
-      "publishedAt": "2026-11-05T15:36:56+00:00",
-      "updatedAt": "2026-11-05T15:36:56+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-12T14:00:04+00:00",
+      "updatedAt": "2026-11-12T14:00:04+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "5accc79885e7a5f3b80f02e352f35124065447b3a04ff813c0995141d0ec9ae6",
+      "summaryInput": "5a6cca776990ec87b19805f7e21141e2b675610e698318a79aa9ea911480b78a",
       "detailLevel": "preview"
     },
     {
@@ -970,28 +962,32 @@
       "context": null
     },
     {
-      "id": "rss-9565d8ef1d383d6991",
+      "id": "rss-aff66d35fa5f47c32b",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Procès du triple narchomicide de 2020 : le parquet général dénonce des meurtres d’une « sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
+      "title": "Attentat raciste de Trappes : \"C’est au Rassemblement national de s’expliquer plutôt que de m’attaquer en justice\", estime Marine Tondelier",
       "bullets": [
-        "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… méthode habituelle des criminels et du narcobanditisme en particulier » et a requis, le 11 novembre, de lourdes peines à l’égard des accusés."
+        "\"Il faut qu'ils en tirent les conséquences\", dit-elle.",
+        "Des mots comme des \"munitions\"Marine Tondelier réagit également aux noms de personnalités de gauche retrouvés sur un post-it au domicile du principal suspect, Kévin Tessier, mis en cause dans l'attentat terroriste raciste perpétré dans les Yvelines le 23 octobre dernier.",
+        "Le 23 octobre, à bord de son véhicule, Kévin Tessier, âgé de 39 ans, a tué avec un pistolet-mitrailleur le jeune espoir français des arts martiaux mixtes Pengo Bossio Wangi et fait sept blessés, dont quatre graves, à Trappes et La Verrière."
       ],
-      "publishedAt": "2026-11-11T19:37:09+00:00",
-      "updatedAt": "2026-11-11T19:37:09+00:00",
-      "importance": 54,
+      "publishedAt": "2026-11-12T15:20:46+00:00",
+      "updatedAt": "2026-11-12T15:20:46+00:00",
+      "importance": 87,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-c-est-au-rassemblement-national-de-s-expliquer-plutot-que-de-m-attaquer-en-justice-estime-marine-tondelier_8279558.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e97331d3097b61931e5591ebbded90aebef2e1410b0aebdb2c408c1ab959e86a",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "94a3768e0fda76141a2520f4c9fddda9b8a5eb05274c9fd17b3103917922d728",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T16:15:34.700430+00:00",
+      "context": null
     },
     {
       "id": "rss-4588ad746f0252e0ec",
@@ -1094,30 +1090,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1018fa030de9934abb",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : Carole Delga, présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
-      "bullets": [
-        "La présidente socialiste de l’association Régions de France, défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une « enquête » fondée sur les seules remontées des lycéens."
-      ],
-      "publishedAt": "2026-11-12T14:00:04+00:00",
-      "updatedAt": "2026-11-12T14:00:04+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "328239bdb33b288d2bf46ecc3257d787395234fe3497518775353b413bba2ddf",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ae745e831dbacd0e6f",
       "revision": 1,
       "category": "france",
@@ -1215,6 +1187,59 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-90df1864a41fc17ef6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
+      "bullets": [
+        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
+        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
+      ],
+      "publishedAt": "2026-11-10T04:00:14+00:00",
+      "updatedAt": "2026-11-10T04:00:14+00:00",
+      "importance": 68,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ab6241ff8f660720c9",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Trappes, une liste d'élus retrouvée chez le tireur",
+      "bullets": [
+        "\"Cette année a été remplie pour moi\" : onze ans après le 13-Novembre, la cagnotte de Sonia, témoin essentiel, va être clôturée",
+        "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien",
+        "Christophe Gleizes détenu depuis 500 jours en Algérie"
+      ],
+      "publishedAt": "2026-11-12T16:00:02+00:00",
+      "updatedAt": "2026-11-12T16:00:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/trappes-une-liste-d-elus-retrouvee-chez-le-tireur_8279582.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "ad954d24627ed99b316223aa26945820eaec72554fe0fdc70b46b3ea46e7894c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T16:15:34.700430+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9f998c302c4380141a",
       "revision": 1,
       "category": "france",
@@ -1241,31 +1266,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0f2d277e53c96c5c93",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«Je reviens dans ma patrie» : le Pérou porte son pape Léon XIV en triomphe",
-      "bullets": [
-        "RÉCIT - Léon XIV est arrivé mercredi soir à Lima.",
-        "Il donne cinq jours de sa tournée latino-américaine à ce pays dont il a la nationalité et où il a été missionnaire puis évêque pendant vingt ans."
-      ],
-      "publishedAt": "2026-11-12T13:33:42+00:00",
-      "updatedAt": "2026-11-12T13:33:42+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/je-reviens-dans-ma-patrie-le-perou-porte-son-pape-leon-xiv-en-triomphe-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a870efbc96b6eb84c4cf1e0eaf41a4f861aff96b445453aa8e0627cb9864a0da",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1291,7 +1291,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1381,7 +1381,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 33
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
