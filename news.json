@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T01:26:42.082186+00:00",
+  "preparedAt": "2026-11-12T03:01:45.341016+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -169,12 +169,12 @@
     },
     {
       "id": "rss-265862180df3135489",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
       "bullets": [
-        "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec un mimima en dessous du smic, interpelle le syndicat."
+        "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, interpelle le syndicat."
       ],
       "publishedAt": "2026-11-12T01:18:19+00:00",
       "updatedAt": "2026-11-12T01:18:19+00:00",
@@ -188,7 +188,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "3e5270489392cbaf2b048d57ec24125be8303867d43451cc6b7979b8ac4861cc",
+      "summaryInput": "420f0e08236177a9ade353525ae4b52dcff37563b8984b8d0ebccc1c1a8d58b1",
       "detailLevel": "preview"
     },
     {
@@ -228,7 +228,7 @@
       ],
       "publishedAt": "2026-11-11T13:29:33+00:00",
       "updatedAt": "2026-11-11T13:29:33+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -336,7 +336,7 @@
       ],
       "publishedAt": "2026-11-10T13:28:43+00:00",
       "updatedAt": "2026-11-10T13:28:43+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -362,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T01:22:26+00:00",
-      "updatedAt": "2026-11-12T01:22:26+00:00",
+      "publishedAt": "2026-11-12T02:53:34+00:00",
+      "updatedAt": "2026-11-12T02:53:34+00:00",
       "importance": 69,
       "sources": [
         {
@@ -476,7 +476,7 @@
       ],
       "publishedAt": "2026-11-09T14:36:20+00:00",
       "updatedAt": "2026-11-09T14:36:20+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -626,6 +626,30 @@
       "context": null
     },
     {
+      "id": "rss-d2e124b9815f1e5847",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »",
+      "bullets": [
+        "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien."
+      ],
+      "publishedAt": "2026-11-12T02:36:03+00:00",
+      "updatedAt": "2026-11-12T02:36:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "76bd7243a26734c9f2f5882266358dd8dde36fcc577357369e6045525ee5ddf9",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-927d1772349f7773d7",
       "revision": 1,
       "category": "world",
@@ -647,30 +671,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "5804930b3c13a467731fc9917c967dda33a41cc4cc876c166c2f5e688a40bcf5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5f437bbd66a309233e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Egypte, Hossam Hassan, le sélectionneur de l’équipe nationale de football, débarqué à cause de ses déboires conjugaux",
-      "bullets": [
-        "La Fédération de football égyptienne a décidé de limoger l’entraîneur après avoir constaté la « répercussion négative sur l’image et la stabilité de la sélection nationale » de ses problèmes de couple."
-      ],
-      "publishedAt": "2026-11-11T15:30:02+00:00",
-      "updatedAt": "2026-11-11T15:30:02+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/11/en-egypte-hossam-hassan-le-selectionneur-de-l-equipe-nationale-de-football-debarque-a-cause-de-ses-deboires-conjugaux_6808992_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dae42ef0019dbd9eaebfa810bf2e90271f6c60f3f887acf45f142a64b769af9f",
       "detailLevel": "preview"
     },
     {
@@ -724,6 +724,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-11T17:08:26.437598+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5e61e0aeef10a1c11a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président",
+      "bullets": [
+        "L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité.",
+        "Les plus gros déposants devront patienter pour espérer récupérer l’intégralité de leurs fonds."
+      ],
+      "publishedAt": "2026-11-12T01:40:31+00:00",
+      "updatedAt": "2026-11-12T01:40:31+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "45964f9ae98828e086cb50fec1b08d961011c9182de5337799edc65d21167228",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-f10dc151744bcd5ac8",
@@ -831,30 +856,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "9b216c425bf8a856a16cb33d22cedfc993293a310429159e8606b979e325b495",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f0353a6b804932fb4e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Christophe Gleizes : plusieurs personnalités rassemblées pour soutenir le journaliste, détenu depuis 500 jours",
-      "bullets": [
-        "Le journaliste de 37 ans, collaborateur du magazine So Foot, a été arrêté en mai 2024 dans le cadre d’un reportage sur le club de football de la Jeunesse sportive de Kabylie, puis placé sous contrôle judiciaire."
-      ],
-      "publishedAt": "2026-11-11T19:35:10+00:00",
-      "updatedAt": "2026-11-11T19:35:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/actualite-medias/video/2026/11/11/christophe-gleizes-plusieurs-personnalites-rassemblees-pour-soutenir-le-journaliste-detenu-depuis-500-jours_6809026_3236.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ff54e32098be8ff5945ae626a7ad64f3ae557a105f178f12ec2484e526876f0c",
       "detailLevel": "preview"
     },
     {
@@ -1042,7 +1043,7 @@
       ],
       "publishedAt": "2026-11-11T13:30:02+00:00",
       "updatedAt": "2026-11-11T13:30:02+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1157,27 +1158,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-35943ac664bcb31542",
+      "id": "rss-ed826a139a252fb3dc",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Bruno Retailleau propose aux candidats de la droite et du centre d’organiser une primaire les 31 janvier et 7 février",
+      "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
       "bullets": [
-        "Le président des Républicains s’est vu opposer une nouvelle fin de non-recevoir du camp d’Edouard Philippe, qui refuse le principe de la primaire mais estime qu’un « grand rassemblement » est nécessaire autour d’un seul candidat."
+        "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires."
       ],
-      "publishedAt": "2026-11-11T14:24:18+00:00",
-      "updatedAt": "2026-11-11T14:24:18+00:00",
+      "publishedAt": "2026-11-11T20:07:54+00:00",
+      "updatedAt": "2026-11-11T20:07:54+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html",
+          "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "9366e3a3b60a94cc4d7daff0638d578e16bbe15fdcee9f8578f22714fe535f6d",
+      "summaryInput": "095336328629ec89aec4d4fb70ade4dda4c023ca71534d16780dcc4233eef814",
       "detailLevel": "preview"
     },
     {
