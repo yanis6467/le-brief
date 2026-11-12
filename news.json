@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T03:01:45.341016+00:00",
+  "preparedAt": "2026-11-12T04:07:31.393408+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -168,6 +168,30 @@
       "context": null
     },
     {
+      "id": "rss-815d2295f30b151a28",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La question des morts au travail peine à émerger dans les débats politiques",
+      "bullets": [
+        "La France connaît une augmentation continue des accidents mortels au travail. Depuis 2022, le problème n’a été traité que de manière partielle par le gouvernement. A cinq mois de l’élection présidentielle, la sécurité dans l’espace professionnel n’apparaît investie que par la gauche."
+      ],
+      "publishedAt": "2026-11-12T04:00:13+00:00",
+      "updatedAt": "2026-11-12T04:00:13+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/la-question-des-morts-au-travail-peine-a-emerger-dans-les-debats-politiques_6809045_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e7356d82213a72ee2d2ee414c4c191a0bb62afe74ceb8e4be0c46d828c0f4c94",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-265862180df3135489",
       "revision": 2,
       "category": "eco",
@@ -300,30 +324,6 @@
       "context": null
     },
     {
-      "id": "rss-3d45ea296c0ef53c76",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Parcoursup : « La sélection n’est pas l’ennemie de l’égalité des chances »",
-      "bullets": [
-        "Supprimer toute régulation à l’entrée de l’université revient à fabriquer des générations de jeunes sans emploi, explique le président du conseil d’orientation des politiques de jeunesse, Hugo Huet, dans une tribune au « Monde »."
-      ],
-      "publishedAt": "2026-11-11T04:00:02+00:00",
-      "updatedAt": "2026-11-11T04:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/parcoursup-la-selection-n-est-pas-l-ennemie-de-l-egalite-des-chances_6808921_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "feadf3fafde7a655db841123d5177c99518cc2ec48ec5976a4cf6e117b7b81fe",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -362,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T02:53:34+00:00",
-      "updatedAt": "2026-11-12T02:53:34+00:00",
+      "publishedAt": "2026-11-12T04:04:23+00:00",
+      "updatedAt": "2026-11-12T04:04:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -626,6 +626,31 @@
       "context": null
     },
     {
+      "id": "rss-8ba379a7031c6fd68f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Iran : la population à bout de souffle",
+      "bullets": [
+        "Englué dans un conflit contre les Etats-Unis et Israël, le pays voit son économie s’effondrer.",
+        "Explications en podcast avec Ghazal Golshiri, journaliste au service International du « Monde »."
+      ],
+      "publishedAt": "2026-11-12T04:00:09+00:00",
+      "updatedAt": "2026-11-12T04:00:09+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/11/12/guerre-en-iran-la-population-a-bout-de-souffle_6809043_5463015.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cbbf74e477e4d00637033951b29f3caaa6f43dc20d6d8b5d09bef74446d5b195",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d2e124b9815f1e5847",
       "revision": 1,
       "category": "world",
@@ -710,7 +735,7 @@
       ],
       "publishedAt": "2026-11-11T15:27:09+00:00",
       "updatedAt": "2026-11-11T15:27:09+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -834,31 +859,6 @@
       "context": null
     },
     {
-      "id": "rss-a63d0ccbfd96834911",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
-      "bullets": [
-        "Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky.",
-        "Mais aucune percée diplomatique n’a été annoncée."
-      ],
-      "publishedAt": "2026-11-11T17:59:44+00:00",
-      "updatedAt": "2026-11-11T17:59:44+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9b216c425bf8a856a16cb33d22cedfc993293a310429159e8606b979e325b495",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7170dd36ac182411f4",
       "revision": 1,
       "category": "france",
@@ -966,7 +966,7 @@
       ],
       "publishedAt": "2026-11-10T15:31:14+00:00",
       "updatedAt": "2026-11-10T15:31:14+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1120,7 +1120,7 @@
       ],
       "publishedAt": "2026-11-10T04:00:14+00:00",
       "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Monde",
