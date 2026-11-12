@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T09:14:29.186145+00:00",
+  "preparedAt": "2026-11-12T10:20:47.185173+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -88,28 +88,27 @@
       "context": null
     },
     {
-      "id": "rss-5cfefd172a2162f62e",
+      "id": "rss-2e476a78aebfd75b42",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
+      "title": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme des grands bouleversements économiques, de la guerre commerciale au réarmement mondial »",
       "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie.",
-        "Elle avait déjà rencontré une douzaine de patrons de grands groupes en avril."
+        "Alors que le constructeur européen a annoncé, lundi 9 novembre, la vente du grand site industriel de Brampton, dans l’Ontario, à l’industriel de défense canadien Roshel, les questions soulevées par cette reconversion qui fait écho à beaucoup d’autres sont à la fois éthiques et économiques, explique Isabelle Chaperon, chroniqueuse au…"
       ],
-      "publishedAt": "2026-11-11T12:07:18+00:00",
-      "updatedAt": "2026-11-11T12:07:18+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-12T10:00:09+00:00",
+      "updatedAt": "2026-11-12T10:00:09+00:00",
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/au-canada-une-usine-fantome-de-stellantis-est-ballottee-au-rythme-des-grands-bouleversements-economiques-de-la-guerre-commerciale-au-rearmement-mondial_6809084_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "c4c01c14a0dc32cb88edf582f25e81f3c0b7b8aa9236304c74f7f79728f92b6a",
+      "summaryInput": "eaafb4e3dbcedd31faa49b42912af0d2b81e12fad5549aa5d2b80339478f3e23",
       "detailLevel": "preview"
     },
     {
@@ -359,8 +358,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T09:12:16+00:00",
-      "updatedAt": "2026-11-12T09:12:16+00:00",
+      "publishedAt": "2026-11-12T10:17:59+00:00",
+      "updatedAt": "2026-11-12T10:17:59+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,6 +456,34 @@
       "context": "Résultats du troisième trimestre"
     },
     {
+      "id": "rss-7d7ad2cc1bd8f9d06d",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Son plan stratégique «Burberry Forward» porte ses fruits... Grâce à la Chine et aux États-Unis, le groupe de luxe britannique repasse dans le vert et bondit de 7% à la Bourse de Londres",
+      "bullets": [
+        "Sur les six mois clos le 26 septembre 2026, le chiffre d’affaires a progressé de 6% sur un an, à 1,098 milliard de livres sterling, contre 1,032 milliard un an plus tôt.",
+        "Un retour aux bénéfices Le groupe a dégagé un bénéfice net de 6 millions de livres, après une perte de 26 millions au cours de la même période de l’exercice précédent.",
+        "Son résultat d’exploitation ajusté a atteint 62 millions de livres (74,2 millions d’euros), dépassant nettement les 44 millions attendus en moyenne par les analystes."
+      ],
+      "publishedAt": "2026-11-12T09:26:06+00:00",
+      "updatedAt": "2026-11-12T09:26:06+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/son-plan-strategique-burberry-forward-porte-ses-fruits-grace-a-la-chine-et-aux-etats-unis-le-groupe-de-luxe-britannique-repasse-dans-le-vert-et-bondit-de-7-a-la-bourse-de-londres-1173636.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "1d0f4680fef542e7f0624b2b9a0099a1bf24488909f9868ce1ebc74fa5da05e7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0f1e7115b2ff2641e0",
       "revision": 1,
       "category": "markets",
@@ -539,31 +566,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
       "context": null
-    },
-    {
-      "id": "rss-db6309f556eb449df7",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Des écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
-      "bullets": [
-        "Des courriers électroniques menaçants ont été envoyés à des milliers d’établissements scolaires, mercredi 11 novembre.",
-        "Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais, en Italie, le gouvernement veut sensibiliser davantage les citoyens aux risques de la guerre hybride."
-      ],
-      "publishedAt": "2026-11-11T22:30:51+00:00",
-      "updatedAt": "2026-11-11T22:30:51+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f3f310d699e1ec84baa13048dfd8eeddbc7fbe3792e622f722829871aa0339b9",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-36538f493baf6048ee",
@@ -741,6 +743,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dc3698417d5d8764d9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
+      "bullets": [
+        "La présidente du Conseil italien, Giorgia Meloni a assuré, mercredi 11 novembre, qu'aucune des alertes à la bombe ayant visé des milliers d'établissements scolaires dans le pays ne permettait, à ce stade, de conclure à une menace concrète.",
+        "Giorgia Meloni a estimé que ces messages visaient avant tout à \"faire peur\", à provoquer \"le soupçon\" et \"le chaos\", rappelant que des alertes similaires avaient également touché le Royaume-Uni et l'Irlande mercredi.",
+        "Ces attaques suscitent une inquiétude croissante en Europe quant à la possibilité d'une escalade de la guerre hybride."
+      ],
+      "publishedAt": "2026-11-12T10:03:43+00:00",
+      "updatedAt": "2026-11-12T10:03:43+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "6911b160ba69e8b224daed015d59117ac5c7188f5f1fae38038d411d8ae90513",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5e61e0aeef10a1c11a",
       "revision": 2,
       "category": "world",
@@ -766,13 +796,68 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-91bf2b9787f614da03",
+      "id": "rss-f10dc151744bcd5ac8",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Leur inaction a coûté des vies\" : Amnesty dénonce la passivité des autorités et de l'ONU pour empêcher un massacre au Soudan du Sud",
+      "bullets": [
+        "Les autorités sud-soudanaises et la mission de l'ONU au Soudan du Sud (Minuss) n'ont pas agi en dépit d'avertissements pour empêcher un massacre qui a tué plus de 200 personnes en mars, a dénoncé Amnesty International, jeudi 11 novembre.",
+        "Le 1er mars dernier, plus de mille hommes armés issus de l'ethnie Nuer, celle de Riek Machar, ont lancé un assaut de quatre heures dans le comté d'Abiemnom, près de la frontière soudanaise, tuant plus de 200 personnes, dont des enfants, et en blessant beaucoup d'autres, affirme Amnesty dans un rapport."
+      ],
+      "publishedAt": "2026-11-12T09:56:40+00:00",
+      "updatedAt": "2026-11-12T09:56:40+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/afrique/soudan-du-sud/amnesty-denonce-l-inaction-des-autorites-et-de-l-onu-pour-empecher-un-massacre-au-soudan-du-sud_8278367.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "ec39048564e054a0504b1b579ce1af9bce2983dd69f210bb71264c625d9deefd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ec3512ebd3ba0921cc",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les Californiens disent finalement non à l'impôt sur la fortune des milliardaires, inspiré de la \"taxe Zucman\"",
+      "bullets": [
+        "L'initiative prévoyait de taxer les quelque 200 milliardaires californiens.",
+        "La Californie a rejeté par référendum un projet d'impôt sur la fortune des milliardaires défendu notamment par l'économiste Gabriel Zucman, a annoncé Associated Press, mercredi 11 novembre, plus d'une semaine après le scrutin.",
+        "Les milliardaires de l'État américain devaient être taxés à hauteur de 5% de leur patrimoine net."
+      ],
+      "publishedAt": "2026-11-12T09:22:53+00:00",
+      "updatedAt": "2026-11-12T09:22:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/les-californiens-disent-finalement-non-a-l-impot-sur-la-fortune-des-milliardaires-inspire-de-la-taxe-zucman_8278967.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "0f137fb1053796f207e2d0c738f1d8693c5bafa069e1533d89161c5307eb1b14",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-91bf2b9787f614da03",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Pologne, les nationalistes défilent en nombre quatre jours après l’attentat de Cracovie",
       "bullets": [
-        "Malgré la fusillade mortelle du 7 novembre, à Cracovie, 250 000 personnes ont défilé à Varsovie, mercredi 11 novembre, pour la marche de l’indépendance, un rassemblement plébiscité par l’extrême droite polonaise.",
+        "Malgré la fusillade mortelle du 7 novembre, à Cracovie, 250 000 personnes ont participé à la marche de l’indépendance, un rassemblement plébiscité par l’extrême droite polonaise, à Varsovie, mercredi.",
         "La querelle autour du Tribunal constitutionnel a mobilisé les manifestants et les leaders de la droite polonaise."
       ],
       "publishedAt": "2026-11-12T08:30:04+00:00",
@@ -787,82 +872,31 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "617b2abea13c1782d81cdbf761ec21f159bbe96ebf111335bc6b64ed37c74902",
+      "summaryInput": "6b33f84cc579e452354c984e1162119e529a536ba331a2c0a47c4ca8192b1caf",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4551e9a9fba5822055",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Génocide des Tutsi : au Sénégal, l’avenir incertain des génocidaires condamnés par la justice internationale",
-      "bullets": [
-        "La signature, début octobre, d’un accord entre Dakar et Kigali prévoyant notamment le transfèrement des personnes condamnées pourrait permettre au Rwanda de récupérer huit génocidaires toujours emprisonnés au Sénégal."
-      ],
-      "publishedAt": "2026-11-12T05:00:22+00:00",
-      "updatedAt": "2026-11-12T05:00:22+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/12/genocide-des-tutsi-au-senegal-l-avenir-incertain-des-genocidaires-condamnes-par-la-justice-internationale_6809053_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cb854171bf36f8c20090583f085622e8a0d78915c4113196dd29c7b0662315ce",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f10dc151744bcd5ac8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Amnesty dénonce l'inaction des autorités et de l'ONU pour empêcher un massacre au Soudan du Sud",
-      "bullets": [
-        "Les autorités sud-soudanaises et la mission de l'ONU au Soudan du Sud (Minuss) n'ont pas agi en dépit d'avertissements pour empêcher un massacre qui a tué plus de 200 personnes en mars, a dénoncé Amnesty International, jeudi 11 novembre.",
-        "Le 1er mars dernier, plus de mille hommes armés issus de l'ethnie nuer, celle de Riek Machar, ont lancé un assaut de quatre heures dans le comté d'Abiemnom, près de la frontière soudanaise, tuant plus de 200 personnes, dont des enfants, et en blessant beaucoup d'autres, affirme Amnesty dans un rapport."
-      ],
-      "publishedAt": "2026-11-11T21:53:43+00:00",
-      "updatedAt": "2026-11-11T21:53:43+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/afrique/soudan-du-sud/amnesty-denonce-l-inaction-des-autorites-et-de-l-onu-pour-empecher-un-massacre-au-soudan-du-sud_8278367.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "5c3a0510d94b36988a751be6eb392479411f3aa95c73ab3ae3b28eb1410dd4d2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-11T23:01:56.680799+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7170dd36ac182411f4",
+      "id": "rss-3e4bfe54a8ab22fd95",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
+      "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
       "bullets": [
-        "Par économie budgétaire, l’exécutif vient de s’attaquer à deux dispositifs utilisés par les collectivités locales pour le financement de l’adaptation au changement climatique et la décarbonation."
+        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Et faire en sorte qu’il y ait bien un budget."
       ],
-      "publishedAt": "2026-11-11T13:00:06+00:00",
-      "updatedAt": "2026-11-11T13:00:06+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-12T06:00:11+00:00",
+      "updatedAt": "2026-11-12T06:00:11+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "9420de07ddf0b2c1a67cd315ab9675265d74e0245efd79f4dbb79a345c706b93",
+      "summaryInput": "f5c35e9b301f07df7f7c7f0d1513964a4ac3b0dc68fbf9071a1f50e4282063d2",
       "detailLevel": "preview"
     },
     {
@@ -876,7 +910,7 @@
       ],
       "publishedAt": "2026-11-11T21:20:11+00:00",
       "updatedAt": "2026-11-11T21:20:11+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -963,31 +997,30 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-205487e43fa5fdba9d",
+      "id": "rss-18af7c8dfebc6f434a",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Sandrine Rousseau, Assa Traoré...qui était sur la liste de Kevin Tessier ?",
+      "title": "Les douanes annoncent la saisie de plus de 40 tonnes de tabac de contrefaçon en une seule semaine",
       "bullets": [
-        "Sandrine Rousseau, Assa Traoré, Aymeric Caron et David Guiraud...",
-        "Les célébrations du 11 novembre dans les écoles font débat",
-        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans"
+        "Plus de 40 tonnes de tabac de contrefaçon ont été saisies en une seule semaine lors d'une opération menée en octobre dans toute la France, indiquent jeudi 12 novembre, dans un communiqué conjoint, les douanes et le ministère de l'Action et des Comptes publics.",
+        "Lors de ces contrôles, les services ont par ailleurs saisi plus de 500 kilos de produits stupéfiants, et ont découvert plus de 25 000 articles de contrefaçon et saisi plus de 750 000 euros \"correspondant à des revenus générés par les trafics\"."
       ],
-      "publishedAt": "2026-11-12T08:42:49+00:00",
-      "updatedAt": "2026-11-12T08:42:49+00:00",
-      "importance": 55,
+      "publishedAt": "2026-11-12T09:31:13+00:00",
+      "updatedAt": "2026-11-12T09:31:13+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/sandrine-rousseau-assa-traore-qui-etait-sur-la-liste-de-kevin-tessier_8278934.html",
+          "url": "https://www.franceinfo.fr/faits-divers/police/les-douanes-annoncent-la-saisie-de-plus-de-40-tonnes-de-tabac-de-contrefacon-en-une-seule-semaine_8278964.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "d2259ccf75cb7a51635e6c59b5bc13eb75561f3ec7496aa27654b28f5e2c2ce2",
+      "summaryInput": "0ac8a3a1641bc4105adc45ed6c69acfc5337c5b8dbd4b95510c24e9e0c4fda24",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T09:14:29.186145+00:00",
+      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
       "context": null
     },
     {
@@ -1012,30 +1045,6 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "4ec3c8640fd441b2460450e0b3164e507a494d8fc8a00a1b72dd74864588b9f8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3e4bfe54a8ab22fd95",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
-      "bullets": [
-        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Et faire en sorte qu’il y ait bien un budget."
-      ],
-      "publishedAt": "2026-11-12T06:00:11+00:00",
-      "updatedAt": "2026-11-12T06:00:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f5c35e9b301f07df7f7c7f0d1513964a4ac3b0dc68fbf9071a1f50e4282063d2",
       "detailLevel": "preview"
     },
     {
@@ -1123,7 +1132,7 @@
       ],
       "publishedAt": "2026-11-09T22:00:45+00:00",
       "updatedAt": "2026-11-09T22:00:45+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1189,6 +1198,30 @@
       "context": null
     },
     {
+      "id": "rss-e10f9279674249a4fe",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Bruno Le Maire présente un programme pour « une autre France », sans s’être encore déclaré candidat",
+      "bullets": [
+        "L’ancien ministre de l’économie dévoile, jeudi, 50 propositions. Il défend des impôts « temporaires » ciblant les plus aisés, doublés du gel des prestations sociales pour réduire la dette. Et propose un recours régulier au référendum, comme la mise en place du référendum d’initiative citoyenne."
+      ],
+      "publishedAt": "2026-11-12T09:39:53+00:00",
+      "updatedAt": "2026-11-12T09:39:53+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-le-maire-presente-un-programme-pour-une-autre-france-sans-s-etre-encore-declare-candidat_6809082_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2acc499a94212de8d0f6d77d1b257f41b04d32f388c013e9812da4be4d660d44",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-48106dbecbca782d0e",
       "revision": 1,
       "category": "france",
@@ -1201,7 +1234,7 @@
       ],
       "publishedAt": "2026-11-10T09:31:25+00:00",
       "updatedAt": "2026-11-10T09:31:25+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1253,7 +1286,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1265,7 +1298,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1319,7 +1352,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1355,7 +1388,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
