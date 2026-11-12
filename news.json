@@ -1,92 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T12:08:57.652726+00:00",
+  "preparedAt": "2026-11-12T13:27:19.320859+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-5f875477d0f20ce0a0",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "En Allemagne, le comité des « sages » alerte : le réarmement est financé par un endettement excessif",
-      "bullets": [
-        "Les experts indépendants qui conseillent le gouvernement jugent dangereux le recours à la dette pour assurer la moitié de l’effort militaire.",
-        "La dette publique allemande pourrait passer de 64 % du PIB aujourd’hui à 98 % en 2040."
-      ],
-      "publishedAt": "2026-11-11T19:26:59+00:00",
-      "updatedAt": "2026-11-11T19:26:59+00:00",
-      "importance": 94,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/en-allemagne-le-comite-des-sages-alerte-le-rearmement-est-finance-par-un-endettement-excessif-20261111",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fa6c35d9e53ba55359d2fc75e91f1cfab2f60c68b6cb43145f23f04efce7cfcc",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c5b15ebda601cc20e8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le dérèglement climatique pèse lourd sur l'inflation, notamment dans la zone euro, alerte Oxfam",
-      "bullets": [
-        "L'ONG estime dans son rapport publié mercredi 12 novembre que, \"dans la zone euro, la crise climatique pourrait représenter un tiers de l'inflation alimentaire prévue en 2027\".",
-        "A la rentrée, le prix des poireaux et des laitues était en hausse de 50% par rapport à la période 2021-2025.",
-        "Dans un contexte où \"les 10% les plus pauvres consacrent 77% de leur revenu à l'alimentation\", \"chaque augmentation du prix des aliments peut se traduire par des arbitrages difficiles\", souligne l'ONG."
-      ],
-      "publishedAt": "2026-11-12T05:31:46+00:00",
-      "updatedAt": "2026-11-12T05:31:46+00:00",
-      "importance": 89,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-dereglement-climatique-pese-lourd-sur-l-inflation-notamment-dans-la-zone-euro-alerte-oxfam_8278283.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "2b4fd65d3727dae18be37bddb7dac868fa87b0866d5ab31349d2206576034ef7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T06:17:09.469035+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f59b21800dcf4d0a0d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "VRAI OU FAUX. La TVA à 0% sur les produits de première nécessité a-t-elle \"fait baisser l'ensemble des prix\" en Espagne et en Pologne, comme l'affirme Sébastien Chenu ?",
-      "bullets": [
-        "Le député d'extrême droite a défendu la proposition portée par le RN d'abaisser la TVA sur les produits de première nécessité de 5,5% à 0%.",
-        "Initialement prévue pour six mois comme réponse à l'inflation, la mesure a été prolongée jusqu'à la fin septembre 2024.",
-        "En Pologne, le rôle clé d'une autorité de surveillance des prixLa Pologne est un autre pays de la zone euro à avoir mis en place l'abaissement de la taxe de 5% à 0% sur les produits alimentaires de première nécessité."
-      ],
-      "publishedAt": "2026-11-12T05:06:47+00:00",
-      "updatedAt": "2026-11-12T05:06:47+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-la-tva-a-0-sur-les-produits-de-premiere-necessite-a-t-elle-fait-baisser-l-ensemble-des-prix-en-espagne-et-en-pologne-comme-l-affirme-sebastien-chenu_8276051.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "bce2a17cdfdf20f855c154d1b5a2af4e10a47d13d73ee314391ccdd938c62d22",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
-      "context": null
-    },
     {
       "id": "rss-2e476a78aebfd75b42",
       "revision": 2,
@@ -136,34 +55,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b0f6fbe5f9b4359952",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Que pèse le service public dans le budget de l'État ?",
-      "bullets": [
-        "Cette fonction publique se retrouve partout : école, hôpitaux, mairies, entretiens des routes… Le pays compte près de 6 millions de fonctionnaires en tout.",
-        "L'Education nationale est le poste qui pèse le plus lourd, avec 88 milliards d'euros, soit 10% du budget total de l'Etat pour 2026.",
-        "Le ministère de la Santé pèse quant à lui près de 20 milliards d'euros, soit 2% du budget de l'Etat."
-      ],
-      "publishedAt": "2026-11-12T05:45:52+00:00",
-      "updatedAt": "2026-11-12T05:45:52+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/services/que-pese-le-service-public-dans-le-budget-de-l-etat_8278370.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "d74bb3558b3939fa15420b11be39e145b6e54c79da7b8e9735d58aa23561776c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T06:17:09.469035+00:00",
-      "context": null
-    },
-    {
       "id": "rss-265862180df3135489",
       "revision": 2,
       "category": "eco",
@@ -174,7 +65,7 @@
       ],
       "publishedAt": "2026-11-12T01:18:19+00:00",
       "updatedAt": "2026-11-12T01:18:19+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -188,83 +79,58 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-58c192a06f0dda9b87",
+      "id": "rss-eac6a506b387d420a7",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Meta écope d’une amende au Brésil pour son influence lors de la présidentielle",
+      "title": "Hausse du Smic : 164 branches professionnelles pourraient se retrouver avec des minima inférieurs début décembre, selon la CGT",
       "bullets": [
-        "La justice brésilienne a infligé mardi une amende de 7,5 millions de reais (1,2 million d’euros) au géant de la tech.",
-        "En cause, son non-respect de l’égalité de traitement entre le président Lula, réélu le 25 octobre en créant la surprise, et son rival, Flavio Bolsonaro.",
-        "En mai 2026, un cadre juridique strict a été adopté, rendant les entreprises technologiques responsables des contenus diffusés par leurs utilisateurs."
+        "Au 1er décembre, 164 branches couvrant plus de 14 millions de salarié·es (sur 22 millions) auront un minima inférieur au Smic.",
+        "Le 28 octobre, la CGT dévoilait que 122 branches couvrant plus de 9 millions de salarié·es du privé étaient concernées.",
+        "Dans les mesures annoncées par le gouvernement lundi pour tenter de répondre à la colère sociale, le salaire minimum va augmenter le 1er décembre de 1,6 %, pour être porté à 1.502 euros net environ, soit une augmentation mensuelle d'environ 24 euros."
       ],
-      "publishedAt": "2026-11-11T16:35:19+00:00",
-      "updatedAt": "2026-11-11T16:35:19+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-12T09:52:45+00:00",
+      "updatedAt": "2026-11-12T09:52:45+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/meta-ecope-d-une-amende-au-bresil-pour-son-influence-lors-de-la-presidentielle-20261111",
+          "url": "https://www.lefigaro.fr/conjoncture/hausse-du-smic-164-branches-professionnelles-pourraient-se-retrouver-avec-des-minima-inferieurs-debut-decembre-selon-la-cgt-20261112",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "fa068616bd100b9e349aec23211483fbb5ddc174fd161c305dc3680201cdd4a6",
+      "summaryInput": "225ce02146dd2e45568ec8dba83f3d0d573731a4d414c86a25227f47b541537c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
       "context": null
     },
     {
-      "id": "rss-72dff933b929db8a17",
+      "id": "rss-e4ff88d8dda7b4df5b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Recommandations publicitaires, abonnements forcés, prix mensongers… Bruxelles s’attaque aux pratiques trompeuses des sites marchands",
+      "title": "Le plan de relance agricole s’élèvera finalement à 725 millions d’euros, annonce Annie Genevard",
       "bullets": [
-        "La loi sur « l’équité numérique » vise à renforcer la protection des consommateurs face aux abus des plateformes de commerce ou de jeux en ligne."
+        "Le plan de relance agricole pour 2027, déjà présenté mi-octobre, s’élèvera finalement à 725 millions d’euros, a indiqué jeudi la ministre de l’Agriculture Annie Genevard, accompagnée du premier ministre Sébastien Lecornu, lors des conclusions des Conférences de la souveraineté alimentaire lancées un an plus tôt.",
+        "Quelque 100 millions d’euros sont également dédiés à garantir pour un milliard d’euros de prêts afin de «permettre une adaptation durable des fermes»."
       ],
-      "publishedAt": "2026-11-11T17:13:15+00:00",
-      "updatedAt": "2026-11-11T17:13:15+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-12T13:23:43+00:00",
+      "updatedAt": "2026-11-12T13:23:43+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/recommandations-publicitaires-abonnements-forces-prix-mensongers-bruxelles-s-attaque-aux-pratiques-trompeuses-des-sites-marchands-20261111",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8a5892c78522e1023d14002f385d695ff08e869a9b20da3867aead8c32d1be1b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d994db41c6c1269dde",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«48 millions de vues accumulées» : la justice espagnole ouvre une enquête pour diffusion présumée de contenus pédophiles sur TikTok",
-      "bullets": [
-        "Lundi, Maldita.es avait publié une enquête expliquant qu'au cours de ses investigations, l'association avait trouvé sur ce réseau social plus de 1.000 vidéos explicites d'agressions sexuelles contre des enfants, qui totalisaient 48 millions de vues accumulées.",
-        "Sollicité par l'AFP lundi, le réseau chinois n'avait pas réagi.",
-        "Alors que le règlement de ce réseau social n'autorise pas les mineurs à réaliser des directs, l'enquête a identifié près d'une centaine de ces diffusions dans 17 pays, où les spectateurs demandaient à des enfants de faire certaines choses, parfois de nature sexuelle, contre rémunération."
-      ],
-      "publishedAt": "2026-11-11T16:11:23+00:00",
-      "updatedAt": "2026-11-11T16:11:23+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/flash-eco/espagne-ouverture-d-une-enquete-pour-diffusion-presumee-de-contenus-pedophiles-sur-tiktok-20261111",
+          "url": "https://www.lefigaro.fr/conjoncture/le-plan-de-relance-agricole-s-elevera-finalement-a-725-millions-d-euros-annonce-annie-genevard-20261112",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "bd90f610d48a65ef36c241977d20aeeacdcb4016013ebcbc68de9919a2cd36bf",
+      "summaryInput": "7f68aca0d143c3188d4a9ae59a660062da3779a367839dc4dcb50e6bfdaacff0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T05:13:17.367589+00:00",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
       "context": null
     },
     {
@@ -321,6 +187,131 @@
       "context": null
     },
     {
+      "id": "rss-51cae150f39f25cebc",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Pauvreté : pour 63% des Français, la solidarité doit se mériter, selon un sondage",
+      "bullets": [
+        "Parmi les bénéficiaires du Secours catholique, près de 95% vivaient l'an dernier sous le seuil de pauvreté (60% du revenu médian, soit 1.350 euros pour une personne seule en 2025), soit +3,2 points par rapport à 2015.",
+        "Les trois quarts vivaient sous le seuil d'extrême pauvreté (40% du revenu médian, soit 899 euros en 2025), soit +10,6 points.",
+        "Une large majorité des sondés dresse un tableau similaire au constat du Secours catholique, estimant que la pauvreté a augmenté depuis dix ans (80%), mais leur regard sur les aides sociales apparaît «ambivalent», note le rapport."
+      ],
+      "publishedAt": "2026-11-12T07:24:36+00:00",
+      "updatedAt": "2026-11-12T07:24:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/pauvrete-pour-63-des-francais-la-solidarite-doit-se-meriter-selon-un-sondage-20261112",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "6cc2a6c53caa2d785298694a37318404fa7680d156150d70e5eaa02d15278da0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-15c4550ffef1a6ec57",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Sortir des petits calculs d’épicier » et libérer l'économie : le contre-budget décapant de Génération Libre",
+      "bullets": [
+        "Le groupe de réflexion libéral propose une soixantaine d’amendements prêts à l’emploi.",
+        "Son ambition : en finir avec la politique du chèque, et alléger fortement le poids des prélèvements."
+      ],
+      "publishedAt": "2026-11-12T07:15:00+00:00",
+      "updatedAt": "2026-11-12T07:15:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/sortir-des-petits-calculs-d-epicier-et-liberer-l-economie-le-contre-budget-decapant-de-generation-libre-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a9b7bf96018caa935ffabf03343090ece67409f17701fb085ef34b9bbaa2a3c2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-98ed5a0fb99e0b4b77",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
+      "bullets": [
+        "Le projet de budget 2027 ne prévoit pas de réforme du CIR ou du pacte Dutreil, malgré les critiques récurrentes sur leur coût et leur efficacité, déplorent l’économiste Maxime Combes et le journaliste Olivier Petitjean, dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-12T05:00:42+00:00",
+      "updatedAt": "2026-11-12T05:00:42+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b0d1d0a2364288edce524296be2b50372ecd8c3516cfd4c1d551b056502df7f7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-815d2295f30b151a28",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La question des morts au travail peine à émerger dans les débats politiques",
+      "bullets": [
+        "La France connaît une augmentation continue des accidents mortels au travail. Depuis 2022, le problème n’a été traité que de manière partielle par le gouvernement. A cinq mois de l’élection présidentielle, la sécurité dans l’espace professionnel n’apparaît investie que par la gauche."
+      ],
+      "publishedAt": "2026-11-12T04:00:13+00:00",
+      "updatedAt": "2026-11-12T04:00:13+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/la-question-des-morts-au-travail-peine-a-emerger-dans-les-debats-politiques_6809045_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e7356d82213a72ee2d2ee414c4c191a0bb62afe74ceb8e4be0c46d828c0f4c94",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4be20f8636f7498c5d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+      "bullets": [
+        "Selon le « Wall Street Journal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces électroniques nécessaires à la révolution de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-11T23:30:03+00:00",
+      "updatedAt": "2026-11-11T23:30:03+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b7b311a9e8bdc7598b20e7fcb4dae8b82831731751c8938a07b51e2780ce9977",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -359,9 +350,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T12:05:58+00:00",
-      "updatedAt": "2026-11-12T12:05:58+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-12T13:27:20+00:00",
+      "updatedAt": "2026-11-12T13:27:20+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -429,7 +420,7 @@
       "provenance": "article-extract",
       "summaryInput": "e91d0d1a5f9f371636e13337379710ad7f058de015572e0ef71a90ee80fcf436",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T01:26:42.082186+00:00",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
       "context": null
     },
     {
@@ -457,7 +448,7 @@
       "provenance": "article-extract",
       "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T01:26:42.082186+00:00",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -720,31 +711,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5e61e0aeef10a1c11a",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Paraguay : la banque centrale rembourse en partie tous les clients d’Ueno Bank, dont l’effondrement a provoqué la chute du président",
-      "bullets": [
-        "L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité.",
-        "Les plus gros déposants devront patienter pour espérer récupérer l’intégralité de leurs fonds."
-      ],
-      "publishedAt": "2026-11-12T01:40:31+00:00",
-      "updatedAt": "2026-11-12T01:40:31+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a5dedef7f375c2f56fce59ed99f5a80b1e93ec3f9c1939ce1ffd99ba97ddbd26",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ec3512ebd3ba0921cc",
       "revision": 2,
       "category": "world",
@@ -806,8 +772,8 @@
       "bullets": [
         "La signature, début octobre, d’un accord entre Dakar et Kigali prévoyant notamment le transfèrement des personnes condamnées pourrait permettre au Rwanda de récupérer huit génocidaires toujours emprisonnés au Sénégal."
       ],
-      "publishedAt": "2026-11-12T05:00:22+00:00",
-      "updatedAt": "2026-11-12T05:00:22+00:00",
+      "publishedAt": "2026-11-12T05:00:18+00:00",
+      "updatedAt": "2026-11-12T05:00:18+00:00",
       "importance": 67,
       "sources": [
         {
@@ -868,6 +834,30 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "d93d98e4d2f25f58cb4f822ea028e7b8fb5416e2f480078f3364ab24dd9a954c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8316952ff12b5b2109",
+      "revision": 1,
+      "category": "world",
+      "topic": "Justice",
+      "title": "Au Brésil, Meta condamnée à une lourde amende pour une différence de traitement jugée inégale entre Lula et Flavio Bolsonaro durant la présidentielle",
+      "bullets": [
+        "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite."
+      ],
+      "publishedAt": "2026-11-11T03:16:28+00:00",
+      "updatedAt": "2026-11-11T03:16:28+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c9f63fdbef053404755523d35858e60a45ab6feb3e1c87e1906605c76aa08ea7",
       "detailLevel": "preview"
     },
     {
@@ -995,30 +985,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-18af7c8dfebc6f434a",
+      "id": "rss-4588ad746f0252e0ec",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Les douanes annoncent la saisie de plus de 40 tonnes de tabac de contrefaçon en une seule semaine",
+      "title": "Liste de personnalités de gauche retrouvée chez le suspect de l'attentat raciste de Trappes : \"Moi-même je vis sous protection policière depuis des années\", réagit Eric Zemmour",
       "bullets": [
-        "Plus de 40 tonnes de tabac de contrefaçon ont été saisies en une seule semaine lors d'une opération menée en octobre dans toute la France, indiquent jeudi 12 novembre, dans un communiqué conjoint, les douanes et le ministère de l'Action et des Comptes publics.",
-        "Lors de ces contrôles, les services ont par ailleurs saisi plus de 500 kilos de produits stupéfiants, et ont découvert plus de 25 000 articles de contrefaçon et saisi plus de 750 000 euros \"correspondant à des revenus générés par les trafics\"."
+        "Kévin Tessier explique n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France\".",
+        "Avant de glisser : \"Je n'ai jamais entendu un politique dire 'c'est scandaleux qu'on menace Eric Zemmour'\", assure-t-il.\"Il y a 40 ans, le service de la protection policière se limitait aux ministres et au président de la République\", poursuit Eric Zemmour, évoquant un \"basculement\".",
+        "Un \"basculement\" lié selon lui à une \"société multiculturelle qui est une société multiconflictuelle\"."
       ],
-      "publishedAt": "2026-11-12T09:31:13+00:00",
-      "updatedAt": "2026-11-12T09:31:13+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-12T13:09:46+00:00",
+      "updatedAt": "2026-11-12T13:09:46+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/les-douanes-annoncent-la-saisie-de-plus-de-40-tonnes-de-tabac-de-contrefacon-en-une-seule-semaine_8278964.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/liste-de-personnalites-de-gauche-retrouvee-chez-le-suspect-de-l-attentat-raciste-de-trappes-moi-meme-je-vis-sous-protection-policiere-depuis-des-annees-reagit-eric-zemmour_8279345.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "0ac8a3a1641bc4105adc45ed6c69acfc5337c5b8dbd4b95510c24e9e0c4fda24",
+      "summaryInput": "91cf5e3439abc2ccdaa0c24f3d4380cf45d3d750304d733f9bc9d5a2f9793d09",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T10:20:47.185173+00:00",
+      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
       "context": null
     },
     {
@@ -1091,6 +1082,30 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "8f0426171d41ca63cf0f9d02d45debd4c7c1f62d3789409eece61882770a263f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ae745e831dbacd0e6f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : le livre programme de Jean-Luc Mélenchon, « L’Avenir en commun », en tête des ventes de livres, devant le prix Goncourt",
+      "bullets": [
+        "Vendu 4,90 euros, le programme de La France insoumise s’est écoulé à plus de 40 000 exemplaires en deux jours, devançant le roman primé de Philippe Jaenada ainsi que les ouvrages politiques de Jordan Bardella et de Sarah Knafo."
+      ],
+      "publishedAt": "2026-11-12T12:06:59+00:00",
+      "updatedAt": "2026-11-12T12:06:59+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-le-livre-programme-de-jean-luc-melenchon-l-avenir-en-commun-en-tete-des-ventes-de-livres-devant-le-prix-goncourt_6809100_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d3b9744fa246b2e80c2513f82c8edbf62f71d6c3047b58aa8fb516e23ac6e805",
       "detailLevel": "preview"
     },
     {
@@ -1220,30 +1235,6 @@
       "context": null
     },
     {
-      "id": "rss-e10f9279674249a4fe",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Bruno Le Maire présente un programme pour « une autre France », sans s’être encore déclaré candidat",
-      "bullets": [
-        "L’ancien ministre de l’économie dévoile, jeudi, 50 propositions. Il défend des impôts « temporaires » ciblant les plus aisés, doublés du gel des prestations sociales pour réduire la dette. Et propose un recours régulier au référendum, comme la mise en place du référendum d’initiative citoyenne."
-      ],
-      "publishedAt": "2026-11-12T09:39:53+00:00",
-      "updatedAt": "2026-11-12T09:39:53+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-le-maire-presente-un-programme-pour-une-autre-france-sans-s-etre-encore-declare-candidat_6809082_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2acc499a94212de8d0f6d77d1b257f41b04d32f388c013e9812da4be4d660d44",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-45998be9cb9607af0f",
       "revision": 1,
       "category": "france",
@@ -1255,7 +1246,7 @@
       ],
       "publishedAt": "2026-11-10T12:50:25+00:00",
       "updatedAt": "2026-11-10T12:50:25+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1280,7 +1271,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 2
     },
     {
       "publisher": "Franceinfo",
@@ -1292,7 +1283,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1304,19 +1295,19 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1370,7 +1361,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1382,7 +1373,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 33
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
