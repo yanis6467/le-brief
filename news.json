@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T20:04:19.606977+00:00",
+  "preparedAt": "2026-11-12T21:00:11.537579+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -347,9 +347,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T20:01:40+00:00",
-      "updatedAt": "2026-11-12T20:01:40+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-12T21:00:12+00:00",
+      "updatedAt": "2026-11-12T21:00:12+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -614,28 +614,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dcb91b788eaefba006",
+      "id": "rss-3ebb04785aaca051cc",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Face à la Russie, les sanctions européennes montrent encore leurs limites",
+      "title": "L’Arabie saoudite condamne une femme à 100 coups de fouet pour avoir eu un enfant hors mariage",
       "bullets": [
-        "DÉCRYPTAGE - Avant un nouveau débat au Parlement ce jeudi, un rapport de la Cour des comptes européenne met en lumière les failles du dispositif visant à affaiblir Moscou."
+        "Une domestique d’origine kényane a été condamnée le mois dernier à 100 coups de fouet après avoir été reconnue coupable de relations sexuelles hors mariage à la suite de la naissance de son enfant.",
+        "Esther Wanja Muthoni travaillait légalement en Arabie saoudite comme domestique via Maharah Human Resources, une entreprise saoudienne.",
+        "Le New York Times l’avait d’ailleurs interrogée, en 2025, lors d’un reportage sur ces femmes «piégées en Arabie saoudite»."
       ],
-      "publishedAt": "2026-11-10T20:15:00+00:00",
-      "updatedAt": "2026-11-10T20:15:00+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-12T20:29:11+00:00",
+      "updatedAt": "2026-11-12T20:29:11+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/face-a-la-russie-les-sanctions-europeennes-montrent-encore-leurs-limites-20261110",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/international/l-arabie-saoudite-condamne-une-femme-a-100-coups-de-fouet-pour-avoir-eu-un-enfant-hors-mariage-20261112",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T21:00:11.537579+00:00",
+      "context": null
     },
     {
       "id": "rss-9150682742d83c0008",
@@ -1124,31 +1128,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-79858b93cc91f6f7da",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Bâti scolaire : le plan incertain du gouvernement pour rénover les lycées, sur fond de dégradations croissantes",
-      "bullets": [
-        "DÉCRYPTAGE - Alors que les présidents de région s’interrogent sur la liste des « 200 établissements prioritaires » publiée par l’exécutif, les violences montent d’un cran.",
-        "En témoignent la centaine de tirs de mortiers, dont la moitié à l’intérieur des lycées, depuis la rentrée."
-      ],
-      "publishedAt": "2026-11-11T05:40:00+00:00",
-      "updatedAt": "2026-11-11T05:40:00+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/bati-scolaire-le-plan-incertain-du-gouvernement-pour-renover-les-lycees-sur-fond-de-degradations-croissantes-20261111",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8115c0b2dde9a98f13653c9e270848504e38995f3dd2bf8b0fd75df8ebc0a0f1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-90df1864a41fc17ef6",
       "revision": 1,
       "category": "france",
@@ -1279,6 +1258,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
+    },
+    {
+      "id": "rss-da20adb4a0d4d5edbd",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "bullets": [
+        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+      ],
+      "publishedAt": "2026-11-12T17:00:18+00:00",
+      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1292,7 +1295,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 4
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1346,7 +1349,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1364,7 +1367,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
