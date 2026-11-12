@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-12",
-  "preparedAt": "2026-11-12T13:27:19.320859+00:00",
+  "preparedAt": "2026-11-12T15:07:55.840577+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -79,32 +79,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-eac6a506b387d420a7",
+      "id": "rss-94071eaafa4af606f2",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Hausse du Smic : 164 branches professionnelles pourraient se retrouver avec des minima inférieurs début décembre, selon la CGT",
+      "title": "« On a dû se passer de tout ce qui n’est pas une absolue nécessité » : heurtés par l’inflation, de plus en plus d’Australiens tombent dans la précarité",
       "bullets": [
-        "Au 1er décembre, 164 branches couvrant plus de 14 millions de salarié·es (sur 22 millions) auront un minima inférieur au Smic.",
-        "Le 28 octobre, la CGT dévoilait que 122 branches couvrant plus de 9 millions de salarié·es du privé étaient concernées.",
-        "Dans les mesures annoncées par le gouvernement lundi pour tenter de répondre à la colère sociale, le salaire minimum va augmenter le 1er décembre de 1,6 %, pour être porté à 1.502 euros net environ, soit une augmentation mensuelle d'environ 24 euros."
+        "REPORTAGE - Pour juguler la hausse des prix, la banque centrale d’Australie a relevé pour la 5e fois sur un an son taux directeur.",
+        "Un remède inefficace, particulièrement délétère pour le secteur de l’immobilier."
       ],
-      "publishedAt": "2026-11-12T09:52:45+00:00",
-      "updatedAt": "2026-11-12T09:52:45+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-12T14:37:24+00:00",
+      "updatedAt": "2026-11-12T14:37:24+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/hausse-du-smic-164-branches-professionnelles-pourraient-se-retrouver-avec-des-minima-inferieurs-debut-decembre-selon-la-cgt-20261112",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/conjoncture/on-a-du-se-passer-de-tout-ce-qui-n-est-pas-une-absolue-necessite-heurtes-par-l-inflation-de-plus-en-plus-d-australiens-tombent-dans-la-precarite-20261112",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "225ce02146dd2e45568ec8dba83f3d0d573731a4d414c86a25227f47b541537c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "656fe5f0e6d8ef28ad5bd22c9de30d7ef2050b35b8a05933e258e3469132c867",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-e4ff88d8dda7b4df5b",
@@ -187,34 +184,6 @@
       "context": null
     },
     {
-      "id": "rss-51cae150f39f25cebc",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Pauvreté : pour 63% des Français, la solidarité doit se mériter, selon un sondage",
-      "bullets": [
-        "Parmi les bénéficiaires du Secours catholique, près de 95% vivaient l'an dernier sous le seuil de pauvreté (60% du revenu médian, soit 1.350 euros pour une personne seule en 2025), soit +3,2 points par rapport à 2015.",
-        "Les trois quarts vivaient sous le seuil d'extrême pauvreté (40% du revenu médian, soit 899 euros en 2025), soit +10,6 points.",
-        "Une large majorité des sondés dresse un tableau similaire au constat du Secours catholique, estimant que la pauvreté a augmenté depuis dix ans (80%), mais leur regard sur les aides sociales apparaît «ambivalent», note le rapport."
-      ],
-      "publishedAt": "2026-11-12T07:24:36+00:00",
-      "updatedAt": "2026-11-12T07:24:36+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/pauvrete-pour-63-des-francais-la-solidarite-doit-se-meriter-selon-un-sondage-20261112",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "6cc2a6c53caa2d785298694a37318404fa7680d156150d70e5eaa02d15278da0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
-      "context": null
-    },
-    {
       "id": "rss-15c4550ffef1a6ec57",
       "revision": 1,
       "category": "eco",
@@ -288,6 +257,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e3e20324c3c9459382",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Affaire Nvidia : l’action du géant américain de la tech plonge de 13% après la démission de son patron Jensen Huang",
+      "bullets": [
+        "Le Dow Jones était lui aussi légèrement dans le rouge (-0,03%).",
+        "L’homme d’affaires de 63 ans, né à Taïwan et cofondateur de Nvidia en 1993, était sur la sellette depuis la révélation début novembre d’une relation extraconjugale avec une cheffe d’entreprise chinoise, Alice Huang, soupçonnée d’être une espionne pour le compte de Pékin.",
+        "Mercredi, les médias américains ont rapporté que le dirigeant était impliqué dans une autre affaire extraconjugale, cette fois-ci avec une vice-présidente de Nvidia, Kimberly Powell, âgée de 48 ans et en charge de la division santé du groupe."
+      ],
+      "publishedAt": "2026-11-12T14:55:35+00:00",
+      "updatedAt": "2026-11-12T14:55:35+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-l-action-du-geant-americain-de-la-tech-plonge-de-13-apres-la-demission-de-son-patron-jensen-huang-20261112",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "ffea53eb10489a28bbaf92c172b5174773646c0eef0cad674138ef6c499183c4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4be20f8636f7498c5d",
       "revision": 1,
       "category": "eco",
@@ -324,7 +321,7 @@
       ],
       "publishedAt": "2026-11-10T13:28:43+00:00",
       "updatedAt": "2026-11-10T13:28:43+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -350,9 +347,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-12T13:27:20+00:00",
-      "updatedAt": "2026-11-12T13:27:20+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-12T15:05:25+00:00",
+      "updatedAt": "2026-11-12T15:05:25+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -365,6 +362,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T12:08:57.652726+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9790073d36286a44a2",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "NVIDIA : Il incarnait l'ADN de Nvidia... Jensen Huang quitte l'entreprise qu'il a cofondée, l'action chute de 14% à Wall Street",
+      "bullets": [
+        "Wall Street prend ombrage de cette éviction puisque l’action chute de 14% ce jeudi 12 novembre, dans les premiers échanges à Wall Street.",
+        "Sous les 4.000 milliards de capitalisation boursière Avec la baisse du titre ce jour, Nvidia passe sous la barre des 4.000 milliards de dollars de capitalisation, un seuil franchi pour la première fois en juillet 2025.",
+        "Gérant chez Deepwater Asset Management, Gene Munster voit, pour sa part, l’action tomber à 150 dollars, contre 158 dollars dans les échanges post-clôture de mercredi."
+      ],
+      "publishedAt": "2026-11-12T14:32:29+00:00",
+      "updatedAt": "2026-11-12T14:32:29+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/nvidia-US67066G1040/actualites/nvidia-il-incarnait-l-adn-de-nvidia-jensen-huang-quitte-l-entreprise-qu-il-a-cofondee-l-action-chute-de-14-a-wall-street-1173657.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
       "context": null
     },
     {
@@ -480,34 +505,6 @@
       "context": null
     },
     {
-      "id": "rss-0f1e7115b2ff2641e0",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "«Un scénario d'espionnage hollywoodien rejeté»... Alors que son patron a eu une liaison dangereuse avec une femme suspectée d'être une espionne chinoise, Nvidia chute de 7% à Wall Street",
-      "bullets": [
-        "Nvidia se retrouve dans la tempête ce lundi 9 novembre, après que son directeur général, Jensen Huang, a reconnu avoir eu une relation extra-conjugale avec une femme identifiée comme étant une espionne chinoise.",
-        "En début de séance, le titre du fabricant de processeurs graphiques (GPU) chute de 7% ce lundi 9 novembre.",
-        "Sur son dernier exercice, Nvidia a affiché une croissance de 65% de ses revenus tandis que son bénéfice a grimpé de 65% également, à 120,7 milliards de dollars."
-      ],
-      "publishedAt": "2026-11-09T14:36:20+00:00",
-      "updatedAt": "2026-11-09T14:36:20+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/un-scenario-d-espionnage-hollywoodien-rejete-alors-que-son-patron-a-eu-une-liaison-dangereuse-avec-une-femme-suspectee-d-etre-une-espionne-chinoise-nvidia-chute-de-7-a-wall-street-1173403.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "article-extract",
-      "summaryInput": "b0589d838a809def28dd427ef2ecc024d219ad533f6e0cb96d3ec5175ac4cc02",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T06:17:09.469035+00:00",
-      "context": null
-    },
-    {
       "id": "rss-32187279287a3f5e2b",
       "revision": 1,
       "category": "markets",
@@ -614,79 +611,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ba379a7031c6fd68f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Iran : la population à bout de souffle",
-      "bullets": [
-        "Englué dans un conflit contre les Etats-Unis et Israël, le pays voit son économie s’effondrer.",
-        "Explications en podcast avec Ghazal Golshiri, journaliste au service International du « Monde »."
-      ],
-      "publishedAt": "2026-11-12T04:00:09+00:00",
-      "updatedAt": "2026-11-12T04:00:09+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/11/12/guerre-en-iran-la-population-a-bout-de-souffle_6809043_5463015.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cbbf74e477e4d00637033951b29f3caaa6f43dc20d6d8b5d09bef74446d5b195",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-eebf10fd5be240a124",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Loïc de la Mornais : la rougeole fait son retour, la faute de Trump ?",
-      "bullets": [
-        "Dans cette troisième partie, Loïc de la Mornais et ses invités reviennent sur le retour de la rougeole aux États-Unis. Après la victoire des démocrates aux élections de mi-mandat, ils s'interrogent également sur qui sera le mieux placé pour se présenter à l'élection présidentielle de 2028. Une séquence à retrouver…"
-      ],
-      "publishedAt": "2026-11-12T06:43:41+00:00",
-      "updatedAt": "2026-11-12T06:43:41+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-la-rougeole-fait-son-retour-la-faute-de-trump_8278808.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ae01c298fbbb2e34a4ae54ae1ec7c030b71a3ba1080db1ad21b15886b0fe899f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d2e124b9815f1e5847",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »",
-      "bullets": [
-        "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à y apporter en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien."
-      ],
-      "publishedAt": "2026-11-12T02:36:03+00:00",
-      "updatedAt": "2026-11-12T02:36:03+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9ab82ba2808a20f6f0e366b64ed623449260e7b4cb9fea37b4a99d380456e44a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-dcb91b788eaefba006",
       "revision": 1,
       "category": "world",
@@ -709,6 +633,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "56414657e0051af0226fd883e8a12a042f4f62aa464a2652fad642dc7752f56b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-12f7a1907995dc1e0f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien",
+      "bullets": [
+        "Koah Sharp, 11 mois, avait disparu lundi 9 novembre, à Lexington, en Caroline du Sud, aux Etats-Unis.",
+        "En Californie, les pilules amaigrissantes en libre accès bientôt interdites aux moins de 18 ans",
+        "Christophe Gleizes détenu depuis 500 jours en Algérie"
+      ],
+      "publishedAt": "2026-11-12T13:52:40+00:00",
+      "updatedAt": "2026-11-12T13:52:40+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/c-est-un-miracle-un-bebe-de-11-mois-sain-et-sauf-apres-avoir-ete-enterre-vivant-dans-une-cage-pour-chien_8279399.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "ee314a360c64f5cbdf77770a2b2b61c24f3b5208fe51cb93ec40c1d0bf67038e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "context": null
     },
     {
       "id": "rss-ec3512ebd3ba0921cc",
@@ -861,6 +813,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5998d4edf3c70dbc3c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le patron du géant de la tech Nvidia, Jensen Huang, démissionne après la révélation d'une liaison avec une femme soupçonnée d'espionnage pour la Chine",
+      "bullets": [
+        "Jensen Huang, dirigeant du concepteur de puces électroniques américain Nvidia, a démissionné de ses fonctions de président, directeur général et membre du conseil d'administration, avec effet immédiat, annonce son conseil d'administration dans un communiqué, jeudi 12 novembre.",
+        "Les composants les plus performants de Nvidia sont interdits d'exportation vers la Chine, rivale des Etats-Unis dans la course à l'IA.",
+        "La Chine dément les accusation d'espionnageJensen Huang, 63 ans, avait cofondé Nvidia en 1993 et la dirigeait depuis."
+      ],
+      "publishedAt": "2026-11-12T14:37:47+00:00",
+      "updatedAt": "2026-11-12T14:37:47+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-du-geant-de-la-tech-nvidia-jensen-huang-demissionne-apres-la-revelation-d-une-liaison-avec-une-femme-soupconnee-d-espionnage-pour-la-chine_8279405.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "a91e13ba304d6ff464d8ca2a73356b65b12c4d7e8e33e58eac022aba3c87bec7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9e78dd9d02bfe6ac97",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un immeuble de trois étages s'écroule à New York, au moins quatre morts et une vingtaine de blessés",
+      "bullets": [
+        "Une scène de chaos en plein New York (États-Unis).",
+        "De ce qui reste de l'immeuble, on aperçoit une chambre et un dressing éventrés par la violence de l'effondrement.",
+        "250 secouristes sont toujours sur les lieux à la recherche de victimes."
+      ],
+      "publishedAt": "2026-11-12T14:11:55+00:00",
+      "updatedAt": "2026-11-12T14:11:55+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-de-trois-etages-s-ecroule-a-new-york-au-moins-quatre-morts-et-une-vingtaine-de-blesses_8279408.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "article-extract",
+      "summaryInput": "dd33c1ba61a5bb0ed5fff04ec5de423c0e569f271ef720eaaa1c4611a4f1d5b2",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e8baf1e1cfe92f27ae",
       "revision": 1,
       "category": "france",
@@ -886,12 +894,13 @@
     },
     {
       "id": "rss-f62cd088e9b8aa411c",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Le milliardaire conservateur Pierre-Edouard Stérin sera jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
+      "title": "Pierre-Edouard Stérin, le milliardaire conservateur, jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
       "bullets": [
-        "M. Stérin, homme d’affaires proche de l’extrême droite, avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ». Il devait s’expliquer devant les députés sur son militantisme politique."
+        "L’homme d’affaires proche de l’extrême droite avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ».",
+        "Il devait s’expliquer devant les députés sur son militantisme politique."
       ],
       "publishedAt": "2026-11-12T11:24:53+00:00",
       "updatedAt": "2026-11-12T11:24:53+00:00",
@@ -905,7 +914,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "fc5a9fe5c886e1df893e65739ac97e02e30a384460a2778355bcb92bc0a3582a",
+      "summaryInput": "596a9ec34a15206e531d883c9fbf3abfe089e8c3e10e5e20fafd6cb763d5f9cd",
       "detailLevel": "preview"
     },
     {
@@ -986,17 +995,17 @@
     },
     {
       "id": "rss-4588ad746f0252e0ec",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Liste de personnalités de gauche retrouvée chez le suspect de l'attentat raciste de Trappes : \"Moi-même je vis sous protection policière depuis des années\", réagit Eric Zemmour",
+      "title": "\"Je n'ai jamais entendu un politique dire que c'était scandaleux qu'on me menace\", assure Eric Zemmour, après la découverte d'une liste de personnalités de gauche chez le suspect de l'attentat raciste de Trappes",
       "bullets": [
         "Kévin Tessier explique n'avoir \"pas encore planifié quoi que ce soit à ce sujet-là\" et avoir listé \"des gauchistes\" qu'il qualifie d'\"ennemis de la France\".",
         "Avant de glisser : \"Je n'ai jamais entendu un politique dire 'c'est scandaleux qu'on menace Eric Zemmour'\", assure-t-il.\"Il y a 40 ans, le service de la protection policière se limitait aux ministres et au président de la République\", poursuit Eric Zemmour, évoquant un \"basculement\".",
         "Un \"basculement\" lié selon lui à une \"société multiculturelle qui est une société multiconflictuelle\"."
       ],
-      "publishedAt": "2026-11-12T13:09:46+00:00",
-      "updatedAt": "2026-11-12T13:09:46+00:00",
+      "publishedAt": "2026-11-12T13:49:52+00:00",
+      "updatedAt": "2026-11-12T13:49:52+00:00",
       "importance": 73,
       "sources": [
         {
@@ -1007,9 +1016,9 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "article-extract",
-      "summaryInput": "91cf5e3439abc2ccdaa0c24f3d4380cf45d3d750304d733f9bc9d5a2f9793d09",
+      "summaryInput": "3e6162ba02bb3249d890f7b147f7c22c53a1d15aabe9037df759bb84950ae055",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
+      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
       "context": null
     },
     {
@@ -1038,15 +1047,15 @@
     },
     {
       "id": "rss-3e4bfe54a8ab22fd95",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
       "bullets": [
-        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Et faire en sorte qu’il y ait bien un budget."
+        "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit. Notamment en ne remplaçant pas tous les fonctionnaires partant à la retraite."
       ],
-      "publishedAt": "2026-11-12T06:00:11+00:00",
-      "updatedAt": "2026-11-12T06:00:11+00:00",
+      "publishedAt": "2026-11-12T06:00:09+00:00",
+      "updatedAt": "2026-11-12T06:00:09+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1057,7 +1066,7 @@
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "f5c35e9b301f07df7f7c7f0d1513964a4ac3b0dc68fbf9071a1f50e4282063d2",
+      "summaryInput": "65a575ce8d78f954683f2674008725f445d7474f065cf00e1d4b50b0093e4b44",
       "detailLevel": "preview"
     },
     {
@@ -1082,6 +1091,30 @@
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
       "summaryInput": "8f0426171d41ca63cf0f9d02d45debd4c7c1f62d3789409eece61882770a263f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1018fa030de9934abb",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : Carole Delga, présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
+      "bullets": [
+        "La présidente socialiste de l’association Régions de France, défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une « enquête » fondée sur les seules remontées des lycéens."
+      ],
+      "publishedAt": "2026-11-12T14:00:04+00:00",
+      "updatedAt": "2026-11-12T14:00:04+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-12",
+      "provenance": "rss-excerpt",
+      "summaryInput": "328239bdb33b288d2bf46ecc3257d787395234fe3497518775353b413bba2ddf",
       "detailLevel": "preview"
     },
     {
@@ -1182,31 +1215,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-90df1864a41fc17ef6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
-      "bullets": [
-        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
-        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
-      ],
-      "publishedAt": "2026-11-10T04:00:14+00:00",
-      "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-12",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9f998c302c4380141a",
       "revision": 1,
       "category": "france",
@@ -1235,28 +1243,28 @@
       "context": null
     },
     {
-      "id": "rss-45998be9cb9607af0f",
+      "id": "rss-0f2d277e53c96c5c93",
       "revision": 1,
       "category": "france",
       "topic": "France",
-      "title": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
+      "title": "«Je reviens dans ma patrie» : le Pérou porte son pape Léon XIV en triomphe",
       "bullets": [
-        "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime.",
-        "Ils exigent un sursaut d’autorité."
+        "RÉCIT - Léon XIV est arrivé mercredi soir à Lima.",
+        "Il donne cinq jours de sa tournée latino-américaine à ce pays dont il a la nationalité et où il a été missionnaire puis évêque pendant vingt ans."
       ],
-      "publishedAt": "2026-11-10T12:50:25+00:00",
-      "updatedAt": "2026-11-10T12:50:25+00:00",
-      "importance": 61,
+      "publishedAt": "2026-11-12T13:33:42+00:00",
+      "updatedAt": "2026-11-12T13:33:42+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+          "url": "https://www.lefigaro.fr/actualite-france/je-reviens-dans-ma-patrie-le-perou-porte-son-pape-leon-xiv-en-triomphe-20261112",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-12",
       "provenance": "rss-excerpt",
-      "summaryInput": "d72c6cfc92d3c899559560a32f9f5bc78bd1fdf349e0e50607a8cc2480c821e0",
+      "summaryInput": "a870efbc96b6eb84c4cf1e0eaf41a4f861aff96b445453aa8e0627cb9864a0da",
       "detailLevel": "preview"
     }
   ],
@@ -1271,7 +1279,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 2
+      "candidates": 3
     },
     {
       "publisher": "Franceinfo",
@@ -1319,7 +1327,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1337,7 +1345,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1373,7 +1381,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 33
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
