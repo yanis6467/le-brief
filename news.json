@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T07:32:23.540040+00:00",
+  "preparedAt": "2026-11-13T09:13:30.151241+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -41,7 +41,7 @@
       ],
       "publishedAt": "2026-11-12T08:00:09+00:00",
       "updatedAt": "2026-11-12T08:00:09+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -52,6 +52,137 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "b88f9e722f94b1e385299cd1b057256c287623961a5acef1976d15ec995e4575",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-985e2ce3ddacde3918",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Visualisez l’évolution de l’inflation en France sur un an",
+      "bullets": [
+        "INFOGRAPHIE – La hausse des prix à la consommation atteint 3,4% sur un an en octobre, au plus haut depuis janvier 2024."
+      ],
+      "publishedAt": "2026-11-13T09:04:55+00:00",
+      "updatedAt": "2026-11-13T09:04:55+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/visualisez-l-inflation-en-france-sur-les-douze-derniers-mois-20261030",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "667a938d8b4465d48d7f8820f6ad383d526f2221ff607902d4579e24985d3e48",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8632273c2eedaa69b1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+      "bullets": [
+        "L’inflation a atteint 3,4 % sur un an en octobre en France, selon les résultats définitifs publiés vendredi par l’Insee, un chiffre conforme à l’estimation provisoire publiée fin octobre et au plus haut depuis janvier 2024, en raison d’une accélération des prix de l’énergie.",
+        "Les prix de l’énergie ont augmenté de 24,1 % en octobre sur un an, après 21,3 % en septembre, portés par une poussée des prix du gaz et des produits pétroliers.",
+        "L’inflation augmente aussi dans les services (+2,6 % en octobre après +2,4 %)."
+      ],
+      "publishedAt": "2026-11-13T08:59:21+00:00",
+      "updatedAt": "2026-11-13T08:59:21+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-20261113",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "88931072eeae66d537642877d42bbe453b33a3fe9aa2a44511934a8f9a672afa",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4a8057f301394a1ece",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'inflation en France a atteint 3,4% sur un an en octobre",
+      "bullets": [
+        "L'inflation a atteint 3,4% sur un an en octobre en France, selon les résultats définitifs publiés vendredi 13 novembre par l'Insee.",
+        "Les prix de l'énergie ont augmenté de 24,1% en octobre sur un an, après 21,3% en septembre, portés par une poussée des prix du gaz et des produits pétroliers.",
+        "L'indice des prix à la consommation harmonisé, qui permet les comparaisons entre pays de la zone euro, a quant à lui progressé (+ 3,7% sur un an) après 3,4% en septembre."
+      ],
+      "publishedAt": "2026-11-13T08:54:13+00:00",
+      "updatedAt": "2026-11-13T08:54:13+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-a-atteint-3-4-sur-un-an-en-octobre_8280635.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "1043e3317fb1895dc739125837ee5e667e068a5e0f5ec42164719f560c7e03b0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-942de581d68c5b0be0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Panne mondiale d'Outlook : Microsoft ne voit «aucun signe d'action malveillante ou de cyberattaque» à ce stade",
+      "bullets": [
+        "Le géant américain Microsoft n'a détecté «aucun signe d'action malveillante ou de cyberattaque» pour expliquer la panne mondiale qui touche son logiciel de messagerie Outlook et ses services de cloud Microsoft 365, a annoncé ce vendredi 13 novembre un de ses dirigeants sur le réseau social X.",
+        "Les réparations effectuées dans la nuit n’ont ainsi «pas eu l’effet escompté», avait d’abord indiqué l’entreprise, qui assurait finalement vers 9 heures (heure française) observer des résultats «positifs» dans le déploiement de correctifs."
+      ],
+      "publishedAt": "2026-11-13T09:05:24+00:00",
+      "updatedAt": "2026-11-13T09:05:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/panne-mondiale-d-outlook-microsoft-ne-voit-aucun-signe-d-action-malveillante-ou-de-cyberattaque-a-ce-stade-20261113",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "010655dcb504ae1b95f7bf1f5585df22ef48dff44365319293962eb434e6a2d6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8b02deabdd41eaca6d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
+      "bullets": [
+        "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
+      ],
+      "publishedAt": "2026-11-12T16:25:43+00:00",
+      "updatedAt": "2026-11-12T16:25:43+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ca91185a07f0e5cdf9747a7ae93cfe3db1e9a45bc72f238c91d05f6fad876547",
       "detailLevel": "preview"
     },
     {
@@ -77,30 +208,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "052eb40297543a07457c6868aab021272a7a0f64ce30955759477af22880e918",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d0051438ad16942f8f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "IA : dépendance assumée ou souveraineté au rabais, le dilemme de l’Europe",
-      "bullets": [
-        "RÉCIT - Avant la réunion des chefs d’État et de gouvernement de l’UE ce vendredi en Irlande, avec une matinée consacrée au sujet de l’intelligence artificielle, l’avance des modèles américains semble les rendre incontournables, notamment pour la cybersécurité."
-      ],
-      "publishedAt": "2026-11-13T05:15:00+00:00",
-      "updatedAt": "2026-11-13T05:15:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/ia-dependance-assumee-ou-souverainete-au-rabais-le-dilemme-de-l-europe-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eed2a3ea5a5c423b2408acf43e74c947ffa9835792522a3e659288f72f0afbbe",
       "detailLevel": "preview"
     },
     {
@@ -141,7 +248,7 @@
       ],
       "publishedAt": "2026-11-12T21:10:52+00:00",
       "updatedAt": "2026-11-12T21:10:52+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -203,108 +310,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cb5e4cf70f291b4014",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Bruno Théret, économiste : « Ce n’est pas le système de protection sociale qu’il faut réformer, mais notre régime fiscal »",
-      "bullets": [
-        "Si les Français sont largement favorables à la préservation de notre système de protection sociale, rappelle Bruno Théret dans un entretien au « Monde », il est important d’en adapter les formes.",
-        "Notamment en révisant le système monétaire libéral qui soumet l’Etat à une spirale d’endettement sans fin."
-      ],
-      "publishedAt": "2026-11-12T17:00:12+00:00",
-      "updatedAt": "2026-11-12T17:00:12+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/bruno-theret-economiste-ce-n-est-pas-le-systeme-de-protection-sociale-qu-il-faut-reformer-mais-notre-regime-fiscal_6809133_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4972a750faacc51778d0c5b1ce6e2c87367ba199e1ee229ecdf54ae6c6f61ef1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3c5ca79284433026e4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Plan de relance agricole : une enveloppe \"ridicule\" qui ne peut \"régler une crise structurelle\", juge le député écologiste Benoît Biteau",
-      "bullets": [
-        "Le plan de relance agricole pour 2027 de 725 millions d'euros, annoncé jeudi 12 novembre par le gouvernement, est \"ridicule\", dénonce sur franceinfo Benoît Biteau, député écologiste de Charente-Maritime, paysan bio et agronome.",
-        "\"Avec une enveloppe aussi maigre, on ne peut pas régler une crise structurelle\", juge-t-il.",
-        "Alors que la ministre de l'Agriculture a annoncé sa volonté de voir la construction de 280 nouveaux poulaillers par an, Benoît Biteau estime que \"ce n'est pas 280 poulaillers qu'il faut construire, mais peut-être 2 800 ou 280 000\", mais plus petits."
-      ],
-      "publishedAt": "2026-11-12T16:50:16+00:00",
-      "updatedAt": "2026-11-12T16:50:16+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-une-enveloppe-ridicule-qui-ne-peut-regler-une-crise-structurelle-juge-le-depute-ecologiste-benoit-biteau_8279774.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "565374253aa45ca1737529e9c02d78906bd3ae9b3139ae21e0560dfa2cdbe2dc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b5ab4b0497d47cb8ec",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Le développement économique incarné par l’essor des data centers conduit l’humanité vers une fracture inégalitaire »",
-      "bullets": [
-        "En parallèle des élections américaines de mi-mandat, les citoyens états-uniens se sont prononcés pour mettre un terme à l’expansion des centres de données, symboles d’un modèle économique déréglé, analyse Pascal Riché, journaliste au « Monde », dans sa chronique."
-      ],
-      "publishedAt": "2026-11-12T16:00:12+00:00",
-      "updatedAt": "2026-11-12T16:00:12+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/le-developpement-economique-incarne-par-l-essor-des-data-centers-conduit-l-humanite-vers-une-fracture-inegalitaire_6809125_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "366da6d38e6f4c43727c32c49cd15d8fa319deff1e3298c2017944ece73f55a3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-18590e97503acc5e24",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Pendant 30 minutes, j’ai dû justifier mon choix à un recalé» : malgré un marché de l’emploi difficile, les candidats restent intransigeants",
-      "bullets": [
-        "ENQUÊTE - Tests refusés, processus à rallonge snobés, retours réclamés aux recruteurs… Malgré un chômage en hausse, les postulants continuent de faire valoir leurs exigences.",
-        "Une nouvelle donne qui traduit l’évolution du rapport au travail."
-      ],
-      "publishedAt": "2026-11-13T06:00:00+00:00",
-      "updatedAt": "2026-11-13T06:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vie-professionnelle/pendant-30-minutes-j-ai-du-justifier-mon-choix-a-un-recale-malgre-un-marche-de-l-emploi-difficile-les-candidats-restent-intransigeants-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "330ddcad1c3793033f58c98c913bd2ad04aea8eed6b3a897dbe072a4577c3b56",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -343,8 +348,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T07:28:28+00:00",
-      "updatedAt": "2026-11-13T07:28:28+00:00",
+      "publishedAt": "2026-11-13T09:10:10+00:00",
+      "updatedAt": "2026-11-13T09:10:10+00:00",
       "importance": 69,
       "sources": [
         {
@@ -361,32 +366,28 @@
       "context": null
     },
     {
-      "id": "rss-cbbf9a471a0e6e87ab",
+      "id": "rss-6ce8853ad11b2b8d27",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Poussif sous les 8 500 points",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.21%",
       "bullets": [
-        "Côté valeurs, le CAC 40 a notamment bénéficié de la progression de Totalenergies, qui a gagné 1,6% dans le sillage du rebond des cours du pétrole.",
-        "Le S&P500, baromètre de référence de l'appétit pour le risque aux yeux des gérants de fonds, s'est déprécié de 0,35% à 7 592 points.",
-        "la bande de travail de prédilection devient: 7 937 - 8 500 points."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-021-1173728.html"
       ],
-      "publishedAt": "2026-11-13T07:30:22+00:00",
-      "updatedAt": "2026-11-13T07:30:22+00:00",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "updatedAt": "2026-11-13T08:00:00+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-poussif-sous-les-8-500-points-1173716.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-021-1173728.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "10fec761bf79b217d3419a2562d6097acbb89cb0c29e70d323587580981a0eba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T07:32:23.540040+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "3599839d3f44bafa46403fc1ea546cdf91f6188dfac724554c1b1c777ef063f0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-9790073d36286a44a2",
@@ -582,6 +583,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e867b9f0388e48fc4d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Cisjordanie occupée, la routine des attaques, des violences et des spoliations",
+      "bullets": [
+        "Alors que les élections législatives israéliennes du 27 octobre n’ont pas dégagé de majorité claire, la situation continue de se dégrader dans le territoire palestinien, où les colons et l’armée multiplient les exactions."
+      ],
+      "publishedAt": "2026-11-13T09:00:14+00:00",
+      "updatedAt": "2026-11-13T09:00:14+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "898ce7d4f67c66ba6f04a206e521b278be19128256a69c9364b2796aa41cba9a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-702a62a1bc055ac5a7",
       "revision": 1,
       "category": "world",
@@ -607,34 +632,6 @@
       "summaryInput": "0fb36d0f6d4ace052dae04bfb44414df73894b37b8a029b8d59c7e8e4451d697",
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T21:57:37.675500+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5d24aced589fadd5b1",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Des frappes israéliennes tuent au moins 11 personnes dans la bande de Gaza, le jour le plus meurtrier depuis les élections en Israël",
-      "bullets": [
-        "Des frappes israéliennes ont fait 11 morts dans la bande de Gaza, jeudi 12 novembre, selon les secours palestiniens, dont six dans un hôpital bombardé à Khan Younès.",
-        "L'armée israélienne a confirmé avoir frappé l'hôpital Nasser, dans le sud du territoire, affirmant avoir visé \"un haut responsable du Hamas et d'autres membres de la branche armée du mouvement\" islamiste, qu'elle accuse d'avoir utilisé le complexe hospitalier comme \"centre de commandement\".",
-        "Sur des images de l'AFP, des soignants se tiennent au milieu d'une salle dévastée, dont le plafond s'écroule."
-      ],
-      "publishedAt": "2026-11-12T19:20:58+00:00",
-      "updatedAt": "2026-11-12T19:20:58+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "e7f065133093e95714083f417e58d0550021bc847519d437a12b6a0cc4f9477b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T20:04:19.606977+00:00",
       "context": null
     },
     {
@@ -667,13 +664,13 @@
     },
     {
       "id": "rss-29dbf83bbec3275396",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
       "title": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
       "bullets": [
         "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord.",
-        "Jared Kushner et Steve Witkoff, les envoyés spéciaux de Donald Trump, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine."
+        "Jared Kushner et Steve Witkoff, les envoyés spéciaux du président américain, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine."
       ],
       "publishedAt": "2026-11-13T04:00:29+00:00",
       "updatedAt": "2026-11-13T04:00:29+00:00",
@@ -687,7 +684,7 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "27bc51cd534eb1d730c9845eee52f0797e4b87633dcd04a4b3886d98f4617374",
+      "summaryInput": "bbc692c91c0c939b1c1547ccf19bcd90a6774e59607d87ccb35989f71d24ceb1",
       "detailLevel": "preview"
     },
     {
@@ -728,7 +725,7 @@
       ],
       "publishedAt": "2026-11-12T20:29:11+00:00",
       "updatedAt": "2026-11-12T20:29:11+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -740,7 +737,7 @@
       "provenance": "article-extract",
       "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T21:00:11.537579+00:00",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
       "context": null
     },
     {
@@ -766,6 +763,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-42d4bbefac300c4593",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de quatre morts dans la région de Volgograd",
+      "bullets": [
+        "La Russie a abattu dans la nuit de jeudi à vendredi 1 198 drones ukrainiens, a affirmé vendredi 13 novembre le ministère de la Défense russe.",
+        "La Russie, qui a lancé en février 2022 une invasion à grande échelle contre son voisin, et l'Ukraine sont engagées depuis plusieurs mois dans une nette escalade des frappes à longue portée, visant de plus en plus souvent des sites civils, tels que des usines, raffineries, entrepôts et infrastructures portuaires et navires.",
+        "Ces attaques font un nombre croissant de victimes civiles."
+      ],
+      "publishedAt": "2026-11-13T07:45:09+00:00",
+      "updatedAt": "2026-11-13T07:45:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "749cf117d2d2f072c6fc7601f52fd042faa637db8c7b9c3d716045ca4abb6a2c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
     },
     {
       "id": "rss-48a41a05d0dc8f51d4",
@@ -845,34 +870,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a833e2b291fa6232de",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
-      "bullets": [
-        "L'Inde abrite 60 % des éléphants sauvages d'Asie, plus de 22 000 bêtes, qui chaque année font des centaines de morts et de blessés.",
-        "Des tensions mortellesEn 2024, l'Inde a recensé 623 personnes tuées par des éléphants.",
-        "Depuis que nous sommes ici, il n'y a plus que 5 % de perte\", indique-t-il."
-      ],
-      "publishedAt": "2026-11-12T21:56:41+00:00",
-      "updatedAt": "2026-11-12T21:56:41+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "1a3b04beb01491e26425f37dccc0ce0515c504305a0235c399647e7a74866190",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
-      "context": null
-    },
-    {
       "id": "rss-10de24a582862b5c40",
       "revision": 1,
       "category": "france",
@@ -897,32 +894,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-81fd4cf2fbaed4d970",
-      "revision": 1,
+      "id": "rss-f62cd088e9b8aa411c",
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "\"Il y a une forme de provocation\", réagit un syndicat à l'accusation des enseignants de \"complicité\" aux violences lycéennes",
+      "title": "Pierre-Edouard Stérin, le milliardaire conservateur, jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
       "bullets": [
-        "Je suis très en colère quand j'entends ces propos du Premier ministre.",
-        "Organiser la sortie de crise\"Je n'ai pas connaissance de ces complicités dont parle le Premier ministre.",
-        "Le rôle d'un Premier ministre, ça devrait être d'organiser la sortie par le haut de la crise, de faire des propositions, de réunir les parties prenantes, pas de souffler sur les braises\"."
+        "L’homme d’affaires proche de l’extrême droite avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ».",
+        "Il devait s’expliquer devant les députés sur son militantisme politique."
       ],
-      "publishedAt": "2026-11-13T06:17:37+00:00",
-      "updatedAt": "2026-11-13T06:17:37+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-12T11:24:53+00:00",
+      "updatedAt": "2026-11-12T11:24:53+00:00",
+      "importance": 76,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "6eb7a6247e774f039b27745920e270157d2aaabd24479e26a21d6061bf78acc9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T07:32:23.540040+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "596a9ec34a15206e531d883c9fbf3abfe089e8c3e10e5e20fafd6cb763d5f9cd",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-1018fa030de9934abb",
@@ -1005,38 +999,38 @@
       "context": null
     },
     {
-      "id": "rss-6cee96959ee935f76d",
+      "id": "rss-9f8a28abf7fbef37fa",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
+      "title": "\"Pour une raison qui m'échappe, on n'arrive pas à faire cette unité nationale\", déplore Arthur Dénouveaux, rescapé du Bataclan le 13 novembre 2015",
       "bullets": [
-        "Chacun ressort avec un sac noir en bandoulière, chargé du précieux butin : près d'un million d'euros de bijoux sertis de diamants, dérobés en plein cœur de Paris, dans le 2e arrondissement, chez le diamantaire De Beers, rue de la Paix, tout proche de la place Vendôme.",
-        "Les voleurs se sont attaqués au leader mondial du diamant, tout près de la place Vendôme, qui concentre de nombreuses maisons de la haute joaillerie, déjà la cible de braquages en plein jour, comme Bulgari en avril 2023, ou encore Chanel, en mai 2022."
+        "\"Pour une raison qui m'échappe, on n'arrive pas à faire cette unité nationale après l'attentat\" raciste de Trappes et de La Verrière (Yvelines), a déclaré Arthur Dénouveaux, ancien président de l'association Life for Paris, invité de franceinfo vendredi 13 novembre, jour de commémoration des attentats du 13-Novembre 2015.",
+        "\"Prendre juste une minute pour réfléchir à quel point la violence politique n'a pas de sens, à quel point elle est un facteur de division sur lequel il ne faut pas s'attarder, c'est quelque chose d'important\", poursuit Arthur Dénouveaux."
       ],
-      "publishedAt": "2026-11-12T19:39:22+00:00",
-      "updatedAt": "2026-11-12T19:39:22+00:00",
+      "publishedAt": "2026-11-13T08:02:53+00:00",
+      "updatedAt": "2026-11-13T08:02:53+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/pour-une-raison-qui-m-echappe-on-n-arrive-pas-a-faire-cette-unite-nationale-deplore-arthur-denouveaux-rescape-du-bataclan-le-13-novembre-2015_8280641.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
-      "summaryInput": "056060cfa13171ee99167592163387778864bd35141b3d1773354bea5116dd2a",
+      "summaryInput": "c3e0869de0a81096905e17a2e895ba2a7378130f4e3da199e5034c18da5a2d2c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T20:04:19.606977+00:00",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
       "context": null
     },
     {
       "id": "rss-277c6c5671508973d6",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Culture",
-      "title": "Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu près de 5 millions de dollars",
+      "title": "Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu pour près de 5 millions de dollars",
       "bullets": [
         "L’accessoire, apparu notamment dans la fameuse scène de « L’Empire contre-attaque » durant laquelle Dark Vador déclare « Je suis ton père » à Luke Skywalker, établit un nouveau record aux enchères pour un objet de collection de la saga cinématographique."
       ],
@@ -1052,32 +1046,7 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "4ee9fc28407fd824b3a0e29cf2decf03d168acda356a6cdffdb130a4e8c3eb70",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f62cd088e9b8aa411c",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Pierre-Edouard Stérin, le milliardaire conservateur, jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
-      "bullets": [
-        "L’homme d’affaires proche de l’extrême droite avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ».",
-        "Il devait s’expliquer devant les députés sur son militantisme politique."
-      ],
-      "publishedAt": "2026-11-12T11:24:53+00:00",
-      "updatedAt": "2026-11-12T11:24:53+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "596a9ec34a15206e531d883c9fbf3abfe089e8c3e10e5e20fafd6cb763d5f9cd",
+      "summaryInput": "e5ac23ba501925bd4d414862057def745df44a78b134a42da7e4fff9210e0d93",
       "detailLevel": "preview"
     },
     {
@@ -1129,6 +1098,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-81fd4cf2fbaed4d970",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes",
+      "bullets": [
+        "Je suis très en colère quand j'entends ces propos du Premier ministre.",
+        "Organiser la sortie de crise\"Je n'ai pas connaissance de ces complicités dont parle le Premier ministre.",
+        "Pour Sophie Vénétitay, \"il y a déjà suffisamment de tensions dans l'Éducation nationale."
+      ],
+      "publishedAt": "2026-11-13T07:55:49+00:00",
+      "updatedAt": "2026-11-13T07:55:49+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "42ee5ab7c0bb6eed57be036af08743090bf93911cb9409c15ffe53cef92ba66d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
+    },
+    {
       "id": "rss-90df1864a41fc17ef6",
       "revision": 1,
       "category": "france",
@@ -1152,6 +1149,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6cee96959ee935f76d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
+      "bullets": [
+        "Chacun ressort avec un sac noir en bandoulière, chargé du précieux butin : près d'un million d'euros de bijoux sertis de diamants, dérobés en plein cœur de Paris, dans le 2e arrondissement, chez le diamantaire De Beers, rue de la Paix, tout proche de la place Vendôme.",
+        "Les voleurs se sont attaqués au leader mondial du diamant, tout près de la place Vendôme, qui concentre de nombreuses maisons de la haute joaillerie, déjà la cible de braquages en plein jour, comme Bulgari en avril 2023, ou encore Chanel, en mai 2022."
+      ],
+      "publishedAt": "2026-11-12T19:39:22+00:00",
+      "updatedAt": "2026-11-12T19:39:22+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "056060cfa13171ee99167592163387778864bd35141b3d1773354bea5116dd2a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
     },
     {
       "id": "rss-ab6241ff8f660720c9",
@@ -1183,15 +1207,15 @@
     },
     {
       "id": "rss-84269946412747ba1c",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme toujours plus dur pour lutter contre l’immigration",
+      "title": "Présidentielle 2027 : Bruno Retailleau, en s’attaquant au droit du sol, durcit son programme sur l’immigration",
       "bullets": [
-        "A la peine dans les sondages, le candidat Les Républicains a publié jeudi un livret programmatique pour « reprendre la main » et réduire au maximum l’arrivée d’étrangers en France."
+        "A la peine dans les sondages, le candidat Les Républicains a publié, jeudi, un livret programmatique pour « reprendre la main » et réduire au maximum l’arrivée d’étrangers en France."
       ],
-      "publishedAt": "2026-11-13T07:20:17+00:00",
-      "updatedAt": "2026-11-13T07:20:17+00:00",
+      "publishedAt": "2026-11-13T07:20:16+00:00",
+      "updatedAt": "2026-11-13T07:20:16+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1202,7 +1226,7 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "fba5fb8856cc77244059a3cbb6ca41743043e3e270673302675523d8158b9adf",
+      "summaryInput": "b50e68f2d772dc9df1063125125483af931c23d70436076e1ae0ce274c46fed8",
       "detailLevel": "preview"
     },
     {
@@ -1260,30 +1284,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
       "context": null
-    },
-    {
-      "id": "rss-89f6e5d2f7423832e3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
-      "bullets": [
-        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
-      ],
-      "publishedAt": "2026-11-12T04:00:06+00:00",
-      "updatedAt": "2026-11-12T04:00:06+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1297,7 +1297,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1321,19 +1321,19 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1363,7 +1363,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1399,7 +1399,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 33
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
