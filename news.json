@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T15:59:50.103926+00:00",
+  "preparedAt": "2026-11-13T17:06:40.733696+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-cc9e0b1cbc3b692630",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Plus proche de l’incident CrowdStrike que d’une cyberattaque» : quelles sont les pistes expliquant la panne d’Outlook ?",
+      "bullets": [
+        "Depuis ce jeudi, des millions de salariés dans le monde ont éprouvé des difficultés pour faire fonctionner leur messagerie Outlook.",
+        "Si le service reprend progressivement, reste la question centrale : comment expliquer cette panne informatique massive ?"
+      ],
+      "publishedAt": "2026-11-13T17:03:13+00:00",
+      "updatedAt": "2026-11-13T17:03:13+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/plus-proche-de-l-incident-crowdstrike-que-d-une-cyberattaque-quelles-sont-les-pistes-expliquant-la-panne-d-outlook-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "01f5a4de4b80bff9f2bc2e7f5b6438b98a3ddc50694db71aef973835eae29480",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-fd088cb8e5e48a092f",
       "revision": 1,
@@ -55,34 +80,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4a8057f301394a1ece",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'inflation en France a atteint 3,4% sur un an en octobre, à son plus haut niveau depuis janvier 2024",
-      "bullets": [
-        "L'inflation a atteint 3,4% sur un an en octobre en France, selon les résultats définitifs publiés vendredi 13 novembre par l'Insee.",
-        "Les prix de l'énergie ont augmenté de 24,1% en octobre sur un an, après 21,3% en septembre, portés par une poussée des prix du gaz et des produits pétroliers.",
-        "L'indice des prix à la consommation harmonisé, qui permet les comparaisons entre pays de la zone euro, a quant à lui progressé de 3,7% sur un an, après 3,4% en septembre."
-      ],
-      "publishedAt": "2026-11-13T09:27:05+00:00",
-      "updatedAt": "2026-11-13T09:27:05+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-a-atteint-3-4-sur-un-an-en-octobre_8280635.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "a4523b7e808c3d374caafbda2880064261c2d359fcd035893369b63094e32739",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
-      "context": null
-    },
-    {
       "id": "rss-942de581d68c5b0be0",
       "revision": 1,
       "category": "eco",
@@ -110,27 +107,84 @@
       "context": null
     },
     {
-      "id": "rss-8b02deabdd41eaca6d",
-      "revision": 2,
+      "id": "rss-d117f35e8f91339db1",
+      "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
+      "title": "Candidats à la présidentielle : que veulent-ils faire des fonctionnaires ?",
       "bullets": [
-        "Soupçonnée d’espionnage et maîtresse déclarée du cofondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
+        "Les candidats à la présidentielle face à “Nos services publics”.",
+        "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+        "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël."
       ],
-      "publishedAt": "2026-11-12T16:25:43+00:00",
-      "updatedAt": "2026-11-12T16:25:43+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-13T17:00:03+00:00",
+      "updatedAt": "2026-11-13T17:00:03+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "eb60a702246a14c1401084768cf85e23440535b90b2d54c30a76ad300c9b9c37",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T17:06:40.733696+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-97fcaee44c852bbd81",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+      "bullets": [
+        "La CFDT a annoncé, vendredi 13 novembre, se joindre à l'appel à la grève et à la mobilisation dans la fonction publique le 17 novembre, désormais soutenu par toute l'intersyndicale.",
+        "Sur les 1,1 million d'agents dont le salaire est rattrapé par le salaire minimum, \"seulement une moitié va être à peine portée au niveau du smic\" par les mesures proposées par Sébastien Lecornu, a dénoncé Caroline Chevé, secrétaire générale de la FSU.",
+        "Ça veut dire même pas 30 euros, avance-t-elle."
+      ],
+      "publishedAt": "2026-11-13T16:15:52+00:00",
+      "updatedAt": "2026-11-13T16:15:52+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "6501d73c2386b05f04cdc49a750c56ab677861dde69dfa28873953733b54d10b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T17:06:40.733696+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b5a5cb01839cfb8092",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Panne chez Microsoft : le récit de 24 heures de pagaille dans les entreprises, les hôpitaux et les gouvernements du monde entier",
+      "bullets": [
+        "Privés d’Outlook, Teams et Copilot, des millions d’utilisateurs ont dû revenir au téléphone ou aux démarches sur place entre jeudi et vendredi.",
+        "Le géant américain a longtemps tâtonné avant de rétablir ses services."
+      ],
+      "publishedAt": "2026-11-13T16:14:11+00:00",
+      "updatedAt": "2026-11-13T16:14:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "5fcc9a4e7271587065d039598f7e9cb9a2759dfd98b9e3f82f0cd5bd79d72c95",
+      "summaryInput": "0305da7362d8f217ba925f48c4e8ec83672090cc8dd73e4709e73a0af1b3b087",
       "detailLevel": "preview"
     },
     {
@@ -160,31 +214,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T15:59:50.103926+00:00",
       "context": null
-    },
-    {
-      "id": "rss-b5a5cb01839cfb8092",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Panne chez Microsoft : le récit de 24 heures de pagaille dans les entreprises, les hôpitaux et les gouvernements du monde entier",
-      "bullets": [
-        "Privés d’Outlook, Teams et Copilot, des millions d’utilisateurs ont dû revenir au téléphone ou aux démarches sur place entre jeudi et vendredi.",
-        "Le géant américain a longtemps tâtonné avant de rétablir ses services."
-      ],
-      "publishedAt": "2026-11-13T15:33:17+00:00",
-      "updatedAt": "2026-11-13T15:33:17+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0305da7362d8f217ba925f48c4e8ec83672090cc8dd73e4709e73a0af1b3b087",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-85f72a6abad293205f",
@@ -295,30 +324,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8b87e74e3416be2c4f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les clés pour comprendre le débat sur les « gros héritages »",
-      "bullets": [
-        "La transmission par succession et son système de taxation font débat parmi les candidats à l’élection présidentielle, notamment parce qu’une minorité de Français concentre la majorité des biens hérités."
-      ],
-      "publishedAt": "2026-11-12T17:14:28+00:00",
-      "updatedAt": "2026-11-12T17:14:28+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/12/les-cles-pour-comprendre-le-debat-sur-les-gros-heritages_6809137_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9fdbe005b262d3dbfdd7d7f45bb2a77616af0bda4951311e0a0ae50138384cc",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -329,9 +334,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T15:59:51+00:00",
-      "updatedAt": "2026-11-13T15:59:51+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-13T17:05:09+00:00",
+      "updatedAt": "2026-11-13T17:05:09+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -399,7 +404,7 @@
       "provenance": "article-extract",
       "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T04:06:30.619234+00:00",
+      "enrichedAt": "2026-11-13T17:06:40.733696+00:00",
       "context": null
     },
     {
@@ -591,34 +596,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2b8648f4aed64321ae",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "L'Ukraine, les Etats-Unis et l'UE affirment que les Européens seront présents lors des prochaines négociations pour mettre fin à la guerre, la Russie ne commente pas",
-      "bullets": [
-        "Le président ukrainien, Volodymyr Zelensky, et l'émissaire américain Jared Kushner ont déclaré, jeudi 12 novembre, que l'Europe participerait au prochain cycle de négociations avec la Russie.",
-        "Le Kremlin n'a toutefois pas confirmé que Vladimir Poutine avait accepté d'inclure l'Europe dans de futures négociations, ce que l'Ukraine et ses alliés réclament depuis longtemps.",
-        "Les 40 pays présents prennent \"ensemble la responsabilité première de (leur) propre sécurité\" et se tiennent \"aux côtés de l'Ukraine, dont la sécurité fait partie intégrante de celle de l'Europe\", a-t-il ajouté sur X."
-      ],
-      "publishedAt": "2026-11-13T09:55:02+00:00",
-      "updatedAt": "2026-11-13T09:55:02+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "6b625957975bd88e08a889f503aeaca9978ded7123d22b5f52171a4134902115",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
-      "context": null
-    },
-    {
       "id": "rss-559e046c1cdb1e0155",
       "revision": 1,
       "category": "world",
@@ -641,6 +618,31 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "19a8f9faefea036c7330d4eb322b427cefa147130212feef10ca6949cd8d9dc7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6735ee744f708f02c2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Géorgie, les principaux partis d’opposition bientôt interdits avant les élections législatives de 2028",
+      "bullets": [
+        "Rêve géorgien, le parti au pouvoir proche de la Russie, continue son œuvre de musellement et de destruction de toute forme d’opposition.",
+        "L’intégration du pays à l’Union européenne, dont le processus est mis en suspens, est de plus en plus improbable."
+      ],
+      "publishedAt": "2026-11-13T16:00:19+00:00",
+      "updatedAt": "2026-11-13T16:00:19+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "13b5c9a4bc170855863e9411065a8deba006a687bd0eaef39bf8f683bdaf3ec9",
       "detailLevel": "preview"
     },
     {
@@ -748,6 +750,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0bbf2b2a87f42aad16",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "1200 drones ukrainiens attaquent la Russie",
+      "bullets": [
+        "La Russie affirme avoir abattu 1198 drones ukrainiens dans la nuit.",
+        "Cette attaque, qui a fait quatre morts autour de Volgograd, est l'une des plus importantes ayant visé la Russie depuis 2022.",
+        "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien"
+      ],
+      "publishedAt": "2026-11-13T16:00:02+00:00",
+      "updatedAt": "2026-11-13T16:00:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/drones/1200-drones-ukrainiens-attaquent-la-russie_8281253.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "63e9577351f3ab3327067e0c99771a599cffbeef675c504639c9917492f172a3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T17:06:40.733696+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0f8813a048e80b39ce",
       "revision": 1,
       "category": "world",
@@ -803,31 +833,6 @@
       "context": null
     },
     {
-      "id": "rss-2940674f5b02c27027",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Loïc de la Mornais : Ukraine, Poutine l'inflexible ?",
-      "bullets": [
-        "Dans cette première partie, Loïc de la Mornais et ses invités reviennent sur la guerre en Ukraine avec des discussions qui se sont déroulées à Moscou et à Dublin, jeudi 12 novembre.",
-        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
-      ],
-      "publishedAt": "2026-11-13T05:57:47+00:00",
-      "updatedAt": "2026-11-13T05:57:47+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-ukraine-poutine-l-inflexible_8280491.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fd5cabfa9ae79f78997e6e68e71bfce06fb9b53f5c223585133e3506aceb13a3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-10de24a582862b5c40",
       "revision": 1,
       "category": "france",
@@ -838,7 +843,7 @@
       ],
       "publishedAt": "2026-11-13T04:29:17+00:00",
       "updatedAt": "2026-11-13T04:29:17+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -852,28 +857,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-573eaffa279c0f6ddf",
+      "id": "rss-401c5aa8784018e58f",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
+      "title": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
       "bullets": [
-        "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
-        "Une approche largement guidée par une logique comptable."
+        "A l’issue d’une réunion à Matignon, vendredi 13 novembre, les syndicats ont dénoncé des annonces « en complet décalage avec l’urgence salariale et la colère sociale ». Dans leur viseur, notamment : le refus du gouvernement de dégeler la valeur du point d’indice. La CFDT a décidé de se joindre…"
       ],
-      "publishedAt": "2026-11-12T18:23:31+00:00",
-      "updatedAt": "2026-11-12T18:23:31+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-13T16:07:02+00:00",
+      "updatedAt": "2026-11-13T16:07:02+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "7da67a7dde7ef430fcf42c95c7df0885aa353bf56fff81cd843443a10df69a46",
+      "summaryInput": "16f1e8d62d761be0a43ad13acb251d606765b803769ad05dc05c748215d54f66",
       "detailLevel": "preview"
     },
     {
@@ -1106,28 +1110,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b84c75fbd537f5da33",
+      "id": "rss-7d02dc7f50d472a28e",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
+      "title": "Les effets de la hausse du smic sur le marché du travail suscitent des interrogations",
       "bullets": [
-        "Après que les enquêteurs ont retrouvé des autocollants « Vive la France, RN, fier d’être français » chez Kevin Tessier, auteur de l’attentat, la patronne des Ecologistes avait déclaré : « Qu’est-ce qu’on fait de ce parti ?",
-        "On considère qu’il est un parti comme les autres, alors que des…"
+        "La hausse du salaire minimum mensuel net à temps plein à 1 502 euros détruira mécaniquement des emplois.",
+        "Mais l’impact est jugé limité par le gouvernement et par plusieurs économistes."
       ],
-      "publishedAt": "2026-11-13T09:44:33+00:00",
-      "updatedAt": "2026-11-13T09:44:33+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-13T17:04:32+00:00",
+      "updatedAt": "2026-11-13T17:04:32+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/13/les-effets-de-la-hausse-du-smic-sur-le-marche-du-travail-suscitent-des-interrogations_6809363_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "b397cb64cc44ff8823132c9e8f16ac76de34ff2387d41780c88cb4a7c67ac425",
+      "summaryInput": "a924490981cfef8e906c3600936fd8d7786cbd74db32746e9eb70749d69b7bd3",
       "detailLevel": "preview"
     },
     {
@@ -1159,6 +1163,31 @@
       "context": null
     },
     {
+      "id": "rss-573eaffa279c0f6ddf",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
+      "bullets": [
+        "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
+        "Une approche largement guidée par une logique comptable."
+      ],
+      "publishedAt": "2026-11-12T18:23:31+00:00",
+      "updatedAt": "2026-11-12T18:23:31+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7da67a7dde7ef430fcf42c95c7df0885aa353bf56fff81cd843443a10df69a46",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-89f6e5d2f7423832e3",
       "revision": 1,
       "category": "france",
@@ -1169,7 +1198,7 @@
       ],
       "publishedAt": "2026-11-12T04:00:06+00:00",
       "updatedAt": "2026-11-12T04:00:06+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1194,7 +1223,7 @@
       ],
       "publishedAt": "2026-11-12T17:00:07+00:00",
       "updatedAt": "2026-11-12T17:00:07+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1205,31 +1234,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2276c16164979e4669",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "PMA : un texte bientôt examiné à l’Assemblée sur le diagnostic génétique des embryons, ce test interdit en France",
-      "bullets": [
-        "DÉCRYPTAGE - Méthode eugéniste de «tri» pour les uns, chance supplémentaire de procréer pour les autres : le DPI-A divise.",
-        "Une proposition de loi transpartisane sur son autorisation en France va être examinée à l’Assemblée en décembre."
-      ],
-      "publishedAt": "2026-11-12T16:40:32+00:00",
-      "updatedAt": "2026-11-12T16:40:32+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/pma-un-texte-bientot-examine-a-l-assemblee-sur-le-diagnostic-genetique-des-embryons-ce-test-interdit-en-france-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6ae758b7f37bb236d4cdb28f4956e351eb379b9e8aa23d69bec7811a9ccfe5a8",
       "detailLevel": "preview"
     }
   ],
@@ -1244,7 +1248,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1268,7 +1272,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1310,7 +1314,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1340,13 +1344,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
