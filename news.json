@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T04:06:30.619234+00:00",
+  "preparedAt": "2026-11-13T05:12:13.308195+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -78,6 +78,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b88f9e722f94b1e385299cd1b057256c287623961a5acef1976d15ec995e4575",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-07ad7e0d635c419b08",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "VRAI OU FAUX. Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ?",
+      "bullets": [
+        "Le gouvernement a annoncé, lundi 9 novembre, à l'issue de la conférence sociale sur le pouvoir d'achat et les salaires, une revalorisation anticipée du smic à hauteur de 1,6% dès le 1er décembre, le portant à 1 501,90 euros net, contre 1 477,93 euros actuellement.",
+        "Ce supplément d'exonérations pour les entreprises permettrait une baisse du coût du travail et représenterait alors une création de 183 000 emplois, ce qui amène l'économiste à évaluer à seulement 34 500 emplois détruits au total par une hausse du smic à 1 700 euros."
+      ],
+      "publishedAt": "2026-11-13T04:52:34+00:00",
+      "updatedAt": "2026-11-13T04:52:34+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-une-hausse-du-smic-a-1-700-euros-entrainerait-elle-la-destruction-de-230-000-emplois-comme-l-affirme-le-gouvernement_8274335.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "3e592e50da252a3169f91b3248f811af688a0acd4b18723abb85fa945b7813ca",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T05:12:13.308195+00:00",
+      "context": null
     },
     {
       "id": "rss-e01b3e4b4ca519a744",
@@ -187,7 +214,7 @@
       ],
       "publishedAt": "2026-11-12T17:00:12+00:00",
       "updatedAt": "2026-11-12T17:00:12+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -213,7 +240,7 @@
       ],
       "publishedAt": "2026-11-12T16:50:16+00:00",
       "updatedAt": "2026-11-12T16:50:16+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -250,30 +277,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "366da6d38e6f4c43727c32c49cd15d8fa319deff1e3298c2017944ece73f55a3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-98ed5a0fb99e0b4b77",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
-      "bullets": [
-        "Le projet de budget 2027 ne prévoit pas de réforme du CIR ou du pacte Dutreil, malgré les critiques récurrentes sur leur coût et leur efficacité, déplorent l’économiste Maxime Combes et le journaliste Olivier Petitjean, dans une tribune au « Monde »."
-      ],
-      "publishedAt": "2026-11-12T05:00:42+00:00",
-      "updatedAt": "2026-11-12T05:00:42+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b0d1d0a2364288edce524296be2b50372ecd8c3516cfd4c1d551b056502df7f7",
       "detailLevel": "preview"
     },
     {
@@ -343,8 +346,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T04:05:21+00:00",
-      "updatedAt": "2026-11-13T04:05:21+00:00",
+      "publishedAt": "2026-11-13T05:10:12+00:00",
+      "updatedAt": "2026-11-13T05:10:12+00:00",
       "importance": 69,
       "sources": [
         {
@@ -373,7 +376,7 @@
       ],
       "publishedAt": "2026-11-12T16:51:51+00:00",
       "updatedAt": "2026-11-12T16:51:51+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -872,27 +875,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e8baf1e1cfe92f27ae",
+      "id": "rss-10de24a582862b5c40",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "CNews : un débat public est nécessaire",
+      "title": "Présidentielle 2027 : l’offensive illibérale de Marine Le Pen",
       "bullets": [
-        "La conférence des présidents de l’Assemblée peut encore décider qu’un débat ait lieu dans l’Hémicycle sur le bien-fondé du maintien de la chaîne dont les émissions servent à diffuser des propos incitant à la haine ou à la discrimination, et qui ne dévie pas de sa ligne éditoriale malgré les…"
+        "Associations, syndicats, magistrats, journalistes : les dirigeants du Rassemblement national multiplient les attaques publiques contre les corps intermédiaires, les institutions et les organisations civiles susceptibles de les critiquer."
       ],
-      "publishedAt": "2026-11-12T11:13:01+00:00",
-      "updatedAt": "2026-11-12T11:13:01+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-13T04:29:18+00:00",
+      "updatedAt": "2026-11-13T04:29:18+00:00",
+      "importance": 97,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "2f6edd23d98757158e3de246272780bca52532b073d73d8bf67bca9182b89def",
+      "summaryInput": "0643efbe1e30f90528898ec511bd73e1eef43576d61a8278cef2618ba48b53c6",
       "detailLevel": "preview"
     },
     {
@@ -997,7 +1000,7 @@
       "provenance": "article-extract",
       "summaryInput": "94a3768e0fda76141a2520f4c9fddda9b8a5eb05274c9fd17b3103917922d728",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T16:15:34.700430+00:00",
+      "enrichedAt": "2026-11-13T05:12:13.308195+00:00",
       "context": null
     },
     {
@@ -1049,6 +1052,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "4ee9fc28407fd824b3a0e29cf2decf03d168acda356a6cdffdb130a4e8c3eb70",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e8baf1e1cfe92f27ae",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "CNews : un débat public est nécessaire",
+      "bullets": [
+        "La conférence des présidents de l’Assemblée peut encore décider qu’un débat ait lieu dans l’Hémicycle sur le bien-fondé du maintien de la chaîne dont les émissions servent à diffuser des propos incitant à la haine ou à la discrimination, et qui ne dévie pas de sa ligne éditoriale malgré les…"
+      ],
+      "publishedAt": "2026-11-12T11:13:01+00:00",
+      "updatedAt": "2026-11-12T11:13:01+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2f6edd23d98757158e3de246272780bca52532b073d73d8bf67bca9182b89def",
       "detailLevel": "preview"
     },
     {
@@ -1149,7 +1176,7 @@
       "provenance": "article-extract",
       "summaryInput": "ad954d24627ed99b316223aa26945820eaec72554fe0fdc70b46b3ea46e7894c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T16:15:34.700430+00:00",
+      "enrichedAt": "2026-11-13T05:12:13.308195+00:00",
       "context": null
     },
     {
@@ -1234,52 +1261,27 @@
       "context": null
     },
     {
-      "id": "rss-da20adb4a0d4d5edbd",
+      "id": "rss-89f6e5d2f7423832e3",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "topic": "Justice",
+      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
       "bullets": [
-        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
       ],
-      "publishedAt": "2026-11-12T17:00:18+00:00",
-      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "publishedAt": "2026-11-12T04:00:06+00:00",
+      "updatedAt": "2026-11-12T04:00:06+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8892672c0338ccab42",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« Vivre le handicap » : un hors-série du « Monde » fait le point sur les obstacles à l’inclusion mais aussi sur les avancées et les innovations",
-      "bullets": [
-        "Plus de vingt ans après l’instauration de la loi pour l’égalité des droits et des chances des personnes handicapées, le handicap demeure un facteur d’inégalités.",
-        "Pour mieux comprendre, une sélection d’articles de la rédaction du « Monde » et un guide pratique."
-      ],
-      "publishedAt": "2026-11-12T17:00:07+00:00",
-      "updatedAt": "2026-11-12T17:00:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/vivre-le-handicap-un-hors-serie-du-monde-fait-le-point-sur-les-obstacles-a-l-inclusion-mais-aussi-sur-les-avancees-et-les-innovations_6809134_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
+      "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
       "detailLevel": "preview"
     }
   ],
@@ -1294,7 +1296,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1318,7 +1320,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1366,7 +1368,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
