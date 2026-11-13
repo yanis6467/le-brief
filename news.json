@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T15:00:24.643120+00:00",
+  "preparedAt": "2026-11-13T15:59:50.103926+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -28,6 +28,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "f5cb934496413872012c174791fd27d9a36e4cca319e83beb4d75587e06ce868",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8fc9f1c3718205cafe",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "bullets": [
+        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+      ],
+      "publishedAt": "2026-11-13T15:28:23+00:00",
+      "updatedAt": "2026-11-13T15:28:23+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
     },
     {
@@ -86,33 +110,6 @@
       "context": null
     },
     {
-      "id": "rss-261856e577e28e9fed",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Pétrole : pour la première fois depuis le début de la guerre en Iran, l’offre mondiale va dépasser la demande",
-      "bullets": [
-        "«Nos bilans de l'offre et de la demande pour le mois de novembre indiquent que le marché pétrolier mondial reviendra à un surplus au quatrième trimestre 2026, avec un accroissement plus important en 2027», écrit l'AIE dans son rapport mensuel.",
-        "L'offre mondiale de pétrole a encore progressé de 2,3 millions de barils par jour pour atteindre 105,4 mb/j en octobre, «portée par le niveau élevé des exportations du Golfe malgré la poursuite des attaques contre les infrastructures énergétiques et les pétroliers», explique l'agence."
-      ],
-      "publishedAt": "2026-11-13T11:13:44+00:00",
-      "updatedAt": "2026-11-13T11:13:44+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/petrole-pour-la-premiere-fois-depuis-le-debut-de-la-guerre-en-iran-l-offre-mondiale-va-depasser-la-demande-20261113",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "dc36741152617fafd666c71a3ebba2120cffb131554920f7da51007c02974976",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8b02deabdd41eaca6d",
       "revision": 2,
       "category": "eco",
@@ -138,17 +135,17 @@
     },
     {
       "id": "rss-5c66e9986f4d77ebf0",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Fonctionnaires : la CFDT rejoint l’appel à la grève du 17 novembre",
       "bullets": [
-        "La dernière hausse du point d’indice - sur la base duquel est calculée la rémunération des fonctionnaires - est intervenue en 2024.",
-        "Dans son projet de budget, le gouvernement prévoit de le geler encore en 2027.",
-        "Le premier ministre a aussi annoncé ce vendredi qu’il recevra à nouveau les syndicats le 11 décembre, soit après les élections professionnelles dans la fonction publique, pour «sceller des avancées dès la mi-décembre»."
+        "Dans le même temps, Bercy a annoncé une hausse ciblée du point d’indice pour 1,3 million de fonctionnaires en bas de la grille salariale.",
+        "Cette progression correspondrait en moyenne à une augmentation de rémunération de « 90 euros brut par an » pour les concernés, explique-t-on au cabinet de David Amiel, ministre du Budget et de la Fonction publique.",
+        "Dans son projet de budget, le gouvernement prévoit de le geler encore en 2027."
       ],
-      "publishedAt": "2026-11-13T14:31:45+00:00",
-      "updatedAt": "2026-11-13T14:31:45+00:00",
+      "publishedAt": "2026-11-13T15:45:21+00:00",
+      "updatedAt": "2026-11-13T15:45:21+00:00",
       "importance": 65,
       "sources": [
         {
@@ -159,10 +156,35 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
-      "summaryInput": "aed64794247a50575ec64587ac6a8e180f6d29dd5461c1393ad53d281061503c",
+      "summaryInput": "f769a76f544d834a5dc75755f9e9eee2256717ba03a4c84358a9bf94feda2bf2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T13:24:12.569627+00:00",
+      "enrichedAt": "2026-11-13T15:59:50.103926+00:00",
       "context": null
+    },
+    {
+      "id": "rss-b5a5cb01839cfb8092",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Panne chez Microsoft : le récit de 24 heures de pagaille dans les entreprises, les hôpitaux et les gouvernements du monde entier",
+      "bullets": [
+        "Privés d’Outlook, Teams et Copilot, des millions d’utilisateurs ont dû revenir au téléphone ou aux démarches sur place entre jeudi et vendredi.",
+        "Le géant américain a longtemps tâtonné avant de rétablir ses services."
+      ],
+      "publishedAt": "2026-11-13T15:33:17+00:00",
+      "updatedAt": "2026-11-13T15:33:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0305da7362d8f217ba925f48c4e8ec83672090cc8dd73e4709e73a0af1b3b087",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-85f72a6abad293205f",
@@ -249,31 +271,6 @@
       "context": null
     },
     {
-      "id": "rss-60556def73c12ce48f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "A suivre Loïc de la Mornais : fonctionnaires, trop ou pas assez ?",
-      "bullets": [
-        "Dans cette deuxième partie, Loïc de la Mornais et ses invités reviennent sur les propositions réalisées jeudi 12 novembre sur franceinfo par les candidats à l'élection présidentielle concernant les services publics.",
-        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la…"
-      ],
-      "publishedAt": "2026-11-13T06:45:52+00:00",
-      "updatedAt": "2026-11-13T06:45:52+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/a-suivre-loic-de-la-mornais-fonctionnaires-trop-ou-pas-assez_8280569.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "052eb40297543a07457c6868aab021272a7a0f64ce30955759477af22880e918",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e01b3e4b4ca519a744",
       "revision": 1,
       "category": "eco",
@@ -332,9 +329,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T14:56:37+00:00",
-      "updatedAt": "2026-11-13T14:56:37+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-13T15:59:51+00:00",
+      "updatedAt": "2026-11-13T15:59:51+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -570,6 +567,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d06cdc1afbc789a03b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Un bouclier anti-sanctions » : Hongkong rebondit au service des ambitions géopolitiques de la Chine",
+      "bullets": [
+        "REPORTAGE - Mise au pas, l’ancienne colonie britannique se mue en tremplin de la deuxième puissance mondiale en lui permettant de contourner les sanctions occidentales, à l’ombre du partenariat entre Pékin et Moscou."
+      ],
+      "publishedAt": "2026-11-13T15:15:00+00:00",
+      "updatedAt": "2026-11-13T15:15:00+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/un-bouclier-anti-sanctions-hongkong-rebondit-au-service-des-ambitions-geopolitiques-de-la-chine-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2b8648f4aed64321ae",
       "revision": 2,
       "category": "world",
@@ -596,31 +617,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
       "context": null
-    },
-    {
-      "id": "rss-29dbf83bbec3275396",
-      "revision": 3,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
-      "bullets": [
-        "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord.",
-        "Jared Kushner et Steve Witkoff, les envoyés spéciaux du président américain, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine."
-      ],
-      "publishedAt": "2026-11-13T04:00:29+00:00",
-      "updatedAt": "2026-11-13T04:00:29+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bbc692c91c0c939b1c1547ccf19bcd90a6774e59607d87ccb35989f71d24ceb1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-559e046c1cdb1e0155",
@@ -752,6 +748,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0f8813a048e80b39ce",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie visée par une attaque de drones massive",
+      "bullets": [
+        "Dans la nuit du jeudi 12 au vendredi 13 novembre, l'une des plus grandes raffineries de Russie a été visée dans une vaste attaque de drones ukrainiens.",
+        "Faites que cette vidéo ne soit pas ma dernière.\"Dans la panique, par peur de manque de carburant, des automobilistes se sont rués vers les stations-service et dans la capitale russe, elle aussi visée par des drones qui ont été interceptés.",
+        "Jeudi 12 novembre déjà à Saint-Pétersbourg, un colonel de l'armée russe a été tué dans l'explosion de sa voiture."
+      ],
+      "publishedAt": "2026-11-13T15:09:39+00:00",
+      "updatedAt": "2026-11-13T15:09:39+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/la-russie-visee-par-une-attaque-de-drones-massive_8281175.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "c1d5e87895fc38f67ac049c2d2d0788fabf5b410df53249f347a61835037cdb7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T15:59:50.103926+00:00",
+      "context": null
+    },
+    {
       "id": "rss-42d4bbefac300c4593",
       "revision": 2,
       "category": "world",
@@ -776,34 +800,6 @@
       "summaryInput": "09e261cd0cafa5f73943d9a74fc5b3dbf5588df504319ede0830706093f4c5dc",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T13:24:12.569627+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-48a41a05d0dc8f51d4",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : face aux émissaires américains, Vladimir Poutine refuse la possibilité d'établir des \"zones grises\"",
-      "bullets": [
-        "Le président russe, Vladimir Poutine, a affirmé, jeudi 12 novembre auprès des émissaires américains, qu'il resterait inflexible sur ses exigences maximalistes pour mettre fin au conflit en Ukraine.",
-        "Dans un long échange avec les envoyés de Donald Trump retransmis, fait rare, à la télévision russe, Vladimir Poutine a rejeté toute possibilité d'établir des \"zones grises\" ou démilitarisées autour de la ligne de front.",
-        "La Russie occupe actuellement un peu plus de 19% du territoire ukrainien et revendique depuis 2022 l'annexion de quatre régions ukrainiennes (Louhansk, Donetsk, Zaporijjia et Kherson) dont elle ne contrôle pas l'intégralité."
-      ],
-      "publishedAt": "2026-11-13T07:24:20+00:00",
-      "updatedAt": "2026-11-13T07:24:20+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "fb3b4d548f6305bd88f61c8d74c057469f8b82288952544df8c000ebb2982096",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T07:32:23.540040+00:00",
       "context": null
     },
     {
@@ -856,32 +852,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-81fd4cf2fbaed4d970",
-      "revision": 2,
+      "id": "rss-573eaffa279c0f6ddf",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes",
+      "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
       "bullets": [
-        "Je suis très en colère quand j'entends ces propos du Premier ministre.",
-        "Organiser la sortie de crise\"Je n'ai pas connaissance de ces complicités dont parle le Premier ministre.",
-        "Pour Sophie Vénétitay, \"il y a déjà suffisamment de tensions dans l'Éducation nationale."
+        "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
+        "Une approche largement guidée par une logique comptable."
       ],
-      "publishedAt": "2026-11-13T07:55:49+00:00",
-      "updatedAt": "2026-11-13T07:55:49+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-12T18:23:31+00:00",
+      "updatedAt": "2026-11-12T18:23:31+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "42ee5ab7c0bb6eed57be036af08743090bf93911cb9409c15ffe53cef92ba66d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "7da67a7dde7ef430fcf42c95c7df0885aa353bf56fff81cd843443a10df69a46",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8f855e2b707262b1f3",
@@ -1138,33 +1131,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6cee96959ee935f76d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
-      "bullets": [
-        "Chacun ressort avec un sac noir en bandoulière, chargé du précieux butin : près d'un million d'euros de bijoux sertis de diamants, dérobés en plein cœur de Paris, dans le 2e arrondissement, chez le diamantaire De Beers, rue de la Paix, tout proche de la place Vendôme.",
-        "Les voleurs se sont attaqués au leader mondial du diamant, tout près de la place Vendôme, qui concentre de nombreuses maisons de la haute joaillerie, déjà la cible de braquages en plein jour, comme Bulgari en avril 2023, ou encore Chanel, en mai 2022."
-      ],
-      "publishedAt": "2026-11-12T19:39:22+00:00",
-      "updatedAt": "2026-11-12T19:39:22+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "056060cfa13171ee99167592163387778864bd35141b3d1773354bea5116dd2a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5b08c3e275ac303278",
       "revision": 1,
       "category": "france",
@@ -1217,28 +1183,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-573eaffa279c0f6ddf",
+      "id": "rss-8892672c0338ccab42",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
+      "title": "« Vivre le handicap » : un hors-série du « Monde » fait le point sur les obstacles à l’inclusion mais aussi sur les avancées et les innovations",
       "bullets": [
-        "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
-        "Une approche largement guidée par une logique comptable."
+        "Plus de vingt ans après l’instauration de la loi pour l’égalité des droits et des chances des personnes handicapées, le handicap demeure un facteur d’inégalités.",
+        "Pour mieux comprendre, une sélection d’articles de la rédaction du « Monde » et un guide pratique."
       ],
-      "publishedAt": "2026-11-12T18:23:31+00:00",
-      "updatedAt": "2026-11-12T18:23:31+00:00",
+      "publishedAt": "2026-11-12T17:00:07+00:00",
+      "updatedAt": "2026-11-12T17:00:07+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/vivre-le-handicap-un-hors-serie-du-monde-fait-le-point-sur-les-obstacles-a-l-inclusion-mais-aussi-sur-les-avancees-et-les-innovations_6809134_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "7da67a7dde7ef430fcf42c95c7df0885aa353bf56fff81cd843443a10df69a46",
+      "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2276c16164979e4669",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "PMA : un texte bientôt examiné à l’Assemblée sur le diagnostic génétique des embryons, ce test interdit en France",
+      "bullets": [
+        "DÉCRYPTAGE - Méthode eugéniste de «tri» pour les uns, chance supplémentaire de procréer pour les autres : le DPI-A divise.",
+        "Une proposition de loi transpartisane sur son autorisation en France va être examinée à l’Assemblée en décembre."
+      ],
+      "publishedAt": "2026-11-12T16:40:32+00:00",
+      "updatedAt": "2026-11-12T16:40:32+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/pma-un-texte-bientot-examine-a-l-assemblee-sur-le-diagnostic-genetique-des-embryons-ce-test-interdit-en-france-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6ae758b7f37bb236d4cdb28f4956e351eb379b9e8aa23d69bec7811a9ccfe5a8",
       "detailLevel": "preview"
     }
   ],
@@ -1253,7 +1244,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
