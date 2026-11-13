@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T13:24:12.569627+00:00",
+  "preparedAt": "2026-11-13T15:00:24.643120+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -68,8 +68,8 @@
         "Le géant américain Microsoft n'a détecté «aucun signe d'action malveillante ou de cyberattaque» pour expliquer la panne mondiale qui touche son logiciel de messagerie Outlook et ses services de cloud Microsoft 365, a annoncé ce vendredi 13 novembre un de ses dirigeants sur le réseau social X.",
         "Les réparations effectuées dans la nuit n’ont ainsi «pas eu l’effet escompté», avait d’abord indiqué l’entreprise, qui assurait finalement vers 9 heures (heure française) observer des résultats «positifs» dans le déploiement de correctifs."
       ],
-      "publishedAt": "2026-11-13T12:09:40+00:00",
-      "updatedAt": "2026-11-13T12:09:40+00:00",
+      "publishedAt": "2026-11-13T13:59:40+00:00",
+      "updatedAt": "2026-11-13T13:59:40+00:00",
       "importance": 67,
       "sources": [
         {
@@ -147,8 +147,8 @@
         "Dans son projet de budget, le gouvernement prévoit de le geler encore en 2027.",
         "Le premier ministre a aussi annoncé ce vendredi qu’il recevra à nouveau les syndicats le 11 décembre, soit après les élections professionnelles dans la fonction publique, pour «sceller des avancées dès la mi-décembre»."
       ],
-      "publishedAt": "2026-11-13T13:13:50+00:00",
-      "updatedAt": "2026-11-13T13:13:50+00:00",
+      "publishedAt": "2026-11-13T14:31:45+00:00",
+      "updatedAt": "2026-11-13T14:31:45+00:00",
       "importance": 65,
       "sources": [
         {
@@ -165,28 +165,60 @@
       "context": null
     },
     {
-      "id": "rss-df78dbf9c3462d20db",
+      "id": "rss-85f72a6abad293205f",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Entre 150 et 170 coups de téléphone par jour\" : avec la baisse du prix du fioul, les livreurs sont débordés",
+      "bullets": [
+        "Le prix au litre a enfin baissé, moins 20 centimes d'euros.",
+        "On va peut-être économiser, sur un plein comme ça, entre 200 et 300 euros.",
+        "Le prix payé par Annick Lecordier : 2 247 euros."
+      ],
+      "publishedAt": "2026-11-13T14:13:25+00:00",
+      "updatedAt": "2026-11-13T14:13:25+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/entre-150-et-170-coups-de-telephone-par-jour-avec-la-baisse-du-prix-du-fioul-les-livreurs-sont-debordes_8281151.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "62157825445084c45710c5376a8ad1cf28bda6da00df148d53dcc3273f5493eb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T15:00:24.643120+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-df78dbf9c3462d20db",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
       "bullets": [
-        "Le Premier ministre recevra à nouveau les syndicats le 11 décembre, après les élections professionnelles dans la Fonction publique, pour \"sceller des avancées dès la mi-décembre\"."
+        "Sébastien Lecornu recevra à nouveau les syndicats le 11 décembre, après les élections professionnelles dans la fonction publique, pour \"sceller des avancées dès la mi-décembre\".",
+        "Sophie Binet a, elle, estimé à la sortie de la rencontre à Matignon qu'il s'agissait d'\"une réunion pour rien\".",
+        "A ses yeux, les cinq chantiers listés par Sébastien Lecornu \"ne répondent pas à l'urgence salariale pour les agents de la fonction publique\"."
       ],
-      "publishedAt": "2026-11-13T13:04:48+00:00",
-      "updatedAt": "2026-11-13T13:04:48+00:00",
+      "publishedAt": "2026-11-13T13:31:37+00:00",
+      "updatedAt": "2026-11-13T13:31:37+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
           "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html",
-          "access": "extrait"
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f9dbf8550935ce95ab4fba6c9a12a3ab6964d1b14c99888ecf10ff1b5f19d0ff",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "1f7b8f4b5e8fab96f5ea291ce531ebe785c099ebf6bcc7ed67e8478b71b44cc1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T15:00:24.643120+00:00",
+      "context": null
     },
     {
       "id": "rss-505c0b651e2f7e5492",
@@ -242,33 +274,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-07ad7e0d635c419b08",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "VRAI OU FAUX. Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ?",
-      "bullets": [
-        "Le gouvernement a annoncé, lundi 9 novembre, à l'issue de la conférence sociale sur le pouvoir d'achat et les salaires, une revalorisation anticipée du smic à hauteur de 1,6% dès le 1er décembre, le portant à 1 501,90 euros net, contre 1 477,93 euros actuellement.",
-        "Ce supplément d'exonérations pour les entreprises permettrait une baisse du coût du travail et représenterait alors une création de 183 000 emplois, ce qui amène l'économiste à évaluer à seulement 34 500 emplois détruits au total par une hausse du smic à 1 700 euros."
-      ],
-      "publishedAt": "2026-11-13T04:52:34+00:00",
-      "updatedAt": "2026-11-13T04:52:34+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-une-hausse-du-smic-a-1-700-euros-entrainerait-elle-la-destruction-de-230-000-emplois-comme-l-affirme-le-gouvernement_8274335.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "3e592e50da252a3169f91b3248f811af688a0acd4b18723abb85fa945b7813ca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T05:12:13.308195+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e01b3e4b4ca519a744",
       "revision": 1,
       "category": "eco",
@@ -317,34 +322,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4021f0b9b8e532a5fd",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Avec la chute de l'IA en Bourse, Anthropic sabre ses ambitions et vise une valorisation allant jusqu'à 1.400 milliards de dollars pour son introduction à Wall Street",
-      "bullets": [
-        "Anthropic a indiqué qu'il proposerait lors de cette opération 825 millions d'actions dont 801,35 millions seront émises par la société et 23,65 millions seront offertes par des actionnaires existants.",
-        "En incluant donc toutes les options prévues, Anthropic lèverait au total plus de 100 milliards de dollars.",
-        "Hypercroissance \"À notre avis, une valorisation de 1.000 milliards de dollars d'Anhtropic, avec un cours et des débuts de cotations satisfaisants, justifierait les dépenses d'investissement sur lesquelles reposent toutes les entreprises de la chaîne d'approvisionnement de l'IA, ainsi que la croissance du cloud que les hyperscalers viennent d'annoncer\", ajoute-t-il."
-      ],
-      "publishedAt": "2026-11-10T13:28:43+00:00",
-      "updatedAt": "2026-11-10T13:28:43+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/avec-la-chute-de-l-ia-en-bourse-anthropic-sabre-ses-ambitions-et-vise-une-valorisation-allant-jusqu-a-1400-milliards-de-dollars-pour-son-introduction-a-wall-street-1173512.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "b609532389dd8dc58d990ddc61c3515794856668b5e2a4e953942a291a2f2070",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -355,8 +332,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T13:22:57+00:00",
-      "updatedAt": "2026-11-13T13:22:57+00:00",
+      "publishedAt": "2026-11-13T14:56:37+00:00",
+      "updatedAt": "2026-11-13T14:56:37+00:00",
       "importance": 69,
       "sources": [
         {
@@ -413,7 +390,7 @@
       ],
       "publishedAt": "2026-11-12T14:32:29+00:00",
       "updatedAt": "2026-11-12T14:32:29+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -453,7 +430,7 @@
       "provenance": "article-extract",
       "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T02:58:40.934913+00:00",
+      "enrichedAt": "2026-11-13T15:00:24.643120+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -536,59 +513,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
       "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9f04402014d3d3de9a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
-      "bullets": [
-        "Parti du Honduras, le groupe a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l’Etat du Chiapas, dans le sud du pays.",
-        "Il espère rejoindre les Etats-Unis, où le Parti républicain du président a subi une défaite écrasante aux midterms."
-      ],
-      "publishedAt": "2026-11-13T00:01:12+00:00",
-      "updatedAt": "2026-11-13T00:01:12+00:00",
-      "importance": 88,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2d7d17678ecc3871ce49cf5d8f051b13c388978ebcdcd6561c68e0cefa5763fd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-702a62a1bc055ac5a7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Norvège va interdire aux athlètes russes de participer à des compétitions sur son territoire",
-      "bullets": [
-        "Le gouvernement norvégien a annoncé, jeudi 12 novembre, qu'il interdirait aux athlètes professionnels russes et bélarusses de venir en Norvège pour participer à des compétitions, quelques heures après l'annonce par la Finlande d'une mesure similaire.",
-        "La Norvège se prépare à accueillir en décembre la Coupe du monde de ski de fond dans la ville de Trondheim.",
-        "Cette décision signifie que les athlètes russes et biélorusses pourraient être empêchés d'y participer, même s'ils ont été autorisés à concourir par la Fédération internationale de ski et de snowboard."
-      ],
-      "publishedAt": "2026-11-13T12:49:32+00:00",
-      "updatedAt": "2026-11-13T12:49:32+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "0fb36d0f6d4ace052dae04bfb44414df73894b37b8a029b8d59c7e8e4451d697",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
       "context": null
@@ -752,6 +676,58 @@
       "context": null
     },
     {
+      "id": "rss-1b69d2ca404c302685",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Je ne demande pas l'impossible, juste être en bonne santé et vivre\" : à Gaza, des habitants craignent de mourir du diabète",
+      "bullets": [
+        "Au moins six morts et une vingtaine de blessés dans un bombardement israélien sur un hôpital de Gaza, jeudi 12 novembre.",
+        "Maryam, 17 ans, est atteinte d'un diabète de type 1 et, faute d'insuline, sa santé se dégrade.",
+        "Je ne demande pas l'impossible, juste être en bonne santé et vivre...\"La nécessité d'un approvisionnement \"sûr et constant\"Avant la guerre, l'agence de l'ONU pour les réfugiés palestiniens (UNRWA) fournissait les stylos à insuline et les appareils pour réguler la glycémie, mais elle a été bannie par Israël."
+      ],
+      "publishedAt": "2026-11-13T14:04:35+00:00",
+      "updatedAt": "2026-11-13T14:04:35+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/je-ne-demande-pas-l-impossible-juste-etre-en-bonne-sante-et-vivre-a-gaza-des-habitants-craignent-de-mourir-du-diabete_8280014.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "eb4cc066db00a9b3e0e7eb1799dc1cc8614345b8e666098d99c9ad65f2cf2460",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T15:00:24.643120+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f5563e5394fe334562",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’Allemagne renforce ses services de renseignement, face à la menace russe et aux cyberattaques",
+      "bullets": [
+        "L’opposition alerte sur les risques pour l’Etat de droit, alors que Berlin dote ses services de renseignement de capacités inédites de riposte et de sabotage numérique."
+      ],
+      "publishedAt": "2026-11-13T14:01:07+00:00",
+      "updatedAt": "2026-11-13T14:01:07+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d8f5569b01b5d4c723867bf9c878eab30177f830d3526989ee08ec03eaae6227",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9150682742d83c0008",
       "revision": 1,
       "category": "world",
@@ -880,52 +856,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b84c75fbd537f5da33",
-      "revision": 1,
+      "id": "rss-81fd4cf2fbaed4d970",
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
+      "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes",
       "bullets": [
-        "Après que les enquêteurs ont retrouvé des autocollants « Vive la France, RN, fier d’être français » chez Kevin Tessier, auteur de l’attentat, la patronne des Ecologistes avait déclaré : « Qu’est-ce qu’on fait de ce parti ?",
-        "On considère qu’il est un parti comme les autres, alors que des…"
+        "Je suis très en colère quand j'entends ces propos du Premier ministre.",
+        "Organiser la sortie de crise\"Je n'ai pas connaissance de ces complicités dont parle le Premier ministre.",
+        "Pour Sophie Vénétitay, \"il y a déjà suffisamment de tensions dans l'Éducation nationale."
       ],
-      "publishedAt": "2026-11-13T09:44:33+00:00",
-      "updatedAt": "2026-11-13T09:44:33+00:00",
+      "publishedAt": "2026-11-13T07:55:49+00:00",
+      "updatedAt": "2026-11-13T07:55:49+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b397cb64cc44ff8823132c9e8f16ac76de34ff2387d41780c88cb4a7c67ac425",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "42ee5ab7c0bb6eed57be036af08743090bf93911cb9409c15ffe53cef92ba66d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "context": null
     },
     {
-      "id": "rss-d4055351478264ba4e",
+      "id": "rss-8f855e2b707262b1f3",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mouvement des lycées : le gouvernement abandonne les éducateurs",
+      "title": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
       "bullets": [
-        "Sur la forme comme sur le fond, le gouvernement de Sébastien Lecornu porte une lourde responsabilité dans l’épuisement général des responsables éducatifs en n’avançant aucune solution politique crédible et en n’associant pas, comme il aurait fallu, syndicats ou exécutifs régionaux."
+        "Les syndicats, en rappelant leur devoir de neutralité, fustigent les propos du premier ministre et l’accusent d’attiser les tensions dans une situation déjà tendue."
       ],
-      "publishedAt": "2026-11-13T11:00:14+00:00",
-      "updatedAt": "2026-11-13T11:00:14+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-13T14:27:12+00:00",
+      "updatedAt": "2026-11-13T14:27:12+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/13/mouvement-des-lycees-le-gouvernement-abandonne-les-educateurs_6809316_3232.html",
+          "url": "https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "852852f74a448d583dc8f514bc622293c73fbd71d0392b6aa491d15259887088",
+      "summaryInput": "fc0fb13cf6e44eddadac50ec7588803d35ad957b03b9e69fe3a5521df3c367fc",
       "detailLevel": "preview"
     },
     {
@@ -1019,7 +998,7 @@
       ],
       "publishedAt": "2026-11-13T01:42:24+00:00",
       "updatedAt": "2026-11-13T01:42:24+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1086,6 +1065,30 @@
       "context": null
     },
     {
+      "id": "rss-d4055351478264ba4e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mouvement des lycées : le gouvernement abandonne les éducateurs",
+      "bullets": [
+        "Sur la forme comme sur le fond, le gouvernement de Sébastien Lecornu porte une lourde responsabilité dans l’épuisement général des responsables éducatifs en n’avançant aucune solution politique crédible et en n’associant pas, comme il aurait fallu, syndicats ou exécutifs régionaux."
+      ],
+      "publishedAt": "2026-11-13T11:00:14+00:00",
+      "updatedAt": "2026-11-13T11:00:14+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/13/mouvement-des-lycees-le-gouvernement-abandonne-les-educateurs_6809316_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "852852f74a448d583dc8f514bc622293c73fbd71d0392b6aa491d15259887088",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dc3f0517ca75502fa2",
       "revision": 1,
       "category": "france",
@@ -1110,56 +1113,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-81fd4cf2fbaed4d970",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes",
-      "bullets": [
-        "Je suis très en colère quand j'entends ces propos du Premier ministre.",
-        "Organiser la sortie de crise\"Je n'ai pas connaissance de ces complicités dont parle le Premier ministre.",
-        "Pour Sophie Vénétitay, \"il y a déjà suffisamment de tensions dans l'Éducation nationale."
-      ],
-      "publishedAt": "2026-11-13T07:55:49+00:00",
-      "updatedAt": "2026-11-13T07:55:49+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "42ee5ab7c0bb6eed57be036af08743090bf93911cb9409c15ffe53cef92ba66d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-90df1864a41fc17ef6",
+      "id": "rss-b84c75fbd537f5da33",
       "revision": 1,
       "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
+      "topic": "Politique",
+      "title": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
       "bullets": [
-        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
-        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
+        "Après que les enquêteurs ont retrouvé des autocollants « Vive la France, RN, fier d’être français » chez Kevin Tessier, auteur de l’attentat, la patronne des Ecologistes avait déclaré : « Qu’est-ce qu’on fait de ce parti ?",
+        "On considère qu’il est un parti comme les autres, alors que des…"
       ],
-      "publishedAt": "2026-11-10T04:00:14+00:00",
-      "updatedAt": "2026-11-10T04:00:14+00:00",
+      "publishedAt": "2026-11-13T09:44:33+00:00",
+      "updatedAt": "2026-11-13T09:44:33+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
+      "summaryInput": "b397cb64cc44ff8823132c9e8f16ac76de34ff2387d41780c88cb4a7c67ac425",
       "detailLevel": "preview"
     },
     {
@@ -1188,30 +1163,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
       "context": null
-    },
-    {
-      "id": "rss-6ae7ec5c5a0ef60a08",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : « Le champ médiatique n’est plus une autoroute à péage, mais un manège d’autos-tamponneuses »",
-      "bullets": [
-        "A six mois de l’élection présidentielle, le politiste Pierre Lefébure analyse, dans un entretien au « Monde », l’« ébullition constante » du champ politique, où la multiplication concomitante du nombre d’acteurs politiques et des canaux de communication alimente une compétition féroce voire parfois illisible."
-      ],
-      "publishedAt": "2026-11-13T13:00:07+00:00",
-      "updatedAt": "2026-11-13T13:00:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/13/presidentielle-2027-le-champ-mediatique-n-est-plus-une-autoroute-a-peage-mais-un-manege-d-autos-tamponneuses_6809325_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "72567157971d5f95d6aa0aec879b49bfcfa62e083b9eea72635a5ca04b010755",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-5b08c3e275ac303278",
@@ -1264,6 +1215,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-573eaffa279c0f6ddf",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
+      "bullets": [
+        "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
+        "Une approche largement guidée par une logique comptable."
+      ],
+      "publishedAt": "2026-11-12T18:23:31+00:00",
+      "updatedAt": "2026-11-12T18:23:31+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7da67a7dde7ef430fcf42c95c7df0885aa353bf56fff81cd843443a10df69a46",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1289,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1301,7 +1277,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1325,13 +1301,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1343,7 +1319,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1355,7 +1331,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1367,7 +1343,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
