@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T02:58:40.934913+00:00",
+  "preparedAt": "2026-11-13T04:06:30.619234+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -239,7 +239,7 @@
       ],
       "publishedAt": "2026-11-12T16:00:12+00:00",
       "updatedAt": "2026-11-12T16:00:12+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -343,8 +343,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T02:53:08+00:00",
-      "updatedAt": "2026-11-13T02:53:08+00:00",
+      "publishedAt": "2026-11-13T04:05:21+00:00",
+      "updatedAt": "2026-11-13T04:05:21+00:00",
       "importance": 69,
       "sources": [
         {
@@ -413,7 +413,7 @@
       "provenance": "article-extract",
       "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T15:07:55.840577+00:00",
+      "enrichedAt": "2026-11-13T04:06:30.619234+00:00",
       "context": null
     },
     {
@@ -638,6 +638,31 @@
       "context": null
     },
     {
+      "id": "rss-29dbf83bbec3275396",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : les émissaires américains assurent que les Européens seront associés aux prochaines réunions de négociation de paix",
+      "bullets": [
+        "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord.",
+        "Jared Kushner et Steve Witkoff, les envoyés spéciaux de Donald Trump, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine."
+      ],
+      "publishedAt": "2026-11-13T04:00:35+00:00",
+      "updatedAt": "2026-11-13T04:00:35+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3476312bab799efd6e114f91ecab20bf3f228c4b28a83d49cfc27a93b4312039",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-559e046c1cdb1e0155",
       "revision": 1,
       "category": "world",
@@ -712,6 +737,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a8ba9bd657fb7d119c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’interminable combat pour obtenir justice des trois fils de Daphne Caruana Galizia, la journaliste maltaise assassinée en 2017",
+      "bullets": [
+        "Il y a neuf ans, Daphne Caruana Galizia, connue pour ses enquêtes sur la corruption à Malte, mourait dans l’explosion de sa voiture. Depuis, ses trois fils bataillent sans relâche pour que toute la vérité soit faite. Une lutte de longue haleine, dans laquelle ils ont mobilisé les médias internationaux…"
+      ],
+      "publishedAt": "2026-11-13T04:00:43+00:00",
+      "updatedAt": "2026-11-13T04:00:43+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/l-interminable-combat-pour-obtenir-justice-des-trois-fils-de-daphne-caruana-galizia-la-journaliste-maltaise-assassinee-en-2017_6809271_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "056261c7d46961850bfa67fb38047c8a3ee51645a5a336afd5c5b66032359bf7",
       "detailLevel": "preview"
     },
     {
@@ -820,58 +869,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "853f25066c6460e2079d97db6ccb4c4e8f0229a0cebca72b0c47b83f707b4fcd",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7685682bb20a09d5d0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Aujourd'hui, on est au seuil de la guerre avec la Russie\" selon Guillaume Ancel, ancien officier de l'armée française",
-      "bullets": [
-        "Comment défendre la paix sans avoir peur de se battre » aux éditions Autrement (05.03.25).",
-        "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien",
-        "Christophe Gleizes détenu depuis 500 jours en Algérie"
-      ],
-      "publishedAt": "2026-11-12T19:13:16+00:00",
-      "updatedAt": "2026-11-12T19:13:16+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aujourd-hui-on-est-au-seuil-de-la-guerre-avec-la-russie-selon-guillaume-ancel-ancien-officier-de-l-armee-francaise_8279939.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "fb302e23c72aba22ca2998ee4259ca881a18b77b59185b3b8cdb90effe556fbf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T20:04:19.606977+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-97ef58673e37d89c68",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : à Moscou, Vladimir Poutine reste inflexible face aux émissaires américains",
-      "bullets": [
-        "RÉCIT - Avant de se rendre à Dublin, Jared Kushner et Steve Witkoff se sont entretenus avec le chef du Kremlin qui, pour seule concession, a proposé une opération humanitaire à Kostiantynivka, dans l’est de l’Ukraine, similaire à celle menée début novembre à Olechky."
-      ],
-      "publishedAt": "2026-11-12T19:00:00+00:00",
-      "updatedAt": "2026-11-12T19:00:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "505fcee9092605252b63c582210c2ad17a4525b3af1f922c19ec2344d8bfd713",
       "detailLevel": "preview"
     },
     {
@@ -988,7 +985,7 @@
       ],
       "publishedAt": "2026-11-12T15:20:46+00:00",
       "updatedAt": "2026-11-12T15:20:46+00:00",
-      "importance": 87,
+      "importance": 86,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1114,7 +1111,7 @@
       ],
       "publishedAt": "2026-11-10T04:00:14+00:00",
       "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 68,
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1140,7 +1137,7 @@
       ],
       "publishedAt": "2026-11-12T16:00:02+00:00",
       "updatedAt": "2026-11-12T16:00:02+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1154,30 +1151,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T16:15:34.700430+00:00",
       "context": null
-    },
-    {
-      "id": "rss-89f6e5d2f7423832e3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
-      "bullets": [
-        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
-      ],
-      "publishedAt": "2026-11-12T04:00:06+00:00",
-      "updatedAt": "2026-11-12T04:00:06+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-6831cdda7ed5ac42ee",
@@ -1211,7 +1184,7 @@
       "id": "rss-573eaffa279c0f6ddf",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
       "bullets": [
         "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
@@ -1259,6 +1232,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
       "context": null
+    },
+    {
+      "id": "rss-da20adb4a0d4d5edbd",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "bullets": [
+        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+      ],
+      "publishedAt": "2026-11-12T17:00:18+00:00",
+      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8892672c0338ccab42",
@@ -1393,7 +1390,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "BFM Bourse",
