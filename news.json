@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T05:12:13.308195+00:00",
+  "preparedAt": "2026-11-13T06:12:53.787546+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -77,6 +77,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "b88f9e722f94b1e385299cd1b057256c287623961a5acef1976d15ec995e4575",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8b02deabdd41eaca6d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
+      "bullets": [
+        "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
+      ],
+      "publishedAt": "2026-11-12T16:25:43+00:00",
+      "updatedAt": "2026-11-12T16:25:43+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ca91185a07f0e5cdf9747a7ae93cfe3db1e9a45bc72f238c91d05f6fad876547",
       "detailLevel": "preview"
     },
     {
@@ -189,7 +213,7 @@
       ],
       "publishedAt": "2026-11-12T17:14:28+00:00",
       "updatedAt": "2026-11-12T17:14:28+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -252,7 +276,7 @@
       "provenance": "article-extract",
       "summaryInput": "565374253aa45ca1737529e9c02d78906bd3ae9b3139ae21e0560dfa2cdbe2dc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
+      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
       "context": null
     },
     {
@@ -280,34 +304,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cbfc0c7e4ac2cef630",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Six mois avant la démission de Jensen Huang, un fonds new-yorkais alertait déjà sur le «problème chinois» de Nvidia",
-      "bullets": [
-        "L’action de l’entreprise bat un record en gagnant 3% le lendemain.",
-        "Premièrement, alors que Nvidia assure ne plus vendre de puces d’IA en Chine depuis les restrictions américaines d’avril 2025, Culper estime tout de même que plus de 20% de ces revenus restaient tirés par la demande chinoise via des intermédiaires d’Asie du Sud-Est.",
-        "Derrière cette note se trouve Christian Lamarco, 31 ans, qui s’est lancé seul en 2019 avec deux associés depuis Brooklyn, rapporte le Wall Street Journal."
-      ],
-      "publishedAt": "2026-11-12T17:15:00+00:00",
-      "updatedAt": "2026-11-12T17:15:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/six-mois-avant-la-demission-de-jensen-huang-un-fonds-new-yorkais-alertait-deja-sur-le-probleme-chinois-de-nvidia-20261112",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "3fc8f1553128d907c4bd8fb92ca75de53f02f9f690544640d7a3385557340601",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
-      "context": null
-    },
-    {
       "id": "rss-4021f0b9b8e532a5fd",
       "revision": 1,
       "category": "markets",
@@ -332,7 +328,7 @@
       "provenance": "article-extract",
       "summaryInput": "b609532389dd8dc58d990ddc61c3515794856668b5e2a4e953942a291a2f2070",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
+      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
       "context": null
     },
     {
@@ -346,8 +342,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T05:10:12+00:00",
-      "updatedAt": "2026-11-13T05:10:12+00:00",
+      "publishedAt": "2026-11-13T06:10:23+00:00",
+      "updatedAt": "2026-11-13T06:10:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -388,7 +384,7 @@
       "provenance": "article-extract",
       "summaryInput": "b8b3edbbd4d9ef2e7364d6e03719278578ff5a46b53f8279c866ab467c5e19fa",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
+      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
       "context": null
     },
     {
@@ -516,7 +512,7 @@
       ],
       "publishedAt": "2026-11-10T17:55:25+00:00",
       "updatedAt": "2026-11-10T17:55:25+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -544,7 +540,7 @@
       ],
       "publishedAt": "2026-11-10T17:16:25+00:00",
       "updatedAt": "2026-11-10T17:16:25+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -743,6 +739,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-2940674f5b02c27027",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A suivre Loïc de la Mornais : Ukraine, Poutine l'inflexible ?",
+      "bullets": [
+        "Dans cette première partie, Loïc de la Mornais et ses invités reviennent sur la guerre en Ukraine avec des discussions qui se sont déroulées à Moscou et à Dublin, jeudi 12 novembre.",
+        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
+      ],
+      "publishedAt": "2026-11-13T05:57:47+00:00",
+      "updatedAt": "2026-11-13T05:57:47+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-ukraine-poutine-l-inflexible_8280491.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fd5cabfa9ae79f78997e6e68e71bfce06fb9b53f5c223585133e3506aceb13a3",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a8ba9bd657fb7d119c",
       "revision": 1,
       "category": "world",
@@ -849,30 +870,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-12T21:57:37.675500+00:00",
       "context": null
-    },
-    {
-      "id": "rss-75e99d3759dc0b513f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Laure Mandeville : « En Russie, les automates, les révoltés et les silencieux »",
-      "bullets": [
-        "ANALYSE - Dans une autocratie poutinienne où le rouleau compresseur de la répression s’abat sur tous ceux qui osent critiquer le pouvoir et la guerre contre l’Ukraine, il n’y a que peu de choix : se soumettre, courir le risque de la révolte, qui mène à la prison, à l’exil…"
-      ],
-      "publishedAt": "2026-11-12T19:30:00+00:00",
-      "updatedAt": "2026-11-12T19:30:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vox/monde/laure-mandeville-en-russie-les-automates-les-revoltes-et-les-silencieux-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "853f25066c6460e2079d97db6ccb4c4e8f0229a0cebca72b0c47b83f707b4fcd",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-10de24a582862b5c40",
@@ -1233,34 +1230,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b1f0f76215418da9fd",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
-      "bullets": [
-        "Jean-Luc Mélenchon, candidat de La France insoumise à la présidentielle, propose dans son programme présenté samedi 7 novembre que les arrêts-maladies de courte durée puissent être autodéclarés.",
-        "Pour défendre sa proposition, Jean-Luc Mélenchon rappelle que la Cour des comptes s'est penchée sur le sujet dans un rapport publié en mai 2024.",
-        "Alors que le nombre d'arrêts a augmenté de 10% entre 2019 et 2024 selon le gouvernement, celui-ci multiplie depuis plusieurs mois les mesures pour réduire le coût des arrêts-maladies."
-      ],
-      "publishedAt": "2026-11-12T18:05:23+00:00",
-      "updatedAt": "2026-11-12T18:05:23+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "26964ef88f1f3286d12cf1b75e8dc0be5979b4372923973c97266e6158a1be04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T19:10:24.059605+00:00",
-      "context": null
-    },
-    {
       "id": "rss-89f6e5d2f7423832e3",
       "revision": 1,
       "category": "france",
@@ -1283,6 +1252,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9f998c302c4380141a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "L'Alliance mondiale pour les vaccins alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres",
+      "bullets": [
+        "Gavi, l'Alliance mondiale pour les vaccins, alerte sur la baisse des financements des campagnes de vaccination dans les pays les plus pauvres, rapporte mercredi 11 novembre France Inter.",
+        "\"Ce qui s'est traduit par une décision de notre conseil d'administration de réduire la couverture vaccinale, notamment sur le vaccin contre le paludisme, une couverture cible qui était à l'origine à 85% a dû être ramenée à 70%\", explique Pascal Barollier, directeur général de l'engagement public de l'alliance Gavi.",
+        "Mais pour atteindre cette ambition, il manque des fonds, près d'1,5 milliard de dollars."
+      ],
+      "publishedAt": "2026-11-11T19:03:13+00:00",
+      "updatedAt": "2026-11-11T19:03:13+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/vaccins/l-alliance-mondiale-pour-les-vaccins-alerte-sur-la-baisse-des-financements-des-campagnes-de-vaccination-dans-les-pays-les-plus-pauvres_8278226.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "5b1ab047f7790c04fabc6c69f37469d739d74ac2f82bdc7aee27aa521361f36f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
