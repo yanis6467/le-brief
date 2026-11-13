@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T17:06:40.733696+00:00",
+  "preparedAt": "2026-11-13T17:59:04.829051+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -53,30 +53,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "f5cb934496413872012c174791fd27d9a36e4cca319e83beb4d75587e06ce868",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8fc9f1c3718205cafe",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-      "bullets": [
-        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
-      ],
-      "publishedAt": "2026-11-13T15:28:23+00:00",
-      "updatedAt": "2026-11-13T15:28:23+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
     },
     {
@@ -324,6 +300,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-9416f5f7b61dfaee4e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On préfère le français, le propre, et l'abordable\" : au salon du \"Made in France\", les commerçants prouvent que l'on peut encore vendre des produits nationaux en restant abordables",
+      "bullets": [
+        "Une petite entreprise a fait un pari : ressusciter les couches pour bébés 100 % françaises.",
+        "Ça permet d'être 15 % moins cher qu'en magasin, avec une meilleure composition\", précise Johan Bonnet.",
+        "Là, c'est une boîte de 10 madeleines dans laquelle une madeleine contient une fève artisanale française."
+      ],
+      "publishedAt": "2026-11-13T16:02:41+00:00",
+      "updatedAt": "2026-11-13T16:02:41+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/on-prefere-le-francais-le-propre-et-l-abordable-au-salon-du-made-in-france-les-commercants-prouvent-que-l-on-peut-encore-vendre-des-produits-nationaux-en-restant-abordables_8281241.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "011a0976d8c3def8bcd19c9a76a14589c10011887fd579595db8f9b5edc711a4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T17:59:04.829051+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +338,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T17:05:09+00:00",
-      "updatedAt": "2026-11-13T17:05:09+00:00",
+      "publishedAt": "2026-11-13T17:55:09+00:00",
+      "updatedAt": "2026-11-13T17:55:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -352,31 +356,31 @@
       "context": null
     },
     {
-      "id": "rss-6eae53528f06693181",
+      "id": "rss-84a55b7d44c3bcab9c",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Alors que la panne Microsoft bouleverse les opérations sur l'ensemble des places mondiales, la Bourse de Paris grignote du terrain",
+      "title": "CAC 40 : Séance sans entrain pour le CAC 40 qui gagne cependant 2,8% sur une semaine parfaite",
       "bullets": [
-        "Son indice phare, le CAC 40, prend 0,16% à la mi-séance, à 8.374,26 points.",
-        "Cette statistique sera livrée à 14h30 et les économistes interrogés par le Wall Street Journal attendent une progression de 6,6% sur un an.",
-        "La plus forte hausse du CAC 40 est enregistrée par STMicroelectronics (+1,65%) tandis que la baisse la plus prononcée est accusée par Arcelormittal (-7,8%)."
+        "Son indice phare, le CAC 40, grignote 0,09% à 8.368,91 points, à la clôture de cette séance du 13 novembre.",
+        "À l’inverse, Kering accuse le recul le plus marqué de l’indice, perdant 2,4% en réaction aux résultats du groupe suisse Richemont.",
+        "Du côté des petites et moyennes capitalisations, Poujoulat a bondi de 8,6% après avoir annoncé son point d'activité semestriel."
       ],
-      "publishedAt": "2026-11-13T11:22:42+00:00",
-      "updatedAt": "2026-11-13T11:22:42+00:00",
+      "publishedAt": "2026-11-13T16:51:09+00:00",
+      "updatedAt": "2026-11-13T16:51:09+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-la-panne-microsoft-bouleverse-les-operations-sur-l-ensemble-des-places-mondiales-la-bourse-de-paris-grignote-du-terrain-1173761.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-seance-sans-entrain-pour-le-cac-40-qui-gagne-cependant-28-sur-une-semaine-parfaite-1173786.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
-      "summaryInput": "ba986624d87ddcab178c72de3338a85cb585ac099b451d6fe047c675e15e4bef",
+      "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T12:06:21.581786+00:00",
+      "enrichedAt": "2026-11-13T17:59:04.829051+00:00",
       "context": null
     },
     {
@@ -461,62 +465,6 @@
       "summaryInput": "1d0f4680fef542e7f0624b2b9a0099a1bf24488909f9868ce1ebc74fa5da05e7",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-32187279287a3f5e2b",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Des revenus multipliés par plus de 150 à 685 milliards de dollars d'ici à 2030, plus de 30 milliards de cash généré… Goldman Sachs vante la trajectoire financière d'Anthropic avant son IPO",
-      "bullets": [
-        "L'an passé, la jeune pousse n'avait généré que 4,6 milliards de dollars de revenus.",
-        "D'après le Financial Times et Bloomberg, qui citent des personnes proches du dossier, l'établissement voit les revenus de la société atteindre 685 milliards de dollars en 2030, soit une multiplication par 150 par rapport à 2025, avec notamment 100 milliards de dollars qui seraient réalisés auprès du secteur public.",
-        "En 2030, le bénéfice opérationnel atteindrait 65,2 milliards de dollars, anticipe encore Goldman Sachs."
-      ],
-      "publishedAt": "2026-11-10T17:55:25+00:00",
-      "updatedAt": "2026-11-10T17:55:25+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/des-revenus-multiplies-par-plus-de-150-a-685-milliards-de-dollars-d-ici-a-2030-plus-de-30-milliards-de-cash-genere-goldman-sachs-vante-la-trajectoire-financiere-d-anthropic-avant-son-ipo-1173554.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "1e52b712b0751a2b1a385e5cc3a47a0e698a8f18c252dc602bb12a80acf25cdc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0bc8d117fddc4ee300",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Plus de 400 milliards de dollars de capitalisation partie en fumée, un second rang mondial cédé à Microsoft… Nvidia poursuit sa chute, ébranlé par l'affaire d'espionnage présumé qui touche son patron",
-      "bullets": [
-        "L'action Nvidia perd 6,32% à 167,37 dollars à la Bourse de New York.",
-        "Désormais relégué derrière Apple et Microsoft, Nvidia n'avait pas été si bas dans le classement des plus importantes capitalisations mondiales depuis 2025.",
-        "Plainte pour tromperie Nvidia n'avait pas occupé une position aussi basse dans ce classement depuis 2025."
-      ],
-      "publishedAt": "2026-11-10T17:16:25+00:00",
-      "updatedAt": "2026-11-10T17:16:25+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/plus-de-400-milliards-de-dollars-de-capitalisation-partie-en-fumee-un-second-rang-mondial-cede-a-microsoft-nvidia-poursuit-sa-chute-ebranle-par-l-affaire-d-espionnage-presume-qui-touche-son-patron-1173550.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "f09a11fdf765a07d3f9e9ee0264713b732530eea30a450da7647491cb1f9fea2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
       "context": null
     },
     {
@@ -643,6 +591,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "13b5c9a4bc170855863e9411065a8deba006a687bd0eaef39bf8f683bdaf3ec9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8fc9f1c3718205cafe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "bullets": [
+        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+      ],
+      "publishedAt": "2026-11-13T15:28:23+00:00",
+      "updatedAt": "2026-11-13T15:28:23+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
     },
     {
@@ -806,33 +778,6 @@
       "context": null
     },
     {
-      "id": "rss-42d4bbefac300c4593",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de neuf morts",
-      "bullets": [
-        "L'Ukraine a mené une vague d'attaques, notamment au moyen de drones, d'une rare ampleur contre la Russie qui ont tué neuf personnes, tandis que les frappes russes contre l'Ukraine ont fait au moins trois morts, selon les bilans dressés par les autorités des deux pays, vendredi 13 novembre.",
-        "A Zaporijjia, ville du sud-est, un adolescent de 17 ans a été tué tandis que quatre personnes ont pu être secourues dans les décombres, a déclaré le gouverneur par intérim, Mykhaïlo Semikine."
-      ],
-      "publishedAt": "2026-11-13T12:37:19+00:00",
-      "updatedAt": "2026-11-13T12:37:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "09e261cd0cafa5f73943d9a74fc5b3dbf5588df504319ede0830706093f4c5dc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T13:24:12.569627+00:00",
-      "context": null
-    },
-    {
       "id": "rss-10de24a582862b5c40",
       "revision": 1,
       "category": "france",
@@ -881,27 +826,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8f855e2b707262b1f3",
+      "id": "rss-93645017efeaa56f64",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
+      "title": "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage",
       "bullets": [
-        "Les syndicats, en rappelant leur devoir de neutralité, fustigent les propos du premier ministre et l’accusent d’attiser les tensions dans une situation déjà tendue."
+        "Dans un télégramme adressé aux recteurs et aux préfets, vendredi, le gouvernement a détaillé le dispositif pour sanctionner les élèves et les membres du personnel de l’éducation nationale qui participeraient à des blocages, à des dégradations et « à la déstabilisation de [leur] établissement »."
       ],
-      "publishedAt": "2026-11-13T14:27:12+00:00",
-      "updatedAt": "2026-11-13T14:27:12+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-13T17:25:50+00:00",
+      "updatedAt": "2026-11-13T17:25:50+00:00",
+      "importance": 99,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html",
+          "url": "https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "fc0fb13cf6e44eddadac50ec7588803d35ad957b03b9e69fe3a5521df3c367fc",
+      "summaryInput": "8573f7fcf310f813f394544130b72162d1047eedb5c057f3186ac552705da71f",
       "detailLevel": "preview"
     },
     {
@@ -1009,6 +954,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-8f855e2b707262b1f3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
+      "bullets": [
+        "Les syndicats, en rappelant leur devoir de neutralité, fustigent les propos du premier ministre et l’accusent d’attiser les tensions dans une situation déjà tendue."
+      ],
+      "publishedAt": "2026-11-13T14:27:12+00:00",
+      "updatedAt": "2026-11-13T14:27:12+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fc0fb13cf6e44eddadac50ec7588803d35ad957b03b9e69fe3a5521df3c367fc",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b6824a2e0b504760a5",
       "revision": 2,
       "category": "france",
@@ -1086,41 +1055,17 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dc3f0517ca75502fa2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
-      "bullets": [
-        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
-      ],
-      "publishedAt": "2026-11-12T10:53:16+00:00",
-      "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-7d02dc7f50d472a28e",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Les effets de la hausse du smic sur le marché du travail suscitent des interrogations",
       "bullets": [
         "La hausse du salaire minimum mensuel net à temps plein à 1 502 euros détruira mécaniquement des emplois.",
         "Mais l’impact est jugé limité par le gouvernement et par plusieurs économistes."
       ],
-      "publishedAt": "2026-11-13T17:04:32+00:00",
-      "updatedAt": "2026-11-13T17:04:32+00:00",
+      "publishedAt": "2026-11-13T17:04:31+00:00",
+      "updatedAt": "2026-11-13T17:04:31+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1132,6 +1077,30 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "a924490981cfef8e906c3600936fd8d7786cbd74db32746e9eb70749d69b7bd3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-344eaabb87de7806bf",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
+      "bullets": [
+        "Dans ce deuxième épisode du vodcast « L’Heure de la présidentielle », les journalistes Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à la gauche sont issus les candidats à l’Elysée."
+      ],
+      "publishedAt": "2026-11-13T17:00:08+00:00",
+      "updatedAt": "2026-11-13T17:00:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1e736ddbadd21ff2101153575e9a8992eecface58f1e035b4ac533c9ebc124ff",
       "detailLevel": "preview"
     },
     {
@@ -1210,31 +1179,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8892672c0338ccab42",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« Vivre le handicap » : un hors-série du « Monde » fait le point sur les obstacles à l’inclusion mais aussi sur les avancées et les innovations",
-      "bullets": [
-        "Plus de vingt ans après l’instauration de la loi pour l’égalité des droits et des chances des personnes handicapées, le handicap demeure un facteur d’inégalités.",
-        "Pour mieux comprendre, une sélection d’articles de la rédaction du « Monde » et un guide pratique."
-      ],
-      "publishedAt": "2026-11-12T17:00:07+00:00",
-      "updatedAt": "2026-11-12T17:00:07+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/vivre-le-handicap-un-hors-serie-du-monde-fait-le-point-sur-les-obstacles-a-l-inclusion-mais-aussi-sur-les-avancees-et-les-innovations_6809134_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1296,7 +1240,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
@@ -1314,13 +1258,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1350,7 +1294,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
