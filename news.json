@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T10:12:48.406960+00:00",
+  "preparedAt": "2026-11-13T11:14:48.807285+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -59,56 +59,31 @@
       "context": null
     },
     {
-      "id": "rss-8632273c2eedaa69b1",
+      "id": "rss-261856e577e28e9fed",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+      "title": "Pétrole : pour la première fois depuis le début de la guerre en Iran, l’offre mondiale va dépasser la demande",
       "bullets": [
-        "L’inflation a atteint 3,4 % sur un an en octobre en France, selon les résultats définitifs publiés vendredi par l’Insee, un chiffre conforme à l’estimation provisoire publiée fin octobre et au plus haut depuis janvier 2024, en raison d’une accélération des prix de l’énergie.",
-        "Les prix de l’énergie ont augmenté de 24,1 % en octobre sur un an, après 21,3 % en septembre, portés par une poussée des prix du gaz et des produits pétroliers.",
-        "L’inflation augmente aussi dans les services (+2,6 % en octobre après +2,4 %)."
+        "«Nos bilans de l'offre et de la demande pour le mois de novembre indiquent que le marché pétrolier mondial reviendra à un surplus au quatrième trimestre 2026, avec un accroissement plus important en 2027», écrit l'AIE dans son rapport mensuel.",
+        "L'offre mondiale de pétrole a encore progressé de 2,3 millions de barils par jour pour atteindre 105,4 mb/j en octobre, «portée par le niveau élevé des exportations du Golfe malgré la poursuite des attaques contre les infrastructures énergétiques et les pétroliers», explique l'agence."
       ],
-      "publishedAt": "2026-11-13T09:21:24+00:00",
-      "updatedAt": "2026-11-13T09:21:24+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-13T11:13:44+00:00",
+      "updatedAt": "2026-11-13T11:13:44+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-20261113",
+          "url": "https://www.lefigaro.fr/conjoncture/petrole-pour-la-premiere-fois-depuis-le-debut-de-la-guerre-en-iran-l-offre-mondiale-va-depasser-la-demande-20261113",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
-      "summaryInput": "88931072eeae66d537642877d42bbe453b33a3fe9aa2a44511934a8f9a672afa",
+      "summaryInput": "dc36741152617fafd666c71a3ebba2120cffb131554920f7da51007c02974976",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
+      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
       "context": null
-    },
-    {
-      "id": "rss-985e2ce3ddacde3918",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Visualisez l’évolution de l’inflation en France sur un an",
-      "bullets": [
-        "INFOGRAPHIE – La hausse des prix à la consommation atteint 3,4% sur un an en octobre, au plus haut depuis janvier 2024."
-      ],
-      "publishedAt": "2026-11-13T09:04:55+00:00",
-      "updatedAt": "2026-11-13T09:04:55+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/visualisez-l-inflation-en-france-sur-les-douze-derniers-mois-20261030",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "667a938d8b4465d48d7f8820f6ad383d526f2221ff607902d4579e24985d3e48",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-942de581d68c5b0be0",
@@ -163,17 +138,17 @@
     },
     {
       "id": "rss-505c0b651e2f7e5492",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Agriculture : un plan de relance de 725 millions d'euros",
+      "title": "Agriculture : le gouvernement dévoile un plan de relance de 725 millions d'euros",
       "bullets": [
         "Nicolas Armand a perdu 172 bovins pour un préjudice financier de 500 000 euros : \"Il y avait plein de vaches de coincées, des bêtes par terre.",
         "À Brunémont dans le Nord, Michel Delille, un agriculteur, doit jeter 60 tonnes de blé noirci par la chaleur : \"On traverse une crise économique, une crise agricole.",
         "Plus de 30 000 exploitations sont aujourd'hui en grande difficulté."
       ],
-      "publishedAt": "2026-11-13T09:52:38+00:00",
-      "updatedAt": "2026-11-13T09:52:38+00:00",
+      "publishedAt": "2026-11-13T10:28:31+00:00",
+      "updatedAt": "2026-11-13T10:28:31+00:00",
       "importance": 65,
       "sources": [
         {
@@ -184,9 +159,9 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "article-extract",
-      "summaryInput": "aecff3aa78b3cc195e8e26187ea22c3a53484113cc3cf83e45420f4c550dcb0d",
+      "summaryInput": "819a20a8c3d7607ecbd3a64a63e785176672f3d65b99ddc1605e723d3d2e2794",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T10:12:48.406960+00:00",
+      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
       "context": null
     },
     {
@@ -314,32 +289,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d0ddb76a76e8005947",
+      "id": "rss-cb5e4cf70f291b4014",
       "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Bruno Théret, économiste : « Ce n’est pas le système de protection sociale qu’il faut réformer, mais notre régime fiscal »",
       "bullets": [
-        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
-        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
-        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
+        "Si les Français sont largement favorables à la préservation de notre système de protection sociale, rappelle Bruno Théret dans un entretien au « Monde », il est important d’en adapter les formes.",
+        "Notamment en révisant le système monétaire libéral qui soumet l’Etat à une spirale d’endettement sans fin."
       ],
-      "publishedAt": "2026-11-13T10:12:49+00:00",
-      "updatedAt": "2026-11-13T10:12:49+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-12T17:00:12+00:00",
+      "updatedAt": "2026-11-12T17:00:12+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/12/bruno-theret-economiste-ce-n-est-pas-le-systeme-de-protection-sociale-qu-il-faut-reformer-mais-notre-regime-fiscal_6809133_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T01:23:53.178269+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4972a750faacc51778d0c5b1ce6e2c87367ba199e1ee229ecdf54ae6c6f61ef1",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4021f0b9b8e532a5fd",
@@ -367,6 +339,34 @@
       "summaryInput": "b609532389dd8dc58d990ddc61c3515794856668b5e2a4e953942a291a2f2070",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T06:12:53.787546+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d0ddb76a76e8005947",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
+      "bullets": [
+        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
+        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
+        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
+      ],
+      "publishedAt": "2026-11-13T11:10:44+00:00",
+      "updatedAt": "2026-11-13T11:10:44+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T01:23:53.178269+00:00",
       "context": null
     },
     {
@@ -422,34 +422,6 @@
       "context": null
     },
     {
-      "id": "rss-9166d8a99b9dc639bf",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "La bourde embarrassante qui tombe mal... Anthropic envoie par erreur un mail dévoilant les détails de son introduction en Bourse à 69 milliards de dollars",
-      "bullets": [
-        "La semaine dernière, près de 3 200 milliards de dollars de capitalisation boursière se sont évaporés sur les marchés américains, sur fond de doutes croissants concernant les investissements dans l’intelligence artificielle.",
-        "Pour l’instant, l’introduction en Bourse reste sur les rails, même si certains investisseurs feraient pression pour une valorisation proche de 1 200 milliards de dollars, contre les 2 000 milliards encore évoqués en septembre.",
-        "Sur les neuf premiers mois de 2026, Anthropic a généré plus de 33 milliards de dollars de revenus, en hausse de 1.200% sur un an."
-      ],
-      "publishedAt": "2026-11-10T10:26:14+00:00",
-      "updatedAt": "2026-11-10T10:26:14+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/la-bourde-embarrassante-qui-tombe-mal-anthropic-envoie-par-erreur-un-mail-devoilant-les-details-de-son-introduction-en-bourse-a-69-milliards-de-dollars-1173490.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "e91d0d1a5f9f371636e13337379710ad7f058de015572e0ef71a90ee80fcf436",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T02:58:40.934913+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a9f637675acacb69dd",
       "revision": 1,
       "category": "markets",
@@ -462,7 +434,7 @@
       ],
       "publishedAt": "2026-11-11T11:13:18+00:00",
       "updatedAt": "2026-11-11T11:13:18+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -502,7 +474,7 @@
       "provenance": "article-extract",
       "summaryInput": "1d0f4680fef542e7f0624b2b9a0099a1bf24488909f9868ce1ebc74fa5da05e7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
+      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
       "context": null
     },
     {
@@ -585,6 +557,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2d7d17678ecc3871ce49cf5d8f051b13c388978ebcdcd6561c68e0cefa5763fd",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3eb465a6092ebe6e9d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Crise bancaire au Paraguay : les épargnants partiellement remboursés",
+      "bullets": [
+        "Dans les rues d'Asunción, la capitale du Paraguay, pas un jour sans manifestation depuis une semaine.",
+        "Nous avons versé des paiements à un total de 1 620 000 personnes.",
+        "Le président a démissionnéA l'origine de ce scandale, la Banque Ueno, la plus grande du Paraguay."
+      ],
+      "publishedAt": "2026-11-13T10:22:45+00:00",
+      "updatedAt": "2026-11-13T10:22:45+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/paraguay-les-epargnants-partiellement-rembourses_8280779.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "6cd254e59d33f34efcb49906e62412713527ed1cf0ddd398f1bd320152a2bbc1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
+      "context": null
     },
     {
       "id": "rss-e867b9f0388e48fc4d",
@@ -850,30 +850,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a8ba9bd657fb7d119c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’interminable combat pour obtenir justice des trois fils de Daphne Caruana Galizia, la journaliste maltaise assassinée en 2017",
-      "bullets": [
-        "Il y a neuf ans, Daphne Caruana Galizia, connue pour ses enquêtes sur la corruption à Malte, mourait dans l’explosion de sa voiture. Depuis, ses trois fils bataillent sans relâche pour que toute la vérité soit faite. Une lutte de longue haleine, dans laquelle ils ont mobilisé les médias internationaux…"
-      ],
-      "publishedAt": "2026-11-13T04:00:43+00:00",
-      "updatedAt": "2026-11-13T04:00:43+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/l-interminable-combat-pour-obtenir-justice-des-trois-fils-de-daphne-caruana-galizia-la-journaliste-maltaise-assassinee-en-2017_6809271_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "056261c7d46961850bfa67fb38047c8a3ee51645a5a336afd5c5b66032359bf7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-10de24a582862b5c40",
       "revision": 1,
       "category": "france",
@@ -923,27 +899,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1018fa030de9934abb",
-      "revision": 2,
+      "id": "rss-d4055351478264ba4e",
+      "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : Carole Delga, la présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
+      "title": "Mouvement des lycées : le gouvernement abandonne les éducateurs",
       "bullets": [
-        "La présidente socialiste de l’association Régions de France défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une enquête fondée sur les seules remontées des lycéens."
+        "Sur la forme comme sur le fond, le gouvernement de Sébastien Lecornu porte une lourde responsabilité dans l’épuisement général des responsables éducatifs en n’avançant aucune solution politique crédible et en n’associant pas, comme il aurait fallu, syndicats ou exécutifs régionaux."
       ],
-      "publishedAt": "2026-11-12T14:00:04+00:00",
-      "updatedAt": "2026-11-12T14:00:04+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-13T11:00:14+00:00",
+      "updatedAt": "2026-11-13T11:00:14+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/13/mouvement-des-lycees-le-gouvernement-abandonne-les-educateurs_6809316_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "5a6cca776990ec87b19805f7e21141e2b675610e698318a79aa9ea911480b78a",
+      "summaryInput": "852852f74a448d583dc8f514bc622293c73fbd71d0392b6aa491d15259887088",
       "detailLevel": "preview"
     },
     {
@@ -959,7 +935,7 @@
       ],
       "publishedAt": "2026-11-12T10:27:30+00:00",
       "updatedAt": "2026-11-12T10:27:30+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -975,32 +951,28 @@
       "context": null
     },
     {
-      "id": "rss-aff66d35fa5f47c32b",
+      "id": "rss-89f6e5d2f7423832e3",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Attentat raciste de Trappes : \"C’est au Rassemblement national de s’expliquer plutôt que de m’attaquer en justice\", estime Marine Tondelier",
+      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
       "bullets": [
-        "\"Il faut qu'ils en tirent les conséquences\", dit-elle.",
-        "Des mots comme des \"munitions\"Marine Tondelier réagit également aux noms de personnalités de gauche retrouvés sur un post-it au domicile du principal suspect, Kévin Tessier, mis en cause dans l'attentat terroriste raciste perpétré dans les Yvelines le 23 octobre dernier.",
-        "Le 23 octobre, à bord de son véhicule, Kévin Tessier, âgé de 39 ans, a tué avec un pistolet-mitrailleur le jeune espoir français des arts martiaux mixtes Pengo Bossio Wangi et fait sept blessés, dont quatre graves, à Trappes et La Verrière."
+        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
       ],
-      "publishedAt": "2026-11-12T15:20:46+00:00",
-      "updatedAt": "2026-11-12T15:20:46+00:00",
-      "importance": 86,
+      "publishedAt": "2026-11-12T04:00:06+00:00",
+      "updatedAt": "2026-11-12T04:00:06+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-c-est-au-rassemblement-national-de-s-expliquer-plutot-que-de-m-attaquer-en-justice-estime-marine-tondelier_8279558.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "94a3768e0fda76141a2520f4c9fddda9b8a5eb05274c9fd17b3103917922d728",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T05:12:13.308195+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-9f8a28abf7fbef37fa",
@@ -1055,16 +1027,16 @@
     },
     {
       "id": "rss-b6824a2e0b504760a5",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Julien Jeanneney, constitutionnaliste : « là où juges, presse et opposition tiennent bon, l’érosion démocratique peut être freinée »",
+      "title": "Julien Jeanneney, constitutionnaliste : « Là où juges, presse et opposition tiennent bon, l’érosion démocratique peut être freinée »",
       "bullets": [
         "Partout depuis une quinzaine d’années, des démocraties libérales se vident de leur substance.",
         "Contre ce phénomène qui s’étend, comme en témoigne la vigueur des attaques contre l’Etat de droit dans la campagne présidentielle française, les juges constitutionnels sont appelés à être en première ligne, explique le constitutionnaliste Julien Jeanneney."
       ],
-      "publishedAt": "2026-11-13T09:30:02+00:00",
-      "updatedAt": "2026-11-13T09:30:02+00:00",
+      "publishedAt": "2026-11-13T09:30:00+00:00",
+      "updatedAt": "2026-11-13T09:30:00+00:00",
       "importance": 85,
       "sources": [
         {
@@ -1075,7 +1047,31 @@
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "ef2d0d0cfb4bc45656407e5a51b200ca719b80c76416f7be71a267f4008ebef3",
+      "summaryInput": "2bcc4a99e6d84a5a141356f58ca5d7f08220c08ed77207557663125aea61afe9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1018fa030de9934abb",
+      "revision": 2,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : Carole Delga, la présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
+      "bullets": [
+        "La présidente socialiste de l’association Régions de France défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une enquête fondée sur les seules remontées des lycéens."
+      ],
+      "publishedAt": "2026-11-12T14:00:04+00:00",
+      "updatedAt": "2026-11-12T14:00:04+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5a6cca776990ec87b19805f7e21141e2b675610e698318a79aa9ea911480b78a",
       "detailLevel": "preview"
     },
     {
@@ -1089,7 +1085,7 @@
       ],
       "publishedAt": "2026-11-12T10:53:16+00:00",
       "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1154,31 +1150,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T09:13:30.151241+00:00",
       "context": null
-    },
-    {
-      "id": "rss-90df1864a41fc17ef6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
-      "bullets": [
-        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
-        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
-      ],
-      "publishedAt": "2026-11-10T04:00:14+00:00",
-      "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-6cee96959ee935f76d",
@@ -1276,7 +1247,7 @@
       ],
       "publishedAt": "2026-11-12T22:15:07+00:00",
       "updatedAt": "2026-11-12T22:15:07+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1288,7 +1259,7 @@
       "provenance": "article-extract",
       "summaryInput": "fc4fc0325b7e169fa6b53ca83eb250394decafded63a531d9e5298838845b853",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T22:57:46.834048+00:00",
+      "enrichedAt": "2026-11-13T11:14:48.807285+00:00",
       "context": null
     }
   ],
@@ -1315,7 +1286,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1327,7 +1298,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1351,7 +1322,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
