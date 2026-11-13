@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T01:23:53.178269+00:00",
+  "preparedAt": "2026-11-13T02:58:40.934913+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -317,7 +317,7 @@
       ],
       "publishedAt": "2026-11-10T13:28:43+00:00",
       "updatedAt": "2026-11-10T13:28:43+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -343,8 +343,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T01:20:23+00:00",
-      "updatedAt": "2026-11-13T01:20:23+00:00",
+      "publishedAt": "2026-11-13T02:53:08+00:00",
+      "updatedAt": "2026-11-13T02:53:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -401,7 +401,7 @@
       ],
       "publishedAt": "2026-11-12T14:32:29+00:00",
       "updatedAt": "2026-11-12T14:32:29+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -441,7 +441,7 @@
       "provenance": "article-extract",
       "summaryInput": "e91d0d1a5f9f371636e13337379710ad7f058de015572e0ef71a90ee80fcf436",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
+      "enrichedAt": "2026-11-13T02:58:40.934913+00:00",
       "context": null
     },
     {
@@ -469,7 +469,7 @@
       "provenance": "article-extract",
       "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-12T13:27:19.320859+00:00",
+      "enrichedAt": "2026-11-13T02:58:40.934913+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -934,7 +934,7 @@
       ],
       "publishedAt": "2026-11-12T14:00:04+00:00",
       "updatedAt": "2026-11-12T14:00:04+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1031,32 +1031,28 @@
       "context": null
     },
     {
-      "id": "rss-72ea7449be02be4caf",
+      "id": "rss-277c6c5671508973d6",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Votre employeur peut-il vous accorder des jours de congés pour la sortie de \"GTA VI\" ?",
+      "title": "Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu près de 5 millions de dollars",
       "bullets": [
-        "L'épisode précédent, sorti en 2013, avait généré en l'espace de trois jours plus d'un milliard de dollars, soit davantage que \"n'importe quel produit dédié au divertissement dans l'histoire\", affirme Take Two Interactive, maison mère du studio.",
-        "L'entreprise californienne BurgerMotorsports, elle, ferme exceptionnellement ses portes ce jour-là, pour éviter que des milliers d'employés se faire passer pour malade au moment de la sortie du jeu, comme cela s'était déroulé pour GTA V en 2013, comme l'a raconté The Telegraph quelques années plus tôt.",
-        "Ça leur appartient, et ça dépend des négociations propres à chaque entreprise\"."
+        "L’accessoire, apparu notamment dans la fameuse scène de « L’Empire contre-attaque » durant laquelle Dark Vador déclare « Je suis ton père » à Luke Skywalker, établit un nouveau record aux enchères pour un objet de collection de la saga cinématographique."
       ],
-      "publishedAt": "2026-11-12T18:50:22+00:00",
-      "updatedAt": "2026-11-12T18:50:22+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-13T01:42:24+00:00",
+      "updatedAt": "2026-11-13T01:42:24+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/votre-employeur-peut-il-vous-accorder-des-jours-de-conges-pour-la-sortie-de-gta-vi_8278919.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/13/un-sabre-laser-utilise-par-dark-vador-dans-la-premiere-trilogie-de-star-wars-vendu-pres-de-5-millions-de-dollars_6809258_3246.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "2d673b1c60a84c0a89481bae0e575d348f0906bb54eb019bed52176d43270bee",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-12T17:18:16.139403+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4ee9fc28407fd824b3a0e29cf2decf03d168acda356a6cdffdb130a4e8c3eb70",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ae745e831dbacd0e6f",
@@ -1163,7 +1159,7 @@
       "id": "rss-89f6e5d2f7423832e3",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Justice",
       "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
       "bullets": [
         "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
@@ -1215,7 +1211,7 @@
       "id": "rss-573eaffa279c0f6ddf",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
       "bullets": [
         "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
@@ -1265,27 +1261,28 @@
       "context": null
     },
     {
-      "id": "rss-da20adb4a0d4d5edbd",
+      "id": "rss-8892672c0338ccab42",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : les territoires d’outre-mer, pièces maîtresses de la stratégie de Jean-Luc Mélenchon",
+      "topic": "Société",
+      "title": "« Vivre le handicap » : un hors-série du « Monde » fait le point sur les obstacles à l’inclusion mais aussi sur les avancées et les innovations",
       "bullets": [
-        "Labourant depuis longtemps des circonscriptions qui lui ont été particulièrement favorables en 2022, le candidat de La France insoumise espère encore gagner du terrain, surtout dans les Antilles et en Nouvelle-Calédonie."
+        "Plus de vingt ans après l’instauration de la loi pour l’égalité des droits et des chances des personnes handicapées, le handicap demeure un facteur d’inégalités.",
+        "Pour mieux comprendre, une sélection d’articles de la rédaction du « Monde » et un guide pratique."
       ],
-      "publishedAt": "2026-11-12T17:00:18+00:00",
-      "updatedAt": "2026-11-12T17:00:18+00:00",
+      "publishedAt": "2026-11-12T17:00:07+00:00",
+      "updatedAt": "2026-11-12T17:00:07+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/vivre-le-handicap-un-hors-serie-du-monde-fait-le-point-sur-les-obstacles-a-l-inclusion-mais-aussi-sur-les-avancees-et-les-innovations_6809134_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
-      "summaryInput": "331718d4636c41d4cb6b8b4a162a31c84b8198149a093316e508672f9019c19c",
+      "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
       "detailLevel": "preview"
     }
   ],
