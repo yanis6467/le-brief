@@ -1,67 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-13",
-  "preparedAt": "2026-11-13T19:08:20.413279+00:00",
+  "preparedAt": "2026-11-13T20:04:13.173535+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-f6267f53e94010ba03",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
-      "bullets": [
-        "🇪🇺Encadrement des influenceurs, interdiction des \"interfaces trompeuses\", création d'un droit à désactiver les fonctionnalités \"addictives\" : l'Union européenne a proposé mercredi de nouvelles règles pour mieux protéger les consommateurs contre les pièges du numérique.",
-        "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
-        "Haïti : la “méthode salvadorienne” pour lutter contre les gangs"
-      ],
-      "publishedAt": "2026-11-13T19:00:01+00:00",
-      "updatedAt": "2026-11-13T19:00:01+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "3a784ad250312148679a8d43da16295a61ad5817cfaa9148ebbb2510b12def91",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-377ded6554da2bc11d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
-      "bullets": [
-        "Le marché du pétrole se détend enfin depuis le début de la guerre en Iran, avec des signes de rééquilibrage entre l'offre et la demande en pétrole.",
-        "L'offre devrait ainsi dépasser la demande, au dernier trimestre, et se consolider début 2027.",
-        "En France, le prix moyen du gazole atteint ainsi, vendredi 17 novembre, 2,17 euros."
-      ],
-      "publishedAt": "2026-11-13T18:27:01+00:00",
-      "updatedAt": "2026-11-13T18:27:01+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "fd05575dde046225cc707e1b6b71a949cbe7d238d691c557f767acd2749bc402",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
-    },
     {
       "id": "rss-cc9e0b1cbc3b692630",
       "revision": 1,
@@ -110,34 +54,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "f5cb934496413872012c174791fd27d9a36e4cca319e83beb4d75587e06ce868",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cbdafb3dad26c9fa99",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La chroniqueuse pro-Kremlin Xenia Fedorova juge l'interdiction de territoire infligée par la Russie à deux députés et deux journalistes français \"plus mesurée\" que son expulsion par la France",
-      "bullets": [
-        "La Russie assure avoir répondu à son expulsion en interdisant de territoire deux députés et deux journalistes français.",
-        "La chroniqueuse pro-Kremlin Xenia Fedorova, sanctionnée par la France en juillet, a réagi à la décision annoncée par Moscou et à sa condamnation par le ministre des Affaires étrangères Jean-Noël Barrot.",
-        "Depuis l'offensive à grande échelle en Ukraine en février 2022 et l'adoption successive des paquets de sanctions de l'UE, la diplomatie russe a élargi à de multiples reprises sa liste noire à l'encontre de ressortissants européens, incluant des Français."
-      ],
-      "publishedAt": "2026-11-13T18:59:12+00:00",
-      "updatedAt": "2026-11-13T18:59:12+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "a687d88496099a4c615d42fc4f83c58833260f639951aa1e5342e5dec02910ea",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
     },
     {
       "id": "rss-942de581d68c5b0be0",
@@ -329,6 +245,86 @@
       "context": null
     },
     {
+      "id": "rss-df78dbf9c3462d20db",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+      "bullets": [
+        "Sébastien Lecornu recevra à nouveau les syndicats le 11 décembre, après les élections professionnelles dans la fonction publique, pour \"sceller des avancées dès la mi-décembre\".",
+        "Sophie Binet a, elle, estimé à la sortie de la rencontre à Matignon qu'il s'agissait d'\"une réunion pour rien\".",
+        "A ses yeux, les cinq chantiers listés par Sébastien Lecornu \"ne répondent pas à l'urgence salariale pour les agents de la fonction publique\"."
+      ],
+      "publishedAt": "2026-11-13T13:31:37+00:00",
+      "updatedAt": "2026-11-13T13:31:37+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "1f7b8f4b5e8fab96f5ea291ce531ebe785c099ebf6bcc7ed67e8478b71b44cc1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T20:04:13.173535+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-e01b3e4b4ca519a744",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
+      "bullets": [
+        "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transition écologique."
+      ],
+      "publishedAt": "2026-11-12T21:10:52+00:00",
+      "updatedAt": "2026-11-12T21:10:52+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1922076a845689c2cd7573f013f1b05e189a8847d057f488e95af5b5114237a3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9416f5f7b61dfaee4e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On préfère le français, le propre, et l'abordable\" : au salon du \"Made in France\", les commerçants prouvent que l'on peut encore vendre des produits nationaux en restant abordables",
+      "bullets": [
+        "Une petite entreprise a fait un pari : ressusciter les couches pour bébés 100 % françaises.",
+        "Ça permet d'être 15 % moins cher qu'en magasin, avec une meilleure composition\", précise Johan Bonnet.",
+        "Là, c'est une boîte de 10 madeleines dans laquelle une madeleine contient une fève artisanale française."
+      ],
+      "publishedAt": "2026-11-13T16:02:41+00:00",
+      "updatedAt": "2026-11-13T16:02:41+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/on-prefere-le-francais-le-propre-et-l-abordable-au-salon-du-made-in-france-les-commercants-prouvent-que-l-on-peut-encore-vendre-des-produits-nationaux-en-restant-abordables_8281241.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "011a0976d8c3def8bcd19c9a76a14589c10011887fd579595db8f9b5edc711a4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T20:04:13.173535+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -339,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T19:05:08+00:00",
-      "updatedAt": "2026-11-13T19:05:08+00:00",
+      "publishedAt": "2026-11-13T20:00:40+00:00",
+      "updatedAt": "2026-11-13T20:00:40+00:00",
       "importance": 69,
       "sources": [
         {
@@ -521,6 +517,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f6267f53e94010ba03",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
+      "bullets": [
+        "🇪🇺Encadrement des influenceurs, interdiction des \"interfaces trompeuses\", création d'un droit à désactiver les fonctionnalités \"addictives\" : l'Union européenne a proposé mercredi de nouvelles règles pour mieux protéger les consommateurs contre les pièges du numérique.",
+        "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
+        "Haïti : la “méthode salvadorienne” pour lutter contre les gangs"
+      ],
+      "publishedAt": "2026-11-13T19:00:01+00:00",
+      "updatedAt": "2026-11-13T19:00:01+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "3a784ad250312148679a8d43da16295a61ad5817cfaa9148ebbb2510b12def91",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-377ded6554da2bc11d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
+      "bullets": [
+        "Le marché du pétrole se détend enfin depuis le début de la guerre en Iran, avec des signes de rééquilibrage entre l'offre et la demande en pétrole.",
+        "L'offre devrait ainsi dépasser la demande, au dernier trimestre, et se consolider début 2027.",
+        "En France, le prix moyen du gazole atteint ainsi, vendredi 17 novembre, 2,17 euros."
+      ],
+      "publishedAt": "2026-11-13T18:27:01+00:00",
+      "updatedAt": "2026-11-13T18:27:01+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "article-extract",
+      "summaryInput": "fd05575dde046225cc707e1b6b71a949cbe7d238d691c557f767acd2749bc402",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d06cdc1afbc789a03b",
       "revision": 1,
       "category": "world",
@@ -542,31 +594,6 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-559e046c1cdb1e0155",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Ilya Iachine : « Nous vivons la dislocation différée de l’Union soviétique »",
-      "bullets": [
-        "ENTRETIEN - L’ancien prisonnier politique a passé deux ans en détention pour avoir dénoncé l’invasion de l’Ukraine et les massacres de Boutcha.",
-        "En exil à Berlin, il vient de créer le parti Russie pacifique et compte tout faire « pour proposer une alternative politique démocratique et pacifique » à son…"
-      ],
-      "publishedAt": "2026-11-12T19:15:00+00:00",
-      "updatedAt": "2026-11-12T19:15:00+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/ilya-iachine-nous-vivons-la-dislocation-differee-de-l-union-sovietique-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "19a8f9faefea036c7330d4eb322b427cefa147130212feef10ca6949cd8d9dc7",
       "detailLevel": "preview"
     },
     {
@@ -644,6 +671,31 @@
       "verifiedAt": "2026-11-13",
       "provenance": "rss-excerpt",
       "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-559e046c1cdb1e0155",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Ilya Iachine : « Nous vivons la dislocation différée de l’Union soviétique »",
+      "bullets": [
+        "ENTRETIEN - L’ancien prisonnier politique a passé deux ans en détention pour avoir dénoncé l’invasion de l’Ukraine et les massacres de Boutcha.",
+        "En exil à Berlin, il vient de créer le parti Russie pacifique et compte tout faire « pour proposer une alternative politique démocratique et pacifique » à son…"
+      ],
+      "publishedAt": "2026-11-12T19:15:00+00:00",
+      "updatedAt": "2026-11-12T19:15:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/ilya-iachine-nous-vivons-la-dislocation-differee-de-l-union-sovietique-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-13",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19a8f9faefea036c7330d4eb322b427cefa147130212feef10ca6949cd8d9dc7",
       "detailLevel": "preview"
     },
     {
@@ -725,58 +777,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d8f5569b01b5d4c723867bf9c878eab30177f830d3526989ee08ec03eaae6227",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9150682742d83c0008",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« C’est moi la cible, mon frère n’est qu’un instrument » : en Hongrie, la justice durcit le ton avec le clan de Viktor Orbán",
-      "bullets": [
-        "DÉCRYPTAGE - Le frère cadet de l’ancien premier ministre, Aron Orbán, ainsi que plusieurs ex-ministres ont été placés en détention provisoire dans différentes affaires."
-      ],
-      "publishedAt": "2026-11-12T18:40:00+00:00",
-      "updatedAt": "2026-11-12T18:40:00+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/c-est-moi-la-cible-mon-frere-n-est-qu-un-instrument-en-hongrie-la-justice-durcit-le-ton-avec-le-clan-de-viktor-orban-20261112",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-82e8039d083a595943",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des éléphants sèment la terreur en Inde",
-      "bullets": [
-        "En Inde, des attaques d'éléphants sauvages font des centaines de morts chaque année.",
-        "En raison de la destruction des forêts, les éléphants du pays ont perdu plus de 96 % des territoires qu'ils occupaient autrefois.",
-        "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année"
-      ],
-      "publishedAt": "2026-11-13T19:00:02+00:00",
-      "updatedAt": "2026-11-13T19:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "7d00088d8f4644ad2ff43f0c23abbb4df087b88f572145df04a544a83a27ec98",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
     },
     {
       "id": "rss-10de24a582862b5c40",
@@ -915,7 +915,7 @@
       ],
       "publishedAt": "2026-11-13T08:02:53+00:00",
       "updatedAt": "2026-11-13T08:02:53+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1117,7 +1117,7 @@
       ],
       "publishedAt": "2026-11-13T07:18:52+00:00",
       "updatedAt": "2026-11-13T07:18:52+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1129,7 +1129,7 @@
       "provenance": "article-extract",
       "summaryInput": "983e11d291110167105bd133c889ead6585bb709341f9df2acd11d7fcf2e1af5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T07:32:23.540040+00:00",
+      "enrichedAt": "2026-11-13T20:04:13.173535+00:00",
       "context": null
     },
     {
@@ -1217,7 +1217,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
