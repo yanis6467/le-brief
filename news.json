@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-13T23:50:33.314573+00:00",
+  "preparedAt": "2026-11-14T01:16:27.809345+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -27,7 +27,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "3a784ad250312148679a8d43da16295a61ad5817cfaa9148ebbb2510b12def91",
       "detailLevel": "article",
@@ -55,7 +55,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "fd05575dde046225cc707e1b6b71a949cbe7d238d691c557f767acd2749bc402",
       "detailLevel": "article",
@@ -82,7 +82,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "01f5a4de4b80bff9f2bc2e7f5b6438b98a3ddc50694db71aef973835eae29480",
       "detailLevel": "preview"
@@ -98,7 +98,7 @@
       ],
       "publishedAt": "2026-11-13T13:12:17+00:00",
       "updatedAt": "2026-11-13T13:12:17+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -106,7 +106,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "f5cb934496413872012c174791fd27d9a36e4cca319e83beb4d75587e06ce868",
       "detailLevel": "preview"
@@ -132,36 +132,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "8d93a2feb6e9cb5f240b50d3bdee0da7f7f523bb245f435dd5759d2035e9a58c",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T21:02:11.221358+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8fc9f1c3718205cafe",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-      "bullets": [
-        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
-      ],
-      "publishedAt": "2026-11-13T15:28:23+00:00",
-      "updatedAt": "2026-11-13T15:28:23+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-eb9621f00029c6a91b",
@@ -183,7 +159,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "9ae3f418456d25706117cdeb63f18a97d96cdc0e04825c7e6be0c179766ca489",
       "detailLevel": "preview"
@@ -207,7 +183,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "d404fd4538b1985fea43e33a8327dd7a13e65f71c568f4483a0e61e13490fbf3",
       "detailLevel": "preview"
@@ -233,7 +209,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "a687d88496099a4c615d42fc4f83c58833260f639951aa1e5342e5dec02910ea",
       "detailLevel": "article",
@@ -260,7 +236,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "010655dcb504ae1b95f7bf1f5585df22ef48dff44365319293962eb434e6a2d6",
       "detailLevel": "article",
@@ -287,7 +263,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "27c7ebba1f8c51d65e48f568902ccbeef96f021cbbb9e0276b7d3a3f2ce52b12",
       "detailLevel": "preview"
@@ -313,11 +289,39 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "eb60a702246a14c1401084768cf85e23440535b90b2d54c30a76ad300c9b9c37",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T17:06:40.733696+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-97fcaee44c852bbd81",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+      "bullets": [
+        "La CFDT a annoncé, vendredi 13 novembre, se joindre à l'appel à la grève et à la mobilisation dans la fonction publique le 17 novembre, désormais soutenu par toute l'intersyndicale.",
+        "Sur les 1,1 million d'agents dont le salaire est rattrapé par le salaire minimum, \"seulement une moitié va être à peine portée au niveau du smic\" par les mesures proposées par Sébastien Lecornu, a dénoncé Caroline Chevé, secrétaire générale de la FSU.",
+        "Ça veut dire même pas 30 euros, avance-t-elle."
+      ],
+      "publishedAt": "2026-11-13T16:15:52+00:00",
+      "updatedAt": "2026-11-13T16:15:52+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "6501d73c2386b05f04cdc49a750c56ab677861dde69dfa28873953733b54d10b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T01:16:27.809345+00:00",
       "context": null
     },
     {
@@ -331,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-13T23:50:07+00:00",
-      "updatedAt": "2026-11-13T23:50:07+00:00",
+      "publishedAt": "2026-11-14T01:14:57+00:00",
+      "updatedAt": "2026-11-14T01:14:57+00:00",
       "importance": 69,
       "sources": [
         {
@@ -341,7 +345,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -369,7 +373,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
@@ -397,7 +401,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
       "detailLevel": "article",
@@ -425,7 +429,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
       "detailLevel": "article",
@@ -453,7 +457,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "1d0f4680fef542e7f0624b2b9a0099a1bf24488909f9868ce1ebc74fa5da05e7",
       "detailLevel": "article",
@@ -481,7 +485,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "c6cdcf228f87a41ca5387a7e952ee83bf82c08d90bcff12f1ec5257110f97668",
       "detailLevel": "article",
@@ -507,7 +511,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
       "detailLevel": "preview"
@@ -531,7 +535,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "148fc9b4994a4736af0a677a3a533eaa2d519cfae2484df5a07f9429a2916fd2",
       "detailLevel": "preview"
@@ -557,7 +561,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "b597ae50605ecee5dca6bc26f984c0fc1b41914044cfef3f46880aed7b867d11",
       "detailLevel": "article",
@@ -584,9 +588,33 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "13b5c9a4bc170855863e9411065a8deba006a687bd0eaef39bf8f683bdaf3ec9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8fc9f1c3718205cafe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "bullets": [
+        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+      ],
+      "publishedAt": "2026-11-13T15:28:23+00:00",
+      "updatedAt": "2026-11-13T15:28:23+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
     },
     {
@@ -609,7 +637,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "19a8f9faefea036c7330d4eb322b427cefa147130212feef10ca6949cd8d9dc7",
       "detailLevel": "preview"
@@ -633,7 +661,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "d8f5569b01b5d4c723867bf9c878eab30177f830d3526989ee08ec03eaae6227",
       "detailLevel": "preview"
@@ -659,7 +687,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
       "detailLevel": "article",
@@ -685,7 +713,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
       "detailLevel": "preview"
@@ -709,7 +737,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
       "detailLevel": "preview"
@@ -735,39 +763,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "b6ff089d68ebc40ea4b6b66264ef20553419cb38706b4987ab258490b20bd669",
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T22:54:49.501384+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-82e8039d083a595943",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des éléphants sèment la terreur en Inde",
-      "bullets": [
-        "En Inde, des attaques d'éléphants sauvages font des centaines de morts chaque année.",
-        "En raison de la destruction des forêts, les éléphants du pays ont perdu plus de 96 % des territoires qu'ils occupaient autrefois.",
-        "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année"
-      ],
-      "publishedAt": "2026-11-13T19:00:02+00:00",
-      "updatedAt": "2026-11-13T19:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-13",
-      "provenance": "article-extract",
-      "summaryInput": "7d00088d8f4644ad2ff43f0c23abbb4df087b88f572145df04a544a83a27ec98",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T23:50:33.314573+00:00",
       "context": null
     },
     {
@@ -790,7 +790,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "2bcc4a99e6d84a5a141356f58ca5d7f08220c08ed77207557663125aea61afe9",
       "detailLevel": "preview"
@@ -814,7 +814,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "16f1e8d62d761be0a43ad13acb251d606765b803769ad05dc05c748215d54f66",
       "detailLevel": "preview"
@@ -838,7 +838,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "8573f7fcf310f813f394544130b72162d1047eedb5c057f3186ac552705da71f",
       "detailLevel": "preview"
@@ -864,7 +864,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "7b2878bd21fad8fa37a3f5195bb29251bb819d655f518c6096d394ebbe95cc4f",
       "detailLevel": "article",
@@ -891,7 +891,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "596a9ec34a15206e531d883c9fbf3abfe089e8c3e10e5e20fafd6cb763d5f9cd",
       "detailLevel": "preview"
@@ -917,7 +917,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "ccfbbc672261b3739f38221276b6ebd830fec4576c4e8b3454afe7c8c221ed58",
       "detailLevel": "article",
@@ -943,7 +943,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "e5ac23ba501925bd4d414862057def745df44a78b134a42da7e4fff9210e0d93",
       "detailLevel": "preview"
@@ -967,7 +967,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "fc0fb13cf6e44eddadac50ec7588803d35ad957b03b9e69fe3a5521df3c367fc",
       "detailLevel": "preview"
@@ -991,25 +991,25 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "d852299d6406c37dfdba20a8e51085c896d2efbd1cb9c55a5c68b1a0e066d989",
       "detailLevel": "preview"
     },
     {
       "id": "rss-bab4d75cf1e2283785",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Santé",
       "title": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
       "bullets": [
+        "Les candidats à la présidentielle face à “Nos services publics”.",
         "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
-        "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France",
-        "\"C'est un miracle\" : un bébé de 11 mois sain et sauf après avoir été enterré vivant dans une cage pour chien"
+        "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France"
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1017,11 +1017,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T12:06:21.581786+00:00",
+      "enrichedAt": "2026-11-14T01:16:27.809345+00:00",
       "context": null
     },
     {
@@ -1043,7 +1043,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "1ae8ee24aebd50a12dde3955bce9db88b680946b275f46313d71a36c413af131",
       "detailLevel": "preview"
@@ -1068,7 +1068,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "a924490981cfef8e906c3600936fd8d7786cbd74db32746e9eb70749d69b7bd3",
       "detailLevel": "preview"
@@ -1092,7 +1092,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "1e736ddbadd21ff2101153575e9a8992eecface58f1e035b4ac533c9ebc124ff",
       "detailLevel": "preview"
@@ -1118,7 +1118,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "article-extract",
       "summaryInput": "983e11d291110167105bd133c889ead6585bb709341f9df2acd11d7fcf2e1af5",
       "detailLevel": "article",
@@ -1144,7 +1144,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
       "detailLevel": "preview"
@@ -1169,7 +1169,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
       "detailLevel": "preview"
@@ -1264,7 +1264,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
