@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T18:57:17.838949+00:00",
+  "preparedAt": "2026-11-14T19:52:41.386660+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -146,7 +146,7 @@
       ],
       "publishedAt": "2026-11-13T19:15:00+00:00",
       "updatedAt": "2026-11-13T19:15:00+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -158,62 +158,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d404fd4538b1985fea43e33a8327dd7a13e65f71c568f4483a0e61e13490fbf3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ecee759d64e21f35a1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Des milliers de Portugais manifestent contre la crise du logement",
-      "bullets": [
-        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
-        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
-        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
-      ],
-      "publishedAt": "2026-11-14T18:23:08+00:00",
-      "updatedAt": "2026-11-14T18:23:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b7f2ef76a732ff0e3b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "REPORTAGE. \"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain",
-      "bullets": [
-        "Une pagaille exceptionnelle a touché vendredi 13 novembre tous les aéroports des États-Unis.",
-        "Au moins 6 000 vols ont été annulés et des centaines de milliers de passagers affectés par la fermeture de l'espace aérien américain pendant plusieurs heures et la suspension de tous les décollages dans le pays.",
-        "Dès l'entrée du terminal de l'aéroport d'Atlanta vendredi soir, des voyageurs sont assis par terre."
-      ],
-      "publishedAt": "2026-11-14T08:05:42+00:00",
-      "updatedAt": "2026-11-14T08:05:42+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "5fd7693572f6b3496ba41edc3f691143355abd31d0ff0f7be31251ffc6361879",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T17:47:39.505205+00:00",
-      "context": null
     },
     {
       "id": "rss-ece1e2e09951cec8ef",
@@ -228,7 +172,7 @@
       ],
       "publishedAt": "2026-11-14T07:32:15+00:00",
       "updatedAt": "2026-11-14T07:32:15+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -256,7 +200,7 @@
       ],
       "publishedAt": "2026-11-14T07:08:04+00:00",
       "updatedAt": "2026-11-14T07:08:04+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -325,6 +269,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-10859f17bb48dbb764",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "États-Unis : plus de 16.000 vols annulés en deux jours après une panne géante des communications aériennes",
+      "bullets": [
+        "Plus de 16.000 vols sont annulés vendredi et samedi aux États-Unis à la suite de la rarissime suspension des décollages pendant plusieurs heures à cause d’une panne de communication, a indiqué samedi le régulateur américain de l’aviation civile, la FAA.",
+        "«Nous n’avons pas pu reprogrammer 12.000 vols» vendredi, un total comprenant quelque 9000 vols commerciaux et 3000 vols privés, a déclaré le patron de la FAA Bryan Bedford en conférence de presse.",
+        "«Et nous estimons qu’entre 4000 et 5000 des 41.000 vols prévus samedi devraient être annulés», a-t-il ajouté."
+      ],
+      "publishedAt": "2026-11-14T16:44:29+00:00",
+      "updatedAt": "2026-11-14T16:44:29+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "57f91bc1ba53757aa32e66b2c2080e87d3cd88add977d7f2bec84cafa3326d99",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T19:52:41.386660+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0d61bee06bf3e00d03",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Suspension des vols aux Etats-Unis : plus de 16 000 vols annulés vendredi et samedi alors que des perturbations persistent",
+      "bullets": [
+        "Les autorités américaines de l’aviation avaient interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent progressivement à la normale [samedi] matin » malgré quelques retards persistants, a fait savoir le ministre des transports."
+      ],
+      "publishedAt": "2026-11-14T15:31:00+00:00",
+      "updatedAt": "2026-11-14T15:31:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5ce2029adadcc0f39616b2c5e34dfb5646f596478e4a9368e929509cd83a248a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -335,9 +331,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T18:57:18+00:00",
-      "updatedAt": "2026-11-14T18:57:18+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-14T19:50:08+00:00",
+      "updatedAt": "2026-11-14T19:50:08+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -437,30 +433,6 @@
       "context": null
     },
     {
-      "id": "rss-e115c9a51ab4c31e29",
-      "revision": 3,
-      "category": "world",
-      "topic": "International",
-      "title": "Un XXᵉ Sommet de la Francophonie au Cambodge, pour « réinvestir dans la paix », a été rattrapée par la guerre dans les Grands Lacs",
-      "bullets": [
-        "Au sommet de Phnom Penh, du 14 au 16 novembre, l’élection du secrétaire général de l’Organisation internationale de la francophonie (OIF) tourne à la bataille par procuration entre le Rwanda et la RDC."
-      ],
-      "publishedAt": "2026-11-14T05:00:20+00:00",
-      "updatedAt": "2026-11-14T05:00:20+00:00",
-      "importance": 96,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7024d23c4b8f1b5ebf3f22fafbec1eacda1b6db06650684d5f905e2e052bd997",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-531c5f3dc98a536b22",
       "revision": 1,
       "category": "world",
@@ -489,6 +461,30 @@
       "context": null
     },
     {
+      "id": "rss-f07c099401acd963c7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+      "bullets": [
+        "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
+      ],
+      "publishedAt": "2026-11-14T19:33:52+00:00",
+      "updatedAt": "2026-11-14T19:33:52+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2423dc61ef00b49773f84c543d4d9ca1a86f33da8dd1394ac69b8334e76e557c",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fe20fb6636b1fb4af5",
       "revision": 1,
       "category": "world",
@@ -498,8 +494,8 @@
         "Sa rencontre, jeudi, avec Gadi Eisenkot \"n'a fait que renforcer [sa] conviction qu'il est essentiel, à l'heure actuelle, de former un gouvernement d'union nationale\", qui pourra \"garantir la sécurité d'Israël pour de nombreuses années à venir\", a affirmé Benyamin Nétanyahou dans une déclaration vidéo.",
         "Soutenu par 67 députés à l'issue des législatives du 27 octobre, Gadi Eisenkot dispose de 28 jours, éventuellement prolongés de 14 jours, pour former un gouvernement après un scrutin sans majorité claire."
       ],
-      "publishedAt": "2026-11-14T18:31:57+00:00",
-      "updatedAt": "2026-11-14T18:31:57+00:00",
+      "publishedAt": "2026-11-14T19:05:38+00:00",
+      "updatedAt": "2026-11-14T19:05:38+00:00",
       "importance": 77,
       "sources": [
         {
@@ -551,7 +547,7 @@
       ],
       "publishedAt": "2026-11-12T19:15:00+00:00",
       "updatedAt": "2026-11-12T19:15:00+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -667,6 +663,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ecee759d64e21f35a1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Des milliers de Portugais manifestent contre la crise du logement",
+      "bullets": [
+        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
+        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
+        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
+      ],
+      "publishedAt": "2026-11-14T18:23:08+00:00",
+      "updatedAt": "2026-11-14T18:23:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
+      "context": null
+    },
+    {
       "id": "rss-acdce62ed3d2863633",
       "revision": 1,
       "category": "world",
@@ -717,30 +741,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "d3bc4b0bfcdd8c535ef79a65ea6690c459f9f22b1e5d976aa813ae595ab2b30c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b7f486d67c122ac166",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : un navire de guerre russe frappé pour la première fois en mer Baltique",
-      "bullets": [
-        "La Finlande et l’Estonie confirment qu’une corvette lance-missiles a été ciblée mercredi matin, vraisemblablement par un drone ukrainien, aux abords d’une île russe située dans le Golfe de Finlande."
-      ],
-      "publishedAt": "2026-11-13T18:37:03+00:00",
-      "updatedAt": "2026-11-13T18:37:03+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-navire-de-guerre-russe-frappe-pour-la-premiere-fois-en-mer-baltique-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "716ff2c616319f812ec3e0d2b0708b03711e28dd7df7f085c3e9eb0e666639da",
       "detailLevel": "preview"
     },
     {
@@ -1047,12 +1047,12 @@
     },
     {
       "id": "rss-270196f06ad7e0212d",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
       "bullets": [
-        "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle depuis le salon du Made in France.",
+        "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle, au salon du Made in France.",
         "Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays »."
       ],
       "publishedAt": "2026-11-14T14:47:45+00:00",
@@ -1067,7 +1067,7 @@
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "0e381d763bdd3c53e24fc1b4ba7f87770de9084540f39c1c8c0b55b26f36f231",
+      "summaryInput": "a94520410483dde8a81052bf1d8caf0a1b502b5a7b97a699ec0690b2dfc9ffbe",
       "detailLevel": "preview"
     },
     {
