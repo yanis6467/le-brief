@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T03:07:57.929264+00:00",
+  "preparedAt": "2026-11-14T04:03:58.158435+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -82,30 +82,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T21:02:11.221358+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8fc9f1c3718205cafe",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-      "bullets": [
-        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
-      ],
-      "publishedAt": "2026-11-13T15:28:23+00:00",
-      "updatedAt": "2026-11-13T15:28:23+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-eb9621f00029c6a91b",
@@ -318,6 +294,34 @@
       "context": null
     },
     {
+      "id": "rss-df78dbf9c3462d20db",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+      "bullets": [
+        "Sébastien Lecornu recevra à nouveau les syndicats le 11 décembre, après les élections professionnelles dans la fonction publique, pour \"sceller des avancées dès la mi-décembre\".",
+        "Sophie Binet a, elle, estimé à la sortie de la rencontre à Matignon qu'il s'agissait d'\"une réunion pour rien\".",
+        "A ses yeux, les cinq chantiers listés par Sébastien Lecornu \"ne répondent pas à l'urgence salariale pour les agents de la fonction publique\"."
+      ],
+      "publishedAt": "2026-11-13T13:31:37+00:00",
+      "updatedAt": "2026-11-13T13:31:37+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "1f7b8f4b5e8fab96f5ea291ce531ebe785c099ebf6bcc7ed67e8478b71b44cc1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T04:03:58.158435+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -328,8 +332,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T03:05:11+00:00",
-      "updatedAt": "2026-11-14T03:05:11+00:00",
+      "publishedAt": "2026-11-14T04:00:45+00:00",
+      "updatedAt": "2026-11-14T04:00:45+00:00",
       "importance": 69,
       "sources": [
         {
@@ -577,7 +581,7 @@
       ],
       "publishedAt": "2026-11-13T15:15:00+00:00",
       "updatedAt": "2026-11-13T15:15:00+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -643,31 +647,6 @@
       "context": null
     },
     {
-      "id": "rss-6735ee744f708f02c2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Géorgie, les principaux partis d’opposition bientôt interdits avant les élections législatives de 2028",
-      "bullets": [
-        "Rêve géorgien, le parti au pouvoir proche de la Russie, continue son œuvre de musellement et de destruction de toute forme d’opposition.",
-        "L’intégration du pays à l’Union européenne, dont le processus est mis en suspens, est de plus en plus improbable."
-      ],
-      "publishedAt": "2026-11-13T16:00:19+00:00",
-      "updatedAt": "2026-11-13T16:00:19+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "13b5c9a4bc170855863e9411065a8deba006a687bd0eaef39bf8f683bdaf3ec9",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-559e046c1cdb1e0155",
       "revision": 1,
       "category": "world",
@@ -690,6 +669,55 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "19a8f9faefea036c7330d4eb322b427cefa147130212feef10ca6949cd8d9dc7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6735ee744f708f02c2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Géorgie, les principaux partis d’opposition bientôt interdits avant les élections législatives de 2028",
+      "bullets": [
+        "Rêve géorgien, le parti au pouvoir proche de la Russie, continue son œuvre de musellement et de destruction de toute forme d’opposition.",
+        "L’intégration du pays à l’Union européenne, dont le processus est mis en suspens, est de plus en plus improbable."
+      ],
+      "publishedAt": "2026-11-13T16:00:19+00:00",
+      "updatedAt": "2026-11-13T16:00:19+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "13b5c9a4bc170855863e9411065a8deba006a687bd0eaef39bf8f683bdaf3ec9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8fc9f1c3718205cafe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "bullets": [
+        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+      ],
+      "publishedAt": "2026-11-13T15:28:23+00:00",
+      "updatedAt": "2026-11-13T15:28:23+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
     },
     {
@@ -742,30 +770,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-806d5bb6d5baec8ebe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
-      "bullets": [
-        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
-      ],
-      "publishedAt": "2026-11-13T22:44:44+00:00",
-      "updatedAt": "2026-11-13T22:44:44+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
       "detailLevel": "preview"
     },
     {
@@ -947,6 +951,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-34f5f5b3a59f845579",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mouvement lycéen : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
+      "bullets": [
+        "Depuis la rentrée du 2 novembre, l’éducation nationale ne communique plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement, dont les enquêtes témoignent de perturbations bien plus nombreuses. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
+      ],
+      "publishedAt": "2026-11-14T04:00:13+00:00",
+      "updatedAt": "2026-11-14T04:00:13+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0cda3cb6ecda079c1971fb3cc51f927d254949abdaba737b13391c345d20c1a4",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8f855e2b707262b1f3",
       "revision": 1,
       "category": "france",
@@ -968,30 +996,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "fc0fb13cf6e44eddadac50ec7588803d35ad957b03b9e69fe3a5521df3c367fc",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e6b3f4292fce001eba",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "« Quand le ministère annonce 50 lycées bloqués, nous en comptons 150 à 200 qui ne fonctionnent pas normalement » : le gouvernement minimise-t-il les chiffres des blocages ?",
-      "bullets": [
-        "ENQUÊTE - Alors que l’exécutif qualifie de « résiduel » le nombre d’établissements touchés par les perturbations, les proviseurs martèlent qu’il faut « arrêter de mentir aux gens » et ne pas « minorer ce qu’ils vivent »."
-      ],
-      "publishedAt": "2026-11-13T18:25:58+00:00",
-      "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/quand-le-ministere-annonce-50-lycees-bloques-nous-en-comptons-150-a-200-qui-ne-fonctionnent-pas-normalement-le-gouvernement-minimise-t-il-les-chiffres-des-blocages-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d852299d6406c37dfdba20a8e51085c896d2efbd1cb9c55a5c68b1a0e066d989",
       "detailLevel": "preview"
     },
     {
@@ -1021,6 +1025,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-14T01:16:27.809345+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5d135c090576413872",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : les gauches seront-elles vraiment irréconciliables ?",
+      "bullets": [
+        "Dans le deuxième épisode du vodcast « L’Heure de la présidentielle », deux journalistes du « Monde », Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à cette famille politique les candidats à l’élection présidentielle sont les héritiers."
+      ],
+      "publishedAt": "2026-11-14T04:00:15+00:00",
+      "updatedAt": "2026-11-14T04:00:15+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/11/14/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809556_5463015.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b68334158e6d46e30f198e61916495825ca6d57f70fcad3672a655f186d7303f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ce0cc2b174154d493a",
@@ -1072,30 +1100,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-344eaabb87de7806bf",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
-      "bullets": [
-        "Dans ce deuxième épisode du vodcast « L’Heure de la présidentielle », les journalistes Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à la gauche sont issus les candidats à l’Elysée."
-      ],
-      "publishedAt": "2026-11-13T17:00:00+00:00",
-      "updatedAt": "2026-11-13T17:00:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1e736ddbadd21ff2101153575e9a8992eecface58f1e035b4ac533c9ebc124ff",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-5b08c3e275ac303278",
       "revision": 1,
       "category": "france",
@@ -1124,30 +1128,6 @@
       "context": null
     },
     {
-      "id": "rss-89f6e5d2f7423832e3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs en France",
-      "bullets": [
-        "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de l’Observatoire international des prisons dénonce un système qui, loin de permettre la réinsertion…"
-      ],
-      "publishedAt": "2026-11-12T04:00:06+00:00",
-      "updatedAt": "2026-11-12T04:00:06+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "003061363f30c7225b0d1eee12260143bba51af06994af02a4f4083362bf0b95",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8892672c0338ccab42",
       "revision": 1,
       "category": "france",
@@ -1170,6 +1150,31 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "30555119bb3f98e667cf5c2c47ea68b6f069167d443bbe0392e9dfefb08d7fab",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2276c16164979e4669",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "PMA : un texte bientôt examiné à l’Assemblée sur le diagnostic génétique des embryons, ce test interdit en France",
+      "bullets": [
+        "DÉCRYPTAGE - Méthode eugéniste de «tri» pour les uns, chance supplémentaire de procréer pour les autres : le DPI-A divise.",
+        "Une proposition de loi transpartisane sur son autorisation en France va être examinée à l’Assemblée en décembre."
+      ],
+      "publishedAt": "2026-11-12T16:40:32+00:00",
+      "updatedAt": "2026-11-12T16:40:32+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/pma-un-texte-bientot-examine-a-l-assemblee-sur-le-diagnostic-genetique-des-embryons-ce-test-interdit-en-france-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6ae758b7f37bb236d4cdb28f4956e351eb379b9e8aa23d69bec7811a9ccfe5a8",
       "detailLevel": "preview"
     }
   ],
@@ -1256,7 +1261,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
