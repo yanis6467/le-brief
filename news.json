@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T20:51:05.092761+00:00",
+  "preparedAt": "2026-11-14T21:49:34.726393+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -53,6 +53,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cef6bdbff282d17788",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sur les réseaux sociaux, des astuces pour lutter contre le froid chez soi",
+      "bullets": [
+        "Jamais !” Contraints d’économiser à cause de l’inflation, des utilisateurs de TikTok partagent des astuces pour supporter le froid.",
+        "Entre système D et témoignages de précarité énergétique, cette tendance illustre les difficultés financières de nombreux ménages français, alors que les températures commencent à diminuer et que le prix du gaz va augmenter de 5,8% en décembre."
+      ],
+      "publishedAt": "2026-11-14T21:00:02+00:00",
+      "updatedAt": "2026-11-14T21:00:02+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/sur-les-reseaux-sociaux-des-astuces-pour-lutter-contre-le-froid-chez-soi_8281457.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "aa0d40e72d2bc0ea1959405b94a45bcf08e15835a1fbc3cdf08cf4b84b80f352",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T21:49:34.726393+00:00",
+      "context": null
     },
     {
       "id": "rss-42312d21f804cced58",
@@ -297,31 +324,6 @@
       "context": null
     },
     {
-      "id": "rss-acc0a763f680e4271d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les microdramas, la nouvelle martingale des chaînes de télévision pour rajeunir leur audience",
-      "bullets": [
-        "DÉCRYPTAGE - Alors qu’Arte et France Télévisions ont été parmi les pionniers, M6+ lance une offre de 5 séries verticales.",
-        "Un format né en Chine qui a décollé aux États-Unis."
-      ],
-      "publishedAt": "2026-11-14T11:30:00+00:00",
-      "updatedAt": "2026-11-14T11:30:00+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/les-microdramas-la-nouvelle-martingale-des-chaines-de-television-pour-rajeunir-leur-audience-20261114",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a7570075e24ffb33903b337cb12344ebc8437ffd71ecbcdfb80765ce02a6faca",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -332,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T20:45:06+00:00",
-      "updatedAt": "2026-11-14T20:45:06+00:00",
+      "publishedAt": "2026-11-14T21:47:48+00:00",
+      "updatedAt": "2026-11-14T21:47:48+00:00",
       "importance": 69,
       "sources": [
         {
@@ -418,7 +420,7 @@
       ],
       "publishedAt": "2026-11-12T09:26:06+00:00",
       "updatedAt": "2026-11-12T09:26:06+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -463,10 +465,10 @@
     },
     {
       "id": "rss-f07c099401acd963c7",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+      "title": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
       "bullets": [
         "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
       ],
@@ -482,7 +484,7 @@
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "2423dc61ef00b49773f84c543d4d9ca1a86f33da8dd1394ac69b8334e76e557c",
+      "summaryInput": "643286d7bff03dcffa8549e18329b65b23601a57e30064cf112f5e4fd9da9bcd",
       "detailLevel": "preview"
     },
     {
@@ -695,31 +697,6 @@
       "context": null
     },
     {
-      "id": "rss-13cb83b8320f9640bd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le visa d’une journaliste norvégienne jugée trop impertinente annulé par l’Inde",
-      "bullets": [
-        "Invitée à s’exprimer à une conférence de l’opposition indienne, Helle Lyng Svendsen s’est vu retirer son visa à la dernière minute.",
-        "Un nouvel épisode du durcissement du gouvernement de Narendra Modi."
-      ],
-      "publishedAt": "2026-11-14T09:15:06+00:00",
-      "updatedAt": "2026-11-14T09:15:06+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/le-visa-d-une-journaliste-norvegienne-jugee-trop-impertinente-annule-par-l-inde_6809917_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d3bc4b0bfcdd8c535ef79a65ea6690c459f9f22b1e5d976aa813ae595ab2b30c",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-b7f486d67c122ac166",
       "revision": 1,
       "category": "world",
@@ -741,6 +718,31 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "716ff2c616319f812ec3e0d2b0708b03711e28dd7df7f085c3e9eb0e666639da",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-13cb83b8320f9640bd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le visa d’une journaliste norvégienne jugée trop impertinente annulé par l’Inde",
+      "bullets": [
+        "Invitée à s’exprimer à une conférence de l’opposition indienne, Helle Lyng Svendsen s’est vu retirer son visa à la dernière minute.",
+        "Un nouvel épisode du durcissement du gouvernement de Narendra Modi."
+      ],
+      "publishedAt": "2026-11-14T09:15:06+00:00",
+      "updatedAt": "2026-11-14T09:15:06+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/le-visa-d-une-journaliste-norvegienne-jugee-trop-impertinente-annule-par-l-inde_6809917_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d3bc4b0bfcdd8c535ef79a65ea6690c459f9f22b1e5d976aa813ae595ab2b30c",
       "detailLevel": "preview"
     },
     {
@@ -792,27 +794,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-93645017efeaa56f64",
-      "revision": 1,
+      "id": "rss-34f5f5b3a59f845579",
+      "revision": 3,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage",
+      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
       "bullets": [
-        "Dans un télégramme adressé aux recteurs et aux préfets, vendredi, le gouvernement a détaillé le dispositif pour sanctionner les élèves et les membres du personnel de l’éducation nationale qui participeraient à des blocages, à des dégradations et « à la déstabilisation de [leur] établissement »."
+        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
       ],
-      "publishedAt": "2026-11-13T17:25:50+00:00",
-      "updatedAt": "2026-11-13T17:25:50+00:00",
-      "importance": 99,
+      "publishedAt": "2026-11-14T04:00:06+00:00",
+      "updatedAt": "2026-11-14T04:00:06+00:00",
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "8573f7fcf310f813f394544130b72162d1047eedb5c057f3186ac552705da71f",
+      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
     },
     {
@@ -893,7 +895,7 @@
       "provenance": "article-extract",
       "summaryInput": "ccfbbc672261b3739f38221276b6ebd830fec4576c4e8b3454afe7c8c221ed58",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T09:07:14.613955+00:00",
+      "enrichedAt": "2026-11-14T21:49:34.726393+00:00",
       "context": null
     },
     {
@@ -918,30 +920,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "e3c826137fb305b62c5246d8d47db910322a0ec051bcc0f767e7b5a215d7bf09",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-34f5f5b3a59f845579",
-      "revision": 3,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
-      "bullets": [
-        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
-      ],
-      "publishedAt": "2026-11-14T04:00:06+00:00",
-      "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
     },
     {
@@ -1020,6 +998,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-14T13:59:51.772513+00:00",
       "context": null
+    },
+    {
+      "id": "rss-dc3f0517ca75502fa2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+      "bullets": [
+        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
+      ],
+      "publishedAt": "2026-11-12T10:53:16+00:00",
+      "updatedAt": "2026-11-12T10:53:16+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-bcd059acf655de34df",
