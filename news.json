@@ -1,67 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T05:59:35.666865+00:00",
+  "preparedAt": "2026-11-14T07:16:32.745413+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-f6267f53e94010ba03",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
-      "bullets": [
-        "🇪🇺Encadrement des influenceurs, interdiction des \"interfaces trompeuses\", création d'un droit à désactiver les fonctionnalités \"addictives\" : l'Union européenne a proposé mercredi de nouvelles règles pour mieux protéger les consommateurs contre les pièges du numérique.",
-        "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
-        "Haïti : la “méthode salvadorienne” pour lutter contre les gangs"
-      ],
-      "publishedAt": "2026-11-13T19:00:01+00:00",
-      "updatedAt": "2026-11-13T19:00:01+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "3a784ad250312148679a8d43da16295a61ad5817cfaa9148ebbb2510b12def91",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-377ded6554da2bc11d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
-      "bullets": [
-        "Le marché du pétrole se détend enfin depuis le début de la guerre en Iran, avec des signes de rééquilibrage entre l'offre et la demande en pétrole.",
-        "L'offre devrait ainsi dépasser la demande, au dernier trimestre, et se consolider début 2027.",
-        "En France, le prix moyen du gazole atteint ainsi, vendredi 17 novembre, 2,17 euros."
-      ],
-      "publishedAt": "2026-11-13T18:27:01+00:00",
-      "updatedAt": "2026-11-13T18:27:01+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "fd05575dde046225cc707e1b6b71a949cbe7d238d691c557f767acd2749bc402",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
-      "context": null
-    },
     {
       "id": "rss-cc9e0b1cbc3b692630",
       "revision": 1,
@@ -74,7 +18,7 @@
       ],
       "publishedAt": "2026-11-13T18:08:57+00:00",
       "updatedAt": "2026-11-13T18:08:57+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -199,7 +143,7 @@
       ],
       "publishedAt": "2026-11-13T19:15:00+00:00",
       "updatedAt": "2026-11-13T19:15:00+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -211,34 +155,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d404fd4538b1985fea43e33a8327dd7a13e65f71c568f4483a0e61e13490fbf3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cbdafb3dad26c9fa99",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La chroniqueuse pro-Kremlin Xenia Fedorova juge l'interdiction de territoire infligée par la Russie à deux députés et deux journalistes français \"plus mesurée\" que son expulsion par la France",
-      "bullets": [
-        "La Russie assure avoir répondu à son expulsion en interdisant de territoire deux députés et deux journalistes français.",
-        "La chroniqueuse pro-Kremlin Xenia Fedorova, sanctionnée par la France en juillet, a réagi à la décision annoncée par Moscou et à sa condamnation par le ministre des Affaires étrangères Jean-Noël Barrot.",
-        "Depuis l'offensive à grande échelle en Ukraine en février 2022 et l'adoption successive des paquets de sanctions de l'UE, la diplomatie russe a élargi à de multiples reprises sa liste noire à l'encontre de ressortissants européens, incluant des Français."
-      ],
-      "publishedAt": "2026-11-13T18:59:12+00:00",
-      "updatedAt": "2026-11-13T18:59:12+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "a687d88496099a4c615d42fc4f83c58833260f639951aa1e5342e5dec02910ea",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T05:03:51.110196+00:00",
-      "context": null
     },
     {
       "id": "rss-942de581d68c5b0be0",
@@ -268,6 +184,62 @@
       "context": null
     },
     {
+      "id": "rss-5003e634a3b035c855",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les syndicats des forces de l'ordre restent insatisfaits de la hausse de la prime de risque proposée par Laurent Nuñez",
+      "bullets": [
+        "Reçus par le ministre de l'Intérieur dans l'après-midi du vendredi 13 novembre, place Beauvau.",
+        "Les syndicats réclament un passage à 35%Leur principale revendication était claire : la hausse de l'ISSP, la prime de risque dédiée aux fonctionnaires de police.",
+        "Aujourd'hui, cette prime de risque représente 28,5 % de leur salaire de base."
+      ],
+      "publishedAt": "2026-11-14T07:08:04+00:00",
+      "updatedAt": "2026-11-14T07:08:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/les-syndicats-des-forces-de-l-ordre-restent-insatisfaits-de-la-hausse-de-la-prime-de-risque-proposee-par-laurent-nunez_8282171.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "89c4842d773800691252da88a3850798af58534327cc0e926d9ceff56125c5c1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-151ac986109ddecc9e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "TEMOIGNAGES. \"J'ai l'impression de travailler à perte\" : salariés au smic, ils racontent un quotidien de privations, de galères et de déclassement",
+      "bullets": [
+        "La coordination des gilets jaunes appelle à de nouveaux rassemblements, samedi 14 novembre, malgré l'annonce du gouvernement lundi d'un coup de pouce de 0,6% au smic.",
+        "\"Si on parvient à grappiller 50 euros par mois, ça permet de prévoir les coups durs, le changement du frigo ou de la courroie de distribution.\"Cécile : \"Je ne me sens même plus citoyenne\"\"C'est gênant, tellement ils sont faibles.\" Quand on l'interroge sur ses revenus, Cécile ne masque pas son malaise.",
+        "Dans ce contexte, difficile d'aider les enfants de 22 et 29 ans."
+      ],
+      "publishedAt": "2026-11-14T06:08:33+00:00",
+      "updatedAt": "2026-11-14T06:08:33+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/temoignages-j-ai-l-impression-de-travailler-a-perte-salaries-au-smic-ils-racontent-un-quotidien-de-privations-de-galeres-et-de-declassement_8276399.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "b501de74422440fd5566b0bb98a1326bb752438355b77afbb337192cc15e6c98",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
+      "context": null
+    },
+    {
       "id": "rss-e173087feea0800763",
       "revision": 1,
       "category": "eco",
@@ -279,7 +251,7 @@
       ],
       "publishedAt": "2026-11-13T18:30:05+00:00",
       "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -321,6 +293,34 @@
       "context": null
     },
     {
+      "id": "rss-97fcaee44c852bbd81",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+      "bullets": [
+        "La CFDT a annoncé, vendredi 13 novembre, se joindre à l'appel à la grève et à la mobilisation dans la fonction publique le 17 novembre, désormais soutenu par toute l'intersyndicale.",
+        "Sur les 1,1 million d'agents dont le salaire est rattrapé par le salaire minimum, \"seulement une moitié va être à peine portée au niveau du smic\" par les mesures proposées par Sébastien Lecornu, a dénoncé Caroline Chevé, secrétaire générale de la FSU.",
+        "Ça veut dire même pas 30 euros, avance-t-elle."
+      ],
+      "publishedAt": "2026-11-13T16:15:52+00:00",
+      "updatedAt": "2026-11-13T16:15:52+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "6501d73c2386b05f04cdc49a750c56ab677861dde69dfa28873953733b54d10b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T05:55:09+00:00",
-      "updatedAt": "2026-11-14T05:55:09+00:00",
+      "publishedAt": "2026-11-14T07:08:46+00:00",
+      "updatedAt": "2026-11-14T07:08:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -539,6 +539,62 @@
       "context": null
     },
     {
+      "id": "rss-f6267f53e94010ba03",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
+      "bullets": [
+        "🇪🇺Encadrement des influenceurs, interdiction des \"interfaces trompeuses\", création d'un droit à désactiver les fonctionnalités \"addictives\" : l'Union européenne a proposé mercredi de nouvelles règles pour mieux protéger les consommateurs contre les pièges du numérique.",
+        "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
+        "Haïti : la “méthode salvadorienne” pour lutter contre les gangs"
+      ],
+      "publishedAt": "2026-11-13T19:00:01+00:00",
+      "updatedAt": "2026-11-13T19:00:01+00:00",
+      "importance": 78,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "3a784ad250312148679a8d43da16295a61ad5817cfaa9148ebbb2510b12def91",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-377ded6554da2bc11d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
+      "bullets": [
+        "Le marché du pétrole se détend enfin depuis le début de la guerre en Iran, avec des signes de rééquilibrage entre l'offre et la demande en pétrole.",
+        "L'offre devrait ainsi dépasser la demande, au dernier trimestre, et se consolider début 2027.",
+        "En France, le prix moyen du gazole atteint ainsi, vendredi 17 novembre, 2,17 euros."
+      ],
+      "publishedAt": "2026-11-13T18:27:01+00:00",
+      "updatedAt": "2026-11-13T18:27:01+00:00",
+      "importance": 78,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "fd05575dde046225cc707e1b6b71a949cbe7d238d691c557f767acd2749bc402",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d06cdc1afbc789a03b",
       "revision": 1,
       "category": "world",
@@ -564,12 +620,12 @@
     },
     {
       "id": "rss-e575775396756bb06b",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
       "bullets": [
-        "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires."
+        "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation et exigences budgétaires."
       ],
       "publishedAt": "2026-11-13T20:58:04+00:00",
       "updatedAt": "2026-11-13T20:58:04+00:00",
@@ -583,7 +639,7 @@
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "148fc9b4994a4736af0a677a3a533eaa2d519cfae2484df5a07f9429a2916fd2",
+      "summaryInput": "60169d83aa9c968e45df3719978f2d94d664b4c80e8a27690e191a395e265de7",
       "detailLevel": "preview"
     },
     {
@@ -599,7 +655,7 @@
       ],
       "publishedAt": "2026-11-13T18:29:43+00:00",
       "updatedAt": "2026-11-13T18:29:43+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -611,7 +667,7 @@
       "provenance": "article-extract",
       "summaryInput": "b597ae50605ecee5dca6bc26f984c0fc1b41914044cfef3f46880aed7b867d11",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T19:08:20.413279+00:00",
+      "enrichedAt": "2026-11-14T07:16:32.745413+00:00",
       "context": null
     },
     {
@@ -626,7 +682,7 @@
       ],
       "publishedAt": "2026-11-12T19:15:00+00:00",
       "updatedAt": "2026-11-12T19:15:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -678,7 +734,7 @@
       ],
       "publishedAt": "2026-11-12T18:40:00+00:00",
       "updatedAt": "2026-11-12T18:40:00+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -716,73 +772,17 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-986feeff8fce07f925",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky",
-      "bullets": [
-        "Les autorités ukrainiennes cherchent toujours à obtenir des explications concernant les restrictions imposées au système satellitaire militaire Starshield de l'entreprise américaine SpaceX, qui affectent l'Ukraine depuis jeudi, a affirmé, vendredi 13 novembre, le président ukrainien Volodymyr Zelensky.",
-        "\"Cela rend impossible, en particulier, l'utilisation d'intercepteurs contre les Shahed à réaction\", a répété Volodymyr Zelensky, alors que la Russie a intensifié depuis plusieurs mois l'emploi de ces drones d'attaque, notamment contre la capitale ukrainienne.",
-        "La Maison Blanche et Elon Musk, le patron de SpaceX, avaient rejeté toute responsabilité."
-      ],
-      "publishedAt": "2026-11-13T19:18:56+00:00",
-      "updatedAt": "2026-11-13T19:18:56+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "b6ff089d68ebc40ea4b6b66264ef20553419cb38706b4987ab258490b20bd669",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T05:03:51.110196+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-82e8039d083a595943",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des éléphants sèment la terreur en Inde",
-      "bullets": [
-        "En Inde, des attaques d'éléphants sauvages font des centaines de morts chaque année.",
-        "En raison de la destruction des forêts, les éléphants du pays ont perdu plus de 96 % des territoires qu'ils occupaient autrefois.",
-        "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année"
-      ],
-      "publishedAt": "2026-11-13T19:00:02+00:00",
-      "updatedAt": "2026-11-13T19:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "7d00088d8f4644ad2ff43f0c23abbb4df087b88f572145df04a544a83a27ec98",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T05:03:51.110196+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cdfeddcd3ee74f442b",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Mobilisations sociales : Sébastien Lecornu peine à sortir de la crise",
+      "title": "Mobilisations sociales : entre concessions et discours martiaux, Sébastien Lecornu peine à sortir de la crise",
       "bullets": [
         "Impuissant à désamorcer les colères sociales, le premier ministre a essuyé, vendredi, l’ire de la CFDT, à l’issue des discussions sur la fonction publique.",
-        "Des milliers de manifestants sont attendus dans les rues, samedi, pour l’« acte V » de la « mobilisation contre la vie chère »."
+        "Des milliers de manifestants sont attendus dans les rues, samedi, pour l’« acte V » de la mobilisation « contre la vie chère »."
       ],
-      "publishedAt": "2026-11-14T05:35:40+00:00",
-      "updatedAt": "2026-11-14T05:35:40+00:00",
+      "publishedAt": "2026-11-14T05:35:38+00:00",
+      "updatedAt": "2026-11-14T05:35:38+00:00",
       "importance": 65,
       "sources": [
         {
@@ -793,7 +793,7 @@
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "830a255188a21fa830845805aa5ba921d5a81039cb652b0d46d592ee273159ca",
+      "summaryInput": "9270f74a228186c9e22e6a07e1b506f66b744dc1846e51c16e788e2bc3bacd9c",
       "detailLevel": "preview"
     },
     {
@@ -958,8 +958,8 @@
       "bullets": [
         "Depuis la rentrée du 2 novembre, l’éducation nationale ne communique plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement, dont les enquêtes témoignent de perturbations bien plus nombreuses. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
       ],
-      "publishedAt": "2026-11-14T04:00:13+00:00",
-      "updatedAt": "2026-11-14T04:00:13+00:00",
+      "publishedAt": "2026-11-14T04:00:06+00:00",
+      "updatedAt": "2026-11-14T04:00:06+00:00",
       "importance": 85,
       "sources": [
         {
@@ -1085,8 +1085,8 @@
         "Le candidat du PS et de Place publique a toujours critiqué le bilan d’Emmamuel Macron.",
         "Mais quelques anciens fidèles du président de la République l’ont rejoint, ce qui donne des arguments aux « insoumis » pour le critiquer."
       ],
-      "publishedAt": "2026-11-14T05:18:17+00:00",
-      "updatedAt": "2026-11-14T05:18:17+00:00",
+      "publishedAt": "2026-11-14T05:18:15+00:00",
+      "updatedAt": "2026-11-14T05:18:15+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1189,7 +1189,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1291,7 +1291,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
