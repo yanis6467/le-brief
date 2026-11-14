@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T21:49:34.726393+00:00",
+  "preparedAt": "2026-11-14T22:49:10.585664+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -121,7 +121,7 @@
       ],
       "publishedAt": "2026-11-14T09:54:10+00:00",
       "updatedAt": "2026-11-14T09:54:10+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -160,6 +160,34 @@
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-14T13:05:35.474206+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ecee759d64e21f35a1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Des milliers de Portugais manifestent contre la crise du logement",
+      "bullets": [
+        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
+        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
+        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
+      ],
+      "publishedAt": "2026-11-14T18:23:08+00:00",
+      "updatedAt": "2026-11-14T18:23:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
       "context": null
     },
     {
@@ -296,34 +324,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-10859f17bb48dbb764",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "États-Unis : plus de 16.000 vols annulés en deux jours après une panne géante des communications aériennes",
-      "bullets": [
-        "Plus de 16.000 vols sont annulés vendredi et samedi aux États-Unis à la suite de la rarissime suspension des décollages pendant plusieurs heures à cause d’une panne de communication, a indiqué samedi le régulateur américain de l’aviation civile, la FAA.",
-        "«Nous n’avons pas pu reprogrammer 12.000 vols» vendredi, un total comprenant quelque 9000 vols commerciaux et 3000 vols privés, a déclaré le patron de la FAA Bryan Bedford en conférence de presse.",
-        "«Et nous estimons qu’entre 4000 et 5000 des 41.000 vols prévus samedi devraient être annulés», a-t-il ajouté."
-      ],
-      "publishedAt": "2026-11-14T16:44:29+00:00",
-      "updatedAt": "2026-11-14T16:44:29+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "57f91bc1ba53757aa32e66b2c2080e87d3cd88add977d7f2bec84cafa3326d99",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T19:52:41.386660+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T21:47:48+00:00",
-      "updatedAt": "2026-11-14T21:47:48+00:00",
+      "publishedAt": "2026-11-14T22:45:09+00:00",
+      "updatedAt": "2026-11-14T22:45:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -563,7 +563,7 @@
       "provenance": "article-extract",
       "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T09:56:54.840588+00:00",
+      "enrichedAt": "2026-11-14T22:49:10.585664+00:00",
       "context": null
     },
     {
@@ -617,58 +617,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-806d5bb6d5baec8ebe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
-      "bullets": [
-        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
-      ],
-      "publishedAt": "2026-11-13T22:44:44+00:00",
-      "updatedAt": "2026-11-13T22:44:44+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ecee759d64e21f35a1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des milliers de Portugais manifestent contre la crise du logement",
-      "bullets": [
-        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
-        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
-        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
-      ],
-      "publishedAt": "2026-11-14T18:23:08+00:00",
-      "updatedAt": "2026-11-14T18:23:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
-      "context": null
-    },
-    {
       "id": "rss-acdce62ed3d2863633",
       "revision": 1,
       "category": "world",
@@ -695,6 +643,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-14T14:53:43.904772+00:00",
       "context": null
+    },
+    {
+      "id": "rss-806d5bb6d5baec8ebe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
+      "bullets": [
+        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
+      ],
+      "publishedAt": "2026-11-13T22:44:44+00:00",
+      "updatedAt": "2026-11-13T22:44:44+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b7f486d67c122ac166",
@@ -743,6 +715,30 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "d3bc4b0bfcdd8c535ef79a65ea6690c459f9f22b1e5d976aa813ae595ab2b30c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-75e99d3759dc0b513f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Laure Mandeville : « En Russie, les automates, les révoltés et les silencieux »",
+      "bullets": [
+        "ANALYSE - Dans une autocratie poutinienne où le rouleau compresseur de la répression s’abat sur tous ceux qui osent critiquer le pouvoir et la guerre contre l’Ukraine, il n’y a que peu de choix : se soumettre, courir le risque de la révolte, qui mène à la prison, à l’exil…"
+      ],
+      "publishedAt": "2026-11-12T19:30:00+00:00",
+      "updatedAt": "2026-11-12T19:30:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/vox/monde/laure-mandeville-en-russie-les-automates-les-revoltes-et-les-silencieux-20261112",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "853f25066c6460e2079d97db6ccb4c4e8f0229a0cebca72b0c47b83f707b4fcd",
       "detailLevel": "preview"
     },
     {
@@ -830,7 +826,7 @@
       ],
       "publishedAt": "2026-11-12T10:27:30+00:00",
       "updatedAt": "2026-11-12T10:27:30+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -883,7 +879,7 @@
       ],
       "publishedAt": "2026-11-13T22:00:16+00:00",
       "updatedAt": "2026-11-13T22:00:16+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -909,7 +905,7 @@
       ],
       "publishedAt": "2026-11-14T10:00:14+00:00",
       "updatedAt": "2026-11-14T10:00:14+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1123,32 +1119,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5003e634a3b035c855",
+      "id": "rss-3bb6241b826cfc0dda",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Les syndicats des forces de l'ordre restent insatisfaits de la hausse de la prime de risque proposée par Laurent Nuñez",
+      "topic": "Société",
+      "title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
       "bullets": [
-        "Reçus par le ministre de l'Intérieur dans l'après-midi du vendredi 13 novembre, place Beauvau.",
-        "Les syndicats réclament un passage à 35%Leur principale revendication était claire : la hausse de l'ISSP, la prime de risque dédiée aux fonctionnaires de police.",
-        "Aujourd'hui, cette prime de risque représente 28,5 % de leur salaire de base."
+        "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et les dermatologues."
       ],
-      "publishedAt": "2026-11-14T07:08:04+00:00",
-      "updatedAt": "2026-11-14T07:08:04+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-14T11:36:44+00:00",
+      "updatedAt": "2026-11-14T11:36:44+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/les-syndicats-des-forces-de-l-ordre-restent-insatisfaits-de-la-hausse-de-la-prime-de-risque-proposee-par-laurent-nunez_8282171.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "89c4842d773800691252da88a3850798af58534327cc0e926d9ceff56125c5c1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T11:51:15.916740+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0d024aff4d0575328fbef0f90a66c0177dad41a8f2ec58463db213b2531077b8",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1186,7 +1178,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
