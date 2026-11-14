@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T02:16:24.827318+00:00",
+  "preparedAt": "2026-11-14T03:07:57.929264+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -82,6 +82,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-13T21:02:11.221358+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8fc9f1c3718205cafe",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "bullets": [
+        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+      ],
+      "publishedAt": "2026-11-13T15:28:23+00:00",
+      "updatedAt": "2026-11-13T15:28:23+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-eb9621f00029c6a91b",
@@ -294,34 +318,6 @@
       "context": null
     },
     {
-      "id": "rss-df78dbf9c3462d20db",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
-      "bullets": [
-        "Sébastien Lecornu recevra à nouveau les syndicats le 11 décembre, après les élections professionnelles dans la fonction publique, pour \"sceller des avancées dès la mi-décembre\".",
-        "Sophie Binet a, elle, estimé à la sortie de la rencontre à Matignon qu'il s'agissait d'\"une réunion pour rien\".",
-        "A ses yeux, les cinq chantiers listés par Sébastien Lecornu \"ne répondent pas à l'urgence salariale pour les agents de la fonction publique\"."
-      ],
-      "publishedAt": "2026-11-13T13:31:37+00:00",
-      "updatedAt": "2026-11-13T13:31:37+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "1f7b8f4b5e8fab96f5ea291ce531ebe785c099ebf6bcc7ed67e8478b71b44cc1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T02:16:24.827318+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -332,8 +328,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T02:15:05+00:00",
-      "updatedAt": "2026-11-14T02:15:05+00:00",
+      "publishedAt": "2026-11-14T03:05:11+00:00",
+      "updatedAt": "2026-11-14T03:05:11+00:00",
       "importance": 69,
       "sources": [
         {
@@ -390,7 +386,7 @@
       ],
       "publishedAt": "2026-11-12T14:32:29+00:00",
       "updatedAt": "2026-11-12T14:32:29+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -430,7 +426,7 @@
       "provenance": "article-extract",
       "summaryInput": "e22ff22124a14889d0e81142be430af6c3cab8f9017ee487a3e1060bf51b33d7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-13T15:00:24.643120+00:00",
+      "enrichedAt": "2026-11-14T03:07:57.929264+00:00",
       "context": "Résultats du troisième trimestre"
     },
     {
@@ -672,30 +668,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8fc9f1c3718205cafe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-      "bullets": [
-        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
-      ],
-      "publishedAt": "2026-11-13T15:28:23+00:00",
-      "updatedAt": "2026-11-13T15:28:23+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-559e046c1cdb1e0155",
       "revision": 1,
       "category": "world",
@@ -770,6 +742,30 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "07991479eb0dfa9069465501aca3a1cea3cb21d13e5be0a86e31e1d58087e13a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-806d5bb6d5baec8ebe",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
+      "bullets": [
+        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
+      ],
+      "publishedAt": "2026-11-13T22:44:44+00:00",
+      "updatedAt": "2026-11-13T22:44:44+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
       "detailLevel": "preview"
     },
     {
@@ -961,7 +957,7 @@
       ],
       "publishedAt": "2026-11-13T14:27:12+00:00",
       "updatedAt": "2026-11-13T14:27:12+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
