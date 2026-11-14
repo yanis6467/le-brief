@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T13:05:35.474206+00:00",
+  "preparedAt": "2026-11-14T13:59:51.772513+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -98,7 +98,7 @@
       ],
       "publishedAt": "2026-11-13T13:12:17+00:00",
       "updatedAt": "2026-11-13T13:12:17+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -335,9 +335,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T13:05:07+00:00",
-      "updatedAt": "2026-11-14T13:05:07+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-14T13:59:53+00:00",
+      "updatedAt": "2026-11-14T13:59:53+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -438,10 +438,10 @@
     },
     {
       "id": "rss-e115c9a51ab4c31e29",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
-      "title": "Un XXe Sommet de la Francophonie au Cambodge, pour « réinvestir dans la paix », a été rattrapée par la guerre dans les Grands Lacs",
+      "title": "Un XXᵉ Sommet de la Francophonie au Cambodge, pour « réinvestir dans la paix », a été rattrapée par la guerre dans les Grands Lacs",
       "bullets": [
         "Au sommet de Phnom Penh, du 14 au 16 novembre, l’élection du secrétaire général de l’Organisation internationale de la francophonie (OIF) tourne à la bataille par procuration entre le Rwanda et la RDC."
       ],
@@ -457,7 +457,7 @@
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "53fab40d548c711c532540148006a59b19e5632202d7ab6bfd6252e00e9d5e1f",
+      "summaryInput": "7024d23c4b8f1b5ebf3f22fafbec1eacda1b6db06650684d5f905e2e052bd997",
       "detailLevel": "preview"
     },
     {
@@ -500,7 +500,7 @@
       ],
       "publishedAt": "2026-11-14T01:49:53+00:00",
       "updatedAt": "2026-11-14T01:49:53+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -652,8 +652,8 @@
         "Le pouvoir de Mamadi Doumbouya a intensifié sa lutte contre les orpailleurs clandestins dans la région de Siguiri, l’une des plus grandes réserves d’or d’Afrique de l’Ouest.",
         "Depuis début novembre, des dizaines de milliers d’étrangers ont été expulsés vers le Mali et plus de 1 300 personnes arrêtées."
       ],
-      "publishedAt": "2026-11-14T13:00:03+00:00",
-      "updatedAt": "2026-11-14T13:00:03+00:00",
+      "publishedAt": "2026-11-14T13:00:02+00:00",
+      "updatedAt": "2026-11-14T13:00:02+00:00",
       "importance": 67,
       "sources": [
         {
@@ -748,27 +748,28 @@
       "context": null
     },
     {
-      "id": "rss-3bb6241b826cfc0dda",
+      "id": "rss-493316254affc9a286",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
+      "title": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
       "bullets": [
-        "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et les dermatologues."
+        "Les différences entre les candidats des partis de gouvernement à l’élection présidentielle tiennent plus au style des personnes et au discours qu’à de réelles divergences politiques, note la politiste dans un entretien au « Monde ».",
+        "Les partis d’extrême gauche ou droite, selon elle, accaparent le débat et déterminent les…"
       ],
-      "publishedAt": "2026-11-14T11:36:44+00:00",
-      "updatedAt": "2026-11-14T11:36:44+00:00",
+      "publishedAt": "2026-11-14T13:30:09+00:00",
+      "updatedAt": "2026-11-14T13:30:09+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "0d024aff4d0575328fbef0f90a66c0177dad41a8f2ec58463db213b2531077b8",
+      "summaryInput": "c04c2c58327b7d3ab17f86cbaed994d0c1314e06993bc4558280f5d1d0c0dd12",
       "detailLevel": "preview"
     },
     {
@@ -974,27 +975,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e6b3f4292fce001eba",
-      "revision": 1,
+      "id": "rss-4059aab23bd9b4bae2",
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
-      "title": "« Quand le ministère annonce 50 lycées bloqués, nous en comptons 150 à 200 qui ne fonctionnent pas normalement » : le gouvernement minimise-t-il les chiffres des blocages ?",
+      "title": "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation",
       "bullets": [
-        "ENQUÊTE - Alors que l’exécutif qualifie de « résiduel » le nombre d’établissements touchés par les perturbations, les proviseurs martèlent qu’il faut « arrêter de mentir aux gens » et ne pas « minorer ce qu’ils vivent »."
+        "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes.",
+        "A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est parti de Nation à 14 heures."
       ],
-      "publishedAt": "2026-11-13T18:25:58+00:00",
-      "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-14T06:49:22+00:00",
+      "updatedAt": "2026-11-14T06:49:22+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/quand-le-ministere-annonce-50-lycees-bloques-nous-en-comptons-150-a-200-qui-ne-fonctionnent-pas-normalement-le-gouvernement-minimise-t-il-les-chiffres-des-blocages-20261113",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "d852299d6406c37dfdba20a8e51085c896d2efbd1cb9c55a5c68b1a0e066d989",
+      "summaryInput": "b01b898a2ab83b9f16ac2d4a6bc3f4e7acc955804057620ba6584758f5303579",
       "detailLevel": "preview"
     },
     {
@@ -1022,8 +1024,32 @@
       "provenance": "article-extract",
       "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T01:16:27.809345+00:00",
+      "enrichedAt": "2026-11-14T13:59:51.772513+00:00",
       "context": null
+    },
+    {
+      "id": "rss-3bb6241b826cfc0dda",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
+      "bullets": [
+        "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et les dermatologues."
+      ],
+      "publishedAt": "2026-11-14T11:36:44+00:00",
+      "updatedAt": "2026-11-14T11:36:44+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0d024aff4d0575328fbef0f90a66c0177dad41a8f2ec58463db213b2531077b8",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-54e3fa10e35bfc53a1",
@@ -1048,30 +1074,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "8b6b93dd400db4e1115ecb4ae7a2a30f82ee3cfb1fa7751c2a559b580ab0350c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4059aab23bd9b4bae2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Manifestations du 14 novembre : une mobilisation aux revendications diverses, contre la « vie chère » ou les violences faites aux enfants",
-      "bullets": [
-        "Le gouvernement va mobiliser autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes dans tout le pays."
-      ],
-      "publishedAt": "2026-11-14T06:49:22+00:00",
-      "updatedAt": "2026-11-14T06:49:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ac5f4580870ad94da191ec105ac1ed0dfe24149e58b1caf885b863b407977817",
       "detailLevel": "preview"
     },
     {
@@ -1176,7 +1178,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
