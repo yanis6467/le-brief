@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-14",
-  "preparedAt": "2026-11-14T17:47:39.505205+00:00",
+  "preparedAt": "2026-11-14T18:57:17.838949+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -160,6 +160,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ecee759d64e21f35a1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Des milliers de Portugais manifestent contre la crise du logement",
+      "bullets": [
+        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
+        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
+        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
+      ],
+      "publishedAt": "2026-11-14T18:23:08+00:00",
+      "updatedAt": "2026-11-14T18:23:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
+      "context": null
+    },
+    {
       "id": "rss-b7f2ef76a732ff0e3b",
       "revision": 1,
       "category": "eco",
@@ -244,31 +272,6 @@
       "context": null
     },
     {
-      "id": "rss-e173087feea0800763",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
-      "bullets": [
-        "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre.",
-        "Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises."
-      ],
-      "publishedAt": "2026-11-13T18:30:05+00:00",
-      "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27c7ebba1f8c51d65e48f568902ccbeef96f021cbbb9e0276b7d3a3f2ce52b12",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-75dfbeb6a930d283b7",
       "revision": 1,
       "category": "eco",
@@ -297,32 +300,29 @@
       "context": null
     },
     {
-      "id": "rss-10859f17bb48dbb764",
+      "id": "rss-e173087feea0800763",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "États-Unis : plus de 16.000 vols annulés en deux jours après une panne géante des communications aériennes",
+      "title": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
       "bullets": [
-        "Plus de 16.000 vols sont annulés vendredi et samedi aux États-Unis à la suite de la rarissime suspension des décollages pendant plusieurs heures à cause d’une panne de communication, a indiqué samedi le régulateur américain de l’aviation civile, la FAA.",
-        "«Nous n’avons pas pu reprogrammer 12.000 vols» vendredi, un total comprenant quelque 9000 vols commerciaux et 3000 vols privés, a déclaré le patron de la FAA Bryan Bedford en conférence de presse.",
-        "«Et nous estimons qu’entre 4000 et 5000 des 41.000 vols prévus samedi devraient être annulés», a-t-il ajouté."
+        "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre.",
+        "Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises."
       ],
-      "publishedAt": "2026-11-14T16:44:29+00:00",
-      "updatedAt": "2026-11-14T16:44:29+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-13T18:30:05+00:00",
+      "updatedAt": "2026-11-13T18:30:05+00:00",
+      "importance": 63,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "57f91bc1ba53757aa32e66b2c2080e87d3cd88add977d7f2bec84cafa3326d99",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T16:53:07.025505+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "27c7ebba1f8c51d65e48f568902ccbeef96f021cbbb9e0276b7d3a3f2ce52b12",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -335,9 +335,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-14T17:41:08+00:00",
-      "updatedAt": "2026-11-14T17:41:08+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-14T18:57:18+00:00",
+      "updatedAt": "2026-11-14T18:57:18+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -377,7 +377,7 @@
       "provenance": "article-extract",
       "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T05:59:35.666865+00:00",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
       "context": null
     },
     {
@@ -405,7 +405,7 @@
       "provenance": "article-extract",
       "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T05:59:35.666865+00:00",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
       "context": null
     },
     {
@@ -486,6 +486,33 @@
       "summaryInput": "e92338a929b86e94e477143e56ebeffc9512d785821d1ed6f9b412ae02c7d2b3",
       "detailLevel": "article",
       "enrichedAt": "2026-11-14T11:51:15.916740+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-fe20fb6636b1fb4af5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\"",
+      "bullets": [
+        "Sa rencontre, jeudi, avec Gadi Eisenkot \"n'a fait que renforcer [sa] conviction qu'il est essentiel, à l'heure actuelle, de former un gouvernement d'union nationale\", qui pourra \"garantir la sécurité d'Israël pour de nombreuses années à venir\", a affirmé Benyamin Nétanyahou dans une déclaration vidéo.",
+        "Soutenu par 67 députés à l'issue des législatives du 27 octobre, Gadi Eisenkot dispose de 28 jours, éventuellement prolongés de 14 jours, pour former un gouvernement après un scrutin sans majorité claire."
+      ],
+      "publishedAt": "2026-11-14T18:31:57+00:00",
+      "updatedAt": "2026-11-14T18:31:57+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-elections-benyamin-netanyahou-reaffirme-que-seul-un-gouvernement-d-union-nationale-peut-garantir-la-securite-d-israel_8282762.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "article-extract",
+      "summaryInput": "f25c8b7c8d0295481e5fa7fe879121b818d9ad21588644680216c179cbf0548f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
       "context": null
     },
     {
@@ -640,30 +667,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b7f486d67c122ac166",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : un navire de guerre russe frappé pour la première fois en mer Baltique",
-      "bullets": [
-        "La Finlande et l’Estonie confirment qu’une corvette lance-missiles a été ciblée mercredi matin, vraisemblablement par un drone ukrainien, aux abords d’une île russe située dans le Golfe de Finlande."
-      ],
-      "publishedAt": "2026-11-13T18:37:03+00:00",
-      "updatedAt": "2026-11-13T18:37:03+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-navire-de-guerre-russe-frappe-pour-la-premiere-fois-en-mer-baltique-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "716ff2c616319f812ec3e0d2b0708b03711e28dd7df7f085c3e9eb0e666639da",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-acdce62ed3d2863633",
       "revision": 1,
       "category": "world",
@@ -717,52 +720,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-75e99d3759dc0b513f",
+      "id": "rss-b7f486d67c122ac166",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Laure Mandeville : « En Russie, les automates, les révoltés et les silencieux »",
+      "title": "Guerre en Ukraine : un navire de guerre russe frappé pour la première fois en mer Baltique",
       "bullets": [
-        "ANALYSE - Dans une autocratie poutinienne où le rouleau compresseur de la répression s’abat sur tous ceux qui osent critiquer le pouvoir et la guerre contre l’Ukraine, il n’y a que peu de choix : se soumettre, courir le risque de la révolte, qui mène à la prison, à l’exil…"
+        "La Finlande et l’Estonie confirment qu’une corvette lance-missiles a été ciblée mercredi matin, vraisemblablement par un drone ukrainien, aux abords d’une île russe située dans le Golfe de Finlande."
       ],
-      "publishedAt": "2026-11-12T19:30:00+00:00",
-      "updatedAt": "2026-11-12T19:30:00+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-13T18:37:03+00:00",
+      "updatedAt": "2026-11-13T18:37:03+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/vox/monde/laure-mandeville-en-russie-les-automates-les-revoltes-et-les-silencieux-20261112",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-navire-de-guerre-russe-frappe-pour-la-premiere-fois-en-mer-baltique-20261113",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "853f25066c6460e2079d97db6ccb4c4e8f0229a0cebca72b0c47b83f707b4fcd",
+      "summaryInput": "716ff2c616319f812ec3e0d2b0708b03711e28dd7df7f085c3e9eb0e666639da",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-270196f06ad7e0212d",
-      "revision": 2,
+      "id": "rss-c936a9daee899fc1e8",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+      "title": "Présidentielle 2027 : Gérard Larcher invite les candidats de la droite et du centre à une réunion pour arrêter une « méthode de départage »",
       "bullets": [
-        "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle depuis le salon du Made in France.",
-        "Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays »."
+        "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage."
       ],
-      "publishedAt": "2026-11-14T14:47:45+00:00",
-      "updatedAt": "2026-11-14T14:47:45+00:00",
+      "publishedAt": "2026-11-14T18:16:35+00:00",
+      "updatedAt": "2026-11-14T18:16:35+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
-      "summaryInput": "0e381d763bdd3c53e24fc1b4ba7f87770de9084540f39c1c8c0b55b26f36f231",
+      "summaryInput": "0561b392f776ad17f82ddba7a98d99076fd2cbf526f44cf8459ef590d6231060",
       "detailLevel": "preview"
     },
     {
@@ -978,7 +980,7 @@
       ],
       "publishedAt": "2026-11-13T18:25:58+00:00",
       "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1020,6 +1022,55 @@
       "context": null
     },
     {
+      "id": "rss-bcd059acf655de34df",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
+      "bullets": [
+        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et mises en cause de ses équipes », a réagi la chaîne."
+      ],
+      "publishedAt": "2026-11-14T17:33:12+00:00",
+      "updatedAt": "2026-11-14T17:33:12+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/a-lyon-des-journalistes-de-bfm-tv-agresses-en-marge-de-la-manifestation-la-prefecture-denonce-une-volonte-de-lynchage_6810459_3236.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "24b42100d1052d62642689a2a0a3660668a3718c9b2c0bdea4ec68456c0e19be",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-270196f06ad7e0212d",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+      "bullets": [
+        "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle depuis le salon du Made in France.",
+        "Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays »."
+      ],
+      "publishedAt": "2026-11-14T14:47:45+00:00",
+      "updatedAt": "2026-11-14T14:47:45+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-14",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0e381d763bdd3c53e24fc1b4ba7f87770de9084540f39c1c8c0b55b26f36f231",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-493316254affc9a286",
       "revision": 1,
       "category": "france",
@@ -1042,30 +1093,6 @@
       "verifiedAt": "2026-11-14",
       "provenance": "rss-excerpt",
       "summaryInput": "c04c2c58327b7d3ab17f86cbaed994d0c1314e06993bc4558280f5d1d0c0dd12",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3bb6241b826cfc0dda",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
-      "bullets": [
-        "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et les dermatologues."
-      ],
-      "publishedAt": "2026-11-14T11:36:44+00:00",
-      "updatedAt": "2026-11-14T11:36:44+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0d024aff4d0575328fbef0f90a66c0177dad41a8f2ec58463db213b2531077b8",
       "detailLevel": "preview"
     },
     {
@@ -1117,34 +1144,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a924490981cfef8e906c3600936fd8d7786cbd74db32746e9eb70749d69b7bd3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5b08c3e275ac303278",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "INFO RADIO FRANCE. Les laboratoires concernés par la relocalisation du paracétamol en France réclament une augmentation du prix du médicament, refusée par le gouvernement",
-      "bullets": [
-        "Pour supporter des coûts de fabrication plus élevés garantissant une production 100% française, ces laboratoires réclament une augmentation de sept centimes du prix.",
-        "Des dépenses importantes pour l'ÉtatChaque année, plus de 400 millions de boîtes de Paracétamol sont vendues en France et remboursées aux patients quand ils présentent une ordonnance.",
-        "Au total, cela représente 1% des dépenses de santé de l’Assurance-maladie."
-      ],
-      "publishedAt": "2026-11-13T07:18:52+00:00",
-      "updatedAt": "2026-11-13T07:18:52+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/medicament/info-radio-france-les-laboratoires-concernes-par-la-relocalisation-du-paracetamol-en-france-reclament-une-augmentation-du-prix-du-medicament-refusee-par-le-gouvernement_8280599.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-14",
-      "provenance": "article-extract",
-      "summaryInput": "983e11d291110167105bd133c889ead6585bb709341f9df2acd11d7fcf2e1af5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T15:51:09.361169+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1188,7 +1187,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
