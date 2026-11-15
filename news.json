@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T13:07:19.923051+00:00",
+  "preparedAt": "2026-11-15T14:02:11.921055+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-472ef7a86b14f9112b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
-      "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
-      ],
-      "publishedAt": "2026-11-15T05:15:07+00:00",
-      "updatedAt": "2026-11-15T05:15:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-8fa518f137b633c5c7",
       "revision": 1,
@@ -96,7 +71,7 @@
       ],
       "publishedAt": "2026-11-14T14:00:03+00:00",
       "updatedAt": "2026-11-14T14:00:03+00:00",
-      "importance": 68,
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -193,34 +168,6 @@
       "context": null
     },
     {
-      "id": "rss-ecee759d64e21f35a1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Des milliers de Portugais manifestent contre la crise du logement",
-      "bullets": [
-        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
-        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
-        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
-      ],
-      "publishedAt": "2026-11-14T18:23:08+00:00",
-      "updatedAt": "2026-11-14T18:23:08+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ad7402c9a7bca353e6",
       "revision": 1,
       "category": "eco",
@@ -298,31 +245,83 @@
       "context": null
     },
     {
-      "id": "rss-31d4f9610cc557302c",
+      "id": "rss-16176e6abc56a4c79b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
+      "title": "« Nier les discriminations tout en cultivant les stéréotypes sur lesquels elles prolifèrent, c’est casser le thermomètre en attisant la fièvre »",
       "bullets": [
-        "Les autorités américaines espèrent un retour progressif à la normale du trafic aérien d'ici à dimanche 14 novembre au soir, deux jours après une interruption de plusieurs heures sur tout le territoire qui a entraîné des milliers d'annulations de vols.",
-        "Les perturbations se poursuivent ce week-end, le temps que la désorganisation des équipages et des appareils se résorbe.",
-        "L'administration Trump a imputé l'incident à un remplacement raté d'anciennes lignes de communications en fil de cuivre par de la fibre optique sur des infrastructures liées au contrôle aérien."
+        "Contrairement aux affirmations répétées par le Rassemblement national, l’expérience des discriminations, solidement établie par les sciences, est omniprésente dans notre société, dénonce un collectif de chercheurs dans une tribune au « Monde »."
       ],
-      "publishedAt": "2026-11-15T10:05:14+00:00",
-      "updatedAt": "2026-11-15T10:05:14+00:00",
+      "publishedAt": "2026-11-15T09:49:45+00:00",
+      "updatedAt": "2026-11-15T09:49:45+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nier-les-discriminations-tout-en-cultivant-les-stereotypes-sur-lesquels-elles-proliferent-c-est-casser-le-thermometre-en-attisant-la-fievre_6811003_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "57ff0dc5b70f5d7851dab796704f6b5f837f32374ace21e03cb30c6ac8ca3967",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-430bf0982f141c7b6d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
+      "bullets": [
+        "Sur ces 1,35 million d'agents, 1,1 million ont vu leurs salaires de base rattrapés par la hausse du smic annoncée lundi.",
+        "\"En moyenne, ajoute le ministre, ce sont 350 euros brut par an pour les agents concernés.\"\"Par exemple, pour un caporal sapeur-pompier, septième échelon pour ceux qui sont familiers des questions de la fonction publique, c'est une hausse de 600 euros bruts par an\", détaille David Amiel.",
+        "Vendredi, Sébastien Lecornu avait annoncé ouvrir une discussion d'un mois avec les syndicats portant notamment sur la \"revalorisation des bas salaires\" de la fonction publique."
+      ],
+      "publishedAt": "2026-11-15T08:49:24+00:00",
+      "updatedAt": "2026-11-15T08:49:24+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "75a5b19fcf20c63c08a18c2fd66924288a8e059089e0d376ba6c0a9da794c4ae",
+      "summaryInput": "f89a959dfda2f0febcefa41c00c28f11de990beaf78a38ecd0e04b503c23d9d6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-10859f17bb48dbb764",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "États-Unis : plus de 19.000 vols annulés en trois jours, des câbles vétustes à l’origine des perturbations de vols",
+      "bullets": [
+        "Sur les 41.000 prévus samedi, le site de suivi FlightAware avait enregistré samedi soir plus de 6400 annulations et recensait déjà, aux premières heures de dimanche, plus de 1000 autres pour la journée à venir.",
+        "Demande de financement Hasard du calendrier, c’est à la veille de cet incident que la Maison Blanche a demandé aux parlementaires d’approuver une enveloppe supplémentaire de 30,1 milliards de dollars pour moderniser le système.",
+        "Le président a demandé 30 milliards de dollars."
+      ],
+      "publishedAt": "2026-11-15T08:27:23+00:00",
+      "updatedAt": "2026-11-15T08:27:23+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "11ec837fdab08d121e54e0aced99abf6637905b72b65df5d7f32d89136a3d5cc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
       "context": null
     },
     {
@@ -336,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T13:06:30+00:00",
-      "updatedAt": "2026-11-15T13:06:30+00:00",
+      "publishedAt": "2026-11-15T13:55:23+00:00",
+      "updatedAt": "2026-11-15T13:55:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -462,6 +461,59 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-472ef7a86b14f9112b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "bullets": [
+        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
+        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c20f60b072428996d0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : les États-Unis auraient proposé un retrait ukrainien du Donbass en échange d'une adhésion à l'OTAN",
+      "bullets": [
+        "Malgré presque cinq ans de conflits, l'Ukraine s'est toujours officiellement refusée à l'idée de céder une partie de son territoire à la Russie, peu importe les contreparties, y compris l'une de celles qui lui tiennent le plus à cœur : rejoindre l'OTAN.",
+        "Une proposition qui suscite la réprobation des EuropéensLa proposition américaine, Donbass contre OTAN, a aussi suscité la réprobation des Européens, et notamment de la France.",
+        "Non seulement les Américains ne soutiennent plus l'Ukraine, mais ils ont décidé de l'enfoncer."
+      ],
+      "publishedAt": "2026-11-15T13:10:47+00:00",
+      "updatedAt": "2026-11-15T13:10:47+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-etats-unis-auraient-propose-un-retrait-ukrainien-du-donbass-en-echange-d-une-adhesion-a-l-otan_8283569.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "35e7a692793ab8c79181e8320badf3a4d6b2aa29edb76dbeb721e28ed39c1cd9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
+      "context": null
+    },
+    {
       "id": "rss-17dc14a9e38bc8f3fa",
       "revision": 1,
       "category": "world",
@@ -508,30 +560,6 @@
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
       "summaryInput": "b8ca9d9aea47f7700b78e3fcfaf701f6c1991ae4d6246eaeff5b13d332606302",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f07c099401acd963c7",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
-      "bullets": [
-        "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
-      ],
-      "publishedAt": "2026-11-14T19:33:52+00:00",
-      "updatedAt": "2026-11-14T19:33:52+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "643286d7bff03dcffa8549e18329b65b23601a57e30064cf112f5e4fd9da9bcd",
       "detailLevel": "preview"
     },
     {
@@ -587,32 +615,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3ebb04785aaca051cc",
+      "id": "rss-c65974e78092e37b83",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "L’Arabie saoudite condamne une femme à 100 coups de fouet pour avoir eu un enfant hors mariage",
+      "title": "L’Iran a reconstitué un stock d’environ 2500 missiles, affirme le renseignement américain",
       "bullets": [
-        "Une domestique d’origine kényane a été condamnée le mois dernier à 100 coups de fouet après avoir été reconnue coupable de relations sexuelles hors mariage à la suite de la naissance de son enfant.",
-        "Esther Wanja Muthoni travaillait légalement en Arabie saoudite comme domestique via Maharah Human Resources, une entreprise saoudienne.",
-        "Le New York Times l’avait d’ailleurs interrogée, en 2025, lors d’un reportage sur ces femmes «piégées en Arabie saoudite»."
+        "Les services de renseignement américains estiment que l’Iran dispose de 1500 à 2500 missiles dans son arsenal militaire, révèle le Wall Street Journal .",
+        "Si le président américain a affirmé lundi 9 novembre qu’une reprise de la guerre avec l’Iran était «très improbable», il laisse pour autant toujours planer la perspective d’un retour aux armes.",
+        "«Cela dépend de s’ils signent ou non un accord très solide», a-t-il déclaré dimanche 7 novembre lors d’un entretien avec un journaliste de CNN."
       ],
-      "publishedAt": "2026-11-12T20:29:11+00:00",
-      "updatedAt": "2026-11-12T20:29:11+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-15T13:33:45+00:00",
+      "updatedAt": "2026-11-15T13:33:45+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/l-arabie-saoudite-condamne-une-femme-a-100-coups-de-fouet-pour-avoir-eu-un-enfant-hors-mariage-20261112",
+          "url": "https://www.lefigaro.fr/international/l-iran-a-reconstitue-un-stock-d-environ-2500-missiles-affirme-le-renseignement-americain-20261115",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
+      "summaryInput": "de1a414d7e357ddd48130a6198dbe3d80154a4aa07002a7f6b425b1d6106b8ba",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T10:56:01.497808+00:00",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
       "context": null
+    },
+    {
+      "id": "rss-cdd7627c71e31e1b8c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
+      "bullets": [
+        "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois."
+      ],
+      "publishedAt": "2026-11-15T13:22:32+00:00",
+      "updatedAt": "2026-11-15T13:22:32+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4cb72f5e910973eed3ffb816681d420b5c67821967a503a71d2e3de2c6d18bf4",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-290e0dabfebca2e8c1",
@@ -700,76 +752,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a75078479b38300d28",
+      "id": "rss-f170c362975df9a319",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
-      "bullets": [
-        "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal.",
-        "Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine…"
-      ],
-      "publishedAt": "2026-11-15T05:30:01+00:00",
-      "updatedAt": "2026-11-15T05:30:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4bd3e21691885c3a29afcd4ba831745c26c5f4d4b96bd0395b30a37fa179aff",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-806d5bb6d5baec8ebe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
-      "bullets": [
-        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
-      ],
-      "publishedAt": "2026-11-13T22:44:44+00:00",
-      "updatedAt": "2026-11-13T22:44:44+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2fa339ab85189c98de",
-      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Lucie Castets, maire du XIIᵉ arrondissement de Paris: « L’enjeu central de l’élection de 2027 est de définir qui devra payer l’ardoise du pouvoir sortant »",
+      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
       "bullets": [
-        "La politique économique et budgétaire de la France a été bâtie sur la promesse d’un retour fiscal qui ne s’est jamais matérialisée, fragilisant la crédibilité financière que le gouvernement prétendait défendre, juge la maire (Ecologiste et social) du XIIᵉ arrondissement de Paris, Lucie Castets, dans une tribune au « Monde…"
+        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
       ],
-      "publishedAt": "2026-11-15T09:52:04+00:00",
-      "updatedAt": "2026-11-15T09:52:04+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "d7a076712e4a82081205135a02406b0632b54162cf9c767f8a50aa100c38f99c",
+      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
@@ -874,16 +877,17 @@
     },
     {
       "id": "rss-5497cdf8e7843cadb5",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Attentat raciste à Trappes : Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
+      "title": "Après l'attentat raciste à Trappes, Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
       "bullets": [
         "La députée écologiste Sandrine Rousseau, dont le nom figurait avec celui de trois autres personnalités de gauche sur une liste dressée par l'auteur de l'attentat de Trappes (Yvelines), a accusé dimanche 15 novembre le ministère de l'Intérieur de \"sous-estimer de manière structurelle\" la \"menace venant de l'extrême droite\".",
-        "Kévin Tessier, qui a abattu Pengo Bossio Wangi et blessé sept autres personnes le 3 octobre à Trappes, était mû par \"le racisme\", avait dénoncé le ministre de l'Intérieur Laurent Nuñez, Emmanuel Macron mettant en cause le Rassemblement national dans une certaine \"désinhibition du racisme\"."
+        "Selon le parquet national antiterroriste (Pnat), \"aucun élément\" n'étaye dans l'enquête \"l'existence d'un projet d'action violente\" à l'encontre des personnalités qui figuraient sur cette liste.",
+        "Sandrine Rousseau a annoncé, via son avocat Thibault Laforcade, qu'elle allait déposer plainte pour que la justice ouvre une enquête."
       ],
-      "publishedAt": "2026-11-15T12:53:20+00:00",
-      "updatedAt": "2026-11-15T12:53:20+00:00",
+      "publishedAt": "2026-11-15T13:56:47+00:00",
+      "updatedAt": "2026-11-15T13:56:47+00:00",
       "importance": 73,
       "sources": [
         {
@@ -894,9 +898,9 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "472d8dbe2d6622f5595031e8e2d57ff1d24c63104e90323594635f0d3d9ca90a",
+      "summaryInput": "a026d304a0b89edcdbf77a98f10886de4d689a43a6cda6be1f0bd0d0dad248a2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
       "context": null
     },
     {
@@ -949,32 +953,8 @@
       "provenance": "article-extract",
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T01:22:04.010015+00:00",
+      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
       "context": null
-    },
-    {
-      "id": "rss-f170c362975df9a319",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
-      "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
-      ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-2a92e00355c18a3ea4",
@@ -1101,6 +1081,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bcd059acf655de34df",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
+      "bullets": [
+        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et mises en cause de ses équipes », a réagi la chaîne."
+      ],
+      "publishedAt": "2026-11-14T17:33:12+00:00",
+      "updatedAt": "2026-11-14T17:33:12+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/a-lyon-des-journalistes-de-bfm-tv-agresses-en-marge-de-la-manifestation-la-prefecture-denonce-une-volonte-de-lynchage_6810459_3236.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "24b42100d1052d62642689a2a0a3660668a3718c9b2c0bdea4ec68456c0e19be",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7129612726cd225260",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "40 affirmations-chocs des candidats à la présidentielle de 2027 et de leurs soutiens fact-checkées",
+      "bullets": [
+        "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles."
+      ],
+      "publishedAt": "2026-11-15T13:19:59+00:00",
+      "updatedAt": "2026-11-15T13:19:59+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bb3bf3aebf9a6edfd8898f798198e9e900f99cc2026d644acc33250169eb7f8d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e219f2a1cb0bf0bf94",
       "revision": 1,
       "category": "france",
@@ -1127,31 +1155,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
       "context": null
-    },
-    {
-      "id": "rss-db11aed0ad0cfc6513",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
-      "bullets": [
-        "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer.",
-        "Il s’est lancé dans un nouveau tour de France pour essayer de renverser les sondages et les critiques sur le manque d’enthousiasme de sa campagne."
-      ],
-      "publishedAt": "2026-11-15T04:30:08+00:00",
-      "updatedAt": "2026-11-15T04:30:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c6a74bfc7d79fc6639e3575e1d9af191c1584f26592e643d7ae27c237ff749ba",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
