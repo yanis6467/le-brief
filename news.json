@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T14:54:47.024982+00:00",
+  "preparedAt": "2026-11-15T15:52:09.824645+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-472ef7a86b14f9112b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "bullets": [
+        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
+        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-518833bf6d63eca968",
       "revision": 1,
@@ -248,6 +273,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-da856f51342f316bbd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« L’objectif de Pékin n’est pas seulement l’autosuffisance, c’est la dépendance des autres pays »",
+      "bullets": [
+        "La Chine fait tout pour que le reste du monde n’apprenne pas à se passer d’elle.",
+        "L’Europe et la France peuvent encore déjouer cette stratégie, à condition de sortir de leur aveuglement, estime la politiste Elvire Fabry dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-15T13:00:05+00:00",
+      "updatedAt": "2026-11-15T13:00:05+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/l-objectif-de-pekin-n-est-pas-seulement-l-autosuffisance-c-est-la-dependance-des-autres-pays_6811017_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "01beda913c6bd4f6f4399807ce8c5908bd59e469792f98b144eb6f97ceb5dab3",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-31d4f9610cc557302c",
       "revision": 1,
       "category": "eco",
@@ -276,58 +326,6 @@
       "context": null
     },
     {
-      "id": "rss-16176e6abc56a4c79b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Nier les discriminations tout en cultivant les stéréotypes sur lesquels elles prolifèrent, c’est casser le thermomètre en attisant la fièvre »",
-      "bullets": [
-        "Contrairement aux affirmations répétées par le Rassemblement national, l’expérience des discriminations, solidement établie par les sciences, est omniprésente dans notre société, dénonce un collectif de chercheurs dans une tribune au « Monde »."
-      ],
-      "publishedAt": "2026-11-15T09:49:45+00:00",
-      "updatedAt": "2026-11-15T09:49:45+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nier-les-discriminations-tout-en-cultivant-les-stereotypes-sur-lesquels-elles-proliferent-c-est-casser-le-thermometre-en-attisant-la-fievre_6811003_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "57ff0dc5b70f5d7851dab796704f6b5f837f32374ace21e03cb30c6ac8ca3967",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-430bf0982f141c7b6d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
-      "bullets": [
-        "Sur ces 1,35 million d'agents, 1,1 million ont vu leurs salaires de base rattrapés par la hausse du smic annoncée lundi.",
-        "\"En moyenne, ajoute le ministre, ce sont 350 euros brut par an pour les agents concernés.\"\"Par exemple, pour un caporal sapeur-pompier, septième échelon pour ceux qui sont familiers des questions de la fonction publique, c'est une hausse de 600 euros bruts par an\", détaille David Amiel.",
-        "Vendredi, Sébastien Lecornu avait annoncé ouvrir une discussion d'un mois avec les syndicats portant notamment sur la \"revalorisation des bas salaires\" de la fonction publique."
-      ],
-      "publishedAt": "2026-11-15T08:49:24+00:00",
-      "updatedAt": "2026-11-15T08:49:24+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "f89a959dfda2f0febcefa41c00c28f11de990beaf78a38ecd0e04b503c23d9d6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -338,8 +336,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T14:50:06+00:00",
-      "updatedAt": "2026-11-15T14:50:06+00:00",
+      "publishedAt": "2026-11-15T15:45:06+00:00",
+      "updatedAt": "2026-11-15T15:45:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -352,7 +350,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T02:59:00.351261+00:00",
+      "enrichedAt": "2026-11-15T15:52:09.824645+00:00",
       "context": null
     },
     {
@@ -436,31 +434,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-472ef7a86b14f9112b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
-      "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
-      ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c20f60b072428996d0",
       "revision": 1,
       "category": "world",
@@ -500,7 +473,7 @@
       ],
       "publishedAt": "2026-11-15T03:22:56+00:00",
       "updatedAt": "2026-11-15T03:22:56+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -548,7 +521,7 @@
       ],
       "publishedAt": "2026-11-13T15:15:00+00:00",
       "updatedAt": "2026-11-13T15:15:00+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -572,8 +545,8 @@
         "Si le président américain a affirmé lundi 9 novembre qu’une reprise de la guerre avec l’Iran était «très improbable», il laisse pour autant toujours planer la perspective d’un retour aux armes.",
         "«Cela dépend de s’ils signent ou non un accord très solide», a-t-il déclaré dimanche 7 novembre lors d’un entretien avec un journaliste de CNN."
       ],
-      "publishedAt": "2026-11-15T13:33:45+00:00",
-      "updatedAt": "2026-11-15T13:33:45+00:00",
+      "publishedAt": "2026-11-15T15:06:33+00:00",
+      "updatedAt": "2026-11-15T15:06:33+00:00",
       "importance": 67,
       "sources": [
         {
@@ -724,6 +697,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-812ae8f2d2659c77e0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Yémen : les forces gouvernementales redéploient leurs troupes des environs du détroit de Bab Al-Mandab vers Aden, menacée par les houthistes",
+      "bullets": [
+        "Le retrait des troupes gouvernementales de la région de Bab Al-Mandab va permettre aux houthistes de consolider leur contrôle de ce détroit stratégique qui relie l’Asie à l’Europe via le canal de Suez.",
+        "Ils y avaient déjà renforcé leur emprise en prenant tout le littoral ouest à l’issue d’une offensive…"
+      ],
+      "publishedAt": "2026-11-15T15:33:16+00:00",
+      "updatedAt": "2026-11-15T15:33:16+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/15/yemen-les-forces-gouvernementales-redeploient-leurs-troupes-des-environs-du-detroit-de-bab-el-mandeb-vers-aden-menacee-par-les-houthistes_6811027_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "04526c0d27d6cab23dde9f837297de345fa78bdb086c6f2c52c1d264e9d4536b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f170c362975df9a319",
       "revision": 1,
       "category": "france",
@@ -797,14 +795,14 @@
     },
     {
       "id": "rss-bab4d75cf1e2283785",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Santé",
       "title": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
       "bullets": [
-        "Les candidats à la présidentielle face à “Nos services publics”.",
         "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
-        "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France"
+        "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France",
+        "Maileva, une filiale du groupe La Poste victime d'un vol de données touchant 22 millions de personnes"
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
@@ -820,31 +818,31 @@
       "provenance": "article-extract",
       "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T02:59:00.351261+00:00",
+      "enrichedAt": "2026-11-15T15:52:09.824645+00:00",
       "context": null
     },
     {
-      "id": "rss-ee4d94db1ea3b66637",
+      "id": "rss-ece63d1d2af47d6a83",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux",
+      "title": "La lente dérive terroriste de Kevin Tessier, l’auteur de l’attentat de Trappes, vue par ses proches : « Il s’énervait devant la télé, avec des insultes racistes »",
       "bullets": [
-        "Le président du Rassemblement national avait déjà déposé une plainte pour diffamation contre le site d’investigation « Mediapart »."
+        "Les auditions de ses parents et d’un ami, dont « Le Monde » a pris connaissance, racontent la radicalisation du tueur, entre enfance perturbée, fragilités psychologiques, obsessions racistes liées à l’actualité et altercations violentes."
       ],
-      "publishedAt": "2026-11-12T12:23:02+00:00",
-      "updatedAt": "2026-11-12T12:23:02+00:00",
-      "importance": 53,
+      "publishedAt": "2026-11-13T18:00:13+00:00",
+      "updatedAt": "2026-11-13T18:00:13+00:00",
+      "importance": 52,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/13/la-lente-derive-terroriste-de-kevin-tessier-l-auteur-de-l-attentat-de-trappes-vue-par-ses-proches-il-s-enervait-devant-la-tele-avec-des-insultes-racistes_6809375_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "28629c5a71a23b00d8d484c1b6a6555c2552884f5d6c7f2bb3218c1baa0e2e60",
+      "summaryInput": "a4731586bd4a766f453c64cde649951dd0612598cc64abdf631a487c039c9c7b",
       "detailLevel": "preview"
     },
     {
@@ -1005,6 +1003,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-86d516e3142189e053",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+      "bullets": [
+        "Dimanche, l’une des journalistes de l’équipe visée a dit avoir « réellement craint pour [leurs] vies ». « Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a-t-elle rapporté. Samedi, la direction de BFM-TV avait condamné « ces attaques…"
+      ],
+      "publishedAt": "2026-11-15T15:30:19+00:00",
+      "updatedAt": "2026-11-15T15:30:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "59cf6e185857155ea851d2cbf02391ee9a4ac47e76916787ddc21dd0a1921128",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-3e5c9bc07a6d11b29a",
       "revision": 3,
       "category": "france",
@@ -1054,12 +1076,12 @@
     },
     {
       "id": "rss-bcd059acf655de34df",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
       "title": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
       "bullets": [
-        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et mises en cause de ses équipes », a réagi la chaîne."
+        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et [ces] mises en cause de ses équipes », a réagi la chaîne."
       ],
       "publishedAt": "2026-11-14T17:33:12+00:00",
       "updatedAt": "2026-11-14T17:33:12+00:00",
@@ -1073,7 +1095,7 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "24b42100d1052d62642689a2a0a3660668a3718c9b2c0bdea4ec68456c0e19be",
+      "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
       "detailLevel": "preview"
     },
     {
@@ -1099,34 +1121,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "bb3bf3aebf9a6edfd8898f798198e9e900f99cc2026d644acc33250169eb7f8d",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e219f2a1cb0bf0bf94",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Le gouvernement interdit temporairement la vente de mortiers d'artifice",
-      "bullets": [
-        "Une pratique qui s'est généralisée ces derniers mois et conduit le gouvernement à en interdire la vente jusqu'au 27 novembre.",
-        "Le risque perforant, c'est méconnu : à moins de 50 mètres, cet engin va vous perforer un mannequin humain, plus dangereux que le lanceur de balles de défense.\"Jusqu'à présent, ces feux d'artifice étaient autorisés à la vente aux personnes majeures, à condition de ne pas les utiliser sur la voie publique.",
-        "Cette interdiction est en vigueur jusqu'au 27 novembre afin de couvrir les deux prochaines journées d'action."
-      ],
-      "publishedAt": "2026-11-15T12:54:18+00:00",
-      "updatedAt": "2026-11-15T12:54:18+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-temporairement-la-vente-de-mortiers-d-artifice_8283545.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "74350630d79a2638bcd2403c659767ed64900b1559c7de109e4837c1e6bce33d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1194,7 +1188,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
