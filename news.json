@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T18:58:31.390232+00:00",
+  "preparedAt": "2026-11-15T19:53:47.423107+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -161,6 +161,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7d8f37ba353c7089c1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+      "bullets": [
+        "Et les revendications que l'on porte, ne sont pas de la semaine dernière.",
+        "\"Depuis 2017, l'inflation a été de 3 à 4 fois plus élevé que l'augmentation du point d'indice des agents\", donc \"toutes les catégories sont touchées par une baisse de leur pouvoir d'achat\".",
+        "À moins de six mois du premier tour de l'élection présidentielle le dimanche 18 avril 2027 elle \"espère que les candidats entendent les revendications qui sont portées par les représentants des agents publics et qui sont aussi pour la sauvegarde de notre service public\", détaille Laure Revel."
+      ],
+      "publishedAt": "2026-11-15T19:44:28+00:00",
+      "updatedAt": "2026-11-15T19:44:28+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "184862a6c15cce41dce324e68bfe34c170eccf85cc91da2bb89a74508f777faf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T19:53:47.423107+00:00",
+      "context": null
+    },
+    {
       "id": "rss-272685107888fe2691",
       "revision": 1,
       "category": "eco",
@@ -257,7 +285,7 @@
       ],
       "publishedAt": "2026-11-14T19:08:49+00:00",
       "updatedAt": "2026-11-14T19:08:49+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -301,31 +329,6 @@
       "context": null
     },
     {
-      "id": "rss-e173087feea0800763",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
-      "bullets": [
-        "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre.",
-        "Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises."
-      ],
-      "publishedAt": "2026-11-13T18:30:05+00:00",
-      "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 61,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27c7ebba1f8c51d65e48f568902ccbeef96f021cbbb9e0276b7d3a3f2ce52b12",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -336,8 +339,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T18:54:44+00:00",
-      "updatedAt": "2026-11-15T18:54:44+00:00",
+      "publishedAt": "2026-11-15T19:46:48+00:00",
+      "updatedAt": "2026-11-15T19:46:48+00:00",
       "importance": 69,
       "sources": [
         {
@@ -406,7 +409,7 @@
       "provenance": "article-extract",
       "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
+      "enrichedAt": "2026-11-15T19:53:47.423107+00:00",
       "context": null
     },
     {
@@ -444,8 +447,8 @@
         "Je m'explique : on a cette guerre en Ukraine qui ne concerne pas seulement l'avenir des Ukrainiens, mais aussi celui de la paix, de la démocratie en Europe et de la liberté, en réalité, puisque Vladimir Poutine ne s'arrêtera pas à l'Ukraine.",
         "Vous, présidente, vous augmentez l'aide financière de la France à l'Ukraine ?"
       ],
-      "publishedAt": "2026-11-15T18:19:50+00:00",
-      "updatedAt": "2026-11-15T18:19:50+00:00",
+      "publishedAt": "2026-11-15T19:02:15+00:00",
+      "updatedAt": "2026-11-15T19:02:15+00:00",
       "importance": 93,
       "sources": [
         {
@@ -566,15 +569,15 @@
     },
     {
       "id": "rss-871b45ff54c342e8cf",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "« Les Américains nous avaient donné un faux espoir » : Au Venezuela, le régime chaviste toujours en place malgré le retour de l’opposante Machado",
+      "title": "« Les Américains nous avaient donné un faux espoir » : au Venezuela, le régime chaviste toujours en place malgré le retour de l’opposante Machado",
       "bullets": [
         "DÉCRYPTAGE - Les États-Unis, qui ont capturé Nicolás Maduro en janvier, ont accru leur influence sur les décisions du pays, sans mettre à bas le régime."
       ],
-      "publishedAt": "2026-11-15T18:45:00+00:00",
-      "updatedAt": "2026-11-15T18:45:00+00:00",
+      "publishedAt": "2026-11-15T18:55:17+00:00",
+      "updatedAt": "2026-11-15T18:55:17+00:00",
       "importance": 67,
       "sources": [
         {
@@ -585,7 +588,7 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "a4846b6d8d3c6361e29660c01542bc3821f869c7923e588745d13fde4f78bc34",
+      "summaryInput": "fdd7de166bf7125fa28162c204e8a357d89f9f3bb515b0a9d08ed1a1dbec4d48",
       "detailLevel": "preview"
     },
     {
@@ -1143,7 +1146,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Franceinfo",
@@ -1155,7 +1158,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
