@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T06:01:57.940556+00:00",
+  "preparedAt": "2026-11-15T07:19:22.562679+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -188,58 +188,6 @@
       "context": null
     },
     {
-      "id": "rss-ecee759d64e21f35a1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Des milliers de Portugais manifestent contre la crise du logement",
-      "bullets": [
-        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
-        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
-        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
-      ],
-      "publishedAt": "2026-11-14T18:23:08+00:00",
-      "updatedAt": "2026-11-14T18:23:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ad7402c9a7bca353e6",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« L’enjeu est d’être positionné le jour où la guerre s’arrêtera » : à Varsovie, ces patrons français qui misent sur la crise en Ukraine",
-      "bullets": [
-        "REPORTAGE - La sixième édition de Rebuild Ukraine s’est tenue dans la capitale polonaise du 12 au 13 novembre. Les pavillons du monde entier se mobilisent pour investir dans la reconstruction du pays. La France est venue en force."
-      ],
-      "publishedAt": "2026-11-13T19:15:00+00:00",
-      "updatedAt": "2026-11-13T19:15:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/l-enjeu-est-d-etre-positionne-le-jour-ou-la-guerre-s-arretera-a-varsovie-ces-patrons-francais-qui-misent-sur-la-crise-en-ukraine-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d404fd4538b1985fea43e33a8327dd7a13e65f71c568f4483a0e61e13490fbf3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-b7f2ef76a732ff0e3b",
       "revision": 1,
       "category": "eco",
@@ -268,31 +216,55 @@
       "context": null
     },
     {
-      "id": "rss-ece1e2e09951cec8ef",
+      "id": "rss-ad7402c9a7bca353e6",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Made in France : quand la présidentielle s'invite au salon",
+      "title": "« L’enjeu est d’être positionné le jour où la guerre s’arrêtera » : à Varsovie, ces patrons français qui misent sur la crise en Ukraine",
       "bullets": [
-        "La commande publique, c'est 200 milliards d'euros par an.",
-        "Éric Zemmour veut s'inspirer de Donald TrumpLa croissance économique, au cœur des préoccupations des Français dans un récent sondage, 89 % des personnes interrogées estiment que produire davantage de biens dans l'Hexagone doit être une priorité du prochain quinquennat.",
-        "Par rapport à la concurrence chinoise qui est déloyale, je le répète, il faut une véritable protection avec des droits de douane importants, de l'ordre de 50 % par exemple pour l'automobile ou de 100 % pour le textile."
+        "REPORTAGE - La sixième édition de Rebuild Ukraine s’est tenue dans la capitale polonaise du 12 au 13 novembre. Les pavillons du monde entier se mobilisent pour investir dans la reconstruction du pays. La France est venue en force."
       ],
-      "publishedAt": "2026-11-14T07:32:15+00:00",
-      "updatedAt": "2026-11-14T07:32:15+00:00",
+      "publishedAt": "2026-11-13T19:15:00+00:00",
+      "updatedAt": "2026-11-13T19:15:00+00:00",
       "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/industrie/made-in-france-quand-la-presidentielle-s-invite-au-salon_8282180.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/l-enjeu-est-d-etre-positionne-le-jour-ou-la-guerre-s-arretera-a-varsovie-ces-patrons-francais-qui-misent-sur-la-crise-en-ukraine-20261113",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d404fd4538b1985fea43e33a8327dd7a13e65f71c568f4483a0e61e13490fbf3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-75dfbeb6a930d283b7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Nous sommes très paranoïaques» : à quelques jours de son entrée en Bourse, le patron d’Anthropic défend sa priorité donnée à la sécurité de l’IA",
+      "bullets": [
+        "Le concepteur de l'assistant Claude a fixé mardi une fourchette de 70 à 78 dollars par action pour ses débuts au Nasdaq, attendus jeudi sous le symbole «ANT».",
+        "Au plus haut, l'opération lèverait jusqu'à 64 milliards de dollars et valoriserait l'entreprise à quelque 1400 milliards, loin des 2000 milliards évoqués jusqu'au début de l'automne.",
+        "L'opération intervient à un moment délicat pour le secteur, dont les titres font le yo-yo en Bourse en raison de doutes croissants sur la rentabilité des sommes colossales investies dans l'IA."
+      ],
+      "publishedAt": "2026-11-14T11:28:02+00:00",
+      "updatedAt": "2026-11-14T11:28:02+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/nous-sommes-tres-paranoiaques-a-quelques-jours-de-son-entree-en-bourse-le-patron-d-anthropic-defend-sa-priorite-donnee-a-la-securite-de-l-ia-20261114",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "932f72e16d9f4799ec8d6d4a102b24862098e412bc56babda9335e3cff7b8ea9",
+      "summaryInput": "9f4f32c1dbc127fb5978318634af188a6e03389c10923245517255b465fc94a4",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T20:51:05.092761+00:00",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
       "context": null
     },
     {
@@ -307,7 +279,7 @@
       ],
       "publishedAt": "2026-11-13T18:30:05+00:00",
       "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -321,6 +293,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-a6eb5efead92018aab",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On n'en est pas encore là\" : les vins de de Bourgogne résistent mieux à la crise grâce à ses exportations",
+      "bullets": [
+        "La 166e vente des Hospices de Beaune a lieu, dimanche 15 novembre, dans la ville de Côte-d'Or.",
+        "Avec ses 166 millions de bouteilles vendues sur les douze derniers mois, les vins de Bourgogne résistent.",
+        "Face à un tel contexte, la baisse de 0,7% des ventes des vins de Bourgogne n'alerte pas outre mesure Baptiste Guyot, viticulteur à Beaune : \"Une partie de la Bourgogne subit quand même beaucoup moins la crise par rapport aux autres secteurs nationaux où on parle d'arrachage ou autre."
+      ],
+      "publishedAt": "2026-11-15T06:47:07+00:00",
+      "updatedAt": "2026-11-15T06:47:07+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/on-n-en-est-pas-encore-la-les-vins-de-de-bourgogne-resistent-mieux-a-la-crise-grace-a-ses-exportations_8282870.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "ff97107750f8a65a7dfb59ebfe0c21ea801c98352beebc2160276f2ecbe42b1e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T05:53:22+00:00",
-      "updatedAt": "2026-11-15T05:53:22+00:00",
+      "publishedAt": "2026-11-15T07:13:42+00:00",
+      "updatedAt": "2026-11-15T07:13:42+00:00",
       "importance": 69,
       "sources": [
         {
@@ -373,7 +373,7 @@
       "provenance": "article-extract",
       "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
       "context": null
     },
     {
@@ -401,7 +401,7 @@
       "provenance": "article-extract",
       "summaryInput": "3dd10da07c3e2aa65eb4a6f6ceece82114ee2f5fd634164e2c32fa3d8df8532f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
       "context": null
     },
     {
@@ -436,7 +436,7 @@
       "id": "rss-8f23cd4d44647e0264",
       "revision": 1,
       "category": "world",
-      "topic": "Politique",
+      "topic": "International",
       "title": "« Les élections au Brésil, aux Etats-Unis et en Israël ont vu la défaite des partis qui ont misé sur la provocation sur les réseaux sociaux »",
       "bullets": [
         "Si les récentes campagnes électorales ont vu la multiplication d’attaques en ligne et de contenus générés par IA, les résultats électoraux ont démontré que tout l’activisme du monde sur les réseaux ne compense pas un mauvais programme ou un bilan catastrophique, observe, dans sa chronique, Damien Leloup, journaliste au service…"
@@ -555,17 +555,18 @@
     },
     {
       "id": "rss-fe20fb6636b1fb4af5",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\"",
       "bullets": [
         "Sa rencontre, jeudi, avec Gadi Eisenkot \"n'a fait que renforcer [sa] conviction qu'il est essentiel, à l'heure actuelle, de former un gouvernement d'union nationale\", qui pourra \"garantir la sécurité d'Israël pour de nombreuses années à venir\", a affirmé Benyamin Nétanyahou dans une déclaration vidéo.",
-        "Soutenu par 67 députés à l'issue des législatives du 27 octobre, Gadi Eisenkot dispose de 28 jours, éventuellement prolongés de 14 jours, pour former un gouvernement après un scrutin sans majorité claire."
+        "Soutenu par 67 députés à l'issue des législatives du 27 octobre, Gadi Eisenkot dispose de 28 jours, éventuellement prolongés de 14 jours, pour former un gouvernement après un scrutin sans majorité claire.",
+        "\"Bien essayé, mais ces ruses ne prennent pas avec moi\", a-t-il ajouté."
       ],
       "publishedAt": "2026-11-14T19:05:38+00:00",
       "updatedAt": "2026-11-14T19:05:38+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -577,7 +578,7 @@
       "provenance": "article-extract",
       "summaryInput": "f25c8b7c8d0295481e5fa7fe879121b818d9ad21588644680216c179cbf0548f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T18:57:17.838949+00:00",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
       "context": null
     },
     {
@@ -633,6 +634,39 @@
       "context": null
     },
     {
+      "id": "rss-e77982ac94c75161cd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Iran revendique une attaque de drones contre une base américaine au Bahreïn",
+      "bullets": [
+        "Des explosions ont retenti dimanche 15 novembre au matin à Bahreïn, l'Iran affirmant avoir attaqué avec des drones une base américaine dans ce pays du Golfe régulièrement pris pour cible depuis le début de la guerre au Moyen-Orient.",
+        "Selon une journaliste de l'AFP, des sirènes d'alarme ont retenti tandis que les autorités ont publié plusieurs messages d'alerte sur les réseaux sociaux.",
+        "Vendredi, les Gardiens avaient déjà revendiqué une attaque contre un système de radar américain à Bahreïn, première frappe contre un pays du Golfe depuis début septembre."
+      ],
+      "publishedAt": "2026-11-15T06:56:08+00:00",
+      "updatedAt": "2026-11-15T06:56:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html",
+          "access": "public"
+        },
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "6a2f3c0020bcc757c8b733d5643752195d781c2eac9e573bd23622b482f5af7d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
+      "context": null
+    },
+    {
       "id": "rss-a75078479b38300d28",
       "revision": 1,
       "category": "world",
@@ -642,8 +676,8 @@
         "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal.",
         "Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine…"
       ],
-      "publishedAt": "2026-11-15T05:30:12+00:00",
-      "updatedAt": "2026-11-15T05:30:12+00:00",
+      "publishedAt": "2026-11-15T05:30:01+00:00",
+      "updatedAt": "2026-11-15T05:30:01+00:00",
       "importance": 67,
       "sources": [
         {
@@ -655,31 +689,6 @@
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
       "summaryInput": "d4bd3e21691885c3a29afcd4ba831745c26c5f4d4b96bd0395b30a37fa179aff",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2d8593e4b21acf20b5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Mikhaïl Epstein, philosophe : « Le bolchevisme voulait hâter la fin heureuse de l’histoire, le poutinisme en précipite la fin catastrophique »",
-      "bullets": [
-        "Dans un entretien au « Monde », le philosophe et philologue russo-américain analyse les ressorts culturels et psychologiques de la guerre de la Russie contre l’Ukraine.",
-        "Du rapport contradictoire avec l’Occident, à la fois inspirateur et ennemi, à la relative adhésion populaire à la rhétorique du Kremlin, Mikhaïl Epstein décrit…"
-      ],
-      "publishedAt": "2026-11-14T16:00:10+00:00",
-      "updatedAt": "2026-11-14T16:00:10+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/mikhail-epstein-philosophe-le-bolchevisme-voulait-hater-la-fin-heureuse-de-l-histoire-le-poutinisme-en-precipite-la-fin-catastrophique_6810446_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7eca854774e39ca0fc9f34fd4c775774e64919b5f2a3b6e3e9bc3f7a522e8a34",
       "detailLevel": "preview"
     },
     {
@@ -707,28 +716,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b7f486d67c122ac166",
+      "id": "rss-ecee759d64e21f35a1",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : un navire de guerre russe frappé pour la première fois en mer Baltique",
+      "title": "Des milliers de Portugais manifestent contre la crise du logement",
       "bullets": [
-        "La Finlande et l’Estonie confirment qu’une corvette lance-missiles a été ciblée mercredi matin, vraisemblablement par un drone ukrainien, aux abords d’une île russe située dans le Golfe de Finlande."
+        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
+        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
+        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
       ],
-      "publishedAt": "2026-11-13T18:37:03+00:00",
-      "updatedAt": "2026-11-13T18:37:03+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-14T18:23:08+00:00",
+      "updatedAt": "2026-11-14T18:23:08+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-navire-de-guerre-russe-frappe-pour-la-premiere-fois-en-mer-baltique-20261113",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "716ff2c616319f812ec3e0d2b0708b03711e28dd7df7f085c3e9eb0e666639da",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T07:19:22.562679+00:00",
+      "context": null
     },
     {
       "id": "rss-db11aed0ad0cfc6513",
@@ -740,8 +753,8 @@
         "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer.",
         "Il s’est lancé dans un nouveau tour de France pour essayer de contrer les sondages et les critiques sur le manque d’enthousiasme de sa campagne."
       ],
-      "publishedAt": "2026-11-15T04:30:14+00:00",
-      "updatedAt": "2026-11-15T04:30:14+00:00",
+      "publishedAt": "2026-11-15T04:30:08+00:00",
+      "updatedAt": "2026-11-15T04:30:08+00:00",
       "importance": 65,
       "sources": [
         {
@@ -944,7 +957,7 @@
       ],
       "publishedAt": "2026-11-13T18:25:58+00:00",
       "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1068,8 +1081,8 @@
         "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences.",
         "Au milieu d’une forêt de micros et caméras, le tout récent candidat a tenu à se démarquer du « macronisme »."
       ],
-      "publishedAt": "2026-11-15T04:15:02+00:00",
-      "updatedAt": "2026-11-15T04:15:02+00:00",
+      "publishedAt": "2026-11-15T04:15:01+00:00",
+      "updatedAt": "2026-11-15T04:15:01+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1119,7 +1132,7 @@
       ],
       "publishedAt": "2026-11-14T18:16:35+00:00",
       "updatedAt": "2026-11-14T18:16:35+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1210,7 +1223,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
