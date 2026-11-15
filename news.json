@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T11:53:12.678306+00:00",
+  "preparedAt": "2026-11-15T13:07:19.923051+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -193,6 +193,34 @@
       "context": null
     },
     {
+      "id": "rss-ecee759d64e21f35a1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Des milliers de Portugais manifestent contre la crise du logement",
+      "bullets": [
+        "Des milliers de personnes ont défilé, samedi 14 novembre, dans les rues de Lisbonne et d'une trentaine d'autres villes pour protester contre la crise du logement.",
+        "\"Baissez les loyers, augmentez les salaires\", ont notamment crié les manifestants dans la capitale portugaise.",
+        "Un projet de réforme pour accélérer les expulsions de locatairesCette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires."
+      ],
+      "publishedAt": "2026-11-14T18:23:08+00:00",
+      "updatedAt": "2026-11-14T18:23:08+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "e5cafaac59c2b70dbad9844638e7c36a1f4af5eac3f64acdd3b78018557e10ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ad7402c9a7bca353e6",
       "revision": 1,
       "category": "eco",
@@ -270,55 +298,31 @@
       "context": null
     },
     {
-      "id": "rss-16176e6abc56a4c79b",
+      "id": "rss-31d4f9610cc557302c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« Nier les discriminations tout en cultivant les stéréotypes sur lesquels elles prolifèrent, c’est casser le thermomètre en attisant la fièvre »",
+      "title": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
       "bullets": [
-        "Contrairement aux affirmations répétées par le Rassemblement national, l’expérience des discriminations, solidement établie par les sciences, est omniprésente dans notre société, dénonce un collectif de chercheurs dans une tribune au « Monde »."
+        "Les autorités américaines espèrent un retour progressif à la normale du trafic aérien d'ici à dimanche 14 novembre au soir, deux jours après une interruption de plusieurs heures sur tout le territoire qui a entraîné des milliers d'annulations de vols.",
+        "Les perturbations se poursuivent ce week-end, le temps que la désorganisation des équipages et des appareils se résorbe.",
+        "L'administration Trump a imputé l'incident à un remplacement raté d'anciennes lignes de communications en fil de cuivre par de la fibre optique sur des infrastructures liées au contrôle aérien."
       ],
-      "publishedAt": "2026-11-15T09:49:47+00:00",
-      "updatedAt": "2026-11-15T09:49:47+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nier-les-discriminations-tout-en-cultivant-les-stereotypes-sur-lesquels-elles-proliferent-c-est-casser-le-thermometre-en-attisant-la-fievre_6811003_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "57ff0dc5b70f5d7851dab796704f6b5f837f32374ace21e03cb30c6ac8ca3967",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-430bf0982f141c7b6d",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
-      "bullets": [
-        "Sur ces 1,35 million d'agents, 1,1 million ont vu leurs salaires de base rattrapés par la hausse du smic annoncée lundi.",
-        "\"En moyenne, ajoute le ministre, ce sont 350 euros brut par an pour les agents concernés.\"\"Par exemple, pour un caporal sapeur-pompier, septième échelon pour ceux qui sont familiers des questions de la fonction publique, c'est une hausse de 600 euros bruts par an\", détaille David Amiel.",
-        "Vendredi, Sébastien Lecornu avait annoncé ouvrir une discussion d'un mois avec les syndicats portant notamment sur la \"revalorisation des bas salaires\" de la fonction publique."
-      ],
-      "publishedAt": "2026-11-15T08:49:24+00:00",
-      "updatedAt": "2026-11-15T08:49:24+00:00",
+      "publishedAt": "2026-11-15T10:05:14+00:00",
+      "updatedAt": "2026-11-15T10:05:14+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html",
+          "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "f89a959dfda2f0febcefa41c00c28f11de990beaf78a38ecd0e04b503c23d9d6",
+      "summaryInput": "75a5b19fcf20c63c08a18c2fd66924288a8e059089e0d376ba6c0a9da794c4ae",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T09:57:30.859671+00:00",
+      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
       "context": null
     },
     {
@@ -332,9 +336,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T11:53:13+00:00",
-      "updatedAt": "2026-11-15T11:53:13+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-15T13:06:30+00:00",
+      "updatedAt": "2026-11-15T13:06:30+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -455,30 +459,6 @@
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
       "summaryInput": "0fd04e1bf2691ca5662595107ef18cc377e17d3b3ce3d2038a6ce25ef3f82441",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-14da092b89e245ed18",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste ». Retrouvez nos informations du 9 au 14 novembre.",
-      "bullets": [
-        "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une…"
-      ],
-      "publishedAt": "2026-11-14T19:33:34+00:00",
-      "updatedAt": "2026-11-14T19:33:34+00:00",
-      "importance": 96,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "21c28e599c33668d472c184a197760bd2fc00ef090d88fdfea1fd9d18c695de5",
       "detailLevel": "preview"
     },
     {
@@ -745,27 +725,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f170c362975df9a319",
+      "id": "rss-806d5bb6d5baec8ebe",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+      "category": "world",
+      "topic": "International",
+      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
       "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
+        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
       ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-13T22:44:44+00:00",
+      "updatedAt": "2026-11-13T22:44:44+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
+      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2fa339ab85189c98de",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Lucie Castets, maire du XIIᵉ arrondissement de Paris: « L’enjeu central de l’élection de 2027 est de définir qui devra payer l’ardoise du pouvoir sortant »",
+      "bullets": [
+        "La politique économique et budgétaire de la France a été bâtie sur la promesse d’un retour fiscal qui ne s’est jamais matérialisée, fragilisant la crédibilité financière que le gouvernement prétendait défendre, juge la maire (Ecologiste et social) du XIIᵉ arrondissement de Paris, Lucie Castets, dans une tribune au « Monde…"
+      ],
+      "publishedAt": "2026-11-15T09:52:04+00:00",
+      "updatedAt": "2026-11-15T09:52:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d7a076712e4a82081205135a02406b0632b54162cf9c767f8a50aa100c38f99c",
       "detailLevel": "preview"
     },
     {
@@ -829,7 +833,7 @@
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -855,7 +859,7 @@
       ],
       "publishedAt": "2026-11-12T12:23:02+00:00",
       "updatedAt": "2026-11-12T12:23:02+00:00",
-      "importance": 54,
+      "importance": 53,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -869,30 +873,30 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2a92e00355c18a3ea4",
+      "id": "rss-5497cdf8e7843cadb5",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+      "title": "Attentat raciste à Trappes : Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
       "bullets": [
-        "Le gouvernement a publié dimanche 15 novembre un décret interdisant de la vente des mortiers d'artifice jusqu'au 27 novembre, \"afin de prévenir les risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
-        "Les mortiers d'artifice étaient jusqu'ici autorisés à la vente mais les achats devaient être réalisés dans des commerces agréés ou sous autorisation, et leur usage était déjà strictement interdit sur la voie publique."
+        "La députée écologiste Sandrine Rousseau, dont le nom figurait avec celui de trois autres personnalités de gauche sur une liste dressée par l'auteur de l'attentat de Trappes (Yvelines), a accusé dimanche 15 novembre le ministère de l'Intérieur de \"sous-estimer de manière structurelle\" la \"menace venant de l'extrême droite\".",
+        "Kévin Tessier, qui a abattu Pengo Bossio Wangi et blessé sept autres personnes le 3 octobre à Trappes, était mû par \"le racisme\", avait dénoncé le ministre de l'Intérieur Laurent Nuñez, Emmanuel Macron mettant en cause le Rassemblement national dans une certaine \"désinhibition du racisme\"."
       ],
-      "publishedAt": "2026-11-15T09:25:59+00:00",
-      "updatedAt": "2026-11-15T09:25:59+00:00",
+      "publishedAt": "2026-11-15T12:53:20+00:00",
+      "updatedAt": "2026-11-15T12:53:20+00:00",
       "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-l-extreme-droite_8283533.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "article-extract",
-      "summaryInput": "30c588cd432f7688e2437c5259a71251952f750615899ab10de864a3f79aa613",
+      "summaryInput": "472d8dbe2d6622f5595031e8e2d57ff1d24c63104e90323594635f0d3d9ca90a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T08:59:28.488462+00:00",
+      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
       "context": null
     },
     {
@@ -933,7 +937,7 @@
       ],
       "publishedAt": "2026-11-14T12:21:34+00:00",
       "updatedAt": "2026-11-14T12:21:34+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -946,6 +950,57 @@
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T01:22:04.010015+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f170c362975df9a319",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+      "bullets": [
+        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
+      ],
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2a92e00355c18a3ea4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+      "bullets": [
+        "Le gouvernement a publié dimanche 15 novembre un décret interdisant de la vente des mortiers d'artifice jusqu'au 27 novembre, \"afin de prévenir les risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
+        "Les mortiers d'artifice étaient jusqu'ici autorisés à la vente mais les achats devaient être réalisés dans des commerces agréés ou sous autorisation, et leur usage était déjà strictement interdit sur la voie publique."
+      ],
+      "publishedAt": "2026-11-15T09:25:59+00:00",
+      "updatedAt": "2026-11-15T09:25:59+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "30c588cd432f7688e2437c5259a71251952f750615899ab10de864a3f79aa613",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T08:59:28.488462+00:00",
       "context": null
     },
     {
@@ -998,37 +1053,13 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-401c5aa8784018e58f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-      "bullets": [
-        "A l’issue d’une réunion à Matignon, vendredi 13 novembre, les syndicats ont dénoncé des annonces « en complet décalage avec l’urgence salariale et la colère sociale ». Dans leur viseur, notamment : le refus du gouvernement de dégeler la valeur du point d’indice. La CFDT a décidé de se joindre…"
-      ],
-      "publishedAt": "2026-11-13T16:07:02+00:00",
-      "updatedAt": "2026-11-13T16:07:02+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "16f1e8d62d761be0a43ad13acb251d606765b803769ad05dc05c748215d54f66",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-3e5c9bc07a6d11b29a",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Société",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », le duo d’adolescents soupçonnés d’avoir piraté le site des impôts",
+      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
       "bullets": [
-        "Ces deux jeunes Français de 18 et 16 ans sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
       ],
       "publishedAt": "2026-11-15T05:15:04+00:00",
       "updatedAt": "2026-11-15T05:15:04+00:00",
@@ -1042,7 +1073,7 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "1d09b5576da2134fc4aab7743c1cf7af46b34f337616955aa419a43a6868a9d1",
+      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
       "detailLevel": "preview"
     },
     {
@@ -1070,38 +1101,42 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2fa339ab85189c98de",
+      "id": "rss-e219f2a1cb0bf0bf94",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Lucie Castets, maire du XIIᵉ arrondissement de Paris: « L’enjeu central de l’élection est de définir qui devra payer l’ardoise du pouvoir sortant »",
+      "topic": "Faits divers",
+      "title": "Le gouvernement interdit temporairement la vente de mortiers d'artifice",
       "bullets": [
-        "La politique économique et budgétaire de la France a été bâtie sur la promesse d’un retour fiscal qui ne s’est jamais matérialisée, fragilisant la crédibilité financière que le gouvernement prétendait défendre, juge la maire (Ecologiste et social) du XIIᵉ arrondissement de Paris, Lucie Castets, dans une tribune au « Monde…"
+        "Une pratique qui s'est généralisée ces derniers mois et conduit le gouvernement à en interdire la vente jusqu'au 27 novembre.",
+        "Le risque perforant, c'est méconnu : à moins de 50 mètres, cet engin va vous perforer un mannequin humain, plus dangereux que le lanceur de balles de défense.\"Jusqu'à présent, ces feux d'artifice étaient autorisés à la vente aux personnes majeures, à condition de ne pas les utiliser sur la voie publique.",
+        "Cette interdiction est en vigueur jusqu'au 27 novembre afin de couvrir les deux prochaines journées d'action."
       ],
-      "publishedAt": "2026-11-15T09:52:08+00:00",
-      "updatedAt": "2026-11-15T09:52:08+00:00",
+      "publishedAt": "2026-11-15T12:54:18+00:00",
+      "updatedAt": "2026-11-15T12:54:18+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-temporairement-la-vente-de-mortiers-d-artifice_8283545.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5dacb1840a168fbc6ea8f6559885e6ccc8a6d6abbc7ffe533a562473defd17b2",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "74350630d79a2638bcd2403c659767ed64900b1559c7de109e4837c1e6bce33d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T13:07:19.923051+00:00",
+      "context": null
     },
     {
       "id": "rss-db11aed0ad0cfc6513",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
       "bullets": [
         "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer.",
-        "Il s’est lancé dans un nouveau tour de France pour essayer de contrer les sondages et les critiques sur le manque d’enthousiasme de sa campagne."
+        "Il s’est lancé dans un nouveau tour de France pour essayer de renverser les sondages et les critiques sur le manque d’enthousiasme de sa campagne."
       ],
       "publishedAt": "2026-11-15T04:30:08+00:00",
       "updatedAt": "2026-11-15T04:30:08+00:00",
@@ -1115,32 +1150,7 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "814f126f0a440078f95ea24f68a2ee38054da3bb2ed1e648c02c6b75c4d6a385",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cf6641e8b9fccc4c61",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
-      "bullets": [
-        "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse.",
-        "Si la première partie de l’itinéraire s’est déroulée sans accroc, quelques affrontements ont eu lieu en fin de parcours, place de la Nation."
-      ],
-      "publishedAt": "2026-11-14T20:18:37+00:00",
-      "updatedAt": "2026-11-14T20:18:37+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cbd04199c3b326fb71cb5a791f34ee607a0507545dbc952bc5c1b6dedff1e79d",
+      "summaryInput": "c6a74bfc7d79fc6639e3575e1d9af191c1584f26592e643d7ae27c237ff749ba",
       "detailLevel": "preview"
     }
   ],
@@ -1155,7 +1165,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1167,7 +1177,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
@@ -1185,7 +1195,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
