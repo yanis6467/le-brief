@@ -1,33 +1,34 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T09:57:30.859671+00:00",
+  "preparedAt": "2026-11-15T10:56:01.497808+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-8fc9f1c3718205cafe",
+      "id": "rss-8fa518f137b633c5c7",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
+      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
       "bullets": [
-        "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques."
+        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
+        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
       ],
-      "publishedAt": "2026-11-13T15:28:23+00:00",
-      "updatedAt": "2026-11-13T15:28:23+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "75e2ff29eba8a504dd3f6334c5eb9a6c6edb18c44b440f044b83c2d361fdaf13",
+      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
       "detailLevel": "preview"
     },
     {
@@ -244,6 +245,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-31d4f9610cc557302c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
+      "bullets": [
+        "Les autorités américaines espèrent un retour progressif à la normale du trafic aérien d'ici à dimanche 14 novembre au soir, deux jours après une interruption de plusieurs heures sur tout le territoire qui a entraîné des milliers d'annulations de vols.",
+        "Les perturbations se poursuivent ce week-end, le temps que la désorganisation des équipages et des appareils se résorbe.",
+        "L'administration Trump a imputé l'incident à un remplacement raté d'anciennes lignes de communications en fil de cuivre par de la fibre optique sur des infrastructures liées au contrôle aérien."
+      ],
+      "publishedAt": "2026-11-15T10:05:14+00:00",
+      "updatedAt": "2026-11-15T10:05:14+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "75a5b19fcf20c63c08a18c2fd66924288a8e059089e0d376ba6c0a9da794c4ae",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T10:56:01.497808+00:00",
+      "context": null
+    },
+    {
       "id": "rss-16176e6abc56a4c79b",
       "revision": 1,
       "category": "eco",
@@ -296,34 +325,6 @@
       "context": null
     },
     {
-      "id": "rss-10859f17bb48dbb764",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "États-Unis : plus de 19.000 vols annulés en trois jours, des câbles vétustes à l’origine des perturbations de vols",
-      "bullets": [
-        "Sur les 41.000 prévus samedi, le site de suivi FlightAware avait enregistré samedi soir plus de 6400 annulations et recensait déjà, aux premières heures de dimanche, plus de 1000 autres pour la journée à venir.",
-        "Demande de financement Hasard du calendrier, c’est à la veille de cet incident que la Maison Blanche a demandé aux parlementaires d’approuver une enveloppe supplémentaire de 30,1 milliards de dollars pour moderniser le système.",
-        "Le président a demandé 30 milliards de dollars."
-      ],
-      "publishedAt": "2026-11-15T08:27:23+00:00",
-      "updatedAt": "2026-11-15T08:27:23+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "11ec837fdab08d121e54e0aced99abf6637905b72b65df5d7f32d89136a3d5cc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T08:59:28.488462+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T09:55:10+00:00",
-      "updatedAt": "2026-11-15T09:55:10+00:00",
+      "publishedAt": "2026-11-15T10:53:20+00:00",
+      "updatedAt": "2026-11-15T10:53:20+00:00",
       "importance": 69,
       "sources": [
         {
@@ -490,8 +491,8 @@
         "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire.",
         "Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine."
       ],
-      "publishedAt": "2026-11-15T03:22:58+00:00",
-      "updatedAt": "2026-11-15T03:22:58+00:00",
+      "publishedAt": "2026-11-15T03:22:56+00:00",
+      "updatedAt": "2026-11-15T03:22:56+00:00",
       "importance": 79,
       "sources": [
         {
@@ -630,7 +631,35 @@
       "provenance": "article-extract",
       "summaryInput": "5ac10ff5d1c5b0a5f00b1292bf8a8c3b9c1134a6718993055dbc576c122e7d94",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-14T22:49:10.585664+00:00",
+      "enrichedAt": "2026-11-15T10:56:01.497808+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-290e0dabfebca2e8c1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un important site industriel russe touché par des frappes attribuées à Kiev",
+      "bullets": [
+        "La zone industrielle de Nijnekamsk, dans le centre de la Russie, a été touchée dans des frappes tôt dimanche 15 novembre, selon les autorités locales, qui accusent l'Ukraine.",
+        "A la suite de cette attaque, des installations de la zone industrielle ont été endommagées\", ainsi qu'un immeuble résidentiel, a annoncé le maire de la ville, Radmir Beliaev, sur Telegram.",
+        "Le ministère russe de la Défense a assuré dans un communiqué avoir abattu 533 drones ukrainiens entre samedi soir et dimanche matin, au-dessus d'une douzaine de régions de Russie et de la Crimée annexée."
+      ],
+      "publishedAt": "2026-11-15T10:41:17+00:00",
+      "updatedAt": "2026-11-15T10:41:17+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "1e187980ee6ee9946ec1c6aa0c66413b0a96dd38edad1133540f720138b2b33b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T10:56:01.497808+00:00",
       "context": null
     },
     {
@@ -644,8 +673,8 @@
         "Selon une journaliste de l'AFP, des sirènes d'alarme ont retenti tandis que les autorités ont publié plusieurs messages d'alerte sur les réseaux sociaux.",
         "Vendredi, les Gardiens avaient déjà revendiqué une attaque contre un système de radar américain à Bahreïn, première frappe contre un pays du Golfe depuis début septembre."
       ],
-      "publishedAt": "2026-11-15T09:49:58+00:00",
-      "updatedAt": "2026-11-15T09:49:58+00:00",
+      "publishedAt": "2026-11-15T09:56:24+00:00",
+      "updatedAt": "2026-11-15T09:56:24+00:00",
       "importance": 67,
       "sources": [
         {
@@ -691,31 +720,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a75078479b38300d28",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
-      "bullets": [
-        "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal.",
-        "Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine…"
-      ],
-      "publishedAt": "2026-11-15T05:30:01+00:00",
-      "updatedAt": "2026-11-15T05:30:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4bd3e21691885c3a29afcd4ba831745c26c5f4d4b96bd0395b30a37fa179aff",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f170c362975df9a319",
       "revision": 1,
       "category": "france",
@@ -740,27 +744,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-99319f2405c263e7ba",
+      "id": "rss-41358dfc34500c6ddc",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "La vente des mortiers d’artifice interdite jusqu’au 27 novembre par le gouvernement",
+      "title": "Les revalorisations du smic et des « bas salaires » des fonctionnaires coûteront « un peu plus de 1 milliard d’euros » aux finances publiques, selon le gouvernement",
       "bullets": [
-        "Face à une utilisation dangereuse de ces engins lors des manifestations, et parfois même dans les lycées, l’interdiction vise les artifices de catégories F2 et F3."
+        "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
       ],
-      "publishedAt": "2026-11-15T00:47:24+00:00",
-      "updatedAt": "2026-11-15T00:47:24+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-15T10:09:59+00:00",
+      "updatedAt": "2026-11-15T10:09:59+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/la-vente-des-mortiers-d-artifice-interdite-jusqu-au-27-novembre-par-le-gouvernement_6810775_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "7b913a82959abf8302d18b9d1594ce4ebe82587888d73399e2f7298e83400d2c",
+      "summaryInput": "d3bc03c3fbc295e3f933f1a3ed382dac11a1538ff946e2cf2d0784474198e63e",
       "detailLevel": "preview"
     },
     {
@@ -920,31 +924,6 @@
       "context": null
     },
     {
-      "id": "rss-8fa518f137b633c5c7",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-      "bullets": [
-        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
-        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
-      ],
-      "publishedAt": "2026-11-15T09:00:17+00:00",
-      "updatedAt": "2026-11-15T09:00:17+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ae217e4bbacdb5414e",
       "revision": 1,
       "category": "france",
@@ -1018,30 +997,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dc3f0517ca75502fa2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
-      "bullets": [
-        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
-      ],
-      "publishedAt": "2026-11-12T10:53:16+00:00",
-      "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-3e5c9bc07a6d11b29a",
       "revision": 1,
       "category": "france",
@@ -1067,6 +1022,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dc3f0517ca75502fa2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+      "bullets": [
+        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
+      ],
+      "publishedAt": "2026-11-12T10:53:16+00:00",
+      "updatedAt": "2026-11-12T10:53:16+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2fa339ab85189c98de",
       "revision": 1,
       "category": "france",
@@ -1088,6 +1067,31 @@
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
       "summaryInput": "5dacb1840a168fbc6ea8f6559885e6ccc8a6d6abbc7ffe533a562473defd17b2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-db11aed0ad0cfc6513",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
+      "bullets": [
+        "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer.",
+        "Il s’est lancé dans un nouveau tour de France pour essayer de contrer les sondages et les critiques sur le manque d’enthousiasme de sa campagne."
+      ],
+      "publishedAt": "2026-11-15T04:30:08+00:00",
+      "updatedAt": "2026-11-15T04:30:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "814f126f0a440078f95ea24f68a2ee38054da3bb2ed1e648c02c6b75c4d6a385",
       "detailLevel": "preview"
     },
     {
