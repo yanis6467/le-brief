@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T17:48:44.638059+00:00",
+  "preparedAt": "2026-11-15T18:58:31.390232+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-472ef7a86b14f9112b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "bullets": [
+        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
+        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 80,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-518833bf6d63eca968",
       "revision": 1,
@@ -57,6 +82,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T14:54:47.024982+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8fa518f137b633c5c7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+      "bullets": [
+        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
+        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
+      ],
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-cef6bdbff282d17788",
@@ -121,8 +171,8 @@
         "Selon les critiques, cette réforme risque d'accroître la dépendance des médias publics à l'égard du pouvoir politique.",
         "Mikulas Minar, dirigeant du collectif Des millions de moments pour la démocratie, organisateur de la manifestation, assure qu'\"entre 350 000 et 450 000 personnes\" ont répondu à l'appel."
       ],
-      "publishedAt": "2026-11-15T17:04:49+00:00",
-      "updatedAt": "2026-11-15T17:04:49+00:00",
+      "publishedAt": "2026-11-15T17:54:41+00:00",
+      "updatedAt": "2026-11-15T17:54:41+00:00",
       "importance": 65,
       "sources": [
         {
@@ -235,7 +285,7 @@
       ],
       "publishedAt": "2026-11-14T18:23:08+00:00",
       "updatedAt": "2026-11-14T18:23:08+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -262,7 +312,7 @@
       ],
       "publishedAt": "2026-11-13T18:30:05+00:00",
       "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -276,62 +326,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-10859f17bb48dbb764",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "États-Unis : plus de 19.000 vols annulés en trois jours, pas de retour à la normale prévu avant lundi",
-      "bullets": [
-        "«50 milliards» Sean Duffy, qui dénonce depuis longtemps la vétusté des installations du contrôle aérien américain, a réinsisté dimanche sur la nécessité impérieuse de financer sa modernisation.",
-        "Romel Gonzales, technicien dans le secteur de la santé âgé de 53 ans, cherche à rejoindre Oklahoma City.",
-        "On est coincé ici pour les prochaines, je ne sais même pas, 36 heures."
-      ],
-      "publishedAt": "2026-11-15T15:53:36+00:00",
-      "updatedAt": "2026-11-15T15:53:36+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "7653d870b424e6250b696d047e2e7a0e8d216788c3717686db3d8c3e7b5614dd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T16:53:25.310738+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-31d4f9610cc557302c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
-      "bullets": [
-        "Les autorités américaines espèrent un retour progressif à la normale du trafic aérien d'ici à dimanche 14 novembre au soir, deux jours après une interruption de plusieurs heures sur tout le territoire qui a entraîné des milliers d'annulations de vols.",
-        "Les perturbations se poursuivent ce week-end, le temps que la désorganisation des équipages et des appareils se résorbe.",
-        "L'administration Trump a imputé l'incident à un remplacement raté d'anciennes lignes de communications en fil de cuivre par de la fibre optique sur des infrastructures liées au contrôle aérien."
-      ],
-      "publishedAt": "2026-11-15T10:05:14+00:00",
-      "updatedAt": "2026-11-15T10:05:14+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "75a5b19fcf20c63c08a18c2fd66924288a8e059089e0d376ba6c0a9da794c4ae",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T14:54:47.024982+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -342,8 +336,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T17:45:11+00:00",
-      "updatedAt": "2026-11-15T17:45:11+00:00",
+      "publishedAt": "2026-11-15T18:54:44+00:00",
+      "updatedAt": "2026-11-15T18:54:44+00:00",
       "importance": 69,
       "sources": [
         {
@@ -419,7 +413,7 @@
       "id": "rss-8f23cd4d44647e0264",
       "revision": 1,
       "category": "world",
-      "topic": "International",
+      "topic": "Politique",
       "title": "« Les élections au Brésil, aux Etats-Unis et en Israël ont vu la défaite des partis qui ont misé sur la provocation sur les réseaux sociaux »",
       "bullets": [
         "Si les récentes campagnes électorales ont vu la multiplication d’attaques en ligne et de contenus générés par IA, les résultats électoraux ont démontré que tout l’activisme du monde sur les réseaux ne compense pas un mauvais programme ou un bilan catastrophique, observe, dans sa chronique, Damien Leloup, journaliste au service…"
@@ -440,28 +434,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-472ef7a86b14f9112b",
+      "id": "rss-9a9cf907be0021f128",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "title": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
       "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+        "Et c'est vrai qu'on a en Europe une cinquième colonne, c'est-à-dire des personnes qui se présentent pour accéder aux plus hautes fonctions nationales, en France en l'occurrence, mais qui jouent en réalité contre les intérêts de la France et de l'Europe.",
+        "Je m'explique : on a cette guerre en Ukraine qui ne concerne pas seulement l'avenir des Ukrainiens, mais aussi celui de la paix, de la démocratie en Europe et de la liberté, en réalité, puisque Vladimir Poutine ne s'arrêtera pas à l'Ukraine.",
+        "Vous, présidente, vous augmentez l'aide financière de la France à l'Ukraine ?"
       ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-15T18:19:50+00:00",
+      "updatedAt": "2026-11-15T18:19:50+00:00",
+      "importance": 93,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "b7de4575a1e6a5248ec31f9732a015d4ffd386f5859d4931bda5e359e0d7a70f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T18:58:31.390232+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d2c5528e33f3f0b3c9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Benjamin Haddad au Figaro : « Une mauvaise paix, une abdication forcée, c’est la garantie de la guerre demain »",
+      "bullets": [
+        "ENTRETIEN - Le ministre délégué chargé de l’Europe revient sur les récentes négociations d’Abu Dhabi, dans lesquelles se sont impliqués Américains, Russes, Ukrainiens et Européens, et sur l’état des pourparlers pour mettre fin à la guerre en Ukraine."
+      ],
+      "publishedAt": "2026-11-15T18:25:42+00:00",
+      "updatedAt": "2026-11-15T18:25:42+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/benjamin-haddad-au-figaro-une-mauvaise-paix-une-abdication-forcee-c-est-la-garantie-de-la-guerre-demain-20261115",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "summaryInput": "33791bcd5e9d3ce3c8f87eb283bc3de157f5eadda7bb90aade55881e7e53b5fb",
       "detailLevel": "preview"
     },
     {
@@ -493,6 +514,33 @@
       "context": null
     },
     {
+      "id": "rss-32040b01122c838518",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les Houthis",
+      "bullets": [
+        "Cette décision, a-t-elle expliqué, \"répond à la priorité donnée à la sécurisation\" d'Aden, où le gouvernement internationalement reconnu s'est replié après la prise en 2014 par les Houthis de la capitale Sanaa et de grands pans du nord du pays, les plus peuplés.",
+        "Dans la province de Lahj, près d'Aden, une attaque de missiles houthis contre une position des forces gouvernementales yéménites a tué huit civils et fait 12 blessés dimanche, selon trois sources militaires et une gouvernementale ayant requis l'anonymat."
+      ],
+      "publishedAt": "2026-11-15T18:47:11+00:00",
+      "updatedAt": "2026-11-15T18:47:11+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "735e2a66775071b3091ee3b54c5e283c7b92bb70af1b1f5e761ba7e4c5770ee6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T18:58:31.390232+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d06cdc1afbc789a03b",
       "revision": 1,
       "category": "world",
@@ -514,6 +562,30 @@
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-871b45ff54c342e8cf",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Les Américains nous avaient donné un faux espoir » : Au Venezuela, le régime chaviste toujours en place malgré le retour de l’opposante Machado",
+      "bullets": [
+        "DÉCRYPTAGE - Les États-Unis, qui ont capturé Nicolás Maduro en janvier, ont accru leur influence sur les décisions du pays, sans mettre à bas le régime."
+      ],
+      "publishedAt": "2026-11-15T18:45:00+00:00",
+      "updatedAt": "2026-11-15T18:45:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/les-americains-nous-avaient-donne-un-faux-espoir-au-venezuela-le-regime-chaviste-toujours-en-place-malgre-le-retour-de-l-opposante-machado-20261115",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a4846b6d8d3c6361e29660c01542bc3821f869c7923e588745d13fde4f78bc34",
       "detailLevel": "preview"
     },
     {
@@ -654,126 +726,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a75078479b38300d28",
+      "id": "rss-f170c362975df9a319",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
-      "bullets": [
-        "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal.",
-        "Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine…"
-      ],
-      "publishedAt": "2026-11-15T05:30:01+00:00",
-      "updatedAt": "2026-11-15T05:30:01+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4bd3e21691885c3a29afcd4ba831745c26c5f4d4b96bd0395b30a37fa179aff",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-812ae8f2d2659c77e0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Yémen : les forces gouvernementales redéploient leurs troupes des environs du détroit de Bab Al-Mandab vers Aden, menacée par les houthistes",
-      "bullets": [
-        "Le retrait des troupes gouvernementales de la région de Bab Al-Mandab va permettre aux houthistes de consolider leur contrôle de ce détroit stratégique qui relie l’Asie à l’Europe via le canal de Suez.",
-        "Ils y avaient déjà renforcé leur emprise en prenant tout le littoral ouest à l’issue d’une offensive…"
-      ],
-      "publishedAt": "2026-11-15T15:33:16+00:00",
-      "updatedAt": "2026-11-15T15:33:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/yemen-les-forces-gouvernementales-redeploient-leurs-troupes-des-environs-du-detroit-de-bab-el-mandeb-vers-aden-menacee-par-les-houthistes_6811027_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "04526c0d27d6cab23dde9f837297de345fa78bdb086c6f2c52c1d264e9d4536b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-806d5bb6d5baec8ebe",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Mort de Vladimir Poutine en 2027, paix en Ukraine, guerre en Estonie : l’improbable scénario du futur brandi par le think tank américain RAND",
-      "bullets": [
-        "L’institut de recherche expose une chaîne d’événements hypothétiques dans laquelle la mort de Poutine en 2027 conduit à une nouvelle direction russe, à une guerre gelée en Ukraine et à une invasion de l’Estonie, déclenchant une guerre plus large contre l’OTAN."
-      ],
-      "publishedAt": "2026-11-13T22:44:44+00:00",
-      "updatedAt": "2026-11-13T22:44:44+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/mort-de-vladimir-poutine-en-2027-paix-en-ukraine-guerre-en-estonie-l-improbable-scenario-du-futur-brandi-par-le-think-tank-americain-rand-20261113",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e57f9fe8548e1c54b57f5568c31c749ecce242be9b967d10c4d7d0eacdf5a32c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-41358dfc34500c6ddc",
-      "revision": 3,
       "category": "france",
       "topic": "Politique",
-      "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
+      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
       "bullets": [
-        "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
+        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
       ],
-      "publishedAt": "2026-11-15T10:09:57+00:00",
-      "updatedAt": "2026-11-15T10:09:57+00:00",
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "5535878917120e6713067bd0f49b9881ce47ebf895116a92bd699aea7ead436f",
+      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4784c75db8a4a500cb",
+      "id": "rss-9a0603345337ec8298",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Midterms 2026 : « La vague des chrétiens sociaux est autant un défi pour les démocrates qu’une opportunité pour J. D. Vance »",
+      "title": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
       "bullets": [
-        "Si les élections de mi-mandat aux Etats-Unis ont mis en évidence le poids d’un électorat social-chrétien que l’on pensait moribond, il ne signifie pas pour autant une adhésion durable au progressisme, relève l’historienne Blandine Chelini-Pont, dans une tribune au « Monde »."
+        "Edouard Philippe a dégainé plusieurs propositions sur le logement.",
+        "Dimanche 15 novembre, le candidat à la présidentielle a affirmé notamment vouloir aider les jeunes à accéder à la propriété et construire 4 millions de nouveaux logements en dix ans pour faire baisser le prix de l'immobilier.",
+        "Afin d'aider les jeunes à acquérir un logement, le candidat Horizons propose \"la suppression des taxes qu'on appelle les frais de notaire pour les moins de 35 ans, et un prêt à taux zéro à chaque nouvel enfant\"."
       ],
-      "publishedAt": "2026-11-15T05:00:33+00:00",
-      "updatedAt": "2026-11-15T05:00:33+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-15T18:08:54+00:00",
+      "updatedAt": "2026-11-15T18:08:54+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/15/midterms-2026-la-vague-des-chretiens-sociaux-est-autant-un-defi-pour-les-democrates-qu-une-opportunite-pour-j-d-vance_6810981_6038514.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b8ca9d9aea47f7700b78e3fcfaf701f6c1991ae4d6246eaeff5b13d332606302",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b1ec9f1900cd74b3798147f78bf791e1b3ed8215b1f461a3c4af77dff7b71cd7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T18:58:31.390232+00:00",
+      "context": null
     },
     {
       "id": "rss-34f5f5b3a59f845579",
@@ -828,27 +830,27 @@
       "context": null
     },
     {
-      "id": "rss-ece63d1d2af47d6a83",
+      "id": "rss-bcd059acf655de34df",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "La lente dérive terroriste de Kevin Tessier, l’auteur de l’attentat de Trappes, vue par ses proches : « Il s’énervait devant la télé, avec des insultes racistes »",
+      "title": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
       "bullets": [
-        "Les auditions de ses parents et d’un ami, dont « Le Monde » a pris connaissance, racontent la radicalisation du tueur, entre enfance perturbée, fragilités psychologiques, obsessions racistes liées à l’actualité et altercations violentes."
+        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et [ces] mises en cause de ses équipes », a réagi la chaîne."
       ],
-      "publishedAt": "2026-11-13T18:00:13+00:00",
-      "updatedAt": "2026-11-13T18:00:13+00:00",
-      "importance": 52,
+      "publishedAt": "2026-11-14T17:33:12+00:00",
+      "updatedAt": "2026-11-14T17:33:12+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/13/la-lente-derive-terroriste-de-kevin-tessier-l-auteur-de-l-attentat-de-trappes-vue-par-ses-proches-il-s-enervait-devant-la-tele-avec-des-insultes-racistes_6809375_3224.html",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/a-lyon-des-journalistes-de-bfm-tv-agresses-en-marge-de-la-manifestation-la-prefecture-denonce-une-volonte-de-lynchage_6810459_3236.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "a4731586bd4a766f453c64cde649951dd0612598cc64abdf631a487c039c9c7b",
+      "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
       "detailLevel": "preview"
     },
     {
@@ -933,27 +935,51 @@
       "context": null
     },
     {
-      "id": "rss-f170c362975df9a319",
-      "revision": 1,
+      "id": "rss-41358dfc34500c6ddc",
+      "revision": 3,
       "category": "france",
-      "topic": "Politique",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+      "topic": "Société",
+      "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
       "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
+        "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
       ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "publishedAt": "2026-11-15T10:09:57+00:00",
+      "updatedAt": "2026-11-15T10:09:57+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
+      "summaryInput": "5535878917120e6713067bd0f49b9881ce47ebf895116a92bd699aea7ead436f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4784c75db8a4a500cb",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Midterms 2026 : « La vague des chrétiens sociaux est autant un défi pour les démocrates qu’une opportunité pour J. D. Vance »",
+      "bullets": [
+        "Si les élections de mi-mandat aux Etats-Unis ont mis en évidence le poids d’un électorat social-chrétien que l’on pensait moribond, il ne signifie pas pour autant une adhésion durable au progressisme, relève l’historienne Blandine Chelini-Pont, dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-15T05:00:33+00:00",
+      "updatedAt": "2026-11-15T05:00:33+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/15/midterms-2026-la-vague-des-chretiens-sociaux-est-autant-un-defi-pour-les-democrates-qu-une-opportunite-pour-j-d-vance_6810981_6038514.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b8ca9d9aea47f7700b78e3fcfaf701f6c1991ae4d6246eaeff5b13d332606302",
       "detailLevel": "preview"
     },
     {
@@ -982,31 +1008,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T08:59:28.488462+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8fa518f137b633c5c7",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-      "bullets": [
-        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
-        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
-      ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ae217e4bbacdb5414e",
@@ -1044,7 +1045,7 @@
       ],
       "publishedAt": "2026-11-13T18:25:58+00:00",
       "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1106,27 +1107,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e5c9bc07a6d11b29a",
-      "revision": 3,
+      "id": "rss-25e0f8cb8a24b869f4",
+      "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "topic": "Politique",
+      "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
       "bullets": [
-        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+        "Réalisée par Ipsos BVA-CESI Ecole d’ingénieurs pour « Le Monde », le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, cette grande enquête annuelle sur les valeurs des Français donne un instantané précieux de l’humeur politique du pays à l’approche du scrutin.",
+        "La société y apparaît de plus en plus…"
       ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-15T17:20:21+00:00",
+      "updatedAt": "2026-11-15T17:20:21+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "summaryInput": "1ecc499e79947d2bdc78a63884e9b46f3301a1436ccd20e43409a57f820c1ed5",
       "detailLevel": "preview"
     }
   ],
@@ -1141,7 +1143,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1165,7 +1167,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
