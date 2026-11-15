@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-15",
-  "preparedAt": "2026-11-15T15:52:09.824645+00:00",
+  "preparedAt": "2026-11-15T16:53:25.310738+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-472ef7a86b14f9112b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
-      "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
-      ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-518833bf6d63eca968",
       "revision": 1,
@@ -134,6 +109,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T09:57:30.859671+00:00",
       "context": null
+    },
+    {
+      "id": "rss-f4ef66aa3f39453cb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?",
+      "bullets": [
+        "Conçues pour influencer les décisions des internautes, ces «interfaces trompeuses» sont partout, des sites de commerces en ligne aux réseaux sociaux.",
+        "Bruxelles souhaite les encadrer pour mieux protéger les consommateurs."
+      ],
+      "publishedAt": "2026-11-15T16:02:53+00:00",
+      "updatedAt": "2026-11-15T16:02:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/faux-comptes-a-rebours-options-payantes-precochees-que-sont-les-dark-patterns-ces-pieges-numeriques-auxquels-l-ue-s-attaque-20261115",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1213bbf8e332c0b619049cf18307510658960737759b08272e5659ff24cda761",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3fcc45a92854bfd46c",
@@ -273,29 +273,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-da856f51342f316bbd",
+      "id": "rss-10859f17bb48dbb764",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« L’objectif de Pékin n’est pas seulement l’autosuffisance, c’est la dépendance des autres pays »",
+      "title": "États-Unis : plus de 19.000 vols annulés en trois jours, pas de retour à la normale prévu avant lundi",
       "bullets": [
-        "La Chine fait tout pour que le reste du monde n’apprenne pas à se passer d’elle.",
-        "L’Europe et la France peuvent encore déjouer cette stratégie, à condition de sortir de leur aveuglement, estime la politiste Elvire Fabry dans une tribune au « Monde »."
+        "«50 milliards» Sean Duffy, qui dénonce depuis longtemps la vétusté des installations du contrôle aérien américain, a réinsisté dimanche sur la nécessité impérieuse de financer sa modernisation.",
+        "Romel Gonzales, technicien dans le secteur de la santé âgé de 53 ans, cherche à rejoindre Oklahoma City.",
+        "On est coincé ici pour les prochaines, je ne sais même pas, 36 heures."
       ],
-      "publishedAt": "2026-11-15T13:00:05+00:00",
-      "updatedAt": "2026-11-15T13:00:05+00:00",
+      "publishedAt": "2026-11-15T15:53:36+00:00",
+      "updatedAt": "2026-11-15T15:53:36+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/l-objectif-de-pekin-n-est-pas-seulement-l-autosuffisance-c-est-la-dependance-des-autres-pays_6811017_3232.html",
-          "access": "extrait"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "01beda913c6bd4f6f4399807ce8c5908bd59e469792f98b144eb6f97ceb5dab3",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7653d870b424e6250b696d047e2e7a0e8d216788c3717686db3d8c3e7b5614dd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T16:53:25.310738+00:00",
+      "context": null
     },
     {
       "id": "rss-31d4f9610cc557302c",
@@ -336,8 +339,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T15:45:06+00:00",
-      "updatedAt": "2026-11-15T15:45:06+00:00",
+      "publishedAt": "2026-11-15T16:47:27+00:00",
+      "updatedAt": "2026-11-15T16:47:27+00:00",
       "importance": 69,
       "sources": [
         {
@@ -394,7 +397,7 @@
       ],
       "publishedAt": "2026-11-13T16:51:09+00:00",
       "updatedAt": "2026-11-13T16:51:09+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -434,6 +437,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-472ef7a86b14f9112b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "bullets": [
+        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
+        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "rss-excerpt",
+      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c20f60b072428996d0",
       "revision": 1,
       "category": "world",
@@ -460,31 +488,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T14:02:11.921055+00:00",
       "context": null
-    },
-    {
-      "id": "rss-17dc14a9e38bc8f3fa",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
-      "bullets": [
-        "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire.",
-        "Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine."
-      ],
-      "publishedAt": "2026-11-15T03:22:56+00:00",
-      "updatedAt": "2026-11-15T03:22:56+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/le-kremlin-confirme-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-le-19-novembre-en-chine_6809488_3211.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e10455ddf1bd83cea20ab4996cf2920fc033f18b4b8ae6464e520c2bf7f67d93",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-4784c75db8a4a500cb",
@@ -533,6 +536,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-290e0dabfebca2e8c1",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Un important site industriel russe touché par des frappes ukrainiennes",
+      "bullets": [
+        "La zone industrielle de Nijnekamsk, dans le centre de la Russie, a été touchée dans des frappes tôt dimanche 15 novembre, selon les autorités locales.",
+        "Des médias ont fait état d'un incendie dans l'une des plus grandes usines pétrochimiques du pays.",
+        "Cette offensive a été revendiquée par Kiev : \"Dans la nuit du 15 novembre, des unités des forces de défense ukrainiennes ont atteint Nijnekamsk, au Tatarstan (...) Deux entreprises qui alimentent la guerre russe en matières premières et en carburant ont été attaquées\", a déclaré l'état-major des forces armées ukrainiennes sur Telegram."
+      ],
+      "publishedAt": "2026-11-15T16:26:15+00:00",
+      "updatedAt": "2026-11-15T16:26:15+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-15",
+      "provenance": "article-extract",
+      "summaryInput": "6f2ab80b843603535f1039b47d08844af04837dc9d7942472a45a6f0f12ec89b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-15T16:53:25.310738+00:00",
+      "context": null
     },
     {
       "id": "rss-c65974e78092e37b83",
@@ -585,34 +616,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "4cb72f5e910973eed3ffb816681d420b5c67821967a503a71d2e3de2c6d18bf4",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-290e0dabfebca2e8c1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un important site industriel russe touché par des frappes attribuées à Kiev",
-      "bullets": [
-        "La zone industrielle de Nijnekamsk, dans le centre de la Russie, a été touchée dans des frappes tôt dimanche 15 novembre, selon les autorités locales, qui accusent l'Ukraine.",
-        "A la suite de cette attaque, des installations de la zone industrielle ont été endommagées\", ainsi qu'un immeuble résidentiel, a annoncé le maire de la ville, Radmir Beliaev, sur Telegram.",
-        "Le ministère russe de la Défense a assuré dans un communiqué avoir abattu 533 drones ukrainiens entre samedi soir et dimanche matin, au-dessus d'une douzaine de régions de Russie et de la Crimée annexée."
-      ],
-      "publishedAt": "2026-11-15T11:15:34+00:00",
-      "updatedAt": "2026-11-15T11:15:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "1e187980ee6ee9946ec1c6aa0c66413b0a96dd38edad1133540f720138b2b33b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T10:56:01.497808+00:00",
-      "context": null
     },
     {
       "id": "rss-e77982ac94c75161cd",
@@ -780,7 +783,7 @@
       ],
       "publishedAt": "2026-11-14T04:00:06+00:00",
       "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -885,7 +888,7 @@
       ],
       "publishedAt": "2026-11-15T04:45:06+00:00",
       "updatedAt": "2026-11-15T04:45:06+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1004,12 +1007,12 @@
     },
     {
       "id": "rss-86d516e3142189e053",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
       "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
       "bullets": [
-        "Dimanche, l’une des journalistes de l’équipe visée a dit avoir « réellement craint pour [leurs] vies ». « Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a-t-elle rapporté. Samedi, la direction de BFM-TV avait condamné « ces attaques…"
+        "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques »."
       ],
       "publishedAt": "2026-11-15T15:30:19+00:00",
       "updatedAt": "2026-11-15T15:30:19+00:00",
@@ -1023,7 +1026,7 @@
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "59cf6e185857155ea851d2cbf02391ee9a4ac47e76916787ddc21dd0a1921128",
+      "summaryInput": "0cb648bb2bab1f0401eadaf28751de71014ad7c22252ed3a78b8f53074ec8319",
       "detailLevel": "preview"
     },
     {
@@ -1099,27 +1102,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7129612726cd225260",
+      "id": "rss-f732a4da33c5f34b03",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "40 affirmations-chocs des candidats à la présidentielle de 2027 et de leurs soutiens fact-checkées",
+      "title": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
       "bullets": [
-        "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles."
+        "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009.",
+        "Alors que les autorités politiques tardent à se lancer dans ce chantier à haut risque, une commission dédiée s’est remise au travail."
       ],
-      "publishedAt": "2026-11-15T13:19:59+00:00",
-      "updatedAt": "2026-11-15T13:19:59+00:00",
+      "publishedAt": "2026-11-15T16:09:00+00:00",
+      "updatedAt": "2026-11-15T16:09:00+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-15",
       "provenance": "rss-excerpt",
-      "summaryInput": "bb3bf3aebf9a6edfd8898f798198e9e900f99cc2026d644acc33250169eb7f8d",
+      "summaryInput": "e2a361523c85deb7f7d50623ee0e25872cfc77effccf500ba0ff93697ad7c6c7",
       "detailLevel": "preview"
     }
   ],
@@ -1182,7 +1186,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1200,7 +1204,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
