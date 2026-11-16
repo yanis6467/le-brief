@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T22:58:34.504411+00:00",
+  "edition": "2026-11-17",
+  "preparedAt": "2026-11-16T23:53:39.369551+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -87,7 +87,7 @@
       "provenance": "article-extract",
       "summaryInput": "0528330cdd34a6c095a9621ea52e064086192136c5be6b70880815fe7a073574",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
+      "enrichedAt": "2026-11-16T23:53:39.369551+00:00",
       "context": null
     },
     {
@@ -261,7 +261,7 @@
       ],
       "publishedAt": "2026-11-16T11:29:37+00:00",
       "updatedAt": "2026-11-16T11:29:37+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -339,9 +339,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T22:58:35+00:00",
-      "updatedAt": "2026-11-16T22:58:35+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-16T23:53:08+00:00",
+      "updatedAt": "2026-11-16T23:53:08+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -421,7 +421,7 @@
       ],
       "publishedAt": "2026-11-15T11:00:00+00:00",
       "updatedAt": "2026-11-15T11:00:00+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -556,7 +556,7 @@
       ],
       "publishedAt": "2026-11-16T11:12:07+00:00",
       "updatedAt": "2026-11-16T11:12:07+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -766,27 +766,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-336145c556f89af510",
+      "id": "rss-f726a6cafda6038443",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+      "title": "Débat de la présidentielle : Marine Le Pen cible les associations « politisées », dont la Ligue des droits de l’homme, « ramassis de gauchistes »",
       "bullets": [
-        "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace »."
+        "La candidate du Rassemblement national entend, si elle est élue, « arrêter de subventionner les associations politisées ».",
+        "Sa proposition a suscité de vives réactions de ses opposants."
       ],
-      "publishedAt": "2026-11-16T22:05:22+00:00",
-      "updatedAt": "2026-11-16T22:05:22+00:00",
+      "publishedAt": "2026-11-16T23:17:20+00:00",
+      "updatedAt": "2026-11-16T23:17:20+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "522af8c256e2a5049a0fdfdb7edcab8f5dbc6e44dff79de0c6d197c931e099ec",
+      "summaryInput": "5419800de110ff2a2f53946b1c4aa0e1a2fb3f9cb819a7b291ea16bdad1cb0cb",
       "detailLevel": "preview"
     },
     {
@@ -989,6 +990,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-336145c556f89af510",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+      "bullets": [
+        "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace »."
+      ],
+      "publishedAt": "2026-11-16T22:05:22+00:00",
+      "updatedAt": "2026-11-16T22:05:22+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "522af8c256e2a5049a0fdfdb7edcab8f5dbc6e44dff79de0c6d197c931e099ec",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-bf62d82a998cb60cc7",
       "revision": 2,
       "category": "france",
@@ -1088,31 +1113,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-678d6a91b40046d2fe",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : à Metz, à Nice ou en Ariège, LFI et ses réunions publiques à la conquête des territoires",
-      "bullets": [
-        "L’organisation de nombreux échanges animés par les cadres de La France insoumise lui permet de multiplier les démonstrations de force pour s’imposer à gauche, de mailler le territoire et de consolider toujours plus sa base électorale.",
-        "Très tôt dans la campagne, le parti mobilise ainsi fortement ses sympathisants et électeurs."
-      ],
-      "publishedAt": "2026-11-16T16:30:00+00:00",
-      "updatedAt": "2026-11-16T16:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c811f0d1f2cb1b564c351c4114b345ca2b99b870a96c928e71684fa100fcacf8",
       "detailLevel": "preview"
     },
     {
@@ -1242,7 +1242,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1266,7 +1266,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
