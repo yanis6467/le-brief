@@ -1,38 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T17:25:36.879715+00:00",
+  "preparedAt": "2026-11-16T19:10:47.540005+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-ec5ee32ee941d2b708",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Cyberattaque contre des frigos de supermarchés : Jean-Noël Barrot espère des sanctions de l'Union européenne contre l’Iran d'ici un mois",
-      "bullets": [
-        "La France espère des sanctions européennes contre l'Iran d'ici un mois, a déclaré lundi son ministre des Affaires étrangères Jean-Noël Barrot, après la cyberattaque contre des réfrigérateurs dont Paris a attribué la responsabilité à Téhéran.",
-        "Interrogé à son arrivée à une réunion avec ses homologues des pays de l'Union européenne à Bruxelles, Jean-Noël Barrot a dit avoir «bon espoir» que ces sanctions puissent être prises au cours d'une prochaine réunion ministérielle le 14 décembre."
-      ],
-      "publishedAt": "2026-11-16T17:10:27+00:00",
-      "updatedAt": "2026-11-16T17:10:27+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-jean-noel-barrot-espere-des-sanctions-de-l-union-europeenne-d-ici-un-mois-20261116",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "892e7553227ff9e46f9299b74760e871ca394186e56deeeb213b946dde92cfd0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
-    },
     {
       "id": "rss-0166d8763254d5f343",
       "revision": 1,
@@ -170,6 +143,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0666876e710861cf93",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Grève du 17 novembre : transports, manifestations… À quoi faut-il s’attendre pour cette nouvelle journée de mobilisation ?",
+      "bullets": [
+        "Une intersyndicale de la fonction publique, rejointe par plusieurs centrales syndicales, telles que la CGT et la CFDT, appelle à la grève et à la manifestation ce mardi 17 novembre, réclamant des hausses de salaires.",
+        "Les dernières annonces du gouvernement n’ont pas convaincu les syndicats."
+      ],
+      "publishedAt": "2026-11-16T18:38:37+00:00",
+      "updatedAt": "2026-11-16T18:38:37+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f76ac368c0af826349ccf46eddcc697755804526420549bf114e441069e6fe3e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a05567baccc3126c45",
       "revision": 1,
       "category": "eco",
@@ -220,31 +218,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
       "context": null
-    },
-    {
-      "id": "rss-0666876e710861cf93",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 17 novembre : transports, manifestations… À quoi faut-il s’attendre pour cette nouvelle journée de mobilisation ?",
-      "bullets": [
-        "Une intersyndicale de la fonction publique, rejointe par plusieurs centrales syndicales, telles que la CGT et la CFDT, appelle à la grève et à la manifestation ce mardi 17 novembre, réclamant des hausses de salaires.",
-        "Les dernières annonces du gouvernement n’ont pas convaincu les syndicats."
-      ],
-      "publishedAt": "2026-11-16T14:44:32+00:00",
-      "updatedAt": "2026-11-16T14:44:32+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f76ac368c0af826349ccf46eddcc697755804526420549bf114e441069e6fe3e",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-8c0651d5b589f554fa",
@@ -327,6 +300,34 @@
       "context": null
     },
     {
+      "id": "rss-f81ba744ff221f44fd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
+      "bullets": [
+        "\"La situation devient intenable\", estime lundi 16 novembre sur France Culture, Christophe Ramond, président socialiste du département du Tarn, alors que le projet de budget 2027 prévoit une économie budgétaire de 1,8 milliard d'euros pour les départements.",
+        "Christophe Ramond prévient, si cet effort financier est confirmé, \"ce sera moins d'investissement dans nos collèges, sur nos routes ou pour soutenir le bloc communal, les politiques de santé\".",
+        "L'élu LR dit attendre \"une vraie discussion, une vraie négociation pour essayer d'obtenir une position réaliste de la part du gouvernement vis-à-vis des départements\"."
+      ],
+      "publishedAt": "2026-11-16T07:38:02+00:00",
+      "updatedAt": "2026-11-16T07:38:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "267d5a6bfbc93443891debafd73aff70b1d9cad32482e0a19328e389114573c9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T19:10:47.540005+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -337,8 +338,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T17:20:24+00:00",
-      "updatedAt": "2026-11-16T17:20:24+00:00",
+      "publishedAt": "2026-11-16T19:06:06+00:00",
+      "updatedAt": "2026-11-16T19:06:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -564,27 +565,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d06cdc1afbc789a03b",
+      "id": "rss-91bd13788b361aa8a1",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "« Un bouclier anti-sanctions » : Hongkong rebondit au service des ambitions géopolitiques de la Chine",
+      "title": "Nvidia : les Etats-Unis cherchent à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
       "bullets": [
-        "REPORTAGE - Mise au pas, l’ancienne colonie britannique se mue en tremplin de la deuxième puissance mondiale en lui permettant de contourner les sanctions occidentales, à l’ombre du partenariat entre Pékin et Moscou."
+        "Les règles mises en place récemment par le gouvernement Trump instaurent notamment une nouvelle autorisation nécessaire pour l’exportation de semi-conducteurs américains en Indonésie, en Malaisie, en Thaïlande, au Brésil et à Singapour."
       ],
-      "publishedAt": "2026-11-13T15:15:00+00:00",
-      "updatedAt": "2026-11-13T15:15:00+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-16T18:30:08+00:00",
+      "updatedAt": "2026-11-16T18:30:08+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/un-bouclier-anti-sanctions-hongkong-rebondit-au-service-des-ambitions-geopolitiques-de-la-chine-20261113",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
+      "summaryInput": "7b54f64349062c6b84165dfdfb47e99a10a8810ebb79cfbebbbddfb60f431719",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2e24ec5670ebf25a7a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Royaume-Uni, quand la justice puis le gouvernement travailliste torpillaient le plan Rwanda de Boris Johnson",
+      "bullets": [
+        "DÉCRYPTAGE - Le projet lancé en 2022 par le premier ministre conservateur a été enterré avant même d’être mis en œuvre, mais le gouvernement travailliste actuel ne s’interdit plus de recourir à des centres de retour dans des pays tiers."
+      ],
+      "publishedAt": "2026-11-16T18:45:00+00:00",
+      "updatedAt": "2026-11-16T18:45:00+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/au-royaume-uni-quand-la-justice-puis-le-gouvernement-travailliste-torpillaient-le-plan-rwanda-de-boris-johnson-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "626d742ac0e02fcf0b729c7da277f935acd91fcfd583f8dbf07398af0ee12f05",
       "detailLevel": "preview"
     },
     {
@@ -609,6 +634,31 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "ed3b375f0e16f3d01d030837a9a53fa8c677a77a848c4c87e3f68d669f4e444d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-73c9c16a8efca956d3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
+      "bullets": [
+        "L’attribution de l’attaque contre les systèmes de froid de nombreux supermarchés français à l’Iran n’est qu’une première réponse de Paris.",
+        "Elle s’inscrit dans une stratégie précise, et était un préalable nécessaire à d’éventuelles contre-mesures."
+      ],
+      "publishedAt": "2026-11-16T17:52:41+00:00",
+      "updatedAt": "2026-11-16T17:52:41+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8e3ef9c4e35e23e72c8a787234fec88c29953cd173115c3f94247c4e69017166",
       "detailLevel": "preview"
     },
     {
@@ -663,16 +713,16 @@
     },
     {
       "id": "rss-eae2b41f8709840013",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : le jour où la France a dénoncé l’Iran",
+      "title": "Cyberattaque contre des réfrigérateurs de supermarché : le jour où la France a dénoncé l’Iran",
       "bullets": [
         "Dans la nuit du 11 au 12 octobre, une attaque informatique attribuée à la République islamique a visé les systèmes de réfrigération de 700 supermarchés.",
-        "Si Paris n’est guère coutumière de la stratégie du « name and shame », la dénonciation publique, la gravité de l’agression a justifié un changement…"
+        "Si Paris n’est guère coutumier de la stratégie du « name and shame », la dénonciation publique, la gravité de l’agression a justifié un changement…"
       ],
-      "publishedAt": "2026-11-16T15:50:20+00:00",
-      "updatedAt": "2026-11-16T15:50:20+00:00",
+      "publishedAt": "2026-11-16T15:50:19+00:00",
+      "updatedAt": "2026-11-16T15:50:19+00:00",
       "importance": 67,
       "sources": [
         {
@@ -683,7 +733,7 @@
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "0f79036cf1d14fdfc286d2fe80fb6334d86bba95bce9732ad225755ca1de7f4b",
+      "summaryInput": "4bcfe8dcd4835b29d4e6bfeec823891bc1c14995e356cd0bcbb89a57072e0d40",
       "detailLevel": "preview"
     },
     {
@@ -709,54 +759,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "cd892cd206fab783402caffc97b90e323065490f14efc5a5148d68aedae9f645",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4938c2ada7ed7d7ca3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des militaires français opèrent désormais en Ukraine",
-      "bullets": [
-        "De petits contingents de militaires français assurent des rotations en Ukraine pour de la formation et de la réparation de matériel de guerre, a confirmé au « Monde » une source proche du dossier, à la suite des informations de RFI."
-      ],
-      "publishedAt": "2026-11-16T13:42:53+00:00",
-      "updatedAt": "2026-11-16T13:42:53+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c2bd0103026c12b8ba9e886e3a29e6471eaa10ee5dbffc6bc9a696eb8322dde0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c7ecd2ca461dae7300",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Jordanie interdit Telegram, accusé de contribuer à « l’extrémisme », après l’attaque meurtrière d’une église",
-      "bullets": [
-        "Le royaume souhaite contrer « toute tentative de propagation de la radicalisation et de l’extrémisme » et appelle ses citoyens à la vigilance sur les réseaux sociaux."
-      ],
-      "publishedAt": "2026-11-16T12:36:45+00:00",
-      "updatedAt": "2026-11-16T12:36:45+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-interdit-telegram-accuse-de-contribuer-a-l-extremisme-apres-l-attaque-meurtriere-d-une-eglise_6811768_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5d25df5b85d8149047aa0374cb55f04451314f5274064889a6d9563977705ac4",
       "detailLevel": "preview"
     },
     {
@@ -809,84 +811,77 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-34f5f5b3a59f845579",
-      "revision": 3,
+      "id": "rss-e28d11108bf2536039",
+      "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
+      "title": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
       "bullets": [
-        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
+        "A la veille d’une nouvelle journée de mobilisation nationale, le gouvernement durcit le ton face à la contestation, en interdisant notamment la vente de mortiers d’artifice et les rassemblements autour de certains établissements parisiens."
       ],
-      "publishedAt": "2026-11-14T04:00:06+00:00",
-      "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-16T19:06:05+00:00",
+      "updatedAt": "2026-11-16T19:06:05+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
+      "summaryInput": "51d4c46d24bfa795f12a0550845c9b9d027ff5206c47b260ddc4623bab319fc1",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bab4d75cf1e2283785",
-      "revision": 4,
+      "id": "rss-3a51803c04afd64743",
+      "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
+      "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
       "bullets": [
-        "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
-        "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France",
-        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand"
+        "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces.",
+        "Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050."
       ],
-      "publishedAt": "2026-11-13T12:00:02+00:00",
-      "updatedAt": "2026-11-13T12:00:02+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-16T09:47:06+00:00",
+      "updatedAt": "2026-11-16T09:47:06+00:00",
+      "importance": 59,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-quelle-sante-en-france-apres-2027_8280977.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1c5e9f7ec8356b38632ef977d730748507957f5bd9bc348a53a50c07bfe9a596",
+      "detailLevel": "preview"
     },
     {
-      "id": "rss-6a5bae1fe5854d1c24",
+      "id": "rss-3e5c9bc07a6d11b29a",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Guerre de territoire, \"barbarie\", aveux surprises... Ce que l'on a appris au procès de l'assassinat du frère d'Amine Kessaci",
+      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
       "bullets": [
-        "Un guet-apens meurtrierA l'énoncé des faits au premier jour du procès, le 19 octobre, la mère d'une des victimes ne peut retenir ses larmes.",
-        "Une médecin légiste évoquera le corps de Brahim Chabane, \"très, très abîmé par la carbonisation\", à tel point qu'il ne pesait plus que 20 kilos.",
-        "Karim Harrat est revenu sur son parcours, ses premières \"mauvaises fréquentations\" après le décès de son père quand il avait 14 ans."
+        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
       ],
-      "publishedAt": "2026-11-16T05:00:38+00:00",
-      "updatedAt": "2026-11-16T05:00:38+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/justice-proces/guerre-de-territoire-barbarie-aveux-surprises-ce-que-l-on-a-appris-au-proces-de-l-assassinat-du-frere-d-amine-kessaci_8278823.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "849e365863eddb1da824630211dfa3d19028161e92a1012c71265af6f4064559",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T06:37:33.256816+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-86d516e3142189e053",
@@ -966,27 +961,27 @@
       "context": null
     },
     {
-      "id": "rss-41358dfc34500c6ddc",
+      "id": "rss-34f5f5b3a59f845579",
       "revision": 3,
       "category": "france",
-      "topic": "Politique",
-      "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
       "bullets": [
-        "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
+        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
       ],
-      "publishedAt": "2026-11-15T10:09:57+00:00",
-      "updatedAt": "2026-11-15T10:09:57+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-14T04:00:06+00:00",
+      "updatedAt": "2026-11-14T04:00:06+00:00",
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "5535878917120e6713067bd0f49b9881ce47ebf895116a92bd699aea7ead436f",
+      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
     },
     {
@@ -1040,6 +1035,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dce95a1817a2761e98",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "De nouvelles élections municipales auront lieu en janvier à Wittelsheim, dans la seule ville alsacienne aux mains du RN",
+      "bullets": [
+        "Le scrutin de mars a été annulé en raison d’irrégularités. « La procédure veut que (…) soit mise en place une délégation spéciale », chargée de la gestion des affaires courantes, a précisé la préfecture."
+      ],
+      "publishedAt": "2026-11-16T14:24:27+00:00",
+      "updatedAt": "2026-11-16T14:24:27+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/16/de-nouvelles-elections-municipales-auront-lieu-en-janvier-a-wittelsheim-dans-la-seule-ville-alsacienne-aux-mains-du-rn_6811964_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "26f8048e94844459eba8b4b0394866fbbcee86ef63f3f638307b25ef9a970015",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dc3f0517ca75502fa2",
       "revision": 1,
       "category": "france",
@@ -1064,30 +1083,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e5c9bc07a6d11b29a",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
-      "bullets": [
-        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
-      ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-bcd059acf655de34df",
       "revision": 1,
       "category": "france",
@@ -1098,7 +1093,7 @@
       ],
       "publishedAt": "2026-11-14T17:33:12+00:00",
       "updatedAt": "2026-11-14T17:33:12+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1109,31 +1104,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-90df1864a41fc17ef6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
-      "bullets": [
-        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
-        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
-      ],
-      "publishedAt": "2026-11-10T04:00:14+00:00",
-      "updatedAt": "2026-11-10T04:00:14+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
       "detailLevel": "preview"
     },
     {
@@ -1160,6 +1130,30 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a540ee505983c352a520984046e676a84195ea5899e880c895ad29a7f8630a68",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9e9f041964f253622b",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "L’interdiction temporaire de la vente de mortiers peut-elle vraiment limiter leur accès ?",
+      "bullets": [
+        "Après les tirs survenus dans des établissements scolaires, l’exécutif a ordonné dimanche une suspension nationale du commerce de plusieurs engins pyrotechniques."
+      ],
+      "publishedAt": "2026-11-16T13:59:47+00:00",
+      "updatedAt": "2026-11-16T13:59:47+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/l-interdiction-de-la-vente-de-mortiers-peut-elle-vraiment-limiter-leur-acces-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "83423444c7e6cb6996192b124d005f71a5366ae64d4a8b94294471f65036f33f",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1185,7 +1179,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1197,13 +1191,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1221,7 +1215,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
@@ -1239,13 +1233,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1269,7 +1263,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
