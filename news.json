@@ -1,36 +1,37 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T21:00:08.805701+00:00",
+  "preparedAt": "2026-11-16T21:59:13.868911+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-0166d8763254d5f343",
+      "id": "rss-6ee5edf38146e98d6c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Les États-Unis veulent bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
+      "title": "Retraites : existe-t-il des trimestres validés sans travailler ?",
       "bullets": [
-        "Le gouvernement Trump a publié lundi une série de mesures visant à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers, une pratique au cœur du scandale qui a provoqué le départ du patron de Nvidia Jensen Huang.",
-        "L’annonce intervient après la révélation d’une liaison entre Jensen Huang et la femme d’affaires chinoise Alice Huang, soupçonnée d’avoir permis à des acteurs chinois de l’intelligence artificielle (IA) d’obtenir des puces américaines malgré un embargo, via des pays asiatiques tiers."
+        "Un coût de 26 milliards d'euros par anMais alors, sait-on combien coûtent ces trimestres assimilés pour le régime des retraites ?",
+        "On parle de trimestres gratuits, mais ils ont évidemment un coût : environ 26 milliards d'euros par an.",
+        "Dans cette enveloppe de 26 milliards, le plus gros poste de dépenses concerne les personnes au chômage."
       ],
-      "publishedAt": "2026-11-16T17:18:48+00:00",
-      "updatedAt": "2026-11-16T17:18:48+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-16T21:00:31+00:00",
+      "updatedAt": "2026-11-16T21:00:31+00:00",
+      "importance": 93,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/les-etats-unis-veulent-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers-20261116",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/vrai-ou-fake/retraites-existe-t-il-des-trimestres-valides-sans-travailler_8285468.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
-      "summaryInput": "abad5a1108a21d03fa7693e78dba7479f2c3a48531d29055cbc1343963e39892",
+      "summaryInput": "3f341d33c2e7978ceca6998c196b8e7757b6823625dcc68bbba5810179edf7f5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
       "context": null
     },
     {
@@ -62,34 +63,6 @@
       "context": null
     },
     {
-      "id": "rss-7e64939eb569058731",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "VIDEO. Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
-      "bullets": [
-        "Le gouvernement a annoncé une augmentation de 350 euros bruts par an pour les fonctionnaires.",
-        "Généralement, les économies qui ont été faites sur le pouvoir d'achat des fonctionnaires ces dernières années, c'est plutôt de l'ordre de 2 milliards quand on n'augmente pas le pouvoir d'achat.",
-        "Le smic va augmenter aussi de 1,6 % le 1er décembre."
-      ],
-      "publishedAt": "2026-11-16T10:41:43+00:00",
-      "updatedAt": "2026-11-16T10:41:43+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "e97367a9c5e694aca8524884911645aacc6f04b72538f46b5d0f0388e82e15df",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
-      "context": null
-    },
-    {
       "id": "rss-70c771a77ab0c8354b",
       "revision": 1,
       "category": "eco",
@@ -102,7 +75,7 @@
       ],
       "publishedAt": "2026-11-16T09:54:41+00:00",
       "updatedAt": "2026-11-16T09:54:41+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -141,6 +114,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "3c94841e212b7aaf88d512c28edcf7f31d805eacf376c29a18e5fbd57d0600b8",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-becf959f4035b53280",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+      "bullets": [
+        "A la veille d'une journée de mobilisation sociale, l'Assemblée nationale a adopté, lundi 16 novembre, une proposition de loi soutenue par le gouvernement pour faciliter le déblocage de l'épargne salariale.",
+        "Déjà adopté au Sénat, le texte a été voté par 95 voix contre 34, dans une version un peu différente.",
+        "La proposition de loi prévoit un nouveau cas temporaire de déblocage anticipé de l'épargne salariale, dans la limite de 10 000 euros après l'adoption d'un amendement de la députée Liot Valérie Létard."
+      ],
+      "publishedAt": "2026-11-16T21:46:35+00:00",
+      "updatedAt": "2026-11-16T21:46:35+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "8e360513ae6ef2dd8e27d1c1f40c71362d3da69acd4ce5f36606d8e283cc60f1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
+      "context": null
     },
     {
       "id": "rss-d1c85455b49a648001",
@@ -248,30 +249,6 @@
       "context": null
     },
     {
-      "id": "rss-8c0651d5b589f554fa",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget de la Sécurité sociale : les sénateurs relancent le débat sur les 35 heures",
-      "bullets": [
-        "DÉCRYPTAGE - Un amendement adopté vendredi propose d’ouvrir une consultation avec les partenaires sociaux sur le retour à 37 heures de travail hebdomadaires."
-      ],
-      "publishedAt": "2026-11-16T14:30:00+00:00",
-      "updatedAt": "2026-11-16T14:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-securite-sociale-les-senateurs-relancent-le-debat-sur-les-35-heures-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "23c13782f76c9a407eeebe45a28587e6d2f493bc932b985d41c45d232f391cfd",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f581a122a0d71bb762",
       "revision": 1,
       "category": "eco",
@@ -324,8 +301,32 @@
       "provenance": "article-extract",
       "summaryInput": "76b693d593df5f236029d196e26cf36ff43711c90bac94f06d6c8600aad1da92",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
+      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
       "context": null
+    },
+    {
+      "id": "rss-781dff70b1559ae2df",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« La chute du cabinet d’avocats Weil ressemble à celle d’un avion en parfait état de marche qui perdrait tout à coup son fuselage en plein vol »",
+      "bullets": [
+        "La cessation d’activité du cabinet spécialisé dans les opérations de fusion-acquisition ou de capital-investissement marque la fin d’une époque à Wall Street, constate Nicolas Chapuis, dans sa chronique au « Monde »."
+      ],
+      "publishedAt": "2026-11-16T16:00:11+00:00",
+      "updatedAt": "2026-11-16T16:00:11+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/16/la-chute-du-cabinet-d-avocats-weil-ressemble-a-celle-d-un-avion-en-parfait-etat-de-marche-qui-perdrait-tout-a-coup-son-fuselage-en-plein-vol_6812165_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3c7081d3fd0aadb17fc00d373e01f74fd0ae526488f612c2ef0e4dcdda76c6e6",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -338,8 +339,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T20:54:59+00:00",
-      "updatedAt": "2026-11-16T20:54:59+00:00",
+      "publishedAt": "2026-11-16T21:54:08+00:00",
+      "updatedAt": "2026-11-16T21:54:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -448,7 +449,7 @@
       ],
       "publishedAt": "2026-11-16T09:05:47+00:00",
       "updatedAt": "2026-11-16T09:05:47+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -460,7 +461,7 @@
       "provenance": "article-extract",
       "summaryInput": "c3903f1b4855287d979e5b5d48a39f67122ffda2676b9359672fe73f9ea525f1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
+      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
       "context": null
     },
     {
@@ -800,7 +801,7 @@
       ],
       "publishedAt": "2026-11-16T09:33:42+00:00",
       "updatedAt": "2026-11-16T09:33:42+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -849,7 +850,7 @@
       ],
       "publishedAt": "2026-11-16T09:47:06+00:00",
       "updatedAt": "2026-11-16T09:47:06+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1175,7 +1176,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1199,7 +1200,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
