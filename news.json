@@ -1,34 +1,65 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T11:34:21.110085+00:00",
+  "preparedAt": "2026-11-16T15:20:01.671071+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-518833bf6d63eca968",
+      "id": "rss-ec5ee32ee941d2b708",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
+      "title": "Cyberattaque contre des frigos de supermarchés : Jean-Noël Barrot espère des sanctions de l'Union européenne contre l’Iran d'ici un mois",
       "bullets": [
-        "DÉCRYPTAGE - Victime d’une cyberattaque mi-septembre, la plateforme spécialisée dans l’envoi de courriers professionnels a subi le vol des coordonnées de 22 millions de personnes."
+        "La France espère des sanctions européennes contre l'Iran d'ici un mois, a déclaré lundi son ministre des Affaires étrangères Jean-Noël Barrot, après la cyberattaque contre des réfrigérateurs dont Paris a attribué la responsabilité à Téhéran.",
+        "Interrogé à son arrivée à une réunion avec ses homologues des pays de l'Union européenne à Bruxelles, Jean-Noël Barrot a dit avoir «bon espoir» que ces sanctions puissent être prises au cours d'une prochaine réunion ministérielle le 14 décembre."
       ],
-      "publishedAt": "2026-11-15T13:54:17+00:00",
-      "updatedAt": "2026-11-15T13:54:17+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-16T14:03:52+00:00",
+      "updatedAt": "2026-11-16T14:03:52+00:00",
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-jean-noel-barrot-espere-des-sanctions-de-l-union-europeenne-d-ici-un-mois-20261116",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2eb1b751b192f08b48d317e02454daf18fb06f555bdaecb36d51caf75db49cef",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "892e7553227ff9e46f9299b74760e871ca394186e56deeeb213b946dde92cfd0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-49d55510f00bdbe61a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"La hausse des taux aujourd'hui, c'est le critère principal des acquéreurs\" : à Rennes, des prix de vente revus à la baisse face aux taux d'emprunt qui grimpent en flèche",
+      "bullets": [
+        "Un immeuble a été construit il y a moins de 10 ans dans un quartier du nord de Rennes (Ille-et-Vilaine).",
+        "L'un des appartements est un T3 de 68 mètres carrés, mis sur le marché à 330 000 euros.",
+        "Alors, les vendeurs viennent de baisser le prix de 55 000 euros sur les conseils de l'agente immobilière."
+      ],
+      "publishedAt": "2026-11-16T14:23:17+00:00",
+      "updatedAt": "2026-11-16T14:23:17+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/immobilier/prix-immobilier/la-hausse-des-taux-aujourd-hui-c-est-le-critere-principal-des-acquereurs-a-rennes-des-prix-de-vente-revus-a-la-baisse-face-aux-taux-d-emprunt-qui-grimpent-en-fleche_8284949.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "73a88900a48d0e9cb59e2c8cc69cfce059ef781da4dbaf15b212bb4eec0b6157",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
     },
     {
       "id": "rss-7e64939eb569058731",
@@ -115,54 +146,106 @@
       "context": null
     },
     {
-      "id": "rss-8fa518f137b633c5c7",
+      "id": "rss-4166f2e87685996200",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+      "title": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
       "bullets": [
-        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
-        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
+        "Les projets d’enfouissement d’infrastructures critiques se multiplient dans la région, même si la tendance avait commencé bien avant la guerre au Moyen-Orient.",
+        "Un nouveau marché de la construction en sous-sol s’ouvre aux puissances étrangères."
       ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 71,
+      "publishedAt": "2026-11-16T13:00:05+00:00",
+      "updatedAt": "2026-11-16T13:00:05+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
+      "summaryInput": "3c94841e212b7aaf88d512c28edcf7f31d805eacf376c29a18e5fbd57d0600b8",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f4ef66aa3f39453cb7",
+      "id": "rss-0666876e710861cf93",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?",
+      "title": "Grève du 17 novembre : transports, manifestations… À quoi faut-il s’attendre pour cette nouvelle journée de mobilisation ?",
       "bullets": [
-        "Conçues pour influencer les décisions des internautes, ces «interfaces trompeuses» sont partout, des sites de commerces en ligne aux réseaux sociaux.",
-        "Bruxelles souhaite les encadrer pour mieux protéger les consommateurs."
+        "Une intersyndicale de la fonction publique, rejointe par plusieurs centrales syndicales, telles que la CGT et la CFDT, appelle à la grève et à la manifestation ce mardi 17 novembre, réclamant des hausses de salaires.",
+        "Les dernières annonces du gouvernement n’ont pas convaincu les syndicats."
       ],
-      "publishedAt": "2026-11-15T16:02:53+00:00",
-      "updatedAt": "2026-11-15T16:02:53+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-16T14:44:32+00:00",
+      "updatedAt": "2026-11-16T14:44:32+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/faux-comptes-a-rebours-options-payantes-precochees-que-sont-les-dark-patterns-ces-pieges-numeriques-auxquels-l-ue-s-attaque-20261115",
+          "url": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "1213bbf8e332c0b619049cf18307510658960737759b08272e5659ff24cda761",
+      "summaryInput": "f76ac368c0af826349ccf46eddcc697755804526420549bf114e441069e6fe3e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8c0651d5b589f554fa",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de la Sécurité sociale : les sénateurs relancent le débat sur les 35 heures",
+      "bullets": [
+        "DÉCRYPTAGE - Un amendement adopté vendredi propose d’ouvrir une consultation avec les partenaires sociaux sur le retour à 37 heures de travail hebdomadaires."
+      ],
+      "publishedAt": "2026-11-16T14:30:00+00:00",
+      "updatedAt": "2026-11-16T14:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-securite-sociale-les-senateurs-relancent-le-debat-sur-les-35-heures-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "23c13782f76c9a407eeebe45a28587e6d2f493bc932b985d41c45d232f391cfd",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f581a122a0d71bb762",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
+      "bullets": [
+        "Le projet de loi sur le logement, examiné lundi 16 novembre à l'Assemblée nationale, \"va uniquement dans le sens des bailleurs\", regrette lundi 16 novembre sur franceinfo Manuel Domergue, directeur des études de la Fondation pour le logement des défavorisés.",
+        "Le texte doit permettre la remise sur le marché locatif des passoires énergétiques, ces logements classés G ou F sur le diagnostic de performance énergétique, initialement interdits à la location dès 2028.",
+        "Dans cette situation, Manuel Domergue demande que le locataire \"bénéficie en contrepartie d'une baisse de loyer\"."
+      ],
+      "publishedAt": "2026-11-16T11:29:37+00:00",
+      "updatedAt": "2026-11-16T11:29:37+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "737a6ca2be834f072c68bc3273b23625ac5a53813c4e25eecae8fbf50190825b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
     },
     {
       "id": "rss-5ec201acc6e304f386",
@@ -249,82 +332,6 @@
       "context": null
     },
     {
-      "id": "rss-d36d58f23f960fd060",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Anne de Guigné : « La politique de l’offre se remettra-t-elle du macronisme ? »",
-      "bullets": [
-        "CHRONIQUE - Les petites phrases présidentielles ont nourri le sentiment des Français de traverser une purge libérale. La politique économique macroniste a pourtant davantage tendu au soutien à la demande qu’à l’offre. Cette ambiguïté compliquera la tâche des successeurs d’Emmanuel Macron."
-      ],
-      "publishedAt": "2026-11-16T07:30:00+00:00",
-      "updatedAt": "2026-11-16T07:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/anne-de-guigne-la-politique-de-l-offre-se-remettra-t-elle-du-macronisme-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "156eecb7d20b41ae97e1dc853d05ed1e9a166d9d96b6375818c81df86a533a47",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7d8f37ba353c7089c1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
-      "bullets": [
-        "Et les revendications que l'on porte, ne sont pas de la semaine dernière.",
-        "\"Depuis 2017, l'inflation a été de 3 à 4 fois plus élevé que l'augmentation du point d'indice des agents\", donc \"toutes les catégories sont touchées par une baisse de leur pouvoir d'achat\".",
-        "À moins de six mois du premier tour de l'élection présidentielle le dimanche 18 avril 2027 elle \"espère que les candidats entendent les revendications qui sont portées par les représentants des agents publics et qui sont aussi pour la sauvegarde de notre service public\", détaille Laure Revel."
-      ],
-      "publishedAt": "2026-11-15T19:44:28+00:00",
-      "updatedAt": "2026-11-15T19:44:28+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "184862a6c15cce41dce324e68bfe34c170eccf85cc91da2bb89a74508f777faf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e08fae195b21146a5c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Suspension des vols aux Etats-Unis : environ 240 vols annulés, et quelque 530, retardés, lundi",
-      "bullets": [
-        "« Nous allons voir les choses revenir (…) sans doute complètement à la normale lundi », a estimé le ministre des transports américain, Sean Duffy, dimanche, après une panne inédite du contrôle aérien."
-      ],
-      "publishedAt": "2026-11-16T10:49:03+00:00",
-      "updatedAt": "2026-11-16T10:49:03+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/suspension-des-vols-aux-etats-unis-environ-240-vols-annules-et-quelque-530-retardes-lundi_6811688_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b0e3198b2b7be6e5c8fe5946d3664bf1b9ce19708c0ccccb57482971c252a60a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -335,8 +342,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T11:29:51+00:00",
-      "updatedAt": "2026-11-16T11:29:51+00:00",
+      "publishedAt": "2026-11-16T15:15:09+00:00",
+      "updatedAt": "2026-11-16T15:15:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -353,28 +360,56 @@
       "context": null
     },
     {
-      "id": "rss-857775e90965491209",
+      "id": "rss-d43ede1b1062653877",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.20%",
+      "title": "« L’entrée en Bourse d’Anthropic est un test de confiance XXL des marchés financiers à l’égard du secteur de l’IA »",
       "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-020-1173806.html"
+        "Malgré la victoire des démocrates aux midterms et l’avenir incertain du fabricant de puces Nvidia, deux ondes de choc pour l’intelligence artificielle, l’entreprise créatrice du robot conversationnel Claude maintient son projet pharaonique de s’introduire au Nasdaq, le 19 novembre, constate, dans sa chronique, Fabrice Gliszczynski, journaliste au « Monde »."
       ],
-      "publishedAt": "2026-11-16T08:00:00+00:00",
-      "updatedAt": "2026-11-16T08:00:00+00:00",
+      "publishedAt": "2026-11-16T14:00:02+00:00",
+      "updatedAt": "2026-11-16T14:00:02+00:00",
       "importance": 63,
       "sources": [
         {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-020-1173806.html",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/16/l-entree-en-bourse-d-anthropic-est-un-test-de-confiance-xxl-des-marches-financiers-a-l-egard-du-secteur-de-l-ia_6811899_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "fa28f9a0596a4371ecb983f2590e8668f0432c5a7181961a88d7016a276c21ba",
+      "summaryInput": "9b70f9f680bf2c8384c68e9b90d25de38502e6d87afe568561c6079e1ed3531f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-29340eea87a6c49578",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : À l'aube d'une semaine qui sera marquée par Anthropic et Nvidia, le CAC 40 peine à avancer",
+      "bullets": [
+        "En termes de montants levés, il devrait s'agit de la plus importante entrée sur la cote, avec plus de 90 milliards de dollars, placement privé inclus.",
+        "La foncière Carmila perd 4,2% après avoir annoncé le rachat en actions de l'Italien IGD.",
+        "Sur les autres marchés, l'euro recule de 0,2% face au dollar à 1,10 dollar."
+      ],
+      "publishedAt": "2026-11-16T11:48:04+00:00",
+      "updatedAt": "2026-11-16T11:48:04+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-a-l-aube-d-une-semaine-qui-sera-marquee-par-anthropic-et-nvidia-le-cac-40-peine-a-avancer-1173839.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "36617ad929ee74d79ffb231919023ee2337f345bebcb6be708431a5dbc1d58ec",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
     },
     {
       "id": "rss-ce717bd9d2b9de31c7",
@@ -401,7 +436,7 @@
       "provenance": "article-extract",
       "summaryInput": "2f4a06c3acf6380cd7afeac35078843ce00c9e727218bf007e61416a10565c9c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-15T23:55:05.871018+00:00",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
       "context": null
     },
     {
@@ -433,31 +468,55 @@
       "context": null
     },
     {
-      "id": "rss-9a9cf907be0021f128",
+      "id": "rss-89231263b034e45140",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+      "title": "Belgique : sans accord budgétaire, le premier ministre, Bart De Wever, obtient un nouveau délai d’une semaine du roi",
       "bullets": [
-        "Et c'est vrai qu'on a en Europe une cinquième colonne, c'est-à-dire des personnes qui se présentent pour accéder aux plus hautes fonctions nationales, en France en l'occurrence, mais qui jouent en réalité contre les intérêts de la France et de l'Europe.",
-        "Je m'explique : on a cette guerre en Ukraine qui ne concerne pas seulement l'avenir des Ukrainiens, mais aussi celui de la paix, de la démocratie en Europe et de la liberté, en réalité, puisque Vladimir Poutine ne s'arrêtera pas à l'Ukraine.",
-        "Vous, présidente, vous augmentez l'aide financière de la France à l'Ukraine ?"
+        "Quatre des cinq partis de la coalition se sont entendus sur un effort de 10 milliards d’euros, mais les socialistes flamands de Vooruit jugent encore insuffisante la contribution demandée aux plus hauts revenus."
       ],
-      "publishedAt": "2026-11-15T19:02:15+00:00",
-      "updatedAt": "2026-11-15T19:02:15+00:00",
-      "importance": 92,
+      "publishedAt": "2026-11-16T13:40:20+00:00",
+      "updatedAt": "2026-11-16T13:40:20+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/belgique-sans-accord-budgetaire-le-premier-ministre-bart-de-wever-obtient-un-nouveau-delai-d-une-semaine-du-roi_6811864_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b07e68e87cf328237ceb5a2353d6efe45dc2a0651438d71f842e9f1a56c26278",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ccb82eafc76b79a7b5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
+      "bullets": [
+        "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
+        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand",
+        "Maileva, une filiale du groupe La Poste victime d'un vol de données touchant 22 millions de personnes"
+      ],
+      "publishedAt": "2026-11-16T12:14:16+00:00",
+      "updatedAt": "2026-11-16T12:14:16+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/edito-sur-l-ukraine-marine-le-pen-a-t-elle-une-position-antipatriotique_8284844.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
-      "summaryInput": "b7de4575a1e6a5248ec31f9732a015d4ffd386f5859d4931bda5e359e0d7a70f",
+      "summaryInput": "593682b7ba67822a77e8193676bf086acc3a61689336303b9635b137329915df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
       "context": null
     },
     {
@@ -537,34 +596,6 @@
       "context": null
     },
     {
-      "id": "rss-39529123d5e3b63069",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : le Donbass contre une adhésion à l'OTAN, la proposition américaine qui fait polémique",
-      "bullets": [
-        "Jeudi 19 novembre, à Shenzhen, en Chine, se tiendra une rencontre au sommet.",
-        "Malgré presque cinq ans de conflit, l'Ukraine s'est toujours officiellement refusée à l'idée de céder une partie de son territoire à la Russie, peu importe les contreparties, y compris celle de rejoindre l'OTAN.",
-        "Un membre de l'entourage d'Emmanuel Macron raconte : \"Non seulement les Américains ne soutiennent plus l'Ukraine, mais ils ont décidé de l'enfoncer."
-      ],
-      "publishedAt": "2026-11-15T23:24:08+00:00",
-      "updatedAt": "2026-11-15T23:24:08+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-donbass-contre-une-adhesion-a-l-otan-la-proposition-americaine-qui-fait-polemique_8283893.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "3d60b9a208b16ebbf1d6ad6d891c9ed55f3d248045d899840bd415bd39e75f9e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T23:55:05.871018+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a45047027f7f757f59",
       "revision": 2,
       "category": "world",
@@ -590,33 +621,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-32040b01122c838518",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
-      "bullets": [
-        "Pour répondre à \"la priorité donnée à la sécurisation\" de la ville, l'armée a annoncé, dimanche 15 novembre, \"un redéploiement de ses forces depuis la région de Bab el-Mandeb (...) pour renforcer leur présence dans les zones où les circonstances actuelles l'exigent\".",
-        "Dans la province de Lahj, près d'Aden, une attaque de missiles houthis contre une position des forces gouvernementales yéménites a tué huit civils et fait 12 blessés dimanche, selon trois sources militaires et une gouvernementale ayant requis l'anonymat."
-      ],
-      "publishedAt": "2026-11-15T18:47:11+00:00",
-      "updatedAt": "2026-11-15T18:47:11+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "d7dccdc73f5f8eac038548ff0474b542528623d63cdea8fe2a410a70528eb3b7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d06cdc1afbc789a03b",
       "revision": 1,
       "category": "world",
@@ -627,7 +631,7 @@
       ],
       "publishedAt": "2026-11-13T15:15:00+00:00",
       "updatedAt": "2026-11-13T15:15:00+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -641,29 +645,80 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-920467221f3a49c5e4",
+      "id": "rss-4938c2ada7ed7d7ca3",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
+      "title": "Des militaires français opèrent désormais en Ukraine",
       "bullets": [
-        "Alors que la 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques doit commencer lundi à Genève, des soldats et des spécialistes de l’IA ukrainiens s’interrogent sur les responsabilités liées à son usage.",
-        "Une réflexion difficile à tenir en temps de guerre tandis que l’ennemi russe avance sans se…"
+        "De petits contingents de militaires français assurent des rotations en Ukraine pour de la formation et de la réparation de matériel de guerre, a confirmé au « Monde » une source proche du dossier, à la suite des informations de RFI."
       ],
-      "publishedAt": "2026-11-16T04:00:14+00:00",
-      "updatedAt": "2026-11-16T04:00:14+00:00",
+      "publishedAt": "2026-11-16T13:42:53+00:00",
+      "updatedAt": "2026-11-16T13:42:53+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "39228484dc5c9a77cce4a53a081005c9ceeabc84e1e14cdc658e839cf3001fd8",
+      "summaryInput": "c2bd0103026c12b8ba9e886e3a29e6471eaa10ee5dbffc6bc9a696eb8322dde0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c7ecd2ca461dae7300",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Jordanie interdit Telegram, accusé de contribuer à « l’extrémisme », après l’attaque meurtrière d’une église",
+      "bullets": [
+        "Le royaume souhaite contrer « toute tentative de propagation de la radicalisation et de l’extrémisme » et appelle ses citoyens à la vigilance sur les réseaux sociaux."
+      ],
+      "publishedAt": "2026-11-16T12:36:45+00:00",
+      "updatedAt": "2026-11-16T12:36:45+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-interdit-telegram-accuse-de-contribuer-a-l-extremisme-apres-l-attaque-meurtriere-d-une-eglise_6811768_4408996.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5d25df5b85d8149047aa0374cb55f04451314f5274064889a6d9563977705ac4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9ff791ef114b7a2278",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'UE annonce de nouvelles sanctions contre plus de 100 entités et personnes \"pour mieux restreindre la capacité de la Russie à financer sa guerre\" en Ukraine",
+      "bullets": [
+        "Une \"réaction aux attaques indiscriminées de la Russie contre l'Ukraine\".",
+        "Dans un communiqué, lundi 16 novembre, le Conseil de l'Union européenne annonce \"des mesures restrictives supplémentaires à l'encontre de 12 personnes et de 101 entités\", pour leur \"rôle dans des secteurs économiques constituant une source de revenus substantielle pour la guerre d'agression menée par la Russie\" en Ukraine.",
+        "L'ensemble des personnes et entités visées \"font l'objet d'un gel de leurs avoirs\", et les individus sanctionnés ont l'interdiction d'entrée au sein de l'UE."
+      ],
+      "publishedAt": "2026-11-16T12:31:24+00:00",
+      "updatedAt": "2026-11-16T12:31:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ue-annonce-de-nouvelles-sanctions-contre-plus-de-100-entites-et-personnes-pour-mieux-restreindre-la-capacite-de-la-russie-a-financer-sa-guerre-en-ukraine_8284817.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "6973b6f7c162fd6e3d4743d4a6b88f49b54cf0903f3ed6e9f83f137bb396a433",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
     },
     {
       "id": "rss-871b45ff54c342e8cf",
@@ -690,65 +745,41 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c65974e78092e37b83",
+      "id": "rss-5b1eedf5ef010a0e1b",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "L’Iran a reconstitué un stock d’environ 2500 missiles, affirme le renseignement américain",
+      "title": "Albanie : des manifestants visent le bureau du Premier ministre avec des ballons de foot",
       "bullets": [
-        "Les services de renseignement américains estiment que l’Iran dispose de 1500 à 2500 missiles dans son arsenal militaire, révèle le Wall Street Journal .",
-        "Si le président américain a affirmé lundi 9 novembre qu’une reprise de la guerre avec l’Iran était «très improbable», il laisse pour autant toujours planer la perspective d’un retour aux armes.",
-        "«Cela dépend de s’ils signent ou non un accord très solide», a-t-il déclaré dimanche 7 novembre lors d’un entretien avec un journaliste de CNN."
+        "Des manifestants albanais ont tiré des ballons de foot contre les bureaux du 1er ministre, Edi Rama, dont ils réclament la démission depuis près d’un an.",
+        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand",
+        "\"Je suis là pour vivre un moment spécial de ma vie\" : à 46 ans, Ronaldinho rechausse les crampons pour un match officiel en troisième division italienne"
       ],
-      "publishedAt": "2026-11-15T15:06:33+00:00",
-      "updatedAt": "2026-11-15T15:06:33+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-16T14:01:50+00:00",
+      "updatedAt": "2026-11-16T14:01:50+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/l-iran-a-reconstitue-un-stock-d-environ-2500-missiles-affirme-le-renseignement-americain-20261115",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/albanie-des-manifestants-visent-le-bureau-du-premier-ministre-avec-des-ballons-de-foot_8284931.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
-      "summaryInput": "de1a414d7e357ddd48130a6198dbe3d80154a4aa07002a7f6b425b1d6106b8ba",
+      "summaryInput": "0fa90b1e26eb780bcf2624d22008e317381ea9c0cc0bbb1642c3e49bfafc4ccc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T03:11:07.692106+00:00",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
       "context": null
     },
     {
-      "id": "rss-cdd7627c71e31e1b8c",
-      "revision": 1,
-      "category": "world",
-      "topic": "Politique",
-      "title": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
-      "bullets": [
-        "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois."
-      ],
-      "publishedAt": "2026-11-15T13:22:32+00:00",
-      "updatedAt": "2026-11-15T13:22:32+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4cb72f5e910973eed3ffb816681d420b5c67821967a503a71d2e3de2c6d18bf4",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-bf62d82a998cb60cc7",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
       "bullets": [
-        "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisé pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
+        "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
       ],
       "publishedAt": "2026-11-16T04:29:03+00:00",
       "updatedAt": "2026-11-16T04:29:03+00:00",
@@ -762,7 +793,7 @@
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "800f6b6dd644eefe989c3d53f1c588d4fba5e17a818ad4103548ecee16609c74",
+      "summaryInput": "c1f4e056b9594bfa15123ffb90a88e1a2cc1b02d0fb5c73e284c52c2a816e356",
       "detailLevel": "preview"
     },
     {
@@ -827,7 +858,7 @@
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
-      "importance": 68,
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -883,7 +914,7 @@
       ],
       "publishedAt": "2026-11-15T13:56:47+00:00",
       "updatedAt": "2026-11-15T13:56:47+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -895,7 +926,7 @@
       "provenance": "article-extract",
       "summaryInput": "a026d304a0b89edcdbf77a98f10886de4d689a43a6cda6be1f0bd0d0dad248a2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T03:11:07.692106+00:00",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
       "context": null
     },
     {
@@ -908,8 +939,8 @@
         "Le lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique.",
         "Aujourd’hui, une sélection de disques parus en octobre pour ne pas voir passer l’hiver."
       ],
-      "publishedAt": "2026-11-16T04:45:12+00:00",
-      "updatedAt": "2026-11-16T04:45:12+00:00",
+      "publishedAt": "2026-11-16T04:45:08+00:00",
+      "updatedAt": "2026-11-16T04:45:08+00:00",
       "importance": 65,
       "sources": [
         {
@@ -936,7 +967,7 @@
       ],
       "publishedAt": "2026-11-14T12:21:34+00:00",
       "updatedAt": "2026-11-14T12:21:34+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -948,42 +979,14 @@
       "provenance": "article-extract",
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T03:11:07.692106+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9a0603345337ec8298",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en dix ans",
-      "bullets": [
-        "Edouard Philippe dégaine plusieurs propositions sur le logement.",
-        "Le candidat Horizons à la présidentielle a affirmé, dimanche 15 novembre, vouloir notamment aider les jeunes à accéder à la propriété et construire 4 millions de nouveaux logements en dix ans pour faire baisser le prix de l'immobilier.",
-        "Afin d'aider les jeunes à acquérir un logement, le candidat Horizons propose \"la suppression des taxes qu'on appelle les frais de notaire pour les moins de 35 ans, et un prêt à taux zéro à chaque nouvel enfant\"."
-      ],
-      "publishedAt": "2026-11-15T18:08:54+00:00",
-      "updatedAt": "2026-11-15T18:08:54+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "7ad47c040ab8379ed8145066118feb4ac573d982016ca1e046d4e0cd3b1ea4b2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
       "context": null
     },
     {
       "id": "rss-41358dfc34500c6ddc",
       "revision": 3,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
       "bullets": [
         "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
@@ -1004,79 +1007,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2a92e00355c18a3ea4",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-      "bullets": [
-        "Le gouvernement a publié dimanche 15 novembre un décret interdisant la vente des mortiers d'artifice jusqu'au 27 novembre, \"afin de prévenir les risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
-        "Les mortiers d'artifice étaient jusqu'ici autorisés à la vente mais les achats devaient être réalisés dans des commerces agréés ou sous autorisation, et leur usage était déjà strictement interdit sur la voie publique."
-      ],
-      "publishedAt": "2026-11-15T09:25:59+00:00",
-      "updatedAt": "2026-11-15T09:25:59+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "30c588cd432f7688e2437c5259a71251952f750615899ab10de864a3f79aa613",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ae217e4bbacdb5414e",
+      "id": "rss-f170c362975df9a319",
       "revision": 1,
       "category": "france",
-      "topic": "France",
-      "title": "Attaque à la voiture-bélier d’Oléron : les mystères de Jean G., fou de Dieu et assassin méthodique",
+      "topic": "Politique",
+      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
       "bullets": [
-        "ENQUÊTE - Le 5 novembre 2025, ce converti autoradicalisé tentait d’assassiner des «mécréants» au cœur de la Charente-Maritime.",
-        "Une attaque qui, si elle n’est pas terroriste pour la justice, est emblématique d’une terreur contemporaine mêlant folie et idéologie."
+        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
       ],
-      "publishedAt": "2026-11-14T05:30:00+00:00",
-      "updatedAt": "2026-11-14T05:30:00+00:00",
-      "importance": 71,
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/attaque-a-la-voiture-belier-d-oleron-les-mysteres-de-jean-g-fou-de-dieu-et-assassin-methodique-20261114",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "8f3447cb3d778b34f66feb5c73f74bff4489e01275c457e1931b81092f38f21b",
+      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e6b3f4292fce001eba",
+      "id": "rss-8fa518f137b633c5c7",
       "revision": 1,
       "category": "france",
-      "topic": "Éducation",
-      "title": "« Quand le ministère annonce 50 lycées bloqués, nous en comptons 150 à 200 qui ne fonctionnent pas normalement » : le gouvernement minimise-t-il les chiffres des blocages ?",
+      "topic": "Société",
+      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
       "bullets": [
-        "ENQUÊTE - Alors que l’exécutif qualifie de « résiduel » le nombre d’établissements touchés par les perturbations, les proviseurs martèlent qu’il faut « arrêter de mentir aux gens » et ne pas « minorer ce qu’ils vivent »."
+        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
+        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
       ],
-      "publishedAt": "2026-11-13T18:25:58+00:00",
-      "updatedAt": "2026-11-13T18:25:58+00:00",
-      "importance": 68,
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 71,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/quand-le-ministere-annonce-50-lycees-bloques-nous-en-comptons-150-a-200-qui-ne-fonctionnent-pas-normalement-le-gouvernement-minimise-t-il-les-chiffres-des-blocages-20261113",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "d852299d6406c37dfdba20a8e51085c896d2efbd1cb9c55a5c68b1a0e066d989",
+      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
       "detailLevel": "preview"
     },
     {
@@ -1104,28 +1080,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f5e9c8ca7962610545",
+      "id": "rss-a841445bd0442466d7",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : le défi de l’unité",
+      "topic": "Société",
+      "title": "«Jean-Luc Mélenchon met des cibles dans le dos des journalistes», affirme le porte-parole du gouvernement Mathieu Lefèvre",
       "bullets": [
-        "La France est de plus en plus divisée selon l’enquête annuelle « Fractures françaises », publiée mi-novembre.",
-        "Ce paysage éclaté correspond aux premières semaines de la campagne présidentielle, Marine Le Pen et Jean-Luc Mélenchon profitant à plein de l’inconsistance de leurs adversaires."
+        "Évoquant l’agression dont ont été victimes deux journalistes de BFMTV samedi, en marge de la manifestation lyonnaise qu’ils couvraient, le porte-parole du gouvernement Mathieu Lefèvre a dénoncé un «climat de violence débridée absolument inacceptable».",
+        "«Il faut condamner absolument et fermement», a-t-il expliqué ce lundi sur le plateau de RMC, s’interrogeant sur le silence de certains camps politiques.",
+        "L’enquête vise également des «dégradations de bien privé» et a été élargie à des faits de «vol en réunion» d’une caméra après le dépôt de plainte d’un des journalistes concernés, qui a été blessé."
       ],
-      "publishedAt": "2026-11-16T09:00:15+00:00",
-      "updatedAt": "2026-11-16T09:00:15+00:00",
+      "publishedAt": "2026-11-16T11:16:44+00:00",
+      "updatedAt": "2026-11-16T11:16:44+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/jean-luc-melenchon-met-des-cibles-dans-le-dos-des-journalistes-affirme-le-porte-parole-du-gouvernement-mathieu-lefevre-20261116",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "d8ab1ebfd7289a62f4b6a69de23f730c61374e02ad866d9be47f436f761a7db6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3e5c9bc07a6d11b29a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "bullets": [
+        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/16/presidentielle-2027-le-defi-de-l-unite_6811669_3232.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "85f3bba3d2298a406876c759886b3d7f391f707500e7a539151b5f188249442f",
+      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
       "detailLevel": "preview"
     },
     {
@@ -1151,6 +1154,30 @@
       "provenance": "rss-excerpt",
       "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bcd059acf655de34df",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
+      "bullets": [
+        "Des personnes « se sont jetées » sur l’équipe composée de deux journalistes et de deux agents de sécurité, selon la préfecture. « La direction de BFM-TV condamne fermement ces attaques physiques et [ces] mises en cause de ses équipes », a réagi la chaîne."
+      ],
+      "publishedAt": "2026-11-14T17:33:12+00:00",
+      "updatedAt": "2026-11-14T17:33:12+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/a-lyon-des-journalistes-de-bfm-tv-agresses-en-marge-de-la-manifestation-la-prefecture-denonce-une-volonte-de-lynchage_6810459_3236.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1164,7 +1191,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Franceinfo",
@@ -1188,7 +1215,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1212,7 +1239,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
@@ -1230,7 +1257,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 5
     },
     {
       "publisher": "Le Monde",
@@ -1266,7 +1293,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
