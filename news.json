@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T21:59:13.868911+00:00",
+  "preparedAt": "2026-11-16T22:58:34.504411+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -339,9 +339,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T21:54:08+00:00",
-      "updatedAt": "2026-11-16T21:54:08+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-16T22:58:35+00:00",
+      "updatedAt": "2026-11-16T22:58:35+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -766,27 +766,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bf62d82a998cb60cc7",
-      "revision": 2,
+      "id": "rss-336145c556f89af510",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
+      "title": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
       "bullets": [
-        "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
+        "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace »."
       ],
-      "publishedAt": "2026-11-16T04:29:03+00:00",
-      "updatedAt": "2026-11-16T04:29:03+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-16T22:05:22+00:00",
+      "updatedAt": "2026-11-16T22:05:22+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "c1f4e056b9594bfa15123ffb90a88e1a2cc1b02d0fb5c73e284c52c2a816e356",
+      "summaryInput": "522af8c256e2a5049a0fdfdb7edcab8f5dbc6e44dff79de0c6d197c931e099ec",
       "detailLevel": "preview"
     },
     {
@@ -989,6 +989,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bf62d82a998cb60cc7",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
+      "bullets": [
+        "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
+      ],
+      "publishedAt": "2026-11-16T04:29:03+00:00",
+      "updatedAt": "2026-11-16T04:29:03+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c1f4e056b9594bfa15123ffb90a88e1a2cc1b02d0fb5c73e284c52c2a816e356",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-6f91d156db86a62db3",
       "revision": 1,
       "category": "france",
@@ -1089,30 +1113,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "c811f0d1f2cb1b564c351c4114b345ca2b99b870a96c928e71684fa100fcacf8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dce95a1817a2761e98",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "De nouvelles élections municipales auront lieu en janvier à Wittelsheim, dans la seule ville alsacienne aux mains du RN",
-      "bullets": [
-        "Le scrutin de mars a été annulé en raison d’irrégularités. « La procédure veut que (…) soit mise en place une délégation spéciale », chargée de la gestion des affaires courantes, a précisé la préfecture."
-      ],
-      "publishedAt": "2026-11-16T14:24:27+00:00",
-      "updatedAt": "2026-11-16T14:24:27+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/de-nouvelles-elections-municipales-auront-lieu-en-janvier-a-wittelsheim-dans-la-seule-ville-alsacienne-aux-mains-du-rn_6811964_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26f8048e94844459eba8b4b0394866fbbcee86ef63f3f638307b25ef9a970015",
       "detailLevel": "preview"
     },
     {
@@ -1242,13 +1242,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
