@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T09:51:17.337391+00:00",
+  "preparedAt": "2026-11-16T11:34:21.110085+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-472ef7a86b14f9112b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
-      "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
-      ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-518833bf6d63eca968",
       "revision": 1,
@@ -54,6 +29,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2eb1b751b192f08b48d317e02454daf18fb06f555bdaecb36d51caf75db49cef",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7e64939eb569058731",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "VIDEO. Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+      "bullets": [
+        "Le gouvernement a annoncé une augmentation de 350 euros bruts par an pour les fonctionnaires.",
+        "Généralement, les économies qui ont été faites sur le pouvoir d'achat des fonctionnaires ces dernières années, c'est plutôt de l'ordre de 2 milliards quand on n'augmente pas le pouvoir d'achat.",
+        "Le smic va augmenter aussi de 1,6 % le 1er décembre."
+      ],
+      "publishedAt": "2026-11-16T10:41:43+00:00",
+      "updatedAt": "2026-11-16T10:41:43+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "e97367a9c5e694aca8524884911645aacc6f04b72538f46b5d0f0388e82e15df",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-70c771a77ab0c8354b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Passoires thermiques : vers un retour à la location sous conditions",
+      "bullets": [
+        "Franck Journo est propriétaire d’un appartement de 34 m² à Asnières-sur-Seine (Hauts-de-Seine).",
+        "Les propriétaires devront les réaliser dans un délai bien précis : 3 ans pour les logements individuels, 5 ans pour les copropriétés.",
+        "Le propriétaire doit lui faire une ristourne par exemple de 30 %\", suggère Manuel Domergue, directeur des études, fondation pour le logement des défavorisés."
+      ],
+      "publishedAt": "2026-11-16T09:54:41+00:00",
+      "updatedAt": "2026-11-16T09:54:41+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/passoires-thermiques-vers-un-retour-a-la-location-sous-conditions_8284520.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "0528330cdd34a6c095a9621ea52e064086192136c5be6b70880815fe7a073574",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
+      "context": null
     },
     {
       "id": "rss-d197247a78627bc675",
@@ -81,34 +112,6 @@
       "summaryInput": "2f48007737eff58b0083a863081937cabcb3bc2e63c1bef70de00676cc0d723f",
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c963f9c623e8fce07b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Un peu plus d’un milliard d’euros» : le coût de la hausse du Smic et des bas salaires des fonctionnaires dévoilé par le gouvernement",
-      "bullets": [
-        "Confronté à des mobilisations sociales majeures depuis plusieurs semaines, le gouvernement a annoncé lundi une hausse du salaire minimum au 1er décembre, porté à 1502 euros net environ, soit une augmentation mensuelle d’environ 24 euros.",
-        "Concernant la fonction publique, le gouvernement a annoncé vendredi une revalorisation des plus bas salaires, qui devrait concerner «1,35 million» d’agents de la fonction publique, comme l’a rappelé dimanche David Amiel.",
-        "En moyenne, les hausses de salaires devraient être de «350 euros brut» sur l’année, a-t-il dit."
-      ],
-      "publishedAt": "2026-11-15T10:02:55+00:00",
-      "updatedAt": "2026-11-15T10:02:55+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/un-peu-plus-d-un-milliard-d-euros-le-cout-de-la-hausse-du-smic-et-des-bas-salaires-des-fonctionnaires-devoile-par-le-gouvernement-20261115",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "0ff2f6631b6704bdbe1bff49a8a8e5ee6fc4e28647f36d9f5cd64fe6732cbf37",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T03:11:07.692106+00:00",
       "context": null
     },
     {
@@ -160,6 +163,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "1213bbf8e332c0b619049cf18307510658960737759b08272e5659ff24cda761",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5ec201acc6e304f386",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Face à l’IA, il faut flécher les financements vers les reconversions» : avant la présidentielle, l’appel des DRH",
+      "bullets": [
+        "La question des budgets est sous-jacente : dans l’enquête de l’ANDRH, seulement 19% des cadres RH considèrent que leur entreprise dispose d’une vraie marge de manœuvre sur ses dépenses de formation.",
+        "Une marge limitée pour 39% des répondants, et inexistante ou presque pour 42%.",
+        "Or il faut des moyens pour mener les transitions en cours : sans surprise, au regard des DRH, parmi les dix enjeux proposés pour le prochain quinquennat, l’IA et la transformation des métiers arrivent largement en tête ; loin devant la problématique du coût du travail et celle des charges sociales."
+      ],
+      "publishedAt": "2026-11-16T09:28:49+00:00",
+      "updatedAt": "2026-11-16T09:28:49+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/decideurs/management/face-a-l-ia-il-faut-flecher-les-financements-vers-les-reconversions-avant-la-presidentielle-l-appel-des-drh-20261116",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "04786c76208bdbe9489150cbec69207212568e5ebeb8ff8e5a4dc35b13881f2c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
+      "context": null
     },
     {
       "id": "rss-0baacb623c62b4cca4",
@@ -218,6 +249,30 @@
       "context": null
     },
     {
+      "id": "rss-d36d58f23f960fd060",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Anne de Guigné : « La politique de l’offre se remettra-t-elle du macronisme ? »",
+      "bullets": [
+        "CHRONIQUE - Les petites phrases présidentielles ont nourri le sentiment des Français de traverser une purge libérale. La politique économique macroniste a pourtant davantage tendu au soutien à la demande qu’à l’offre. Cette ambiguïté compliquera la tâche des successeurs d’Emmanuel Macron."
+      ],
+      "publishedAt": "2026-11-16T07:30:00+00:00",
+      "updatedAt": "2026-11-16T07:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/anne-de-guigne-la-politique-de-l-offre-se-remettra-t-elle-du-macronisme-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "156eecb7d20b41ae97e1dc853d05ed1e9a166d9d96b6375818c81df86a533a47",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-7d8f37ba353c7089c1",
       "revision": 1,
       "category": "eco",
@@ -246,88 +301,28 @@
       "context": null
     },
     {
-      "id": "rss-3fcc45a92854bfd46c",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "David Amiel annonce une revalorisation du point d'indice pour les fonctionnaires aux plus bas salaires",
-      "bullets": [
-        "Alors que le gouvernement a annoncé une hausse du smic à 1502 euros net le 1er décembre, le ministre de l'Action et des Comptes publics ajoute que les plus bas salaires parmi les fonctionnaires verront également leur point d'indice revalorisé.#Budget #Finances #smic #franceinfoRF",
-        "Un homme a été mis en examen et écroué dans les Yvelines, après un crypto-rapt à 900 000 euros",
-        "Maileva, une filiale du groupe La Poste victime d'un vol de données touchant 22 millions de personnes"
-      ],
-      "publishedAt": "2026-11-15T11:00:03+00:00",
-      "updatedAt": "2026-11-15T11:00:03+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/david-amiel-annonce-une-revalorisation-du-point-d-indice-pour-les-fonctionnaires-aux-plus-bas-salaires_8283416.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "76bba390014bef405daf2155eda329ffc9c0fd397aca589a299f932b6cc4ed72",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T23:55:05.871018+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e3268ce0e2d6da09fd",
+      "id": "rss-e08fae195b21146a5c",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Allègements de charges : le ministre du Travail assure que les entreprises ont «la parole du gouvernement»",
+      "title": "Suspension des vols aux Etats-Unis : environ 240 vols annulés, et quelque 530, retardés, lundi",
       "bullets": [
-        "Réforme des allègements de cotisations patronales «Si nous constatons une réelle relance salariale dans les semaines à venir, nous limiterons par décret, début 2027, la progression du coût du travail, en adaptant le barème des allègements.",
-        "Avec plus de 70 milliards d'euros par an de coût pour les finances publiques, les allègements de charges constituent le principal soutien financier à l'emploi.",
-        "En juin dernier, le gouvernement a gelé les allègements généraux quand le Smic a été augmenté, suscitant de vives protestations des organisations patronales."
+        "« Nous allons voir les choses revenir (…) sans doute complètement à la normale lundi », a estimé le ministre des transports américain, Sean Duffy, dimanche, après une panne inédite du contrôle aérien."
       ],
-      "publishedAt": "2026-11-14T19:08:49+00:00",
-      "updatedAt": "2026-11-14T19:08:49+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-16T10:49:03+00:00",
+      "updatedAt": "2026-11-16T10:49:03+00:00",
+      "importance": 59,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/allegements-de-charges-le-ministre-du-travail-assure-que-les-entreprises-ont-la-parole-du-gouvernement-20261114",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/suspension-des-vols-aux-etats-unis-environ-240-vols-annules-et-quelque-530-retardes-lundi_6811688_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "f5fff4128c3fe1734186c50ac38216085c93ed73a4e15398c358c4874058384d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T03:11:07.692106+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-870e23721504f01637",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sécurité routière : les ralentisseurs trop hauts bientôt légaux ?",
-      "bullets": [
-        "Les ralentisseurs doivent mesurer au maximum dix centimètres de hauteur et ne sont autorisés que sur des routes limitées à 30 km/h, où 3 000 véhicules maximum circulent chaque jour et où les transports en commun ne passent pas.",
-        "Mais en France, 90 % des ralentisseurs ne respecteraient pas ces règles.",
-        "Les véhicules ne sont pas prévus pour toute la journée, comme certains bus, par exemple, passer 300 à 400 fois par jour sur des ralentisseurs."
-      ],
-      "publishedAt": "2026-11-15T21:02:04+00:00",
-      "updatedAt": "2026-11-15T21:02:04+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/securite-routiere-les-ralentisseurs-trop-hauts-bientot-legaux_8283917.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "f351b6a42afc572934005050fbfc2ddc0e5c1cf57f80f8af1c634b90f1bded72",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T04:39:41.443259+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "b0e3198b2b7be6e5c8fe5946d3664bf1b9ce19708c0ccccb57482971c252a60a",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -340,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T09:47:22+00:00",
-      "updatedAt": "2026-11-16T09:47:22+00:00",
+      "publishedAt": "2026-11-16T11:29:51+00:00",
+      "updatedAt": "2026-11-16T11:29:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -394,7 +389,7 @@
       ],
       "publishedAt": "2026-11-15T11:00:00+00:00",
       "updatedAt": "2026-11-15T11:00:00+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -491,6 +486,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d2c5528e33f3f0b3c9",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Benjamin Haddad au Figaro : « Une mauvaise paix, une abdication forcée, c’est la garantie de la guerre demain »",
+      "bullets": [
+        "ENTRETIEN - Le ministre délégué chargé de l’Europe revient sur les récentes négociations d’Abu Dhabi, dans lesquelles se sont impliqués Américains, Russes, Ukrainiens et Européens, et sur l’état des pourparlers pour mettre fin à la guerre en Ukraine."
+      ],
+      "publishedAt": "2026-11-16T11:12:07+00:00",
+      "updatedAt": "2026-11-16T11:12:07+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/benjamin-haddad-au-figaro-une-mauvaise-paix-une-abdication-forcee-c-est-la-garantie-de-la-guerre-demain-20261115",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "33791bcd5e9d3ce3c8f87eb283bc3de157f5eadda7bb90aade55881e7e53b5fb",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ac85b656a9c03e79f4",
       "revision": 1,
       "category": "world",
@@ -530,7 +549,7 @@
       ],
       "publishedAt": "2026-11-15T23:24:08+00:00",
       "updatedAt": "2026-11-15T23:24:08+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -546,41 +565,17 @@
       "context": null
     },
     {
-      "id": "rss-d2c5528e33f3f0b3c9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Benjamin Haddad au Figaro : « Une mauvaise paix, une abdication forcée, c’est la garantie de la guerre demain »",
-      "bullets": [
-        "ENTRETIEN - Le ministre délégué chargé de l’Europe revient sur les récentes négociations d’Abu Dhabi, dans lesquelles se sont impliqués Américains, Russes, Ukrainiens et Européens, et sur l’état des pourparlers pour mettre fin à la guerre en Ukraine."
-      ],
-      "publishedAt": "2026-11-15T19:51:15+00:00",
-      "updatedAt": "2026-11-15T19:51:15+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/benjamin-haddad-au-figaro-une-mauvaise-paix-une-abdication-forcee-c-est-la-garantie-de-la-guerre-demain-20261115",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "33791bcd5e9d3ce3c8f87eb283bc3de157f5eadda7bb90aade55881e7e53b5fb",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a45047027f7f757f59",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "L’élection du secrétaire général de l’Organisation internationale de la Francophonie reportée d’un an",
+      "title": "L’élection du secrétaire général de l’Organisation internationale de la francophonie reportée d’un an",
       "bullets": [
         "Ce report a lieu dans le contexte d’un bras de fer entre la RDC et le Rwanda.",
-        "La sortante rwandaise Louise Mushikiwabo, candidate à un troisième mandat, restera en poste jusqu’à la tenue du nouveau scrutin, auquel le Rwanda ne présentera pas de candidat."
+        "La sortante rwandaise, Louise Mushikiwabo, candidate à un troisième mandat, restera en poste jusqu’à la tenue du nouveau scrutin, pour lequel le Rwanda ne présentera pas de candidat."
       ],
-      "publishedAt": "2026-11-16T09:43:12+00:00",
-      "updatedAt": "2026-11-16T09:43:12+00:00",
+      "publishedAt": "2026-11-16T09:43:11+00:00",
+      "updatedAt": "2026-11-16T09:43:11+00:00",
       "importance": 77,
       "sources": [
         {
@@ -591,7 +586,7 @@
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "51c82f1519e5b732291531538876522a0ac9ad21f1026ffebfe64406b6f9b475",
+      "summaryInput": "02decb1b659b4108a4ef9ca1af9bf8b5b56a5da824c7c10da1a731a71a8020b3",
       "detailLevel": "preview"
     },
     {
@@ -755,8 +750,8 @@
       "bullets": [
         "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisé pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
       ],
-      "publishedAt": "2026-11-16T04:29:05+00:00",
-      "updatedAt": "2026-11-16T04:29:05+00:00",
+      "publishedAt": "2026-11-16T04:29:03+00:00",
+      "updatedAt": "2026-11-16T04:29:03+00:00",
       "importance": 77,
       "sources": [
         {
@@ -780,8 +775,8 @@
         "Le lancement d’un troisième programme national de renouvellement urbain est l’un des éléments du projet de loi, dont l’examen en séance débute lundi 16 novembre à l’Assemblée nationale.",
         "L’avenir de villes comme le Val-de-Reuil (Eure) dépend en partie de cette manne."
       ],
-      "publishedAt": "2026-11-16T09:33:43+00:00",
-      "updatedAt": "2026-11-16T09:33:43+00:00",
+      "publishedAt": "2026-11-16T09:33:42+00:00",
+      "updatedAt": "2026-11-16T09:33:42+00:00",
       "importance": 77,
       "sources": [
         {
@@ -995,7 +990,7 @@
       ],
       "publishedAt": "2026-11-15T10:09:57+00:00",
       "updatedAt": "2026-11-15T10:09:57+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1006,30 +1001,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "5535878917120e6713067bd0f49b9881ce47ebf895116a92bd699aea7ead436f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f170c362975df9a319",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
-      "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
-      ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
@@ -1133,6 +1104,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f5e9c8ca7962610545",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : le défi de l’unité",
+      "bullets": [
+        "La France est de plus en plus divisée selon l’enquête annuelle « Fractures françaises », publiée mi-novembre.",
+        "Ce paysage éclaté correspond aux premières semaines de la campagne présidentielle, Marine Le Pen et Jean-Luc Mélenchon profitant à plein de l’inconsistance de leurs adversaires."
+      ],
+      "publishedAt": "2026-11-16T09:00:15+00:00",
+      "updatedAt": "2026-11-16T09:00:15+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/16/presidentielle-2027-le-defi-de-l-unite_6811669_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85f3bba3d2298a406876c759886b3d7f391f707500e7a539151b5f188249442f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-dc3f0517ca75502fa2",
       "revision": 1,
       "category": "france",
@@ -1143,7 +1139,7 @@
       ],
       "publishedAt": "2026-11-12T10:53:16+00:00",
       "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1168,7 +1164,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1180,7 +1176,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1192,7 +1188,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1216,7 +1212,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
@@ -1234,7 +1230,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
