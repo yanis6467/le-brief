@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T19:10:47.540005+00:00",
+  "preparedAt": "2026-11-16T20:07:46.070261+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -312,7 +312,7 @@
       ],
       "publishedAt": "2026-11-16T07:38:02+00:00",
       "updatedAt": "2026-11-16T07:38:02+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -338,9 +338,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T19:06:06+00:00",
-      "updatedAt": "2026-11-16T19:06:06+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-16T20:07:47+00:00",
+      "updatedAt": "2026-11-16T20:07:47+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -462,30 +462,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
       "context": null
-    },
-    {
-      "id": "rss-89231263b034e45140",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Belgique : sans accord budgétaire, le premier ministre, Bart De Wever, obtient un nouveau délai d’une semaine du roi",
-      "bullets": [
-        "Quatre des cinq partis de la coalition se sont entendus sur un effort de 10 milliards d’euros, mais les socialistes flamands de Vooruit jugent encore insuffisante la contribution demandée aux plus hauts revenus."
-      ],
-      "publishedAt": "2026-11-16T13:40:20+00:00",
-      "updatedAt": "2026-11-16T13:40:20+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/belgique-sans-accord-budgetaire-le-premier-ministre-bart-de-wever-obtient-un-nouveau-delai-d-une-semaine-du-roi_6811864_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b07e68e87cf328237ceb5a2353d6efe45dc2a0651438d71f842e9f1a56c26278",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ccb82eafc76b79a7b5",
@@ -634,6 +610,30 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "ed3b375f0e16f3d01d030837a9a53fa8c677a77a848c4c87e3f68d669f4e444d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6b5b09f253b45ef801",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Jordanie et l’Irak interdisent Telegram, accusé de contribuer à « l’extrémisme »",
+      "bullets": [
+        "La Jordanie, endeuillée par l’attaque d’une église fin octobre, souhaite contrer « toute tentative de propagation de la radicalisation et de l’extrémisme » et appelle ses citoyens à la vigilance sur les réseaux sociaux."
+      ],
+      "publishedAt": "2026-11-16T19:31:18+00:00",
+      "updatedAt": "2026-11-16T19:31:18+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-et-l-irak-interdisent-telegram-accuse-de-contribuer-a-l-extremisme_6811768_4408997.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1f3c1a9f8127d2be1fa2ca23022e4eaa88c3d7b2a6618ffa4260ef409d012dbb",
       "detailLevel": "preview"
     },
     {
@@ -985,6 +985,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6f91d156db86a62db3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "À Nantes, le lycée Nelson-Mandela ferme dès le jour de sa réouverture",
+      "bullets": [
+        "Le lycée Nelson-Mandela à Nantes (Loire-Atlantique), incendié il y a six semaines, devait à nouveau accueillir les élèves ce lundi 16 novembre, mais il est déjà refermé.",
+        "Une annonce difficile à accepter pour certains parents d'élèves.",
+        "Annonce surprise de la direction du lycée dans un message envoyé aux parents d'élèves : \"Compte tenu du contexte actuel lié au mouvement lycéen, la sécurité au sein du lycée est compromise.\" L'établissement restera fermé mardi 17 novembre et devrait rouvrir mercredi 18 novembre."
+      ],
+      "publishedAt": "2026-11-16T19:59:42+00:00",
+      "updatedAt": "2026-11-16T19:59:42+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/a-nantes-le-lycee-nelson-mandela-ferme-des-le-jour-de-sa-reouverture_8285408.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "bdffdbd2249c7259d6391af6e18553c77bd5dc0630d35df226c9c24b02c33fcf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T20:07:46.070261+00:00",
+      "context": null
+    },
+    {
       "id": "rss-626321d5d6449862cf",
       "revision": 1,
       "category": "france",
@@ -1056,30 +1084,6 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "26f8048e94844459eba8b4b0394866fbbcee86ef63f3f638307b25ef9a970015",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dc3f0517ca75502fa2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
-      "bullets": [
-        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
-      ],
-      "publishedAt": "2026-11-12T10:53:16+00:00",
-      "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
       "detailLevel": "preview"
     },
     {
@@ -1179,7 +1183,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1191,7 +1195,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1245,13 +1249,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1263,7 +1267,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "BFM Bourse",
