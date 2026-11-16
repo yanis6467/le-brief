@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-15T23:55:05.871018+00:00",
+  "preparedAt": "2026-11-16T01:38:08.511588+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-472ef7a86b14f9112b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "bullets": [
+        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
+        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 80,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-518833bf6d63eca968",
       "revision": 1,
@@ -25,7 +50,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "2eb1b751b192f08b48d317e02454daf18fb06f555bdaecb36d51caf75db49cef",
       "detailLevel": "preview"
@@ -51,7 +76,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "2f48007737eff58b0083a863081937cabcb3bc2e63c1bef70de00676cc0d723f",
       "detailLevel": "article",
@@ -79,12 +104,37 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "0ff2f6631b6704bdbe1bff49a8a8e5ee6fc4e28647f36d9f5cd64fe6732cbf37",
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T14:54:47.024982+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8fa518f137b633c5c7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+      "bullets": [
+        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
+        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
+      ],
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-f4ef66aa3f39453cb7",
@@ -106,7 +156,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "1213bbf8e332c0b619049cf18307510658960737759b08272e5659ff24cda761",
       "detailLevel": "preview"
@@ -131,7 +181,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "aa0d40e72d2bc0ea1959405b94a45bcf08e15835a1fbc3cdf08cf4b84b80f352",
       "detailLevel": "article",
@@ -159,7 +209,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "184862a6c15cce41dce324e68bfe34c170eccf85cc91da2bb89a74508f777faf",
       "detailLevel": "article",
@@ -187,7 +237,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "7853cfe384aede6bfa573acfd7f98717e794626892bedcc35c85bc69223fe5ed",
       "detailLevel": "article",
@@ -215,7 +265,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "76bba390014bef405daf2155eda329ffc9c0fd397aca589a299f932b6cc4ed72",
       "detailLevel": "article",
@@ -243,7 +293,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "5aaa6cd76b7cc8984f988c6ef405f0a00ccf69ba770745a471be6487e6f00b16",
       "detailLevel": "article",
@@ -271,64 +321,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "f5fff4128c3fe1734186c50ac38216085c93ed73a4e15398c358c4874058384d",
       "detailLevel": "article",
       "enrichedAt": "2026-11-15T14:54:47.024982+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e173087feea0800763",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
-      "bullets": [
-        "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre.",
-        "Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises."
-      ],
-      "publishedAt": "2026-11-13T18:30:05+00:00",
-      "updatedAt": "2026-11-13T18:30:05+00:00",
-      "importance": 61,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27c7ebba1f8c51d65e48f568902ccbeef96f021cbbb9e0276b7d3a3f2ce52b12",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-870e23721504f01637",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sécurité routière : les ralentisseurs trop hauts bientôt légaux ?",
-      "bullets": [
-        "Les ralentisseurs doivent mesurer au maximum dix centimètres de hauteur et ne sont autorisés que sur des routes limitées à 30 km/h, où 3 000 véhicules maximum circulent chaque jour et où les transports en commun ne passent pas.",
-        "Mais en France, 90 % des ralentisseurs ne respecteraient pas ces règles.",
-        "Les véhicules ne sont pas prévus pour toute la journée, comme certains bus, par exemple, passer 300 à 400 fois par jour sur des ralentisseurs."
-      ],
-      "publishedAt": "2026-11-15T21:02:04+00:00",
-      "updatedAt": "2026-11-15T21:02:04+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/securite-routiere-les-ralentisseurs-trop-hauts-bientot-legaux_8283917.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "article-extract",
-      "summaryInput": "f351b6a42afc572934005050fbfc2ddc0e5c1cf57f80f8af1c634b90f1bded72",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-15T23:55:05.871018+00:00",
       "context": null
     },
     {
@@ -342,8 +339,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-15T23:50:27+00:00",
-      "updatedAt": "2026-11-15T23:50:27+00:00",
+      "publishedAt": "2026-11-16T01:35:08+00:00",
+      "updatedAt": "2026-11-16T01:35:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -352,7 +349,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -380,7 +377,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "2f4a06c3acf6380cd7afeac35078843ce00c9e727218bf007e61416a10565c9c",
       "detailLevel": "article",
@@ -408,7 +405,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "ed0153c80f6af43e0f81f896f88f15c29c831191e2ab945b441440f4123f5736",
       "detailLevel": "article",
@@ -434,7 +431,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "0fd04e1bf2691ca5662595107ef18cc377e17d3b3ce3d2038a6ce25ef3f82441",
       "detailLevel": "preview"
@@ -460,7 +457,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "b7de4575a1e6a5248ec31f9732a015d4ffd386f5859d4931bda5e359e0d7a70f",
       "detailLevel": "article",
@@ -487,7 +484,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "500964e396d64cfad4abdc5f3722558ebbc4047e67ed2ae207e80054db09fed9",
       "detailLevel": "preview"
@@ -513,7 +510,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "3d60b9a208b16ebbf1d6ad6d891c9ed55f3d248045d899840bd415bd39e75f9e",
       "detailLevel": "article",
@@ -539,7 +536,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "33791bcd5e9d3ce3c8f87eb283bc3de157f5eadda7bb90aade55881e7e53b5fb",
       "detailLevel": "preview"
@@ -557,7 +554,7 @@
       ],
       "publishedAt": "2026-11-15T13:10:47+00:00",
       "updatedAt": "2026-11-15T13:10:47+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -565,7 +562,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "35e7a692793ab8c79181e8320badf3a4d6b2aa29edb76dbeb721e28ed39c1cd9",
       "detailLevel": "article",
@@ -592,7 +589,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "735e2a66775071b3091ee3b54c5e283c7b92bb70af1b1f5e761ba7e4c5770ee6",
       "detailLevel": "article",
@@ -618,7 +615,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
       "detailLevel": "preview"
@@ -642,7 +639,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "fdd7de166bf7125fa28162c204e8a357d89f9f3bb515b0a9d08ed1a1dbec4d48",
       "detailLevel": "preview"
@@ -668,7 +665,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "6f2ab80b843603535f1039b47d08844af04837dc9d7942472a45a6f0f12ec89b",
       "detailLevel": "article",
@@ -696,7 +693,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "de1a414d7e357ddd48130a6198dbe3d80154a4aa07002a7f6b425b1d6106b8ba",
       "detailLevel": "article",
@@ -714,7 +711,7 @@
       ],
       "publishedAt": "2026-11-15T13:22:32+00:00",
       "updatedAt": "2026-11-15T13:22:32+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -722,34 +719,33 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "4cb72f5e910973eed3ffb816681d420b5c67821967a503a71d2e3de2c6d18bf4",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-472ef7a86b14f9112b",
+      "id": "rss-f170c362975df9a319",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
+      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
       "bullets": [
-        "L’Hexagone affiche l’une des plus faibles croissances européennes cette année.",
-        "Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne."
+        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
       ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-15T09:00:10+00:00",
+      "updatedAt": "2026-11-15T09:00:10+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "256ec7fdb2a231fb328f6ee6d7a2fc98702c68b1c822e38bfacf4d5e7b1f269d",
+      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
@@ -773,7 +769,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "b1ec9f1900cd74b3798147f78bf791e1b3ed8215b1f461a3c4af77dff7b71cd7",
       "detailLevel": "article",
@@ -799,7 +795,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
@@ -817,7 +813,7 @@
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -825,7 +821,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
       "detailLevel": "article",
@@ -851,7 +847,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
       "detailLevel": "preview"
@@ -877,7 +873,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "a026d304a0b89edcdbf77a98f10886de4d689a43a6cda6be1f0bd0d0dad248a2",
       "detailLevel": "article",
@@ -904,7 +900,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "a540ee505983c352a520984046e676a84195ea5899e880c895ad29a7f8630a68",
       "detailLevel": "preview"
@@ -922,7 +918,7 @@
       ],
       "publishedAt": "2026-11-14T12:21:34+00:00",
       "updatedAt": "2026-11-14T12:21:34+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -930,7 +926,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
@@ -941,7 +937,7 @@
       "id": "rss-41358dfc34500c6ddc",
       "revision": 3,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
       "bullets": [
         "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique."
@@ -956,33 +952,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "5535878917120e6713067bd0f49b9881ce47ebf895116a92bd699aea7ead436f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f170c362975df9a319",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
-      "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
-      ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-15",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
       "detailLevel": "preview"
     },
     {
@@ -1004,7 +976,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "b8ca9d9aea47f7700b78e3fcfaf701f6c1991ae4d6246eaeff5b13d332606302",
       "detailLevel": "preview"
@@ -1029,7 +1001,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
       "summaryInput": "30c588cd432f7688e2437c5259a71251952f750615899ab10de864a3f79aa613",
       "detailLevel": "article",
@@ -1056,7 +1028,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "8f3447cb3d778b34f66feb5c73f74bff4489e01275c457e1931b81092f38f21b",
       "detailLevel": "preview"
@@ -1080,7 +1052,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "d852299d6406c37dfdba20a8e51085c896d2efbd1cb9c55a5c68b1a0e066d989",
       "detailLevel": "preview"
@@ -1104,33 +1076,58 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "0cb648bb2bab1f0401eadaf28751de71014ad7c22252ed3a78b8f53074ec8319",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e5c9bc07a6d11b29a",
+      "id": "rss-dc3f0517ca75502fa2",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "topic": "Éducation",
+      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
       "bullets": [
-        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
       ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "publishedAt": "2026-11-12T10:53:16+00:00",
+      "updatedAt": "2026-11-12T10:53:16+00:00",
       "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-25e0f8cb8a24b869f4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
+      "bullets": [
+        "Réalisée par Ipsos BVA-CESI Ecole d’ingénieurs pour « Le Monde », le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, cette grande enquête annuelle sur les valeurs des Français donne un instantané précieux de l’humeur politique du pays à l’approche du scrutin.",
+        "La société y apparaît de plus en plus…"
+      ],
+      "publishedAt": "2026-11-15T17:20:21+00:00",
+      "updatedAt": "2026-11-15T17:20:21+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1ecc499e79947d2bdc78a63884e9b46f3301a1436ccd20e43409a57f820c1ed5",
       "detailLevel": "preview"
     }
   ],
