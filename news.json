@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-16",
-  "preparedAt": "2026-11-16T15:20:01.671071+00:00",
+  "preparedAt": "2026-11-16T17:25:36.879715+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -16,8 +16,8 @@
         "La France espère des sanctions européennes contre l'Iran d'ici un mois, a déclaré lundi son ministre des Affaires étrangères Jean-Noël Barrot, après la cyberattaque contre des réfrigérateurs dont Paris a attribué la responsabilité à Téhéran.",
         "Interrogé à son arrivée à une réunion avec ses homologues des pays de l'Union européenne à Bruxelles, Jean-Noël Barrot a dit avoir «bon espoir» que ces sanctions puissent être prises au cours d'une prochaine réunion ministérielle le 14 décembre."
       ],
-      "publishedAt": "2026-11-16T14:03:52+00:00",
-      "updatedAt": "2026-11-16T14:03:52+00:00",
+      "publishedAt": "2026-11-16T17:10:27+00:00",
+      "updatedAt": "2026-11-16T17:10:27+00:00",
       "importance": 79,
       "sources": [
         {
@@ -34,18 +34,45 @@
       "context": null
     },
     {
-      "id": "rss-49d55510f00bdbe61a",
+      "id": "rss-0166d8763254d5f343",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "\"La hausse des taux aujourd'hui, c'est le critère principal des acquéreurs\" : à Rennes, des prix de vente revus à la baisse face aux taux d'emprunt qui grimpent en flèche",
+      "title": "Les États-Unis veulent bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
+      "bullets": [
+        "Le gouvernement Trump a publié lundi une série de mesures visant à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers, une pratique au cœur du scandale qui a provoqué le départ du patron de Nvidia Jensen Huang.",
+        "L’annonce intervient après la révélation d’une liaison entre Jensen Huang et la femme d’affaires chinoise Alice Huang, soupçonnée d’avoir permis à des acteurs chinois de l’intelligence artificielle (IA) d’obtenir des puces américaines malgré un embargo, via des pays asiatiques tiers."
+      ],
+      "publishedAt": "2026-11-16T17:18:48+00:00",
+      "updatedAt": "2026-11-16T17:18:48+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/les-etats-unis-veulent-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers-20261116",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "abad5a1108a21d03fa7693e78dba7479f2c3a48531d29055cbc1343963e39892",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-49d55510f00bdbe61a",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "VIDEO. \"Si l'acquéreur ne trouve pas de financement, c'est lui qui a le vrai prix\" : à Rennes, des vendeurs doivent réduire leurs exigences face aux difficultés d'accès au crédit immobilier",
       "bullets": [
         "Un immeuble a été construit il y a moins de 10 ans dans un quartier du nord de Rennes (Ille-et-Vilaine).",
-        "L'un des appartements est un T3 de 68 mètres carrés, mis sur le marché à 330 000 euros.",
+        "L'un des appartements est un T3 de 68 m2, mis sur le marché à 330 000 euros.",
         "Alors, les vendeurs viennent de baisser le prix de 55 000 euros sur les conseils de l'agente immobilière."
       ],
-      "publishedAt": "2026-11-16T14:23:17+00:00",
-      "updatedAt": "2026-11-16T14:23:17+00:00",
+      "publishedAt": "2026-11-16T16:13:43+00:00",
+      "updatedAt": "2026-11-16T16:13:43+00:00",
       "importance": 77,
       "sources": [
         {
@@ -56,9 +83,9 @@
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "article-extract",
-      "summaryInput": "73a88900a48d0e9cb59e2c8cc69cfce059ef781da4dbaf15b212bb4eec0b6157",
+      "summaryInput": "3590df6826dc4821a1769e6156918a6ffb4ad0de878eb9be07d0f696133b0b0c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
       "context": null
     },
     {
@@ -118,34 +145,6 @@
       "context": null
     },
     {
-      "id": "rss-d197247a78627bc675",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Pouvoir d'achat : malgré la crise, les Français continuent à épargner, principalement par crainte de l'avenir",
-      "bullets": [
-        "À Nancy (Meurthe-et-Moselle), il y a un peu plus de 100 000 habitants et, comme partout en France, chaque foyer épargne en moyenne 18 % de ses revenus.",
-        "Jamais nous n'avons eu autant d'argent de côté alors que près de 6 700 milliards d'euros se trouvent dans nos bas de laine.",
-        "Anne-Laure Fleurette, une professeure d'économie-gestion en BTS que nous avons rencontrée, parvient quant à elle à épargner 200 euros par mois."
-      ],
-      "publishedAt": "2026-11-15T21:45:36+00:00",
-      "updatedAt": "2026-11-15T21:45:36+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pouvoir-d-achat-malgre-la-crise-les-francais-continuent-a-epargner-principalement-par-crainte-de-l-avenir_8283932.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "2f48007737eff58b0083a863081937cabcb3bc2e63c1bef70de00676cc0d723f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
       "id": "rss-4166f2e87685996200",
       "revision": 1,
       "category": "eco",
@@ -169,6 +168,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "3c94841e212b7aaf88d512c28edcf7f31d805eacf376c29a18e5fbd57d0600b8",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a05567baccc3126c45",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Jean-Luc Mélenchon dîne mardi avec Bernard Arnault et Patrick Pouyanné",
+      "bullets": [
+        "INFO LE FIGARO - Quelques mois après avoir reçu Marine Le Pen chez Drouant, les patrons du Club Entreprise & Cité rencontrent le candidat insoumis à la présidentielle."
+      ],
+      "publishedAt": "2026-11-16T16:20:38+00:00",
+      "updatedAt": "2026-11-16T16:20:38+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/jean-luc-melenchon-dine-mardi-avec-bernard-arnault-et-patrick-pouyanne-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a857dd1f3fdf61fef6eeb61b928e5926250a621a0fc15f52e74d70871cc8f81b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3b52a3bc2a75197fd5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Des promesses qui ne pourront pas être tenues\", déplore le président UDI du Loiret qui décline l'invitation à Matignon concernant le budget 2027",
+      "bullets": [
+        "Marc Gaudet, le président UDI du département du Loiret a décliné l'invitation du Premier ministre à participer à une réunion des présidents de départements et de collectivités territoriales à compétences départementales en métropole et en Outre-mer dans l'après-midi du lundi 16 novembre à Matignon.",
+        "Le projet de loi de finances pour l'année 2027 prévoit une économie budgétaire d'1,8 milliards d'euros pour les départements.",
+        "Pour le département du Loiret et selon son président, l'impact sera \"d'une dizaine de millions d'euros, peut-être 13\"."
+      ],
+      "publishedAt": "2026-11-16T16:13:32+00:00",
+      "updatedAt": "2026-11-16T16:13:32+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/des-promesses-qui-ne-pourront-pas-etre-tenues-deplore-le-president-udi-du-loiret-qui-decline-l-invitation-a-matignon-concernant-le-budget-2027_8285018.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "7bc9ef5857f2a82de7eafc330df6a80ca6f230a954d833e7373ce52a11598229",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "context": null
     },
     {
       "id": "rss-0666876e710861cf93",
@@ -248,34 +299,6 @@
       "context": null
     },
     {
-      "id": "rss-5ec201acc6e304f386",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Face à l’IA, il faut flécher les financements vers les reconversions» : avant la présidentielle, l’appel des DRH",
-      "bullets": [
-        "La question des budgets est sous-jacente : dans l’enquête de l’ANDRH, seulement 19% des cadres RH considèrent que leur entreprise dispose d’une vraie marge de manœuvre sur ses dépenses de formation.",
-        "Une marge limitée pour 39% des répondants, et inexistante ou presque pour 42%.",
-        "Or il faut des moyens pour mener les transitions en cours : sans surprise, au regard des DRH, parmi les dix enjeux proposés pour le prochain quinquennat, l’IA et la transformation des métiers arrivent largement en tête ; loin devant la problématique du coût du travail et celle des charges sociales."
-      ],
-      "publishedAt": "2026-11-16T09:28:49+00:00",
-      "updatedAt": "2026-11-16T09:28:49+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/decideurs/management/face-a-l-ia-il-faut-flecher-les-financements-vers-les-reconversions-avant-la-presidentielle-l-appel-des-drh-20261116",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "04786c76208bdbe9489150cbec69207212568e5ebeb8ff8e5a4dc35b13881f2c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T11:34:21.110085+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0baacb623c62b4cca4",
       "revision": 1,
       "category": "eco",
@@ -304,34 +327,6 @@
       "context": null
     },
     {
-      "id": "rss-f81ba744ff221f44fd",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
-      "bullets": [
-        "\"La situation devient intenable\", estime lundi 16 novembre sur France Culture, Christophe Ramond, président socialiste du département du Tarn, alors que le projet de budget 2027 prévoit une économie budgétaire de 1,8 milliard d'euros pour les départements.",
-        "Christophe Ramond prévient, si cet effort financier est confirmé, \"ce sera moins d'investissement dans nos collèges, sur nos routes ou pour soutenir le bloc communal, les politiques de santé\".",
-        "L'élu LR dit attendre \"une vraie discussion, une vraie négociation pour essayer d'obtenir une position réaliste de la part du gouvernement vis-à-vis des départements\"."
-      ],
-      "publishedAt": "2026-11-16T07:38:02+00:00",
-      "updatedAt": "2026-11-16T07:38:02+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "267d5a6bfbc93443891debafd73aff70b1d9cad32482e0a19328e389114573c9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -342,8 +337,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-16T15:15:09+00:00",
-      "updatedAt": "2026-11-16T15:15:09+00:00",
+      "publishedAt": "2026-11-16T17:20:24+00:00",
+      "updatedAt": "2026-11-16T17:20:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -356,7 +351,35 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T04:39:41.443259+00:00",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f8a907d2303e62c14c",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Avant deux rendez-vous cruciaux pour l'intelligence artificielle, le CAC 40 joue la prudence",
+      "bullets": [
+        "Après avoir tenté de prolonger la série sans faute de la semaine précédente, le CAC 40 a finalement terminé ce lundi 16 novembre en légère baisse de 0,20%, à 8.352 points.",
+        "À la clôture des marchés européens, le Nasdaq recule de 1,40%, le S&P 500 de 1,10% et le Dow Jones de 0,6%.",
+        "En termes de montants levés, il devrait s'agir de la plus importante entrée sur la cote, avec plus de 90 milliards de dollars, placement privé inclus."
+      ],
+      "publishedAt": "2026-11-16T16:41:41+00:00",
+      "updatedAt": "2026-11-16T16:41:41+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "article-extract",
+      "summaryInput": "ec3e66f7db8c47e14884b17b634215f415f12f0c49b0a1e5eceae95c8d99867c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
       "context": null
     },
     {
@@ -382,34 +405,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "9b70f9f680bf2c8384c68e9b90d25de38502e6d87afe568561c6079e1ed3531f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-29340eea87a6c49578",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : À l'aube d'une semaine qui sera marquée par Anthropic et Nvidia, le CAC 40 peine à avancer",
-      "bullets": [
-        "En termes de montants levés, il devrait s'agit de la plus importante entrée sur la cote, avec plus de 90 milliards de dollars, placement privé inclus.",
-        "La foncière Carmila perd 4,2% après avoir annoncé le rachat en actions de l'Italien IGD.",
-        "Sur les autres marchés, l'euro recule de 0,2% face au dollar à 1,10 dollar."
-      ],
-      "publishedAt": "2026-11-16T11:48:04+00:00",
-      "updatedAt": "2026-11-16T11:48:04+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-a-l-aube-d-une-semaine-qui-sera-marquee-par-anthropic-et-nvidia-le-cac-40-peine-a-avancer-1173839.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "36617ad929ee74d79ffb231919023ee2337f345bebcb6be708431a5dbc1d58ec",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
     },
     {
       "id": "rss-ce717bd9d2b9de31c7",
@@ -569,58 +564,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ac85b656a9c03e79f4",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Chine confirme un sommet trilatéral entre Xi Jinping, Donald Trump et Vladimir Poutine jeudi pour discuter \"de la paix mondiale\"",
-      "bullets": [
-        "\"Le 19 novembre, le président chinois, Xi Jinping, organisera une réunion des chefs d'Etat Chine-Russie-États-Unis, avec le président russe Vladimir Poutine et le président américain Donald Trump à Shenzhen\", écrit le ministère des Affaires étrangères dans un bref communiqué, sans donner plus de précisions.",
-        "Donald Trump souhaite aborder la question de la réduction du nombre d'armes nucléaires dans le monde, et la guerre déclenchée fin février par des frappes Israël américaines contre l'Iran, selon des responsables américains, mais pas la guerre entre l'Ukraine et la Russie."
-      ],
-      "publishedAt": "2026-11-16T07:33:26+00:00",
-      "updatedAt": "2026-11-16T07:33:26+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/chine/la-chine-confirme-un-sommet-trilateral-entre-xi-jinping-donald-trump-et-vladimir-poutine-jeudi-sans-en-preciser-l-ordre-du-jour_8284367.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "3d378d74f8a426bbca1204a4f6ef24f90c3c1053c6568467570fb07c251d6ddd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T09:51:17.337391+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-a45047027f7f757f59",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "L’élection du secrétaire général de l’Organisation internationale de la francophonie reportée d’un an",
-      "bullets": [
-        "Ce report a lieu dans le contexte d’un bras de fer entre la RDC et le Rwanda.",
-        "La sortante rwandaise, Louise Mushikiwabo, candidate à un troisième mandat, restera en poste jusqu’à la tenue du nouveau scrutin, pour lequel le Rwanda ne présentera pas de candidat."
-      ],
-      "publishedAt": "2026-11-16T09:43:11+00:00",
-      "updatedAt": "2026-11-16T09:43:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/16/l-election-du-secretaire-general-de-l-organisation-internationale-de-la-francophonie-reportee-d-un-an_6811682_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "02decb1b659b4108a4ef9ca1af9bf8b5b56a5da824c7c10da1a731a71a8020b3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d06cdc1afbc789a03b",
       "revision": 1,
       "category": "world",
@@ -642,6 +585,130 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "459185e08c7ba48bbfa695cf67104e50e92758db8347c8f964d060c078096097",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e44ba050b9743d56cb",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Crise politique en Pologne : la banque centrale coupe le financement du Tribunal constitutionnel",
+      "bullets": [
+        "La banque centrale polonaise a estimé, lundi, que la crise politique en cours au Tribunal constitutionnel, où la droite et l’extrême droite contestent la suspension de son président, la conduisait à cesser de financer l’institution."
+      ],
+      "publishedAt": "2026-11-16T16:57:23+00:00",
+      "updatedAt": "2026-11-16T16:57:23+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/crise-politique-en-pologne-la-banque-centrale-coupe-le-financement-du-tribunal-constitutionnel_6812194_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ed3b375f0e16f3d01d030837a9a53fa8c677a77a848c4c87e3f68d669f4e444d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1336fbb3752e30a1f4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
+      "bullets": [
+        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
+        "Une plongée inédite dans les arcanes du pouvoir."
+      ],
+      "publishedAt": "2026-11-16T17:00:08+00:00",
+      "updatedAt": "2026-11-16T17:00:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5c219889269007ccd7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’agressivité croissante de l’Iran gagne le sol européen",
+      "bullets": [
+        "Après des années de tensions avec les capitales européennes, la République islamique multiplie les opérations clandestines et les menaces sur le continent.",
+        "Téhéran cherche à dissuader les Européens de soutenir Washington et à leur faire mesurer le coût d’un engagement aux côtés des Etats-Unis."
+      ],
+      "publishedAt": "2026-11-16T16:27:05+00:00",
+      "updatedAt": "2026-11-16T16:27:05+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/l-agressivite-croissante-de-l-iran-gagne-le-sol-europeen_6812168_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ce407fdd7165eb4252c5ca2bfad67c7ebe16f28b9f58804142b37e55f5d90146",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-eae2b41f8709840013",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : le jour où la France a dénoncé l’Iran",
+      "bullets": [
+        "Dans la nuit du 11 au 12 octobre, une attaque informatique attribuée à la République islamique a visé les systèmes de réfrigération de 700 supermarchés.",
+        "Si Paris n’est guère coutumière de la stratégie du « name and shame », la dénonciation publique, la gravité de l’agression a justifié un changement…"
+      ],
+      "publishedAt": "2026-11-16T15:50:20+00:00",
+      "updatedAt": "2026-11-16T15:50:20+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/cyberattaque-contre-des-refrigerateurs-de-supermarches-le-jour-ou-la-france-a-denonce-l-iran_6812161_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0f79036cf1d14fdfc286d2fe80fb6334d86bba95bce9732ad225755ca1de7f4b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-933e281cf481e836e7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Ukraine, l’économie sévèrement touchée par la guerre",
+      "bullets": [
+        "« Nous nous dirigeons vers une croissance proche de zéro en 2026 », explique au « Monde » Oleksandr Kravtchenko, nommé à l’été ministre de l’économie et de l’environnement.",
+        "Alors que les frappes russes contre les infrastructures sont quotidiennes, l’Ukraine est économiquement de plus en plus dépendante de ses alliés…"
+      ],
+      "publishedAt": "2026-11-16T15:30:11+00:00",
+      "updatedAt": "2026-11-16T15:30:11+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/en-ukraine-l-economie-severement-touchee-par-la-guerre_6812099_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cd892cd206fab783402caffc97b90e323065490f14efc5a5148d68aedae9f645",
       "detailLevel": "preview"
     },
     {
@@ -693,86 +760,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9ff791ef114b7a2278",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L'UE annonce de nouvelles sanctions contre plus de 100 entités et personnes \"pour mieux restreindre la capacité de la Russie à financer sa guerre\" en Ukraine",
-      "bullets": [
-        "Une \"réaction aux attaques indiscriminées de la Russie contre l'Ukraine\".",
-        "Dans un communiqué, lundi 16 novembre, le Conseil de l'Union européenne annonce \"des mesures restrictives supplémentaires à l'encontre de 12 personnes et de 101 entités\", pour leur \"rôle dans des secteurs économiques constituant une source de revenus substantielle pour la guerre d'agression menée par la Russie\" en Ukraine.",
-        "L'ensemble des personnes et entités visées \"font l'objet d'un gel de leurs avoirs\", et les individus sanctionnés ont l'interdiction d'entrée au sein de l'UE."
-      ],
-      "publishedAt": "2026-11-16T12:31:24+00:00",
-      "updatedAt": "2026-11-16T12:31:24+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ue-annonce-de-nouvelles-sanctions-contre-plus-de-100-entites-et-personnes-pour-mieux-restreindre-la-capacite-de-la-russie-a-financer-sa-guerre-en-ukraine_8284817.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "6973b6f7c162fd6e3d4743d4a6b88f49b54cf0903f3ed6e9f83f137bb396a433",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-871b45ff54c342e8cf",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "« Les Américains nous avaient donné un faux espoir » : au Venezuela, le régime chaviste toujours en place malgré le retour de l’opposante Machado",
-      "bullets": [
-        "DÉCRYPTAGE - Les États-Unis, qui ont capturé Nicolás Maduro en janvier, ont accru leur influence sur les décisions du pays, sans mettre à bas le régime."
-      ],
-      "publishedAt": "2026-11-15T18:55:17+00:00",
-      "updatedAt": "2026-11-15T18:55:17+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/les-americains-nous-avaient-donne-un-faux-espoir-au-venezuela-le-regime-chaviste-toujours-en-place-malgre-le-retour-de-l-opposante-machado-20261115",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fdd7de166bf7125fa28162c204e8a357d89f9f3bb515b0a9d08ed1a1dbec4d48",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5b1eedf5ef010a0e1b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Albanie : des manifestants visent le bureau du Premier ministre avec des ballons de foot",
-      "bullets": [
-        "Des manifestants albanais ont tiré des ballons de foot contre les bureaux du 1er ministre, Edi Rama, dont ils réclament la démission depuis près d’un an.",
-        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand",
-        "\"Je suis là pour vivre un moment spécial de ma vie\" : à 46 ans, Ronaldinho rechausse les crampons pour un match officiel en troisième division italienne"
-      ],
-      "publishedAt": "2026-11-16T14:01:50+00:00",
-      "updatedAt": "2026-11-16T14:01:50+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/albanie-des-manifestants-visent-le-bureau-du-premier-ministre-avec-des-ballons-de-foot_8284931.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "0fa90b1e26eb780bcf2624d22008e317381ea9c0cc0bbb1642c3e49bfafc4ccc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
-    },
-    {
       "id": "rss-bf62d82a998cb60cc7",
       "revision": 2,
       "category": "france",
@@ -783,7 +770,7 @@
       ],
       "publishedAt": "2026-11-16T04:29:03+00:00",
       "updatedAt": "2026-11-16T04:29:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -832,7 +819,7 @@
       ],
       "publishedAt": "2026-11-14T04:00:06+00:00",
       "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -847,14 +834,14 @@
     },
     {
       "id": "rss-bab4d75cf1e2283785",
-      "revision": 3,
+      "revision": 4,
       "category": "france",
       "topic": "Santé",
       "title": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
       "bullets": [
         "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
         "Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure \"concrète et à portée de main\", selon l'ONG Foodwatch France",
-        "Maileva, une filiale du groupe La Poste victime d'un vol de données touchant 22 millions de personnes"
+        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand"
       ],
       "publishedAt": "2026-11-13T12:00:02+00:00",
       "updatedAt": "2026-11-13T12:00:02+00:00",
@@ -870,7 +857,7 @@
       "provenance": "article-extract",
       "summaryInput": "362cc68500f38441e6c6e64b3fc10c7f7f78d3852a9b5338ae3347497b7dcd01",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T04:39:41.443259+00:00",
+      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
       "context": null
     },
     {
@@ -886,7 +873,7 @@
       ],
       "publishedAt": "2026-11-16T05:00:38+00:00",
       "updatedAt": "2026-11-16T05:00:38+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -902,32 +889,28 @@
       "context": null
     },
     {
-      "id": "rss-5497cdf8e7843cadb5",
+      "id": "rss-86d516e3142189e053",
       "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Après l'attentat raciste à Trappes, Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
+      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
       "bullets": [
-        "La députée écologiste Sandrine Rousseau, dont le nom figurait avec celui de trois autres personnalités de gauche sur une liste dressée par l'auteur de l'attentat de Trappes (Yvelines), a accusé dimanche 15 novembre le ministère de l'Intérieur de \"sous-estimer de manière structurelle\" la \"menace venant de l'extrême droite\".",
-        "Selon le parquet national antiterroriste (Pnat), \"aucun élément\" n'étaye dans l'enquête \"l'existence d'un projet d'action violente\" à l'encontre des personnalités qui figuraient sur cette liste.",
-        "Sandrine Rousseau a annoncé, via son avocat Thibault Laforcade, qu'elle allait déposer plainte pour que la justice ouvre une enquête."
+        "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques »."
       ],
-      "publishedAt": "2026-11-15T13:56:47+00:00",
-      "updatedAt": "2026-11-15T13:56:47+00:00",
-      "importance": 71,
+      "publishedAt": "2026-11-15T15:30:19+00:00",
+      "updatedAt": "2026-11-15T15:30:19+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-l-extreme-droite_8283533.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "a026d304a0b89edcdbf77a98f10886de4d689a43a6cda6be1f0bd0d0dad248a2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0cb648bb2bab1f0401eadaf28751de71014ad7c22252ed3a78b8f53074ec8319",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-1151a307abf7b3c1cc",
@@ -941,7 +924,7 @@
       ],
       "publishedAt": "2026-11-16T04:45:08+00:00",
       "updatedAt": "2026-11-16T04:45:08+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1007,128 +990,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f170c362975df9a319",
+      "id": "rss-626321d5d6449862cf",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+      "topic": "France",
+      "title": "Immigration : dans les aéroports français, la chasse à la fraude aux passeports se durcit",
       "bullets": [
-        "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde »."
+        "DÉCRYPTAGE - Les compagnies aériennes sont tenues de vérifier les documents de leurs passagers à l’embarquement.",
+        "Et les sanctions tombent en cas de relâchement, au rythme d’une trentaine d’amendes dressées chaque semaine."
       ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27b80a7cd26f43cf3f8de512230da3d722c6356675f6409d973eb475cf7e4ab1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8fa518f137b633c5c7",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-      "bullets": [
-        "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
-        "En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés."
-      ],
-      "publishedAt": "2026-11-15T09:00:10+00:00",
-      "updatedAt": "2026-11-15T09:00:10+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5b12f739100fbbf67c2a0076fa1d7b43279e0d2c4fc9b5f55039472b3e0e50a3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-86d516e3142189e053",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
-      "bullets": [
-        "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques »."
-      ],
-      "publishedAt": "2026-11-15T15:30:19+00:00",
-      "updatedAt": "2026-11-15T15:30:19+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0cb648bb2bab1f0401eadaf28751de71014ad7c22252ed3a78b8f53074ec8319",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a841445bd0442466d7",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "«Jean-Luc Mélenchon met des cibles dans le dos des journalistes», affirme le porte-parole du gouvernement Mathieu Lefèvre",
-      "bullets": [
-        "Évoquant l’agression dont ont été victimes deux journalistes de BFMTV samedi, en marge de la manifestation lyonnaise qu’ils couvraient, le porte-parole du gouvernement Mathieu Lefèvre a dénoncé un «climat de violence débridée absolument inacceptable».",
-        "«Il faut condamner absolument et fermement», a-t-il expliqué ce lundi sur le plateau de RMC, s’interrogeant sur le silence de certains camps politiques.",
-        "L’enquête vise également des «dégradations de bien privé» et a été élargie à des faits de «vol en réunion» d’une caméra après le dépôt de plainte d’un des journalistes concernés, qui a été blessé."
-      ],
-      "publishedAt": "2026-11-16T11:16:44+00:00",
-      "updatedAt": "2026-11-16T11:16:44+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-16T16:00:00+00:00",
+      "updatedAt": "2026-11-16T16:00:00+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/politique/jean-luc-melenchon-met-des-cibles-dans-le-dos-des-journalistes-affirme-le-porte-parole-du-gouvernement-mathieu-lefevre-20261116",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-16",
-      "provenance": "article-extract",
-      "summaryInput": "d8ab1ebfd7289a62f4b6a69de23f730c61374e02ad866d9be47f436f761a7db6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-3e5c9bc07a6d11b29a",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
-      "bullets": [
-        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
-      ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "url": "https://www.lefigaro.fr/actualite-france/immigration-dans-les-aeroports-francais-la-chasse-a-la-fraude-aux-passeports-se-durcit-20261116",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
-      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-678d6a91b40046d2fe",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : à Metz, à Nice ou en Ariège, LFI et ses réunions publiques à la conquête des territoires",
+      "bullets": [
+        "L’organisation de nombreux échanges animés par les cadres de La France insoumise lui permet de multiplier les démonstrations de force pour s’imposer à gauche, de mailler le territoire et de consolider toujours plus sa base électorale.",
+        "Très tôt dans la campagne, le parti mobilise ainsi fortement ses sympathisants et électeurs."
+      ],
+      "publishedAt": "2026-11-16T16:30:00+00:00",
+      "updatedAt": "2026-11-16T16:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c811f0d1f2cb1b564c351c4114b345ca2b99b870a96c928e71684fa100fcacf8",
       "detailLevel": "preview"
     },
     {
@@ -1156,6 +1064,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3e5c9bc07a6d11b29a",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "bullets": [
+        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+      ],
+      "publishedAt": "2026-11-15T05:15:04+00:00",
+      "updatedAt": "2026-11-15T05:15:04+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-bcd059acf655de34df",
       "revision": 1,
       "category": "france",
@@ -1177,6 +1109,56 @@
       "verifiedAt": "2026-11-16",
       "provenance": "rss-excerpt",
       "summaryInput": "e600906d9fa1d0b35a2b0bb2336b15475932499fe59287d1a52bcf27b9777c25",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-90df1864a41fc17ef6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
+      "bullets": [
+        "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et de parlementaires du RN.",
+        "Un appel à la manifestation est lancé pour le 10 novembre à Paris."
+      ],
+      "publishedAt": "2026-11-10T04:00:14+00:00",
+      "updatedAt": "2026-11-10T04:00:14+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "31313f2ba1255630dbff9262e6dc55ee41922869fd1e25788899659b565bf543",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-68a7c562bd3ecfc4c0",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Nos choix de podcasts : des agents très spéciaux et des bonnes notes",
+      "bullets": [
+        "Une fois par mois, La Matinale du Monde vous propose une sélection de programmes à (ré)entendre.",
+        "Aujourd’hui, notamment, une série d’espionnage."
+      ],
+      "publishedAt": "2026-11-15T04:45:06+00:00",
+      "updatedAt": "2026-11-15T04:45:06+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/televisions-radio/article/2026/11/15/nos-choix-de-podcasts-des-agents-tres-speciaux-et-des-bonnes-notes_6810974_1655027.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-16",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a540ee505983c352a520984046e676a84195ea5899e880c895ad29a7f8630a68",
       "detailLevel": "preview"
     }
   ],
@@ -1215,7 +1197,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1239,7 +1221,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1257,7 +1239,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Le Monde",
@@ -1269,7 +1251,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
