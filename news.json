@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T04:06:46.343897+00:00",
+  "preparedAt": "2026-11-17T05:11:40.834992+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -47,7 +47,7 @@
       ],
       "publishedAt": "2026-11-16T16:13:43+00:00",
       "updatedAt": "2026-11-16T16:13:43+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -91,28 +91,52 @@
       "context": null
     },
     {
-      "id": "rss-4166f2e87685996200",
+      "id": "rss-391cc06b27a7d881c6",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
+      "title": "Mobilisation du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
       "bullets": [
-        "Les projets d’enfouissement d’infrastructures critiques se multiplient dans la région, même si la tendance avait commencé bien avant la guerre au Moyen-Orient.",
-        "Un nouveau marché de la construction en sous-sol s’ouvre aux puissances étrangères."
+        "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires.",
+        "Dans le secteur privé, la CGT, l’UNSA et Solidaires ainsi que certaines fédérations d’autres organisations exhortent les salariés à passer à l’action."
       ],
-      "publishedAt": "2026-11-16T13:00:05+00:00",
-      "updatedAt": "2026-11-16T13:00:05+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-17T04:41:20+00:00",
+      "updatedAt": "2026-11-17T04:41:20+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "3c94841e212b7aaf88d512c28edcf7f31d805eacf376c29a18e5fbd57d0600b8",
+      "summaryInput": "4b46d02972643b152ba1f7811f316aff80a68ddf59cf4cf183e9fca0a51c6dbc",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-786c7a527b9f1d8eba",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La baguette, un baromètre de l’inflation pour les Français : « Quand le pain flambe, c’est le thermomètre du pays qui grimpe »",
+      "bullets": [
+        "Coincées entre l’inflation des coûts des matières premières et de l’énergie et des consommateurs au pouvoir d’achat contraint, les boulangeries s’adaptent en tentant de contenir la hausse du prix de la baguette et en augmentant le reste."
+      ],
+      "publishedAt": "2026-11-17T05:00:11+00:00",
+      "updatedAt": "2026-11-17T05:00:11+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/la-baguette-un-barometre-de-l-inflation-pour-les-francais-quand-le-pain-flambe-c-est-le-thermometre-du-pays-qui-grimpe_6812901_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bef3332e129b53a83b0344daad45fc8ef55a79ba30a324fad192fd3dad66daa0",
       "detailLevel": "preview"
     },
     {
@@ -231,7 +255,7 @@
       ],
       "publishedAt": "2026-11-16T16:20:38+00:00",
       "updatedAt": "2026-11-16T16:20:38+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -257,7 +281,7 @@
       ],
       "publishedAt": "2026-11-16T16:13:32+00:00",
       "updatedAt": "2026-11-16T16:13:32+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -301,34 +325,6 @@
       "context": null
     },
     {
-      "id": "rss-0baacb623c62b4cca4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Le pouvoir d'achat, c'est d'abord la dépense de logement\" rappelle la directrice générale du promoteur Nexity",
-      "bullets": [
-        "Véronique Bédague, présidente et directrice générale de Nexity, premier promoteur français, assure constater un \"immense renoncement\" qui \"produit de la colère\" chez les Français confrontés à la crise du logement.",
-        "Selon elle, cette élection \"va tourner autour du pouvoir d'achat des ménages\" et, en grande partie, de la question du logement.",
-        "D'après la directrice générale de Nexity, 60 000 logements neufs ont été vendus cette année en France, contre 160 000 en 2021."
-      ],
-      "publishedAt": "2026-11-16T08:44:30+00:00",
-      "updatedAt": "2026-11-16T08:44:30+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/le-pouvoir-d-achat-c-est-d-abord-la-depense-de-logement-rappelle-la-directrice-generale-du-promoteur-nexity_8284460.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "76b693d593df5f236029d196e26cf36ff43711c90bac94f06d6c8600aad1da92",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -339,8 +335,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T03:59:46+00:00",
-      "updatedAt": "2026-11-17T03:59:46+00:00",
+      "publishedAt": "2026-11-17T05:10:27+00:00",
+      "updatedAt": "2026-11-17T05:10:27+00:00",
       "importance": 69,
       "sources": [
         {
@@ -369,7 +365,7 @@
       ],
       "publishedAt": "2026-11-16T16:41:41+00:00",
       "updatedAt": "2026-11-16T16:41:41+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -383,30 +379,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
       "context": null
-    },
-    {
-      "id": "rss-d43ede1b1062653877",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "« L’entrée en Bourse d’Anthropic est un test de confiance XXL des marchés financiers à l’égard du secteur de l’IA »",
-      "bullets": [
-        "Malgré la victoire des démocrates aux midterms et l’avenir incertain du fabricant de puces Nvidia, deux ondes de choc pour l’intelligence artificielle, l’entreprise créatrice du robot conversationnel Claude maintient son projet pharaonique de s’introduire au Nasdaq, le 19 novembre, constate, dans sa chronique, Fabrice Gliszczynski, journaliste au « Monde »."
-      ],
-      "publishedAt": "2026-11-16T14:00:02+00:00",
-      "updatedAt": "2026-11-16T14:00:02+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/16/l-entree-en-bourse-d-anthropic-est-un-test-de-confiance-xxl-des-marches-financiers-a-l-egard-du-secteur-de-l-ia_6811899_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9b70f9f680bf2c8384c68e9b90d25de38502e6d87afe568561c6079e1ed3531f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ce717bd9d2b9de31c7",
@@ -462,34 +434,6 @@
       "summaryInput": "c3903f1b4855287d979e5b5d48a39f67122ffda2676b9359672fe73f9ea525f1",
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ccb82eafc76b79a7b5",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
-      "bullets": [
-        "Emmanuel Macron accuse Marine Le Pen de fragiliser le soutien français à Kiev.",
-        "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
-        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand"
-      ],
-      "publishedAt": "2026-11-16T12:14:16+00:00",
-      "updatedAt": "2026-11-16T12:14:16+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/edito-sur-l-ukraine-marine-le-pen-a-t-elle-une-position-antipatriotique_8284844.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "593682b7ba67822a77e8193676bf086acc3a61689336303b9635b137329915df",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
       "context": null
     },
     {
@@ -628,7 +572,7 @@
       ],
       "publishedAt": "2026-11-16T16:57:23+00:00",
       "updatedAt": "2026-11-16T16:57:23+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -702,7 +646,7 @@
       ],
       "publishedAt": "2026-11-16T17:00:08+00:00",
       "updatedAt": "2026-11-16T17:00:08+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -727,7 +671,7 @@
       ],
       "publishedAt": "2026-11-16T16:27:05+00:00",
       "updatedAt": "2026-11-16T16:27:05+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -741,56 +685,80 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9ff791ef114b7a2278",
+      "id": "rss-26a7e12c4e2aff87b0",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "L'UE annonce de nouvelles sanctions contre plus de 100 entités et personnes \"pour mieux restreindre la capacité de la Russie à financer sa guerre\" en Ukraine",
+      "title": "\"J'ai tout gâché\" : dans ses mémoires, Joe Biden se confie sur son renoncement à la présidentielle 2024 face à Donald Trump",
       "bullets": [
-        "Une \"réaction aux attaques indiscriminées de la Russie contre l'Ukraine\".",
-        "Dans un communiqué, lundi 16 novembre, le Conseil de l'Union européenne annonce \"des mesures restrictives supplémentaires à l'encontre de 12 personnes et de 101 entités\", pour leur \"rôle dans des secteurs économiques constituant une source de revenus substantielle pour la guerre d'agression menée par la Russie\" en Ukraine.",
-        "L'ensemble des personnes et entités visées \"font l'objet d'un gel de leurs avoirs\", et les individus sanctionnés ont l'interdiction d'entrée au sein de l'UE."
+        "L'ex-président américain Joe Biden publie ses mémoires, mardi 17 novembre, dans lesquelles il revient sur son mandat et sa volonté de se représenter lors de l'élection présidentielle 2024 face à Donald Trump.",
+        "Ce livre autobiographique, intitulé Promise me, America (Promets-moi, Amérique, en français) et dont plusieurs extraits ont été publiés par la presse américaine, explique \"qui nous sommes en tant que nation, ce que nous défendons, et le rôle de l'Amérique dans le monde\", selon Joe Biden.",
+        "Ce que [Donald] Trump a fait le 6 janvier 2021 ne devrait jamais être oublié."
       ],
-      "publishedAt": "2026-11-16T12:31:24+00:00",
-      "updatedAt": "2026-11-16T12:31:24+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-17T04:46:49+00:00",
+      "updatedAt": "2026-11-17T04:46:49+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ue-annonce-de-nouvelles-sanctions-contre-plus-de-100-entites-et-personnes-pour-mieux-restreindre-la-capacite-de-la-russie-a-financer-sa-guerre-en-ukraine_8284817.html",
+          "url": "https://www.franceinfo.fr/monde/usa/joe-biden/j-ai-tout-gache-dans-ses-memoires-joe-biden-se-confie-sur-son-renoncement-a-la-presidentielle-2024-face-a-donald-trump_8284565.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "6973b6f7c162fd6e3d4743d4a6b88f49b54cf0903f3ed6e9f83f137bb396a433",
+      "summaryInput": "a88c9ca2efb944d532583115f7db9714bc0d3def58c366101ba55198db3845d2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
+      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
       "context": null
     },
     {
-      "id": "rss-f726a6cafda6038443",
+      "id": "rss-a5d0ddcb2022515def",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Débat de la présidentielle : Marine Le Pen cible les associations « politisées », dont la Ligue des droits de l’homme, « ramassis de gauchistes »",
+      "category": "world",
+      "topic": "International",
+      "title": "Trump, Gaza, présidentielle 2024 : dans un livre sur la défensive, Joe Biden sort du silence",
       "bullets": [
-        "La candidate du Rassemblement national entend, si elle est élue, « arrêter de subventionner les associations politisées ».",
-        "Sa proposition a suscité de vives réactions de ses opposants."
+        "L’ancien président démocrate défend ses quatre ans de mandats et continue d’affirmer qu’il aurait été apte à en briguer un second."
       ],
-      "publishedAt": "2026-11-16T23:17:20+00:00",
-      "updatedAt": "2026-11-16T23:17:20+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-17T03:59:59+00:00",
+      "updatedAt": "2026-11-17T03:59:59+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/trump-gaza-presidentielle-2024-dans-un-livre-sur-la-defensive-joe-biden-sort-du-silence-20261117",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "5419800de110ff2a2f53946b1c4aa0e1a2fb3f9cb819a7b291ea16bdad1cb0cb",
+      "summaryInput": "f31fe2ad94daaf7ab62b20b44fa7ece2058765285bda02d3f7819b74f0bfed69",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-293883f9ff98d558f1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Infractions routières : les recettes des amendes redémarrent après des années de stagnation",
+      "bullets": [
+        "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
+        "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars."
+      ],
+      "publishedAt": "2026-11-17T04:30:05+00:00",
+      "updatedAt": "2026-11-17T04:30:05+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d2ffb72480f4c43e560042beb68466db9131648933ebc67b44d541ea68f50c77",
       "detailLevel": "preview"
     },
     {
@@ -842,29 +810,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3a51803c04afd64743",
+      "id": "rss-06e2c91dab485f4690",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
+      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les Françaises à la traîne",
       "bullets": [
-        "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces.",
-        "Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050."
+        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l’air dans 40 villes européennes.",
+        "La réduction de la place de la voiture en ville jugée efficace Cependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies."
       ],
-      "publishedAt": "2026-11-16T09:47:06+00:00",
-      "updatedAt": "2026-11-16T09:47:06+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-17T05:00:21+00:00",
+      "updatedAt": "2026-11-17T05:00:21+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1c5e9f7ec8356b38632ef977d730748507957f5bd9bc348a53a50c07bfe9a596",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "bf8250fb54423c7cdfdfa1802f0185fec0520a7f0f732f87a17b089a004dac28",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
+      "context": null
     },
     {
       "id": "rss-3e5c9bc07a6d11b29a",
@@ -992,52 +962,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b6f28d15b5845e2091",
+      "id": "rss-f726a6cafda6038443",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Loi « relance du logement » : des maires rappellent l’urgence d’un ANRU 3 pour résorber les « trappes à pauvreté » dans les quartiers populaires",
-      "bullets": [
-        "Le lancement d’un troisième programme national de renouvellement urbain est l’un des éléments du projet de loi, dont l’examen en séance débute lundi 16 novembre à l’Assemblée nationale.",
-        "L’avenir de villes comme le Val-de-Reuil (Eure) dépend en partie de cette manne."
-      ],
-      "publishedAt": "2026-11-16T09:33:42+00:00",
-      "updatedAt": "2026-11-16T09:33:42+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/16/loi-relance-du-logement-des-maires-rappellent-l-urgence-d-un-anru-3-pour-resorber-les-trappes-a-pauvrete-dans-les-quartiers-populaires_6811677_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "88c1599132dfe5a2c8890ad8aa2a24d2d521bf6b733fa41c895fb73f7bd7608e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bf62d82a998cb60cc7",
-      "revision": 2,
-      "category": "france",
       "topic": "Politique",
-      "title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
+      "title": "Débat de la présidentielle : Marine Le Pen cible les associations « politisées », dont la Ligue des droits de l’homme, « ramassis de gauchistes »",
       "bullets": [
-        "Le mouvement de normalisation de l’image du Rassemblement national semble, pour la première fois depuis des années, s’enrayer, observe Blanche Leridon, directrice des études France de l’Institut Montaigne, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs."
+        "La candidate du Rassemblement national entend, si elle est élue, « arrêter de subventionner les associations politisées ».",
+        "Sa proposition a suscité de vives réactions de ses opposants."
       ],
-      "publishedAt": "2026-11-16T04:29:03+00:00",
-      "updatedAt": "2026-11-16T04:29:03+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-16T23:17:20+00:00",
+      "updatedAt": "2026-11-16T23:17:20+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "c1f4e056b9594bfa15123ffb90a88e1a2cc1b02d0fb5c73e284c52c2a816e356",
+      "summaryInput": "5419800de110ff2a2f53946b1c4aa0e1a2fb3f9cb819a7b291ea16bdad1cb0cb",
       "detailLevel": "preview"
     },
     {
@@ -1066,32 +1012,54 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6f91d156db86a62db3",
+      "id": "rss-cc1e2f5d9d7e0c743e",
       "revision": 1,
       "category": "france",
       "topic": "Éducation",
-      "title": "À Nantes, le lycée Nelson-Mandela ferme dès le jour de sa réouverture",
+      "title": "« Sous l’impulsion d’Alain Bourgarel, les débuts de l’histoire de l’éducation prioritaire se sont écrits en France »",
       "bullets": [
-        "Le lycée Nelson-Mandela à Nantes (Loire-Atlantique), incendié il y a six semaines, devait à nouveau accueillir les élèves ce lundi 16 novembre, mais il est déjà refermé.",
-        "Une annonce difficile à accepter pour certains parents d'élèves.",
-        "Annonce surprise de la direction du lycée dans un message envoyé aux parents d'élèves : \"Compte tenu du contexte actuel lié au mouvement lycéen, la sécurité au sein du lycée est compromise.\" L'établissement restera fermé mardi 17 novembre et devrait rouvrir mercredi 18 novembre."
+        "Faire réussir tous les enfants dans les territoires où l’éducation nationale est défaillante, telle était la mission que s’était fixée Alain Bourgarel, décédé le 4 novembre.",
+        "L’ex-directeur général de l’enseignement scolaire Jean-Paul Delahaye retrace son parcours et lui rend hommage dans une tribune au « Monde »."
       ],
-      "publishedAt": "2026-11-16T19:59:42+00:00",
-      "updatedAt": "2026-11-16T19:59:42+00:00",
+      "publishedAt": "2026-11-17T05:00:15+00:00",
+      "updatedAt": "2026-11-17T05:00:15+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/a-nantes-le-lycee-nelson-mandela-ferme-des-le-jour-de-sa-reouverture_8285408.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/17/sous-l-impulsion-d-alain-bourgarel-les-debuts-de-l-histoire-de-l-education-prioritaire-se-sont-ecrits-en-france_6812902_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "bdffdbd2249c7259d6391af6e18553c77bd5dc0630d35df226c9c24b02c33fcf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T20:07:46.070261+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "9ff1313cf41f421ed6377c23a5492447bee6c7d0a1e338c60b4a99042b11735b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cbd769ff6a63e10177",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "A Lyon, Toulouse, Lille ou Rennes, les ressorts d’une révolte sociale qui s’est ancrée au fil des semaines",
+      "bullets": [
+        "Une nouvelle journée d’action nationale est prévue mardi.",
+        "Parti des lycéens mi-septembre, relayé par les étudiants, les parents puis les syndicats, le mouvement gagne les associations."
+      ],
+      "publishedAt": "2026-11-17T04:30:22+00:00",
+      "updatedAt": "2026-11-17T04:30:22+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/a-lyon-toulouse-lille-ou-rennes-les-ressorts-d-une-revolte-sociale-qui-s-est-ancree-au-fil-des-semaines_6812893_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7356ca8c9a8c38c9a1d3376e808148c7d86fbe869a1faae1c18baa4504175324",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-626321d5d6449862cf",
@@ -1144,28 +1112,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-678d6a91b40046d2fe",
+      "id": "rss-1151a307abf7b3c1cc",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : à Metz, à Nice ou en Ariège, LFI et ses réunions publiques à la conquête des territoires",
+      "topic": "Culture",
+      "title": "Nos albums coups de cœur : Dominique A, Angèle, Fontaines D.C., Pet Shop Boys…",
       "bullets": [
-        "L’organisation de nombreux échanges animés par les cadres de La France insoumise lui permet de multiplier les démonstrations de force pour s’imposer à gauche, de mailler le territoire et de consolider toujours plus sa base électorale.",
-        "Très tôt dans la campagne, le parti mobilise ainsi fortement ses sympathisants et électeurs."
+        "Le lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique.",
+        "Aujourd’hui, une sélection de disques parus en octobre pour ne pas voir passer l’hiver."
       ],
-      "publishedAt": "2026-11-16T16:30:00+00:00",
-      "updatedAt": "2026-11-16T16:30:00+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-16T04:45:08+00:00",
+      "updatedAt": "2026-11-16T04:45:08+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html",
+          "url": "https://www.lemonde.fr/musiques/article/2026/11/16/nos-albums-coups-de-c-ur-dominique-a-angele-fontaines-d-c-pet-shop-boys_6811369_1654986.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "c811f0d1f2cb1b564c351c4114b345ca2b99b870a96c928e71684fa100fcacf8",
+      "summaryInput": "19a0d287e4765a3386de9c2a01b1166cafd2aadff6ee088649d40c6a96193382",
       "detailLevel": "preview"
     }
   ],
@@ -1180,7 +1148,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1252,13 +1220,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1270,7 +1238,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
