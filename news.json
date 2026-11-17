@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T22:04:07.491828+00:00",
+  "edition": "2026-11-18",
+  "preparedAt": "2026-11-17T23:04:55.208923+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -160,6 +160,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-93ac6633b9a29efe72",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Moins de taxes, plus d’aides… Quelles sont les attentes de la classe moyenne ?",
+      "bullets": [
+        "La classe moyenne, c’est la clientèle de Mauricette Briot, 63 ans, et de Cathy Namy, 69 ans, toutes deux commerçantes depuis près de 20 ans sur le marché.",
+        "Réponse de Cathy : \"Ce sont des gens qui vont gagner dans les 2 000 euros par mois.\" Mais sur le stand, la question fait débat.",
+        "Une personne seule appartient à la classe moyenne si elle gagne entre 1 750 et 3 200 euros net après impôt."
+      ],
+      "publishedAt": "2026-11-17T22:06:14+00:00",
+      "updatedAt": "2026-11-17T22:06:14+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/moins-de-taxes-plus-d-aides-quelles-sont-les-attentes-de-la-classe-moyenne_8287202.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "1d4ca03b0e1c0929e2685a8b695e3bfc6672c06072c63efcea354dd6a7564103",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T23:04:55.208923+00:00",
+      "context": null
+    },
+    {
       "id": "rss-5b97bcb5c959332a17",
       "revision": 1,
       "category": "eco",
@@ -268,31 +296,6 @@
       "context": null
     },
     {
-      "id": "rss-ee8fe3eef4fa1b7d88",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "M6 mise sur Cyril Hanouna pour s’imposer dans la campagne présidentielle",
-      "bullets": [
-        "DÉCRYPTAGE - À cinq mois du premier tour de l’élection présidentielle, le groupe planche sur un projet d’émission où son animateur vedette recevrait les principaux candidats.",
-        "Un chantier complexe."
-      ],
-      "publishedAt": "2026-11-17T20:43:22+00:00",
-      "updatedAt": "2026-11-17T20:43:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/il-est-la-carte-maitresse-de-la-chaine-m6-mise-sur-cyril-hanouna-pour-s-imposer-dans-la-campagne-presidentielle-20261117",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e9ec9be707bc4e198e60b7e6ab6756892cba9a57cf5158901f685444e39b9165",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0c14934c31ea0f77a",
       "revision": 1,
       "category": "eco",
@@ -303,8 +306,8 @@
         "Patricia, 58 ans, est aide-soignante dans un hôpital parisien.",
         "À 26 ans, Katell touche 2 200 euros net par mois."
       ],
-      "publishedAt": "2026-11-17T20:26:54+00:00",
-      "updatedAt": "2026-11-17T20:26:54+00:00",
+      "publishedAt": "2026-11-17T22:34:15+00:00",
+      "updatedAt": "2026-11-17T22:34:15+00:00",
       "importance": 65,
       "sources": [
         {
@@ -331,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T22:00:09+00:00",
-      "updatedAt": "2026-11-17T22:00:09+00:00",
+      "publishedAt": "2026-11-17T23:00:07+00:00",
+      "updatedAt": "2026-11-17T23:00:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -413,7 +416,7 @@
       ],
       "publishedAt": "2026-11-17T10:26:28+00:00",
       "updatedAt": "2026-11-17T10:26:28+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -441,7 +444,7 @@
       ],
       "publishedAt": "2026-11-15T11:00:00+00:00",
       "updatedAt": "2026-11-15T11:00:00+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -481,7 +484,7 @@
       "provenance": "article-extract",
       "summaryInput": "c3903f1b4855287d979e5b5d48a39f67122ffda2676b9359672fe73f9ea525f1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "enrichedAt": "2026-11-17T23:04:55.208923+00:00",
       "context": null
     },
     {
@@ -509,14 +512,14 @@
       "provenance": "article-extract",
       "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "enrichedAt": "2026-11-17T23:04:55.208923+00:00",
       "context": null
     },
     {
       "id": "rss-4c7f6287fee3a1d857",
       "revision": 2,
       "category": "world",
-      "topic": "Santé",
+      "topic": "International",
       "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
       "bullets": [
         "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
@@ -1150,31 +1153,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b648dd62706abe4e6c",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Antisémitisme : 82% des Français juifs déclarent avoir été victimes d’un acte antisémite au cours de leur vie, selon un sondage",
-      "bullets": [
-        "À quelques mois de la présidentielle, 58% des Français estiment que Jean-Luc Mélenchon contribue à la montée de l’antisémitisme de même que 47% pour Marine Le Pen, selon une enquête Ifop.",
-        "Parmi les Français juifs interrogés, ces proportions s’établissent respectivement à 86% et 36%."
-      ],
-      "publishedAt": "2026-11-17T10:33:00+00:00",
-      "updatedAt": "2026-11-17T10:33:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/antisemitisme-82-des-francais-juifs-declarent-avoir-ete-victimes-d-un-acte-antisemite-au-cours-de-leur-vie-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1336fbb3752e30a1f4",
       "revision": 1,
       "category": "france",
@@ -1222,6 +1200,31 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b648dd62706abe4e6c",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Antisémitisme : 82% des Français juifs déclarent avoir été victimes d’un acte antisémite au cours de leur vie, selon un sondage",
+      "bullets": [
+        "À quelques mois de la présidentielle, 58% des Français estiment que Jean-Luc Mélenchon contribue à la montée de l’antisémitisme de même que 47% pour Marine Le Pen, selon une enquête Ifop.",
+        "Parmi les Français juifs interrogés, ces proportions s’établissent respectivement à 86% et 36%."
+      ],
+      "publishedAt": "2026-11-17T10:33:00+00:00",
+      "updatedAt": "2026-11-17T10:33:00+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/antisemitisme-82-des-francais-juifs-declarent-avoir-ete-victimes-d-un-acte-antisemite-au-cours-de-leur-vie-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
       "detailLevel": "preview"
     }
   ],
