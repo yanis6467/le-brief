@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T15:04:57.125267+00:00",
+  "preparedAt": "2026-11-17T16:09:17.984495+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-de39752a8808e05cea",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Mensonge», «arnaque» et «vices cachés» : la droite et le centre attaquent la réforme des retraites de Marine Le Pen",
+      "bullets": [
+        "Pour le candidat LR Bruno Retailleau, cette retraite à 62 ans est un «totem démagogique» qui l'oblige à livrer un «catalogue de contradictions».",
+        "En abaissant tous les curseurs, comme l’âge de départ et la durée de cotisation, «ça coûtera 35 milliards d’euros», selon Franck Morel, un conseiller d’Horizons sur ces questions.",
+        "Le co-responsable du programme de Gabriel Attal, Paul Midy voit dans le projet du RN, qui générera un «trou» de 35 milliards d’euros, une «vaste arnaque financière avec beaucoup de créations d’injustices»."
+      ],
+      "publishedAt": "2026-11-17T15:53:18+00:00",
+      "updatedAt": "2026-11-17T15:53:18+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/mensonge-arnaque-et-vices-caches-la-droite-et-le-centre-attaquent-la-reforme-des-retraites-de-marine-le-pen-20261117",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "0f80dd73136850e118afd1c75319d472ef761f9a8c90413ea55267c6e2cf101c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
+      "context": null
+    },
     {
       "id": "rss-5abe72b2b3d2b9eb0e",
       "revision": 1,
@@ -33,6 +61,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
       "context": null
+    },
+    {
+      "id": "rss-bf88a2b4c287d7996b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Chine et le Canada s’accordent sur des nouvelles réductions des droits de douane",
+      "bullets": [
+        "Les allégements consentis par la Chine portent sur environ 256 millions d’euros d’exportations de denrées, en échange d’une prolongation de deux ans des mesures d’exonération applicables à certains produits chinois."
+      ],
+      "publishedAt": "2026-11-17T07:39:46+00:00",
+      "updatedAt": "2026-11-17T07:39:46+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/la-chine-et-le-canada-s-accordent-sur-des-nouvelles-reductions-des-droits-de-douane_6812924_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "caae3774e16364992e5d58913db29bc23c36781161e934bf78a7f1cfb7bfacc5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-40f40e7186405511a4",
@@ -116,28 +168,27 @@
       "context": null
     },
     {
-      "id": "rss-b44617cc20476dd980",
+      "id": "rss-71af34e8f5041700e1",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
+      "title": "Les mouvements sociaux et l’après présidentielle suscitent l’inquiétude des fabricants de la marque « Elysée »",
       "bullets": [
-        "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux.",
-        "Avec ses « clients les plus sensibles », il a perduré malgré un désengagement à partir de 2014."
+        "Les marques de produits estampillés « Elysée-présidence de la République », censés valoriser le savoir-faire français, redoutent un changement d’image de la marque après le scrutin de 2027."
       ],
-      "publishedAt": "2026-11-17T06:00:15+00:00",
-      "updatedAt": "2026-11-17T06:00:15+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-17T15:25:31+00:00",
+      "updatedAt": "2026-11-17T15:25:31+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/entre-mouvements-sociaux-et-incertitude-politique-les-fabricants-de-la-marque-elysee-s-inquietent-pour-son-avenir_6812993_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "2ae63b54243f02120fb6bcd9099b53c5e20edd7af5a522145fa788926fb93598",
+      "summaryInput": "24d81c4759bdb9ffd912157f7ea1cad6d1be836066cdea227e34dcd206944094",
       "detailLevel": "preview"
     },
     {
@@ -164,34 +215,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "74e1538c94abbffd21c81164204039f9da93b1a76927dc1ffcbb6c9c447a6709",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c6c65d6046d1eeb88f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget de la Sécu : le Sénat rétablit la réforme des retraites et rejette la désindexation des pensions",
-      "bullets": [
-        "Les sénateurs ont choisi d'adopter des amendements supprimant entièrement l'article du projet de budget de la Sécurité sociale prévoyant la désindexation, susceptible de rapporter environ 4 milliards d'euros.",
-        "La rapporteure générale du budget au Sénat, Christine Lavarde (LR), a annoncé qu'elle proposerait de supprimer entièrement la niche fiscale de l'abattement de 10% lors de l'examen du projet de budget de l'État, dans les prochains jours.",
-        "Sur ce texte, la proposition du gouvernement est de réduire à 3000 euros le plafond de l'abattement, contre 4439 euros aujourd'hui."
-      ],
-      "publishedAt": "2026-11-17T10:49:07+00:00",
-      "updatedAt": "2026-11-17T10:49:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/budget-de-la-secu-le-senat-retablit-la-reforme-des-retraites-et-rejette-la-desindexation-des-pensions-20261117",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "b650a57c19907f05b095dc20d142614bfe8171236ef2159c1498d89c22cc99d9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
-      "context": null
     },
     {
       "id": "rss-f9a632609d9a881401",
@@ -246,83 +269,53 @@
       "context": null
     },
     {
-      "id": "rss-12328af45d546b0fb3",
+      "id": "rss-4fc7bc5e9c7ceef8eb",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "À quel âge les Français et leurs voisins européens partent-ils réellement à la retraite ?",
+      "title": "Affaire Nvidia : l’ex-patron Jensen Huang entendu par le Congrès américain le 1er décembre",
       "bullets": [
-        "INFOGRAPHIE – Les dernières données de l’OCDE montrent que les Français quittent le marché du travail bien plus tôt que la majorité de leurs voisins européens."
+        "L’ancien PDG de Nvidia sera auditionné à huis clos, pour s’expliquer sur une liaison extraconjugale qui aurait potentiellement permis à la Chine d’accéder aux puces américaines les plus avancées."
       ],
-      "publishedAt": "2026-11-17T14:11:48+00:00",
-      "updatedAt": "2026-11-17T14:11:48+00:00",
+      "publishedAt": "2026-11-17T15:51:07+00:00",
+      "updatedAt": "2026-11-17T15:51:07+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/a-quel-age-les-francais-et-leurs-voisins-europeens-partent-ils-reellement-a-la-retraite-20261117",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-l-ex-patron-jensen-huang-entendu-par-le-congres-americain-le-1er-decembre-20261117",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "b1e2833dd3fe09f9c421ffd7d39dcb3f6227ca493b8e2aab10739113a1eb0e18",
+      "summaryInput": "218bd437a4344edf8fe007e3ad8a2f25f27bc62b37717032a2c1c1aba3ad37e6",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b5d1ad40f9fc04830e",
+      "id": "rss-9990a8c9326de74d70",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Enquête sur Deutsche Bank : le ministre des Finances allemand appelle le groupe à «s’expliquer en toute transparence»",
+      "title": "Le groupe finlandais Iceye veut créer un «SpaceX européen» en rachetant l’italien Avio, constructeur de la fusée Vega C",
       "bullets": [
-        "Après la publication d’une vaste enquête de presse internationale fondée sur plus de 15 millions de documents internes ayant fuité, l'action Deutsche Bank chutait ce mardi matin à la Bourse de Francfort, perdant jusqu'à près de 6% peu après l'ouverture.",
-        "L’enquête, baptisée «Inside Deutsche Bank», a été menée par plus de 200 journalistes d’un consortium de médias, parmi lesquels figurent le Financial Times, Der Spiegel, Le Monde, le New York Times, le Manager Magazin, la chaîne allemande ZDF et le quotidien autrichien Der Standard."
+        "Le spécialiste de l’imagerie satellitaire offre deux milliards d’euros pour réaliser cette opération.",
+        "L’État italien étudie cette offre avec attention."
       ],
-      "publishedAt": "2026-11-17T12:47:12+00:00",
-      "updatedAt": "2026-11-17T12:47:12+00:00",
+      "publishedAt": "2026-11-17T15:20:43+00:00",
+      "updatedAt": "2026-11-17T15:20:43+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/deutsche-bank-chute-en-bourse-de-pres-de-6-apres-une-enquete-sur-une-fuite-de-documents-internes-20261117",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/flash-eco/le-groupe-finlandais-iceye-veut-creer-un-spacex-europeen-en-rachetant-l-italien-avio-constructeur-de-la-fusee-vega-c-20261117",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "732f9943bd739762255b3971ac70fd9e54b2f1628bb08fb2fe2c7a72277daaa4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T15:04:57.125267+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7b39dfa0eae4577bdc",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Temu risque une nouvelle amende de l’UE pour un manque de contrôle des produits vendus",
-      "bullets": [
-        "Le géant chinois du commerce en ligne Temu, déjà sanctionné par l'UE à hauteur de 200 millions d'euros en mai, s'est vu reprocher mardi par Bruxelles plusieurs autres manquements aux règles européennes, qui pourraient lui valoir une nouvelle amende.",
-        "En mai, Bruxelles avait déjà condamné Temu à une amende de 200 millions d’euros, estimant que la plateforme avait mal évalué les risques auxquels ses clients sont exposés, une autre obligation fondamentale du DSA.",
-        "L’exécutif européen avait accepté en octobre des engagements de l’entreprise pour mettre fin à cette première infraction."
-      ],
-      "publishedAt": "2026-11-17T11:37:43+00:00",
-      "updatedAt": "2026-11-17T11:37:43+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/temu-risque-une-nouvelle-amende-de-l-ue-pour-un-manque-de-controle-des-produits-vendus-20261117",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "4196ad19ed7a1860e39dc91175e4b13f95969bea1107c42a1a7541e4f7ede972",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T15:04:57.125267+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "4aa5a3101e8582b0502a978e10ea66acddd5fecdad92d5860dcd775194d4b0c2",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -335,8 +328,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T15:01:34+00:00",
-      "updatedAt": "2026-11-17T15:01:34+00:00",
+      "publishedAt": "2026-11-17T16:05:20+00:00",
+      "updatedAt": "2026-11-17T16:05:20+00:00",
       "importance": 69,
       "sources": [
         {
@@ -485,7 +478,7 @@
       "provenance": "article-extract",
       "summaryInput": "2f4a06c3acf6380cd7afeac35078843ce00c9e727218bf007e61416a10565c9c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
+      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
       "context": null
     },
     {
@@ -595,30 +588,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bf88a2b4c287d7996b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Chine et le Canada s’accordent sur des nouvelles réductions des droits de douane",
-      "bullets": [
-        "Les allégements consentis par la Chine portent sur environ 256 millions d’euros d’exportations de denrées, en échange d’une prolongation de deux ans des mesures d’exonération applicables à certains produits chinois."
-      ],
-      "publishedAt": "2026-11-17T07:39:46+00:00",
-      "updatedAt": "2026-11-17T07:39:46+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/la-chine-et-le-canada-s-accordent-sur-des-nouvelles-reductions-des-droits-de-douane_6812924_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "caae3774e16364992e5d58913db29bc23c36781161e934bf78a7f1cfb7bfacc5",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-96d03424c51ab23f59",
       "revision": 1,
       "category": "world",
@@ -645,12 +614,12 @@
     },
     {
       "id": "rss-b5efd747f81c0ec907",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Serbie, la Liste étudiante fait une entrée historique au Parlement",
       "bullets": [
-        "Les représentants des étudiants se préparent à former un gouvernement dont la première tâche sera d’effectuer une purge de l’administration démissionnaire, accusée de corruption à grande échelle.",
+        "Les représentants des étudiants se préparent à former un gouvernement, dont la première tâche sera d’effectuer une purge de l’administration démissionnaire, accusée de corruption à grande échelle.",
         "Des contrats juteux passés avec de grands groupes européens et chinois sont aussi dans leur ligne de mire."
       ],
       "publishedAt": "2026-11-17T12:00:01+00:00",
@@ -665,7 +634,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "5495b981d1f675999f4d22a4d1fe22117ab096e4655a188defe9faf304c78ac7",
+      "summaryInput": "d6c74307f54a1cbaa9851550441b19a7ed9a3ca469d77e8fb87c3a2387722a31",
       "detailLevel": "preview"
     },
     {
@@ -742,6 +711,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "626d742ac0e02fcf0b729c7da277f935acd91fcfd583f8dbf07398af0ee12f05",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5dc9a6bab2e9d295b1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Offensive ukrainienne : Moscou affirme avoir abattu 1 400 drones en une nuit",
+      "bullets": [
+        "Peu avant minuit lundi 16 novembre, des missiles russes s’abattent sur le pont nord de la ville, la deuxième fois en quelques jours.",
+        "Ce sont deux axes stratégiques qui relient les rives du Dniepr pour les 3 millions d’habitants de la capitale ukrainienne.",
+        "Moscou affirme en avoir abattu 1 441 dans la nuit du lundi 16 au mardi 17 novembre, deuxième plus grosse opération depuis le début de l’année."
+      ],
+      "publishedAt": "2026-11-17T15:09:56+00:00",
+      "updatedAt": "2026-11-17T15:09:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/offensive-ukrainienne-moscou-affirme-avoir-abattu-1-400-drones-en-une-nuit_8286665.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "1350ed0e731e4a67f5822d59a1722c499db729a12690cb48484b2090a6cbe2c5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
+      "context": null
     },
     {
       "id": "rss-55d75000e5281922e9",
@@ -873,55 +870,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0698d9ab42b9b20b5f",
-      "revision": 1,
+      "id": "rss-293883f9ff98d558f1",
+      "revision": 3,
       "category": "france",
       "topic": "Société",
-      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
+      "title": "Infractions routières : les recettes des amendes augmentent après des années de stagnation",
       "bullets": [
-        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
-        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
-        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
+        "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
+        "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression, grâce notamment à la multiplication des radars."
       ],
-      "publishedAt": "2026-11-17T08:45:36+00:00",
-      "updatedAt": "2026-11-17T08:45:36+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e28d11108bf2536039",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
-      "bullets": [
-        "A la veille d’une nouvelle journée de mobilisation nationale, le gouvernement durcit le ton face à la contestation, en interdisant notamment la vente de mortiers d’artifice et les rassemblements autour de certains établissements parisiens."
-      ],
-      "publishedAt": "2026-11-16T19:06:05+00:00",
-      "updatedAt": "2026-11-16T19:06:05+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-17T04:30:03+00:00",
+      "updatedAt": "2026-11-17T04:30:03+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "51d4c46d24bfa795f12a0550845c9b9d027ff5206c47b260ddc4623bab319fc1",
+      "summaryInput": "b7151e8bd2de6696f5e02fbe942e0317943bd647007c688babf56ca4f3d0b47d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-34f5f5b3a59f845579",
+      "revision": 3,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
+      "bullets": [
+        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
+      ],
+      "publishedAt": "2026-11-14T04:00:06+00:00",
+      "updatedAt": "2026-11-14T04:00:06+00:00",
+      "importance": 78,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
     },
     {
@@ -984,7 +978,7 @@
       ],
       "publishedAt": "2026-11-15T15:30:19+00:00",
       "updatedAt": "2026-11-15T15:30:19+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1023,30 +1017,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-34f5f5b3a59f845579",
-      "revision": 3,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
-      "bullets": [
-        "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence depuis plusieurs jours."
-      ],
-      "publishedAt": "2026-11-14T04:00:06+00:00",
-      "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-25ee642f32dcd15856",
       "revision": 2,
       "category": "france",
@@ -1075,41 +1045,65 @@
       "context": null
     },
     {
-      "id": "rss-293883f9ff98d558f1",
-      "revision": 3,
+      "id": "rss-391cc06b27a7d881c6",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Infractions routières : les recettes des amendes augmentent après des années de stagnation",
+      "title": "Grève du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
       "bullets": [
-        "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
-        "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression, grâce notamment à la multiplication des radars."
+        "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires.",
+        "Dans le secteur privé, la CGT, l’UNSA et Solidaires, ainsi que certaines fédérations d’autres organisations, exhortent les salariés à passer à l’action."
       ],
-      "publishedAt": "2026-11-17T04:30:03+00:00",
-      "updatedAt": "2026-11-17T04:30:03+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-17T04:41:16+00:00",
+      "updatedAt": "2026-11-17T04:41:16+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "b7151e8bd2de6696f5e02fbe942e0317943bd647007c688babf56ca4f3d0b47d",
+      "summaryInput": "21fd4d1441a7501b5ac5327c0d56132fe11c2c65f11024e3c05a5fac726b2c40",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7600e91e873c1e852b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Grève de la fonction publique du 17 novembre : environ 3 % de grévistes dans l’éducation nationale, 27 % des établissements du supérieur perturbés",
+      "bullets": [
+        "La vie scolaire est plus mobilisée, avec plus de 9 % de grévistes, tandis que le syndicat lycéen USL revendique 350 lycées « à l’arrêt » et dénonce une « forte répression » des blocages."
+      ],
+      "publishedAt": "2026-11-17T15:17:36+00:00",
+      "updatedAt": "2026-11-17T15:17:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/17/greve-de-la-fonction-publique-du-17-novembre-environ-3-de-grevistes-dans-l-education-nationale-27-des-etablissements-du-superieur-perturbes_6812991_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85398099c69e33480ce08d4f34498d1d15f93b79a5809a6a0b31a21d78731958",
       "detailLevel": "preview"
     },
     {
       "id": "rss-ed5cb7c594b4a5726a",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
       "title": "L’appel d’élus du Conseil national de la vie lycéenne : « A quoi sert notre mandat si nos travaux ne débouchent sur aucune discussion suivie d’effets ? »",
       "bullets": [
-        "Cinq élus de l’instance nationale représentant les lycéens témoignent, dans une tribune au « Monde », du peu de considération qu’ils reçoivent de la part du ministère de l’éducation nationale, notamment depuis le début du mouvement lycéen, fin septembre."
+        "Cinq élus de l’instance nationale représentant les lycéens témoignent, dans une tribune au « Monde », du peu de considération qu’ils reçoivent de la part du ministère de l’éducation nationale, en particulier depuis le début du mouvement lycéen, à la fin de septembre."
       ],
-      "publishedAt": "2026-11-17T13:00:01+00:00",
-      "updatedAt": "2026-11-17T13:00:01+00:00",
+      "publishedAt": "2026-11-17T13:00:00+00:00",
+      "updatedAt": "2026-11-17T13:00:00+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1120,7 +1114,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "058097c9d2db66b1d55bc3493cf111f80fef418a10f19393f4e1142fde3a2cb3",
+      "summaryInput": "ab29ebec26cde3778d01e768015445c343308b53c1dba7189b241764535c27fe",
       "detailLevel": "preview"
     },
     {
@@ -1177,31 +1171,6 @@
       "context": null
     },
     {
-      "id": "rss-626321d5d6449862cf",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Immigration : dans les aéroports français, la chasse à la fraude aux passeports se durcit",
-      "bullets": [
-        "DÉCRYPTAGE - Les compagnies aériennes sont tenues de vérifier les documents de leurs passagers à l’embarquement.",
-        "Et les sanctions tombent en cas de relâchement, au rythme d’une trentaine d’amendes dressées chaque semaine."
-      ],
-      "publishedAt": "2026-11-16T16:00:00+00:00",
-      "updatedAt": "2026-11-16T16:00:00+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/immigration-dans-les-aeroports-francais-la-chasse-a-la-fraude-aux-passeports-se-durcit-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-b648dd62706abe4e6c",
       "revision": 1,
       "category": "france",
@@ -1227,28 +1196,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6040cc7002bcb63fc9",
-      "revision": 2,
+      "id": "rss-0698d9ab42b9b20b5f",
+      "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
+      "topic": "Société",
+      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
       "bullets": [
-        "Chaque mardi, La Matinale du Monde propose une sélection de séries à découvrir sur petit écran.",
-        "Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche."
+        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
+        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
+        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
       ],
-      "publishedAt": "2026-11-17T03:30:03+00:00",
-      "updatedAt": "2026-11-17T03:30:03+00:00",
+      "publishedAt": "2026-11-17T08:45:36+00:00",
+      "updatedAt": "2026-11-17T08:45:36+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-626321d5d6449862cf",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Immigration : dans les aéroports français, la chasse à la fraude aux passeports se durcit",
+      "bullets": [
+        "DÉCRYPTAGE - Les compagnies aériennes sont tenues de vérifier les documents de leurs passagers à l’embarquement.",
+        "Et les sanctions tombent en cas de relâchement, au rythme d’une trentaine d’amendes dressées chaque semaine."
+      ],
+      "publishedAt": "2026-11-16T16:00:00+00:00",
+      "updatedAt": "2026-11-16T16:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/immigration-dans-les-aeroports-francais-la-chasse-a-la-fraude-aux-passeports-se-durcit-20261116",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "0ac8001aa4f38dfb5522a6da83239fa3f45a3ee8d674fa7a1eb98b8ba93c7fd9",
+      "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
       "detailLevel": "preview"
     }
   ],
@@ -1263,7 +1260,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1311,7 +1308,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1329,7 +1326,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1359,7 +1356,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "BFM Bourse",
