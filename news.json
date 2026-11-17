@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T16:09:17.984495+00:00",
+  "preparedAt": "2026-11-17T17:16:52.560077+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -61,30 +61,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
       "context": null
-    },
-    {
-      "id": "rss-bf88a2b4c287d7996b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Chine et le Canada s’accordent sur des nouvelles réductions des droits de douane",
-      "bullets": [
-        "Les allégements consentis par la Chine portent sur environ 256 millions d’euros d’exportations de denrées, en échange d’une prolongation de deux ans des mesures d’exonération applicables à certains produits chinois."
-      ],
-      "publishedAt": "2026-11-17T07:39:46+00:00",
-      "updatedAt": "2026-11-17T07:39:46+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/la-chine-et-le-canada-s-accordent-sur-des-nouvelles-reductions-des-droits-de-douane_6812924_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "caae3774e16364992e5d58913db29bc23c36781161e934bf78a7f1cfb7bfacc5",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-40f40e7186405511a4",
@@ -241,31 +217,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e0cfa2fc6c66030b0b",
+      "id": "rss-80d007c054b8a2c319",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le gouvernement affirme que le prix des carburants a baissé dans plus de 90% des stations-service",
+      "title": "Les salaires des grands patrons du CAC40 en forte hausse",
       "bullets": [
-        "Plus de 90% des stations-service répercutent la baisse du prix du carburant liée au déblocage d'une partie des stocks stratégiques de gazole, a affirmé, mardi 17 novembre, le ministre délégué à la Transition écologique, Mathieu Lefèvre, sur Sud Radio.",
-        "\"On est à 2,16 [euros] aujourd'hui pour le gazole, et entre 2,07 et 2,11 [euros] pour le 95 et le 98\", a-t-il ajouté.",
-        "Evolution des prix à la pompe depuis janvier 2026En France hexagonale et en CorseSource : calcul du prix moyen journalier à partir des relevés par station-service publiés sur prix-carburants.gouv.fr."
+        "D'après le classement annuel du cabinet de conseil aux actionnaires de Proxinvest, publié mardi 17 novembre, en prenant en compte salaire fixe, part variable et divers bonus, le montant moyen de ces rémunérations a atteint 7,5 millions d'euros en 2025, soit 16% de plus qu'en 2024.",
+        "Ses marques sont Gucci, Yves Saint Laurent ou Balenciaga.",
+        "Une augmentation en moyenne de 14% sur 1 an, contre 2% pour les salariésSans surprise, l'évolution des rémunérations de ces patrons, ces dernières années, est sans commune mesure avec celles de leurs salariés."
       ],
-      "publishedAt": "2026-11-17T09:01:29+00:00",
-      "updatedAt": "2026-11-17T09:01:29+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-17T16:09:15+00:00",
+      "updatedAt": "2026-11-17T16:09:15+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-annonce-une-baisse-du-prix-des-carburants-dans-plus-de-90-des-stations-service_8286197.html",
+          "url": "https://www.franceinfo.fr/economie/entreprises/salaires-des-grands-patrons/les-salaires-des-grands-patrons-du-cac40-en-forte-hausse_8286638.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "742e9adfa9cd91671048ab74a2d2fb1bacb8c3de754b87a469d54c339afb1c23",
+      "summaryInput": "b66a45f7b0fddd385a1de49b56537eac6154f8913dd1d2b87b0776aa7526bfd1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "enrichedAt": "2026-11-17T17:16:52.560077+00:00",
       "context": null
     },
     {
@@ -318,6 +294,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-12328af45d546b0fb3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "À quel âge les Français et leurs voisins européens partent-ils réellement à la retraite ?",
+      "bullets": [
+        "INFOGRAPHIE – Les dernières données de l’OCDE montrent que les Français quittent le marché du travail bien plus tôt que la majorité de leurs voisins européens."
+      ],
+      "publishedAt": "2026-11-17T14:11:48+00:00",
+      "updatedAt": "2026-11-17T14:11:48+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/a-quel-age-les-francais-et-leurs-voisins-europeens-partent-ils-reellement-a-la-retraite-20261117",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b1e2833dd3fe09f9c421ffd7d39dcb3f6227ca493b8e2aab10739113a1eb0e18",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -328,8 +328,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T16:05:20+00:00",
-      "updatedAt": "2026-11-17T16:05:20+00:00",
+      "publishedAt": "2026-11-17T17:13:59+00:00",
+      "updatedAt": "2026-11-17T17:13:59+00:00",
       "importance": 69,
       "sources": [
         {
@@ -346,31 +346,31 @@
       "context": null
     },
     {
-      "id": "rss-451a4196c2f5140472",
+      "id": "rss-c7d6931cd0237b04c5",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "La rémunération des dirigeants du CAC 40 en hausse de 16 % en 2025, à un niveau quasi record",
+      "title": "CAC 40 : Plombé par les inquiétudes autour de Nvidia et le recul du luxe, le CAC 40 clôture en forte baisse",
       "bullets": [
-        "La rémunération moyenne des patrons des entreprises appartenant à l'indice français CAC 40 a augmenté de 16 % en 2025, à 7,5 millions d'euros, soit plus de 90 fois la rémunération moyenne de leurs salariés, selon un rapport publié mardi par le cabinet Proxinvest.",
-        "Selon Proxinvest, sur la période 2014-2025, la rémunération moyenne des salariés a augmenté de 36,1 %, tandis que celle des dirigeants a grimpé de 75,5 %.",
-        "Côté SBF 120, la rémunération moyenne des présidents exécutifs a atteint 5 millions d'euros en 2025, soit un bond de 21 % sur un an."
+        "Son indice phare, le CAC 40 a clôturé en forte baisse de 1,62% à 8.216,78 points.",
+        "En revanche, elle abaisse ses prévisions pour la France à 0,4% en 2026 et 0,6% en 2027, sur fond de recul des investissements et de redressement budgétaire.",
+        "Hermès accuse la plus forte baisse du CAC 40 à la clôture, avec un repli de 5,1%, suivi de Kering, qui a perdu 3,6%, et de LVMH, en baisse de 2,7%."
       ],
-      "publishedAt": "2026-11-17T14:28:56+00:00",
-      "updatedAt": "2026-11-17T14:28:56+00:00",
+      "publishedAt": "2026-11-17T16:40:11+00:00",
+      "updatedAt": "2026-11-17T16:40:11+00:00",
       "importance": 63,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/la-remuneration-des-dirigeants-du-cac-40-en-hausse-de-16-en-2025-a-un-niveau-quasi-record-20261117",
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-inquietudes-autour-de-nvidia-et-le-recul-du-luxe-le-cac-40-cloture-en-forte-baisse-1173960.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "3a3ccf2dd53b61bd8894079763316bbf4b820396dd3fe1bf8dfde5bf9ce89c55",
+      "summaryInput": "c11fbb41172f95a4e9b07f959a35e848537d4b556ed66c673f690877ba1d8cca",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T13:25:56.209013+00:00",
+      "enrichedAt": "2026-11-17T17:16:52.560077+00:00",
       "context": null
     },
     {
@@ -396,34 +396,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "004c30c5c5584c707e32bc8167490dcf673620c63d0a7a67082b87092f60e794",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bed0bd3ab6297d5ddd",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Entre le repli du luxe et la nervosité avant les résultats de Nvidia, le CAC 40 recule",
-      "bullets": [
-        "Des prévisions supérieures aux attentes, notamment pour le prochain trimestre où les revenus sont anticipés à 124,8 milliards de dollars, pourraient favoriser une reprise du secteur.",
-        "Sur le plan macroéconomique, la Commission européenne prévoit désormais une croissance de 1,2 % dans la zone euro en 2026 et en 2027, malgré une inflation plus élevée qu’anticipé.",
-        "Hermès accuse la plus forte baisse du CAC 40, avec un repli de 4,85%, suivi de Kering, qui perd 3,3%, et de LVMH, en baisse de 2,3%."
-      ],
-      "publishedAt": "2026-11-17T10:56:55+00:00",
-      "updatedAt": "2026-11-17T10:56:55+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-entre-le-repli-du-luxe-et-la-nervosite-avant-les-resultats-de-nvidia-le-cac-40-recule-1173923.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "6b225e19928ad336e8097b1939a8c65beb5f4881457105e97146dccff1ffc215",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
-      "context": null
     },
     {
       "id": "rss-031fb8e36d48a17d13",
@@ -589,16 +561,16 @@
     },
     {
       "id": "rss-96d03424c51ab23f59",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Pologne, auprès d’un exercice militaire inédit de la coalition des volontaires, dirigé par la France et le Royaume-Uni",
       "bullets": [
-        "Jusqu’au 22 novembre, près de 2 800 soldats issus de onze nations différentes participent en Pologne à un exercice sans précédent nommé « Koalicja ».",
-        "Cette force multinationale pour l’Ukraine pourrait se déployer le jour où la guerre cessera avec la Russie."
+        "Jusqu’au 22 novembre, près de 2 800 soldats issus de 11 nations différentes participent en Pologne à un exercice sans précédent nommé « Koalicja ».",
+        "Cette force multinationale pour l’Ukraine pourrait se déployer le jour où la guerre avec la Russie cessera."
       ],
-      "publishedAt": "2026-11-17T15:00:18+00:00",
-      "updatedAt": "2026-11-17T15:00:18+00:00",
+      "publishedAt": "2026-11-17T15:00:15+00:00",
+      "updatedAt": "2026-11-17T15:00:15+00:00",
       "importance": 79,
       "sources": [
         {
@@ -609,7 +581,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "b283662a91c04f7033745a496fd7f48a52e509f0df312f85d1f1eac33daf751a",
+      "summaryInput": "11a2b6612f15686c26b4fd8d4eb9a5ca4e44306c4089c96c863bd755faff9c57",
       "detailLevel": "preview"
     },
     {
@@ -713,6 +685,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-81f3d68f052aea90f3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’arrêt très attendu de la Cour internationale de justice sur la question du génocide des Rohingya",
+      "bullets": [
+        "La CIJ dira, jeudi 19 novembre, si la Birmanie a commis un génocide contre la minorité musulmane.",
+        "Alors que la décision devrait préciser les contours de la définition juridique du génocide, les tentatives américaines d’intimidation contre ses juges se multiplient."
+      ],
+      "publishedAt": "2026-11-17T17:15:07+00:00",
+      "updatedAt": "2026-11-17T17:15:07+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3b24d58fa291becfbcc7f88cd9a4da269705da83bbb435be23eae3ecd4e8fcb3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b088e69722874810cb",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
+      "bullets": [
+        "Le Mexique et la Bolivie ont subi le même sort, un an après que le Canada a déjà perdu ce statut en raison d’une épidémie persistante de rougeole."
+      ],
+      "publishedAt": "2026-11-17T16:59:00+00:00",
+      "updatedAt": "2026-11-17T16:59:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "723b347aa11e2cb90a99abd757ae8900b799caab1ee364731eca293ff6db9640",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5dc9a6bab2e9d295b1",
       "revision": 1,
       "category": "world",
@@ -793,80 +814,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7d30f3fe121b752419",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Opérations en Russie, liens avec Jeffrey Epstein et Donald Trump… Les pratiques de la Deutsche Bank révélées par une enquête internationale",
-      "bullets": [
-        "La banque allemande Deutsche Bank a été rattrapée mardi 17 octobre par son passé sulfureux après la publication d'une vaste enquête tirée de plus de 15 millions de documents internes ayant fuité.",
-        "Les médias soulignent également que le retrait annoncé de Russie après l'invasion de l'Ukraine n'est toujours pas achevé.",
-        "Deutsche Bank employait encore 162 personnes dans le pays en 2025 et sa filiale y a réalisé 61 millions d'euros de bénéfice avant impôts.\"Contorsion éthiques\"L'enquête s'intéresse aussi aux liens de longue date entre Deutsche Bank et Donald Trump."
-      ],
-      "publishedAt": "2026-11-17T12:52:19+00:00",
-      "updatedAt": "2026-11-17T12:52:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/allemagne/operations-en-russie-liens-avec-jeffrey-epstein-et-donald-trump-les-pratiques-de-la-deutsche-bank-revelees-par-une-enquete-internationale_8286254.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "816c0abb16035c8a5bf1dd37a4d63cdea2d489fe5245bc09f443fdaa53a98024",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6e549b50960b023a7d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Iran revendique une attaque contre une base américaine à Bahreïn",
-      "bullets": [
-        "Les combats connaissent une accalmie depuis septembre, mais vendredi, puis dimanche, l’Iran avait déjà revendiqué des attaques contre des systèmes de radars américains à Bahreïn."
-      ],
-      "publishedAt": "2026-11-17T10:53:55+00:00",
-      "updatedAt": "2026-11-17T10:53:55+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/l-iran-revendique-une-attaque-contre-une-base-americaine-a-bahrein_6812959_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "14ceb5dcaa45c50328fd0de97fb8fae8c6ef3a4d536f934b9129f4e59bdfd81e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f8d70eb49ba78f0acd",
+      "id": "rss-d961682d5f2993c7db",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Pétition pour interdire CNews : un débat élargi à tous les médias finalement organisé et déjà controversé",
+      "title": "La droite et le centre attaquent le projet de réforme des retraites de Marine Le Pen",
       "bullets": [
-        "L’Assemblée nationale a acté, mardi 17 novembre, qu’elle discutera en Hémicycle du pluralisme et de la liberté d’expression dans les médias, mais pas de la suppression de la chaîne du groupe Bolloré.",
-        "LFI dénonce « un scandale »."
+        "Un « catalogue de contradictions », selon Bruno Retailleau (LR), une réforme « mensongère, coûteuse et antisociale », selon Edouard Philippe (Horizons)… le projet de réforme des retraites présenté par Marine Le Pen, mardi, a immédiatement fait réagir à droite et au centre."
       ],
-      "publishedAt": "2026-11-17T14:20:00+00:00",
-      "updatedAt": "2026-11-17T14:20:00+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-17T16:58:49+00:00",
+      "updatedAt": "2026-11-17T16:58:49+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "9b6f037b7fc7306780777ea2fa6ae1872167fd3877eb344c7fa28c901cdfd87a",
+      "summaryInput": "2878cade8c8a4b19fcaede980f58e97918754f58b91318fe9d7687eea9ad9dd7",
       "detailLevel": "preview"
     },
     {
@@ -881,7 +849,7 @@
       ],
       "publishedAt": "2026-11-17T04:30:03+00:00",
       "updatedAt": "2026-11-17T04:30:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -930,7 +898,7 @@
       ],
       "publishedAt": "2026-11-17T04:42:21+00:00",
       "updatedAt": "2026-11-17T04:42:21+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -968,52 +936,80 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-86d516e3142189e053",
-      "revision": 2,
+      "id": "rss-0ef5de1eee28d9d4d7",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+      "title": "Un bâtiment administratif de Bastia visé dans la nuit par un \"attentat\" à l'explosif",
       "bullets": [
-        "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques »."
+        "En Haute-Corse, à Bastia, un bâtiment administratif a été visé dans la nuit de lundi à mardi par un \"attentat\" à l'explosif sans faire de blessé, annonce la préfecture de Haute-Corse mardi 17 novembre.",
+        "L'engin explosif a été placé devant la \"maison des affaires sociales\", la grille a été légèrement endommagée, décrit ICI RCFM.",
+        "Le parquet de Bastia, qui avait ouvert une enquête pour \"dégradation par moyen dangereux\", indique à franceinfo s'être dessaisi du dossier au profit du Parquet national antiterroriste (Pnat)."
       ],
-      "publishedAt": "2026-11-15T15:30:19+00:00",
-      "updatedAt": "2026-11-15T15:30:19+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-17T13:51:24+00:00",
+      "updatedAt": "2026-11-17T13:51:24+00:00",
+      "importance": 55,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/un-batiment-administratif-de-bastia-vise-dans-la-nuit-par-un-attentat-a-l-explosif_8286206.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0cb648bb2bab1f0401eadaf28751de71014ad7c22252ed3a78b8f53074ec8319",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "ab23a41d3661be26428c28f112a4818457e8265adc512786eebce0d78c90f3c5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T17:16:52.560077+00:00",
+      "context": null
     },
     {
-      "id": "rss-1336fbb3752e30a1f4",
+      "id": "rss-0b0d107953bcb31421",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
+      "title": "« Les Braves », de Lukas Dhont : deux soldats cherchent la lumière dans l’enfer des tranchées",
       "bullets": [
-        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
-        "Une plongée inédite dans les arcanes du pouvoir."
+        "Le cinéaste met en scène deux jeunes engagés de l’armée belge dont la relation amoureuse se heurte aux injonctions sociales et à l’horreur de la première guerre mondiale."
       ],
-      "publishedAt": "2026-11-16T17:00:08+00:00",
-      "updatedAt": "2026-11-16T17:00:08+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-17T17:00:09+00:00",
+      "updatedAt": "2026-11-17T17:00:09+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/17/les-braves-de-lukas-dhont-deux-soldats-cherchent-la-lumiere-dans-l-enfer-des-tranchees_6813012_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
+      "summaryInput": "d1eb12479ccb1dd05b64f8bdcfc3b10a5ad344585a38d8949bdc474fffcd7671",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f8d70eb49ba78f0acd",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Pétition pour interdire CNews : un débat élargi à tous les médias finalement organisé et déjà controversé",
+      "bullets": [
+        "L’Assemblée nationale a acté, mardi 17 novembre, qu’elle discutera en Hémicycle du pluralisme et de la liberté d’expression dans les médias, mais pas de la suppression de la chaîne du groupe Bolloré.",
+        "LFI dénonce « un scandale »."
+      ],
+      "publishedAt": "2026-11-17T14:20:00+00:00",
+      "updatedAt": "2026-11-17T14:20:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9b6f037b7fc7306780777ea2fa6ae1872167fd3877eb344c7fa28c901cdfd87a",
       "detailLevel": "preview"
     },
     {
@@ -1043,55 +1039,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T12:00:21.439578+00:00",
       "context": null
-    },
-    {
-      "id": "rss-391cc06b27a7d881c6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Grève du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
-      "bullets": [
-        "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires.",
-        "Dans le secteur privé, la CGT, l’UNSA et Solidaires, ainsi que certaines fédérations d’autres organisations, exhortent les salariés à passer à l’action."
-      ],
-      "publishedAt": "2026-11-17T04:41:16+00:00",
-      "updatedAt": "2026-11-17T04:41:16+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "21fd4d1441a7501b5ac5327c0d56132fe11c2c65f11024e3c05a5fac726b2c40",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7600e91e873c1e852b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Grève de la fonction publique du 17 novembre : environ 3 % de grévistes dans l’éducation nationale, 27 % des établissements du supérieur perturbés",
-      "bullets": [
-        "La vie scolaire est plus mobilisée, avec plus de 9 % de grévistes, tandis que le syndicat lycéen USL revendique 350 lycées « à l’arrêt » et dénonce une « forte répression » des blocages."
-      ],
-      "publishedAt": "2026-11-17T15:17:36+00:00",
-      "updatedAt": "2026-11-17T15:17:36+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/17/greve-de-la-fonction-publique-du-17-novembre-environ-3-de-grevistes-dans-l-education-nationale-27-des-etablissements-du-superieur-perturbes_6812991_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85398099c69e33480ce08d4f34498d1d15f93b79a5809a6a0b31a21d78731958",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ed5cb7c594b4a5726a",
@@ -1155,7 +1102,7 @@
       ],
       "publishedAt": "2026-11-17T05:00:21+00:00",
       "updatedAt": "2026-11-17T05:00:21+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1169,6 +1116,55 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
       "context": null
+    },
+    {
+      "id": "rss-cc1e2f5d9d7e0c743e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "« Sous l’impulsion d’Alain Bourgarel, les débuts de l’histoire de l’éducation prioritaire se sont écrits en France »",
+      "bullets": [
+        "Faire réussir tous les enfants dans les territoires où l’éducation nationale est défaillante, telle était la mission que s’était fixée Alain Bourgarel, mort le 4 novembre.",
+        "L’ancien directeur général de l’enseignement scolaire Jean-Paul Delahaye retrace son parcours et lui rend hommage dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-17T05:00:11+00:00",
+      "updatedAt": "2026-11-17T05:00:11+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/17/sous-l-impulsion-d-alain-bourgarel-les-debuts-de-l-histoire-de-l-education-prioritaire-se-sont-ecrits-en-france_6812902_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "95e3c76eb8dea47208231b427fa9aa2df2bd94131b685ffa47d79a593098bc0b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0f53635a5b50c3daf3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Fonction publique : malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question salariale",
+      "bullets": [
+        "En dépit du geste de l’exécutif en faveur des agents publics les moins bien payés, le tassement des grilles salariales persiste dans la fonction publique. Le gouvernement a promis d’engager des discussions en vue d’une « réforme structurelle ». Un chantier maintes fois évoqué mais qui n’a jamais encore abouti."
+      ],
+      "publishedAt": "2026-11-17T17:02:22+00:00",
+      "updatedAt": "2026-11-17T17:02:22+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/fonction-publique-malgre-les-annonces-du-gouvernement-les-fonctionnaires-attendent-des-reponses-structurelles-sur-la-question-salariale_6813014_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "53c8ba77c47632dacc725f55ab51187ecc50fc359206a857de1a0cf2d5bae665",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b648dd62706abe4e6c",
@@ -1196,56 +1192,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0698d9ab42b9b20b5f",
+      "id": "rss-1336fbb3752e30a1f4",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
+      "topic": "Culture",
+      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
       "bullets": [
-        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
-        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
-        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
+        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
+        "Une plongée inédite dans les arcanes du pouvoir."
       ],
-      "publishedAt": "2026-11-17T08:45:36+00:00",
-      "updatedAt": "2026-11-17T08:45:36+00:00",
+      "publishedAt": "2026-11-16T17:00:08+00:00",
+      "updatedAt": "2026-11-16T17:00:08+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-626321d5d6449862cf",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Immigration : dans les aéroports français, la chasse à la fraude aux passeports se durcit",
-      "bullets": [
-        "DÉCRYPTAGE - Les compagnies aériennes sont tenues de vérifier les documents de leurs passagers à l’embarquement.",
-        "Et les sanctions tombent en cas de relâchement, au rythme d’une trentaine d’amendes dressées chaque semaine."
-      ],
-      "publishedAt": "2026-11-16T16:00:00+00:00",
-      "updatedAt": "2026-11-16T16:00:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/immigration-dans-les-aeroports-francais-la-chasse-a-la-fraude-aux-passeports-se-durcit-20261116",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
+      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
       "detailLevel": "preview"
     }
   ],
@@ -1260,7 +1228,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1272,7 +1240,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1284,7 +1252,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1308,7 +1276,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1326,7 +1294,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
@@ -1362,7 +1330,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
