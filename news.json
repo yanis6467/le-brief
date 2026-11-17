@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T09:16:35.082991+00:00",
+  "preparedAt": "2026-11-17T10:25:48.782928+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -56,34 +56,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5a7db840120a48213e0ed2d0836f48902342626d6497b77c7a12e7bd3d11940b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6ee5edf38146e98d6c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Retraites : existe-t-il des trimestres validés sans travailler ?",
-      "bullets": [
-        "Un coût de 26 milliards d'euros par anMais alors, sait-on combien coûtent ces trimestres assimilés pour le régime des retraites ?",
-        "On parle de trimestres gratuits, mais ils ont évidemment un coût : environ 26 milliards d'euros par an.",
-        "Dans cette enveloppe de 26 milliards, le plus gros poste de dépenses concerne les personnes au chômage."
-      ],
-      "publishedAt": "2026-11-16T21:00:31+00:00",
-      "updatedAt": "2026-11-16T21:00:31+00:00",
-      "importance": 92,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/vrai-ou-fake/retraites-existe-t-il-des-trimestres-valides-sans-travailler_8285468.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "3f341d33c2e7978ceca6998c196b8e7757b6823625dcc68bbba5810179edf7f5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
-      "context": null
     },
     {
       "id": "rss-198d56c1b6316184e1",
@@ -142,31 +114,6 @@
       "context": null
     },
     {
-      "id": "rss-391cc06b27a7d881c6",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
-      "bullets": [
-        "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires.",
-        "Dans le secteur privé, la CGT, l’UNSA et Solidaires, ainsi que certaines fédérations d’autres organisations, exhortent les salariés à passer à l’action."
-      ],
-      "publishedAt": "2026-11-17T04:41:16+00:00",
-      "updatedAt": "2026-11-17T04:41:16+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "21fd4d1441a7501b5ac5327c0d56132fe11c2c65f11024e3c05a5fac726b2c40",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-786c7a527b9f1d8eba",
       "revision": 2,
       "category": "eco",
@@ -188,6 +135,30 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "f36485cf249433456db40a71bf864e54a681eea9937a05538dfb153080822195",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f9a632609d9a881401",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Prix des carburants : une baisse dans plus de 90 % des stations-service, selon Mathieu Lefèvre, ministre délégué à la transition écologique",
+      "bullets": [
+        "Le gouvernement a commencé le 1ᵉʳ novembre à vendre à prix coûtant des barils de gazole issus des stocks stratégiques, une opération qui s’étalera pendant trois mois."
+      ],
+      "publishedAt": "2026-11-17T09:58:12+00:00",
+      "updatedAt": "2026-11-17T09:58:12+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/17/carburant-une-baisse-du-prix-dans-plus-de-90-des-stations-service-selon-mathieu-lefevre_6812943_1656968.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c75b491ae6d41ac425650b0d714f8048f014e0be9c288b539962060c169518d6",
       "detailLevel": "preview"
     },
     {
@@ -271,30 +242,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-286d61dd4ffa197a8d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
-      "bullets": [
-        "Les cinq candidats à l’élection ont débattu pendant près de trois heures sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent, notamment, de ne pas financer leurs propositions."
-      ],
-      "publishedAt": "2026-11-16T22:21:54+00:00",
-      "updatedAt": "2026-11-16T22:21:54+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "81a0073a1faa3c714455fbbc6e84e4719639f0a2a09e6e34ffd1b60b298765ba",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-becf959f4035b53280",
       "revision": 1,
       "category": "eco",
@@ -307,7 +254,7 @@
       ],
       "publishedAt": "2026-11-16T21:46:35+00:00",
       "updatedAt": "2026-11-16T21:46:35+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -323,6 +270,58 @@
       "context": null
     },
     {
+      "id": "rss-b5d1ad40f9fc04830e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Deutsche Bank chute en Bourse de près de 6% après une enquête sur une fuite de documents internes",
+      "bullets": [
+        "L'action Deutsche Bank chutait mardi 17 novembre matin à la Bourse de Francfort, perdant jusqu'à près de 6% peu après l'ouverture, après la publication d'une vaste enquête de presse internationale fondée sur plus de 15 millions de documents internes ayant fuité.",
+        "L'enquête met en cause les contrôles de la première banque allemande et revient sur ses liens avec des oligarques russes, Jeffrey Epstein et Donald Trump.",
+        "Deutsche Bank affirme que les faits évoqués remontent parfois à près de vingt ans et assure être aujourd'hui «une banque différente»."
+      ],
+      "publishedAt": "2026-11-17T09:26:26+00:00",
+      "updatedAt": "2026-11-17T09:26:26+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/deutsche-bank-chute-en-bourse-de-pres-de-6-apres-une-enquete-sur-une-fuite-de-documents-internes-20261117",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "53461c6f7b46d13cb514128d8e361db2c049bdcfba2dd43c064402ac5ca31a89",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-ae85b2163af17ce6bd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Cette technologie relève de la souveraineté » : Thales met au point le futur réseau internet quantique européen par satellite",
+      "bullets": [
+        "DÉCRYPTAGE - Sa filiale, Thales Alenia Space, prévoit de réaliser une démonstration en orbite, s’appuyant sur cette technologie, entre le satellite Qinsat et la Terre en 2030."
+      ],
+      "publishedAt": "2026-11-17T08:11:04+00:00",
+      "updatedAt": "2026-11-17T08:11:04+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/cette-technologie-releve-de-la-souverainete-thales-met-au-point-le-futur-reseau-internet-quantique-europeen-par-satellite-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2e4d3c7fc74ed0dd34a1895d687e80124732a83809fd004f6fa105764fe959a0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -333,8 +332,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T09:15:06+00:00",
-      "updatedAt": "2026-11-17T09:15:06+00:00",
+      "publishedAt": "2026-11-17T10:25:37+00:00",
+      "updatedAt": "2026-11-17T10:25:37+00:00",
       "importance": 69,
       "sources": [
         {
@@ -427,7 +426,35 @@
       "provenance": "article-extract",
       "summaryInput": "c3903f1b4855287d979e5b5d48a39f67122ffda2676b9359672fe73f9ea525f1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-559fb023452ff912a8",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Deutsche Bank : Elle voulait gagner toujours plus d'argent avec les riches Russes... La très embarrassante enquête qui fait chuter Deutsche Bank en Bourse",
+      "bullets": [
+        "L'action Deutsche Bank chute mardi matin à la Bourse de Francfort, et perd 5,6% après la publication d'une vaste enquête de presse internationale fondée sur plus de 15 millions de documents internes ayant fuité.",
+        "Les données proviennent de deux lanceurs d'alerte, dont l'identité reste cachée, et ont été transmises, via des journalistes sud-africains et indiens, à plus de 50 médias dans le monde.",
+        "Deutsche Bank employait encore 162 personnes dans le pays l'an dernier et sa filiale y a réalisé 61 millions d'euros de bénéfice avant impôts."
+      ],
+      "publishedAt": "2026-11-17T09:28:41+00:00",
+      "updatedAt": "2026-11-17T09:28:41+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/deutsche-bank-DE0005140008/actualites/deutsche-bank-elle-voulait-gagner-toujours-plus-d-argent-avec-les-riches-russes-la-tres-embarrassante-enquete-qui-fait-chuter-deutsche-bank-en-bourse-1173905.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
       "context": null
     },
     {
@@ -455,34 +482,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c218c8228e43d22a5d",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Le pont de Crimée ciblé pour la deuxième nuit consécutive par l'Ukraine, des frappes russes sur deux ponts de Kiev",
-      "bullets": [
-        "L'ouvrage reliant le continent à la péninsule annexée a été ciblé pour la deuxième fois consécutive, a annoncé le gouverneur régional installé par Moscou, Sergueï Aksionov, mardi 17 novembre.",
-        "La circulation a été suspendue après la frappe.",
-        "Aucune victime n'est à déplorer, selon un premier bilan du ministère des Transports.\"Les 16 et 17 novembre, les forces armées ukrainiennes ont attaqué le pont de Crimée à l'aide de drones, ce qui a causé des dommages à la structure\", écrit le Comité d'enquête fédéral."
-      ],
-      "publishedAt": "2026-11-17T08:50:16+00:00",
-      "updatedAt": "2026-11-17T08:50:16+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "27539a6a0cae0e3a958e07436b629ce14e72b5a8978753db88d46e722e6da1ef",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
-      "context": null
-    },
-    {
       "id": "rss-23c197df89af70747a",
       "revision": 1,
       "category": "world",
@@ -505,6 +504,31 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "500964e396d64cfad4abdc5f3722558ebbc4047e67ed2ae207e80054db09fed9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cb5a247ab3faf85a76",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
+      "bullets": [
+        "En 2026, la croissance de l’UE a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure.",
+        "Quant à l’inflation, elle va continuer à grever le pouvoir d’achat dans toute l’UE en 2027."
+      ],
+      "publishedAt": "2026-11-17T10:00:04+00:00",
+      "updatedAt": "2026-11-17T10:00:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5f32df59f41528912d25d279bf5451c371e2eb7de327fc9b41b9b566e9be6a2f",
       "detailLevel": "preview"
     },
     {
@@ -636,6 +660,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c218c8228e43d22a5d",
+      "revision": 3,
+      "category": "world",
+      "topic": "International",
+      "title": "Volodymyr Zelensky salue une \"opération sans précédent\" après l'attaque ukrainienne contre le pont de Crimée",
+      "bullets": [
+        "La circulation a été suspendue après la frappe.",
+        "Aucune victime n'est à déplorer, selon un premier bilan du ministère des Transports.\"Les 16 et 17 novembre, les forces armées ukrainiennes ont attaqué le pont de Crimée à l'aide de drones, ce qui a causé des dommages à la structure\", écrit le Comité d'enquête fédéral.",
+        "Un millier de drones abattus par la RussieLe président ukrainien, Volodymyr Zelensky, a salué l'ensemble des unités armées impliquées dans cette attaque menée contre le pont de Crimée, dans un message publié sur les réseaux sociaux."
+      ],
+      "publishedAt": "2026-11-17T10:14:05+00:00",
+      "updatedAt": "2026-11-17T10:14:05+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "5dd561b613c7e9879b8021bc3fd5e87c38cb95a73968050b07214183cc0481e7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "context": null
+    },
+    {
       "id": "rss-34f03b10437f08b1bc",
       "revision": 1,
       "category": "world",
@@ -689,105 +741,84 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-06e2c91dab485f4690",
-      "revision": 2,
+      "id": "rss-3996bd1640b8915770",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
+      "title": "Au Yémen, les forces gouvernementales abandonnent le détroit de Bab Al-Mandab pour protéger la ville d’Aden",
       "bullets": [
-        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l'air dans 40 villes européennes.",
-        "La réduction de la place de la voiture en ville jugée efficaceCependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies.",
-        "Lyon progresse aussi de ce point de vue là."
+        "Le retrait du camp anti-houthistes des dernières zones qu’elles contrôlaient aux abords du détroit, afin de se replier vers Aden, offre aux rebelles yéménites l’occasion de consolider leur emprise sur ce passage clé du commerce maritime mondial."
       ],
-      "publishedAt": "2026-11-17T05:00:21+00:00",
-      "updatedAt": "2026-11-17T05:00:21+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-17T09:00:04+00:00",
+      "updatedAt": "2026-11-17T09:00:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/au-yemen-les-forces-gouvernementales-abandonnent-le-detroit-de-bab-al-mandab-pour-proteger-aden_6812930_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d6cd8b6b95799ebb2ba3cecc5e7faa14f060e1c99a5030ef1b9976ae8dfaf4a6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-25ee642f32dcd15856",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "INFO FRANCEINFO. La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
+      "bullets": [
+        "Le 10 novembre, la commission des affaires culturelles et de l'éducation de l'Assemblée nationale avait décidé, par 28 voix contre 25, de classer la pétition appelant à \"supprimer CNews de l'audiovisuel français\".",
+        "La seule voie restante permettant l'organisation d'un débat dans l'hémicycle sur ce texte était un vote de la Conférence des présidents de l'Assemblée nationale, que le groupe socialiste s'était engagé à demander.",
+        "\"Réclamer la disparition d'une chaîne pose une question essentielle pour le pluralisme et la liberté d'informer\", avait-elle ajouté."
+      ],
+      "publishedAt": "2026-11-17T10:22:43+00:00",
+      "updatedAt": "2026-11-17T10:22:43+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
+          "url": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "b5cdb6646e2bbcd5968daef8f8de2fb8b96c752c45eef959ffe0bb211ca7f973",
+      "summaryInput": "5cd9b656ed729e83d31c342f2294f10e6d10ed06262febd5afbc9366d03f12e5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
       "context": null
     },
     {
-      "id": "rss-6b5b09f253b45ef801",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Jordanie et l’Irak interdisent Telegram, accusé de contribuer à « l’extrémisme »",
-      "bullets": [
-        "La Jordanie, endeuillée par l’attaque d’une église fin octobre, souhaite contrer « toute tentative de propagation de la radicalisation et de l’extrémisme » et appelle ses citoyens à la vigilance sur les réseaux sociaux."
-      ],
-      "publishedAt": "2026-11-16T19:31:18+00:00",
-      "updatedAt": "2026-11-16T19:31:18+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-et-l-irak-interdisent-telegram-accuse-de-contribuer-a-l-extremisme_6811768_4408997.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1f3c1a9f8127d2be1fa2ca23022e4eaa88c3d7b2a6618ffa4260ef409d012dbb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-293883f9ff98d558f1",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Infractions routières : les recettes des amendes augmentent après des années de stagnation",
-      "bullets": [
-        "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
-        "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars."
-      ],
-      "publishedAt": "2026-11-17T04:30:03+00:00",
-      "updatedAt": "2026-11-17T04:30:03+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4ef27de5a8eddfd93f95d30b92ba2ab5594470264b58bc1eb3c70a3a25c0a132",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-336145c556f89af510",
+      "id": "rss-0698d9ab42b9b20b5f",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
       "bullets": [
-        "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace »."
+        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
+        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
+        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
       ],
-      "publishedAt": "2026-11-16T22:05:22+00:00",
-      "updatedAt": "2026-11-16T22:05:22+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-17T08:45:36+00:00",
+      "updatedAt": "2026-11-17T08:45:36+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "522af8c256e2a5049a0fdfdb7edcab8f5dbc6e44dff79de0c6d197c931e099ec",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "context": null
     },
     {
       "id": "rss-e28d11108bf2536039",
@@ -815,10 +846,10 @@
     },
     {
       "id": "rss-36ea20e25d51e6ccb9",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Santé",
-      "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins, demandent leur interdiction",
+      "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins demandent leur interdiction",
       "bullets": [
         "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale.",
         "Ils mettent en évidence de nombreux troubles gynécologiques."
@@ -835,7 +866,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "9f01945a6c90c1d84496d182b1031a70043b7934c1a44d3fe622c1271282fb2d",
+      "summaryInput": "488a748536e0f2d4da72597103b527c5147fed15ec342325918faeeb67ae38fb",
       "detailLevel": "preview"
     },
     {
@@ -913,34 +944,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-44a07f4fc839646754",
-      "revision": 1,
-      "category": "france",
-      "topic": "Environnement",
-      "title": "REPORTAGE. \"On a beaucoup manqué d'eau\" : frappés par la sécheresse, les producteurs de pommes espèrent maintenir leurs prix malgré des fruits plus petits",
-      "bullets": [
-        "\"On a eu énormément de petits calibres, jusqu'à 90% de pommes faisaient moins de 135 grammes\", déplore Thierry Moisy.\"On aura forcément des petites pommes toute l'année parce que c'est ce qu'on a récolté le plus.\"Thierry Moisyà franceinfoL'autre conséquence de la sécheresse, c'est un rendement très faible.",
-        "La récolte française est en baisse de 30% : \"On est à un tout petit peu plus d'un million de tonnes.",
-        "\"Les pommes partent plus ou moins à 2 euros le sac, soit plus ou moins 1 euro le kilo, c'est insuffisant\", alerte le producteur."
-      ],
-      "publishedAt": "2026-11-14T12:21:34+00:00",
-      "updatedAt": "2026-11-14T12:21:34+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
-      "context": null
-    },
-    {
       "id": "rss-34f5f5b3a59f845579",
       "revision": 3,
       "category": "france",
@@ -962,6 +965,31 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-293883f9ff98d558f1",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Infractions routières : les recettes des amendes augmentent après des années de stagnation",
+      "bullets": [
+        "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
+        "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars."
+      ],
+      "publishedAt": "2026-11-17T04:30:03+00:00",
+      "updatedAt": "2026-11-17T04:30:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4ef27de5a8eddfd93f95d30b92ba2ab5594470264b58bc1eb3c70a3a25c0a132",
       "detailLevel": "preview"
     },
     {
@@ -990,29 +1018,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8f05c310740c0113b3",
-      "revision": 1,
+      "id": "rss-06e2c91dab485f4690",
+      "revision": 2,
       "category": "france",
-      "topic": "Société",
-      "title": "Mobilisation du 17 novembre : « Si le gouvernement mise sur une baisse de la contestation, il se met le doigt dans l’œil », estime Sophie Binet",
+      "topic": "Santé",
+      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
       "bullets": [
-        "La secrétaire générale de la CGT juge que la contestation reste vive et prévoit une nouvelle « forte journée de mobilisation ».",
-        "A Lyon, la justice a autorisé une manifestation dans l’hypercentre, pour la première fois depuis celle du 17 octobre, qui avait été marquée par des violences et des…"
+        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l'air dans 40 villes européennes.",
+        "La réduction de la place de la voiture en ville jugée efficaceCependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies.",
+        "Lyon progresse aussi de ce point de vue là."
       ],
-      "publishedAt": "2026-11-16T23:54:47+00:00",
-      "updatedAt": "2026-11-16T23:54:47+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-17T05:00:21+00:00",
+      "updatedAt": "2026-11-17T05:00:21+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/17/mobilisation-du-17-novembre-si-le-gouvernement-mise-sur-une-baisse-de-la-contestation-il-se-met-le-doigt-dans-l-il-estime-sophie-binet_6812722_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c9bf17fddff979ac343f2696bab798b58137a8924a1b41de5aa12cf9fc0e6819",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b5cdb6646e2bbcd5968daef8f8de2fb8b96c752c45eef959ffe0bb211ca7f973",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "context": null
     },
     {
       "id": "rss-cc1e2f5d9d7e0c743e",
@@ -1037,31 +1068,6 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "9ff1313cf41f421ed6377c23a5492447bee6c7d0a1e338c60b4a99042b11735b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cbd769ff6a63e10177",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Grève du 17 novembre : les ressorts d’une révolte sociale qui s’est ancrée au fil des semaines",
-      "bullets": [
-        "Une nouvelle journée d’action nationale est prévue mardi à Lyon, Toulouse, Lille ou Rennes.",
-        "Parti des lycéens mi-septembre, relayé par les étudiants, les parents puis les syndicats, le mouvement gagne les associations."
-      ],
-      "publishedAt": "2026-11-17T04:30:21+00:00",
-      "updatedAt": "2026-11-17T04:30:21+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/17/a-lyon-toulouse-lille-ou-rennes-les-ressorts-d-une-revolte-sociale-qui-s-est-ancree-au-fil-des-semaines_6812893_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b2a67f93bc928531e965e02cf1930c58e799ebfd620e0c9a4fa95abb8593632a",
       "detailLevel": "preview"
     },
     {
@@ -1090,34 +1096,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0698d9ab42b9b20b5f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
-      "bullets": [
-        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
-        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
-        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
-      ],
-      "publishedAt": "2026-11-17T08:45:36+00:00",
-      "updatedAt": "2026-11-17T08:45:36+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
-      "context": null
-    },
-    {
       "id": "rss-b648dd62706abe4e6c",
       "revision": 1,
       "category": "france",
@@ -1141,6 +1119,59 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-76ad0eab6b19889592",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+      "bullets": [
+        "Ne pourront partir à 60 ans que ceux qui ont commencé à travailler avant 20 ans et validé 40 annuités.",
+        "Les proches de Marine Le Pen promettent une réforme \"juste\", qui permet que \"tout le monde y trouve son compte\".",
+        "Son coût : une quinzaine de milliards d'euros \"compensés par une augmentation globale du volume de travail\", explique un député du RN."
+      ],
+      "publishedAt": "2026-11-17T05:35:04+00:00",
+      "updatedAt": "2026-11-17T05:35:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "f0aad1b2757e25f3dbc34ee3d373488527d84e4667c8d87bdaa906b7ef3136d6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T10:25:48.782928+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6040cc7002bcb63fc9",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
+      "bullets": [
+        "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran.",
+        "Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche."
+      ],
+      "publishedAt": "2026-11-17T03:30:03+00:00",
+      "updatedAt": "2026-11-17T03:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7b670e86102f21c253b119ccd12aae875ec1ad8b11350aa88aa51d03cdf37626",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1154,7 +1185,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1166,7 +1197,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1220,7 +1251,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1232,7 +1263,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1256,7 +1287,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
