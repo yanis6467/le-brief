@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T05:11:40.834992+00:00",
+  "preparedAt": "2026-11-17T06:13:11.976859+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,6 +35,86 @@
       "context": null
     },
     {
+      "id": "rss-b6d68fe559aaa8115c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
+      "bullets": [
+        "Le Sénat a rejeté à l'unanimité lundi 16 novembre la désindexation de deux tiers des pensions de retraite sur l'inflation, mesure phare d'économie proposée par le gouvernement dans son projet de budget de la Sécurité sociale.",
+        "Les sénateurs ont choisi d'adopter des amendements supprimant entièrement l'article du projet de budget de la Sécurité sociale prévoyant la désindexation, susceptible de rapporter environ 4 milliards d'euros.",
+        "Suspendue l'an dernier dans le cadre d'un accord avec les socialistes, cette réforme devant relever l'âge légal de départ à 64 ans a toujours été défendue par le Sénat."
+      ],
+      "publishedAt": "2026-11-17T06:04:35+00:00",
+      "updatedAt": "2026-11-17T06:04:35+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "7bc0e4c7fed1484ce3c2317cd8e959f20ab7db4df08a1c7ecc821dc7a8e975a7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-03ed5d20dd96435243",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
+      "bullets": [
+        "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
+      ],
+      "publishedAt": "2026-11-17T05:58:05+00:00",
+      "updatedAt": "2026-11-17T05:58:05+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "96e7eda9a60b54eec9baba520d1b2bf645acc3700cc7e327ef75f5ec700b01c6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-198d56c1b6316184e1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Chine et le Canada s’accordent sur de nouvelles réductions des droits de douane",
+      "bullets": [
+        "Chine et Canada se sont entendus mardi sur de nouvelles réductions des droits de douane réciproques, a annoncé le gouvernement canadien après une rencontre entre le premier ministre Mark Carney et le président Xi Jinping.",
+        "Les allègements consentis par la Chine portent sur environ 400 millions de dollars canadiens d’exportations de poisson, de fruits de mer et de porc congelé, a indiqué le gouvernement canadien dans un communiqué à l’occasion d’un sommet régional Asie-Pacifique à Shenzhen (Chine).",
+        "Le Canada étend ces exonérations à 32 catégories supplémentaires de produits en acier et en aluminium."
+      ],
+      "publishedAt": "2026-11-17T04:34:44+00:00",
+      "updatedAt": "2026-11-17T04:34:44+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-chine-et-le-canada-s-accordent-sur-de-nouvelles-reductions-des-droits-de-douane-20261117",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "2d0db9d70f7ada7a88e296d1607498617e35dd90aa13604dce6814173fff5656",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
+    },
+    {
       "id": "rss-49d55510f00bdbe61a",
       "revision": 2,
       "category": "eco",
@@ -59,35 +139,35 @@
       "provenance": "article-extract",
       "summaryInput": "3590df6826dc4821a1769e6156918a6ffb4ad0de878eb9be07d0f696133b0b0c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
       "context": null
     },
     {
-      "id": "rss-70c771a77ab0c8354b",
+      "id": "rss-618d16d250f103de32",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Passoires thermiques : vers un retour à la location sous conditions",
+      "title": "«Un danger pour le grand public» : la Californie attaque OpenAI en justice pour défaut de sécurisation de son IA",
       "bullets": [
-        "Franck Journo est propriétaire d’un appartement de 34 m² à Asnières-sur-Seine (Hauts-de-Seine).",
-        "Les propriétaires devront les réaliser dans un délai bien précis : 3 ans pour les logements individuels, 5 ans pour les copropriétés.",
-        "Le propriétaire doit lui faire une ristourne par exemple de 30 %\", suggère Manuel Domergue, directeur des études, fondation pour le logement des défavorisés."
+        "Le procureur de Californie Rob Bonta a assigné lundi en justice OpenAI pour défaut de sécurisation de ses modèles d'intelligence artificielle (IA), qui a occasionné l'intrusion d'agents IA sur la plateforme Hugging Face en juillet.",
+        "Fin septembre, l’ONG Legal Advocates for Safe Science & Technology (LASST) avait déjà saisi la justice civile concernant le dossier Hugging Face.",
+        "Bien que n’étant pas directement concerné par les faits, LASST avait indiqué avoir intérêt à agir dans la mesure où elle avait consacré des ressources pour mettre en garde contre la conduite d’OpenAI."
       ],
-      "publishedAt": "2026-11-16T09:54:41+00:00",
-      "updatedAt": "2026-11-16T09:54:41+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-17T02:30:57+00:00",
+      "updatedAt": "2026-11-17T02:30:57+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/passoires-thermiques-vers-un-retour-a-la-location-sous-conditions_8284520.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/un-danger-pour-le-grand-public-la-californie-attaque-openai-en-justice-pour-defaut-de-securisation-de-son-ia-20261117",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "0528330cdd34a6c095a9621ea52e064086192136c5be6b70880815fe7a073574",
+      "summaryInput": "e049a1a31812b0d460dea3b62c1374d4554e996bc839e2ec4dc5c0f551eda36c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T23:53:39.369551+00:00",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
       "context": null
     },
     {
@@ -140,122 +220,94 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-286d61dd4ffa197a8d",
+      "id": "rss-f95b25455e72ee9005",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+      "title": "Panama : le président veut rouvrir une gigantesque mine de cuivre fermée en 2023",
       "bullets": [
-        "Les cinq candidats à l’élection ont débattu pendant près de trois heures sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent, notamment, de ne pas financer leurs propositions."
+        "Le président du Panama, José Raúl Mulino, a annoncé lundi l’ouverture de discussions avec une filiale de l’entreprise canadienne First Quantum Minerals pour rouvrir la plus grande mine de cuivre à ciel ouvert d’Amérique centrale, fermée en 2023 après une forte contestation sociale.",
+        "Le gisement, situé sur la côte de la mer des Caraïbes, représentait naguère 75% des exportations et 5% du PIB du Panama.",
+        "En cause : le renouvellement alors annoncé pour 40 ans du contrat d’exploitation de la mine."
       ],
-      "publishedAt": "2026-11-16T22:21:54+00:00",
-      "updatedAt": "2026-11-16T22:21:54+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-17T01:07:27+00:00",
+      "updatedAt": "2026-11-17T01:07:27+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/panama-le-president-veut-rouvrir-une-gigantesque-mine-de-cuivre-fermee-en-2023-20261117",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "2213884469c2bc89881317ec9490c62913f6be51ead150aa865705d00e6b018e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b44617cc20476dd980",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
+      "bullets": [
+        "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux.",
+        "Avec ses « clients les plus sensibles », il a perduré malgré un désengagement à partir de 2014."
+      ],
+      "publishedAt": "2026-11-17T06:00:19+00:00",
+      "updatedAt": "2026-11-17T06:00:19+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "81a0073a1faa3c714455fbbc6e84e4719639f0a2a09e6e34ffd1b60b298765ba",
+      "summaryInput": "2ae63b54243f02120fb6bcd9099b53c5e20edd7af5a522145fa788926fb93598",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-becf959f4035b53280",
+      "id": "rss-a635e8530766a356db",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+      "title": "Présidentielle 2027 : impôts, logement, associations… Ce qu’il faut retenir du grand débat entre cinq candidats sur la vie chère",
       "bullets": [
-        "A la veille d'une journée de mobilisation sociale, l'Assemblée nationale a adopté, lundi 16 novembre, une proposition de loi soutenue par le gouvernement pour faciliter le déblocage de l'épargne salariale.",
-        "Déjà adopté au Sénat, le texte a été voté par 95 voix contre 34, dans une version un peu différente.",
-        "La proposition de loi prévoit un nouveau cas temporaire de déblocage anticipé de l'épargne salariale, dans la limite de 10 000 euros après l'adoption d'un amendement de la députée Liot Valérie Létard."
+        "Pendant près de trois heures, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal, Bruno Retailleau et Marine Le Pen ont croisé le fer sur LCI et TF1 sur les enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté."
       ],
-      "publishedAt": "2026-11-16T21:46:35+00:00",
-      "updatedAt": "2026-11-16T21:46:35+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "8e360513ae6ef2dd8e27d1c1f40c71362d3da69acd4ce5f36606d8e283cc60f1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d1c85455b49a648001",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Logement : faut-il assouplir l'interdiction de louer les passoires thermiques ?",
-      "bullets": [
-        "Cédric Valette Viallard est propriétaire d'un appartement où il vient d'installer du double vitrage pour 3 500 euros.",
-        "Ses 18 mètres carrés restent considérés comme une passoire thermique, mais il ne compte pas effectuer plus de travaux.",
-        "Au total, 700 000 logements seraient concernés en France, car considérés comme des passoires thermiques."
-      ],
-      "publishedAt": "2026-11-16T20:23:42+00:00",
-      "updatedAt": "2026-11-16T20:23:42+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/logement-faut-il-assouplir-l-interdiction-de-louer-les-passoires-thermiques_8285441.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "59c205d17e1f825c648c79fb111b528719ce14602b928c9dbaa3f6581cc73996",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:00:08.805701+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0666876e710861cf93",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Grève du 17 novembre : transports, manifestations… À quoi faut-il s’attendre pour cette nouvelle journée de mobilisation ?",
-      "bullets": [
-        "Une intersyndicale de la fonction publique, rejointe par plusieurs centrales syndicales, telles que la CGT et la CFDT, appelle à la grève et à la manifestation ce mardi 17 novembre, réclamant des hausses de salaires.",
-        "Les dernières annonces du gouvernement n’ont pas convaincu les syndicats."
-      ],
-      "publishedAt": "2026-11-16T18:38:37+00:00",
-      "updatedAt": "2026-11-16T18:38:37+00:00",
+      "publishedAt": "2026-11-17T05:51:00+00:00",
+      "updatedAt": "2026-11-17T05:51:00+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "f76ac368c0af826349ccf46eddcc697755804526420549bf114e441069e6fe3e",
+      "summaryInput": "9030f98529f588dd7f0511a0236cd001512e19c4db6a47468d3fe63fc099c128",
       "detailLevel": "preview"
     },
     {
       "id": "rss-a05567baccc3126c45",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Jean-Luc Mélenchon dîne mardi avec Bernard Arnault et Patrick Pouyanné",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon dîne ce mardi avec Bernard Arnault et Patrick Pouyanné",
       "bullets": [
         "INFO LE FIGARO - Quelques mois après avoir reçu Marine Le Pen chez Drouant, les patrons du Club Entreprise & Cité rencontrent le candidat insoumis à la présidentielle."
       ],
-      "publishedAt": "2026-11-16T16:20:38+00:00",
-      "updatedAt": "2026-11-16T16:20:38+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-17T05:50:56+00:00",
+      "updatedAt": "2026-11-17T05:50:56+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -265,64 +317,8 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "a857dd1f3fdf61fef6eeb61b928e5926250a621a0fc15f52e74d70871cc8f81b",
+      "summaryInput": "292c5fb6cb58d2eaaa7fdc8fdb01a2ffed7d3327253e355c4bee52ec941793c7",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3b52a3bc2a75197fd5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Des promesses qui ne pourront pas être tenues\", déplore le président UDI du Loiret qui décline l'invitation à Matignon concernant le budget 2027",
-      "bullets": [
-        "Marc Gaudet, le président UDI du département du Loiret a décliné l'invitation du Premier ministre à participer à une réunion des présidents de départements et de collectivités territoriales à compétences départementales en métropole et en Outre-mer dans l'après-midi du lundi 16 novembre à Matignon.",
-        "Le projet de loi de finances pour l'année 2027 prévoit une économie budgétaire d'1,8 milliards d'euros pour les départements.",
-        "Pour le département du Loiret et selon son président, l'impact sera \"d'une dizaine de millions d'euros, peut-être 13\"."
-      ],
-      "publishedAt": "2026-11-16T16:13:32+00:00",
-      "updatedAt": "2026-11-16T16:13:32+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/des-promesses-qui-ne-pourront-pas-etre-tenues-deplore-le-president-udi-du-loiret-qui-decline-l-invitation-a-matignon-concernant-le-budget-2027_8285018.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "7bc9ef5857f2a82de7eafc330df6a80ca6f230a954d833e7373ce52a11598229",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f581a122a0d71bb762",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
-      "bullets": [
-        "Le projet de loi sur le logement, examiné lundi 16 novembre à l'Assemblée nationale, \"va uniquement dans le sens des bailleurs\", regrette lundi 16 novembre sur franceinfo Manuel Domergue, directeur des études de la Fondation pour le logement des défavorisés.",
-        "Le texte doit permettre la remise sur le marché locatif des passoires énergétiques, ces logements classés G ou F sur le diagnostic de performance énergétique, initialement interdits à la location dès 2028.",
-        "Dans cette situation, Manuel Domergue demande que le locataire \"bénéficie en contrepartie d'une baisse de loyer\"."
-      ],
-      "publishedAt": "2026-11-16T11:29:37+00:00",
-      "updatedAt": "2026-11-16T11:29:37+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "737a6ca2be834f072c68bc3273b23625ac5a53813c4e25eecae8fbf50190825b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
-      "context": null
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -335,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T05:10:27+00:00",
-      "updatedAt": "2026-11-17T05:10:27+00:00",
+      "publishedAt": "2026-11-17T06:10:25+00:00",
+      "updatedAt": "2026-11-17T06:10:25+00:00",
       "importance": 69,
       "sources": [
         {
@@ -349,7 +345,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
       "context": null
     },
     {
@@ -377,7 +373,7 @@
       "provenance": "article-extract",
       "summaryInput": "ec3e66f7db8c47e14884b17b634215f415f12f0c49b0a1e5eceae95c8d99867c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T17:25:36.879715+00:00",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
       "context": null
     },
     {
@@ -514,6 +510,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-6fec7c7269250b5f5e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "REPORTAGE. \"Des millions de petits leaders\" : en Serbie, après la surprise de la victoire de la liste des étudiants, la question du gouvernement collégial",
+      "bullets": [
+        "Le nouveau parlement serbe tiendra sa première session, mardi 17 novembre, à Belgrade, et il sera scruté de près : c'est toute une nouvelle génération de députés qui va faire son entrée dans cet organe monocaméral qui exerce le pouvoir législatif en Serbie.",
+        "La Liste étudiante a obtenu 53% des voix à ces élections, soit 140 sièges sur un total de 250 sièges.",
+        "Les étudiants partent de zéro et souhaitent adopter une posture critique."
+      ],
+      "publishedAt": "2026-11-17T06:02:49+00:00",
+      "updatedAt": "2026-11-17T06:02:49+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/des-millions-de-petits-leaders-en-serbie-apres-la-surprise-de-la-victoire-de-la-liste-des-etudiants-la-question-du-gouvernement-collegial_8281205.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "64a39c56757c0d73f834c455633b6e52529c280e60a6702dfd73422a5fb06b0d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
+    },
+    {
       "id": "rss-91bd13788b361aa8a1",
       "revision": 1,
       "category": "world",
@@ -562,28 +586,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e44ba050b9743d56cb",
+      "id": "rss-06e2c91dab485f4690",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Crise politique en Pologne : la banque centrale coupe le financement du Tribunal constitutionnel",
+      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les Françaises à la traîne",
       "bullets": [
-        "La banque centrale polonaise a estimé, lundi, que la crise politique en cours au Tribunal constitutionnel, où la droite et l’extrême droite contestent la suspension de son président, la conduisait à cesser de financer l’institution."
+        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l’air dans 40 villes européennes.",
+        "La réduction de la place de la voiture en ville jugée efficace Cependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies."
       ],
-      "publishedAt": "2026-11-16T16:57:23+00:00",
-      "updatedAt": "2026-11-16T16:57:23+00:00",
-      "importance": 68,
+      "publishedAt": "2026-11-17T05:00:21+00:00",
+      "updatedAt": "2026-11-17T05:00:21+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/crise-politique-en-pologne-la-banque-centrale-coupe-le-financement-du-tribunal-constitutionnel_6812194_3210.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ed3b375f0e16f3d01d030837a9a53fa8c677a77a848c4c87e3f68d669f4e444d",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "bf8250fb54423c7cdfdfa1802f0185fec0520a7f0f732f87a17b089a004dac28",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
+      "context": null
     },
     {
       "id": "rss-6b5b09f253b45ef801",
@@ -621,7 +648,7 @@
       ],
       "publishedAt": "2026-11-16T17:52:41+00:00",
       "updatedAt": "2026-11-16T17:52:41+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -635,53 +662,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1336fbb3752e30a1f4",
-      "revision": 1,
+      "id": "rss-a5d0ddcb2022515def",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
+      "title": "Trump, Gaza, présidentielle 2024 : dans un livre sur la défensive, Joe Biden sort du silence",
       "bullets": [
-        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
-        "Une plongée inédite dans les arcanes du pouvoir."
+        "L’ancien président démocrate défend ses quatre ans de mandat et continue d’affirmer qu’il aurait été apte à en briguer un second."
       ],
-      "publishedAt": "2026-11-16T17:00:08+00:00",
-      "updatedAt": "2026-11-16T17:00:08+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-17T05:30:45+00:00",
+      "updatedAt": "2026-11-17T05:30:45+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/trump-gaza-presidentielle-2024-dans-un-livre-sur-la-defensive-joe-biden-sort-du-silence-20261117",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5c219889269007ccd7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’agressivité croissante de l’Iran gagne le sol européen",
-      "bullets": [
-        "Après des années de tensions avec les capitales européennes, la République islamique multiplie les opérations clandestines et les menaces sur le continent.",
-        "Téhéran cherche à dissuader les Européens de soutenir Washington et à leur faire mesurer le coût d’un engagement aux côtés des Etats-Unis."
-      ],
-      "publishedAt": "2026-11-16T16:27:05+00:00",
-      "updatedAt": "2026-11-16T16:27:05+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/l-agressivite-croissante-de-l-iran-gagne-le-sol-europeen_6812168_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ce407fdd7165eb4252c5ca2bfad67c7ebe16f28b9f58804142b37e55f5d90146",
+      "summaryInput": "382e3d2cd3a3d96e8fa96143ab7098b64d68f2abd077b7288c59472f19cc31ad",
       "detailLevel": "preview"
     },
     {
@@ -713,28 +714,31 @@
       "context": null
     },
     {
-      "id": "rss-a5d0ddcb2022515def",
+      "id": "rss-fd06b32d6d0d03f5bb",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Trump, Gaza, présidentielle 2024 : dans un livre sur la défensive, Joe Biden sort du silence",
+      "title": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
       "bullets": [
-        "L’ancien président démocrate défend ses quatre ans de mandats et continue d’affirmer qu’il aurait été apte à en briguer un second."
+        "Marine Le Pen a rencontré lundi 16 novembre l'ambassadeur d'Ukraine à Paris, à qui elle a répété que si elle était élue à l'Elysée \"l'état des finances publiques de la France ne permett(rait) plus d'aider financièrement l'Ukraine dans les prochains mois\", selon un communiqué du Rassemblement national.",
+        "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France, notamment concernant le prêt de 90 milliards d'euros\" accordé à Kiev par l'Union européenne."
       ],
-      "publishedAt": "2026-11-17T03:59:59+00:00",
-      "updatedAt": "2026-11-17T03:59:59+00:00",
+      "publishedAt": "2026-11-16T21:09:09+00:00",
+      "updatedAt": "2026-11-16T21:09:09+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/trump-gaza-presidentielle-2024-dans-un-livre-sur-la-defensive-joe-biden-sort-du-silence-20261117",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f31fe2ad94daaf7ab62b20b44fa7ece2058765285bda02d3f7819b74f0bfed69",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "594b87ae3e93b51b11d5da6abe3f5a4d5f90fa3ed8cf121274a99d23b45411e6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
     },
     {
       "id": "rss-293883f9ff98d558f1",
@@ -810,31 +814,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-06e2c91dab485f4690",
+      "id": "rss-3a51803c04afd64743",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les Françaises à la traîne",
+      "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
       "bullets": [
-        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l’air dans 40 villes européennes.",
-        "La réduction de la place de la voiture en ville jugée efficace Cependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies."
+        "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces.",
+        "Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050."
       ],
-      "publishedAt": "2026-11-17T05:00:21+00:00",
-      "updatedAt": "2026-11-17T05:00:21+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-16T09:47:06+00:00",
+      "updatedAt": "2026-11-16T09:47:06+00:00",
+      "importance": 58,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "bf8250fb54423c7cdfdfa1802f0185fec0520a7f0f732f87a17b089a004dac28",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1c5e9f7ec8356b38632ef977d730748507957f5bd9bc348a53a50c07bfe9a596",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3e5c9bc07a6d11b29a",
@@ -847,7 +849,7 @@
       ],
       "publishedAt": "2026-11-15T05:15:04+00:00",
       "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -885,28 +887,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6040cc7002bcb63fc9",
+      "id": "rss-1336fbb3752e30a1f4",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
+      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
       "bullets": [
-        "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran.",
-        "Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche."
+        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
+        "Une plongée inédite dans les arcanes du pouvoir."
       ],
-      "publishedAt": "2026-11-17T03:30:05+00:00",
-      "updatedAt": "2026-11-17T03:30:05+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-16T17:00:08+00:00",
+      "updatedAt": "2026-11-16T17:00:08+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "7b670e86102f21c253b119ccd12aae875ec1ad8b11350aa88aa51d03cdf37626",
+      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
       "detailLevel": "preview"
     },
     {
@@ -1038,16 +1040,16 @@
     },
     {
       "id": "rss-cbd769ff6a63e10177",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "A Lyon, Toulouse, Lille ou Rennes, les ressorts d’une révolte sociale qui s’est ancrée au fil des semaines",
+      "title": "Grève du 17 novembre : les ressorts d’une révolte sociale qui s’est ancrée au fil des semaines",
       "bullets": [
-        "Une nouvelle journée d’action nationale est prévue mardi.",
+        "Une nouvelle journée d’action nationale est prévue mardi à Lyon, Toulouse, Lille ou Rennes.",
         "Parti des lycéens mi-septembre, relayé par les étudiants, les parents puis les syndicats, le mouvement gagne les associations."
       ],
-      "publishedAt": "2026-11-17T04:30:22+00:00",
-      "updatedAt": "2026-11-17T04:30:22+00:00",
+      "publishedAt": "2026-11-17T04:30:21+00:00",
+      "updatedAt": "2026-11-17T04:30:21+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1058,7 +1060,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "7356ca8c9a8c38c9a1d3376e808148c7d86fbe869a1faae1c18baa4504175324",
+      "summaryInput": "b2a67f93bc928531e965e02cf1930c58e799ebfd620e0c9a4fa95abb8593632a",
       "detailLevel": "preview"
     },
     {
@@ -1096,8 +1098,8 @@
         "À quelques mois de la présidentielle, 58% des Français estiment que Jean-Luc Mélenchon contribue à la montée de l’antisémitisme de même que 47% pour Marine Le Pen, selon une enquête Ifop.",
         "Parmi les Français juifs interrogés, ces proportions s’établissent respectivement à 86% et 36%."
       ],
-      "publishedAt": "2026-11-16T19:56:12+00:00",
-      "updatedAt": "2026-11-16T19:56:12+00:00",
+      "publishedAt": "2026-11-17T05:51:00+00:00",
+      "updatedAt": "2026-11-17T05:51:00+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1112,29 +1114,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1151a307abf7b3c1cc",
+      "id": "rss-76ad0eab6b19889592",
       "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "Nos albums coups de cœur : Dominique A, Angèle, Fontaines D.C., Pet Shop Boys…",
+      "topic": "Société",
+      "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
       "bullets": [
-        "Le lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique.",
-        "Aujourd’hui, une sélection de disques parus en octobre pour ne pas voir passer l’hiver."
+        "Ne pourront partir à 60 ans que ceux qui ont commencé à travailler avant 20 ans et validé 40 annuités.",
+        "Les proches de Marine Le Pen promettent une réforme \"juste\", qui permet que \"tout le monde y trouve son compte\".",
+        "Son coût : une quinzaine de milliards d'euros \"compensés par une augmentation globale du volume de travail\", explique un député du RN."
       ],
-      "publishedAt": "2026-11-16T04:45:08+00:00",
-      "updatedAt": "2026-11-16T04:45:08+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-17T05:35:04+00:00",
+      "updatedAt": "2026-11-17T05:35:04+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/musiques/article/2026/11/16/nos-albums-coups-de-c-ur-dominique-a-angele-fontaines-d-c-pet-shop-boys_6811369_1654986.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "19a0d287e4765a3386de9c2a01b1166cafd2aadff6ee088649d40c6a96193382",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "f0aad1b2757e25f3dbc34ee3d373488527d84e4667c8d87bdaa906b7ef3136d6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1172,13 +1177,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
@@ -1196,7 +1201,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1208,13 +1213,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/culture/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
