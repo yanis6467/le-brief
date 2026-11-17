@@ -1,11 +1,62 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T06:13:11.976859+00:00",
+  "preparedAt": "2026-11-17T07:36:27.225999+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-b6d68fe559aaa8115c",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
+      "bullets": [
+        "Le Sénat a rejeté à l'unanimité lundi 16 novembre la désindexation de deux tiers des pensions de retraite sur l'inflation, mesure phare proposée par le gouvernement dans son projet de budget de la Sécurité sociale, pour faire des économies.",
+        "Le gouvernement souhaite faire contribuer les retraités à hauteur d'environ 5,5 milliards d'euros, avec deux leviers : la désindexation des pensions supérieures à 1 260 euros, et la réforme d'une niche fiscale des retraités, qui bénéficient d'un abattement de 10% sur l'impôt sur le revenu."
+      ],
+      "publishedAt": "2026-11-17T06:04:35+00:00",
+      "updatedAt": "2026-11-17T06:04:35+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "ed60b0be6bd8931c12fba9601e681dd3b5e6efba55ebaf4a298d739dbf462609",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-14d05820989b22258b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les dépenses dans la défense musclent la croissance économique en Europe de l’Est",
+      "bullets": [
+        "DÉCRYPTAGE - Chaque euro investi dans les budgets militaires peut rapporter près d’un euro et demi de PIB dans les trois ans, a calculé la Banque européenne pour la reconstruction et le développement (BERD) pour les pays de la vaste zone qu’elle finance."
+      ],
+      "publishedAt": "2026-11-17T06:00:00+00:00",
+      "updatedAt": "2026-11-17T06:00:00+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/les-depenses-dans-la-defense-musclent-la-croissance-economique-en-europe-de-l-est-20261117",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5a7db840120a48213e0ed2d0836f48902342626d6497b77c7a12e7bd3d11940b",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-6ee5edf38146e98d6c",
       "revision": 1,
@@ -35,34 +86,6 @@
       "context": null
     },
     {
-      "id": "rss-b6d68fe559aaa8115c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
-      "bullets": [
-        "Le Sénat a rejeté à l'unanimité lundi 16 novembre la désindexation de deux tiers des pensions de retraite sur l'inflation, mesure phare d'économie proposée par le gouvernement dans son projet de budget de la Sécurité sociale.",
-        "Les sénateurs ont choisi d'adopter des amendements supprimant entièrement l'article du projet de budget de la Sécurité sociale prévoyant la désindexation, susceptible de rapporter environ 4 milliards d'euros.",
-        "Suspendue l'an dernier dans le cadre d'un accord avec les socialistes, cette réforme devant relever l'âge légal de départ à 64 ans a toujours été défendue par le Sénat."
-      ],
-      "publishedAt": "2026-11-17T06:04:35+00:00",
-      "updatedAt": "2026-11-17T06:04:35+00:00",
-      "importance": 87,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "7bc0e4c7fed1484ce3c2317cd8e959f20ab7db4df08a1c7ecc821dc7a8e975a7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
-      "context": null
-    },
-    {
       "id": "rss-03ed5d20dd96435243",
       "revision": 1,
       "category": "eco",
@@ -71,8 +94,8 @@
       "bullets": [
         "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
       ],
-      "publishedAt": "2026-11-17T05:58:05+00:00",
-      "updatedAt": "2026-11-17T05:58:05+00:00",
+      "publishedAt": "2026-11-17T05:58:02+00:00",
+      "updatedAt": "2026-11-17T05:58:02+00:00",
       "importance": 87,
       "sources": [
         {
@@ -172,16 +195,16 @@
     },
     {
       "id": "rss-391cc06b27a7d881c6",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Mobilisation du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
+      "title": "Grève du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
       "bullets": [
         "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires.",
-        "Dans le secteur privé, la CGT, l’UNSA et Solidaires ainsi que certaines fédérations d’autres organisations exhortent les salariés à passer à l’action."
+        "Dans le secteur privé, la CGT, l’UNSA et Solidaires, ainsi que certaines fédérations d’autres organisations, exhortent les salariés à passer à l’action."
       ],
-      "publishedAt": "2026-11-17T04:41:20+00:00",
-      "updatedAt": "2026-11-17T04:41:20+00:00",
+      "publishedAt": "2026-11-17T04:41:16+00:00",
+      "updatedAt": "2026-11-17T04:41:16+00:00",
       "importance": 73,
       "sources": [
         {
@@ -192,20 +215,20 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "4b46d02972643b152ba1f7811f316aff80a68ddf59cf4cf183e9fca0a51c6dbc",
+      "summaryInput": "21fd4d1441a7501b5ac5327c0d56132fe11c2c65f11024e3c05a5fac726b2c40",
       "detailLevel": "preview"
     },
     {
       "id": "rss-786c7a527b9f1d8eba",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "La baguette, un baromètre de l’inflation pour les Français : « Quand le pain flambe, c’est le thermomètre du pays qui grimpe »",
+      "title": "« Quand le pain flambe, c’est le thermomètre du pays qui grimpe » : la baguette, un baromètre de l’inflation pour les Français",
       "bullets": [
-        "Coincées entre l’inflation des coûts des matières premières et de l’énergie et des consommateurs au pouvoir d’achat contraint, les boulangeries s’adaptent en tentant de contenir la hausse du prix de la baguette et en augmentant le reste."
+        "Coincées entre l’inflation des coûts des matières premières comme de l’énergie et des consommateurs au pouvoir d’achat contraint, les boulangeries s’adaptent en tentant de contenir la hausse du prix de la baguette et en augmentant le reste."
       ],
-      "publishedAt": "2026-11-17T05:00:11+00:00",
-      "updatedAt": "2026-11-17T05:00:11+00:00",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "updatedAt": "2026-11-17T05:00:00+00:00",
       "importance": 69,
       "sources": [
         {
@@ -216,7 +239,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "bef3332e129b53a83b0344daad45fc8ef55a79ba30a324fad192fd3dad66daa0",
+      "summaryInput": "f36485cf249433456db40a71bf864e54a681eea9937a05538dfb153080822195",
       "detailLevel": "preview"
     },
     {
@@ -257,8 +280,8 @@
         "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux.",
         "Avec ses « clients les plus sensibles », il a perduré malgré un désengagement à partir de 2014."
       ],
-      "publishedAt": "2026-11-17T06:00:19+00:00",
-      "updatedAt": "2026-11-17T06:00:19+00:00",
+      "publishedAt": "2026-11-17T06:00:15+00:00",
+      "updatedAt": "2026-11-17T06:00:15+00:00",
       "importance": 67,
       "sources": [
         {
@@ -273,52 +296,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a635e8530766a356db",
+      "id": "rss-ccff83c217ef179d81",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Présidentielle 2027 : impôts, logement, associations… Ce qu’il faut retenir du grand débat entre cinq candidats sur la vie chère",
+      "title": "Majoration des retraites à partir de trois enfants : le gouvernement revoit sa copie à la dernière minute au Sénat",
       "bullets": [
-        "Pendant près de trois heures, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal, Bruno Retailleau et Marine Le Pen ont croisé le fer sur LCI et TF1 sur les enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté."
+        "Face à la polémique déclenchée par sa proposition de réformer le dispositif de majoration des pensions de retraite à partir de trois enfants, le gouvernement a proposé ce lundi 16 novembre de revoir sa copie, sans toutefois parvenir à convaincre les sénateurs.",
+        "Système inégalitaire Actuellement, les parents ayant eu ou adopté au moins trois enfants bénéficient d'une majoration de pension de 10 %, puis de 5 % par enfant supplémentaire.",
+        "Coût de 10 millions d’euros Cette mesure serait favorable à 100.000 nouveaux retraités chaque année, dont 60% de femmes, selon l'exécutif."
       ],
-      "publishedAt": "2026-11-17T05:51:00+00:00",
-      "updatedAt": "2026-11-17T05:51:00+00:00",
+      "publishedAt": "2026-11-17T06:39:12+00:00",
+      "updatedAt": "2026-11-17T06:39:12+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/social/majoration-des-retraites-a-partir-de-trois-enfants-le-gouvernement-revoit-sa-copie-a-la-derniere-minute-au-senat-20261117",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9030f98529f588dd7f0511a0236cd001512e19c4db6a47468d3fe63fc099c128",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a05567baccc3126c45",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon dîne ce mardi avec Bernard Arnault et Patrick Pouyanné",
-      "bullets": [
-        "INFO LE FIGARO - Quelques mois après avoir reçu Marine Le Pen chez Drouant, les patrons du Club Entreprise & Cité rencontrent le candidat insoumis à la présidentielle."
-      ],
-      "publishedAt": "2026-11-17T05:50:56+00:00",
-      "updatedAt": "2026-11-17T05:50:56+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/jean-luc-melenchon-dine-mardi-avec-bernard-arnault-et-patrick-pouyanne-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "292c5fb6cb58d2eaaa7fdc8fdb01a2ffed7d3327253e355c4bee52ec941793c7",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "feb3af913c7b152f3351cbbd57c8161954fe8ee8610195591421bdeacb138ac7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "context": null
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -331,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T06:10:25+00:00",
-      "updatedAt": "2026-11-17T06:10:25+00:00",
+      "publishedAt": "2026-11-17T07:30:10+00:00",
+      "updatedAt": "2026-11-17T07:30:10+00:00",
       "importance": 69,
       "sources": [
         {
@@ -349,31 +352,31 @@
       "context": null
     },
     {
-      "id": "rss-f8a907d2303e62c14c",
+      "id": "rss-c5d318fdaaf4444769",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Avant deux rendez-vous cruciaux pour l'intelligence artificielle, le CAC 40 joue la prudence",
+      "title": "CAC 40 : Le Nasdaq rafraîchit l'ambiance",
       "bullets": [
-        "Après avoir tenté de prolonger la série sans faute de la semaine précédente, le CAC 40 a finalement terminé ce lundi 16 novembre en légère baisse de 0,20%, à 8.352 points.",
-        "À la clôture des marchés européens, le Nasdaq recule de 1,40%, le S&P 500 de 1,10% et le Dow Jones de 0,6%.",
-        "En termes de montants levés, il devrait s'agir de la plus importante entrée sur la cote, avec plus de 90 milliards de dollars, placement privé inclus."
+        "A noter sur le front macroéconomique lundi, la très légère hausse mensuelle de la production industrielle en Zone Euro (0,2%), contre un consensus à +0,3%.",
+        "À l’inverse, la foncière Carmila a cédé 2% après avoir annoncé le rachat de l’italien IGD dans le cadre d’une opération rémunérée en actions.",
+        "De l'autre côté de l'Atlantique, les principaux indices sur actions ont terminé la séance de lundi dans le rouge, à l'image du Dow Jones (-1,41%) et du Nasdaq Composite (-2,49%)."
       ],
-      "publishedAt": "2026-11-16T16:41:41+00:00",
-      "updatedAt": "2026-11-16T16:41:41+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-17T07:30:04+00:00",
+      "updatedAt": "2026-11-17T07:30:04+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-le-nasdaq-rafraichit-l-ambiance-1173879.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "ec3e66f7db8c47e14884b17b634215f415f12f0c49b0a1e5eceae95c8d99867c",
+      "summaryInput": "a102f4d6f6ee9edaa8bf212730060af5f074d3a93be6da3555880faff7626e75",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
       "context": null
     },
     {
@@ -548,7 +551,7 @@
       ],
       "publishedAt": "2026-11-16T18:30:08+00:00",
       "updatedAt": "2026-11-16T18:30:08+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -572,7 +575,7 @@
       ],
       "publishedAt": "2026-11-16T18:45:00+00:00",
       "updatedAt": "2026-11-16T18:45:00+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -586,14 +589,71 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-06e2c91dab485f4690",
+      "id": "rss-34f03b10437f08b1bc",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les Françaises à la traîne",
+      "title": "REPORTAGE. En Russie, les habitants vivent au quotidien la peur des attaques de drones ukrainiens",
       "bullets": [
-        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l’air dans 40 villes européennes.",
-        "La réduction de la place de la voiture en ville jugée efficace Cependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies."
+        "Une sorte de village rue au style architectural hétéroclite, des petits pavillons et des immeubles, avec sa gare qui permet à certains des milliers d'habitants d'aller travailler à la capitale.",
+        "Au bout de l'avenue, un soldat qui, lui aussi préfère ne pas dévoiler son identité, nous explique posément que la lutte contre les drones ukrainiens est devenue son quotidien.",
+        "Selon le ministère de la Défense, le nombre de drones ukrainiens abattus chaque mois sur le territoire russe a été multiplié par cinq cette année, passant de 120 en janvier à 620 au mois d'octobre."
+      ],
+      "publishedAt": "2026-11-17T07:04:55+00:00",
+      "updatedAt": "2026-11-17T07:04:55+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-en-russie-les-habitants-vivent-au-quotidien-la-peur-des-attaques-de-drones-ukrainiens_8285939.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "04fb48ac30ebef165d75680285f5420e98c60011c0d30a1db1df8fe815a01a07",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-c218c8228e43d22a5d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Deux ponts de Kiev sont fermés à la circulation après des attaques russes, l'Ukraine cible la Crimée",
+      "bullets": [
+        "La tension ne retombe pas sur le front.",
+        "La Russie a frappé deux ponts majeurs à Kiev, mardi 17 novembre.",
+        "Plus de 1 100 drones ukrainiens abattusPeu avant les frappes russes, l'Ukraine a déclaré mardi avoir ciblé pour le deuxième jour consécutif le pont de Crimée reliant la Russie à cette région annexée en 2014 par Moscou."
+      ],
+      "publishedAt": "2026-11-17T06:45:47+00:00",
+      "updatedAt": "2026-11-17T06:45:47+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "f563bdb5188a69abd3166713989a117b0a3843f4e110ec190e93b9bb4561e7f9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-06e2c91dab485f4690",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
+      "bullets": [
+        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l'air dans 40 villes européennes.",
+        "La réduction de la place de la voiture en ville jugée efficaceCependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies.",
+        "Lyon progresse aussi de ce point de vue là."
       ],
       "publishedAt": "2026-11-17T05:00:21+00:00",
       "updatedAt": "2026-11-17T05:00:21+00:00",
@@ -607,9 +667,9 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "bf8250fb54423c7cdfdfa1802f0185fec0520a7f0f732f87a17b089a004dac28",
+      "summaryInput": "b5cdb6646e2bbcd5968daef8f8de2fb8b96c752c45eef959ffe0bb211ca7f973",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
+      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
       "context": null
     },
     {
@@ -623,7 +683,7 @@
       ],
       "publishedAt": "2026-11-16T19:31:18+00:00",
       "updatedAt": "2026-11-16T19:31:18+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -638,13 +698,13 @@
     },
     {
       "id": "rss-73c9c16a8efca956d3",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
       "bullets": [
-        "L’attribution de l’attaque contre les systèmes de froid de nombreux supermarchés français à l’Iran n’est qu’une première réponse de Paris.",
-        "Elle s’inscrit dans une stratégie précise, et était un préalable nécessaire à d’éventuelles contre-mesures."
+        "La décision d’imputer à l’Iran la cyberattaque de près de 700 grandes surfaces dans la nuit du 11 au 12 octobre s’inscrit dans une stratégie précise de Paris.",
+        "La désignation publique et l’ouverture d’une enquête judiciaire sont en effet un préalable nécessaire à d’éventuelles contre-mesures."
       ],
       "publishedAt": "2026-11-16T17:52:41+00:00",
       "updatedAt": "2026-11-16T17:52:41+00:00",
@@ -658,7 +718,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "8e3ef9c4e35e23e72c8a787234fec88c29953cd173115c3f94247c4e69017166",
+      "summaryInput": "185b4a208ac6b1cdb2580465439c2a870a520bb9636d94a269ea7d63f0e74154",
       "detailLevel": "preview"
     },
     {
@@ -686,61 +746,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-26a7e12c4e2aff87b0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"J'ai tout gâché\" : dans ses mémoires, Joe Biden se confie sur son renoncement à la présidentielle 2024 face à Donald Trump",
-      "bullets": [
-        "L'ex-président américain Joe Biden publie ses mémoires, mardi 17 novembre, dans lesquelles il revient sur son mandat et sa volonté de se représenter lors de l'élection présidentielle 2024 face à Donald Trump.",
-        "Ce livre autobiographique, intitulé Promise me, America (Promets-moi, Amérique, en français) et dont plusieurs extraits ont été publiés par la presse américaine, explique \"qui nous sommes en tant que nation, ce que nous défendons, et le rôle de l'Amérique dans le monde\", selon Joe Biden.",
-        "Ce que [Donald] Trump a fait le 6 janvier 2021 ne devrait jamais être oublié."
-      ],
-      "publishedAt": "2026-11-17T04:46:49+00:00",
-      "updatedAt": "2026-11-17T04:46:49+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/joe-biden/j-ai-tout-gache-dans-ses-memoires-joe-biden-se-confie-sur-son-renoncement-a-la-presidentielle-2024-face-a-donald-trump_8284565.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "a88c9ca2efb944d532583115f7db9714bc0d3def58c366101ba55198db3845d2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T05:11:40.834992+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fd06b32d6d0d03f5bb",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
-      "bullets": [
-        "Marine Le Pen a rencontré lundi 16 novembre l'ambassadeur d'Ukraine à Paris, à qui elle a répété que si elle était élue à l'Elysée \"l'état des finances publiques de la France ne permett(rait) plus d'aider financièrement l'Ukraine dans les prochains mois\", selon un communiqué du Rassemblement national.",
-        "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France, notamment concernant le prêt de 90 milliards d'euros\" accordé à Kiev par l'Union européenne."
-      ],
-      "publishedAt": "2026-11-16T21:09:09+00:00",
-      "updatedAt": "2026-11-16T21:09:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "594b87ae3e93b51b11d5da6abe3f5a4d5f90fa3ed8cf121274a99d23b45411e6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
-      "context": null
-    },
-    {
       "id": "rss-293883f9ff98d558f1",
       "revision": 1,
       "category": "france",
@@ -750,8 +755,8 @@
         "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
         "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars."
       ],
-      "publishedAt": "2026-11-17T04:30:05+00:00",
-      "updatedAt": "2026-11-17T04:30:05+00:00",
+      "publishedAt": "2026-11-17T04:30:03+00:00",
+      "updatedAt": "2026-11-17T04:30:03+00:00",
       "importance": 77,
       "sources": [
         {
@@ -800,7 +805,7 @@
       ],
       "publishedAt": "2026-11-16T19:06:05+00:00",
       "updatedAt": "2026-11-16T19:06:05+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1153,7 +1158,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Franceinfo",
@@ -1165,7 +1170,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1177,7 +1182,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1189,7 +1194,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
@@ -1201,7 +1206,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
@@ -1219,7 +1224,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
