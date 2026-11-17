@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T18:14:42.825681+00:00",
+  "preparedAt": "2026-11-17T19:22:59.105735+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,31 +33,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
       "context": null
-    },
-    {
-      "id": "rss-32a41cec0c9c31e9ff",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
-      "bullets": [
-        "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone.",
-        "Reste aux autres pays de la zone euro à accepter ces nominations."
-      ],
-      "publishedAt": "2026-11-17T17:37:14+00:00",
-      "updatedAt": "2026-11-17T17:37:14+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-cb5a247ab3faf85a76",
@@ -176,8 +151,8 @@
         "18.000 entités concernées Concrètement, le projet de loi, très technique, doit transposer en droit français trois directives européennes.",
         "Selon la ministre, plus de 18.000 entités dans 18 secteurs critiques - comme l'énergie, la santé ou les transports - seront concernées par de nouvelles obligations «en matière de gestion des risques, de sécurisation des sous-traitants» ou «de notification des incidents» à l'Anssi."
       ],
-      "publishedAt": "2026-11-17T17:57:35+00:00",
-      "updatedAt": "2026-11-17T17:57:35+00:00",
+      "publishedAt": "2026-11-17T18:40:32+00:00",
+      "updatedAt": "2026-11-17T18:40:32+00:00",
       "importance": 67,
       "sources": [
         {
@@ -319,6 +294,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-9990a8c9326de74d70",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le groupe finlandais Iceye veut créer un «SpaceX européen» en rachetant l’italien Avio, constructeur de la fusée Vega C",
+      "bullets": [
+        "Le spécialiste de l’imagerie satellitaire offre deux milliards d’euros pour réaliser cette opération.",
+        "L’État italien étudie cette offre avec attention."
+      ],
+      "publishedAt": "2026-11-17T15:20:43+00:00",
+      "updatedAt": "2026-11-17T15:20:43+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/flash-eco/le-groupe-finlandais-iceye-veut-creer-un-spacex-europeen-en-rachetant-l-italien-avio-constructeur-de-la-fusee-vega-c-20261117",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4aa5a3101e8582b0502a978e10ea66acddd5fecdad92d5860dcd775194d4b0c2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -329,8 +329,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T18:11:35+00:00",
-      "updatedAt": "2026-11-17T18:11:35+00:00",
+      "publishedAt": "2026-11-17T19:20:26+00:00",
+      "updatedAt": "2026-11-17T19:20:26+00:00",
       "importance": 69,
       "sources": [
         {
@@ -512,17 +512,17 @@
     },
     {
       "id": "rss-4c7f6287fee3a1d857",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
       "bullets": [
-        "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la Santé (PAHO), mardi 17 novembre.",
-        "Le pays fait désormais face à sa pire épidémie en 35 ans.",
-        "Une même souche du virus y a circulé pendant plus de 12 mois."
+        "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
+        "Cette annonce constitue un revers particulièrement cinglant pour les Etats-Unis, première puissance mondiale.",
+        "Le pays fait désormais face à sa pire épidémie en 35 ans."
       ],
-      "publishedAt": "2026-11-17T17:21:05+00:00",
-      "updatedAt": "2026-11-17T17:21:05+00:00",
+      "publishedAt": "2026-11-17T18:16:11+00:00",
+      "updatedAt": "2026-11-17T18:16:11+00:00",
       "importance": 85,
       "sources": [
         {
@@ -533,9 +533,9 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "c2bf907be4b450f2d7f2555bba03ae1c378ffb7f988dd6cbc81441efa93b0f61",
+      "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T18:14:42.825681+00:00",
+      "enrichedAt": "2026-11-17T19:22:59.105735+00:00",
       "context": null
     },
     {
@@ -561,6 +561,31 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "500964e396d64cfad4abdc5f3722558ebbc4047e67ed2ae207e80054db09fed9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-32a41cec0c9c31e9ff",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
+      "bullets": [
+        "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone.",
+        "Reste aux autres pays de la zone euro à accepter ces nominations."
+      ],
+      "publishedAt": "2026-11-17T17:37:13+00:00",
+      "updatedAt": "2026-11-17T17:37:13+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
       "detailLevel": "preview"
     },
     {
@@ -703,7 +728,7 @@
       ],
       "publishedAt": "2026-11-16T18:45:00+00:00",
       "updatedAt": "2026-11-16T18:45:00+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -715,6 +740,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "626d742ac0e02fcf0b729c7da277f935acd91fcfd583f8dbf07398af0ee12f05",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-539b47fc70a4c22f55",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La France participe-t-elle \"directement\" à la guerre en Ukraine, comme l'affirme le Kremlin ?",
+      "bullets": [
+        "Sergueï Lavrov, le ministre russe des Affaires étrangères, a accusé la France de \"participation directe à la guerre\" en Ukraine, après les révélations de RFI, lundi 16 novembre, faisant état de la présence secrète de militaires français dans le pays.",
+        "Depuis 2022, la Russie parle régulièrement du conflit en Ukraine comme d'une guerre par procuration qui serait menée par les Occidentaux.",
+        "Un seul État tiers intervient directement dans ce conflit, c'est la Corée du Nord."
+      ],
+      "publishedAt": "2026-11-17T19:21:49+00:00",
+      "updatedAt": "2026-11-17T19:21:49+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/vrai-ou-fake/la-france-participe-t-elle-directement-a-la-guerre-en-ukraine-comme-l-affirme-le-kremlin_8287025.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "3e92734bfb64307f337fef4ef0076f59b024c561f429ce6c1c90fab58e4439ca",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T19:22:59.105735+00:00",
+      "context": null
     },
     {
       "id": "rss-81f3d68f052aea90f3",
@@ -766,69 +819,13 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5dc9a6bab2e9d295b1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Offensive ukrainienne : Moscou affirme avoir abattu 1 400 drones en une nuit",
-      "bullets": [
-        "Peu avant minuit lundi 16 novembre, des missiles russes s’abattent sur le pont nord de la ville, la deuxième fois en quelques jours.",
-        "Ce sont deux axes stratégiques qui relient les rives du Dniepr pour les 3 millions d’habitants de la capitale ukrainienne.",
-        "Moscou affirme en avoir abattu 1 441 dans la nuit du lundi 16 au mardi 17 novembre, deuxième plus grosse opération depuis le début de l’année."
-      ],
-      "publishedAt": "2026-11-17T15:09:56+00:00",
-      "updatedAt": "2026-11-17T15:09:56+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/offensive-ukrainienne-moscou-affirme-avoir-abattu-1-400-drones-en-une-nuit_8286665.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "1350ed0e731e4a67f5822d59a1722c499db729a12690cb48484b2090a6cbe2c5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-55d75000e5281922e9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump prend \"très au sérieux\" une possible menace d'attaque iranienne contre la ville de Washington, l'Iran dénonce des informations \"fabriquées\"",
-      "bullets": [
-        "Le président des Etats-Unis, Donald Trump, prend \"très au sérieux\" une potentielle menace d'attaque iranienne contre la capitale américaine Washington, dont a fait état la chaîne CNN.",
-        "\"J'espère que non mais nous prenons cela très au sérieux\", a déclaré l'élu républicain mardi 17 novembre, répondant à la question d'une journaliste sur ce sujet.",
-        "Selon CNN, les services de renseignement américains disposeraient de nouvelles informations selon lesquelles l'Iran préparerait une attaque par \"bombe sale\" ou arme chimique contre Washington."
-      ],
-      "publishedAt": "2026-11-17T15:00:34+00:00",
-      "updatedAt": "2026-11-17T15:00:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-prend-tres-au-serieux-une-possible-menace-d-attaque-iranienne-contre-la-ville-de-washington-l-iran-denonce-des-informations-fabriquees_8286563.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "02ccfeeb016acca778d577e4ca4c171c9aceef308c9e7071beb545757099c186",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T15:04:57.125267+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d961682d5f2993c7db",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "La droite et le centre attaquent le projet de réforme des retraites de Marine Le Pen",
+      "title": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
       "bullets": [
-        "Un « catalogue de contradictions », selon Bruno Retailleau (LR), une réforme « mensongère, coûteuse et antisociale », selon Edouard Philippe (Horizons)… le projet de réforme des retraites présenté par Marine Le Pen, mardi, a immédiatement fait réagir à droite et au centre."
+        "Un « catalogue de contradictions », selon Bruno Retailleau (LR), une réforme « mensongère, coûteuse et antisociale », selon Edouard Philippe (Horizons)… le projet de réforme des retraites présenté par Marine Le Pen, mardi, a immédiatement fait réagir sur tout le spectre politique."
       ],
       "publishedAt": "2026-11-17T16:58:45+00:00",
       "updatedAt": "2026-11-17T16:58:45+00:00",
@@ -842,7 +839,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "2878cade8c8a4b19fcaede980f58e97918754f58b91318fe9d7687eea9ad9dd7",
+      "summaryInput": "71bbd1c79865c16438fa4f92988344e6e89d8c42f2f6632a4130b4019f669eb5",
       "detailLevel": "preview"
     },
     {
@@ -1235,7 +1232,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1259,7 +1256,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1307,7 +1304,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
