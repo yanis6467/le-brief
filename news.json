@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T07:36:27.225999+00:00",
+  "preparedAt": "2026-11-17T09:16:35.082991+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -70,7 +70,7 @@
       ],
       "publishedAt": "2026-11-16T21:00:31+00:00",
       "updatedAt": "2026-11-16T21:00:31+00:00",
-      "importance": 93,
+      "importance": 92,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -84,30 +84,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-16T21:59:13.868911+00:00",
       "context": null
-    },
-    {
-      "id": "rss-03ed5d20dd96435243",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
-      "bullets": [
-        "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
-      ],
-      "publishedAt": "2026-11-17T05:58:02+00:00",
-      "updatedAt": "2026-11-17T05:58:02+00:00",
-      "importance": 87,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "96e7eda9a60b54eec9baba520d1b2bf645acc3700cc7e327ef75f5ec700b01c6",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-198d56c1b6316184e1",
@@ -133,34 +109,6 @@
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
       "summaryInput": "2d0db9d70f7ada7a88e296d1607498617e35dd90aa13604dce6814173fff5656",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-49d55510f00bdbe61a",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "VIDEO. \"Si l'acquéreur ne trouve pas de financement, c'est lui qui a le vrai prix\" : à Rennes, des vendeurs doivent réduire leurs exigences face aux difficultés d'accès au crédit immobilier",
-      "bullets": [
-        "Un immeuble a été construit il y a moins de 10 ans dans un quartier du nord de Rennes (Ille-et-Vilaine).",
-        "L'un des appartements est un T3 de 68 m2, mis sur le marché à 330 000 euros.",
-        "Alors, les vendeurs viennent de baisser le prix de 55 000 euros sur les conseils de l'agente immobilière."
-      ],
-      "publishedAt": "2026-11-16T16:13:43+00:00",
-      "updatedAt": "2026-11-16T16:13:43+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/immobilier/prix-immobilier/la-hausse-des-taux-aujourd-hui-c-est-le-critere-principal-des-acquereurs-a-rennes-des-prix-de-vente-revus-a-la-baisse-face-aux-taux-d-emprunt-qui-grimpent-en-fleche_8284949.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "3590df6826dc4821a1769e6156918a6ffb4ad0de878eb9be07d0f696133b0b0c",
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
       "context": null
@@ -243,57 +191,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f95b25455e72ee9005",
+      "id": "rss-e0cfa2fc6c66030b0b",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Panama : le président veut rouvrir une gigantesque mine de cuivre fermée en 2023",
+      "title": "Le gouvernement affirme que le prix des carburants a baissé dans plus de 90% des stations-service",
       "bullets": [
-        "Le président du Panama, José Raúl Mulino, a annoncé lundi l’ouverture de discussions avec une filiale de l’entreprise canadienne First Quantum Minerals pour rouvrir la plus grande mine de cuivre à ciel ouvert d’Amérique centrale, fermée en 2023 après une forte contestation sociale.",
-        "Le gisement, situé sur la côte de la mer des Caraïbes, représentait naguère 75% des exportations et 5% du PIB du Panama.",
-        "En cause : le renouvellement alors annoncé pour 40 ans du contrat d’exploitation de la mine."
+        "Plus de 90% des stations-service répercutent la baisse du prix du carburant liée au déblocage d'une partie des stocks stratégiques de gazole, a affirmé, mardi 17 novembre, le ministre délégué à la Transition écologique, Mathieu Lefèvre, sur Sud Radio.",
+        "\"On est à 2,16 [euros] aujourd'hui pour le gazole, et entre 2,07 et 2,11 [euros] pour le 95 et le 98\", a-t-il ajouté.",
+        "Evolution des prix à la pompe depuis janvier 2026En France hexagonale et en CorseSource : calcul du prix moyen journalier à partir des relevés par station-service publiés sur prix-carburants.gouv.fr."
       ],
-      "publishedAt": "2026-11-17T01:07:27+00:00",
-      "updatedAt": "2026-11-17T01:07:27+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-17T09:01:29+00:00",
+      "updatedAt": "2026-11-17T09:01:29+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/panama-le-president-veut-rouvrir-une-gigantesque-mine-de-cuivre-fermee-en-2023-20261117",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-annonce-une-baisse-du-prix-des-carburants-dans-plus-de-90-des-stations-service_8286197.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "article-extract",
-      "summaryInput": "2213884469c2bc89881317ec9490c62913f6be51ead150aa865705d00e6b018e",
+      "summaryInput": "742e9adfa9cd91671048ab74a2d2fb1bacb8c3de754b87a469d54c339afb1c23",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
       "context": null
-    },
-    {
-      "id": "rss-b44617cc20476dd980",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
-      "bullets": [
-        "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux.",
-        "Avec ses « clients les plus sensibles », il a perduré malgré un désengagement à partir de 2014."
-      ],
-      "publishedAt": "2026-11-17T06:00:15+00:00",
-      "updatedAt": "2026-11-17T06:00:15+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2ae63b54243f02120fb6bcd9099b53c5e20edd7af5a522145fa788926fb93598",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ccff83c217ef179d81",
@@ -306,8 +229,8 @@
         "Système inégalitaire Actuellement, les parents ayant eu ou adopté au moins trois enfants bénéficient d'une majoration de pension de 10 %, puis de 5 % par enfant supplémentaire.",
         "Coût de 10 millions d’euros Cette mesure serait favorable à 100.000 nouveaux retraités chaque année, dont 60% de femmes, selon l'exécutif."
       ],
-      "publishedAt": "2026-11-17T06:39:12+00:00",
-      "updatedAt": "2026-11-17T06:39:12+00:00",
+      "publishedAt": "2026-11-17T07:51:46+00:00",
+      "updatedAt": "2026-11-17T07:51:46+00:00",
       "importance": 65,
       "sources": [
         {
@@ -324,6 +247,82 @@
       "context": null
     },
     {
+      "id": "rss-a635e8530766a356db",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présidentielle 2027 : impôts, logement, associations… Ce qu’il faut retenir du grand débat entre cinq candidats sur la vie chère",
+      "bullets": [
+        "Pendant près de trois heures, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal, Bruno Retailleau et Marine Le Pen ont croisé le fer sur LCI et TF1 sur les enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté."
+      ],
+      "publishedAt": "2026-11-17T06:31:01+00:00",
+      "updatedAt": "2026-11-17T06:31:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9030f98529f588dd7f0511a0236cd001512e19c4db6a47468d3fe63fc099c128",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-286d61dd4ffa197a8d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+      "bullets": [
+        "Les cinq candidats à l’élection ont débattu pendant près de trois heures sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent, notamment, de ne pas financer leurs propositions."
+      ],
+      "publishedAt": "2026-11-16T22:21:54+00:00",
+      "updatedAt": "2026-11-16T22:21:54+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "81a0073a1faa3c714455fbbc6e84e4719639f0a2a09e6e34ffd1b60b298765ba",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-becf959f4035b53280",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+      "bullets": [
+        "A la veille d'une journée de mobilisation sociale, l'Assemblée nationale a adopté, lundi 16 novembre, une proposition de loi soutenue par le gouvernement pour faciliter le déblocage de l'épargne salariale.",
+        "Déjà voté par le Sénat, le texte a été soutenu par 95 députés contre 34, dans une version un peu différente.",
+        "La proposition de loi prévoit un nouveau cas temporaire de déblocage anticipé de l'épargne salariale, désormais limité à 10 000 euros après l'adoption d'un amendement de la députée Liot Valérie Létard."
+      ],
+      "publishedAt": "2026-11-16T21:46:35+00:00",
+      "updatedAt": "2026-11-16T21:46:35+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "8e360513ae6ef2dd8e27d1c1f40c71362d3da69acd4ce5f36606d8e283cc60f1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +333,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T07:30:10+00:00",
-      "updatedAt": "2026-11-17T07:30:10+00:00",
+      "publishedAt": "2026-11-17T09:15:06+00:00",
+      "updatedAt": "2026-11-17T09:15:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -352,32 +351,28 @@
       "context": null
     },
     {
-      "id": "rss-c5d318fdaaf4444769",
+      "id": "rss-bd7a289e487eda6076",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Le Nasdaq rafraîchit l'ambiance",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.42%",
       "bullets": [
-        "A noter sur le front macroéconomique lundi, la très légère hausse mensuelle de la production industrielle en Zone Euro (0,2%), contre un consensus à +0,3%.",
-        "À l’inverse, la foncière Carmila a cédé 2% après avoir annoncé le rachat de l’italien IGD dans le cadre d’une opération rémunérée en actions.",
-        "De l'autre côté de l'Atlantique, les principaux indices sur actions ont terminé la séance de lundi dans le rouge, à l'image du Dow Jones (-1,41%) et du Nasdaq Composite (-2,49%)."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-042-1173892.html"
       ],
-      "publishedAt": "2026-11-17T07:30:04+00:00",
-      "updatedAt": "2026-11-17T07:30:04+00:00",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "updatedAt": "2026-11-17T08:00:00+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-le-nasdaq-rafraichit-l-ambiance-1173879.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-042-1173892.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "a102f4d6f6ee9edaa8bf212730060af5f074d3a93be6da3555880faff7626e75",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "d705ba00ac535755e11894bde3a109ab59899b9f1d21c4bf37f4a03498aed450",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ce717bd9d2b9de31c7",
@@ -420,7 +415,7 @@
       ],
       "publishedAt": "2026-11-16T09:05:47+00:00",
       "updatedAt": "2026-11-16T09:05:47+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -436,6 +431,58 @@
       "context": null
     },
     {
+      "id": "rss-03ed5d20dd96435243",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
+      "bullets": [
+        "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
+      ],
+      "publishedAt": "2026-11-17T05:58:02+00:00",
+      "updatedAt": "2026-11-17T05:58:02+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "96e7eda9a60b54eec9baba520d1b2bf645acc3700cc7e327ef75f5ec700b01c6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c218c8228e43d22a5d",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Le pont de Crimée ciblé pour la deuxième nuit consécutive par l'Ukraine, des frappes russes sur deux ponts de Kiev",
+      "bullets": [
+        "L'ouvrage reliant le continent à la péninsule annexée a été ciblé pour la deuxième fois consécutive, a annoncé le gouverneur régional installé par Moscou, Sergueï Aksionov, mardi 17 novembre.",
+        "La circulation a été suspendue après la frappe.",
+        "Aucune victime n'est à déplorer, selon un premier bilan du ministère des Transports.\"Les 16 et 17 novembre, les forces armées ukrainiennes ont attaqué le pont de Crimée à l'aide de drones, ce qui a causé des dommages à la structure\", écrit le Comité d'enquête fédéral."
+      ],
+      "publishedAt": "2026-11-17T08:50:16+00:00",
+      "updatedAt": "2026-11-17T08:50:16+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "27539a6a0cae0e3a958e07436b629ce14e72b5a8978753db88d46e722e6da1ef",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "context": null
+    },
+    {
       "id": "rss-23c197df89af70747a",
       "revision": 1,
       "category": "world",
@@ -447,7 +494,7 @@
       ],
       "publishedAt": "2026-11-15T20:15:00+00:00",
       "updatedAt": "2026-11-15T20:15:00+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -458,6 +505,30 @@
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
       "summaryInput": "500964e396d64cfad4abdc5f3722558ebbc4047e67ed2ae207e80054db09fed9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bf88a2b4c287d7996b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Chine et le Canada s’accordent sur des nouvelles réductions des droits de douane",
+      "bullets": [
+        "Les allégements consentis par la Chine portent sur environ 256 millions d’euros d’exportations de denrées, en échange d’une prolongation de deux ans des mesures d’exonération applicables à certains produits chinois."
+      ],
+      "publishedAt": "2026-11-17T07:39:46+00:00",
+      "updatedAt": "2026-11-17T07:39:46+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/la-chine-et-le-canada-s-accordent-sur-des-nouvelles-reductions-des-droits-de-douane_6812924_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "rss-excerpt",
+      "summaryInput": "caae3774e16364992e5d58913db29bc23c36781161e934bf78a7f1cfb7bfacc5",
       "detailLevel": "preview"
     },
     {
@@ -473,7 +544,7 @@
       ],
       "publishedAt": "2026-11-16T20:11:46+00:00",
       "updatedAt": "2026-11-16T20:11:46+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -485,7 +556,7 @@
       "provenance": "article-extract",
       "summaryInput": "05e69f5dcfc15b3cab6057e55c68118d46f3ad1bccd249f5cada9b2331fcedd5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T21:00:08.805701+00:00",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
       "context": null
     },
     {
@@ -541,30 +612,6 @@
       "context": null
     },
     {
-      "id": "rss-91bd13788b361aa8a1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Nvidia : les Etats-Unis cherchent à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
-      "bullets": [
-        "Les règles mises en place récemment par le gouvernement Trump instaurent notamment une nouvelle autorisation nécessaire pour l’exportation de semi-conducteurs américains en Indonésie, en Malaisie, en Thaïlande, au Brésil et à Singapour."
-      ],
-      "publishedAt": "2026-11-16T18:30:08+00:00",
-      "updatedAt": "2026-11-16T18:30:08+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7b54f64349062c6b84165dfdfb47e99a10a8810ebb79cfbebbbddfb60f431719",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-2e24ec5670ebf25a7a",
       "revision": 1,
       "category": "world",
@@ -617,32 +664,29 @@
       "context": null
     },
     {
-      "id": "rss-c218c8228e43d22a5d",
+      "id": "rss-b44617cc20476dd980",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Deux ponts de Kiev sont fermés à la circulation après des attaques russes, l'Ukraine cible la Crimée",
+      "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
       "bullets": [
-        "La tension ne retombe pas sur le front.",
-        "La Russie a frappé deux ponts majeurs à Kiev, mardi 17 novembre.",
-        "Plus de 1 100 drones ukrainiens abattusPeu avant les frappes russes, l'Ukraine a déclaré mardi avoir ciblé pour le deuxième jour consécutif le pont de Crimée reliant la Russie à cette région annexée en 2014 par Moscou."
+        "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux.",
+        "Avec ses « clients les plus sensibles », il a perduré malgré un désengagement à partir de 2014."
       ],
-      "publishedAt": "2026-11-17T06:45:47+00:00",
-      "updatedAt": "2026-11-17T06:45:47+00:00",
+      "publishedAt": "2026-11-17T06:00:15+00:00",
+      "updatedAt": "2026-11-17T06:00:15+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "f563bdb5188a69abd3166713989a117b0a3843f4e110ec190e93b9bb4561e7f9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T07:36:27.225999+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "2ae63b54243f02120fb6bcd9099b53c5e20edd7af5a522145fa788926fb93598",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-06e2c91dab485f4690",
@@ -697,60 +741,11 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-73c9c16a8efca956d3",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
-      "bullets": [
-        "La décision d’imputer à l’Iran la cyberattaque de près de 700 grandes surfaces dans la nuit du 11 au 12 octobre s’inscrit dans une stratégie précise de Paris.",
-        "La désignation publique et l’ouverture d’une enquête judiciaire sont en effet un préalable nécessaire à d’éventuelles contre-mesures."
-      ],
-      "publishedAt": "2026-11-16T17:52:41+00:00",
-      "updatedAt": "2026-11-16T17:52:41+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "185b4a208ac6b1cdb2580465439c2a870a520bb9636d94a269ea7d63f0e74154",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a5d0ddcb2022515def",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Trump, Gaza, présidentielle 2024 : dans un livre sur la défensive, Joe Biden sort du silence",
-      "bullets": [
-        "L’ancien président démocrate défend ses quatre ans de mandat et continue d’affirmer qu’il aurait été apte à en briguer un second."
-      ],
-      "publishedAt": "2026-11-17T05:30:45+00:00",
-      "updatedAt": "2026-11-17T05:30:45+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/trump-gaza-presidentielle-2024-dans-un-livre-sur-la-defensive-joe-biden-sort-du-silence-20261117",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "382e3d2cd3a3d96e8fa96143ab7098b64d68f2abd077b7288c59472f19cc31ad",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-293883f9ff98d558f1",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Infractions routières : les recettes des amendes redémarrent après des années de stagnation",
+      "title": "Infractions routières : les recettes des amendes augmentent après des années de stagnation",
       "bullets": [
         "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières.",
         "Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars."
@@ -767,7 +762,7 @@
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "d2ffb72480f4c43e560042beb68466db9131648933ebc67b44d541ea68f50c77",
+      "summaryInput": "4ef27de5a8eddfd93f95d30b92ba2ab5594470264b58bc1eb3c70a3a25c0a132",
       "detailLevel": "preview"
     },
     {
@@ -819,52 +814,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3a51803c04afd64743",
+      "id": "rss-36ea20e25d51e6ccb9",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
+      "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins, demandent leur interdiction",
       "bullets": [
-        "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces.",
-        "Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050."
+        "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale.",
+        "Ils mettent en évidence de nombreux troubles gynécologiques."
       ],
-      "publishedAt": "2026-11-16T09:47:06+00:00",
-      "updatedAt": "2026-11-16T09:47:06+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-17T04:42:21+00:00",
+      "updatedAt": "2026-11-17T04:42:21+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "1c5e9f7ec8356b38632ef977d730748507957f5bd9bc348a53a50c07bfe9a596",
+      "summaryInput": "9f01945a6c90c1d84496d182b1031a70043b7934c1a44d3fe622c1271282fb2d",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e5c9bc07a6d11b29a",
+      "id": "rss-e2a9832f4071f09cca",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+      "title": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
       "bullets": [
-        "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV."
+        "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025.",
+        "Habitués des tribunes du Stade brestois, les prévenus nient la motivation politique de l’agression, qui « ne fait aucun doute », selon la procureure."
       ],
-      "publishedAt": "2026-11-15T05:15:04+00:00",
-      "updatedAt": "2026-11-15T05:15:04+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-17T07:39:25+00:00",
+      "updatedAt": "2026-11-17T07:39:25+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "96e09552bc1157f6ad50bd7be446b23933b9a5da07507fcdc320c7fa5c0d5689",
+      "summaryInput": "96d56b8fb847d664a99b9b0dc43f8247c4e633a7c7250f3bbbb77e48bd8b52ac",
       "detailLevel": "preview"
     },
     {
@@ -1094,6 +1090,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0698d9ab42b9b20b5f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
+      "bullets": [
+        "\"Ce n'est pas un dîner, c'est une présentation de programme\" électoral, explique mardi 17 novembre sur franceinfo, Manuel Bompard, coordinateur de la France insoumise alors que le leader de LFI et candidat à la présidentielle, Jean-Luc Mélenchon, dont Bernard Arnault, à la tête de LVMH, et Patrick Pouyanné, patron de TotalEnergies.",
+        "\"Nous sommes constants sur notre programme\", indique l'insoumis, \"donc Jean-Luc Mélenchon présentera son programme\" qui prévoit de \"mettre davantage à contribution les grandes entreprises et les grands groupes\".",
+        "Le député des Bouches-du-Rhône précise également qu'il y aura \"peut-être aussi des points d'accords\"."
+      ],
+      "publishedAt": "2026-11-17T08:45:36+00:00",
+      "updatedAt": "2026-11-17T08:45:36+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-17",
+      "provenance": "article-extract",
+      "summaryInput": "97f10dedf8cca0b0ae61637bbe43871456c54ff26ee1ff38636f7c8d55672a04",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T09:16:35.082991+00:00",
+      "context": null
+    },
+    {
       "id": "rss-b648dd62706abe4e6c",
       "revision": 1,
       "category": "france",
@@ -1117,34 +1141,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-76ad0eab6b19889592",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
-      "bullets": [
-        "Ne pourront partir à 60 ans que ceux qui ont commencé à travailler avant 20 ans et validé 40 annuités.",
-        "Les proches de Marine Le Pen promettent une réforme \"juste\", qui permet que \"tout le monde y trouve son compte\".",
-        "Son coût : une quinzaine de milliards d'euros \"compensés par une augmentation globale du volume de travail\", explique un député du RN."
-      ],
-      "publishedAt": "2026-11-17T05:35:04+00:00",
-      "updatedAt": "2026-11-17T05:35:04+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-17",
-      "provenance": "article-extract",
-      "summaryInput": "f0aad1b2757e25f3dbc34ee3d373488527d84e4667c8d87bdaa906b7ef3136d6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T06:13:11.976859+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1158,7 +1154,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1182,7 +1178,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1212,7 +1208,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1224,7 +1220,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1248,7 +1244,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
