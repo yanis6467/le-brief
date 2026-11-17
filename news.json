@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-17",
-  "preparedAt": "2026-11-17T02:59:44.306020+00:00",
+  "preparedAt": "2026-11-17T04:06:46.343897+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -297,7 +297,7 @@
       "provenance": "article-extract",
       "summaryInput": "737a6ca2be834f072c68bc3273b23625ac5a53813c4e25eecae8fbf50190825b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
       "context": null
     },
     {
@@ -339,8 +339,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-17T02:55:05+00:00",
-      "updatedAt": "2026-11-17T02:55:05+00:00",
+      "publishedAt": "2026-11-17T03:59:46+00:00",
+      "updatedAt": "2026-11-17T03:59:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -433,7 +433,7 @@
       "provenance": "article-extract",
       "summaryInput": "2f4a06c3acf6380cd7afeac35078843ce00c9e727218bf007e61416a10565c9c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
       "context": null
     },
     {
@@ -466,14 +466,14 @@
     },
     {
       "id": "rss-ccb82eafc76b79a7b5",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
       "bullets": [
+        "Emmanuel Macron accuse Marine Le Pen de fragiliser le soutien français à Kiev.",
         "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
-        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand",
-        "Maileva, une filiale du groupe La Poste victime d'un vol de données touchant 22 millions de personnes"
+        "Cet adolescent de 15 ans est mort dans un rodéo urbain à Clermont-Ferrand"
       ],
       "publishedAt": "2026-11-16T12:14:16+00:00",
       "updatedAt": "2026-11-16T12:14:16+00:00",
@@ -489,7 +489,7 @@
       "provenance": "article-extract",
       "summaryInput": "593682b7ba67822a77e8193676bf086acc3a61689336303b9635b137329915df",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
       "context": null
     },
     {
@@ -741,29 +741,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-eae2b41f8709840013",
-      "revision": 2,
+      "id": "rss-9ff791ef114b7a2278",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Cyberattaque contre des réfrigérateurs de supermarché : le jour où la France a dénoncé l’Iran",
+      "title": "L'UE annonce de nouvelles sanctions contre plus de 100 entités et personnes \"pour mieux restreindre la capacité de la Russie à financer sa guerre\" en Ukraine",
       "bullets": [
-        "Dans la nuit du 11 au 12 octobre, une attaque informatique attribuée à la République islamique a visé les systèmes de réfrigération de 700 supermarchés.",
-        "Si Paris n’est guère coutumier de la stratégie du « name and shame », la dénonciation publique, la gravité de l’agression a justifié un changement…"
+        "Une \"réaction aux attaques indiscriminées de la Russie contre l'Ukraine\".",
+        "Dans un communiqué, lundi 16 novembre, le Conseil de l'Union européenne annonce \"des mesures restrictives supplémentaires à l'encontre de 12 personnes et de 101 entités\", pour leur \"rôle dans des secteurs économiques constituant une source de revenus substantielle pour la guerre d'agression menée par la Russie\" en Ukraine.",
+        "L'ensemble des personnes et entités visées \"font l'objet d'un gel de leurs avoirs\", et les individus sanctionnés ont l'interdiction d'entrée au sein de l'UE."
       ],
-      "publishedAt": "2026-11-16T15:50:19+00:00",
-      "updatedAt": "2026-11-16T15:50:19+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-16T12:31:24+00:00",
+      "updatedAt": "2026-11-16T12:31:24+00:00",
+      "importance": 66,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/cyberattaque-contre-des-refrigerateurs-de-supermarches-le-jour-ou-la-france-a-denonce-l-iran_6812161_3210.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ue-annonce-de-nouvelles-sanctions-contre-plus-de-100-entites-et-personnes-pour-mieux-restreindre-la-capacite-de-la-russie-a-financer-sa-guerre-en-ukraine_8284817.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-17",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4bcfe8dcd4835b29d4e6bfeec823891bc1c14995e356cd0bcbb89a57072e0d40",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "6973b6f7c162fd6e3d4743d4a6b88f49b54cf0903f3ed6e9f83f137bb396a433",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
+      "context": null
     },
     {
       "id": "rss-f726a6cafda6038443",
@@ -898,7 +901,7 @@
       ],
       "publishedAt": "2026-11-15T15:30:19+00:00",
       "updatedAt": "2026-11-15T15:30:19+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -912,28 +915,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1151a307abf7b3c1cc",
+      "id": "rss-6040cc7002bcb63fc9",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Nos albums coups de cœur : Dominique A, Angèle, Fontaines D.C., Pet Shop Boys…",
+      "title": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
       "bullets": [
-        "Le lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique.",
-        "Aujourd’hui, une sélection de disques parus en octobre pour ne pas voir passer l’hiver."
+        "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran.",
+        "Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche."
       ],
-      "publishedAt": "2026-11-16T04:45:08+00:00",
-      "updatedAt": "2026-11-16T04:45:08+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-17T03:30:05+00:00",
+      "updatedAt": "2026-11-17T03:30:05+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/musiques/article/2026/11/16/nos-albums-coups-de-c-ur-dominique-a-angele-fontaines-d-c-pet-shop-boys_6811369_1654986.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-17",
       "provenance": "rss-excerpt",
-      "summaryInput": "19a0d287e4765a3386de9c2a01b1166cafd2aadff6ee088649d40c6a96193382",
+      "summaryInput": "7b670e86102f21c253b119ccd12aae875ec1ad8b11350aa88aa51d03cdf37626",
       "detailLevel": "preview"
     },
     {
@@ -961,7 +964,7 @@
       "provenance": "article-extract",
       "summaryInput": "d3636462785690c695235791382712e494b8c2b6dd8037b5ff03443e46923f7b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-16T15:20:01.671071+00:00",
+      "enrichedAt": "2026-11-17T04:06:46.343897+00:00",
       "context": null
     },
     {
@@ -975,7 +978,7 @@
       ],
       "publishedAt": "2026-11-14T04:00:06+00:00",
       "updatedAt": "2026-11-14T04:00:06+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1102,7 +1105,7 @@
       ],
       "publishedAt": "2026-11-16T16:00:00+00:00",
       "updatedAt": "2026-11-16T16:00:00+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1243,13 +1246,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
