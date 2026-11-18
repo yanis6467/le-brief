@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T01:30:12.390466+00:00",
+  "preparedAt": "2026-11-18T03:02:20.858749+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,31 +33,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
       "context": null
-    },
-    {
-      "id": "rss-32a41cec0c9c31e9ff",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
-      "bullets": [
-        "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone.",
-        "Reste aux autres pays de la zone euro à accepter ces nominations."
-      ],
-      "publishedAt": "2026-11-17T17:37:13+00:00",
-      "updatedAt": "2026-11-17T17:37:13+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-cb5a247ab3faf85a76",
@@ -121,7 +96,7 @@
       ],
       "publishedAt": "2026-11-17T14:08:19+00:00",
       "updatedAt": "2026-11-17T14:08:19+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -324,6 +299,31 @@
       "context": null
     },
     {
+      "id": "rss-ee8fe3eef4fa1b7d88",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "M6 mise sur Cyril Hanouna pour s’imposer dans la campagne présidentielle",
+      "bullets": [
+        "DÉCRYPTAGE - À cinq mois du premier tour de l’élection présidentielle, le groupe planche sur un projet d’émission où son animateur vedette recevrait les principaux candidats.",
+        "Un chantier complexe."
+      ],
+      "publishedAt": "2026-11-17T20:43:22+00:00",
+      "updatedAt": "2026-11-17T20:43:22+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/medias/il-est-la-carte-maitresse-de-la-chaine-m6-mise-sur-cyril-hanouna-pour-s-imposer-dans-la-campagne-presidentielle-20261117",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e9ec9be707bc4e198e60b7e6ab6756892cba9a57cf5158901f685444e39b9165",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T01:25:24+00:00",
-      "updatedAt": "2026-11-18T01:25:24+00:00",
+      "publishedAt": "2026-11-18T03:02:15+00:00",
+      "updatedAt": "2026-11-18T03:02:15+00:00",
       "importance": 69,
       "sources": [
         {
@@ -543,7 +543,7 @@
       "id": "rss-4c7f6287fee3a1d857",
       "revision": 2,
       "category": "world",
-      "topic": "Santé",
+      "topic": "International",
       "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
       "bullets": [
         "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
@@ -566,6 +566,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-17T19:22:59.105735+00:00",
       "context": null
+    },
+    {
+      "id": "rss-32a41cec0c9c31e9ff",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
+      "bullets": [
+        "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone.",
+        "Reste aux autres pays de la zone euro à accepter ces nominations."
+      ],
+      "publishedAt": "2026-11-17T17:37:13+00:00",
+      "updatedAt": "2026-11-17T17:37:13+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-23c197df89af70747a",
@@ -604,7 +629,7 @@
       ],
       "publishedAt": "2026-11-17T15:00:15+00:00",
       "updatedAt": "2026-11-17T15:00:15+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -721,6 +746,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d43230500afafef3e5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Seize pêcheurs équatoriens poursuivent les Etats-Unis en justice pour le bombardement de leur embarcation",
+      "bullets": [
+        "L’administration Trump nie toute responsabilité dans les crimes dénoncés et défend sa campagne de bombardements en Amérique latine contre des embarcations présumées chargées de drogues.",
+        "Ces opérations ont fait plus de 200 morts dans le Pacifique et dans les Caraïbes depuis la fin de l’année 2025."
+      ],
+      "publishedAt": "2026-11-18T02:31:51+00:00",
+      "updatedAt": "2026-11-18T02:31:51+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/seize-pecheurs-equatoriens-poursuivent-les-etats-unis-en-justice-pour-le-bombardement-de-leur-embarcation_6813058_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "11f92fdb3c903b36cb713e0d9a2801b60235a79c5ad2325d7f51c24065dca5e2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fb87cc86ff945cf6c3",
       "revision": 1,
       "category": "world",
@@ -773,62 +823,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-be7dc5aa36a74e1ca0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Il ne reste plus qu'une seule arche\" : l'Ukraine et la Russie se livrent une guerre des ponts, le symbole de l'annexion russe de la Crimée touché par Kiev",
-      "bullets": [
-        "Des images, tournées après la frappe par des drones ukrainiens, permettent de constater les dégâts.",
-        "Inauguré par le président russe en personne en 2018, il permet le passage de trains et de voitures et assure un soutien logistique à l'armée.",
-        "Les attaques, menées contre les ponts de Kiev par la Russie s'inscrivent dans une stratégie plus large qui vise à détruire une série d'infrastructures clés en Ukraine avant l'hiver."
-      ],
-      "publishedAt": "2026-11-17T19:45:52+00:00",
-      "updatedAt": "2026-11-17T19:45:52+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-ne-reste-plus-qu-une-seule-arche-l-ukraine-et-la-russie-se-livrent-une-guerre-des-ponts-le-symbole-de-l-annexion-russe-de-la-crimee-touche-par-kiev_8287085.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "6341380ff0d885473461727fa079153e06fd3ab96e6a5334a2a25fa0e4a60084",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T21:03:44.688368+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-539b47fc70a4c22f55",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La France participe-t-elle \"directement\" à la guerre en Ukraine, comme l'affirme le Kremlin ?",
-      "bullets": [
-        "Sergueï Lavrov, le ministre russe des Affaires étrangères, a accusé la France de \"participation directe à la guerre\" en Ukraine, après les révélations de RFI, lundi 16 novembre, faisant état de la présence secrète de militaires français dans le pays.",
-        "Depuis 2022, la Russie parle régulièrement du conflit en Ukraine comme d'une guerre par procuration qui serait menée par les Occidentaux.",
-        "Un seul État tiers intervient directement dans ce conflit, c'est la Corée du Nord."
-      ],
-      "publishedAt": "2026-11-17T19:21:49+00:00",
-      "updatedAt": "2026-11-17T19:21:49+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/vrai-ou-fake/la-france-participe-t-elle-directement-a-la-guerre-en-ukraine-comme-l-affirme-le-kremlin_8287025.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "3e92734bfb64307f337fef4ef0076f59b024c561f429ce6c1c90fab58e4439ca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T19:22:59.105735+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d961682d5f2993c7db",
       "revision": 2,
       "category": "france",
@@ -853,28 +847,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4d9545c829161011fc",
+      "id": "rss-c070ffe904f80abdd8",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "« Pour les femmes, les écarts de salaire ne sont pas seulement une perte d’argent, ils se traduisent aussi par une moindre liberté »",
+      "title": "Loi « relance du logement » : l’Assemblée nationale valide le lancement du programme ANRU 3 pour la période 2026-2040",
       "bullets": [
-        "En dépit des engagements d’Emmanuel Macron, les écarts de salaire entre les genres persistent, souligne Marie Charrel, journaliste au « Monde », dans sa chronique.",
-        "Depuis dix ans, ils ont même coûté 1 000 milliards d’euros à la France, selon les calculs de la newsletter « Les Glorieuses »."
+        "Certains députés ont néanmoins jugé insuffisant le financement de 5 milliards d’euros prévu pour démarrer ce nouveau programme de financement de projets de rénovation urbaine, qui vise notamment 150 quartiers prioritaires."
       ],
-      "publishedAt": "2026-11-17T16:00:02+00:00",
-      "updatedAt": "2026-11-17T16:00:02+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-18T02:16:55+00:00",
+      "updatedAt": "2026-11-18T02:16:55+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/17/pour-les-femmes-les-ecarts-de-salaire-ne-sont-pas-seulement-une-perte-d-argent-ils-se-traduisent-aussi-par-une-moindre-liberte_6813003_3232.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/loi-relance-du-logement-l-assemblee-nationale-valide-le-lancement-du-programme-anru-3-pour-la-periode-2026-2040_6813057_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "bee0a89ef6865294c78beab11096bc65e1e7b160bc1b00ecc74e8c96fb753525",
+      "summaryInput": "06abc5714e8b7f2c1c70f83a024e4df118fa76a67e81f7613bf3f6ee37b1ea70",
       "detailLevel": "preview"
     },
     {
@@ -966,7 +959,7 @@
       ],
       "publishedAt": "2026-11-17T13:51:24+00:00",
       "updatedAt": "2026-11-17T13:51:24+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1041,7 +1034,7 @@
       ],
       "publishedAt": "2026-11-17T14:20:00+00:00",
       "updatedAt": "2026-11-17T14:20:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1129,6 +1122,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0f53635a5b50c3daf3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Fonction publique : malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question des salaires",
+      "bullets": [
+        "En dépit du geste de l’exécutif en faveur des agents publics les moins bien payés, le tassement des grilles de rémunération persiste dans la fonction publique. Le gouvernement a promis d’engager des discussions en vue d’une « réforme structurelle ». Un chantier maintes fois évoqué, mais qui n’a jamais abouti."
+      ],
+      "publishedAt": "2026-11-17T17:02:20+00:00",
+      "updatedAt": "2026-11-17T17:02:20+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/17/fonction-publique-malgre-les-annonces-du-gouvernement-les-fonctionnaires-attendent-des-reponses-structurelles-sur-la-question-salariale_6813014_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8c35f47be20d7fb4b396c1d30b2046289eda891df552278f4d11f7f92a41fda8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fb937db43d382ef13f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France ; revivez la journée de mobilisation",
+      "bullets": [
+        "A Paris, le cortège qui a relié la place de la Nation à la place d’Italie a réuni 28 000 personnes, mardi, selon la Préfecture de police, et 175 000, selon la CGT."
+      ],
+      "publishedAt": "2026-11-17T16:28:59+00:00",
+      "updatedAt": "2026-11-17T16:28:59+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "23cfbe33791cfdd319b47ec3af7163f9fcba11d0e1b3057edbce4ec7d276bb5b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-1336fbb3752e30a1f4",
       "revision": 1,
       "category": "france",
@@ -1176,55 +1217,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "60c885a7e0daca09a174246952736c8f7bc0b0d79fc1313e0e755725a9cecc68",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b648dd62706abe4e6c",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Antisémitisme : 82% des Français juifs déclarent avoir été victimes d’un acte antisémite au cours de leur vie, selon un sondage",
-      "bullets": [
-        "À quelques mois de la présidentielle, 58% des Français estiment que Jean-Luc Mélenchon contribue à la montée de l’antisémitisme de même que 47% pour Marine Le Pen, selon une enquête Ifop.",
-        "Parmi les Français juifs interrogés, ces proportions s’établissent respectivement à 86% et 36%."
-      ],
-      "publishedAt": "2026-11-17T10:33:00+00:00",
-      "updatedAt": "2026-11-17T10:33:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/antisemitisme-82-des-francais-juifs-declarent-avoir-ete-victimes-d-un-acte-antisemite-au-cours-de-leur-vie-20261116",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dc3f0517ca75502fa2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
-      "bullets": [
-        "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront engagées à l’encontre des fauteurs de troubles »."
-      ],
-      "publishedAt": "2026-11-12T10:53:16+00:00",
-      "updatedAt": "2026-11-12T10:53:16+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0b15d30706ec72925d2c4cc2f9103335f4abe2adb9439ae46e955259e5d776c2",
       "detailLevel": "preview"
     }
   ],
