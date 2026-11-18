@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T22:01:47.647303+00:00",
+  "edition": "2026-11-19",
+  "preparedAt": "2026-11-18T23:03:06.925522+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -146,7 +146,7 @@
       ],
       "publishedAt": "2026-11-18T10:30:03+00:00",
       "updatedAt": "2026-11-18T10:30:03+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -183,6 +183,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "290f2f4b3f06b40908bb07b4d0d183abc7029e834425517ea7567df9444784ed",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1826ad3af22bfd0690",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Pour relancer les trains de nuit, l'Etat va louer des locomotives neuves et rénover les vieux Corail de la SNCF",
+      "bullets": [
+        "Pour les voitures, les propositions reçues après l'appel d'offres lancé en 2025 par l'Etat \"ne permettaient pas de réaliser le projet dans un cadre satisfaisant sur le plan financier\", a poursuivi Philippe Tabarot, évoquant \"des incertitudes sur le plan industriel\" concernant les dates possibles de livraison.",
+        "Fréquentation en hausse de 30% en trois ans\"Il ne s'agira pas d'une simple modernisation, mais vraiment d'une véritable remise à neuf; l'intérieur des voitures sera intégralement repensé avec de nouveaux aménagements\", a affirmé le ministre, qui entend \"disposer des premiers trains de nuit modernisés à partir de 2032\"."
+      ],
+      "publishedAt": "2026-11-18T22:17:15+00:00",
+      "updatedAt": "2026-11-18T22:17:15+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/transports/pour-relancer-les-trains-de-nuit-l-etat-va-louer-des-locomotives-neuves-et-renover-les-vieux-corail-de-la-sncf_8289017.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "b8ea275672785976ad2f5513b4bf6dc06a7445a2228b4c16cb74297915d86cd7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
+      "context": null
     },
     {
       "id": "rss-3a4ecef0e3da8373ac",
@@ -293,34 +320,6 @@
       "context": null
     },
     {
-      "id": "rss-09c19b0b8bac2ebc0d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques",
-      "bullets": [
-        "Les députés ont voté, mardi 17 novembre, un amendement du Rassemblement national qui supprime l'interdiction de louer les logements les moins performants sur le plan énergétique.",
-        "\"À la veille de la Journée contre la précarité énergétique, c'est un bras d'honneur invraisemblable aux locataires en précarité énergétique\", a fustigé Manuel Domergue, directeur des études de la Fondation pour le logement, mardi dans une publication sur LinkedIn.",
-        "Le vote solennel est prévu le 24 novembre dans l'hémicycle, avant d'atterrir en commission mixte paritaire entre députés et sénateurs, qui devront s'accorder sur sa version finale."
-      ],
-      "publishedAt": "2026-11-18T15:29:12+00:00",
-      "updatedAt": "2026-11-18T15:29:12+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "86af48ed54436f7327cda53435a22694f2145a708cb92867f9e16d1b64896deb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T16:14:34.715595+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5a69065af59af56a07",
       "revision": 1,
       "category": "markets",
@@ -356,8 +355,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T21:58:49+00:00",
-      "updatedAt": "2026-11-18T21:58:49+00:00",
+      "publishedAt": "2026-11-18T23:02:16+00:00",
+      "updatedAt": "2026-11-18T23:02:16+00:00",
       "importance": 69,
       "sources": [
         {
@@ -466,7 +465,7 @@
       ],
       "publishedAt": "2026-11-17T10:26:28+00:00",
       "updatedAt": "2026-11-17T10:26:28+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -574,8 +573,8 @@
       "bullets": [
         "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain."
       ],
-      "publishedAt": "2026-11-18T20:12:23+00:00",
-      "updatedAt": "2026-11-18T20:12:23+00:00",
+      "publishedAt": "2026-11-18T20:12:20+00:00",
+      "updatedAt": "2026-11-18T20:12:20+00:00",
       "importance": 79,
       "sources": [
         {
@@ -668,34 +667,6 @@
       "summaryInput": "8e594c1e4316d45cde76aa1b6da741a93a057350ebbc92eb1ebd4ba71cdbee08",
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ce9701886a6a257e9d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
-      "bullets": [
-        "Cité par l'agence de presse officielle iranienne Irna, le gouverneur adjoint de la province d'Hormozgan, Ahmad Nafisi, a fait état d'une \"attaque américaine contre des sites sur l'île de Qeshm\".",
-        "Deux pays du Golfe bombardés par l'IranDeux pays du Golfe, Bahreïn et le Koweït, ont affirmé mercredi matin avoir contré des attaques aériennes sur leur territoire.",
-        "Central Command (@CENTCOM) November 17, 2026\"Le porte-avions opère actuellement dans la zone de responsabilité du Centcom\", le commandement américain pour le Moyen-Orient, \"dans le cadre d'un déploiement prévu\", a écrit ce commandement de l'armée sur son compte X."
-      ],
-      "publishedAt": "2026-11-18T10:10:17+00:00",
-      "updatedAt": "2026-11-18T10:10:17+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "aa17bf09b87f05d9e2d3347d19eac8ae3985b316d7560d37aaefe9bf25b39b6a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
       "context": null
     },
     {
@@ -850,6 +821,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-522d375b4d632ecf53",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«J’ignore si un président prendrait cette décision» : le thriller nucléaire Jupiter est-il réaliste ?",
+      "bullets": [
+        "ENTRETIEN - Chercheur associé à la FRS sur la dissuasion nucléaire, Étienne Marcuz décrypte pour Le Figaro le vrai du faux de ce film qui met en scène la menace d’une apocalypse nucléaire dont la France est actrice."
+      ],
+      "publishedAt": "2026-11-18T08:16:03+00:00",
+      "updatedAt": "2026-11-18T08:16:03+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/j-ignore-si-un-president-prendrait-cette-decision-le-thriller-nucleaire-jupiter-est-il-realiste-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3b293a83ae2f1bc6a24343308fb6f279bff84e1abe5f260ce2ffc8df69498d3b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4ba89deaf38e592602",
       "revision": 1,
       "category": "france",
@@ -938,7 +933,7 @@
       ],
       "publishedAt": "2026-11-18T10:11:28+00:00",
       "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -950,7 +945,7 @@
       "provenance": "article-extract",
       "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
+      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
       "context": null
     },
     {
@@ -1162,7 +1157,7 @@
       ],
       "publishedAt": "2026-11-18T10:46:57+00:00",
       "updatedAt": "2026-11-18T10:46:57+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1260,7 +1255,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1284,7 +1279,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
