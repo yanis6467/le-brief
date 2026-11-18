@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T04:08:38.614050+00:00",
+  "preparedAt": "2026-11-18T05:15:41.223702+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -31,7 +31,7 @@
       "provenance": "article-extract",
       "summaryInput": "0f80dd73136850e118afd1c75319d472ef761f9a8c90413ea55267c6e2cf101c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
+      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
       "context": null
     },
     {
@@ -57,31 +57,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cb5a247ab3faf85a76",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
-      "bullets": [
-        "En 2026, la croissance de l’Union européenne a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure.",
-        "Quant à l’inflation, elle va continuer à grever le pouvoir d’achat dans toute l’UE en 2027."
-      ],
-      "publishedAt": "2026-11-17T10:00:04+00:00",
-      "updatedAt": "2026-11-17T10:00:04+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4477a7bf423814f70071996e08248f9e52979a21723a8bb03a2347e470d873be",
       "detailLevel": "preview"
     },
     {
@@ -324,6 +299,31 @@
       "context": null
     },
     {
+      "id": "rss-ee8fe3eef4fa1b7d88",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "M6 mise sur Cyril Hanouna pour s’imposer dans la campagne présidentielle",
+      "bullets": [
+        "DÉCRYPTAGE - À cinq mois du premier tour de l’élection présidentielle, le groupe planche sur un projet d’émission où son animateur vedette recevrait les principaux candidats.",
+        "Un chantier complexe."
+      ],
+      "publishedAt": "2026-11-17T20:43:22+00:00",
+      "updatedAt": "2026-11-17T20:43:22+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/medias/il-est-la-carte-maitresse-de-la-chaine-m6-mise-sur-cyril-hanouna-pour-s-imposer-dans-la-campagne-presidentielle-20261117",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e9ec9be707bc4e198e60b7e6ab6756892cba9a57cf5158901f685444e39b9165",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,9 +334,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T04:02:03+00:00",
-      "updatedAt": "2026-11-18T04:02:03+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-18T05:15:42+00:00",
+      "updatedAt": "2026-11-18T05:15:42+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -364,7 +364,7 @@
       ],
       "publishedAt": "2026-11-17T16:40:11+00:00",
       "updatedAt": "2026-11-17T16:40:11+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -402,6 +402,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "004c30c5c5584c707e32bc8167490dcf673620c63d0a7a67082b87092f60e794",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1d1879df406add44ab",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "«Les opérations d'une vie»... Après SpaceX, l'introduction en Bourse d'Anthropic va provoquer des milliards d'achats contraints",
+      "bullets": [
+        "Le créateur du chatbot Claude prévoit de lever jusqu’à 64,4 milliards de dollars en vendant 825 millions d’actions à un prix compris entre 70 et 78 dollars l’unité, ce qui valoriserait l’entreprise à 1.400 milliards de dollars.",
+        "Mais, à l’instar de SpaceX, Anthropic devrait rejoindre au moins six grands indices, dont le FTSE USA, le S&P Total Market et le Nasdaq 100, dans les cinq à quinze jours suivant son introduction.",
+        "Anthropic suit une stratégie comparable puisque seuls 6% environ de son capital seront proposés lors de l’introduction en Bourse."
+      ],
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "updatedAt": "2026-11-18T05:00:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/les-operations-d-une-vie-apres-spacex-l-introduction-en-bourse-d-anthropic-va-provoquer-des-milliards-d-achats-contraints-1173838.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
+      "context": null
     },
     {
       "id": "rss-031fb8e36d48a17d13",
@@ -456,7 +484,7 @@
       "provenance": "article-extract",
       "summaryInput": "2f4a06c3acf6380cd7afeac35078843ce00c9e727218bf007e61416a10565c9c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T16:09:17.984495+00:00",
+      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
       "context": null
     },
     {
@@ -840,7 +868,7 @@
       ],
       "publishedAt": "2026-11-17T16:58:45+00:00",
       "updatedAt": "2026-11-17T16:58:45+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -914,7 +942,7 @@
       ],
       "publishedAt": "2026-11-17T05:00:21+00:00",
       "updatedAt": "2026-11-17T05:00:21+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -954,31 +982,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0ef5de1eee28d9d4d7",
+      "id": "rss-cfed289c34fdcfc91e",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Un bâtiment administratif de Bastia visé dans la nuit par un \"attentat\" à l'explosif",
+      "title": "La police de Londres traque les pickpockets avec des drones",
       "bullets": [
-        "En Haute-Corse, à Bastia, un bâtiment administratif a été visé dans la nuit de lundi à mardi par un \"attentat\" à l'explosif sans faire de blessé, annonce la préfecture de Haute-Corse mardi 17 novembre.",
-        "L'engin explosif a été placé devant la \"maison des affaires sociales\", la grille a été légèrement endommagée, décrit ICI RCFM.",
-        "Le parquet de Bastia, qui avait ouvert une enquête pour \"dégradation par moyen dangereux\", indique à franceinfo s'être dessaisi du dossier au profit du Parquet national antiterroriste (Pnat)."
+        "La Metropolitan police de Londres a diffusé les images de la traque d’un pickpocket de téléphones avec un drone.",
+        "La police londonienne expérimente depuis plusieurs mois les “Drones Comme Premier Intervenant” pour lutter contre la criminalité urbaine.",
+        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion"
       ],
-      "publishedAt": "2026-11-17T13:51:24+00:00",
-      "updatedAt": "2026-11-17T13:51:24+00:00",
+      "publishedAt": "2026-11-17T11:15:12+00:00",
+      "updatedAt": "2026-11-17T11:15:12+00:00",
       "importance": 54,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/un-batiment-administratif-de-bastia-vise-dans-la-nuit-par-un-attentat-a-l-explosif_8286206.html",
+          "url": "https://www.franceinfo.fr/faits-divers/police/la-police-de-londres-traque-les-pickpockets-avec-des-drones_8286428.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "ab23a41d3661be26428c28f112a4818457e8265adc512786eebce0d78c90f3c5",
+      "summaryInput": "716b67e9c846e282c7bac722d7ca7fa96a32243921710bee2afda6ac9d90749c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T17:16:52.560077+00:00",
+      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
       "context": null
     },
     {
@@ -1006,6 +1034,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dc98a19129931dcc46",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
+      "bullets": [
+        "Marine Le Pen, candidate à l’élection présidentielle, promet que l’avancée de l’âge de départ ne coûtera pas un euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
+        "Elle instaure une part de capitalisation en prenant, notamment, l’argent du Fonds national d’aide…"
+      ],
+      "publishedAt": "2026-11-18T04:41:47+00:00",
+      "updatedAt": "2026-11-18T04:41:47+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rn-compte-financer-son-avantageuse-reforme-des-retraites-et-un-debut-de-capitalisation-au-detriment-des-precaires-et-de-la-politique-du-logement_6813066_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9d5ffccf26f532f98d3c1b196516e714a9965156f07ea3b4d6c33bf625093597",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-eb12dd5d359197ce80",
       "revision": 1,
       "category": "france",
@@ -1030,31 +1083,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f8d70eb49ba78f0acd",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Pétition pour interdire CNews : un débat élargi à tous les médias finalement organisé et déjà controversé",
-      "bullets": [
-        "L’Assemblée nationale a acté, mardi 17 novembre, qu’elle discutera en Hémicycle du pluralisme et de la liberté d’expression dans les médias, mais pas de la suppression de la chaîne du groupe Bolloré.",
-        "LFI dénonce « un scandale »."
-      ],
-      "publishedAt": "2026-11-17T14:20:00+00:00",
-      "updatedAt": "2026-11-17T14:20:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9b6f037b7fc7306780777ea2fa6ae1872167fd3877eb344c7fa28c901cdfd87a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-0b0d107953bcb31421",
       "revision": 1,
       "category": "france",
@@ -1065,7 +1093,7 @@
       ],
       "publishedAt": "2026-11-17T17:00:09+00:00",
       "updatedAt": "2026-11-17T17:00:09+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1115,7 +1143,7 @@
       ],
       "publishedAt": "2026-11-17T05:00:11+00:00",
       "updatedAt": "2026-11-17T05:00:11+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1139,7 +1167,7 @@
       ],
       "publishedAt": "2026-11-17T17:02:20+00:00",
       "updatedAt": "2026-11-17T17:02:20+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1163,7 +1191,7 @@
       ],
       "publishedAt": "2026-11-17T16:28:59+00:00",
       "updatedAt": "2026-11-17T16:28:59+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1174,31 +1202,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "23cfbe33791cfdd319b47ec3af7163f9fcba11d0e1b3057edbce4ec7d276bb5b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1336fbb3752e30a1f4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
-      "bullets": [
-        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
-        "Une plongée inédite dans les arcanes du pouvoir."
-      ],
-      "publishedAt": "2026-11-16T17:00:08+00:00",
-      "updatedAt": "2026-11-16T17:00:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
       "detailLevel": "preview"
     },
     {
@@ -1225,6 +1228,31 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1336fbb3752e30a1f4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
+      "bullets": [
+        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
+        "Une plongée inédite dans les arcanes du pouvoir."
+      ],
+      "publishedAt": "2026-11-16T17:00:08+00:00",
+      "updatedAt": "2026-11-16T17:00:08+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1238,7 +1266,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1268,7 +1296,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Figaro",
@@ -1304,7 +1332,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Monde",
@@ -1340,7 +1368,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
