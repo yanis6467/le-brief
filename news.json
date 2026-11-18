@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T05:15:41.223702+00:00",
+  "preparedAt": "2026-11-18T06:21:39.170314+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -36,17 +36,17 @@
     },
     {
       "id": "rss-32a41cec0c9c31e9ff",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
+      "title": "BCE : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
       "bullets": [
-        "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone.",
+        "La France décrocherait le poste chargé des marchés financiers et nommerait Laurence Boone.",
         "Reste aux autres pays de la zone euro à accepter ces nominations."
       ],
       "publishedAt": "2026-11-17T17:37:13+00:00",
       "updatedAt": "2026-11-17T17:37:13+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -56,7 +56,7 @@
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "b5654742c6845ed4a2f1ce68f48d43f669d85bd2e16c4ea0ea81fe15d2e6db90",
+      "summaryInput": "4d71229ab3934128e59aab6d0fee30f10c1558e2c10e1e3f3b704b744218fd86",
       "detailLevel": "preview"
     },
     {
@@ -267,7 +267,7 @@
       "provenance": "article-extract",
       "summaryInput": "8a978f1b8d75b6543eabc86ab81535c4753f69166211a56bc62968d066621ecb",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T18:14:42.825681+00:00",
+      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
       "context": null
     },
     {
@@ -334,9 +334,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T05:15:42+00:00",
-      "updatedAt": "2026-11-18T05:15:42+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-18T06:16:07+00:00",
+      "updatedAt": "2026-11-18T06:16:07+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -348,7 +348,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T18:14:42.825681+00:00",
+      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
       "context": null
     },
     {
@@ -376,7 +376,7 @@
       "provenance": "article-extract",
       "summaryInput": "c11fbb41172f95a4e9b07f959a35e848537d4b556ed66c673f690877ba1d8cca",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T17:16:52.560077+00:00",
+      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
       "context": null
     },
     {
@@ -580,7 +580,7 @@
       ],
       "publishedAt": "2026-11-17T18:16:11+00:00",
       "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -622,18 +622,18 @@
     },
     {
       "id": "rss-736d1746d738f918c2",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Serbie : la liste étudiante entre au Parlement",
       "bullets": [
         "Les 140 nouveaux députés serbes de la liste étudiante, élus le 25 octobre 2026, ont finalement pris place à l'Assemblée du pays ce matin.",
-        "La mairie de Paris lance le \"mascuradar\" pour lutter contre le masculinisme",
-        "Amine Kessaci, les assasins de son frère condamnés à la perpétuité"
+        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion",
+        "Kim Jong-Un va-t-il rencontrer Donald Trump en Chine ?"
       ],
       "publishedAt": "2026-11-17T17:25:35+00:00",
       "updatedAt": "2026-11-17T17:25:35+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -645,7 +645,7 @@
       "provenance": "article-extract",
       "summaryInput": "4f511ec745d3d6c8d3212785e45859e276f33642b35126c1687f56ab6fbbbc7a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T18:14:42.825681+00:00",
+      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
       "context": null
     },
     {
@@ -685,7 +685,7 @@
       ],
       "publishedAt": "2026-11-17T17:37:09+00:00",
       "updatedAt": "2026-11-17T17:37:09+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -722,6 +722,30 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "626d742ac0e02fcf0b729c7da277f935acd91fcfd583f8dbf07398af0ee12f05",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-522d375b4d632ecf53",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "«J’ignore si un président prendrait cette décision» : le thriller nucléaire Jupiter est-il réaliste ?",
+      "bullets": [
+        "ENTRETIEN - Chercheur associé à la FRS sur la dissuasion nucléaire, Étienne Marcuz décrypte pour Le Figaro le vrai du faux de ce film qui met en scène la menace d’une apocalypse nucléaire dont la France est actrice."
+      ],
+      "publishedAt": "2026-11-18T05:30:00+00:00",
+      "updatedAt": "2026-11-18T05:30:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/j-ignore-si-un-president-prendrait-cette-decision-le-thriller-nucleaire-jupiter-est-il-realiste-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3b293a83ae2f1bc6a24343308fb6f279bff84e1abe5f260ce2ffc8df69498d3b",
       "detailLevel": "preview"
     },
     {
@@ -825,34 +849,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
       "summaryInput": "6341380ff0d885473461727fa079153e06fd3ab96e6a5334a2a25fa0e4a60084",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T04:08:38.614050+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-539b47fc70a4c22f55",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La France participe-t-elle \"directement\" à la guerre en Ukraine, comme l'affirme le Kremlin ?",
-      "bullets": [
-        "Sergueï Lavrov, le ministre russe des Affaires étrangères, a accusé la France de \"participation directe à la guerre\" en Ukraine, après les révélations de RFI, lundi 16 novembre, faisant état de la présence secrète de militaires français dans le pays.",
-        "Depuis 2022, la Russie parle régulièrement du conflit en Ukraine comme d'une guerre par procuration qui serait menée par les Occidentaux.",
-        "Un seul État tiers intervient directement dans ce conflit, c'est la Corée du Nord."
-      ],
-      "publishedAt": "2026-11-17T19:21:49+00:00",
-      "updatedAt": "2026-11-17T19:21:49+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/vrai-ou-fake/la-france-participe-t-elle-directement-a-la-guerre-en-ukraine-comme-l-affirme-le-kremlin_8287025.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "3e92734bfb64307f337fef4ef0076f59b024c561f429ce6c1c90fab58e4439ca",
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T04:08:38.614050+00:00",
       "context": null
@@ -968,7 +964,7 @@
       ],
       "publishedAt": "2026-11-17T05:58:02+00:00",
       "updatedAt": "2026-11-17T05:58:02+00:00",
-      "importance": 86,
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1020,7 +1016,7 @@
       ],
       "publishedAt": "2026-11-17T18:00:09+00:00",
       "updatedAt": "2026-11-17T18:00:09+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1035,13 +1031,13 @@
     },
     {
       "id": "rss-dc98a19129931dcc46",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
       "bullets": [
-        "Marine Le Pen, candidate à l’élection présidentielle, promet que l’avancée de l’âge de départ ne coûtera pas un euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
-        "Elle instaure une part de capitalisation en prenant, notamment, l’argent du Fonds national d’aide…"
+        "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas un euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
+        "Elle instaure une part de capitalisation en prenant, notamment, l’argent du Fonds national d’aide au logement."
       ],
       "publishedAt": "2026-11-18T04:41:47+00:00",
       "updatedAt": "2026-11-18T04:41:47+00:00",
@@ -1055,7 +1051,7 @@
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "9d5ffccf26f532f98d3c1b196516e714a9965156f07ea3b4d6c33bf625093597",
+      "summaryInput": "8a3ca3a1ae6d89f25c46f1bc561e12578927de49c80a41fb9751b54908a12387",
       "detailLevel": "preview"
     },
     {
@@ -1302,7 +1298,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1332,7 +1328,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
