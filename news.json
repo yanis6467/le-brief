@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T21:06:03.080448+00:00",
+  "preparedAt": "2026-11-18T22:01:47.647303+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-a593f8133499421fbd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Royaume-Uni s’attaque à la crise des « Neet », ces jeunes sortis du système éducatif et sans emploi",
+      "bullets": [
+        "DÉCRYPTAGE - Cette situation concerne près de 1 million de jeunes Britanniques.",
+        "Le gouvernement veut tirer les leçons d’un rapport qui remet toutefois en cause ses choix alourdissant les coûts et les contraintes pour les employeurs."
+      ],
+      "publishedAt": "2026-11-18T19:12:29+00:00",
+      "updatedAt": "2026-11-18T19:12:29+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/le-royaume-uni-s-attaque-a-la-crise-des-neet-ces-jeunes-sortis-du-systeme-educatif-et-sans-emploi-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7acbdd763987175c5e80154e59eca65ae4b5c8c39b128639c9d34750cf516a53",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-321a742fd6c5f5b855",
       "revision": 2,
@@ -135,6 +160,83 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cfa3dc0f9772f38b4b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les salaires subissent-ils leur baisse la plus durable «depuis la Seconde Guerre mondiale», comme l’affirme Sophie Binet ?",
+      "bullets": [
+        "LA VÉRIF’ - Pour la numéro un de la CGT, la colère sociale actuelle est le fruit d’une baisse des rémunérations inédite en France.",
+        "Le salaire moyen serait toujours inférieur à son niveau de 2021, selon la syndicaliste."
+      ],
+      "publishedAt": "2026-11-18T18:00:00+00:00",
+      "updatedAt": "2026-11-18T18:00:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/les-salaires-subissent-ils-leur-baisse-la-plus-durable-depuis-la-seconde-guerre-mondiale-comme-l-affirme-sophie-binet-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "290f2f4b3f06b40908bb07b4d0d183abc7029e834425517ea7567df9444784ed",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3a4ecef0e3da8373ac",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Il y a tout un problème de droit de succession» : François Hollande veut créer un statut de «beaux-parents» pour faciliter les transmissions",
+      "bullets": [
+        "Si l’ancien président n’évoque pas directement cette piste, la réforme pourrait alléger la fiscalité des transmissions entre parents et enfants au sein des familles recomposées, qui obéissent aujourd’hui aux mêmes règles fiscales qu’un don classique et sont donc taxées jusqu’à 60 %.",
+        "Une façon de s’adapter à l’évolution des structures familiales, alors que, selon l’Insee, près de 10 % des familles étaient recomposées en 2024.",
+        "Dans la même lignée, le gouvernement a instauré cette année un abattement de 15.932 euros sur les droits de succession pour l’enfant du conjoint ou du partenaire de Pacs."
+      ],
+      "publishedAt": "2026-11-18T20:43:56+00:00",
+      "updatedAt": "2026-11-18T20:43:56+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/il-y-a-tout-un-probleme-de-droit-de-succession-francois-hollande-veut-creer-un-statut-de-beaux-parents-pour-faciliter-les-transmissions-20261118",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "460a4bd250b6066383890a4b50449eec4db7a133401f83d8ab937d96053d64e5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T22:01:47.647303+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-31cb78838b95b989a7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Ces « dingueries » fiscales du budget 2027 que dénonce le collectif de dirigeants « Trop, c’est trop »",
+      "bullets": [
+        "DÉCRYPTAGE - Le mouvement né voici un an, réunissant près de 3 000 patrons d’entreprises, milite pour supprimer plusieurs mesures voulues par le gouvernement."
+      ],
+      "publishedAt": "2026-11-18T19:24:09+00:00",
+      "updatedAt": "2026-11-18T19:24:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/ces-dingueries-fiscales-du-budget-2027-que-denonce-le-collectif-de-dirigeants-trop-c-est-trop-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "eb4d0b46f51f01fa027344416782520891e161dfed1b4bd0d80cce6aabe628a0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d93dbb321152567556",
       "revision": 1,
       "category": "eco",
@@ -191,58 +293,6 @@
       "context": null
     },
     {
-      "id": "rss-83eb24a21a330aff48",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Affrontements meurtriers, exode massif de travailleurs étrangers… En Guinée, la reprise en main musclée du secteur aurifère par le gouvernement",
-      "bullets": [
-        "RÉCIT - Conakry veut mettre fin à l’orpaillage clandestin dans le nord-est du pays pour mieux contrôler ses ressources, attirer des investisseurs internationaux et sécuriser ses frontières."
-      ],
-      "publishedAt": "2026-11-18T16:54:37+00:00",
-      "updatedAt": "2026-11-18T16:54:37+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/affrontements-meurtriers-exode-massif-de-travailleurs-etrangers-en-guinee-la-reprise-en-main-musclee-du-secteur-aurifere-par-le-gouvernement-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1097c963ed53941f6f65d1fc05eacbe887a578edd90b59afcaa747862e516e0c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-482966a9fb13054e68",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Chips au bacon fumé interdites, marmelade rebaptisée : avant le sommet avec l’UE, le gouvernement britannique démonte des rumeurs",
-      "bullets": [
-        "Non, le Royaume-Uni n'aura pas à interdire les chips saveur bacon fumé, et non, la marmelade, incontournable du petit-déjeuner britannique, n'aura pas besoin d'être rebaptisée.",
-        "Avant le sommet Royaume-Uni/UE vendredi à Bruxelles, destiné à resserrer les liens avec les 27, le gouvernement a répondu à plusieurs affirmations dans un document intitulé «fiche d'information et démystification», publié tard mardi soir.",
-        "Selon le gouvernement britannique, l'accord sur l'alimentation et les boissons pourrait apporter 5,1 milliards de livres sterling (6,12 milliards d'euros) supplémentaires à l'économie du pays."
-      ],
-      "publishedAt": "2026-11-18T16:32:06+00:00",
-      "updatedAt": "2026-11-18T16:32:06+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/chips-au-bacon-fume-interdites-marmelade-rebaptisee-avant-le-sommet-avec-l-ue-le-gouvernement-britannique-demonte-des-rumeurs-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "8cd53284d5acd3273b1a565fc529e69bc77d062413e4ae3f998fcfd75ec369a5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T16:14:34.715595+00:00",
-      "context": null
-    },
-    {
       "id": "rss-09c19b0b8bac2ebc0d",
       "revision": 1,
       "category": "eco",
@@ -271,60 +321,29 @@
       "context": null
     },
     {
-      "id": "rss-10d6b34acc5a395a1a",
+      "id": "rss-5a69065af59af56a07",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La prévision de croissance de 1% pour 2027 «est à risque», reconnaît Roland Lescure",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Anthropic valorisé 1 400 milliards de dollars à Wall Street : qui va toucher le jackpot ?",
       "bullets": [
-        "La prévision de croissance du gouvernement à 1 % pour 2027 est «à risque» et davantage d'efforts pourraient donc être nécessaires pour tenir un déficit à 5 % qui n'est «pas négociable», a prévenu mercredi le ministre de l'Économie, Roland Lescure, interrogé sur LCI.",
-        "Bruxelles ne table plus que sur une croissance de l'économie française de 0,4 % en 2026 et 0,6 % en 2027, alors qu'elle anticipait encore au printemps 0,8 % et 1,1 %.",
-        "«On peut craindre progressivement, mais assez vite quand même, 250.000 suppressions d'emplois», a-t-il dit."
+        "DÉCRYPTAGE - L’introduction en Bourse de la société va générer des richesses considérables pour les investisseurs présents à son capital.",
+        "Mais ce pactole n’arrivera pas directement sur le compte des actionnaires."
       ],
-      "publishedAt": "2026-11-18T13:29:07+00:00",
-      "updatedAt": "2026-11-18T13:29:07+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-18T21:40:55+00:00",
+      "updatedAt": "2026-11-18T21:40:55+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-prevision-de-croissance-de-1-pour-2027-est-a-risque-reconnait-roland-lescure-20261118",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/secteur/high-tech/anthropic-valorise-1-400-milliards-de-dollars-a-wall-street-qui-va-toucher-le-jackpot-20261118",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "15a142e2217ef0aa838e95a6d5246b7b109829a1938ee3562b4a2f3f7e45258d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fcc7c81777c1c7dd37",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La prévision de croissance de 1% en France pour 2027 \"est à risque\", reconnaît le ministre de l'Economie",
-      "bullets": [
-        "La prévision de croissance du gouvernement à 1% pour 2027 est \"à risque\", a prévenu mercredi 18 novembre le ministre de l'Economie.",
-        "Bruxelles ne table plus que sur une croissance de l'économie française de 0,4% en 2026 et 0,6% en 2027, alors qu'elle anticipait encore au printemps 0,8% et 1,1%.",
-        "En conséquence, il faudra \"probablement\" faire un effort plus important que les 43 milliards d'euros d'économies initialement prévus par le gouvernement dans le projet de budget afin de limiter le déficit public à 5 % du produit intérieur brut (PIB), a réagi Roland Lescure."
-      ],
-      "publishedAt": "2026-11-18T09:50:37+00:00",
-      "updatedAt": "2026-11-18T09:50:37+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/la-prevision-de-croissance-de-1-en-france-pour-2027-est-a-risque-reconnait-le-ministre-de-l-economie-roland-lescure_8288000.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "584fd5ac86d68804d3c58828fe5e49d1830f717d88aad5d7fffd7f9d8db05a63",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T12:10:27.300856+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1048bed57209f0a0ace166b068c2684f2a397c851ee94243426d5af029a32e9b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -337,8 +356,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T21:05:08+00:00",
-      "updatedAt": "2026-11-18T21:05:08+00:00",
+      "publishedAt": "2026-11-18T21:58:49+00:00",
+      "updatedAt": "2026-11-18T21:58:49+00:00",
       "importance": 69,
       "sources": [
         {
@@ -503,7 +522,7 @@
       ],
       "publishedAt": "2026-11-17T09:28:41+00:00",
       "updatedAt": "2026-11-17T09:28:41+00:00",
-      "importance": 53,
+      "importance": 52,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -691,7 +710,7 @@
       ],
       "publishedAt": "2026-11-18T09:52:21+00:00",
       "updatedAt": "2026-11-18T09:52:21+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -945,7 +964,7 @@
       ],
       "publishedAt": "2026-11-17T21:29:46+00:00",
       "updatedAt": "2026-11-17T21:29:46+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -960,16 +979,16 @@
     },
     {
       "id": "rss-896770695e5c633477",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler qui se dit \"horrifié\"",
+      "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
       "bullets": [
         "Ce texte a déjà été adopté par l'Assemblée nationale le 7 juillet dernier.\"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", poursuit le producteur de musique roué de coups en 2020 par trois policiers qui sont jugés jusqu'au 20 novembre devant la cour criminelle de Paris.",
         "\"Si on n'a pas de vidéo, avec cette loi en vigueur, ce serait aux victimes de prouver leur innocence, ce qui est quasiment impossible (...) C'est extrêmement grave\", conclut le producteur, aujourd'hui âgé de 47 ans."
       ],
-      "publishedAt": "2026-11-18T19:52:52+00:00",
-      "updatedAt": "2026-11-18T19:52:52+00:00",
+      "publishedAt": "2026-11-18T21:36:14+00:00",
+      "updatedAt": "2026-11-18T21:36:14+00:00",
       "importance": 77,
       "sources": [
         {
@@ -980,9 +999,9 @@
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "94a0fdbaf18096f5ab1be2956775655d207baa8747bac10a4465ea70c56b06ba",
+      "summaryInput": "198b3f8eb7cb70cfb3a6e3a81b477fed3262c66773215ba5e4a3dcd97a023692",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T20:11:04.669686+00:00",
+      "enrichedAt": "2026-11-18T22:01:47.647303+00:00",
       "context": null
     },
     {
@@ -1083,6 +1102,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c6275b0240638d60ba",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+      "bullets": [
+        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
+        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+      ],
+      "publishedAt": "2026-11-18T18:09:23+00:00",
+      "updatedAt": "2026-11-18T18:09:23+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ea9dc6f36c5e9914a8",
       "revision": 1,
       "category": "france",
@@ -1129,31 +1173,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "762b9ea2f36a7fd6b2e3b8eeb9e4e323ba8d33db30c40c8177da5dbd4639de88",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-477bfcde542a88b1e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
-      "bullets": [
-        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
-        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
-      ],
-      "publishedAt": "2026-11-18T07:41:00+00:00",
-      "updatedAt": "2026-11-18T07:41:00+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
       "detailLevel": "preview"
     },
     {
@@ -1265,7 +1284,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1289,7 +1308,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
