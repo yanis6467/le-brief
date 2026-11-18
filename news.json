@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T12:10:27.300856+00:00",
+  "preparedAt": "2026-11-18T13:28:19.825425+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -32,27 +32,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-321a742fd6c5f5b855",
+      "id": "rss-956586383984950151",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Aux Etats-Unis, des pannes en cascade soulignent la vulnérabilité des infrastructures américaines, accrue par l’IA",
+      "title": "Introvertie, discrète, richissime : qui est Tatiana Kim, la « Jeff Bezos » russe sanctionnée par l’Union européenne ?",
       "bullets": [
-        "De Microsoft à la NSA en passant par la banque J.P. Morgan et le système de communication aérien, de nombreuses structures – et des millions d’Américains – ont été affectés, depuis jeudi 12 novembre, par une série de défaillances. A priori sans lien, elles révèlent les risques croissants de cyberattaques."
+        "PORTRAIT - La fondatrice de Wildberries, femme la plus riche de Russie, figure sur la nouvelle liste de sanctions européennes.",
+        "Bruxelles l’accuse d’avoir mis son empire du e-commerce au service de l’effort de guerre du Kremlin."
       ],
-      "publishedAt": "2026-11-18T12:00:08+00:00",
-      "updatedAt": "2026-11-18T12:00:08+00:00",
+      "publishedAt": "2026-11-18T09:52:21+00:00",
+      "updatedAt": "2026-11-18T09:52:21+00:00",
       "importance": 79,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/introvertie-discrete-richissime-qui-est-tatiana-kim-la-jeff-bezos-russe-sanctionnee-par-l-union-europeenne-20261118",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "fd1e9b3bb2fadb9a06966eaa5221294eb0a3d9288d032b8ca871cc312d4237ef",
+      "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
       "detailLevel": "preview"
     },
     {
@@ -269,31 +270,6 @@
       "context": null
     },
     {
-      "id": "rss-893ede96137f372f59",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
-      "bullets": [
-        "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de l’entreprise, qu’il avait été contraint de quitter le 12 novembre.",
-        "Les partisans de Donald Trump dénoncent les zones obscures de l’affaire."
-      ],
-      "publishedAt": "2026-11-18T07:30:14+00:00",
-      "updatedAt": "2026-11-18T07:30:14+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5ec6f9b1c939f52e0f8f6eef669c5a269e5c10ade413afb8733a768bdc282016",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-890aba5d14c7ba8efc",
       "revision": 1,
       "category": "eco",
@@ -322,6 +298,30 @@
       "context": null
     },
     {
+      "id": "rss-28adb989b9a594a61d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Je me contente d’un petit poêle à bois, je porte deux gilets, je calfeutre tout » : ces foyers qui restreignent leur chauffage pour ne pas alourdir leurs factures",
+      "bullets": [
+        "Alors que les prix de l’énergie flambent, sur fond de tensions internationales, de plus en plus de ménages vivent une « sobriété subie », souffrant de froid dans leur logement."
+      ],
+      "publishedAt": "2026-11-18T05:30:06+00:00",
+      "updatedAt": "2026-11-18T05:30:06+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/je-m-enroule-dans-des-plaids-ces-menages-qui-restreignent-leur-chauffage-pour-affronter-l-envolee-des-prix-de-l-energie_6813075_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "06ce6d4b517b51b34a395adbc95156caca6d1db29d65d2da799c4c8b6aad1868",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -332,9 +332,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T12:05:08+00:00",
-      "updatedAt": "2026-11-18T12:05:08+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-18T13:28:21+00:00",
+      "updatedAt": "2026-11-18T13:28:21+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -592,6 +592,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-321a742fd6c5f5b855",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
+      "bullets": [
+        "De Microsoft à la NSA en passant par la banque J.P. Morgan et le système de communication aérien, de nombreuses structures – et des millions d’Américains – ont été affectés, depuis jeudi 12 novembre, par une série de défaillances. A priori sans lien, elles révèlent les risques croissants de cyberattaques."
+      ],
+      "publishedAt": "2026-11-18T12:00:06+00:00",
+      "updatedAt": "2026-11-18T12:00:06+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "46299f42466bd7975536196ff1f38531c28f0b6a0cee7392ffe229a0f03a28f6",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ce9701886a6a257e9d",
       "revision": 1,
       "category": "world",
@@ -618,31 +642,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
       "context": null
-    },
-    {
-      "id": "rss-956586383984950151",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Introvertie, discrète, richissime : qui est Tatiana Kim, la « Jeff Bezos » russe sanctionnée par l’Union européenne ?",
-      "bullets": [
-        "PORTRAIT - La fondatrice de Wildberries, femme la plus riche de Russie, figure sur la nouvelle liste de sanctions européennes.",
-        "Bruxelles l’accuse d’avoir mis son empire du e-commerce au service de l’effort de guerre du Kremlin."
-      ],
-      "publishedAt": "2026-11-18T09:52:21+00:00",
-      "updatedAt": "2026-11-18T09:52:21+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/introvertie-discrete-richissime-qui-est-tatiana-kim-la-jeff-bezos-russe-sanctionnee-par-l-union-europeenne-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-1ef8c66bec3d514961",
@@ -1275,7 +1274,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1311,7 +1310,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 26
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
