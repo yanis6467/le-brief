@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T13:28:19.825425+00:00",
+  "preparedAt": "2026-11-18T15:10:33.541864+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-32a41cec0c9c31e9ff",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "BCE : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
-      "bullets": [
-        "La France décrocherait le poste chargé des marchés financiers et nommerait Laurence Boone.",
-        "Reste aux autres pays de la zone euro à accepter ces nominations."
-      ],
-      "publishedAt": "2026-11-17T17:37:13+00:00",
-      "updatedAt": "2026-11-17T17:37:13+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4d71229ab3934128e59aab6d0fee30f10c1558e2c10e1e3f3b704b744218fd86",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-956586383984950151",
       "revision": 1,
@@ -84,34 +59,6 @@
       "context": null
     },
     {
-      "id": "rss-30df1e37737cd81d66",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Bourse : Anthropic fixé mercredi sur le montant levé pour son introduction",
-      "bullets": [
-        "Depuis un pic début octobre, l'indice Nasdaq à forte composition technologique a reculé de plus de 12%.",
-        "Cet appétit pourrait porter, selon Bloomberg, le prix proposé au-delà du haut de la fourchette annoncée par Anthropic, comprise entre 70 et 78 dollars.",
-        "Une IA à risque Aux 825 millions de titres offerts initialement s'ajoute une option qui permet aux banques partenaires de distribuer davantage d'actions que prévu en cas de forte souscription."
-      ],
-      "publishedAt": "2026-11-18T06:39:38+00:00",
-      "updatedAt": "2026-11-18T06:39:38+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/bourse-anthropic-fixe-mercredi-sur-le-montant-leve-pour-son-introduction-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "6933b8b9aad6a361ef54c210e0997f8e22d5465373f8cf1b62a1fd1065343647",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ef0a5464fe9b9868ed",
       "revision": 1,
       "category": "eco",
@@ -159,6 +106,59 @@
       "provenance": "rss-excerpt",
       "summaryInput": "91d72b1ea1d7b7214ba0cdb54bf27c77689a64107da65700ab63afe302cdbf1e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a79767ef2ef06aa549",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
+      "bullets": [
+        "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars.",
+        "Les organisateurs entendent encadrer ces visites."
+      ],
+      "publishedAt": "2026-11-18T15:05:32+00:00",
+      "updatedAt": "2026-11-18T15:05:32+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c7e7863246a2517f871e8be05b3620d762b610662ca0d893a14b1359b5550b65",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-10d6b34acc5a395a1a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La prévision de croissance de 1% pour 2027 «est à risque», reconnaît Roland Lescure",
+      "bullets": [
+        "La prévision de croissance du gouvernement à 1 % pour 2027 est «à risque» et davantage d'efforts pourraient donc être nécessaires pour tenir un déficit à 5 % qui n'est «pas négociable», a prévenu mercredi le ministre de l'Économie, Roland Lescure, interrogé sur LCI.",
+        "Bruxelles ne table plus que sur une croissance de l'économie française de 0,4 % en 2026 et 0,6 % en 2027, alors qu'elle anticipait encore au printemps 0,8 % et 1,1 %.",
+        "«On peut craindre progressivement, mais assez vite quand même, 250.000 suppressions d'emplois», a-t-il dit."
+      ],
+      "publishedAt": "2026-11-18T13:29:07+00:00",
+      "updatedAt": "2026-11-18T13:29:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-prevision-de-croissance-de-1-pour-2027-est-a-risque-reconnait-roland-lescure-20261118",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "15a142e2217ef0aa838e95a6d5246b7b109829a1938ee3562b4a2f3f7e45258d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
+      "context": null
     },
     {
       "id": "rss-fcc7c81777c1c7dd37",
@@ -242,6 +242,34 @@
       "context": null
     },
     {
+      "id": "rss-54b425e7f2f9a26ae0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«C’est louable de faire preuve de sobriété» : la présidente mexicaine Claudia Sheinbaum saluée pour son vol en classe éco pour la Chine",
+      "bullets": [
+        "La présidente mexicaine Claudia Sheinbaum a fait sensation mercredi sur les réseaux sociaux chinois, où les internautes ont salué son choix de voyager en classe économique sur un vol commercial pour assister à un sommet régional.",
+        "Mercredi soir, un mot-dièse consacré à son arrivée en Chine cumulait 10,2 millions de vues sur Weibo.",
+        "Avant son départ, Claudia Sheinbaum avait prévenu que le trajet jusqu'en Chine prendrait «pratiquement deux jours de vol»."
+      ],
+      "publishedAt": "2026-11-18T14:44:46+00:00",
+      "updatedAt": "2026-11-18T14:44:46+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/c-est-louable-de-faire-preuve-de-sobriete-la-presidente-mexicaine-claudia-sheinbaum-saluee-pour-son-vol-en-classe-eco-pour-la-chine-20261118",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "16b5c6902c6bf0edf086f01b2fa24beeaec312e11a5a4dc64ecd47dbfc381cb6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4db00c4c7167e94c35",
       "revision": 1,
       "category": "eco",
@@ -298,30 +326,6 @@
       "context": null
     },
     {
-      "id": "rss-28adb989b9a594a61d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Je me contente d’un petit poêle à bois, je porte deux gilets, je calfeutre tout » : ces foyers qui restreignent leur chauffage pour ne pas alourdir leurs factures",
-      "bullets": [
-        "Alors que les prix de l’énergie flambent, sur fond de tensions internationales, de plus en plus de ménages vivent une « sobriété subie », souffrant de froid dans leur logement."
-      ],
-      "publishedAt": "2026-11-18T05:30:06+00:00",
-      "updatedAt": "2026-11-18T05:30:06+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/je-m-enroule-dans-des-plaids-ces-menages-qui-restreignent-leur-chauffage-pour-affronter-l-envolee-des-prix-de-l-energie_6813075_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "06ce6d4b517b51b34a395adbc95156caca6d1db29d65d2da799c4c8b6aad1868",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -332,9 +336,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T13:28:21+00:00",
-      "updatedAt": "2026-11-18T13:28:21+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-18T15:10:07+00:00",
+      "updatedAt": "2026-11-18T15:10:07+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -350,30 +354,31 @@
       "context": null
     },
     {
-      "id": "rss-a535e34a421674cde1",
+      "id": "rss-74e21ebfd0ee00d678",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.01%",
+      "title": "CAC 40 : Nvidia rassure la Bourse avec ses résultats, le CAC 40 hésite",
       "bullets": [
-        "(BFM Bourse) - Après avoir fini en baisse de -1.62% à 8216.7803 points lors de sa dernière séance, le CAC 40 poursuit son repli en cédant -0.01% à l’ouverture.",
-        ": Visa et Mastercard défendent un accord de 38 milliards de …"
+        "Du côté des actions, Alstom chute encore, perdant 7,8%, alors que le groupe a publié ses résultats semestriels qui n'ont réservé aucune surprise, la société les ayant pré-annoncés il y a quelques semaines dans le cadre d'un lourd avertissement sur résultats.",
+        "Accor perd 4% après avoir annoncé le rachat des minoritaires de sa filiale d'hôtellerie lifestyle Ennismore.",
+        "Le contrat de janvier sur le Brent de mer du Nord est stable à 93,10 dollars tandis que celui de décembre sur le WTI coté à New York recule de 0,5% à 85,57 dollars le baril."
       ],
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "updatedAt": "2026-11-18T08:00:00+00:00",
+      "publishedAt": "2026-11-18T13:13:27+00:00",
+      "updatedAt": "2026-11-18T13:13:27+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-001-1173992.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-nvidia-rassure-la-bourse-avec-ses-resultats-le-cac-40-hesite-1174021.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "a5157e64d9fed99de64a8068db81ee0064f721ceb4c9a027ca373025c0fe693e",
+      "summaryInput": "dad90f82770b144de13bd6f009d6e5f60f844dff14c2483b32c940eed5ec1e38",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
       "context": null
     },
     {
@@ -429,7 +434,7 @@
       "provenance": "article-extract",
       "summaryInput": "1ae97dc5e34c8763187283328000fa9a4c2f63c38dbca6aab5a8c92544e17b57",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T01:30:12.390466+00:00",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
       "context": null
     },
     {
@@ -567,29 +572,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-23c197df89af70747a",
+      "id": "rss-8bea0934c63097a11c",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Sabotage d’armements, contre-attaques numériques… Face aux menaces extérieures, l'Allemagne muscle ses services secrets",
+      "title": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
       "bullets": [
-        "DÉCRYPTAGE - L’entourage du chancelier Friedrich Merz se réjouit d’une réforme qui place le renseignement allemand « au niveau de partenaires tels que la CIA ou le Mossad ».",
-        "Pro-russes, l’extême-droite et l’extrême-gauche ont refusé le texte présenté par le ministre de l’Intérieur."
+        "Pour comprendre la domination de la Russie et des Etats-Unis, il y a d'abord ce chiffre : les deux puissances possèdent plus de 85% de l'arsenal nucléaire dans le monde.",
+        "120 milliards de dollars de dépenses en 2025La Chine est le pays au monde qui développe le plus rapidement son arsenal nucléaire.",
+        "120 milliards de dollars ont été dépensé l'an dernier dans le monde; c'est une augmentation de 20% sur un an, d'après la Campagne internationale pour l'abolition des armes nucléaires, qui parle de \"nouvelle course aux armements\"."
       ],
-      "publishedAt": "2026-11-15T20:15:00+00:00",
-      "updatedAt": "2026-11-15T20:15:00+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-18T14:41:33+00:00",
+      "updatedAt": "2026-11-18T14:41:33+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/sabotage-d-armements-contre-attaques-numeriques-face-aux-menaces-exterieures-l-allemagne-muscle-ses-services-secrets-20261115",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "500964e396d64cfad4abdc5f3722558ebbc4047e67ed2ae207e80054db09fed9",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "8e594c1e4316d45cde76aa1b6da741a93a057350ebbc92eb1ebd4ba71cdbee08",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
+      "context": null
     },
     {
       "id": "rss-321a742fd6c5f5b855",
@@ -642,6 +650,58 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
       "context": null
+    },
+    {
+      "id": "rss-d787c66224734ee16c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"N’apportons pas d’eau au moulin de la propagande russe\", prévient le député Pieyre-Alexandre Anglade",
+      "bullets": [
+        "Le député Ensemble pour la République Pieyre-Alexandre Anglade, président de la Commission des Affaires européennes à l'Assemblée rappelle qu’en Ukraine, \"un faible contingent\" de soldats français est sur place, mais pas en situation de combat.",
+        "Donald Trump, Vladimir Poutine et Xi Jinping : une rencontre historique entre les trois dirigeants",
+        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion"
+      ],
+      "publishedAt": "2026-11-18T15:00:02+00:00",
+      "updatedAt": "2026-11-18T15:00:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/n-apportons-pas-d-eau-au-moulin-de-la-propagande-russe-previent-le-depute-pieyre-alexandre-anglade_8288240.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "a6f18b7d89e615caeaa8ca00508c40859966a90dea5554d789088fc607d157cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-2d62d1b3878ec68a38",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Chine, les géants du fast-food s’essaient à la diététique abordable",
+      "bullets": [
+        "Motivées par les campagnes gouvernementales antiobésité largement relayées par les réseaux sociaux, les chaînes de restauration rapide de l’empire du Milieu verdissent leurs menus."
+      ],
+      "publishedAt": "2026-11-18T14:30:03+00:00",
+      "updatedAt": "2026-11-18T14:30:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/en-chine-les-geants-du-fast-food-s-essaient-a-la-dietetique-abordable_6813144_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "863b24f8e5137aa3e5c8b1f0dbb6efdfdb761ef29ca71a7eac35e9c92c5548b1",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-1ef8c66bec3d514961",
@@ -748,55 +808,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dff3d7aff9f4038f2e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Alban Mikoczy : Ukraine/Russie, la guerre des ponts",
-      "bullets": [
-        "Dans cette troisième partie, Alban Mikoczy et ses invités reviennent sur le pont de Crimée attaqué par des drones ukrainiens deux jours consécutifs, ce qui constitue un revers majeur pour Vladimir Poutine.",
-        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
-      ],
-      "publishedAt": "2026-11-18T07:23:32+00:00",
-      "updatedAt": "2026-11-18T07:23:32+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-alban-mikoczy-ukraine-russie-la-guerre-des-ponts_8287826.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b1eab171c5ca9d6f0da784396f29630c8f7e1aa1ff0412eda044f8e95d008f06",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5611022ec912d78900",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Iran attaque des cibles à Bahreïn et au Koweït après un bombardement américain sur l’île de Qechm",
-      "bullets": [
-        "Ces attaques avec des « drones de combat et des drones kamikazes », selon Téhéran, ont eu lieu après les frappes de l’armée américaine, qui ont dit avoir visé un site de missiles sur l’île iranienne de Qechm."
-      ],
-      "publishedAt": "2026-11-18T06:57:46+00:00",
-      "updatedAt": "2026-11-18T06:57:46+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cff9d8eb33ce350b10471fecc7395a665b95c465b49ecc46c40584df9ef0512a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4ba89deaf38e592602",
       "revision": 1,
       "category": "france",
@@ -831,7 +842,7 @@
       ],
       "publishedAt": "2026-11-18T02:16:53+00:00",
       "updatedAt": "2026-11-18T02:16:53+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1049,7 +1060,7 @@
       "id": "rss-477bfcde542a88b1e2",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Éducation",
       "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
       "bullets": [
         "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
@@ -1208,7 +1219,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 4
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1232,19 +1243,19 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1256,13 +1267,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1274,7 +1285,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1310,7 +1321,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 26
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
