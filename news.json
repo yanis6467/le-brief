@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T20:11:04.669686+00:00",
+  "preparedAt": "2026-11-18T21:06:03.080448+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -82,6 +82,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-264d1f9e43a394eea2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "bullets": [
+        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
+        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
+        "Ces boulangers produisent environ 130 baguettes chaque jour."
+      ],
+      "publishedAt": "2026-11-18T16:41:12+00:00",
+      "updatedAt": "2026-11-18T16:41:12+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ef0a5464fe9b9868ed",
       "revision": 1,
       "category": "eco",
@@ -105,6 +133,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "27a53da4b8206b78563117e83880f118469d161fa3ed0058e3e23121cf99260f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d93dbb321152567556",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Sénat adopte en première lecture le projet de budget de la Sécurité sociale pour 2027",
+      "bullets": [
+        "Le PLFSS a été rejeté par l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 23 octobreL'Assemblée nationale a massivement rejeté en première lecture le projet de budget de la Sécurité sociale, en repoussant par 115 voix contre une sa partie \"recettes\".",
+        "Le PLF a été rejeté à l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 4 novembreLes députés ont rejeté à l'unanimité (458 voix contre) la partie \"recettes\" du projet de budget, ce qui constitue une première dans l'histoire.",
+        "Le vote solennel sur l'ensemble du texte (recettes et dépenses) est prévu le 9 décembre."
+      ],
+      "publishedAt": "2026-11-18T18:55:50+00:00",
+      "updatedAt": "2026-11-18T18:55:50+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "b03ee162bd5254c09cbaf3dddf5c5c40e1c03f20e8476a8225a08facfb68be21",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T21:06:03.080448+00:00",
+      "context": null
     },
     {
       "id": "rss-ecf6097c9130782086",
@@ -215,31 +271,6 @@
       "context": null
     },
     {
-      "id": "rss-a79767ef2ef06aa549",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
-      "bullets": [
-        "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars.",
-        "Les organisateurs entendent encadrer ces visites."
-      ],
-      "publishedAt": "2026-11-18T15:05:29+00:00",
-      "updatedAt": "2026-11-18T15:05:29+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c7e7863246a2517f871e8be05b3620d762b610662ca0d893a14b1359b5550b65",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-10d6b34acc5a395a1a",
       "revision": 1,
       "category": "eco",
@@ -296,34 +327,6 @@
       "context": null
     },
     {
-      "id": "rss-54b425e7f2f9a26ae0",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«C’est louable de faire preuve de sobriété» : la présidente mexicaine Claudia Sheinbaum saluée pour son vol en classe éco pour la Chine",
-      "bullets": [
-        "La présidente mexicaine Claudia Sheinbaum a fait sensation mercredi sur les réseaux sociaux chinois, où les internautes ont salué son choix de voyager en classe économique sur un vol commercial pour assister à un sommet régional.",
-        "Mercredi soir, un mot-dièse consacré à son arrivée en Chine cumulait 10,2 millions de vues sur Weibo.",
-        "Avant son départ, Claudia Sheinbaum avait prévenu que le trajet jusqu'en Chine prendrait «pratiquement deux jours de vol»."
-      ],
-      "publishedAt": "2026-11-18T14:44:46+00:00",
-      "updatedAt": "2026-11-18T14:44:46+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/c-est-louable-de-faire-preuve-de-sobriete-la-presidente-mexicaine-claudia-sheinbaum-saluee-pour-son-vol-en-classe-eco-pour-la-chine-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "16b5c6902c6bf0edf086f01b2fa24beeaec312e11a5a4dc64ecd47dbfc381cb6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T20:11:04.669686+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -334,8 +337,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T20:08:47+00:00",
-      "updatedAt": "2026-11-18T20:08:47+00:00",
+      "publishedAt": "2026-11-18T21:05:08+00:00",
+      "updatedAt": "2026-11-18T21:05:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -472,7 +475,7 @@
       ],
       "publishedAt": "2026-11-16T09:05:47+00:00",
       "updatedAt": "2026-11-16T09:05:47+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -516,31 +519,6 @@
       "context": null
     },
     {
-      "id": "rss-8eb21b4565280523d2",
-      "revision": 1,
-      "category": "world",
-      "topic": "Politique",
-      "title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
-      "bullets": [
-        "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen.",
-        "Les Décodeurs du « Monde » ont vérifié."
-      ],
-      "publishedAt": "2026-11-18T08:45:01+00:00",
-      "updatedAt": "2026-11-18T08:45:01+00:00",
-      "importance": 97,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b8004ad5f5bed72e7bef03f5a18a73c769183328db96e937ba66d326d7e8e256",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4c7f6287fee3a1d857",
       "revision": 2,
       "category": "world",
@@ -565,8 +543,32 @@
       "provenance": "article-extract",
       "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
+      "enrichedAt": "2026-11-18T21:06:03.080448+00:00",
       "context": null
+    },
+    {
+      "id": "rss-f07f9d5e35e785e78f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
+      "bullets": [
+        "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain."
+      ],
+      "publishedAt": "2026-11-18T20:12:23+00:00",
+      "updatedAt": "2026-11-18T20:12:23+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "77a38bcda9eefba32d3634248dca9f7d707aaebc22d2c1956e2a85d21aa41687",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-51f95ddcbe6bebefd2",
@@ -756,32 +758,52 @@
       "context": null
     },
     {
-      "id": "rss-1ef8c66bec3d514961",
+      "id": "rss-c28fe5b405c7981a96",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
+      "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
       "bullets": [
-        "C'était le dernier résultat attendu des midterms pour le Sénat américain.",
-        "\"Il n'y a pas de plus grand honneur que de recevoir le soutien des Alaskiens dans notre combat contre la cupidité des grandes entreprises, pour réduire les coûts et pour faire passer l'Alaska en premier\", a réagi Mary Peltola dans un communiqué.",
-        "Avec ce résultat, les démocrates disposent de 56 sièges au Sénat, contre 44 pour les républicains."
+        "Son élection attendue en janvier aurait un poids hautement symbolique, le président de la Chambre des représentants étant à la tête de l’une des institutions les plus puissantes à Washington et le deuxième dans l’ordre de succession présidentielle, après le vice-président."
       ],
-      "publishedAt": "2026-11-18T09:01:30+00:00",
-      "updatedAt": "2026-11-18T09:01:30+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-18T20:21:10+00:00",
+      "updatedAt": "2026-11-18T20:21:10+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "2f860b22e6664bba88afd4e62df3c15449b110c306b5ee1433fe1b2764a357b3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "340f2981efe28277e4e4af76440dfad93fe0e9554c2ddeb34cda37e987583999",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-918e68aa59fa44926e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Armes autonomes, soldats robots... Le vertige d’une guerre sans hommes",
+      "bullets": [
+        "ENQUÊTE - Alors que les systèmes autonomes, portés par les progrès de l’intelligence artificielle, se développent, les États membres des Nations unies, réunis à Genève, s’interrogent sur la régulation de ces nouvelles armes."
+      ],
+      "publishedAt": "2026-11-18T20:03:09+00:00",
+      "updatedAt": "2026-11-18T20:03:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/armes-autonomes-soldats-robots-le-vertige-d-une-guerre-sans-hommes-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "df06470c1357107b620bfad5831f7ac9ca08202cf7fb4336d2d9fdf15e283b75",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-003b5aeee13e68658b",
@@ -806,30 +828,6 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "5615b99b2337b5fa7d5504d48d5de3564f0adc627b4342d81d39414f9efa3db5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-522d375b4d632ecf53",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«J’ignore si un président prendrait cette décision» : le thriller nucléaire Jupiter est-il réaliste ?",
-      "bullets": [
-        "ENTRETIEN - Chercheur associé à la FRS sur la dissuasion nucléaire, Étienne Marcuz décrypte pour Le Figaro le vrai du faux de ce film qui met en scène la menace d’une apocalypse nucléaire dont la France est actrice."
-      ],
-      "publishedAt": "2026-11-18T08:16:03+00:00",
-      "updatedAt": "2026-11-18T08:16:03+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/j-ignore-si-un-president-prendrait-cette-decision-le-thriller-nucleaire-jupiter-est-il-realiste-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3b293a83ae2f1bc6a24343308fb6f279bff84e1abe5f260ce2ffc8df69498d3b",
       "detailLevel": "preview"
     },
     {
@@ -909,31 +907,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-264d1f9e43a394eea2",
+      "id": "rss-bec003357eeada875c",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
       "bullets": [
-        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
-        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
-        "Ces boulangers produisent environ 130 baguettes chaque jour."
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
       ],
-      "publishedAt": "2026-11-18T16:41:12+00:00",
-      "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
       "context": null
     },
     {
@@ -1085,31 +1083,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c6275b0240638d60ba",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
-      "bullets": [
-        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
-        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
-      ],
-      "publishedAt": "2026-11-18T18:09:23+00:00",
-      "updatedAt": "2026-11-18T18:09:23+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ea9dc6f36c5e9914a8",
       "revision": 1,
       "category": "france",
@@ -1159,32 +1132,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bec003357eeada875c",
+      "id": "rss-477bfcde542a88b1e2",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "topic": "Société",
+      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
       "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
+        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
       ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-18T07:41:00+00:00",
+      "updatedAt": "2026-11-18T07:41:00+00:00",
+      "importance": 66,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-bf176079419e24d2f4",
@@ -1232,6 +1202,31 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "59c501e64b95521d145d9b28fa5f3d1174409c0abb8f3c18d17f07c75602c9c8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8f66d58238f9637239",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "« Le gouvernement est obligé de céder » : au bord de la rupture après deux mois de violences sociales, les policiers crient leur ras-le-bol",
+      "bullets": [
+        "RÉCIT - Plusieurs centaines d’agents ont mené, mercredi, une manifestation surprise jusque sous les fenêtres du ministre de l’Intérieur.",
+        "La veille, les CRS ont demandé à consulter un médecin en se déclarant épuisés."
+      ],
+      "publishedAt": "2026-11-18T18:10:11+00:00",
+      "updatedAt": "2026-11-18T18:10:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-est-oblige-de-ceder-au-bord-de-la-rupture-apres-deux-mois-de-violences-sociales-les-policiers-crient-leur-ras-le-bol-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e16b4329fdaf4c3f824626c2ae8e576511028a89e26a66aaa1b5a66dae4b6fc7",
       "detailLevel": "preview"
     }
   ],
@@ -1300,7 +1295,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1312,7 +1307,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
