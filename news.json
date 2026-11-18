@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-18T23:03:06.925522+00:00",
+  "preparedAt": "2026-11-18T23:59:33.232560+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -355,9 +355,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T23:02:16+00:00",
-      "updatedAt": "2026-11-18T23:02:16+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-18T23:59:34+00:00",
+      "updatedAt": "2026-11-18T23:59:34+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -772,6 +772,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1de49b46b37957e98c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le pont de Crimée a de nouveau été attaqué, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l'infrastructure",
+      "bullets": [
+        "L'ouvrage reliant la Crimée annexée à la Russie a été à nouveau attaqué, a annoncé dans la soirée du mercredi 18 novembre, un responsable russe local, deux jours après des frappes ukrainiennes ayant sérieusement endommagé cette infrastructure.",
+        "A la suite d'une nouvelle attaque contre le pont de Crimée, la circulation est temporairement interrompue.",
+        "Une évaluation des dégâts est en cours\", a affirmé Sergueï Aksionov, le responsable de la Crimée nommé par Moscou, sur son compte Telegram."
+      ],
+      "publishedAt": "2026-11-18T23:14:23+00:00",
+      "updatedAt": "2026-11-18T23:14:23+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "d7534fc2dbaac829c057591775318bb3065062962a59684f224b549fdf4d5d40",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T23:59:33.232560+00:00",
+      "context": null
+    },
+    {
       "id": "rss-918e68aa59fa44926e",
       "revision": 1,
       "category": "world",
@@ -821,51 +849,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-522d375b4d632ecf53",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "«J’ignore si un président prendrait cette décision» : le thriller nucléaire Jupiter est-il réaliste ?",
-      "bullets": [
-        "ENTRETIEN - Chercheur associé à la FRS sur la dissuasion nucléaire, Étienne Marcuz décrypte pour Le Figaro le vrai du faux de ce film qui met en scène la menace d’une apocalypse nucléaire dont la France est actrice."
-      ],
-      "publishedAt": "2026-11-18T08:16:03+00:00",
-      "updatedAt": "2026-11-18T08:16:03+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/j-ignore-si-un-president-prendrait-cette-decision-le-thriller-nucleaire-jupiter-est-il-realiste-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3b293a83ae2f1bc6a24343308fb6f279bff84e1abe5f260ce2ffc8df69498d3b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4ba89deaf38e592602",
+      "id": "rss-3e73abe5f96b3a73ba",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Edouard Philippe présente une partie de son programme pour « rétablir l’ordre et remettre la France sur le chemin du progrès »",
+      "title": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
       "bullets": [
-        "« Nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années », a dit le candidat Horizons en détaillant des mesures sur l’école, la justice et la réforme des retraites, rappelant son attachement au projet européen et à la défense de l’Ukraine."
+        "Sur France 2, la secrétaire nationale des Ecologistes a ouvert la voie à son retrait de la présidentielle, alors que le parti ne s’est pas encore prononcé sur une candidature propre, une alliance avec La France insoumise ou un rapprochement avec Raphaël Glucksmann."
       ],
-      "publishedAt": "2026-11-18T11:46:08+00:00",
-      "updatedAt": "2026-11-18T11:46:08+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-18T23:49:22+00:00",
+      "updatedAt": "2026-11-18T23:49:22+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "ecf003a5cb3639b0a626cae19d2aeee6a48046ddc56d31eaebd731098ef375c1",
+      "summaryInput": "fd27308c2bc07b596a8a45dce64fbff8ae7ae977412022ca0389ddeeb7c177c4",
       "detailLevel": "preview"
     },
     {
