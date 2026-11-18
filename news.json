@@ -1,11 +1,35 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T17:20:38.909998+00:00",
+  "preparedAt": "2026-11-18T19:10:54.059515+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-321a742fd6c5f5b855",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
+      "bullets": [
+        "De Microsoft à la NSA en passant par la banque J.P. Morgan et le système de communication aérien, de nombreuses structures – et des millions d’Américains – ont été affectés, depuis jeudi 12 novembre, par une série de défaillances. A priori sans lien, elles révèlent les risques croissants de cyberattaques."
+      ],
+      "publishedAt": "2026-11-18T12:00:06+00:00",
+      "updatedAt": "2026-11-18T12:00:06+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "46299f42466bd7975536196ff1f38531c28f0b6a0cee7392ffe229a0f03a28f6",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-0d80595d5d52ffc6eb",
       "revision": 1,
@@ -16,8 +40,8 @@
         "Le projet de budget de la Sécurité sociale pour 2027 a été adopté mercredi en première lecture au Sénat, qui en a modifié plusieurs mesures phares notamment sur les retraites, alors que le suspense demeure entier sur l’issue des débats budgétaires au Parlement.",
         "Rejeté à l’Assemblée nationale en l’absence de majorité, le projet de loi de financement de la Sécurité sociale (PLFSS) a été soutenu à 201 voix contre 124 à la chambre haute, dominée par la droite et les centristes."
       ],
-      "publishedAt": "2026-11-18T17:10:38+00:00",
-      "updatedAt": "2026-11-18T17:10:38+00:00",
+      "publishedAt": "2026-11-18T17:50:03+00:00",
+      "updatedAt": "2026-11-18T17:50:03+00:00",
       "importance": 77,
       "sources": [
         {
@@ -29,6 +53,34 @@
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
       "summaryInput": "b3160cb23725688a10510560c844626f8932badc4d65b1ffa40172615d9af2e8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-264d1f9e43a394eea2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "bullets": [
+        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
+        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
+        "Ces boulangers produisent environ 130 baguettes chaque jour."
+      ],
+      "publishedAt": "2026-11-18T16:41:12+00:00",
+      "updatedAt": "2026-11-18T16:41:12+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
@@ -57,6 +109,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "27a53da4b8206b78563117e83880f118469d161fa3ed0058e3e23121cf99260f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d93dbb321152567556",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Sénat adopte en première lecture le projet de budget de la Sécurité sociale pour 2027",
+      "bullets": [
+        "Le PLFSS a été rejeté par l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 23 octobreL'Assemblée nationale a massivement rejeté en première lecture le projet de budget de la Sécurité sociale, en repoussant par 115 voix contre une sa partie \"recettes\".",
+        "Le PLF a été rejeté à l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 4 novembreLes députés ont rejeté à l'unanimité (458 voix contre) la partie \"recettes\" du projet de budget, ce qui constitue une première dans l'histoire.",
+        "Le vote solennel sur l'ensemble du texte (recettes et dépenses) est prévu le 9 décembre."
+      ],
+      "publishedAt": "2026-11-18T18:55:50+00:00",
+      "updatedAt": "2026-11-18T18:55:50+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "b03ee162bd5254c09cbaf3dddf5c5c40e1c03f20e8476a8225a08facfb68be21",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
+      "context": null
     },
     {
       "id": "rss-ecf6097c9130782086",
@@ -248,87 +328,6 @@
       "context": null
     },
     {
-      "id": "rss-4db00c4c7167e94c35",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Chèque énergie : le guichet pour demander l’aide ouvrira le 14 janvier, plus tôt que d’habitude",
-      "bullets": [
-        "Le guichet pour demander le chèque énergie ouvrira le 14 janvier, a annoncé le ministre de l’Économie Roland Lescure ce mercredi 18 novembre sur LCI.",
-        "Cette aide destinée aux foyers les plus modestes s’élevait en moyenne à 150 euros en 2026, selon le gouvernement (de 48 euros à 277 euros).",
-        "Pour bénéficier de cette aide, il fallait en 2026 que le revenu fiscal de référence par unité de consommation du ménage soit inférieur à 11.000 euros."
-      ],
-      "publishedAt": "2026-11-18T16:00:46+00:00",
-      "updatedAt": "2026-11-18T16:00:46+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/cheque-energie-le-guichet-pour-demander-l-aide-ouvrira-le-14-janvier-plus-tot-que-d-habitude-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "7cbbcda4ac36dcbf985abd061917f3ada5ce940fde99b6cec5e2f69498a04f2b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T12:10:27.300856+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-54b425e7f2f9a26ae0",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«C’est louable de faire preuve de sobriété» : la présidente mexicaine Claudia Sheinbaum saluée pour son vol en classe éco pour la Chine",
-      "bullets": [
-        "La présidente mexicaine Claudia Sheinbaum a fait sensation mercredi sur les réseaux sociaux chinois, où les internautes ont salué son choix de voyager en classe économique sur un vol commercial pour assister à un sommet régional.",
-        "Mercredi soir, un mot-dièse consacré à son arrivée en Chine cumulait 10,2 millions de vues sur Weibo.",
-        "Avant son départ, Claudia Sheinbaum avait prévenu que le trajet jusqu'en Chine prendrait «pratiquement deux jours de vol»."
-      ],
-      "publishedAt": "2026-11-18T14:44:46+00:00",
-      "updatedAt": "2026-11-18T14:44:46+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/c-est-louable-de-faire-preuve-de-sobriete-la-presidente-mexicaine-claudia-sheinbaum-saluee-pour-son-vol-en-classe-eco-pour-la-chine-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "16b5c6902c6bf0edf086f01b2fa24beeaec312e11a5a4dc64ecd47dbfc381cb6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-893ede96137f372f59",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
-      "bullets": [
-        "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de l’entreprise, qu’il avait été contraint de quitter le 12 novembre.",
-        "Les partisans de Donald Trump dénoncent les zones obscures de l’affaire."
-      ],
-      "publishedAt": "2026-11-18T07:30:14+00:00",
-      "updatedAt": "2026-11-18T07:30:14+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5ec6f9b1c939f52e0f8f6eef669c5a269e5c10ade413afb8733a768bdc282016",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -339,8 +338,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T17:11:50+00:00",
-      "updatedAt": "2026-11-18T17:11:50+00:00",
+      "publishedAt": "2026-11-18T19:07:42+00:00",
+      "updatedAt": "2026-11-18T19:07:42+00:00",
       "importance": 69,
       "sources": [
         {
@@ -353,7 +352,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
+      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
       "context": null
     },
     {
@@ -558,7 +557,7 @@
       ],
       "publishedAt": "2026-11-17T18:16:11+00:00",
       "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -600,30 +599,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
       "context": null
-    },
-    {
-      "id": "rss-321a742fd6c5f5b855",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
-      "bullets": [
-        "De Microsoft à la NSA en passant par la banque J.P. Morgan et le système de communication aérien, de nombreuses structures – et des millions d’Américains – ont été affectés, depuis jeudi 12 novembre, par une série de défaillances. A priori sans lien, elles révèlent les risques croissants de cyberattaques."
-      ],
-      "publishedAt": "2026-11-18T12:00:06+00:00",
-      "updatedAt": "2026-11-18T12:00:06+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "46299f42466bd7975536196ff1f38531c28f0b6a0cee7392ffe229a0f03a28f6",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-ce9701886a6a257e9d",
@@ -676,6 +651,31 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-50c527a6a7f481e941",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Danemark, la première ministre sociale-démocrate Mette Frederiksen franchit un nouveau pas vers l’extrême droite en parlant de « grand remplacement »",
+      "bullets": [
+        "Dans un podcast, mardi 17 novembre, la cheffe du gouvernement danois a évoqué cette théorie complotiste, se livrant à une surenchère supplémentaire dans le domaine de l’immigration.",
+        "Ses propos ont été salués par l’extrême droite européenne."
+      ],
+      "publishedAt": "2026-11-18T18:00:06+00:00",
+      "updatedAt": "2026-11-18T18:00:06+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "70c81a1ca453d8154b3c63c8ba42acda7fea0ce4b7a47f6453d71bd15e4394ce",
       "detailLevel": "preview"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "publishedAt": "2026-11-16T18:45:00+00:00",
       "updatedAt": "2026-11-16T18:45:00+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -780,6 +780,31 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "626d742ac0e02fcf0b729c7da277f935acd91fcfd583f8dbf07398af0ee12f05",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-003b5aeee13e68658b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre au Soudan : « Beaucoup de familles marient leurs filles de force en pensant qu’un mari les protégera du viol »",
+      "bullets": [
+        "Depuis le début de la guerre, en 2023, l’avocate soudanaise Tahani Abbas recueille des témoignages de femmes violées.",
+        "Elle explique, dans un entretien au « Monde », pourquoi si peu d’entre elles témoignent, dans une société très conservatrice où les victimes sont parfois tuées pour sauver l’honneur familial."
+      ],
+      "publishedAt": "2026-11-18T17:30:12+00:00",
+      "updatedAt": "2026-11-18T17:30:12+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/18/guerre-au-soudan-beaucoup-de-familles-marient-leurs-filles-de-force-en-pensant-qu-un-mari-les-protegera-du-viol_6813179_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5615b99b2337b5fa7d5504d48d5de3564f0adc627b4342d81d39414f9efa3db5",
       "detailLevel": "preview"
     },
     {
@@ -807,31 +832,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dff3d7aff9f4038f2e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A suivre Alban Mikoczy : Ukraine/Russie, la guerre des ponts",
-      "bullets": [
-        "Dans cette troisième partie, Alban Mikoczy et ses invités reviennent sur le pont de Crimée attaqué par des drones ukrainiens deux jours consécutifs, ce qui constitue un revers majeur pour Vladimir Poutine.",
-        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
-      ],
-      "publishedAt": "2026-11-18T07:23:32+00:00",
-      "updatedAt": "2026-11-18T07:23:32+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-alban-mikoczy-ukraine-russie-la-guerre-des-ponts_8287826.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b1eab171c5ca9d6f0da784396f29630c8f7e1aa1ff0412eda044f8e95d008f06",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4ba89deaf38e592602",
       "revision": 1,
       "category": "france",
@@ -856,28 +856,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c070ffe904f80abdd8",
+      "id": "rss-d4255309f9168af8e2",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Loi « relance du logement » : l’Assemblée nationale valide le lancement du programme ANRU 3 pour la période 2026-2040",
+      "title": "Réforme des retraites du RN : \"On ferait payer plus les plus vulnérables\", estime la députée EPR Violette Spillebout",
       "bullets": [
-        "Certains députés ont néanmoins jugé insuffisant le financement de 5 milliards d’euros prévu pour démarrer ce nouveau programme de financement de projets de rénovation urbaine, qui vise notamment 150 quartiers prioritaires."
+        "Et puis, la deuxième chose, c'est sur finalement travailler plus, dans une période donnée, avec des dates qui sont aujourd'hui vers les 62 ans.",
+        "L'annonce de Marine Le Pen, c'était la retraite à 60 ans, on voyait bien que ce n'était pas financé.",
+        "Et on est deux mois après, et aujourd'hui c'est entre 60 et 62 ans, et on sait que ça coûte 35 milliards d'euros par an et que ça n'est pas financé aujourd'hui."
       ],
-      "publishedAt": "2026-11-18T02:16:53+00:00",
-      "updatedAt": "2026-11-18T02:16:53+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-18T19:06:33+00:00",
+      "updatedAt": "2026-11-18T19:06:33+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/loi-relance-du-logement-l-assemblee-nationale-valide-le-lancement-du-programme-anru-3-pour-la-periode-2026-2040_6813057_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/reforme-des-retraites-du-rn-on-ferait-payer-plus-les-plus-vulnerables-estime-la-deputee-epr-violette-spillebout_8288867.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "06abc5714e8b7f2c1c70f83a024e4df118fa76a67e81f7613bf3f6ee37b1ea70",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7b0d075243dedd22cacbd7f0b0ec9c1f1b2ff725ec95b9065f4749daa0fd84a3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
+      "context": null
     },
     {
       "id": "rss-34f5f5b3a59f845579",
@@ -904,139 +908,38 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-264d1f9e43a394eea2",
+      "id": "rss-bec003357eeada875c",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
       "bullets": [
-        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
-        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
-        "Ces boulangers produisent environ 130 baguettes chaque jour."
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
       ],
-      "publishedAt": "2026-11-18T16:41:12+00:00",
-      "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
       "context": null
-    },
-    {
-      "id": "rss-03ed5d20dd96435243",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
-      "bullets": [
-        "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
-      ],
-      "publishedAt": "2026-11-17T05:58:02+00:00",
-      "updatedAt": "2026-11-17T05:58:02+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "96e7eda9a60b54eec9baba520d1b2bf645acc3700cc7e327ef75f5ec700b01c6",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-fcc801344e91bcfeba",
-      "revision": 3,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "VIDEO. \"Il faut savoir dire stop\" : les absences pour consultation médicale se multiplient chez les CRS, éprouvés et en colère face à la mobilisation sociale",
-      "bullets": [
-        "La compagnie de policiers assure le maintien de l'ordre de la manifestation lyonnaise, mardi 17 novembre, lors d'une journée de mobilisation intersyndicale dans la fonction publique.",
-        "Dans ce contexte, d'autres membres de sa compagnie manquent à l'appel : sur 68 policiers prévus, 32 ont pris rendez-vous chez le médecin le jour même.",
-        "Un CRS, lui-même en consultation médicale, explique la situation de nombre d'entre eux : \"Il y a une grosse fatigue physique, quand vous faites des journées de 12, 14, 16 heures, au bout d'un moment, le corps ne suit plus."
-      ],
-      "publishedAt": "2026-11-18T10:22:03+00:00",
-      "updatedAt": "2026-11-18T10:22:03+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "96704090403f1c3565e57d3acd0af40b0ec10396c195800c8f746d1e4cbf9fdd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T12:10:27.300856+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b2debaf2be0a3721d6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
-      "bullets": [
-        "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie."
-      ],
-      "publishedAt": "2026-11-17T18:00:09+00:00",
-      "updatedAt": "2026-11-17T18:00:09+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "60b5bcf93ef23d681f1a77918d189f4c4f4c5a76e3e98ef54e8fa258a7f01f93",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dc98a19129931dcc46",
-      "revision": 4,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : le RN propose une réforme des retraites en trompe-l’œil qui sacrifie les précaires et la politique du logement pour la financer",
-      "bullets": [
-        "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas 1 euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
-        "Elle instaure une part de capitalisation en prenant, notamment, l’argent du Fonds national d’aide au logement."
-      ],
-      "publishedAt": "2026-11-18T04:41:47+00:00",
-      "updatedAt": "2026-11-18T04:41:47+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rn-compte-financer-son-avantageuse-reforme-des-retraites-et-un-debut-de-capitalisation-au-detriment-des-precaires-et-de-la-politique-du-logement_6813066_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dbd7993e2f7699b36a2d3bbe9d6d4c0e12a684509782a1733ffd077f0451e4ce",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-eb12dd5d359197ce80",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Justice",
       "title": "Prostitution des mineurs : un rapport parlementaire appelle faire peser la charge de la preuve sur les « clients pédocriminels »",
       "bullets": [
         "Le rapport, rédigé par la délégation aux droits des enfants de l’Assemblée nationale, propose de légiférer sur « la plus grosse défense » des clients pédocriminels, qui affirment penser que la personne prostituée avait déclaré être majeure au moment des faits."
@@ -1054,6 +957,106 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c3bb1e4019b6f1524d15883545ad88881143667d6dab68015311b67a32a2ec",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c38f2672a8631f4710",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "A bout, des CRS se ruent chez leur médecin",
+      "bullets": [
+        "La colère monte et le syndicat appelle à une \"journée noire\" le 26 novembre.",
+        "Un policier municipal d'Orléans condamné à 10 mois de prison ferme pour avoir frappé un jeune de 17 ans",
+        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion"
+      ],
+      "publishedAt": "2026-11-18T18:00:02+00:00",
+      "updatedAt": "2026-11-18T18:00:02+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/a-bout-des-crs-se-ruent-chez-leur-medecin_8288444.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "804bebda835278727c8730bbc3d98c6b43183508880c62d12e6aefbcb3f9775e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b2debaf2be0a3721d6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
+      "bullets": [
+        "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie."
+      ],
+      "publishedAt": "2026-11-17T18:00:09+00:00",
+      "updatedAt": "2026-11-17T18:00:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "60b5bcf93ef23d681f1a77918d189f4c4f4c5a76e3e98ef54e8fa258a7f01f93",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-968fe30b2be90d3907",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Les images de l’échange tendu entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen à l’Assemblée nationale",
+      "bullets": [
+        "« Arrêtez de souffler sur les braises, arrêtez de jeter de l’huile sur le feu et respectez les principes de la loi républicaine et tout ira bien, monsieur le député », a fustigé le ministre de l’intérieur."
+      ],
+      "publishedAt": "2026-11-18T18:32:29+00:00",
+      "updatedAt": "2026-11-18T18:32:29+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/video/2026/11/18/les-images-de-l-echange-tendu-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-a-l-assemblee-nationale_6813192_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a21979dc143409a3cf6b70b86dda7cbdf7b14c45713eeb1f317ca6169640c723",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7afdd7310a256f1292",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget de la « Sécu » 2027 : le projet de texte adopté au Sénat en première lecture",
+      "bullets": [
+        "La commission mixte paritaire devra désormais tenter, la semaine prochaine, de rapprocher les positions de l’Assemblée nationale et du Sénat sur le texte."
+      ],
+      "publishedAt": "2026-11-18T17:31:41+00:00",
+      "updatedAt": "2026-11-18T17:31:41+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/18/budget-de-la-secu-2027-le-projet-de-texte-adopte-au-senat-en-premiere-lecture_6813180_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5da30ff3625e2b7600f8fa749beda504a0b46e113a37db71059d13a93fb69126",
       "detailLevel": "preview"
     },
     {
@@ -1082,6 +1085,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c6275b0240638d60ba",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+      "bullets": [
+        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
+        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+      ],
+      "publishedAt": "2026-11-18T18:09:23+00:00",
+      "updatedAt": "2026-11-18T18:09:23+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ea9dc6f36c5e9914a8",
       "revision": 1,
       "category": "france",
@@ -1091,8 +1119,8 @@
         "Les élèves du lycée Nelson-Mandela retournent en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre.",
         "Les événements survenus lors de la visite du ministre de l’éducation nationale, lundi 16 novembre, ont contraint à repousser cette rentrée de deux jours."
       ],
-      "publishedAt": "2026-11-18T16:18:56+00:00",
-      "updatedAt": "2026-11-18T16:18:56+00:00",
+      "publishedAt": "2026-11-18T16:18:54+00:00",
+      "updatedAt": "2026-11-18T16:18:54+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1131,59 +1159,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bec003357eeada875c",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
-      "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
-      ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-477bfcde542a88b1e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
-      "bullets": [
-        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
-        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
-      ],
-      "publishedAt": "2026-11-18T07:41:00+00:00",
-      "updatedAt": "2026-11-18T07:41:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-bf176079419e24d2f4",
       "revision": 1,
       "category": "france",
@@ -1194,7 +1169,7 @@
       ],
       "publishedAt": "2026-11-18T07:09:15+00:00",
       "updatedAt": "2026-11-18T07:09:15+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1205,6 +1180,31 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "a16d887454deb5ae6f28ff2c1ea5f076b64853ca728925d18f8e634d98d5a884",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8f66d58238f9637239",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "« Le gouvernement est obligé de céder » : au bord de la rupture après deux mois de violences sociales, les policiers crient leur ras-le-bol",
+      "bullets": [
+        "RÉCIT - Plusieurs centaines d’agents ont mené, mercredi, une manifestation surprise jusque sous les fenêtres du ministre de l’Intérieur.",
+        "La veille, les CRS ont demandé à consulter un médecin en se déclarant épuisés."
+      ],
+      "publishedAt": "2026-11-18T18:10:11+00:00",
+      "updatedAt": "2026-11-18T18:10:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-est-oblige-de-ceder-au-bord-de-la-rupture-apres-deux-mois-de-violences-sociales-les-policiers-crient-leur-ras-le-bol-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e16b4329fdaf4c3f824626c2ae8e576511028a89e26a66aaa1b5a66dae4b6fc7",
       "detailLevel": "preview"
     },
     {
@@ -1243,7 +1243,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1255,7 +1255,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1291,13 +1291,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1315,7 +1315,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
