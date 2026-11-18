@@ -1,39 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T06:21:39.170314+00:00",
+  "preparedAt": "2026-11-18T08:28:26.696430+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-de39752a8808e05cea",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Mensonge», «arnaque» et «vices cachés» : la droite et le centre attaquent la réforme des retraites de Marine Le Pen",
-      "bullets": [
-        "Pour le candidat LR Bruno Retailleau, cette retraite à 62 ans est un «totem démagogique» qui l'oblige à livrer un «catalogue de contradictions».",
-        "En abaissant tous les curseurs, comme l’âge de départ et la durée de cotisation, «ça coûtera 35 milliards d’euros», selon Franck Morel, un conseiller d’Horizons sur ces questions.",
-        "Le co-responsable du programme de Gabriel Attal, Paul Midy voit dans le projet du RN, qui générera un «trou» de 35 milliards d’euros, une «vaste arnaque financière avec beaucoup de créations d’injustices»."
-      ],
-      "publishedAt": "2026-11-17T15:53:18+00:00",
-      "updatedAt": "2026-11-17T15:53:18+00:00",
-      "importance": 96,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/mensonge-arnaque-et-vices-caches-la-droite-et-le-centre-attaquent-la-reforme-des-retraites-de-marine-le-pen-20261117",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "0f80dd73136850e118afd1c75319d472ef761f9a8c90413ea55267c6e2cf101c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
-      "context": null
-    },
     {
       "id": "rss-32a41cec0c9c31e9ff",
       "revision": 2,
@@ -60,79 +32,59 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-adac833496c4d7828e",
+      "id": "rss-fa7a1cc5852a2910f7",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Après la France, l’Allemagne, l’Espagne et l’Italie, les États européens bousculés par la crise du coût de la vie",
+      "title": "Budget de la Sécu : la copie du Sénat ramène le déficit à 14 milliards, proche de la cible gouvernementale",
       "bullets": [
-        "DÉCRYPTAGE - Les gouvernements répondent à la colère de leurs concitoyens selon leurs moyens.",
-        "Ils ont déboursé plus de 40 milliards d’euros sans pour l’instant calmer les colères."
+        "Le Sénat s'apprête à adopter ce mercredi 18 novembre le projet de budget de la Sécurité sociale pour 2027, après avoir abouti à une copie ramenant le déficit de la Sécu à 14 milliards d'euros, un chiffre proche de la cible initiale du gouvernement, fixée à 12,7 milliards.",
+        "Ce n'est toutefois qu'une étape dans un long cheminement parlementaire, en attendant les choix du gouvernement, qui devra décider de quelle manière il compte surmonter son absence de majorité à l'Assemblée nationale pour faire passer son budget (49.3, ordonnances...)."
       ],
-      "publishedAt": "2026-11-17T19:17:24+00:00",
-      "updatedAt": "2026-11-17T19:17:24+00:00",
+      "publishedAt": "2026-11-18T06:22:03+00:00",
+      "updatedAt": "2026-11-18T06:22:03+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/apres-la-france-l-allemagne-l-espagne-et-l-italie-les-etats-europeens-bouscules-par-la-crise-du-cout-de-la-vie-20261117",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-secu-la-copie-du-senat-ramene-le-deficit-a-14-milliards-proche-de-la-cible-gouvernementale-20261118",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c1f9ceb154f1bae7202411ac55c87d0c03f72863d4169d8884163221b0ae5a8a",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "062deda7da248c9525c2c506ed61a99943a38882bbb04c7173242959352a8fb9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
+      "context": null
     },
     {
-      "id": "rss-40f40e7186405511a4",
+      "id": "rss-30df1e37737cd81d66",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites",
+      "title": "Bourse : Anthropic fixé mercredi sur le montant levé pour son introduction",
       "bullets": [
-        "La candidate du Rassemblement national (RN) à la présidentielle a détaillé ce mardi sa réforme des retraites.",
-        "Elle a notamment précisé la manière dont elle comptait abaisser l’âge de départ en cas d’arrivée au pouvoir, ainsi que les pistes de financement."
+        "Depuis un pic début octobre, l'indice Nasdaq à forte composition technologique a reculé de plus de 12%.",
+        "Cet appétit pourrait porter, selon Bloomberg, le prix proposé au-delà du haut de la fourchette annoncée par Anthropic, comprise entre 70 et 78 dollars.",
+        "Une IA à risque Aux 825 millions de titres offerts initialement s'ajoute une option qui permet aux banques partenaires de distribuer davantage d'actions que prévu en cas de forte souscription."
       ],
-      "publishedAt": "2026-11-17T14:08:19+00:00",
-      "updatedAt": "2026-11-17T14:08:19+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/depart-de-60-a-62-ans-capitalisation-age-du-premier-emploi-stable-ce-qu-il-faut-retenir-du-projet-de-marine-le-pen-pour-les-retraites-20261117",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2c99c969f28c7c8193c2e52d59f023714124a8f7071a07bd0cc23fec31f682d3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c27596289526189bff",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Croissance, déficit, chômage… L’Union européenne s’inquiète du décrochage économique de la France",
-      "bullets": [
-        "RÉCIT - La France est devenue la lanterne rouge des États membres de l’UE.",
-        "Selon les prévisions de la Commission, le déficit et la dette vont continuer de se creuser."
-      ],
-      "publishedAt": "2026-11-17T19:12:20+00:00",
-      "updatedAt": "2026-11-17T19:12:20+00:00",
+      "publishedAt": "2026-11-18T06:39:38+00:00",
+      "updatedAt": "2026-11-18T06:39:38+00:00",
       "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/croissance-deficit-chomage-l-union-europeenne-s-inquiete-du-decrochage-economique-de-la-france-20261117",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/secteur/high-tech/bourse-anthropic-fixe-mercredi-sur-le-montant-leve-pour-son-introduction-20261118",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "713f3caaad7a4af0ccb54fb75e6332a0295223c01afe30eb8aeb643d8b49f0a6",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "6933b8b9aad6a361ef54c210e0997f8e22d5465373f8cf1b62a1fd1065343647",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
+      "context": null
     },
     {
       "id": "rss-93ac6633b9a29efe72",
@@ -171,8 +123,8 @@
       "bullets": [
         "LA SAGA ANTHROPIC (1/3). Au tout début, Dario Amodei et ses six cofondateurs ne voulaient pas créer d’entreprise, seulement rompre avec la trajectoire du créateur de ChatGPT. Cinq ans plus tard, leur start-up s’apprête à faire une entrée fracassante à Wall Street."
       ],
-      "publishedAt": "2026-11-17T19:20:00+00:00",
-      "updatedAt": "2026-11-17T19:20:00+00:00",
+      "publishedAt": "2026-11-18T07:58:22+00:00",
+      "updatedAt": "2026-11-18T07:58:22+00:00",
       "importance": 71,
       "sources": [
         {
@@ -187,32 +139,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-df543741a48570fc82",
+      "id": "rss-07071720cce6520247",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Ikea, HSBC, BBC : plusieurs dizaines de sites internet visés simultanément par une cyberattaque pour récupérer les données financières d'utilisateurs",
+      "title": "Électricité : les prix montent, faut-il craindre une pénurie cet hiver ?",
       "bullets": [
-        "Des dizaines de sites internet grand public tels ceux de la BBC, Ikéa, HSBC ou CNN ont été visés par une cyberattaque destinée à récolter des données financières personnelles d'utilisateurs, rapporte mardi la plateforme de surveillance Report URI.",
-        "Les pirates sont passés par le site de marketing assisté par intelligence artificielle (IA) Optimizely, qui permet aux entreprises de tester des améliorations et de créer de nouveaux contenus.",
-        "Selon Scott Helme, fondateur de Report URI, le butin des pirates s'est limité à environ 7.000 dollars."
+        "DÉCRYPTAGE - Suite à la reprise en main du parc nucléaire d’EDF, le gestionnaire du réseau de transport d’électricité (RTE) a évalué le risque d’un black-out, quatre ans après la crise de 2022-2023."
       ],
-      "publishedAt": "2026-11-17T20:21:03+00:00",
-      "updatedAt": "2026-11-17T20:21:03+00:00",
+      "publishedAt": "2026-11-18T06:30:00+00:00",
+      "updatedAt": "2026-11-18T06:30:00+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/ikea-hsbc-bbc-plusieurs-dizaines-de-sites-internet-vises-simultanement-par-une-cyberattaque-pour-recuperer-les-donnees-financieres-d-utilisateurs-20261117",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/societes/electricite-les-prix-montent-faut-il-craindre-une-penurie-cet-hiver-20261118",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "29ea0f567aec1b2d577416230f2d65495dcfc1dff1c2c9aea02fe95099781fa5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-17T21:03:44.688368+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "91d72b1ea1d7b7214ba0cdb54bf27c77689a64107da65700ab63afe302cdbf1e",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8340ce6dea4c6a13db",
@@ -227,7 +175,7 @@
       ],
       "publishedAt": "2026-11-17T20:00:02+00:00",
       "updatedAt": "2026-11-17T20:00:02+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -243,32 +191,29 @@
       "context": null
     },
     {
-      "id": "rss-d84cda46b1666e4857",
+      "id": "rss-29cba222dfd6b7a472",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Que contient le projet de loi de cybersécurité, adopté par les députés ce mardi après une vague de cyberattaques ?",
+      "title": "Présidentielle 2027 : ce que les patrons et Jean-Luc Mélenchon se sont dit mardi soir",
       "bullets": [
-        "Ce week-end encore, une filiale du groupe La Poste a annoncé avoir été victime d'une cyberattaque de grande ampleur mi-septembre, conduisant au vol des coordonnées de 22 millions de personnes.",
-        "18.000 entités concernées Concrètement, le projet de loi, très technique, doit transposer en droit français trois directives européennes.",
-        "Selon la ministre, plus de 18.000 entités dans 18 secteurs critiques - comme l'énergie, la santé ou les transports - seront concernées par de nouvelles obligations «en matière de gestion des risques, de sécurisation des sous-traitants» ou «de notification des incidents» à l'Anssi."
+        "INFO LE FIGARO - Treize grands patrons et deux Insoumis ont dîné mardi soir.",
+        "L’ambiance a été cordiale, les débats intéressants, mais les désaccords sur le fond restent entiers."
       ],
-      "publishedAt": "2026-11-17T18:40:32+00:00",
-      "updatedAt": "2026-11-17T18:40:32+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-18T05:37:59+00:00",
+      "updatedAt": "2026-11-18T05:37:59+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/que-contient-le-projet-de-loi-de-cybersecurite-adopte-par-les-deputes-ce-mardi-apres-une-vague-de-cyberattaques-20261117",
-          "access": "public"
+          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-ce-que-les-patrons-et-jean-luc-melenchon-se-sont-dit-mardi-soir-20261118",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "8a978f1b8d75b6543eabc86ab81535c4753f69166211a56bc62968d066621ecb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "758ef00a1b932f524e2b9ed65d943cf2dc527245b5be046809ee89682a06402c",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d0c14934c31ea0f77a",
@@ -299,28 +244,76 @@
       "context": null
     },
     {
-      "id": "rss-ee8fe3eef4fa1b7d88",
+      "id": "rss-dae906a01aac7deddf",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "M6 mise sur Cyril Hanouna pour s’imposer dans la campagne présidentielle",
+      "title": "La présidentielle de 2027 et ses enjeux : l’immigration face à la réalité des chiffres",
       "bullets": [
-        "DÉCRYPTAGE - À cinq mois du premier tour de l’élection présidentielle, le groupe planche sur un projet d’émission où son animateur vedette recevrait les principaux candidats.",
-        "Un chantier complexe."
+        "Les mouvements migratoires sont constitutifs de l’histoire de la France, mais restent au cœur des crispations. Qui arrive ? D’où vient-on ? Où travaille-t-on ? Comment s’intègre-t-on ? Une plongée dans les réalités de l’immigration, loin des seules perceptions."
       ],
-      "publishedAt": "2026-11-17T20:43:22+00:00",
-      "updatedAt": "2026-11-17T20:43:22+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-17T16:00:07+00:00",
+      "updatedAt": "2026-11-17T16:00:07+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/il-est-la-carte-maitresse-de-la-chaine-m6-mise-sur-cyril-hanouna-pour-s-imposer-dans-la-campagne-presidentielle-20261117",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/la-presidentielle-de-2027-et-ses-enjeux-l-immigration-face-a-la-realite-des-chiffres_6813002_6205049.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "e9ec9be707bc4e198e60b7e6ab6756892cba9a57cf5158901f685444e39b9165",
+      "summaryInput": "78f9bd13b6d523cb0ebdede8d60e824a65001b14c6083fb0b59760c70f9f1642",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-71af34e8f5041700e1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les mouvements sociaux et l’après présidentielle suscitent l’inquiétude des fabricants de la marque « Elysée »",
+      "bullets": [
+        "Les marques de produits estampillés « Elysée-présidence de la République », censés valoriser le savoir-faire français, redoutent un changement d’image de la marque après le scrutin de 2027."
+      ],
+      "publishedAt": "2026-11-17T15:25:31+00:00",
+      "updatedAt": "2026-11-17T15:25:31+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/entre-mouvements-sociaux-et-incertitude-politique-les-fabricants-de-la-marque-elysee-s-inquietent-pour-son-avenir_6812993_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "24d81c4759bdb9ffd912157f7ea1cad6d1be836066cdea227e34dcd206944094",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-25dcb690320a211f1d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Plans d’épargne-retraite : ce qui a changé en 2026",
+      "bullets": [
+        "Davantage souscrit pour les avantages fiscaux à l’entrée que pour le complément de revenu qu’il génère à la sortie, le PER a fait l’objet de trois ajustements dans le cadre des lois budgétaires de l’Etat.",
+        "En cette période propice aux versements de fin d’année, il est préférable de les avoir…"
+      ],
+      "publishedAt": "2026-11-17T13:00:03+00:00",
+      "updatedAt": "2026-11-17T13:00:03+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/argent/article/2026/11/17/plans-d-epargne-retraite-ce-qui-a-change-en-2026_6812971_1657007.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "74e1538c94abbffd21c81164204039f9da93b1a76927dc1ffcbb6c9c447a6709",
       "detailLevel": "preview"
     },
     {
@@ -334,8 +327,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T06:16:07+00:00",
-      "updatedAt": "2026-11-18T06:16:07+00:00",
+      "publishedAt": "2026-11-18T08:24:17+00:00",
+      "updatedAt": "2026-11-18T08:24:17+00:00",
       "importance": 69,
       "sources": [
         {
@@ -352,56 +345,31 @@
       "context": null
     },
     {
-      "id": "rss-c7d6931cd0237b04c5",
+      "id": "rss-a535e34a421674cde1",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Plombé par les inquiétudes autour de Nvidia et le recul du luxe, le CAC 40 clôture en forte baisse",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.01%",
       "bullets": [
-        "Son indice phare, le CAC 40 a clôturé en forte baisse de 1,62% à 8.216,78 points.",
-        "En revanche, elle abaisse ses prévisions pour la France à 0,4% en 2026 et 0,6% en 2027, sur fond de recul des investissements et de redressement budgétaire.",
-        "Hermès accuse la plus forte baisse du CAC 40 à la clôture, avec un repli de 5,1%, suivi de Kering, qui a perdu 3,6%, et de LVMH, en baisse de 2,7%."
+        "(BFM Bourse) - Après avoir fini en baisse de -1.62% à 8216.7803 points lors de sa dernière séance, le CAC 40 poursuit son repli en cédant -0.01% à l’ouverture.",
+        ": Visa et Mastercard défendent un accord de 38 milliards de …"
       ],
-      "publishedAt": "2026-11-17T16:40:11+00:00",
-      "updatedAt": "2026-11-17T16:40:11+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "updatedAt": "2026-11-18T08:00:00+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-inquietudes-autour-de-nvidia-et-le-recul-du-luxe-le-cac-40-cloture-en-forte-baisse-1173960.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-001-1173992.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "c11fbb41172f95a4e9b07f959a35e848537d4b556ed66c673f690877ba1d8cca",
+      "summaryInput": "a5157e64d9fed99de64a8068db81ee0064f721ceb4c9a027ca373025c0fe693e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
       "context": null
-    },
-    {
-      "id": "rss-91e7657069971e8ac8",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "La rémunération moyenne des patrons du CAC 40 était de 7,5 millions d’euros en 2025, une hausse de 16 %",
-      "bullets": [
-        "Selon Proxinvest, sur la période 2014-2025, la rémunération moyenne des salariés a augmenté de 36,1 %, tandis que celle des dirigeants a grimpé de 75,5 %."
-      ],
-      "publishedAt": "2026-11-17T12:48:01+00:00",
-      "updatedAt": "2026-11-17T12:48:01+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/la-remuneration-moyenne-des-patrons-du-cac-40-etait-de-7-5-millions-d-euros-en-2025-une-hausse-de-16_6812969_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "004c30c5c5584c707e32bc8167490dcf673620c63d0a7a67082b87092f60e794",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-1d1879df406add44ab",
@@ -571,7 +539,7 @@
       "id": "rss-4c7f6287fee3a1d857",
       "revision": 2,
       "category": "world",
-      "topic": "International",
+      "topic": "Santé",
       "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
       "bullets": [
         "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
@@ -592,7 +560,7 @@
       "provenance": "article-extract",
       "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-17T19:22:59.105735+00:00",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
       "context": null
     },
     {
@@ -607,7 +575,7 @@
       ],
       "publishedAt": "2026-11-15T20:15:00+00:00",
       "updatedAt": "2026-11-15T20:15:00+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -621,31 +589,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-736d1746d738f918c2",
-      "revision": 2,
+      "id": "rss-9cf492b6b8f05f3704",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Serbie : la liste étudiante entre au Parlement",
+      "title": "Migrants : cinq pays européens envisagent d'envoyer au Rwanda des demandeurs d'asile déboutés",
       "bullets": [
-        "Les 140 nouveaux députés serbes de la liste étudiante, élus le 25 octobre 2026, ont finalement pris place à l'Assemblée du pays ce matin.",
-        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion",
-        "Kim Jong-Un va-t-il rencontrer Donald Trump en Chine ?"
+        "Des migrants de toute nationalité expulsés d'Europe vers le Rwanda en 2027 et logés probablement dans des hôtels de Kigali, transformés en centres de retour.",
+        "Ce projet pilote, imaginé en lien avec la Commission européenne, consisterait à envoyer dans un premier temps une centaine de migrants d'Allemagne, d'Autriche, de Grèce, du Danemark et des Pays-Bas vers le Rwanda.",
+        "\"Je suis contre le fait qu'on renvoie dans des pays tiers les gens qui viennent demander accueil sur notre territoire\", dénonce Raphaël Glucksmann."
       ],
-      "publishedAt": "2026-11-17T17:25:35+00:00",
-      "updatedAt": "2026-11-17T17:25:35+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-18T06:58:51+00:00",
+      "updatedAt": "2026-11-18T06:58:51+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/serbie-la-liste-etudiante-entre-au-parlement_8286926.html",
+          "url": "https://www.franceinfo.fr/monde/europe/migrants/migrants-cinq-pays-europeens-envisagent-d-envoyer-au-rwanda-des-demandeurs-d-asile-deboutes_8287772.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "4f511ec745d3d6c8d3212785e45859e276f33642b35126c1687f56ab6fbbbc7a",
+      "summaryInput": "fc4de4f8e2e47274aa6718c8085f3114a28fdc0ec688bc608c489b8cd358900b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T06:21:39.170314+00:00",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
       "context": null
     },
     {
@@ -673,34 +641,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-332df6d7a8fc6004c7",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Protection de l'enfance : le département du Nord attaqué en justice pour \"défaillance\" par le Syndicat de la magistrature et plusieurs associations",
-      "bullets": [
-        "Le Département du Nord est attaqué en justice pour \"défaillance dans la protection de l'enfance\" par le Syndicat de la magistrature et plusieurs associations, indique ce mardi Utopia 56 dans un communiqué.",
-        "Dans un communiqué, le département réaffirme \"qu'il n'est en charge ni de la politique migratoire ni des flux d'arrivée exceptionnels\".",
-        "Au mois de novembre, 2 000 nouvelles personnes sont arrivées sur place selon les autorités.\"Très peu de mineurs non accompagnés sur le littoral acceptent la prise en charge inconditionnelle qui leur est proposée, rappelle le département du Nord."
-      ],
-      "publishedAt": "2026-11-17T17:37:09+00:00",
-      "updatedAt": "2026-11-17T17:37:09+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/migrants/protection-de-l-enfance-le-departement-du-nord-attaque-en-justice-pour-defaillance-par-le-syndicat-de-la-magistrature-et-plusieurs-associations_8286659.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "e30b7f28af290dbfdbe5183ce2024071e59dd106e227df06d87c8df94888556c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T04:08:38.614050+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2e24ec5670ebf25a7a",
       "revision": 1,
       "category": "world",
@@ -711,7 +651,7 @@
       ],
       "publishedAt": "2026-11-16T18:45:00+00:00",
       "updatedAt": "2026-11-16T18:45:00+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -733,8 +673,8 @@
       "bullets": [
         "ENTRETIEN - Chercheur associé à la FRS sur la dissuasion nucléaire, Étienne Marcuz décrypte pour Le Figaro le vrai du faux de ce film qui met en scène la menace d’une apocalypse nucléaire dont la France est actrice."
       ],
-      "publishedAt": "2026-11-18T05:30:00+00:00",
-      "updatedAt": "2026-11-18T05:30:00+00:00",
+      "publishedAt": "2026-11-18T08:16:03+00:00",
+      "updatedAt": "2026-11-18T08:16:03+00:00",
       "importance": 67,
       "sources": [
         {
@@ -749,6 +689,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dff3d7aff9f4038f2e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A suivre Alban Mikoczy : Ukraine/Russie, la guerre des ponts",
+      "bullets": [
+        "Dans cette troisième partie, Alban Mikoczy et ses invités reviennent sur le pont de Crimée attaqué par des drones ukrainiens deux jours consécutifs, ce qui constitue un revers majeur pour Vladimir Poutine.",
+        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
+      ],
+      "publishedAt": "2026-11-18T07:23:32+00:00",
+      "updatedAt": "2026-11-18T07:23:32+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-alban-mikoczy-ukraine-russie-la-guerre-des-ponts_8287826.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b1eab171c5ca9d6f0da784396f29630c8f7e1aa1ff0412eda044f8e95d008f06",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5611022ec912d78900",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’Iran attaque des cibles à Bahreïn et au Koweït après un bombardement américain sur l’île de Qechm",
+      "bullets": [
+        "Ces attaques avec des « drones de combat et des drones kamikazes », selon Téhéran, ont eu lieu après les frappes de l’armée américaine, qui ont dit avoir visé un site de missiles sur l’île iranienne de Qechm."
+      ],
+      "publishedAt": "2026-11-18T06:57:46+00:00",
+      "updatedAt": "2026-11-18T06:57:46+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cff9d8eb33ce350b10471fecc7395a665b95c465b49ecc46c40584df9ef0512a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d43230500afafef3e5",
       "revision": 1,
       "category": "world",
@@ -758,8 +747,8 @@
         "L’administration Trump nie toute responsabilité dans les crimes dénoncés et défend sa campagne de bombardements en Amérique latine contre des embarcations présumées chargées de drogues.",
         "Ces opérations ont fait plus de 200 morts dans le Pacifique et dans les Caraïbes depuis la fin de l’année 2025."
       ],
-      "publishedAt": "2026-11-18T02:31:51+00:00",
-      "updatedAt": "2026-11-18T02:31:51+00:00",
+      "publishedAt": "2026-11-18T02:31:49+00:00",
+      "updatedAt": "2026-11-18T02:31:49+00:00",
       "importance": 67,
       "sources": [
         {
@@ -812,7 +801,7 @@
       ],
       "publishedAt": "2026-11-17T20:02:27+00:00",
       "updatedAt": "2026-11-17T20:02:27+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -824,34 +813,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2c9907a63311943ae7a3c8563f6dc7f386d0e884f3b64a721eaec110e2a59896",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-be7dc5aa36a74e1ca0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Il ne reste plus qu'une seule arche\" : l'Ukraine et la Russie se livrent une guerre des ponts, le symbole de l'annexion russe de la Crimée touché par Kiev",
-      "bullets": [
-        "Des images, tournées après la frappe par des drones ukrainiens, permettent de constater les dégâts.",
-        "Inauguré par le président russe en personne en 2018, il permet le passage de trains et de voitures et assure un soutien logistique à l'armée.",
-        "Les attaques, menées contre les ponts de Kiev par la Russie s'inscrivent dans une stratégie plus large qui vise à détruire une série d'infrastructures clés en Ukraine avant l'hiver."
-      ],
-      "publishedAt": "2026-11-17T19:45:52+00:00",
-      "updatedAt": "2026-11-17T19:45:52+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-ne-reste-plus-qu-une-seule-arche-l-ukraine-et-la-russie-se-livrent-une-guerre-des-ponts-le-symbole-de-l-annexion-russe-de-la-crimee-touche-par-kiev_8287085.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "6341380ff0d885473461727fa079153e06fd3ab96e6a5334a2a25fa0e4a60084",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T04:08:38.614050+00:00",
-      "context": null
     },
     {
       "id": "rss-d961682d5f2993c7db",
@@ -886,8 +847,8 @@
       "bullets": [
         "Certains députés ont néanmoins jugé insuffisant le financement de 5 milliards d’euros prévu pour démarrer ce nouveau programme de financement de projets de rénovation urbaine, qui vise notamment 150 quartiers prioritaires."
       ],
-      "publishedAt": "2026-11-18T02:16:55+00:00",
-      "updatedAt": "2026-11-18T02:16:55+00:00",
+      "publishedAt": "2026-11-18T02:16:53+00:00",
+      "updatedAt": "2026-11-18T02:16:53+00:00",
       "importance": 77,
       "sources": [
         {
@@ -978,31 +939,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cfed289c34fdcfc91e",
+      "id": "rss-fcc801344e91bcfeba",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "La police de Londres traque les pickpockets avec des drones",
+      "title": "\"Il y a une grosse fatigue physique\" : les CRS, à bout, se mobilisent",
       "bullets": [
-        "La Metropolitan police de Londres a diffusé les images de la traque d’un pickpocket de téléphones avec un drone.",
-        "La police londonienne expérimente depuis plusieurs mois les “Drones Comme Premier Intervenant” pour lutter contre la criminalité urbaine.",
-        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion"
+        "Deux sont même totalement indisponibles à Marseille (Bouches-du-Rhône) et à Chassieu (Rhône) près de Lyon, tout comme la CRS 8, spécialisée dans le maintien de l’ordre.",
+        "1 292 fonctionnaires sont donc en \"consultation médicale\", soit environ 10 % des effectifs nationaux, un chiffre non confirmé par le ministère de l’Intérieur.\"Être considéré et respecté\"Comme ils ne peuvent pas se mettre en grève, c’est le seul moyen d’action des policiers.",
+        "Un CRS, lui-même en consultation médicale affirme : \"Il y a une grosse fatigue physique quand vous faites des journées de 12, 14, voire 16 heures."
       ],
-      "publishedAt": "2026-11-17T11:15:12+00:00",
-      "updatedAt": "2026-11-17T11:15:12+00:00",
-      "importance": 54,
+      "publishedAt": "2026-11-17T19:52:39+00:00",
+      "updatedAt": "2026-11-17T19:52:39+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/la-police-de-londres-traque-les-pickpockets-avec-des-drones_8286428.html",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "716b67e9c846e282c7bac722d7ca7fa96a32243921710bee2afda6ac9d90749c",
+      "summaryInput": "54be365bf41e028d4a8bd11e4bcb9b546f4f795224d4cdf21637d7e994f3d32d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
+      "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
       "context": null
     },
     {
@@ -1031,12 +992,12 @@
     },
     {
       "id": "rss-dc98a19129931dcc46",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
       "bullets": [
-        "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas un euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
+        "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas 1 euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite.",
         "Elle instaure une part de capitalisation en prenant, notamment, l’argent du Fonds national d’aide au logement."
       ],
       "publishedAt": "2026-11-18T04:41:47+00:00",
@@ -1051,7 +1012,7 @@
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "8a3ca3a1ae6d89f25c46f1bc561e12578927de49c80a41fb9751b54908a12387",
+      "summaryInput": "37519807fff695a351007fb244b72dfd9989b1d3be49f97decec37e285c1afec",
       "detailLevel": "preview"
     },
     {
@@ -1076,6 +1037,30 @@
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c3bb1e4019b6f1524d15883545ad88881143667d6dab68015311b67a32a2ec",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bf176079419e24d2f4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Nicole Belloubet, ancienne ministre de la justice : « Les juges deviennent à titre individuel la cible de critiques violentes »",
+      "bullets": [
+        "L’ancienne ministre de la justice revient, dans une tribune au « Monde », sur les cas Nicolas Guillou, juge à la Cour pénale internationale, Youssef Badr, magistrat, et Richard Ferrand, président du Conseil constitutionnel, tous trois cibles de campagnes visant à les décrédibiliser, et à travers eux l’institution judiciaire."
+      ],
+      "publishedAt": "2026-11-18T07:09:15+00:00",
+      "updatedAt": "2026-11-18T07:09:15+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a16d887454deb5ae6f28ff2c1ea5f076b64853ca728925d18f8e634d98d5a884",
       "detailLevel": "preview"
     },
     {
@@ -1114,7 +1099,7 @@
       ],
       "publishedAt": "2026-11-17T07:39:25+00:00",
       "updatedAt": "2026-11-17T07:39:25+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1154,10 +1139,10 @@
     },
     {
       "id": "rss-0f53635a5b50c3daf3",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Fonction publique : malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question des salaires",
+      "title": "Malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question des salaires",
       "bullets": [
         "En dépit du geste de l’exécutif en faveur des agents publics les moins bien payés, le tassement des grilles de rémunération persiste dans la fonction publique. Le gouvernement a promis d’engager des discussions en vue d’une « réforme structurelle ». Un chantier maintes fois évoqué, mais qui n’a jamais abouti."
       ],
@@ -1173,7 +1158,7 @@
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "8c35f47be20d7fb4b396c1d30b2046289eda891df552278f4d11f7f92a41fda8",
+      "summaryInput": "f5f1156d748c40fc494e84c0265db911e3e95184105127516ab56beb96324983",
       "detailLevel": "preview"
     },
     {
@@ -1224,31 +1209,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6d036db819af614a58f942661d664464091469c13da245df9fda51570c5b4ed0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1336fbb3752e30a1f4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Jupiter », le premier thriller français sur les secrets du bunker de l’Elysée",
-      "bullets": [
-        "Le premier film d’Alexandre Smia, « Jupiter », en salle le 18 novembre, est un récit de politique-fiction très documenté autour d’un président français confronté à une menace de guerre atomique.",
-        "Une plongée inédite dans les arcanes du pouvoir."
-      ],
-      "publishedAt": "2026-11-16T17:00:08+00:00",
-      "updatedAt": "2026-11-16T17:00:08+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/16/jupiter-le-premier-thriller-francais-sur-les-secrets-du-bunker-de-l-elysee_6812196_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0159dc71a6663b839e7b382529af14347f3467c5a88f39e8f71b3752722cb24c",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1262,7 +1222,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1286,7 +1246,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1310,7 +1270,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1328,25 +1288,25 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/police-justice/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
