@@ -1,11 +1,38 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-18",
-  "preparedAt": "2026-11-18T16:14:34.715595+00:00",
+  "preparedAt": "2026-11-18T17:20:38.909998+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-0d80595d5d52ffc6eb",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Sénat adopte le projet de budget de la Sécurité sociale pour 2027",
+      "bullets": [
+        "Le projet de budget de la Sécurité sociale pour 2027 a été adopté mercredi en première lecture au Sénat, qui en a modifié plusieurs mesures phares notamment sur les retraites, alors que le suspense demeure entier sur l’issue des débats budgétaires au Parlement.",
+        "Rejeté à l’Assemblée nationale en l’absence de majorité, le projet de loi de financement de la Sécurité sociale (PLFSS) a été soutenu à 201 voix contre 124 à la chambre haute, dominée par la droite et les centristes."
+      ],
+      "publishedAt": "2026-11-18T17:10:38+00:00",
+      "updatedAt": "2026-11-18T17:10:38+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/le-senat-adopte-le-projet-de-budget-de-la-securite-sociale-pour-2027-20261118",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "b3160cb23725688a10510560c844626f8932badc4d65b1ffa40172615d9af2e8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "context": null
+    },
     {
       "id": "rss-ef0a5464fe9b9868ed",
       "revision": 1,
@@ -32,27 +59,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-07071720cce6520247",
+      "id": "rss-ecf6097c9130782086",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Électricité : les prix montent, faut-il craindre une pénurie cet hiver ?",
+      "title": "Budget, précommandes, attente… Huit chiffres fous qui illustrent les ambitions démesurées du jeu vidéo GTA VI",
       "bullets": [
-        "DÉCRYPTAGE - Suite à la reprise en main du parc nucléaire d’EDF, le gestionnaire du réseau de transport d’électricité (RTE) a évalué le risque d’un black-out, quatre ans après la crise de 2022-2023."
+        "617 millions C’est le nombre cumulé de vues des quatre bandes-annonces du jeu publiées sur YouTube entre le 5 décembre 2023 et le 15 octobre 2026.",
+        "La première bande-annonce avait enregistré 93 millions de vues en seulement 24 heures, établissant alors un record sur YouTube pour une vidéo non musicale.",
+        "13 Après un premier report annoncé en mai 2025, puis un second quelques mois plus tard, en novembre, l’attente autour de GTA VI aura duré treize ans."
       ],
-      "publishedAt": "2026-11-18T06:30:00+00:00",
-      "updatedAt": "2026-11-18T06:30:00+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "updatedAt": "2026-11-18T17:00:00+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/electricite-les-prix-montent-faut-il-craindre-une-penurie-cet-hiver-20261118",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/budget-precommandes-attente-huit-chiffres-fous-qui-illustrent-les-ambitions-demesurees-du-jeu-video-gta-vi-20261118",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "975884537f687723612dacd3b0cedf5b3547d59de31a402938055eb3c7dc237d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-83eb24a21a330aff48",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Affrontements meurtriers, exode massif de travailleurs étrangers… En Guinée, la reprise en main musclée du secteur aurifère par le gouvernement",
+      "bullets": [
+        "RÉCIT - Conakry veut mettre fin à l’orpaillage clandestin dans le nord-est du pays pour mieux contrôler ses ressources, attirer des investisseurs internationaux et sécuriser ses frontières."
+      ],
+      "publishedAt": "2026-11-18T16:54:37+00:00",
+      "updatedAt": "2026-11-18T16:54:37+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/affrontements-meurtriers-exode-massif-de-travailleurs-etrangers-en-guinee-la-reprise-en-main-musclee-du-secteur-aurifere-par-le-gouvernement-20261118",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "rss-excerpt",
-      "summaryInput": "91d72b1ea1d7b7214ba0cdb54bf27c77689a64107da65700ab63afe302cdbf1e",
+      "summaryInput": "1097c963ed53941f6f65d1fc05eacbe887a578edd90b59afcaa747862e516e0c",
       "detailLevel": "preview"
     },
     {
@@ -66,8 +121,8 @@
         "Avant le sommet Royaume-Uni/UE vendredi à Bruxelles, destiné à resserrer les liens avec les 27, le gouvernement a répondu à plusieurs affirmations dans un document intitulé «fiche d'information et démystification», publié tard mardi soir.",
         "Selon le gouvernement britannique, l'accord sur l'alimentation et les boissons pourrait apporter 5,1 milliards de livres sterling (6,12 milliards d'euros) supplémentaires à l'économie du pays."
       ],
-      "publishedAt": "2026-11-18T15:56:47+00:00",
-      "updatedAt": "2026-11-18T15:56:47+00:00",
+      "publishedAt": "2026-11-18T16:32:06+00:00",
+      "updatedAt": "2026-11-18T16:32:06+00:00",
       "importance": 65,
       "sources": [
         {
@@ -110,6 +165,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T16:14:34.715595+00:00",
       "context": null
+    },
+    {
+      "id": "rss-a79767ef2ef06aa549",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
+      "bullets": [
+        "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars.",
+        "Les organisateurs entendent encadrer ces visites."
+      ],
+      "publishedAt": "2026-11-18T15:05:29+00:00",
+      "updatedAt": "2026-11-18T15:05:29+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c7e7863246a2517f871e8be05b3620d762b610662ca0d893a14b1359b5550b65",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-10d6b34acc5a395a1a",
@@ -249,58 +329,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-09e08cdd838426d9ff",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Cancer du pancréas : la Commission européenne donne son feu vert à un nouveau traitement",
-      "bullets": [
-        "L’essai clinique mené par Revolution Medicines, la biotech américaine à l’origine du daraxonrasib, montre un doublement de la survie médiane chez les patients l’ayant reçu."
-      ],
-      "publishedAt": "2026-11-17T20:21:40+00:00",
-      "updatedAt": "2026-11-17T20:21:40+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/cancer-du-pancreas-la-commission-europeenne-donne-son-feu-vert-a-un-nouveau-traitement_6813042_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bccad0e22455b362e2eddf679c0416254edf04da2311032fb6b5fe9252a3ccc0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5caccd8f2c34f52e89",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les ratés du système \"Rappel Conso\", pour retirer les produits à risque des rayons, pointés par l'association Foodwatch",
-      "bullets": [
-        "En bout de chaîne, les magasins répercutent l'alerte : \"Je vérifie si c'est bien le produit qui est concerné, de manière à l'afficher et à enlever les produits du rayon.",
-        "Les marques devraient communiquer les résultats d'analyse problématiques directement à l'État, demande Foodwatch.",
-        "L'an dernier, 20 000 personnes ont été intoxiquées, six en sont mortes."
-      ],
-      "publishedAt": "2026-11-18T14:38:14+00:00",
-      "updatedAt": "2026-11-18T14:38:14+00:00",
-      "importance": 55,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/alimentation/les-rates-du-systeme-rappel-conso-pour-retirer-les-produits-a-risque-des-rayons-pointes-par-l-association-foodwatch_8288381.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "4ebb5e510d3b94c28fecd3fa0f1aa7aa4b4d1554bd095cbe96ba6e3576e4db9f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T16:14:34.715595+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -311,9 +339,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T16:14:36+00:00",
-      "updatedAt": "2026-11-18T16:14:36+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-18T17:11:50+00:00",
+      "updatedAt": "2026-11-18T17:11:50+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -329,31 +357,55 @@
       "context": null
     },
     {
-      "id": "rss-74e21ebfd0ee00d678",
+      "id": "rss-71cf4da5705057acb6",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Nvidia rassure la Bourse avec ses résultats, le CAC 40 hésite",
+      "title": "«C’est complètement flippant comme modèle économique» : le pari vertigineux d’Anthropic à Wall Street",
       "bullets": [
-        "Du côté des actions, Alstom chute encore, perdant 7,8%, alors que le groupe a publié ses résultats semestriels qui n'ont réservé aucune surprise, la société les ayant pré-annoncés il y a quelques semaines dans le cadre d'un lourd avertissement sur résultats.",
-        "Accor perd 4% après avoir annoncé le rachat des minoritaires de sa filiale d'hôtellerie lifestyle Ennismore.",
-        "Le contrat de janvier sur le Brent de mer du Nord est stable à 93,10 dollars tandis que celui de décembre sur le WTI coté à New York recule de 0,5% à 85,57 dollars le baril."
+        "LA SAGA ANTHROPIC (2/3) - À la veille d’une entrée en Bourse hors norme, la société fascine par sa croissance spectaculaire autant qu’elle inquiète par ses engagements financiers colossaux."
       ],
-      "publishedAt": "2026-11-18T13:13:27+00:00",
-      "updatedAt": "2026-11-18T13:13:27+00:00",
+      "publishedAt": "2026-11-18T17:05:33+00:00",
+      "updatedAt": "2026-11-18T17:05:33+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/c-est-completement-flippant-comme-modele-economique-le-pari-vertigineux-d-anthropic-a-wall-street-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8967274bfc8f18088e212f9af10dfd41e3080136a73df9e1e998b9bd954d2bae",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f5ed8e1b7f0a0251db",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Les résultats tonitruants de Nvidia ne suffisent pas à apaiser Wall Street, le CAC 40 termine en nette baisse",
+      "bullets": [
+        "Du côté des valeurs parisiennes, Alstom a perdu 7,15%, alors que le groupe a publié ses résultats semestriels qui n'ont réservé aucune surprise, la société les ayant pré-annoncés il y a quelques semaines dans le cadre d'un lourd avertissement sur résultats.",
+        "Accor a abandonné 4,2% après avoir annoncé le rachat des minoritaires de sa filiale d'hôtellerie lifestyle Ennismore.",
+        "Le contrat de janvier sur le Brent de mer du Nord abandonne 1,7% 91,56 dollars tandis que celui de décembre sur le WTI coté à New York recule de 3% à 83,44 dollars le baril."
+      ],
+      "publishedAt": "2026-11-18T16:57:23+00:00",
+      "updatedAt": "2026-11-18T16:57:23+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-nvidia-rassure-la-bourse-avec-ses-resultats-le-cac-40-hesite-1174021.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "dad90f82770b144de13bd6f009d6e5f60f844dff14c2483b32c940eed5ec1e38",
+      "summaryInput": "0b447385489fc923cf4ff07a9fd1e37194c2830ae0bb03a407b1f6e4d24ffa20",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T15:10:33.541864+00:00",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
     },
     {
@@ -369,7 +421,7 @@
       ],
       "publishedAt": "2026-11-18T05:00:00+00:00",
       "updatedAt": "2026-11-18T05:00:00+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -381,7 +433,7 @@
       "provenance": "article-extract",
       "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T05:15:41.223702+00:00",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
     },
     {
@@ -472,7 +524,7 @@
       "id": "rss-8eb21b4565280523d2",
       "revision": 1,
       "category": "world",
-      "topic": "International",
+      "topic": "Politique",
       "title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
       "bullets": [
         "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen.",
@@ -520,31 +572,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T08:28:26.696430+00:00",
       "context": null
-    },
-    {
-      "id": "rss-a8ab2425b7a95c76be",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Canada accélère le dégel de ses relations avec la Chine",
-      "bullets": [
-        "Ottawa et Pékin ont annoncé des réductions de droits de douane, mardi 17 novembre.",
-        "Il s’agit d’une nouvelle étape dans le réchauffement entre les deux pays et de la stratégie de diversification commerciale du dirigeant canadien."
-      ],
-      "publishedAt": "2026-11-18T09:00:09+00:00",
-      "updatedAt": "2026-11-18T09:00:09+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/18/canada-le-premier-ministre-mark-carney-accelere-le-degel-des-relations-avec-la-chine_6813097_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "410ce190d9c31769f625cba9ed6fb632a6cd3f7474942df0ea9599f266a5b0a2",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-8bea0934c63097a11c",
@@ -780,6 +807,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dff3d7aff9f4038f2e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A suivre Alban Mikoczy : Ukraine/Russie, la guerre des ponts",
+      "bullets": [
+        "Dans cette troisième partie, Alban Mikoczy et ses invités reviennent sur le pont de Crimée attaqué par des drones ukrainiens deux jours consécutifs, ce qui constitue un revers majeur pour Vladimir Poutine.",
+        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur…"
+      ],
+      "publishedAt": "2026-11-18T07:23:32+00:00",
+      "updatedAt": "2026-11-18T07:23:32+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-alban-mikoczy-ukraine-russie-la-guerre-des-ponts_8287826.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b1eab171c5ca9d6f0da784396f29630c8f7e1aa1ff0412eda044f8e95d008f06",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4ba89deaf38e592602",
       "revision": 1,
       "category": "france",
@@ -852,31 +904,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bec003357eeada875c",
+      "id": "rss-264d1f9e43a394eea2",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
       "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
+        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
+        "Ces boulangers produisent environ 130 baguettes chaque jour."
       ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-18T16:41:12+00:00",
+      "updatedAt": "2026-11-18T16:41:12+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
+          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-18",
       "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
+      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
     },
     {
@@ -967,7 +1019,7 @@
       ],
       "publishedAt": "2026-11-18T04:41:47+00:00",
       "updatedAt": "2026-11-18T04:41:47+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1030,6 +1082,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ea9dc6f36c5e9914a8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "A Nantes, après la visite perturbée du ministre au lycée Nelson-Mandela, élèves et enseignants ne pourront « pas oublier ce qui s’est passé »",
+      "bullets": [
+        "Les élèves du lycée Nelson-Mandela retournent en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre.",
+        "Les événements survenus lors de la visite du ministre de l’éducation nationale, lundi 16 novembre, ont contraint à repousser cette rentrée de deux jours."
+      ],
+      "publishedAt": "2026-11-18T16:18:56+00:00",
+      "updatedAt": "2026-11-18T16:18:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/a-nantes-apres-la-visite-perturbee-du-ministre-au-lycee-nelson-mandela-eleves-et-enseignants-ne-pourront-pas-oublier-ce-qui-s-est-passe_6813165_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "rss-excerpt",
+      "summaryInput": "116c7ed5de146d2b2df18e974618a1575c8f62184a0ca61a1b942a83e88b76d3",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9d24f68b2ca7d5edf3",
       "revision": 1,
       "category": "france",
@@ -1052,6 +1129,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "762b9ea2f36a7fd6b2e3b8eeb9e4e323ba8d33db30c40c8177da5dbd4639de88",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bec003357eeada875c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "bullets": [
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+      ],
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-18",
+      "provenance": "article-extract",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
+      "context": null
     },
     {
       "id": "rss-477bfcde542a88b1e2",
@@ -1113,7 +1218,7 @@
       ],
       "publishedAt": "2026-11-17T17:00:09+00:00",
       "updatedAt": "2026-11-17T17:00:09+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1125,59 +1230,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d1eb12479ccb1dd05b64f8bdcfc3b10a5ad344585a38d8949bdc474fffcd7671",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e2a9832f4071f09cca",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
-      "bullets": [
-        "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025.",
-        "Habitués des tribunes du Stade brestois, les prévenus nient la motivation politique de l’agression, qui « ne fait aucun doute », selon la procureure."
-      ],
-      "publishedAt": "2026-11-17T07:39:25+00:00",
-      "updatedAt": "2026-11-17T07:39:25+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "96d56b8fb847d664a99b9b0dc43f8247c4e633a7c7250f3bbbb77e48bd8b52ac",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-06e2c91dab485f4690",
-      "revision": 2,
-      "category": "france",
-      "topic": "Santé",
-      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
-      "bullets": [
-        "\"On respire encore un air toxique\" dans les villes françaises, constate, mardi 17 novembre sur franceinfo et France Inter, Clément Drognat Landré, coordinateur France de Clean Cities, coalition d'ONG dédiée à la mobilité durable, alors que l'ONG publie un classement de la qualité de l'air dans 40 villes européennes.",
-        "La réduction de la place de la voiture en ville jugée efficaceCependant, 37 des 40 villes européennes de ce classement ne sont pas prêtes pour 2030, date à laquelle les normes européennes sur la pollution seront durcies.",
-        "Lyon progresse aussi de ce point de vue là."
-      ],
-      "publishedAt": "2026-11-17T05:00:21+00:00",
-      "updatedAt": "2026-11-17T05:00:21+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "b5cdb6646e2bbcd5968daef8f8de2fb8b96c752c45eef959ffe0bb211ca7f973",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T10:18:12.485019+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1191,7 +1243,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 4
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
@@ -1239,7 +1291,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1257,7 +1309,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1269,7 +1321,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
