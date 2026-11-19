@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T17:22:04.736684+00:00",
+  "preparedAt": "2026-11-19T19:13:10.791675+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -176,7 +176,7 @@
       ],
       "publishedAt": "2026-11-19T07:00:13+00:00",
       "updatedAt": "2026-11-19T07:00:13+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -281,7 +281,7 @@
       ],
       "publishedAt": "2026-11-19T06:40:14+00:00",
       "updatedAt": "2026-11-19T06:40:14+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -295,28 +295,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a1191931ad235192b3",
+      "id": "rss-147b1858ae2e92582d",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« La République des travailleurs » : un manifeste pour « démocratiser » le capitalisme, dans l’entreprise et ailleurs",
+      "title": "Mort de Jean-Marie Duthilleul, architecte des gares et des églises",
       "bullets": [
-        "Dans son ouvrage, l’auditeur et syndicaliste Marc Verret appelle de ses vœux une vaste réforme du capitalisme financiarisé, par sa démocratisation.",
-        "Elle implique que « l’initiative économique privée [soit] encadrée par celui qui y contribue : le travailleur lui-même »."
+        "Connu pour avoir notamment conçu la gare Avignon-TGV, mais aussi pour son travail sur les églises et de nombreux chantiers en Corée, en Chine et à l’étranger, il est décédé le 16 novembre, à l’âge de 73 ans."
       ],
-      "publishedAt": "2026-11-19T05:00:08+00:00",
-      "updatedAt": "2026-11-19T05:00:08+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-19T12:25:10+00:00",
+      "updatedAt": "2026-11-19T12:25:10+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/19/la-republique-des-travailleurs-un-manifeste-pour-democratiser-le-capitalisme-dans-l-entreprise-et-ailleurs_6813230_6768900.html",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/11/19/mort-de-jean-marie-duthilleul-architecte-des-gares-et-des-eglises_6813296_3382.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "f1490c561fbb050f9beb6cf63b0eb9e158324bdf222cc0875ec09facfc5e9e7a",
+      "summaryInput": "63c9d5496df500db93ed45a84769366496d205c4ad84bc2aab80d4c3477f6dba",
       "detailLevel": "preview"
     },
     {
@@ -354,8 +353,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T17:20:27+00:00",
-      "updatedAt": "2026-11-19T17:20:27+00:00",
+      "publishedAt": "2026-11-19T19:10:23+00:00",
+      "updatedAt": "2026-11-19T19:10:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -685,7 +684,7 @@
       ],
       "publishedAt": "2026-11-17T18:16:11+00:00",
       "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -834,6 +833,34 @@
       "context": null
     },
     {
+      "id": "rss-3a56b9aff3f6edbc15",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Valise nucléaire : quand la Russie la met en scène",
+      "bullets": [
+        "La valise nucléaire russe exhibée à Shenzhen, en Chine.",
+        "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
+        "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?"
+      ],
+      "publishedAt": "2026-11-19T12:17:43+00:00",
+      "updatedAt": "2026-11-19T12:17:43+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "68bd9569dac1c48bb3df8b3fde09cc47dfbc7b1506279bcad34db83e5598d5cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T19:13:10.791675+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ae37a943cf8c0ccd27",
       "revision": 1,
       "category": "world",
@@ -845,7 +872,7 @@
       ],
       "publishedAt": "2026-11-18T19:10:00+00:00",
       "updatedAt": "2026-11-18T19:10:00+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -856,30 +883,6 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "360671d37377052f7ddd4f2cde291fb73f49161fde7bd3f49574751c0b834c51",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-11f28f867f58620f00",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Sénégal, le président applique par décret le budget rectifié crucial pour l’aide du FMI",
-      "bullets": [
-        "Le budget rectificatif pour 2026 a été rejeté deux fois en commission et une fois en séance plénière à l’Assemblée nationale."
-      ],
-      "publishedAt": "2026-11-19T11:21:29+00:00",
-      "updatedAt": "2026-11-19T11:21:29+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/19/au-senegal-le-president-applique-par-decret-le-budget-rectifie-crucial-pour-l-aide-du-fmi_6813284_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "531424b131126307a3142362c377f46a9e133818b333d052e29ce5c759babd1b",
       "detailLevel": "preview"
     },
     {
@@ -908,51 +911,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-88131b515e2197cec8",
+      "id": "rss-4ef6e53441b681566e",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "title": "Encadrement des loyers : malgré l’obstruction systématique du RN, la prolongation du dispositif adoptée à l’Assemblée nationale",
       "bullets": [
-        "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
+        "Les députés d’extrême droite ont multiplié les amendements pour tenter d’empêcher l’adoption de la proposition de loi portée par le député socialiste Iñaki Echaniz.",
+        "Le ministre du logement a finalement eu recours à l’article 44 alinéa 2 de la Constitution pour mettre fin à cette obstruction."
       ],
-      "publishedAt": "2026-11-19T04:30:09+00:00",
-      "updatedAt": "2026-11-19T04:30:09+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-19T19:03:14+00:00",
+      "updatedAt": "2026-11-19T19:03:14+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/encadrement-des-loyers-malgre-l-obstruction-systematique-du-rn-la-prolongation-du-dispositif-adoptee-a-l-assemblee-nationale_6813374_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "591bd16d8303b4c3a9cd77940df744d5956e07011a3fd0168e67e9c3a0b59e54",
+      "summaryInput": "8468949e6f806c99772f93c67bdff30f91ecc8cc69a48d543a36ff5c25517772",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-17089628027693b62f",
-      "revision": 1,
+      "id": "rss-4103ae04f2fa4a9524",
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Au moins 2 100 jeunes étrangers en France en attente d’une décision sur leur minorité",
+      "title": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
       "bullets": [
-        "La Coordination nationale jeunes exilés en danger constate une forte baisse des recours en un an, mais alerte sur des conditions de vie toujours précaires pour ces personnes."
+        "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable.",
+        "La mesure est proposée par certains candidats à la présidentielle comme un nouveau droit social."
       ],
-      "publishedAt": "2026-11-19T05:39:50+00:00",
-      "updatedAt": "2026-11-19T05:39:50+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-19T13:00:02+00:00",
+      "updatedAt": "2026-11-19T13:00:02+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/au-moins-2-100-jeunes-etrangers-en-france-en-attente-d-une-decision-sur-leur-minorite_6813238_3224.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "ca414da4d2b9d948e19af0d378855f3371383a725c9e635113bdce001d330566",
+      "summaryInput": "94508e6d44468027400c689d770c86d2263ce53f2d6d00146be41175bb2c8587",
       "detailLevel": "preview"
     },
     {
@@ -1084,12 +1089,12 @@
     },
     {
       "id": "rss-832a5dee2f2b3123f1",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Environnement",
-      "title": "Face à la colère climatique des ados, cinq fictions à regarder avec eux",
+      "title": "Face à la colère des ados concernant le climat, cinq fictions à regarder avec eux",
       "bullets": [
-        "« Nos émotions : la colère ». Les mouvements lycéens qui durent depuis près de deux mois sont aussi alimentés par la crise climatique, source d’une forte écoanxiété pour les jeunes. Des héros de fiction, inspirés ou non de lanceurs d’alerte bien réels, peuvent servir de support à une discussion…"
+        "« Nos émotions : la colère ». Le mouvement lycéen qui dure depuis près de deux mois est aussi alimenté par la crise climatique, source d’une forte écoanxiété chez les jeunes. Des héros de fiction, inspirés ou non de lanceurs d’alerte bien réels, peuvent servir de support à une discussion…"
       ],
       "publishedAt": "2026-11-19T16:00:10+00:00",
       "updatedAt": "2026-11-19T16:00:10+00:00",
@@ -1103,7 +1108,32 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "db4b272cb78b9b04ed10b2b88c9099b43e66b513ad5c238eaef553663f821836",
+      "summaryInput": "5f982a57ae0ca4e52df7927613d52fae6b040089dd194a6e8c62576364a3a5d8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fcbd320af081cdefa6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
+      "bullets": [
+        "A quelques jours de son extinction, l’encadrement des loyers a été prolongé de deux ans lors d’un vote à l’Assemblée nationale.",
+        "Un barrage d’amendements du RN, selon qui le texte est dangereux pour le marché du logement, menaçait la possibilité de son adoption."
+      ],
+      "publishedAt": "2026-11-19T18:44:07+00:00",
+      "updatedAt": "2026-11-19T18:44:07+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6f1f485316479400827bbff2aff04995dc7add97a3afba1310f6123575eaecb",
       "detailLevel": "preview"
     },
     {
@@ -1128,30 +1158,6 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "fc9f39373884a6c5ca84fbda3530e295d7a8299bc6f292f5434f5dfc35bc7b30",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-08cd229eb1a0e826e8",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Territoires zéro chômeur de longue durée : le dispositif pérennisé par un dernier vote à l’Assemblée nationale",
-      "bullets": [
-        "Ces territoires s’appuient sur la création d’entreprises à but d’emploi (EBE) proposent des activités adaptées aux personnes durablement éloignées de l’emploi qu’elles embauchent, mais ces activités doivent aussi être utiles au territoire."
-      ],
-      "publishedAt": "2026-11-19T12:11:15+00:00",
-      "updatedAt": "2026-11-19T12:11:15+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/territoires-zero-chomeur-de-longue-duree-le-dispositif-perennise-par-un-dernier-vote-a-l-assemblee-nationale_6813294_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e82001741f9d710d82f98cb6295716480caec1e232831798b783338d4b34a543",
       "detailLevel": "preview"
     },
     {
@@ -1204,6 +1210,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bc32c97dfcadd296a1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Victoria Ivleva, la photographe russe qui regarde la guerre du côté ukrainien",
+      "bullets": [
+        "Dès l’invasion de février 2022, cette photojournaliste réputée a quitté Moscou pour Kiev.",
+        "Militante inlassable des droits humains, elle expose à Paris, jusqu’au 30 novembre, les images des destructions et des souffrances causées par son pays en Ukraine."
+      ],
+      "publishedAt": "2026-11-19T13:00:04+00:00",
+      "updatedAt": "2026-11-19T13:00:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/victoria-ivleva-la-photographe-russe-qui-regarde-la-guerre-du-cote-ukrainien_6813301_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "348c387c1377733d39fed8910884d649023c1e3ecdbd9dad273faa1b56e647a0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-264d1f9e43a394eea2",
       "revision": 1,
       "category": "france",
@@ -1232,81 +1263,55 @@
       "context": null
     },
     {
-      "id": "rss-4103ae04f2fa4a9524",
-      "revision": 2,
+      "id": "rss-b3f5af890055cb361b",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
+      "title": "Emploi et handicap : le gouvernement souhaite supprimer les restrictions d’accès à 36 métiers",
       "bullets": [
-        "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable.",
-        "La mesure est proposée par certains candidats à la présidentielle comme un nouveau droit social."
+        "Les représentants du secteur du handicap dénoncent une mesure discriminatoire et obsolète. Mais les employeurs la défendent au nom de la sécurité et des coûts d’adaptation des postes. Ils y trouvent aussi un avantage financier."
       ],
-      "publishedAt": "2026-11-19T13:00:02+00:00",
-      "updatedAt": "2026-11-19T13:00:02+00:00",
+      "publishedAt": "2026-11-19T08:30:09+00:00",
+      "updatedAt": "2026-11-19T08:30:09+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/emploi-et-handicap-le-gouvernement-souhaite-supprimer-les-restrictions-d-acces-a-36-metiers_6813253_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "94508e6d44468027400c689d770c86d2263ce53f2d6d00146be41175bb2c8587",
+      "summaryInput": "7526ac8b70c0747dc9a6c1eaf2c47b6f2a1c117f83068a9aa6c3a1345dc8639c",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ea780f8e9272024de6",
+      "id": "rss-bec003357eeada875c",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Budget de la « Sécu » pour 2027 : la question-clé de l’effort demandé aux retraités",
+      "topic": "Santé",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
       "bullets": [
-        "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux Chambres du Parlement.",
-        "Jusqu’à présent, elles ont divergé sur la mise à contribution des retraités pour redresser les finances…"
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
       ],
-      "publishedAt": "2026-11-19T09:07:47+00:00",
-      "updatedAt": "2026-11-19T09:07:47+00:00",
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9788e9592e33324c8a",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
-      "bullets": [
-        "Le rendez-vous est fixé ce jeudi à 11 heures sur le parvis de la gare Montparnasse.",
-        "Dans un communiqué commun, elles demandent l’indexation des pensions sur l’inflation dès janvier 2027, le rattrapage des pertes de pouvoir d’achat subies depuis 2017 et une retraite au moins égale au Smic pour une carrière complète.",
-        "Mercredi, le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027, après en avoir supprimé, dans la nuit de lundi à mardi, la mesure qui prévoyait de sous-indexer certaines pensions."
-      ],
-      "publishedAt": "2026-11-19T06:37:55+00:00",
-      "updatedAt": "2026-11-19T06:37:55+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/vivre-dignement-apres-des-annees-de-travail-des-organisations-syndicales-et-associatives-de-retraites-manifestent-jeudi-a-paris-20261119",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
-      "summaryInput": "c0a4f0ab423fb3f9bbe4310ee20d42110d84bc26afce9da9d4501ae05fcb499c",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T17:22:04.736684+00:00",
+      "enrichedAt": "2026-11-19T19:13:10.791675+00:00",
       "context": null
     }
   ],
@@ -1333,7 +1338,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1387,7 +1392,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
