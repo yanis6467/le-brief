@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T04:11:11.972728+00:00",
+  "preparedAt": "2026-11-19T05:19:21.428817+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -29,6 +29,31 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "7acbdd763987175c5e80154e59eca65ae4b5c8c39b128639c9d34750cf516a53",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8dbbedf090bcff20f1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
+      "bullets": [
+        "L’Agence internationale de l’énergie publie, jeudi 19 novembre, son rapport annuel.",
+        "Son directeur exécutif souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le déploiement des renouvelables, du nucléaire et de l’électrification."
+      ],
+      "publishedAt": "2026-11-19T05:00:41+00:00",
+      "updatedAt": "2026-11-19T05:00:41+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6cd80b5484892aba94676e5005ceaf3b1a35f333fc4085f1808832e43a62da3",
       "detailLevel": "preview"
     },
     {
@@ -119,7 +144,7 @@
       ],
       "publishedAt": "2026-11-18T16:41:12+00:00",
       "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -182,6 +207,31 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "290f2f4b3f06b40908bb07b4d0d183abc7029e834425517ea7567df9444784ed",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a1191931ad235192b3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« La République des travailleurs » : un manifeste pour « démocratiser » le capitalisme, dans l’entreprise et ailleurs",
+      "bullets": [
+        "Dans son ouvrage, l’auditeur et syndicaliste Marc Verret appelle de ses vœux une vaste réforme du capitalisme financiarisé, par sa démocratisation.",
+        "Elle implique que « l’initiative économique privée [soit] encadrée par celui qui y contribue : le travailleur lui-même »."
+      ],
+      "publishedAt": "2026-11-19T05:00:08+00:00",
+      "updatedAt": "2026-11-19T05:00:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/19/la-republique-des-travailleurs-un-manifeste-pour-democratiser-le-capitalisme-dans-l-entreprise-et-ailleurs_6813230_6768900.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f1490c561fbb050f9beb6cf63b0eb9e158324bdf222cc0875ec09facfc5e9e7a",
       "detailLevel": "preview"
     },
     {
@@ -264,60 +314,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d93dbb321152567556",
+      "id": "rss-9acccf6fcf7e53b311",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Sénat adopte en première lecture le projet de budget de la Sécurité sociale pour 2027",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
       "bullets": [
-        "Le PLFSS a été rejeté par l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 23 octobreL'Assemblée nationale a massivement rejeté en première lecture le projet de budget de la Sécurité sociale, en repoussant par 115 voix contre une sa partie \"recettes\".",
-        "Le PLF a été rejeté à l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 4 novembreLes députés ont rejeté à l'unanimité (458 voix contre) la partie \"recettes\" du projet de budget, ce qui constitue une première dans l'histoire.",
-        "Le vote solennel sur l'ensemble du texte (recettes et dépenses) est prévu le 9 décembre."
+        "La dégringolade en Bourse de Nvidia illustre les reculs de l’ensemble du secteur après six mois de croissance à deux chiffres, les investisseurs s’interrogeant désormais sur le modèle économique et le niveau d’endettement des sociétés."
       ],
-      "publishedAt": "2026-11-18T18:55:50+00:00",
-      "updatedAt": "2026-11-18T18:55:50+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-19T05:00:22+00:00",
+      "updatedAt": "2026-11-19T05:00:22+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/aux-etats-unis-wall-street-met-fin-a-l-euphorie-generalisee-sur-l-ia-et-cherche-a-trier-les-gagnants-et-les-perdants-de-cette-revolution_6813232_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "b03ee162bd5254c09cbaf3dddf5c5c40e1c03f20e8476a8225a08facfb68be21",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T04:11:11.972728+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ecf6097c9130782086",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget, précommandes, attente… Huit chiffres fous qui illustrent les ambitions démesurées du jeu vidéo GTA VI",
-      "bullets": [
-        "617 millions C’est le nombre cumulé de vues des quatre bandes-annonces du jeu publiées sur YouTube entre le 5 décembre 2023 et le 15 octobre 2026.",
-        "La première bande-annonce avait enregistré 93 millions de vues en seulement 24 heures, établissant alors un record sur YouTube pour une vidéo non musicale.",
-        "13 Après un premier report annoncé en mai 2025, puis un second quelques mois plus tard, en novembre, l’attente autour de GTA VI aura duré treize ans."
-      ],
-      "publishedAt": "2026-11-18T17:00:00+00:00",
-      "updatedAt": "2026-11-18T17:00:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/budget-precommandes-attente-huit-chiffres-fous-qui-illustrent-les-ambitions-demesurees-du-jeu-video-gta-vi-20261118",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "975884537f687723612dacd3b0cedf5b3547d59de31a402938055eb3c7dc237d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "a6a4c6a97c8c2f8b63c831b351afc7e809a3d1e0dd939910e10389d6a7eac026",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5a69065af59af56a07",
@@ -355,8 +373,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T04:06:26+00:00",
-      "updatedAt": "2026-11-19T04:06:26+00:00",
+      "publishedAt": "2026-11-19T05:17:17+00:00",
+      "updatedAt": "2026-11-19T05:17:17+00:00",
       "importance": 69,
       "sources": [
         {
@@ -373,6 +391,34 @@
       "context": null
     },
     {
+      "id": "rss-d8cecc7232f9196fdd",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Anthropic débarque à Wall Street, prêt à signer la plus grande introduction en Bourse de l'histoire... Faut-il pour autant se ruer dès le premier jour sur l'action du créateur de Claude ?",
+      "bullets": [
+        "En trois journées, l'action avait bondi de près de 50% et avait atteint son plus haut historique le 16 juin (225,64 dollars).",
+        "Depuis ce pic, l'action a rechuté de 60% et évolue désormais à peine au-dessus de son cours d'introduction (141,7 dollars contre 135 dollars).",
+        "Morningstar juge l'action \"sous-valorisée\" au vu de ses perspectives, estimant sa juste valeur à 92 dollars, contre 70 à 78 dollars visés par la société."
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "updatedAt": "2026-11-19T05:00:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/anthropic-debarque-a-wall-street-pret-a-signer-la-plus-grande-introduction-en-bourse-de-l-histoire-faut-il-pour-autant-se-ruer-des-le-premier-jour-sur-l-action-du-createur-de-claude-1174016.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "c9057019682d45ea9e56188754216c8b633094ad24e72a50891df96fa8adbd76",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T05:19:21.428817+00:00",
+      "context": null
+    },
+    {
       "id": "rss-71cf4da5705057acb6",
       "revision": 1,
       "category": "markets",
@@ -383,7 +429,7 @@
       ],
       "publishedAt": "2026-11-18T17:05:33+00:00",
       "updatedAt": "2026-11-18T17:05:33+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -409,7 +455,7 @@
       ],
       "publishedAt": "2026-11-18T16:57:23+00:00",
       "updatedAt": "2026-11-18T16:57:23+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -437,7 +483,7 @@
       ],
       "publishedAt": "2026-11-18T05:00:00+00:00",
       "updatedAt": "2026-11-18T05:00:00+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -535,6 +581,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T01:28:00.167780+00:00",
       "context": null
+    },
+    {
+      "id": "rss-88131b515e2197cec8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "bullets": [
+        "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
+      ],
+      "publishedAt": "2026-11-19T04:30:19+00:00",
+      "updatedAt": "2026-11-19T04:30:19+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "591bd16d8303b4c3a9cd77940df744d5956e07011a3fd0168e67e9c3a0b59e54",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-10f0f9db6244987f66",
@@ -796,55 +866,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1de49b46b37957e98c",
+      "id": "rss-8b9547dd175055771f",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Le pont de Crimée a de nouveau été attaqué, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l'infrastructure",
+      "title": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
       "bullets": [
-        "L'ouvrage reliant la Crimée annexée à la Russie a été à nouveau attaqué, a annoncé dans la soirée du mercredi 18 novembre, un responsable russe local, deux jours après des frappes ukrainiennes ayant sérieusement endommagé cette infrastructure.",
-        "A la suite d'une nouvelle attaque contre le pont de Crimée, la circulation est temporairement interrompue.",
-        "Une évaluation des dégâts est en cours\", a affirmé Sergueï Aksionov, le responsable de la Crimée nommé par Moscou, sur son compte Telegram."
+        "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu.",
+        "Il a expliqué que son engagement avait pour but « d’avoir un certain équilibre des pouvoirs »."
       ],
-      "publishedAt": "2026-11-18T23:14:23+00:00",
-      "updatedAt": "2026-11-18T23:14:23+00:00",
+      "publishedAt": "2026-11-19T04:52:01+00:00",
+      "updatedAt": "2026-11-19T04:52:01+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "d7534fc2dbaac829c057591775318bb3065062962a59684f224b549fdf4d5d40",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T23:59:33.232560+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-918e68aa59fa44926e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Armes autonomes, soldats robots... Le vertige d’une guerre sans hommes",
-      "bullets": [
-        "ENQUÊTE - Alors que les systèmes autonomes, portés par les progrès de l’intelligence artificielle, se développent, les États membres des Nations unies, réunis à Genève, s’interrogent sur la régulation de ces nouvelles armes."
-      ],
-      "publishedAt": "2026-11-18T20:03:09+00:00",
-      "updatedAt": "2026-11-18T20:03:09+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/armes-autonomes-soldats-robots-le-vertige-d-une-guerre-sans-hommes-20261118",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "df06470c1357107b620bfad5831f7ac9ca08202cf7fb4336d2d9fdf15e283b75",
+      "summaryInput": "e8886fb704e94ca7ee522498c112a830cd0701a5bc98ab191ac9e19e70997edb",
       "detailLevel": "preview"
     },
     {
@@ -1075,6 +1118,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7ae1b3c92d070ae1a0",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Najat Vallaud-Belkacem : « L’attentat de Trappes se répétera si la haine raciste ne suscite plus l’indignation quand elle se couvre de sang »",
+      "bullets": [
+        "La présidente de France terre d’asile déplore, dans une tribune au « Monde », que l’attaque terroriste d’extrême droite n’ait donné lieu à aucune introspection des politiques ni des médias, et souligne qu’en des circonstances similaires, l’Allemagne et la Nouvelle-Zélande ont su prendre leurs responsabilités."
+      ],
+      "publishedAt": "2026-11-19T05:00:22+00:00",
+      "updatedAt": "2026-11-19T05:00:22+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/19/najat-vallaud-belkacem-l-attentat-de-trappes-se-repetera-si-la-haine-raciste-ne-suscite-plus-l-indignation-quand-elle-se-couvre-de-sang_6813233_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "659271ef422f2aa7d65157fb2ae9e7443e1ef8cc6ebf20e384ff862eb343dce0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1136,7 +1203,7 @@
       ],
       "publishedAt": "2026-11-18T16:18:54+00:00",
       "updatedAt": "2026-11-18T16:18:54+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1153,7 +1220,7 @@
       "id": "rss-9d24f68b2ca7d5edf3",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Justice",
       "title": "A Toulouse, un homme tué par balles, deuxième narchomicide en trois jours",
       "bullets": [
         "Ce nouvel homicide survenu à Toulouse, où la violence provenant du trafic de drogue a considérablement augmenté en 2026, est lié « à une guerre de territoire entre des groupes qui tiennent des points de deal » entre deux quartiers, selon le procureur."
@@ -1198,53 +1265,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bed7817c1578a910da",
+      "id": "rss-9788e9592e33324c8a",
       "revision": 1,
       "category": "france",
       "topic": "France",
-      "title": "« Le niveau de violence contre les forces de l’ordre est devenu insupportable » : dans la police, des élections professionnelles sous haute tension",
+      "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
       "bullets": [
-        "DÉCRYPTAGE - Le scrutin du 3 au 10 décembre met le ministre de l’Intérieur, Laurent Nuñez, sous pression, dans une maison où le taux de syndiqués avoisine les 80 %."
+        "Le rendez-vous est fixé ce jeudi à 11 heures sur le parvis de la gare Montparnasse.",
+        "Dans un communiqué commun, elles demandent l’indexation des pensions sur l’inflation dès janvier 2027, le rattrapage des pertes de pouvoir d’achat subies depuis 2017 et une retraite au moins égale au Smic pour une carrière complète.",
+        "Mercredi, le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027, après en avoir supprimé, dans la nuit de lundi à mardi, la mesure qui prévoyait de sous-indexer certaines pensions."
       ],
-      "publishedAt": "2026-11-18T19:30:00+00:00",
-      "updatedAt": "2026-11-18T19:30:00+00:00",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "updatedAt": "2026-11-19T05:00:00+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/le-niveau-de-violence-contre-les-forces-de-l-ordre-est-devenu-insupportable-dans-la-police-des-elections-professionnelles-sous-haute-tension-20261118",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/actualite-france/vivre-dignement-apres-des-annees-de-travail-des-organisations-syndicales-et-associatives-de-retraites-manifestent-jeudi-a-paris-20261119",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "59c501e64b95521d145d9b28fa5f3d1174409c0abb8f3c18d17f07c75602c9c8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8f66d58238f9637239",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "« Le gouvernement est obligé de céder » : au bord de la rupture après deux mois de violences sociales, les policiers crient leur ras-le-bol",
-      "bullets": [
-        "RÉCIT - Plusieurs centaines d’agents ont mené, mercredi, une manifestation surprise jusque sous les fenêtres du ministre de l’Intérieur.",
-        "La veille, les CRS ont demandé à consulter un médecin en se déclarant épuisés."
-      ],
-      "publishedAt": "2026-11-18T18:10:11+00:00",
-      "updatedAt": "2026-11-18T18:10:11+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-est-oblige-de-ceder-au-bord-de-la-rupture-apres-deux-mois-de-violences-sociales-les-policiers-crient-leur-ras-le-bol-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e16b4329fdaf4c3f824626c2ae8e576511028a89e26a66aaa1b5a66dae4b6fc7",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "c0a4f0ab423fb3f9bbe4310ee20d42110d84bc26afce9da9d4501ae05fcb499c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T05:19:21.428817+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1282,7 +1328,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1324,7 +1370,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
@@ -1360,7 +1406,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 27
+      "candidates": 28
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
