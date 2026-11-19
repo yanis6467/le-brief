@@ -1,11 +1,63 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T15:11:26.459214+00:00",
+  "preparedAt": "2026-11-19T16:16:00.417599+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-4f8037bc75994ea51a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Cyberattaques : la menace est à un niveau «grave et inédit», et «rien ne laisse à penser que les choses vont s’arranger», affirme Lecornu",
+      "bullets": [
+        "Après la vague de cyberattaques ayant touché des administrations ou encore des entreprises ces dernières semaines (frigos de supermarchés, administration fiscale, filiale de La Poste…), le gouvernement semble prendre la mesure du problème.",
+        "Et rien ne laisse à penser que les choses vont s’arranger», a déclaré le premier ministre Sébastien Lecornu ce jeudi lors d’une conférence de presse, à l’issue d’une réunion interministérielle sur le sujet.",
+        "La France a «été un des premiers pays à être exposé» et rejointe par «pas mal de pays d’Europe."
+      ],
+      "publishedAt": "2026-11-19T15:52:55+00:00",
+      "updatedAt": "2026-11-19T15:52:55+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaques-la-menace-est-a-un-niveau-grave-et-inedit-et-rien-ne-laisse-a-penser-que-les-choses-vont-s-arranger-affirme-lecornu-20261119",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "296c68a1cc6c89673716ae6198e65cf49471e17a1e2ebd5f7bd7a16044cd300e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b2840acc6675757d37",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Après le krach spectaculaire du cabinet Weil, les 87 avocats de la branche française trouvent un nouvel allié américain",
+      "bullets": [
+        "INFO LE FIGARO - Trois semaines après l’annonce surprise de la dissolution de Weil, Gotshal & Manges au niveau mondial, les associés de sa filiale française ont signé un partenariat avec un autre cabinet américain."
+      ],
+      "publishedAt": "2026-11-19T16:03:08+00:00",
+      "updatedAt": "2026-11-19T16:03:08+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/apres-le-krach-spectaculaire-du-cabinet-weil-les-109-avocats-de-la-branche-francaise-trouvent-un-sauveur-americain-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b67f15bfb6b9ad93ef1fd11265d2a8fabecee5ff4e02ec8900f50f24184a06ab",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-488d4d8263889a2ddd",
       "revision": 2,
@@ -148,8 +200,8 @@
         "De son côté, Alexandre Bompard souligne la volonté d’avoir de «la transparence et du discernement, des coûts de production, des choix de marges et la protection de la matière première agricole».",
         "Cette mesure s’ajoutera à des mécanismes comme le report de charges sociales, ou encore l’octroi d’un prêt à taux zéro allant jusqu’à 50.000 euros."
       ],
-      "publishedAt": "2026-11-19T10:19:16+00:00",
-      "updatedAt": "2026-11-19T10:19:16+00:00",
+      "publishedAt": "2026-11-19T15:24:22+00:00",
+      "updatedAt": "2026-11-19T15:24:22+00:00",
       "importance": 69,
       "sources": [
         {
@@ -188,6 +240,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-29d74a7426fa524582",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Compte à rebours, \"stocks faibles\"… Le piège des promotions éphémères dans le viseur de la Commission européenne",
+      "bullets": [
+        "Donc, je n'y crois pas\", tranche un autre.\"Souvent, ce sont des faux compteurs\"La Commission européenne veut les interdire et infliger des amendes aux sites qui les utiliseraient.",
+        "Selon elle, 97% des plateformes y ont recours.",
+        "Contactées, les plateformes concernées et la Fédération du e-commerce n'ont pas répondu à nos sollicitations."
+      ],
+      "publishedAt": "2026-11-19T15:14:59+00:00",
+      "updatedAt": "2026-11-19T15:14:59+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/commerce/compte-a-rebours-stocks-faibles-le-piege-des-promotions-ephemeres-dans-le-viseur-de-la-commission-europeenne_8290172.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "5195265a1da9aaf217ca1eba5b8c48a939a3a97f6355ee3d93553fc82590ba3e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
+      "context": null
     },
     {
       "id": "rss-2d8d19cdcab3a9811c",
@@ -243,79 +323,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a1191931ad235192b3",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« La République des travailleurs » : un manifeste pour « démocratiser » le capitalisme, dans l’entreprise et ailleurs",
-      "bullets": [
-        "Dans son ouvrage, l’auditeur et syndicaliste Marc Verret appelle de ses vœux une vaste réforme du capitalisme financiarisé, par sa démocratisation.",
-        "Elle implique que « l’initiative économique privée [soit] encadrée par celui qui y contribue : le travailleur lui-même »."
-      ],
-      "publishedAt": "2026-11-19T05:00:08+00:00",
-      "updatedAt": "2026-11-19T05:00:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/19/la-republique-des-travailleurs-un-manifeste-pour-democratiser-le-capitalisme-dans-l-entreprise-et-ailleurs_6813230_6768900.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f1490c561fbb050f9beb6cf63b0eb9e158324bdf222cc0875ec09facfc5e9e7a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cbfaabf4713177b977",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
-      "bullets": [
-        "Issus d’une directive européenne de 2019, ces droits permettent aux éditeurs et aux agences de presse d’être rémunérés lorsque des plateformes comme Google ou Meta utilisent leurs contenus."
-      ],
-      "publishedAt": "2026-11-19T13:05:11+00:00",
-      "updatedAt": "2026-11-19T13:05:11+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/droits-voisins-le-parlement-a-definitivement-adopte-une-loi-pour-mieux-remunerer-la-presse_6813305_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f33fda67854692ac33889b6585b0f7e362d30662c2620bdcc5b28968727e0aaa",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-147b1858ae2e92582d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Mort de Jean-Marie Duthilleul, architecte des gares et des églises",
-      "bullets": [
-        "Connu pour avoir notamment conçu la gare Avignon-TGV, mais aussi pour son travail sur les églises et de nombreux chantiers en Corée, en Chine et à l’étranger, il est décédé le 16 novembre, à l’âge de 73 ans."
-      ],
-      "publishedAt": "2026-11-19T12:25:10+00:00",
-      "updatedAt": "2026-11-19T12:25:10+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/11/19/mort-de-jean-marie-duthilleul-architecte-des-gares-et-des-eglises_6813296_3382.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "63c9d5496df500db93ed45a84769366496d205c4ad84bc2aab80d4c3477f6dba",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9acccf6fcf7e53b311",
       "revision": 1,
       "category": "markets",
@@ -350,9 +357,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T15:11:27+00:00",
-      "updatedAt": "2026-11-19T15:11:27+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-19T16:14:14+00:00",
+      "updatedAt": "2026-11-19T16:14:14+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -532,7 +539,7 @@
       "provenance": "article-extract",
       "summaryInput": "1ae97dc5e34c8763187283328000fa9a4c2f63c38dbca6aab5a8c92544e17b57",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T04:11:11.972728+00:00",
+      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
       "context": null
     },
     {
@@ -565,16 +572,16 @@
     },
     {
       "id": "rss-65f6676fb5fe1d7b5b",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Au Costa Rica, un journaliste qui dénonçait les liens entre narcotrafic et politique a été assassiné",
       "bullets": [
-        "Camilo Rodriguez Chaverri a été tué par balles dans un pays longtemps considéré comme une exception régionale en matière de démocratie.",
-        "Mais ces dernières années, les attaques verbales contre les journalistes et des médias par le gouvernement se sont multipliées, faisant reculer la liberté de la presse."
+        "Camilo Rodriguez Chaverri a été tué par balle dans un pays longtemps considéré comme une exception régionale en matière de démocratie.",
+        "Mais ces dernières années, les attaques verbales contre les journalistes et les médias par le gouvernement se sont multipliées, faisant reculer la liberté de la presse."
       ],
-      "publishedAt": "2026-11-19T15:00:22+00:00",
-      "updatedAt": "2026-11-19T15:00:22+00:00",
+      "publishedAt": "2026-11-19T15:00:12+00:00",
+      "updatedAt": "2026-11-19T15:00:12+00:00",
       "importance": 85,
       "sources": [
         {
@@ -585,20 +592,20 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "c42dac7857388b37e9c9b98318b6015b8ad32054b9e344c471bb8d3db328c1f1",
+      "summaryInput": "004c091dc7b0047b6bf739cd2f6ad11dd4878d0b59d253a419c44e08b90d2d47",
       "detailLevel": "preview"
     },
     {
       "id": "rss-0815a08fef9882b5b2",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Italie, les jeunes dans le viseur des politiques sécuritaires et oubliés des politiques économiques",
       "bullets": [
-        "Dans un pays où un quart de la population a plus de 65 ans et à l’approche d’élections législatives prévues en 2027, Giorgia Meloni se montre plus soucieuse de répondre au désir d’ordre que de s’attaquer aux problèmes structurels qu’affronte la jeunesse."
+        "Dans un pays où un quart de la population a plus de 65 ans et à l’approche d’élections législatives prévues en 2027, la présidente du conseil se montre plus soucieuse de répondre au désir d’ordre que de s’attaquer aux problèmes structurels qu’affronte la jeunesse."
       ],
-      "publishedAt": "2026-11-19T15:00:07+00:00",
-      "updatedAt": "2026-11-19T15:00:07+00:00",
+      "publishedAt": "2026-11-19T15:00:00+00:00",
+      "updatedAt": "2026-11-19T15:00:00+00:00",
       "importance": 85,
       "sources": [
         {
@@ -609,8 +616,36 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "c116a2a29ff0d934d0aeb7472debf26cc4cd70c4ff17f74c434262b66a2ebd12",
+      "summaryInput": "894e4ae83849b14f7846d7497a5bb38f048ffd7aa0fb6dd166429cbe35134058",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-872e2eebe7e5f79464",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
+      "bullets": [
+        "Alors que les entretiens se poursuivent en Chine, entre Xi Jinping, Vladimir Poutine et Donald Trump, ce jeudi 19 novembre, les dirigeants européens, alliés de l'Ukraine, se réunissent à Berlin, au sein de la future coalition des volontaires.",
+        "En attendant, l'Ukraine continue de manquer de missiles antimissiles Patriot pour se défendre et en réclame régulièrement aux États-Unis.",
+        "Selon l'enquête du Wall Street Journal, le client américain d'ArianneGroup a obtenu, via une avance de 5 millions de dollars, que l'usine bordelaise mette en œuvre une nouvelle ligne de production pour sa rayonne, mais pas avant 2028."
+      ],
+      "publishedAt": "2026-11-19T15:11:45+00:00",
+      "updatedAt": "2026-11-19T15:11:45+00:00",
+      "importance": 83,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "8541f38ddcca99245d10211731a62145b66ff329ddb3c4306b3b7da8ab467ec1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
+      "context": null
     },
     {
       "id": "rss-4c7f6287fee3a1d857",
@@ -639,6 +674,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8a849231d450c3a390",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "A Shenzhen, Xi Jinping et « l’ami » Vladimir Poutine ont endormi Donald Trump sous les fastes",
+      "bullets": [
+        "Les chefs d’Etat des trois grandes puissances ont profité du sommet en Chine pour entretenir une fausse proximité, qui ne dit rien de leurs désaccords sur des sujets comme l’intelligence artificielle ou les arsenaux nucléaires."
+      ],
+      "publishedAt": "2026-11-19T15:50:36+00:00",
+      "updatedAt": "2026-11-19T15:50:36+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-xi-jinping-et-l-ami-vladimir-ont-endormi-donald-trump-sous-les-fastes_6813336_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d624c30da7cf50143c46677ced9f6642584e6b51165556b9200a3e13ee31e0b8",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-82d2994cffcb67b870",
@@ -706,8 +765,8 @@
         "L’exécutif européen a dit avoir été victime d’une « cyber campagne générée par l’IA », liée à un « usage abusif d’un outil d’IA » et détectée le 22 octobre.",
         "Mais aucune violation de données n’a été prouvée à ce stade, selon un porte-parole."
       ],
-      "publishedAt": "2026-11-19T14:27:55+00:00",
-      "updatedAt": "2026-11-19T14:27:55+00:00",
+      "publishedAt": "2026-11-19T14:27:52+00:00",
+      "updatedAt": "2026-11-19T14:27:52+00:00",
       "importance": 79,
       "sources": [
         {
@@ -747,34 +806,6 @@
       "summaryInput": "21b4241ab213e80d384de36decbfdd729a5be2dee24edeb636fa6be9716c5a72",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T15:11:26.459214+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-3a56b9aff3f6edbc15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Valise nucléaire : quand la Russie la met en scène",
-      "bullets": [
-        "La valise nucléaire russe exhibée à Shenzhen, en Chine.",
-        "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?",
-        "Moins d'impôt sur le revenu pour les plus riches en 2025"
-      ],
-      "publishedAt": "2026-11-19T12:17:43+00:00",
-      "updatedAt": "2026-11-19T12:17:43+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "1b3cf8411c726e34d9fea2f7fe45ec95b708848852c13b00c1f8c7cbba570d8e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T13:31:50.307551+00:00",
       "context": null
     },
     {
@@ -827,30 +858,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1fd4415a8f3dffe33a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Entre le Royaume-Uni et l’Union européenne, des retrouvailles complexes",
-      "bullets": [
-        "Malgré la volonté affichée du premier ministre britannique, Andy Burnham, de renforcer les relations économiques et politiques avec l’Union européenne, les deux parties sont encore loin d’un consensus sur les dossiers qui seront abordés lors d’un sommet à Bruxelles, vendredi 20 novembre."
-      ],
-      "publishedAt": "2026-11-19T10:00:03+00:00",
-      "updatedAt": "2026-11-19T10:00:03+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/entre-le-royaume-uni-et-l-union-europeenne-des-retrouvailles-complexes_6813267_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c3b2b4d007c4c86506de13fae3ce76f65e350da356056206d25e206c29f6b50a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-956586383984950151",
       "revision": 1,
       "category": "world",
@@ -900,27 +907,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7ae1b3c92d070ae1a0",
+      "id": "rss-17089628027693b62f",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Najat Vallaud-Belkacem : « L’attentat de Trappes se répétera si la haine raciste ne suscite plus l’indignation quand elle se couvre de sang »",
+      "title": "Au moins 2 100 jeunes étrangers en France en attente d’une décision sur leur minorité",
       "bullets": [
-        "La présidente de France terre d’asile déplore, dans une tribune au « Monde », que l’attaque terroriste d’extrême droite n’ait donné lieu à aucune introspection des politiques ni des médias, et souligne qu’en des circonstances similaires, l’Allemagne et la Nouvelle-Zélande ont su prendre leurs responsabilités."
+        "La Coordination nationale jeunes exilés en danger constate une forte baisse des recours en un an, mais alerte sur des conditions de vie toujours précaires pour ces personnes."
       ],
-      "publishedAt": "2026-11-19T05:00:17+00:00",
-      "updatedAt": "2026-11-19T05:00:17+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-19T05:39:50+00:00",
+      "updatedAt": "2026-11-19T05:39:50+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/19/najat-vallaud-belkacem-l-attentat-de-trappes-se-repetera-si-la-haine-raciste-ne-suscite-plus-l-indignation-quand-elle-se-couvre-de-sang_6813233_3232.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/au-moins-2-100-jeunes-etrangers-en-france-en-attente-d-une-decision-sur-leur-minorite_6813238_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "659271ef422f2aa7d65157fb2ae9e7443e1ef8cc6ebf20e384ff862eb343dce0",
+      "summaryInput": "ca414da4d2b9d948e19af0d378855f3371383a725c9e635113bdce001d330566",
       "detailLevel": "preview"
     },
     {
@@ -1027,27 +1034,52 @@
       "context": null
     },
     {
-      "id": "rss-59fccf403745d57354",
+      "id": "rss-480a8b30ed0d428cbb",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
+      "title": "« J’ai jugé que je ne pouvais plus rester anonyme » : la jeune femme qui a déposé une plainte pour violences sexistes et sexuelles contre l’architecte Matthieu Poitevin témoigne",
       "bullets": [
-        "La maison de vente aux enchères Sotheby’s avait annoncé, mardi, qu’un accord avait été trouvé avec une famille qui contestait la mise en vente de l’œuvre, mettant en avant les conditions de son acquisition sous le régime nazi."
+        "Passée par l’Ecole nationale d’architecture de Marseille où enseignait l’architecte, Cécile Michaud témoigne auprès du « Monde » des agissements de cette figure du milieu, organisateur du festival Possibles !.",
+        "Celui-ci conteste « catégoriquement l’ensemble de ces allégations »."
       ],
-      "publishedAt": "2026-11-19T00:09:23+00:00",
-      "updatedAt": "2026-11-19T00:09:23+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-19T09:00:13+00:00",
+      "updatedAt": "2026-11-19T09:00:13+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/j-ai-juge-que-je-ne-pouvais-plus-rester-anonyme-la-jeune-femme-qui-a-porte-plainte-contre-l-architecte-matthieu-poitevin-pour-violences-sexistes-et-sexuelles-temoigne_6813259_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "cdd5658f1db69b74aed7b3a87c50bb22e8bf4a432ad6538ff8d6d9d04a51edc4",
+      "summaryInput": "08a9e19ecb127fc4f7141c634d48cb6433c2e6b793eac5a6847e1a38ccc7f851",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-832a5dee2f2b3123f1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Environnement",
+      "title": "Face à la colère climatique des ados, cinq fictions à regarder avec eux",
+      "bullets": [
+        "« Nos émotions : la colère ». Les mouvements lycéens qui durent depuis près de deux mois sont aussi alimentés par la crise climatique, source d’une forte écoanxiété pour les jeunes. Des héros de fiction, inspirés ou non de lanceurs d’alerte bien réels, peuvent servir de support à une discussion…"
+      ],
+      "publishedAt": "2026-11-19T16:00:19+00:00",
+      "updatedAt": "2026-11-19T16:00:19+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/intimites/article/2026/11/19/face-a-la-colere-climatique-des-ados-cinq-fictions-a-regarder-avec-eux_6813341_6190330.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "db4b272cb78b9b04ed10b2b88c9099b43e66b513ad5c238eaef553663f821836",
       "detailLevel": "preview"
     },
     {
@@ -1059,8 +1091,8 @@
       "bullets": [
         "Pour redresser les finances publiques, le gouvernement souhaite faire contribuer les retraités à hauteur d’environ 5,4 milliards d’euros."
       ],
-      "publishedAt": "2026-11-19T14:31:54+00:00",
-      "updatedAt": "2026-11-19T14:31:54+00:00",
+      "publishedAt": "2026-11-19T14:31:50+00:00",
+      "updatedAt": "2026-11-19T14:31:50+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1110,7 +1142,7 @@
       ],
       "publishedAt": "2026-11-18T16:00:08+00:00",
       "updatedAt": "2026-11-18T16:00:08+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1121,30 +1153,6 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-17089628027693b62f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Au moins 2 100 jeunes étrangers en France en attente d’une décision sur leur minorité",
-      "bullets": [
-        "La Coordination nationale jeunes exilés en danger constate une forte baisse des recours en un an, mais alerte sur des conditions de vie toujours précaires pour ces personnes."
-      ],
-      "publishedAt": "2026-11-19T05:39:50+00:00",
-      "updatedAt": "2026-11-19T05:39:50+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/au-moins-2-100-jeunes-etrangers-en-france-en-attente-d-une-decision-sur-leur-minorite_6813238_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ca414da4d2b9d948e19af0d378855f3371383a725c9e635113bdce001d330566",
       "detailLevel": "preview"
     },
     {
@@ -1170,6 +1178,31 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "94508e6d44468027400c689d770c86d2263ce53f2d6d00146be41175bb2c8587",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ea780f8e9272024de6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Budget de la « Sécu » pour 2027 : la question-clé de l’effort demandé aux retraités",
+      "bullets": [
+        "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux Chambres du Parlement.",
+        "Jusqu’à présent, elles ont divergé sur la mise à contribution des retraités pour redresser les finances…"
+      ],
+      "publishedAt": "2026-11-19T09:07:47+00:00",
+      "updatedAt": "2026-11-19T09:07:47+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
       "detailLevel": "preview"
     },
     {
@@ -1251,31 +1284,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
       "context": null
-    },
-    {
-      "id": "rss-477bfcde542a88b1e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
-      "bullets": [
-        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
-        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
-      ],
-      "publishedAt": "2026-11-18T07:41:00+00:00",
-      "updatedAt": "2026-11-18T07:41:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1289,7 +1297,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 4
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1313,7 +1321,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1355,13 +1363,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
