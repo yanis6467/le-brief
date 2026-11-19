@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-18T23:59:33.232560+00:00",
+  "preparedAt": "2026-11-19T01:28:00.167780+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -26,7 +26,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "7acbdd763987175c5e80154e59eca65ae4b5c8c39b128639c9d34750cf516a53",
       "detailLevel": "preview"
@@ -42,7 +42,7 @@
       ],
       "publishedAt": "2026-11-18T12:00:06+00:00",
       "updatedAt": "2026-11-18T12:00:06+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -50,7 +50,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "46299f42466bd7975536196ff1f38531c28f0b6a0cee7392ffe229a0f03a28f6",
       "detailLevel": "preview"
@@ -75,7 +75,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "b3160cb23725688a10510560c844626f8932badc4d65b1ffa40172615d9af2e8",
       "detailLevel": "article",
@@ -101,38 +101,10 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "863b24f8e5137aa3e5c8b1f0dbb6efdfdb761ef29ca71a7eac35e9c92c5548b1",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-264d1f9e43a394eea2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
-      "bullets": [
-        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
-        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
-        "Ces boulangers produisent environ 130 baguettes chaque jour."
-      ],
-      "publishedAt": "2026-11-18T16:41:12+00:00",
-      "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
-      "context": null
     },
     {
       "id": "rss-ef0a5464fe9b9868ed",
@@ -154,7 +126,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "27a53da4b8206b78563117e83880f118469d161fa3ed0058e3e23121cf99260f",
       "detailLevel": "preview"
@@ -179,7 +151,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "290f2f4b3f06b40908bb07b4d0d183abc7029e834425517ea7567df9444784ed",
       "detailLevel": "preview"
@@ -204,7 +176,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "b8ea275672785976ad2f5513b4bf6dc06a7445a2228b4c16cb74297915d86cd7",
       "detailLevel": "article",
@@ -232,7 +204,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "460a4bd250b6066383890a4b50449eec4db7a133401f83d8ab937d96053d64e5",
       "detailLevel": "article",
@@ -258,38 +230,10 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "eb4d0b46f51f01fa027344416782520891e161dfed1b4bd0d80cce6aabe628a0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d93dbb321152567556",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Sénat adopte en première lecture le projet de budget de la Sécurité sociale pour 2027",
-      "bullets": [
-        "Le PLFSS a été rejeté par l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 23 octobreL'Assemblée nationale a massivement rejeté en première lecture le projet de budget de la Sécurité sociale, en repoussant par 115 voix contre une sa partie \"recettes\".",
-        "Le PLF a été rejeté à l’Assemblée nationale, le texte est transmis au Sénat(Terminé)Le 4 novembreLes députés ont rejeté à l'unanimité (458 voix contre) la partie \"recettes\" du projet de budget, ce qui constitue une première dans l'histoire.",
-        "Le vote solennel sur l'ensemble du texte (recettes et dépenses) est prévu le 9 décembre."
-      ],
-      "publishedAt": "2026-11-18T18:55:50+00:00",
-      "updatedAt": "2026-11-18T18:55:50+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "article-extract",
-      "summaryInput": "b03ee162bd5254c09cbaf3dddf5c5c40e1c03f20e8476a8225a08facfb68be21",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T21:06:03.080448+00:00",
-      "context": null
     },
     {
       "id": "rss-ecf6097c9130782086",
@@ -312,12 +256,65 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "975884537f687723612dacd3b0cedf5b3547d59de31a402938055eb3c7dc237d",
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
+    },
+    {
+      "id": "rss-09c19b0b8bac2ebc0d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques",
+      "bullets": [
+        "Les députés ont voté, mardi 17 novembre, un amendement du Rassemblement national qui supprime l'interdiction de louer les logements les moins performants sur le plan énergétique.",
+        "\"À la veille de la Journée contre la précarité énergétique, c'est un bras d'honneur invraisemblable aux locataires en précarité énergétique\", a fustigé Manuel Domergue, directeur des études de la Fondation pour le logement, mardi dans une publication sur LinkedIn.",
+        "Le vote solennel est prévu le 24 novembre dans l'hémicycle, avant d'atterrir en commission mixte paritaire entre députés et sénateurs, qui devront s'accorder sur sa version finale."
+      ],
+      "publishedAt": "2026-11-18T15:29:12+00:00",
+      "updatedAt": "2026-11-18T15:29:12+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "86af48ed54436f7327cda53435a22694f2145a708cb92867f9e16d1b64896deb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T01:28:00.167780+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-a6a03e321ec1a9be14",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
+      "bullets": [
+        "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir.",
+        "La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données."
+      ],
+      "publishedAt": "2026-11-19T00:20:25+00:00",
+      "updatedAt": "2026-11-19T00:20:25+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1c095af93a64f6341e3bac068c862c3d4748001ff089a89cd085e80fdabd5df7",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5a69065af59af56a07",
@@ -339,7 +336,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "1048bed57209f0a0ace166b068c2684f2a397c851ee94243426d5af029a32e9b",
       "detailLevel": "preview"
@@ -355,9 +352,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-18T23:59:34+00:00",
-      "updatedAt": "2026-11-18T23:59:34+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-19T01:25:27+00:00",
+      "updatedAt": "2026-11-19T01:25:27+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -365,7 +362,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -391,7 +388,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "8967274bfc8f18088e212f9af10dfd41e3080136a73df9e1e998b9bd954d2bae",
       "detailLevel": "preview"
@@ -417,7 +414,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "0b447385489fc923cf4ff07a9fd1e37194c2830ae0bb03a407b1f6e4d24ffa20",
       "detailLevel": "article",
@@ -445,7 +442,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
       "detailLevel": "article",
@@ -473,7 +470,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "1ae97dc5e34c8763187283328000fa9a4c2f63c38dbca6aab5a8c92544e17b57",
       "detailLevel": "article",
@@ -501,11 +498,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "c3903f1b4855287d979e5b5d48a39f67122ffda2676b9359672fe73f9ea525f1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T12:10:27.300856+00:00",
+      "enrichedAt": "2026-11-19T01:28:00.167780+00:00",
       "context": null
     },
     {
@@ -529,11 +526,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T12:10:27.300856+00:00",
+      "enrichedAt": "2026-11-19T01:28:00.167780+00:00",
       "context": null
     },
     {
@@ -557,7 +554,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
@@ -566,12 +563,12 @@
     },
     {
       "id": "rss-f07f9d5e35e785e78f",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
       "bullets": [
-        "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain."
+        "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros en 2027."
       ],
       "publishedAt": "2026-11-18T20:12:20+00:00",
       "updatedAt": "2026-11-18T20:12:20+00:00",
@@ -583,9 +580,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "77a38bcda9eefba32d3634248dca9f7d707aaebc22d2c1956e2a85d21aa41687",
+      "summaryInput": "1153f792498769f74502ebe72930c42169dccf55a298671e8c99903c87779b66",
       "detailLevel": "preview"
     },
     {
@@ -609,7 +606,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "0ffcaf99274f80b4482df035debd65831a12ca087bd5aa3684f041ba9760495b",
       "detailLevel": "article",
@@ -636,7 +633,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "360671d37377052f7ddd4f2cde291fb73f49161fde7bd3f49574751c0b834c51",
       "detailLevel": "preview"
@@ -662,7 +659,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "8e594c1e4316d45cde76aa1b6da741a93a057350ebbc92eb1ebd4ba71cdbee08",
       "detailLevel": "article",
@@ -689,7 +686,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
       "detailLevel": "preview"
@@ -714,7 +711,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "70c81a1ca453d8154b3c63c8ba42acda7fea0ce4b7a47f6453d71bd15e4394ce",
       "detailLevel": "preview"
@@ -740,7 +737,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "a6f18b7d89e615caeaa8ca00508c40859966a90dea5554d789088fc607d157cf",
       "detailLevel": "article",
@@ -766,7 +763,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "340f2981efe28277e4e4af76440dfad93fe0e9554c2ddeb34cda37e987583999",
       "detailLevel": "preview"
@@ -792,7 +789,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "d7534fc2dbaac829c057591775318bb3065062962a59684f224b549fdf4d5d40",
       "detailLevel": "article",
@@ -818,7 +815,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "df06470c1357107b620bfad5831f7ac9ca08202cf7fb4336d2d9fdf15e283b75",
       "detailLevel": "preview"
@@ -843,7 +840,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "5615b99b2337b5fa7d5504d48d5de3564f0adc627b4342d81d39414f9efa3db5",
       "detailLevel": "preview"
@@ -867,7 +864,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "fd27308c2bc07b596a8a45dce64fbff8ae7ae977412022ca0389ddeeb7c177c4",
       "detailLevel": "preview"
@@ -893,7 +890,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "7b0d075243dedd22cacbd7f0b0ec9c1f1b2ff725ec95b9065f4749daa0fd84a3",
       "detailLevel": "article",
@@ -919,37 +916,37 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bec003357eeada875c",
+      "id": "rss-264d1f9e43a394eea2",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
       "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
+        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
+        "Ces boulangers produisent environ 130 baguettes chaque jour."
       ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-18T16:41:12+00:00",
+      "updatedAt": "2026-11-18T16:41:12+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
+          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
+      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
+      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
       "context": null
     },
     {
@@ -971,7 +968,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c3bb1e4019b6f1524d15883545ad88881143667d6dab68015311b67a32a2ec",
       "detailLevel": "preview"
@@ -996,7 +993,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
       "summaryInput": "198b3f8eb7cb70cfb3a6e3a81b477fed3262c66773215ba5e4a3dcd97a023692",
       "detailLevel": "article",
@@ -1022,7 +1019,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "60b5bcf93ef23d681f1a77918d189f4c4f4c5a76e3e98ef54e8fa258a7f01f93",
       "detailLevel": "preview"
@@ -1046,7 +1043,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "a21979dc143409a3cf6b70b86dda7cbdf7b14c45713eeb1f317ca6169640c723",
       "detailLevel": "preview"
@@ -1070,7 +1067,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "5da30ff3625e2b7600f8fa749beda504a0b46e113a37db71059d13a93fb69126",
       "detailLevel": "preview"
@@ -1095,34 +1092,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c6275b0240638d60ba",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
-      "bullets": [
-        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
-        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
-      ],
-      "publishedAt": "2026-11-18T18:09:23+00:00",
-      "updatedAt": "2026-11-18T18:09:23+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
       "detailLevel": "preview"
     },
     {
@@ -1145,7 +1117,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "116c7ed5de146d2b2df18e974618a1575c8f62184a0ca61a1b942a83e88b76d3",
       "detailLevel": "preview"
@@ -1169,9 +1141,62 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "762b9ea2f36a7fd6b2e3b8eeb9e4e323ba8d33db30c40c8177da5dbd4639de88",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bec003357eeada875c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "bullets": [
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+      ],
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-477bfcde542a88b1e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
+      "bullets": [
+        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
+        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
+      ],
+      "publishedAt": "2026-11-18T07:41:00+00:00",
+      "updatedAt": "2026-11-18T07:41:00+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
       "detailLevel": "preview"
     },
     {
@@ -1193,7 +1218,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "a16d887454deb5ae6f28ff2c1ea5f076b64853ca728925d18f8e634d98d5a884",
       "detailLevel": "preview"
@@ -1217,34 +1242,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "59c501e64b95521d145d9b28fa5f3d1174409c0abb8f3c18d17f07c75602c9c8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8f66d58238f9637239",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "« Le gouvernement est obligé de céder » : au bord de la rupture après deux mois de violences sociales, les policiers crient leur ras-le-bol",
-      "bullets": [
-        "RÉCIT - Plusieurs centaines d’agents ont mené, mercredi, une manifestation surprise jusque sous les fenêtres du ministre de l’Intérieur.",
-        "La veille, les CRS ont demandé à consulter un médecin en se déclarant épuisés."
-      ],
-      "publishedAt": "2026-11-18T18:10:11+00:00",
-      "updatedAt": "2026-11-18T18:10:11+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-est-oblige-de-ceder-au-bord-de-la-rupture-apres-deux-mois-de-violences-sociales-les-policiers-crient-leur-ras-le-bol-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-18",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e16b4329fdaf4c3f824626c2ae8e576511028a89e26a66aaa1b5a66dae4b6fc7",
       "detailLevel": "preview"
     }
   ],
@@ -1325,7 +1325,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
