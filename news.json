@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T22:01:53.645594+00:00",
+  "preparedAt": "2026-11-19T22:59:12.451102+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -294,27 +294,27 @@
       "context": null
     },
     {
-      "id": "rss-88b86fffbaf5bf2fdb",
+      "id": "rss-6ffc4801f1189fe05f",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Présidentielle 2027 : les plus influents créateurs de contenu devront respecter le pluralisme",
+      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
       "bullets": [
-        "Pour la première fois, l’Arcom leur impose de respecter les mêmes règles du jeu que les télévisions et radios."
+        "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les radios, se soumettre à des règles de temps de parole et de déontologie."
       ],
-      "publishedAt": "2026-11-19T18:44:45+00:00",
-      "updatedAt": "2026-11-19T18:44:45+00:00",
+      "publishedAt": "2026-11-19T19:30:08+00:00",
+      "updatedAt": "2026-11-19T19:30:08+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/presidentielle-les-plus-influents-createurs-de-contenu-devront-respecter-le-pluralisme-20261119",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "c35adddf2777b4af6014ba8f5aad31474f24a624f0fb99617fdf65db1c2537f1",
+      "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
       "detailLevel": "preview"
     },
     {
@@ -377,9 +377,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T22:01:54+00:00",
-      "updatedAt": "2026-11-19T22:01:54+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-19T22:55:27+00:00",
+      "updatedAt": "2026-11-19T22:55:27+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -603,7 +603,7 @@
       ],
       "publishedAt": "2026-11-17T10:26:28+00:00",
       "updatedAt": "2026-11-17T10:26:28+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -832,31 +832,6 @@
       "context": null
     },
     {
-      "id": "rss-554afe66961d34d05a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne en octobre",
-      "bullets": [
-        "L’exécutif européen a dit avoir été victime d’une « cyber campagne générée par l’IA », liée à un « usage abusif d’un outil d’IA » et détectée le 22 octobre.",
-        "Mais aucune violation de données n’a été prouvée à ce stade, selon un porte-parole."
-      ],
-      "publishedAt": "2026-11-19T14:27:52+00:00",
-      "updatedAt": "2026-11-19T14:27:52+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/19/une-cyberattaque-assistee-par-l-ia-a-cible-la-commission-europeenne-en-octobre_6813314_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6042221373a60a039c21373f0258b47330e10f66519b93d840379f67c77261a1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e7391a49c27fa8754b",
       "revision": 1,
       "category": "world",
@@ -960,6 +935,30 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6cf20b7a8e410d5c9f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Italie, plus de 2 400 écoles ont été évacuées le 11 novembre après de fausses alertes à la bombe",
+      "bullets": [
+        "Face à la multiplication des fausses alertes à la bombe, le gouvernement italien dénonce des « actions dont le seul objectif est la déstabilisation » et tient à rassurer familles et enseignants."
+      ],
+      "publishedAt": "2026-11-19T15:14:50+00:00",
+      "updatedAt": "2026-11-19T15:14:50+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/en-italie-plus-de-2-400-ecoles-ont-ete-evacuees-le-11-novembre-apres-de-fausses-alertes-a-la-bombe_6813331_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f1d53311eed9fc576c96bc709447dca414f0fcea7fd39c61acc13c02b06251b7",
       "detailLevel": "preview"
     },
     {
@@ -1315,34 +1314,6 @@
       "context": null
     },
     {
-      "id": "rss-bec003357eeada875c",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
-      "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
-      ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
-      "context": null
-    },
-    {
       "id": "rss-ea780f8e9272024de6",
       "revision": 1,
       "category": "france",
@@ -1365,6 +1336,30 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b3f5af890055cb361b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Emploi et handicap : le gouvernement souhaite supprimer les restrictions d’accès à 36 métiers",
+      "bullets": [
+        "Les représentants du secteur du handicap dénoncent une mesure discriminatoire et obsolète. Mais les employeurs la défendent au nom de la sécurité et des coûts d’adaptation des postes. Ils y trouvent aussi un avantage financier."
+      ],
+      "publishedAt": "2026-11-19T08:30:09+00:00",
+      "updatedAt": "2026-11-19T08:30:09+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/emploi-et-handicap-le-gouvernement-souhaite-supprimer-les-restrictions-d-acces-a-36-metiers_6813253_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7526ac8b70c0747dc9a6c1eaf2c47b6f2a1c117f83068a9aa6c3a1345dc8639c",
       "detailLevel": "preview"
     }
   ],
@@ -1403,7 +1398,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
