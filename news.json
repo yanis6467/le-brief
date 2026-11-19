@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T01:28:00.167780+00:00",
+  "preparedAt": "2026-11-19T03:03:26.547395+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -93,7 +93,7 @@
       ],
       "publishedAt": "2026-11-18T14:30:03+00:00",
       "updatedAt": "2026-11-18T14:30:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -292,28 +292,28 @@
       "context": null
     },
     {
-      "id": "rss-a6a03e321ec1a9be14",
+      "id": "rss-a79767ef2ef06aa549",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
+      "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
       "bullets": [
-        "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir.",
-        "La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données."
+        "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars.",
+        "Les organisateurs entendent encadrer ces visites."
       ],
-      "publishedAt": "2026-11-19T00:20:25+00:00",
-      "updatedAt": "2026-11-19T00:20:25+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-18T15:05:29+00:00",
+      "updatedAt": "2026-11-18T15:05:29+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "1c095af93a64f6341e3bac068c862c3d4748001ff089a89cd085e80fdabd5df7",
+      "summaryInput": "c7e7863246a2517f871e8be05b3620d762b610662ca0d893a14b1359b5550b65",
       "detailLevel": "preview"
     },
     {
@@ -352,8 +352,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T01:25:27+00:00",
-      "updatedAt": "2026-11-19T01:25:27+00:00",
+      "publishedAt": "2026-11-19T03:02:31+00:00",
+      "updatedAt": "2026-11-19T03:02:31+00:00",
       "importance": 69,
       "sources": [
         {
@@ -651,7 +651,7 @@
       ],
       "publishedAt": "2026-11-18T14:41:33+00:00",
       "updatedAt": "2026-11-18T14:41:33+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -693,10 +693,10 @@
     },
     {
       "id": "rss-50c527a6a7f481e941",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Au Danemark, la première ministre sociale-démocrate Mette Frederiksen franchit un nouveau pas vers l’extrême droite en parlant de « grand remplacement »",
+      "title": "Au Danemark, la première ministre sociale-démocrate, Mette Frederiksen, franchit un nouveau pas vers l’extrême droite en parlant de « grand remplacement »",
       "bullets": [
         "Dans un podcast, mardi 17 novembre, la cheffe du gouvernement danois a évoqué cette théorie complotiste, se livrant à une surenchère supplémentaire dans le domaine de l’immigration.",
         "Ses propos ont été salués par l’extrême droite européenne."
@@ -713,7 +713,7 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "70c81a1ca453d8154b3c63c8ba42acda7fea0ce4b7a47f6453d71bd15e4394ce",
+      "summaryInput": "57650a15110c219ba01ce882efd516d45f37dfc435ea618b908a4f233553f1cf",
       "detailLevel": "preview"
     },
     {
@@ -729,7 +729,7 @@
       ],
       "publishedAt": "2026-11-18T15:00:02+00:00",
       "updatedAt": "2026-11-18T15:00:02+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1098,6 +1098,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c6275b0240638d60ba",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+      "bullets": [
+        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
+        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+      ],
+      "publishedAt": "2026-11-18T18:09:23+00:00",
+      "updatedAt": "2026-11-18T18:09:23+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ea9dc6f36c5e9914a8",
       "revision": 1,
       "category": "france",
@@ -1173,31 +1198,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
       "context": null
-    },
-    {
-      "id": "rss-477bfcde542a88b1e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
-      "bullets": [
-        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
-        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
-      ],
-      "publishedAt": "2026-11-18T07:41:00+00:00",
-      "updatedAt": "2026-11-18T07:41:00+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-bf176079419e24d2f4",
