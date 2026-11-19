@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T12:10:52.176937+00:00",
+  "preparedAt": "2026-11-19T13:31:50.307551+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,31 +33,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T12:10:52.176937+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8dbbedf090bcff20f1",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-      "bullets": [
-        "L’Agence internationale de l’énergie devait publier son rapport annuel, jeudi 19 novembre.",
-        "Le directeur exécutif de l’organisation souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le développement des renouvelables, du nucléaire et de l’électrification."
-      ],
-      "publishedAt": "2026-11-19T05:00:28+00:00",
-      "updatedAt": "2026-11-19T05:00:28+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "93f9467c4361bde437c44a4612c8da9b0340f29e408ee5b89d872d80570269d4",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-89540c8459cdcea67b",
@@ -166,30 +141,6 @@
       "context": null
     },
     {
-      "id": "rss-5aab93c082ab2c5a56",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« L’impopularité des droits de douane imposés par Donald Trump révèle les limites de sa politique économique, fondée sur une illusion »",
-      "bullets": [
-        "L’économiste Antoine Bouët liste, dans une tribune au « Monde », les cinq promesses non tenues du protectionnisme mis en œuvre par le président américain et qui explique, dans une large mesure, la déroute du camp républicain aux midterms, le 3 novembre."
-      ],
-      "publishedAt": "2026-11-19T09:00:02+00:00",
-      "updatedAt": "2026-11-19T09:00:02+00:00",
-      "importance": 69,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/19/l-impopularite-des-droits-de-douane-revele-les-limites-de-la-politique-economique-de-donald-trump-fondee-sur-une-illusion_6813256_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-2d8d19cdcab3a9811c",
       "revision": 1,
       "category": "eco",
@@ -268,34 +219,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1826ad3af22bfd0690",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Pour relancer les trains de nuit, l'Etat va louer des locomotives neuves et rénover les vieux Corail de la SNCF",
-      "bullets": [
-        "Les propositions reçues en vue d'une location de nouveaux wagons, après l'appel d'offres lancé en 2025 par l'Etat, \"ne permettaient pas de réaliser le projet dans un cadre satisfaisant sur le plan financier\", a expliqué Philippe Tabarot.",
-        "Fréquentation en hausse de 30% en trois ans\"Il ne s'agira pas d'une simple modernisation, mais vraiment d'une véritable remise à neuf.",
-        "La fréquentation des trains de nuit a progressé de 30% entre 2022 et 2025, selon le ministère."
-      ],
-      "publishedAt": "2026-11-18T22:17:15+00:00",
-      "updatedAt": "2026-11-18T22:17:15+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/transports/pour-relancer-les-trains-de-nuit-l-etat-va-louer-des-locomotives-neuves-et-renover-les-vieux-corail-de-la-sncf_8289017.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "b8ea275672785976ad2f5513b4bf6dc06a7445a2228b4c16cb74297915d86cd7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
-      "context": null
-    },
-    {
       "id": "rss-be002d6ddc7ff150c6",
       "revision": 1,
       "category": "eco",
@@ -318,6 +241,78 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "527b25a0a4a6b6219a377f2c169136a186379a49c0ab30659142dc4e82142622",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cbfaabf4713177b977",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
+      "bullets": [
+        "Issus d’une directive européenne de 2019, ces droits permettent aux éditeurs et aux agences de presse d’être rémunérés lorsque des plateformes comme Google ou Meta utilisent leurs contenus."
+      ],
+      "publishedAt": "2026-11-19T13:05:11+00:00",
+      "updatedAt": "2026-11-19T13:05:11+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/droits-voisins-le-parlement-a-definitivement-adopte-une-loi-pour-mieux-remunerer-la-presse_6813305_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f33fda67854692ac33889b6585b0f7e362d30662c2620bdcc5b28968727e0aaa",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-147b1858ae2e92582d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Mort de Jean-Marie Duthilleul, architecte des gares et des églises",
+      "bullets": [
+        "Connu pour avoir notamment conçu la gare Avignon-TGV, mais aussi pour son travail sur les églises et de nombreux chantiers en Corée, en Chine et à l’étranger, il est décédé le 16 novembre, à l’âge de 73 ans."
+      ],
+      "publishedAt": "2026-11-19T12:25:10+00:00",
+      "updatedAt": "2026-11-19T12:25:10+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/11/19/mort-de-jean-marie-duthilleul-architecte-des-gares-et-des-eglises_6813296_3382.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "63c9d5496df500db93ed45a84769366496d205c4ad84bc2aab80d4c3477f6dba",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-98a6a6bcad553314c4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Nous avons besoin de 500 millions à 1 milliard d’euros pour engager la production» : Atea, premier avion hybride électrique européen, prêt à décoller",
+      "bullets": [
+        "DÉCRYPTAGE - Son concepteur, la start-up française Ascendance Technologies, appelle à un soutien plus fort de l’Union européenne et de la France ainsi que de «capitaux privés patients»."
+      ],
+      "publishedAt": "2026-11-19T11:55:24+00:00",
+      "updatedAt": "2026-11-19T11:55:24+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/nous-avons-besoin-de-500-millions-a-1-milliard-d-euros-pour-engager-la-production-atea-premier-avion-hybride-electrique-europeen-pret-a-prendre-son-envol-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "66bfc90c6f89de34e9abac2039ebdbb26b283160758344562a5e8e842b93caa8",
       "detailLevel": "preview"
     },
     {
@@ -355,8 +350,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T12:08:59+00:00",
-      "updatedAt": "2026-11-19T12:08:59+00:00",
+      "publishedAt": "2026-11-19T13:28:48+00:00",
+      "updatedAt": "2026-11-19T13:28:48+00:00",
       "importance": 69,
       "sources": [
         {
@@ -565,7 +560,7 @@
       "provenance": "article-extract",
       "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T01:28:00.167780+00:00",
+      "enrichedAt": "2026-11-19T13:31:50.307551+00:00",
       "context": null
     },
     {
@@ -654,8 +649,8 @@
         "La Commission européenne a été la cible, fin octobre, d'une cyberattaque assistée par l'intelligence artificielle (IA), a annoncé jeudi 19 novembre un de ses porte-parole, sans pouvoir se prononcer pour l'instant sur la responsabilité de cet acte malveillant.",
         "Une enquête a été immédiatement ouverte\", a déclaré Thomas Regnier devant la presse à Bruxelles (Belgique)."
       ],
-      "publishedAt": "2026-11-19T11:52:37+00:00",
-      "updatedAt": "2026-11-19T11:52:37+00:00",
+      "publishedAt": "2026-11-19T12:59:55+00:00",
+      "updatedAt": "2026-11-19T12:59:55+00:00",
       "importance": 79,
       "sources": [
         {
@@ -669,6 +664,34 @@
       "summaryInput": "398b315f385de961895c82bd4597030ea0b1a004a54fe59ba05fd2078fc3c5ee",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T12:10:52.176937+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3a56b9aff3f6edbc15",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Valise nucléaire : quand la Russie la met en scène",
+      "bullets": [
+        "La valise nucléaire russe exhibée à Shenzhen, en Chine.",
+        "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?",
+        "Moins d'impôt sur le revenu pour les plus riches en 2025"
+      ],
+      "publishedAt": "2026-11-19T12:17:43+00:00",
+      "updatedAt": "2026-11-19T12:17:43+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "1b3cf8411c726e34d9fea2f7fe45ec95b708848852c13b00c1f8c7cbba570d8e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T13:31:50.307551+00:00",
       "context": null
     },
     {
@@ -698,6 +721,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8dbbedf090bcff20f1",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
+      "bullets": [
+        "L’Agence internationale de l’énergie devait publier son rapport annuel, jeudi 19 novembre.",
+        "Le directeur exécutif de l’organisation souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le développement des renouvelables, du nucléaire et de l’électrification."
+      ],
+      "publishedAt": "2026-11-19T05:00:28+00:00",
+      "updatedAt": "2026-11-19T05:00:28+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "93f9467c4361bde437c44a4612c8da9b0340f29e408ee5b89d872d80570269d4",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ae37a943cf8c0ccd27",
@@ -798,104 +846,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4d349c4bf45fbc0c69",
-      "revision": 1,
+      "id": "rss-5aab93c082ab2c5a56",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
+      "title": "« L’impopularité des droits de douane imposés par Donald Trump révèle les limites de sa politique économique, fondée sur une illusion »",
       "bullets": [
-        "La répression des Rohingyas par la Birmanie est un génocide, a statué la Cour internationale de justice (CIJ), jeudi 19 novembre.",
-        "La CIJ estime que cette répression menée en 2017 révélait une \"intention\" de détruire cette minorité, un critère déterminant pour établir l'existence d'un génocide.",
-        "Les soldats birmans \"ont tué des milliers de civils rohingyas, perpétré des actes de violence sexuelle à grande échelle ainsi que des actes d'une extrême violence à l'encontre d'enfants, et pris pour cible des Rohingyas qui fuyaient en grand nombre vers le Bangladesh\", a-t-il poursuivi."
+        "L’économiste Antoine Bouët liste, dans une tribune au « Monde », les cinq promesses non tenues du protectionnisme mis en œuvre par le président américain et qui explique, dans une large mesure, la déroute du camp républicain aux midterms, le 3 novembre."
       ],
-      "publishedAt": "2026-11-19T11:46:07+00:00",
-      "updatedAt": "2026-11-19T11:46:07+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "686f39076cbc1c60b0b5f999e3fceb949aee440e265141a4bca6ecac7284d3dd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T12:10:52.176937+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1580bfcc49e7dca0eb",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Birmanie a commis un génocide à l’encontre de la minorité rohingya, statue la Cour internationale de justice",
-      "bullets": [
-        "Les violences avaient contraint des centaines de milliers de personnes à fuir leur foyer.",
-        "Des témoignages ont fait état de viols collectifs, d’exécutions de masse et, de manière plus générale, d’une cruauté inimaginable envers les familles et les enfants."
-      ],
-      "publishedAt": "2026-11-19T11:42:13+00:00",
-      "updatedAt": "2026-11-19T11:42:13+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-19T09:00:02+00:00",
+      "updatedAt": "2026-11-19T09:00:02+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/19/l-impopularite-des-droits-de-douane-revele-les-limites-de-la-politique-economique-de-donald-trump-fondee-sur-une-illusion_6813256_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "5a92db6eecdb64ea3270e663cc826dda27971d4339ca22083d6d500d90d736b6",
+      "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4fec109f3d8e16bcd1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Ce qu’il faut retenir des déclarations de Donald Trump, Xi Jinping et Vladimir Poutine lors de leur rencontre historique à Shenzhen",
-      "bullets": [
-        "Les trois dirigeants ont évoqué de nombreux sujets, parmi lesquelles la paix mondiale, la guerre en Ukraine, les armes nucléaires, mais aussi l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-19T11:34:17+00:00",
-      "updatedAt": "2026-11-19T11:34:17+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/ce-qu-il-faut-retenir-des-declarations-de-donald-trump-xi-jinping-et-vladimir-poutine-lors-de-leur-rencontre-historique-a-shenzhen_6813287_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d7fed41ffb0df83fd667e4552bad0360a2729b439f8d57a0ec74128ec1bf8ff0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a5806ca65156b20410",
+      "id": "rss-08cd229eb1a0e826e8",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
+      "title": "Territoires zéro chômeur de longue durée : le dispositif pérennisé par un dernier vote à l’Assemblée nationale",
       "bullets": [
-        "Mercredi, la candidate des Ecologistes a ouvert la porte à un soutien à Jean-Luc Mélenchon en soulignant « sa dynamique de campagne indéniable » et en « se disant prête à travailler à une coalition » autour de sa candidature."
+        "Ces territoires s’appuient sur la création d’entreprises à but d’emploi (EBE) proposent des activités adaptées aux personnes durablement éloignées de l’emploi qu’elles embauchent, mais ces activités doivent aussi être utiles au territoire."
       ],
-      "publishedAt": "2026-11-19T09:35:34+00:00",
-      "updatedAt": "2026-11-19T09:35:34+00:00",
+      "publishedAt": "2026-11-19T12:11:15+00:00",
+      "updatedAt": "2026-11-19T12:11:15+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/territoires-zero-chomeur-de-longue-duree-le-dispositif-perennise-par-un-dernier-vote-a-l-assemblee-nationale_6813294_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "56d9730d8e93c7c0a9edf926e40b1cbeaeb405359927fb95a40e9f5cc8595f1d",
+      "summaryInput": "e82001741f9d710d82f98cb6295716480caec1e232831798b783338d4b34a543",
       "detailLevel": "preview"
     },
     {
@@ -1026,27 +1021,51 @@
       "context": null
     },
     {
-      "id": "rss-b2debaf2be0a3721d6",
+      "id": "rss-59fccf403745d57354",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
+      "title": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
       "bullets": [
-        "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie."
+        "La maison de vente aux enchères Sotheby’s avait annoncé, mardi, qu’un accord avait été trouvé avec une famille qui contestait la mise en vente de l’œuvre, mettant en avant les conditions de son acquisition sous le régime nazi."
       ],
-      "publishedAt": "2026-11-17T18:00:09+00:00",
-      "updatedAt": "2026-11-17T18:00:09+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-19T00:09:23+00:00",
+      "updatedAt": "2026-11-19T00:09:23+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "60b5bcf93ef23d681f1a77918d189f4c4f4c5a76e3e98ef54e8fa258a7f01f93",
+      "summaryInput": "cdd5658f1db69b74aed7b3a87c50bb22e8bf4a432ad6538ff8d6d9d04a51edc4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a5806ca65156b20410",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
+      "bullets": [
+        "Mercredi, la candidate des Ecologistes a ouvert la porte à un soutien à Jean-Luc Mélenchon en soulignant « sa dynamique de campagne indéniable » et en « se disant prête à travailler à une coalition » autour de sa candidature."
+      ],
+      "publishedAt": "2026-11-19T09:35:34+00:00",
+      "updatedAt": "2026-11-19T09:35:34+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56d9730d8e93c7c0a9edf926e40b1cbeaeb405359927fb95a40e9f5cc8595f1d",
       "detailLevel": "preview"
     },
     {
@@ -1074,27 +1093,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-968fe30b2be90d3907",
+      "id": "rss-4103ae04f2fa4a9524",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Les images de l’échange tendu entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen à l’Assemblée nationale",
+      "topic": "Justice",
+      "title": "Dans le Vaucluse, une « carte Vitale » pour manger moins cher, bio et local : « Ce droit à l’alimentation est un vecteur de justice sociale, environnementale et démocratique »",
       "bullets": [
-        "« Arrêtez de souffler sur les braises, arrêtez de jeter de l’huile sur le feu et respectez les principes de la loi républicaine et tout ira bien, monsieur le député », a fustigé le ministre de l’intérieur."
+        "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable.",
+        "La mesure est proposée par certains candidats à la présidentielle comme un nouveau droit social."
       ],
-      "publishedAt": "2026-11-18T18:32:29+00:00",
-      "updatedAt": "2026-11-18T18:32:29+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-19T13:00:13+00:00",
+      "updatedAt": "2026-11-19T13:00:13+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/video/2026/11/18/les-images-de-l-echange-tendu-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-a-l-assemblee-nationale_6813192_823448.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "a21979dc143409a3cf6b70b86dda7cbdf7b14c45713eeb1f317ca6169640c723",
+      "summaryInput": "684083039eb793dd979a1815f81ca0d7c1ee35bebd162646c5d9805553a1615d",
       "detailLevel": "preview"
     },
     {
@@ -1147,28 +1167,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c6275b0240638d60ba",
+      "id": "rss-ea780f8e9272024de6",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+      "title": "Budget de la « Sécu » pour 2027 : la question-clé de l’effort demandé aux retraités",
       "bullets": [
-        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
-        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+        "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux Chambres du Parlement.",
+        "Jusqu’à présent, elles ont divergé sur la mise à contribution des retraités pour redresser les finances…"
       ],
-      "publishedAt": "2026-11-18T18:09:23+00:00",
-      "updatedAt": "2026-11-18T18:09:23+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-19T09:07:47+00:00",
+      "updatedAt": "2026-11-19T09:07:47+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
+      "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
       "detailLevel": "preview"
     },
     {
@@ -1250,31 +1270,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
       "context": null
-    },
-    {
-      "id": "rss-477bfcde542a88b1e2",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
-      "bullets": [
-        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
-        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
-      ],
-      "publishedAt": "2026-11-18T07:41:00+00:00",
-      "updatedAt": "2026-11-18T07:41:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1288,7 +1283,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 5
     },
     {
       "publisher": "Franceinfo",
