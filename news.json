@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T20:16:40.748961+00:00",
+  "preparedAt": "2026-11-19T21:10:17.530508+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -112,60 +112,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-89540c8459cdcea67b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La régularisation de travailleurs sans-papiers est une mesure pour aider les entreprises en \"grandes difficultés de recrutement\", pointe un député PS",
-      "bullets": [
-        "Les socialistes proposent jeudi 19 novembre à l'Assemblée de régulariser 300 000 travailleurs sans-papiers, une mesure pour aider les entreprises en \"grandes difficultés de recrutement\", souligne le député PS de la première circonscription de la Drôme, Paul Christophle qui porte cette proposition de loi.",
-        "La proposition portée par Paul Christophle à l'Assemblée nationale \"ne donne pas un chiffre précis, elle dit que, sur le critère d'avoir travaillé six mois sur les 24 derniers mois, alors on peut vous donner un titre de séjour salarié, un an\", précise-t-il."
-      ],
-      "publishedAt": "2026-11-19T09:01:30+00:00",
-      "updatedAt": "2026-11-19T09:01:30+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/la-regularisation-de-travailleurs-sans-papiers-est-une-mesure-pour-aider-les-entreprises-en-grandes-difficultes-de-recrutement-pointe-un-depute-ps_8289641.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "9e68ff993e52f524d0a0707a9c676bc3b8c2794d239ce119c13a8d13206c7742",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c34f3188e653318a90",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"La colère des élus est très forte\" : face à la baisse de dotation prévue, des maires placent un ruban noir sur les panneaux de leur ville",
-      "bullets": [
-        "Alors que le budget de l'État 2027 débattu en ce moment au Parlement prévoit de demander un effort de cinq milliards d'euros aux communes, \"la colère des élus est très forte\", relate jeudi 19 novembre sur ICI Berry Laurence Rénier, maire d’Aubigny-sur-Nère et présidente de l’Association des maires du Cher.",
-        "Des projets municipaux décalésSi le Parlement adopte ce budget, \"nous serons obligés de décaler des projets\", estime Laurence Rénier."
-      ],
-      "publishedAt": "2026-11-19T08:25:52+00:00",
-      "updatedAt": "2026-11-19T08:25:52+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/la-colere-des-elus-est-tres-forte-face-a-la-baisse-de-dotation-prevue-des-maires-placent-un-ruban-noir-sur-les-panneaux-de-leur-ville_8289602.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "e45fed8c6b5bbfd7d777436f4b1cbbfbca93108df275583bb62ae8217feb41a0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
-      "context": null
-    },
-    {
       "id": "rss-78a05a9f613c865607",
       "revision": 1,
       "category": "eco",
@@ -190,6 +136,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d00ce15914b4aa4b54",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Une politique de la demande sous stéroïdes » : une étude réfute le mythe de « l’offre » sous Emmanuel Macron",
+      "bullets": [
+        "DÉCRYPTAGE - Face aux pourfendeurs de la politique « libérale » du président de la République, une note de l’Institut de l’entreprise démontre que les choix budgétaires effectués depuis dix ans ont profité de manière écrasante aux ménages, et non aux entreprises."
+      ],
+      "publishedAt": "2026-11-19T19:05:00+00:00",
+      "updatedAt": "2026-11-19T19:05:00+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/une-politique-de-la-demande-sous-steroides-une-etude-refute-le-mythe-de-l-offre-sous-emmanuel-macron-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "17f91e1d067e8b57866a300bdb537ea40e606a17022b2411f7fe56cc51f9a792",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5aab93c082ab2c5a56",
       "revision": 2,
       "category": "eco",
@@ -200,7 +170,7 @@
       ],
       "publishedAt": "2026-11-19T09:00:02+00:00",
       "updatedAt": "2026-11-19T09:00:02+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -212,62 +182,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-29d74a7426fa524582",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Compte à rebours, \"stocks faibles\"… Le piège des promotions éphémères dans le viseur de la Commission européenne",
-      "bullets": [
-        "Donc, je n'y crois pas\", tranche un autre.\"Souvent, ce sont des faux compteurs\"La Commission européenne veut les interdire et infliger des amendes aux sites qui les utiliseraient.",
-        "Selon elle, 97% des plateformes y ont recours.",
-        "Contactées, les plateformes concernées et la Fédération du e-commerce n'ont pas répondu à nos sollicitations."
-      ],
-      "publishedAt": "2026-11-19T15:14:59+00:00",
-      "updatedAt": "2026-11-19T15:14:59+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/compte-a-rebours-stocks-faibles-le-piege-des-promotions-ephemeres-dans-le-viseur-de-la-commission-europeenne_8290172.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "5195265a1da9aaf217ca1eba5b8c48a939a3a97f6355ee3d93553fc82590ba3e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-2d8d19cdcab3a9811c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'économiste Gabriel Zucman veut alerter sur \"les milliardaires\" qui \"menacent nos démocraties\" dans un nouveau manifeste",
-      "bullets": [
-        "\"Les milliardaires menacent nos démocraties\", alerte jeudi 19 novembre sur France Inter l'économiste Gabriel Zucman.",
-        "En 1987, les 0,0001% les plus riches possédaient une fortune équivalente à 3% du PIB mondial.",
-        "Aujourd'hui, cette même fraction de la population mondiale, ce qui représente 3 000 ménages, possède un patrimoine équivalent à 17% du PIB mondial."
-      ],
-      "publishedAt": "2026-11-19T08:15:36+00:00",
-      "updatedAt": "2026-11-19T08:15:36+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/l-economiste-gabriel-zucman-veut-alerter-sur-les-milliardaires-qui-menacent-nos-democraties-dans-un-nouveau-manifeste_8289578.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "c8f581ad29876cceb6a2b7908c34bac11659834e45f19770b3028729f065e213",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
-      "context": null
     },
     {
       "id": "rss-6ffc4801f1189fe05f",
@@ -291,6 +205,54 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-88b86fffbaf5bf2fdb",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présidentielle 2027 : les plus influents créateurs de contenu devront respecter le pluralisme",
+      "bullets": [
+        "Pour la première fois, l’Arcom leur impose de respecter les mêmes règles du jeu que les télévisions et radios."
+      ],
+      "publishedAt": "2026-11-19T18:44:45+00:00",
+      "updatedAt": "2026-11-19T18:44:45+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/medias/presidentielle-les-plus-influents-createurs-de-contenu-devront-respecter-le-pluralisme-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c35adddf2777b4af6014ba8f5aad31474f24a624f0fb99617fdf65db1c2537f1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b2b803338beb431243",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Il est absurde de les dissuader d’exercer » : la réforme du cumul emploi-retraite pousse les médecins à partir avant la fin de l’année",
+      "bullets": [
+        "DÉCRYPTAGE - Le régime complémentaire des médecins libéraux a recensé 1 800 départs contre 800 anticipés."
+      ],
+      "publishedAt": "2026-11-19T17:45:00+00:00",
+      "updatedAt": "2026-11-19T17:45:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/il-est-absurde-de-les-dissuader-d-exercer-la-reforme-du-cumul-emploi-retraite-pousse-les-medecins-a-partir-avant-la-fin-de-l-annee-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9a987c404f3d0656ce9784f9821051575a69f2abe27481dca16dc956553f6629",
       "detailLevel": "preview"
     },
     {
@@ -319,6 +281,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cbfaabf4713177b977",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
+      "bullets": [
+        "Issus d’une directive européenne de 2019, ces droits permettent aux éditeurs et aux agences de presse d’être rémunérés lorsque des plateformes comme Google ou Meta utilisent leurs contenus."
+      ],
+      "publishedAt": "2026-11-19T13:05:11+00:00",
+      "updatedAt": "2026-11-19T13:05:11+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/droits-voisins-le-parlement-a-definitivement-adopte-une-loi-pour-mieux-remunerer-la-presse_6813305_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f33fda67854692ac33889b6585b0f7e362d30662c2620bdcc5b28968727e0aaa",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0992278c57eb1393e6",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "+35 % à sa première cotation : Anthropic bat tous les records pour ses débuts à Wall Street",
+      "bullets": [
+        "La société derrière le modèle de langage Claude a levé 107 milliards de dollars ce jeudi au Nasdaq, passant le cap des 2000 milliards de valorisation.",
+        "Un soulagement pour l’ensemble du secteur de l’intelligence artificielle."
+      ],
+      "publishedAt": "2026-11-19T17:22:23+00:00",
+      "updatedAt": "2026-11-19T17:22:23+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/35-a-sa-premiere-cotation-anthropic-bat-tous-les-records-pour-ses-debuts-a-wall-street-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0d002a7df09cce0fa8e9e8544c69838a771ee7a22ee9c5780febb6bf022198e6",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9acccf6fcf7e53b311",
       "revision": 1,
       "category": "markets",
@@ -343,31 +354,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d0ddb76a76e8005947",
+      "id": "rss-59eb319f76e025666b",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "Droits de douane : les marchés boursiers ont fortement reculé sous le poids des hausses de taxes officialisées par Donald Trump",
+      "title": "Pour sa première (et historique) journée à la Bourse de New York, Anthropic a fait un carton (+17%) sans toutefois parvenir à rassurer Wall Street sur l'avenir de l'IA",
       "bullets": [
-        "L'indice Stoxx Europe 600, qui réunit les 600 plus grosses capitalisations boursières du continent, a reculé de 1,33%.",
-        "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
-        "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
+        "Anthropic peut d'ailleurs encore augmenter cette enveloppe, avec une option de surallocation permettant d'émettre 147 millions d'actions additionnelles.",
+        "Mais le groupe a plongé par la suite et évolue désormais quasiment à son prix d'introduction (137 dollars contre 135 dollars).",
+        "Au troisième trimestre 2026, Anthropic a dégagé des revenus de 16,96 milliards de dollars, en hausse de 1.130% sur un an, mais ses pertes opérationnelles se sont inscrites à 567 millions de dollars."
       ],
-      "publishedAt": "2026-11-19T20:15:06+00:00",
-      "updatedAt": "2026-11-19T20:15:06+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-19T21:06:06+00:00",
+      "updatedAt": "2026-11-19T21:06:06+00:00",
+      "importance": 63,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/direct-droits-de-douanes-les-surtaxes-imposees-aux-partenaires-commerciaux-des-etats-unis-par-donald-trump-prendront-effet-le-7-aout_7411372.html",
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/pour-sa-premiere-et-historique-journee-a-la-bourse-de-new-york-anthropic-a-fait-un-carton-17-sans-toutefois-parvenir-a-rassurer-wall-street-sur-l-avenir-de-l-ia-1174132.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
-      "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
+      "summaryInput": "11ba04b923d692f85b2dc029c961a2d9c3a5c80c114137e80294838e5e07e40e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T20:16:40.748961+00:00",
+      "enrichedAt": "2026-11-19T21:10:17.530508+00:00",
       "context": null
     },
     {
@@ -644,90 +655,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-872e2eebe7e5f79464",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
-      "bullets": [
-        "Alors que les entretiens se poursuivent en Chine, entre Xi Jinping, Vladimir Poutine et Donald Trump, ce jeudi 19 novembre, les dirigeants européens, alliés de l'Ukraine, se réunissent à Berlin, au sein de la future coalition des volontaires.",
-        "En attendant, l'Ukraine continue de manquer de missiles antimissiles Patriot pour se défendre et en réclame régulièrement aux États-Unis.",
-        "Selon l'enquête du Wall Street Journal, le client américain d'ArianneGroup a obtenu, via une avance de 5 millions de dollars, que l'usine bordelaise mette en œuvre une nouvelle ligne de production pour sa rayonne, mais pas avant 2028."
-      ],
-      "publishedAt": "2026-11-19T15:11:45+00:00",
-      "updatedAt": "2026-11-19T15:11:45+00:00",
-      "importance": 83,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "8541f38ddcca99245d10211731a62145b66ff329ddb3c4306b3b7da8ab467ec1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T16:16:00.417599+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-4c7f6287fee3a1d857",
-      "revision": 2,
-      "category": "world",
-      "topic": "Santé",
-      "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
-      "bullets": [
-        "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
-        "Cette annonce constitue un revers particulièrement cinglant pour les Etats-Unis, première puissance mondiale.",
-        "Le pays fait désormais face à sa pire épidémie en 35 ans."
-      ],
-      "publishedAt": "2026-11-17T18:16:11+00:00",
-      "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-2270b084c49d25d649",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie",
-      "bullets": [
-        "\"Les pays du monde entier sont confrontés au plus grand choc d'approvisionnement énergétique de l'histoire\", affirme l'Agence internationale de l'énergie (AIE) dans son rapport de référence, publié jeudi 19 novembre.",
-        "Dans son scénario médian, l'AIE prévoit que la demande mondiale de pétrole atteindra un pic \"autour de 2030\" avant un \"lent déclin\", tandis que la demande de gaz croîtrait jusqu'à environ 2035.",
-        "Et l'Europe pourrait être le moteur de ce déclin du pétrole, avec \"l'adoption croissante des véhicules électriques accélérant le remplacement des carburants pétroliers dans les transports routiers\", pointe le rapport."
-      ],
-      "publishedAt": "2026-11-19T16:16:55+00:00",
-      "updatedAt": "2026-11-19T16:16:55+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "61f63322d9b4afd114d9bf56a9676effa729383620c4101eaade313e01e8ea9e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T15:11:26.459214+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8a849231d450c3a390",
       "revision": 1,
       "category": "world",
@@ -750,34 +677,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "d624c30da7cf50143c46677ced9f6642584e6b51165556b9200a3e13ee31e0b8",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-82d2994cffcb67b870",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "VIDEO. Un sommet inédit en Chine entre Xi Jinping, Donald Trump et Vladimir Poutine",
-      "bullets": [
-        "Devant les journalistes, Vladimir Poutine et Donald Trump mettent en scène leur bonne relation avant d'entamer leur réunion bilatérale.",
-        "Après cette première rencontre, Donald Trump s'est entretenu avec son homologue chinois et assure : \"Nous cherchons tous deux à apporter notre aide dans le contexte de la guerre entre la Russie et l'Ukraine.",
-        "Selon un expert, ce sommet entre Donald Trump, Vladimir Poutine et Xi Jinping, qui se déroule jeudi 19 novembre, marque la mainmise des trois puissances sur l'ordre mondial."
-      ],
-      "publishedAt": "2026-11-19T14:33:32+00:00",
-      "updatedAt": "2026-11-19T14:33:32+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/un-sommet-inedit-en-chine-entre-xi-jinping-donald-trump-et-vladimir-poutine_8289632.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "eaa365e39cae8a657eaada98340e74e78ac38210de9c32d8d35eb8682233ab37",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T15:11:26.459214+00:00",
-      "context": null
     },
     {
       "id": "rss-554afe66961d34d05a",
@@ -803,62 +702,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6042221373a60a039c21373f0258b47330e10f66519b93d840379f67c77261a1",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e7391a49c27fa8754b",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
-      "bullets": [
-        "La Commission européenne a été la cible, fin octobre, d'une cyberattaque assistée par l'intelligence artificielle, a annoncé un de ses porte-parole, jeudi 19 novembre, sans pouvoir se prononcer pour l'instant sur la responsabilité de cet acte malveillant.",
-        "Confirmant une information de Politico, l'exécutif européen a fait état d'une \"cyber campagne générée par l'IA\", liée à un \"usage abusif d'un outil d'IA\" et détectée le 22 octobre.",
-        "Mercredi, la Banque centrale européenne (BCE) a appelé à renforcer la coopération contre les cyberattaques, estimant que les progrès de l'IA accentuent cette menace."
-      ],
-      "publishedAt": "2026-11-19T13:38:26+00:00",
-      "updatedAt": "2026-11-19T13:38:26+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "21b4241ab213e80d384de36decbfdd729a5be2dee24edeb636fa6be9716c5a72",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T15:11:26.459214+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-3a56b9aff3f6edbc15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Valise nucléaire : quand la Russie la met en scène",
-      "bullets": [
-        "La valise nucléaire russe exhibée à Shenzhen, en Chine.",
-        "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
-        "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?"
-      ],
-      "publishedAt": "2026-11-19T12:17:43+00:00",
-      "updatedAt": "2026-11-19T12:17:43+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "68bd9569dac1c48bb3df8b3fde09cc47dfbc7b1506279bcad34db83e5598d5cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T19:13:10.791675+00:00",
-      "context": null
     },
     {
       "id": "rss-ae37a943cf8c0ccd27",
@@ -911,14 +754,183 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4ef6e53441b681566e",
+      "id": "rss-6cf20b7a8e410d5c9f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Italie, plus de 2 400 écoles ont été évacuées le 11 novembre après de fausses alertes à la bombe",
+      "bullets": [
+        "Face à la multiplication des fausses alertes à la bombe, le gouvernement italien dénonce des « actions dont le seul objectif est la déstabilisation » et tient à rassurer familles et enseignants."
+      ],
+      "publishedAt": "2026-11-19T15:14:50+00:00",
+      "updatedAt": "2026-11-19T15:14:50+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/en-italie-plus-de-2-400-ecoles-ont-ete-evacuees-le-11-novembre-apres-de-fausses-alertes-a-la-bombe_6813331_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f1d53311eed9fc576c96bc709447dca414f0fcea7fd39c61acc13c02b06251b7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39e5a22092f3a3da65",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« On est parti sans savoir si on pourra rentrer un jour » : à Gaza, les chars israéliens font de nouveau fuir les familles",
+      "bullets": [
+        "RÉCIT - Treize mois après le cessez-le-feu, une incursion au-delà de la « ligne jaune » a déplacé des milliers de Palestiniens autour de Nusseirat et d’al-Bureij. Tsahal dit avoir visé un tunnel menaçant ses soldats. L’opération s’est achevée jeudi et les habitants commencent à regagner leurs abris."
+      ],
+      "publishedAt": "2026-11-19T20:30:00+00:00",
+      "updatedAt": "2026-11-19T20:30:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/on-est-parti-sans-savoir-si-on-pourra-rentrer-un-jour-a-gaza-les-chars-israeliens-font-de-nouveau-fuir-les-familles-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "237d18ccd4c6b26fb2145e826fa13be0240fb6905791c30140b8058dbdeadb17",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cfcb718c8f72ef9a09",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+      "bullets": [
+        "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohingya, une minorité musulmane, ont été massacrés par l’armée birmane…"
+      ],
+      "publishedAt": "2026-11-19T20:06:18+00:00",
+      "updatedAt": "2026-11-19T20:06:18+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "24f1a9370ee30a97d1577762be2e7ed702dbe205e6ba7a3a230768e1dcac8f46",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39d17dea6dc96d79e3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Après l’attaque ukrainienne contre le pont de Crimée, Vladimir Poutine promet des représailles «encore plus douloureuses»",
+      "bullets": [
+        "Sévèrement endommagé mardi par un missile et des drones ukrainiens, l’ouvrage reliant le territoire russe à la péninsule contrôlée par Moscou a été visé une troisième fois, mercredi soir, à la veille du sommet tripartite de Shenzhen."
+      ],
+      "publishedAt": "2026-11-19T19:01:27+00:00",
+      "updatedAt": "2026-11-19T19:01:27+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/apres-l-attaque-ukrainienne-contre-le-pont-de-crimee-vladimir-poutine-promet-des-represailles-encore-plus-douloureuses-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8b9b8c8b0915c052f608a77080071fa259b22e0f905a2832707c38dca9b4d970",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ce3cbfa115cb9726ec",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "589 millions d’enfants dans le monde vivent dans une zone de guerre, un chiffre « record », selon l’ONG Save the Children",
+      "bullets": [
+        "La part d’enfants vivant dans des zones de conflit a plus que doublé, passant de 10 % au milieu des années 1990 à 23,4 % en 2025, soit près d’un quart, selon ce rapport."
+      ],
+      "publishedAt": "2026-11-19T18:29:43+00:00",
+      "updatedAt": "2026-11-19T18:29:43+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/pres-d-un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-selon-l-ong-save-the-children_6813367_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6873ef7c9fc5622f54dd50b613a15fb83e30c92209c04cbf5478bd63f3e0b58d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-36a1e89870db8df12b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : face à Marine Le Pen ou Jean-Luc Mélenchon, les inquiétudes de Kiev, contrainte de préparer l’après-Macron",
+      "bullets": [
+        "DÉCRYPTAGE - Les programmes du RN et de LFI font planer la menace d’un recul du soutien français à Kiev.",
+        "Volodymyr Zelensky, pragmatique, se dit ouvert au dialogue et invite Marine Le Pen à faire le déplacement."
+      ],
+      "publishedAt": "2026-11-19T18:15:00+00:00",
+      "updatedAt": "2026-11-19T18:15:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-face-a-marine-le-pen-ou-jean-luc-melenchon-les-inquietudes-de-kiev-contrainte-de-preparer-l-apres-macron-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "15ca455829d86113a9760100646c44a0ef0e1669b4c373de5968876aa1d201a4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-84b2ca6096e86fa6a2",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
+      "title": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
+      "bullets": [
+        "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, Outre-mer et territoires."
+      ],
+      "publishedAt": "2026-11-19T20:35:45+00:00",
+      "updatedAt": "2026-11-19T20:35:45+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "51fcbfebb9d6580e16006c61ffcd409ea7e952460a582f51aa0d2098a46ae8f5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4ef6e53441b681566e",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
       "title": "Encadrement des loyers : malgré l’obstruction systématique du RN, la prolongation du dispositif adoptée à l’Assemblée nationale",
       "bullets": [
         "Les députés d’extrême droite ont multiplié les amendements pour tenter d’empêcher l’adoption de la proposition de loi portée par le député socialiste Iñaki Echaniz.",
-        "Le ministre du logement a finalement eu recours à l’article 44 alinéa 2 de la Constitution pour mettre fin à cette obstruction."
+        "Le ministre du logement a finalement eu recours à l’article 44, alinéa 2 de la Constitution pour mettre fin à cette obstruction."
       ],
       "publishedAt": "2026-11-19T19:03:14+00:00",
       "updatedAt": "2026-11-19T19:03:14+00:00",
@@ -932,32 +944,7 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "8468949e6f806c99772f93c67bdff30f91ecc8cc69a48d543a36ff5c25517772",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4103ae04f2fa4a9524",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
-      "bullets": [
-        "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable.",
-        "La mesure est proposée par certains candidats à la présidentielle comme un nouveau droit social."
-      ],
-      "publishedAt": "2026-11-19T13:00:02+00:00",
-      "updatedAt": "2026-11-19T13:00:02+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "94508e6d44468027400c689d770c86d2263ce53f2d6d00146be41175bb2c8587",
+      "summaryInput": "fa583d6e4a729a65af92b22aa41d968cccbae161a518f9120bf2409ff60137e4",
       "detailLevel": "preview"
     },
     {
@@ -985,32 +972,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-76e39f380f882e28ba",
+      "id": "rss-ae98c74302f82b9c14",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
+      "title": "Aide à mourir : le mode d’emploi de la Haute autorité de santé pour « permettre une mort apaisée »",
       "bullets": [
-        "\"Ce qu'il y a de primordial, c'est la formation technique et humaine\", déclare ce jeudi sur franceinfo Daniel Guillerm, président de la Fédération nationale des infirmiers (FNI), premier syndicat représentatif des infirmiers libéraux en France, à propos de l'aide à mourir.",
-        "Pour l'instant, \"la formation et les outils ne sont pas encore définis\", analyse Daniel Guillerm.",
-        "Dans le texte publié ce jeudi, la Haute Autorité de santé liste les substances susceptibles d'être utilisées, établit des protocoles sur la mise en œuvre de l'aide à mourir et détaille les conduites à tenir en cas de difficultés."
+        "La HAS dévoile son protocole pour mettre en œuvre le suicide assisté et l’euthanasie. Le malade aurait le choix entre deux options pour le suicide assisté. En cas de complications ou de délais importants avant le décès, le soignant devrait intervenir directement. Contre ce que prévoyait l’esprit de la loi…"
       ],
-      "publishedAt": "2026-11-19T16:20:19+00:00",
-      "updatedAt": "2026-11-19T16:20:19+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-19T12:47:14+00:00",
+      "updatedAt": "2026-11-19T12:47:14+00:00",
+      "importance": 55,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/aide-a-mourir-le-mode-d-emploi-de-la-haute-autorite-de-sante-pour-permettre-une-mort-apaisee-20261119",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T17:22:04.736684+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0060da6904728c47aa1be6a0cfb62d14dbc5783966639390915aa6fd98785d73",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3c3e0f6e90df34cbdd",
@@ -1037,31 +1020,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-896770695e5c633477",
-      "revision": 2,
+      "id": "rss-c8a61dcadf9522b87f",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
+      "title": "Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué",
       "bullets": [
-        "Ce texte a déjà été adopté par l'Assemblée nationale le 7 juillet dernier.\"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", poursuit le producteur de musique roué de coups en 2020 par trois policiers qui sont jugés jusqu'au 20 novembre devant la cour criminelle de Paris.",
-        "\"Si on n'a pas de vidéo, avec cette loi en vigueur, ce serait aux victimes de prouver leur innocence, ce qui est quasiment impossible (...) C'est extrêmement grave\", conclut le producteur, aujourd'hui âgé de 47 ans."
+        "Il sera jugé en janvier et restera en détention provisoire jusque-là."
       ],
-      "publishedAt": "2026-11-18T21:36:14+00:00",
-      "updatedAt": "2026-11-18T21:36:14+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-19T18:59:07+00:00",
+      "updatedAt": "2026-11-19T18:59:07+00:00",
+      "importance": 47,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "198b3f8eb7cb70cfb3a6e3a81b477fed3262c66773215ba5e4a3dcd97a023692",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0a4bc7fd308eb572024874a49b002eefce207785b779b0a9bb6a4162a70f04fd",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-e20abe281c91c302df",
@@ -1115,7 +1095,7 @@
       "id": "rss-49c81acc28327cf408",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Budget 2027 : manifestation des retraités à Paris contre les mesures sociales et fiscales les visant",
       "bullets": [
         "Pour redresser les finances publiques, le gouvernement souhaite faire contribuer les retraités à hauteur d’environ 5,4 milliards d’euros."
@@ -1157,6 +1137,30 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "e82001741f9d710d82f98cb6295716480caec1e232831798b783338d4b34a543",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a5806ca65156b20410",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
+      "bullets": [
+        "Mercredi, la candidate des Ecologistes a ouvert la porte à un soutien à Jean-Luc Mélenchon en soulignant « sa dynamique de campagne indéniable » et en « se disant prête à travailler à une coalition » autour de sa candidature."
+      ],
+      "publishedAt": "2026-11-19T09:35:34+00:00",
+      "updatedAt": "2026-11-19T09:35:34+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "56d9730d8e93c7c0a9edf926e40b1cbeaeb405359927fb95a40e9f5cc8595f1d",
       "detailLevel": "preview"
     },
     {
@@ -1234,125 +1238,101 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-264d1f9e43a394eea2",
+      "id": "rss-fcbd320af081cdefa6",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "topic": "Société",
+      "title": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
       "bullets": [
-        "Une bonne nouvelle pour les habitués : \"Chic, le pain n'augmente pas\", apprécie une cliente.",
-        "\"Mais on sait qu'il finira par augmenter hein, on ne rêve pas\".",
-        "Ces boulangers produisent environ 130 baguettes chaque jour."
+        "A quelques jours de son extinction, l’encadrement des loyers a été prolongé lors d’un vote à la Chambre basse.",
+        "Un barrage d’amendements du RN, selon qui le texte est dangereux pour le marché du logement, menaçait la possibilité de son adoption."
       ],
-      "publishedAt": "2026-11-18T16:41:12+00:00",
-      "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-19T18:44:07+00:00",
+      "updatedAt": "2026-11-19T18:44:07+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "69969b9019cc09749d4ed62601fb38b421bcc1b8bc4532c4186e1c202c98a0d2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9788e9592e33324c8a",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
+      "bullets": [
+        "Le rendez-vous est fixé ce jeudi à 11 heures sur le parvis de la gare Montparnasse.",
+        "Dans un communiqué commun, elles demandent l’indexation des pensions sur l’inflation dès janvier 2027, le rattrapage des pertes de pouvoir d’achat subies depuis 2017 et une retraite au moins égale au Smic pour une carrière complète.",
+        "Mercredi, le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027, après en avoir supprimé, dans la nuit de lundi à mardi, la mesure qui prévoyait de sous-indexer certaines pensions."
+      ],
+      "publishedAt": "2026-11-19T06:37:55+00:00",
+      "updatedAt": "2026-11-19T06:37:55+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/vivre-dignement-apres-des-annees-de-travail-des-organisations-syndicales-et-associatives-de-retraites-manifestent-jeudi-a-paris-20261119",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "article-extract",
-      "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
+      "summaryInput": "c0a4f0ab423fb3f9bbe4310ee20d42110d84bc26afce9da9d4501ae05fcb499c",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T20:16:40.748961+00:00",
+      "enrichedAt": "2026-11-19T21:10:17.530508+00:00",
       "context": null
-    },
-    {
-      "id": "rss-ea780f8e9272024de6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Budget de la « Sécu » pour 2027 : la question-clé de l’effort demandé aux retraités",
-      "bullets": [
-        "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux Chambres du Parlement.",
-        "Jusqu’à présent, elles ont divergé sur la mise à contribution des retraités pour redresser les finances…"
-      ],
-      "publishedAt": "2026-11-19T09:07:47+00:00",
-      "updatedAt": "2026-11-19T09:07:47+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b3f5af890055cb361b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Emploi et handicap : le gouvernement souhaite supprimer les restrictions d’accès à 36 métiers",
-      "bullets": [
-        "Les représentants du secteur du handicap dénoncent une mesure discriminatoire et obsolète. Mais les employeurs la défendent au nom de la sécurité et des coûts d’adaptation des postes. Ils y trouvent aussi un avantage financier."
-      ],
-      "publishedAt": "2026-11-19T08:30:09+00:00",
-      "updatedAt": "2026-11-19T08:30:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/emploi-et-handicap-le-gouvernement-souhaite-supprimer-les-restrictions-d-acces-a-36-metiers_6813253_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7526ac8b70c0747dc9a6c1eaf2c47b6f2a1c117f83068a9aa6c3a1345dc8639c",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/culture/people.rss",
-      "ok": true,
-      "candidates": 0
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
-      "ok": true,
-      "candidates": 6
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie/bourse/marches.rss",
-      "ok": true,
-      "candidates": 1
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
-      "ok": true,
-      "candidates": 18
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/meteo.rss",
-      "ok": true,
-      "candidates": 0
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
-      "ok": true,
-      "candidates": 16
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
-      "ok": true,
-      "candidates": 18
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "publisher": "Le Figaro",
@@ -1370,7 +1350,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1394,7 +1374,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1424,7 +1404,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
