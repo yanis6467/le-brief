@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T09:20:28.187985+00:00",
+  "preparedAt": "2026-11-19T11:12:30.421941+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -137,16 +137,44 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5aab93c082ab2c5a56",
+      "id": "rss-e7289a044c427f72fa",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« L’impopularité des droits de douane révèle les limites de la politique économique de Donald Trump, fondée sur une illusion »",
+      "title": "«Les cocos de Paimpol ne doivent plus financer le Cola d’Atlanta» : Serge Papin appelle à flécher l’inflation «vers les agriculteurs et les PME»",
+      "bullets": [
+        "Allez, sans rancune.» Le ministre faisant ici référence au refus des distributeurs, début novembre, de se rendre à une réunion préparatoire aux négociations commerciales annuelles, qui s’ouvriront officiellement le 1er décembre prochain.",
+        "De son côté, Alexandre Bompard souligne la volonté d’avoir de «la transparence et du discernement, des coûts de production, des choix de marges et la protection de la matière première agricole».",
+        "Cette mesure s’ajoutera à des mécanismes comme le report de charges sociales, ou encore l’octroi d’un prêt à taux zéro allant jusqu’à 50.000 euros."
+      ],
+      "publishedAt": "2026-11-19T10:19:16+00:00",
+      "updatedAt": "2026-11-19T10:19:16+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/les-cocos-de-paimpol-ne-doivent-plus-financer-le-cola-d-atlanta-serge-papin-appelle-a-flecher-l-inflation-vers-les-agriculteurs-et-les-pme-20261119",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "022d9cf1ea9226ea83a282c53db85a834f6da32df88afdabd4e1bf736b3091bc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-5aab93c082ab2c5a56",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« L’impopularité des droits de douane imposés par Donald Trump révèle les limites de sa politique économique, fondée sur une illusion »",
       "bullets": [
         "L’économiste Antoine Bouët liste, dans une tribune au « Monde », les cinq promesses non tenues du protectionnisme mis en œuvre par le président américain et qui explique, dans une large mesure, la déroute du camp républicain aux midterms, le 3 novembre."
       ],
-      "publishedAt": "2026-11-19T09:00:05+00:00",
-      "updatedAt": "2026-11-19T09:00:05+00:00",
+      "publishedAt": "2026-11-19T09:00:02+00:00",
+      "updatedAt": "2026-11-19T09:00:02+00:00",
       "importance": 69,
       "sources": [
         {
@@ -157,7 +185,7 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "4db2c82aea13c2920356f6dc4caf7b12a4bd544a5677ed689c9c9befbd395c62",
+      "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
     },
     {
@@ -240,17 +268,18 @@
     },
     {
       "id": "rss-1826ad3af22bfd0690",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Pour relancer les trains de nuit, l'Etat va louer des locomotives neuves et rénover les vieux Corail de la SNCF",
       "bullets": [
-        "Pour les voitures, les propositions reçues après l'appel d'offres lancé en 2025 par l'Etat \"ne permettaient pas de réaliser le projet dans un cadre satisfaisant sur le plan financier\", a poursuivi Philippe Tabarot, évoquant \"des incertitudes sur le plan industriel\" concernant les dates possibles de livraison.",
-        "Fréquentation en hausse de 30% en trois ans\"Il ne s'agira pas d'une simple modernisation, mais vraiment d'une véritable remise à neuf; l'intérieur des voitures sera intégralement repensé avec de nouveaux aménagements\", a affirmé le ministre, qui entend \"disposer des premiers trains de nuit modernisés à partir de 2032\"."
+        "Les propositions reçues en vue d'une location de nouveaux wagons, après l'appel d'offres lancé en 2025 par l'Etat, \"ne permettaient pas de réaliser le projet dans un cadre satisfaisant sur le plan financier\", a expliqué Philippe Tabarot.",
+        "Fréquentation en hausse de 30% en trois ans\"Il ne s'agira pas d'une simple modernisation, mais vraiment d'une véritable remise à neuf.",
+        "La fréquentation des trains de nuit a progressé de 30% entre 2022 et 2025, selon le ministère."
       ],
       "publishedAt": "2026-11-18T22:17:15+00:00",
       "updatedAt": "2026-11-18T22:17:15+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -262,7 +291,7 @@
       "provenance": "article-extract",
       "summaryInput": "b8ea275672785976ad2f5513b4bf6dc06a7445a2228b4c16cb74297915d86cd7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
+      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
       "context": null
     },
     {
@@ -288,55 +317,6 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "527b25a0a4a6b6219a377f2c169136a186379a49c0ab30659142dc4e82142622",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4508635fa246b1ccbf",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«J’ai pris moins de vacances cet été pour cela» : quand des salariés posent des congés pour la sortie du jeu vidéo événement GTA VI",
-      "bullets": [
-        "DÉCRYPTAGE - Aux États-Unis, entre les vacances et les arrêts maladie, la sortie du nouvel opus de la saga culte, ce jeudi 19 novembre, pourrait coûter jusqu’à un milliard de dollars à l’économie."
-      ],
-      "publishedAt": "2026-11-19T08:33:47+00:00",
-      "updatedAt": "2026-11-19T08:33:47+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/gta-vi-zelda-world-of-warcraft-quand-les-sorties-de-jeux-video-poussent-les-salaries-a-deserter-leur-bureau-20261024",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d24ec2bbd142a365d36f7f96d6c2392b717d734417ae2e93a0efafa9787bed",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5a69065af59af56a07",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Anthropic valorisé 1 500 milliards de dollars à Wall Street : qui va toucher le jackpot ?",
-      "bullets": [
-        "DÉCRYPTAGE - L’introduction en Bourse de la société va générer des richesses considérables pour les investisseurs présents à son capital.",
-        "Mais ce pactole n’arrivera pas directement sur le compte des actionnaires."
-      ],
-      "publishedAt": "2026-11-19T07:38:20+00:00",
-      "updatedAt": "2026-11-19T07:38:20+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/anthropic-valorise-1-400-milliards-de-dollars-a-wall-street-qui-va-toucher-le-jackpot-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8b8640c524e3e964c9d0eee5403d85f92ad3d94fc6accb2a446989d072733aec",
       "detailLevel": "preview"
     },
     {
@@ -374,8 +354,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T09:16:26+00:00",
-      "updatedAt": "2026-11-19T09:16:26+00:00",
+      "publishedAt": "2026-11-19T11:11:49+00:00",
+      "updatedAt": "2026-11-19T11:11:49+00:00",
       "importance": 69,
       "sources": [
         {
@@ -444,28 +424,32 @@
       "context": null
     },
     {
-      "id": "rss-71cf4da5705057acb6",
+      "id": "rss-49bf54c9b1b5a5c443",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "«C’est complètement flippant comme modèle économique» : le pari vertigineux d’Anthropic à Wall Street",
+      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
       "bullets": [
-        "LA SAGA ANTHROPIC (2/3) - À la veille d’une entrée en Bourse hors norme, la société fascine par sa croissance spectaculaire autant qu’elle inquiète par ses engagements financiers colossaux."
+        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
+        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
+        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
       ],
-      "publishedAt": "2026-11-18T17:05:33+00:00",
-      "updatedAt": "2026-11-18T17:05:33+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-19T09:30:00+00:00",
+      "updatedAt": "2026-11-19T09:30:00+00:00",
+      "importance": 59,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/c-est-completement-flippant-comme-modele-economique-le-pari-vertigineux-d-anthropic-a-wall-street-20261118",
-          "access": "extrait"
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8967274bfc8f18088e212f9af10dfd41e3080136a73df9e1e998b9bd954d2bae",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
+      "context": null
     },
     {
       "id": "rss-1d1879df406add44ab",
@@ -508,7 +492,7 @@
       ],
       "publishedAt": "2026-11-17T10:26:28+00:00",
       "updatedAt": "2026-11-17T10:26:28+00:00",
-      "importance": 56,
+      "importance": 55,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -536,7 +520,7 @@
       ],
       "publishedAt": "2026-11-17T09:28:41+00:00",
       "updatedAt": "2026-11-17T09:28:41+00:00",
-      "importance": 52,
+      "importance": 51,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -573,6 +557,30 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "4a707aa9ece1e9badaabf2aa8b5c915ca1b8a6c0563f39ea5546f0923be36461",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-88131b515e2197cec8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "bullets": [
+        "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
+      ],
+      "publishedAt": "2026-11-19T04:30:09+00:00",
+      "updatedAt": "2026-11-19T04:30:09+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "591bd16d8303b4c3a9cd77940df744d5956e07011a3fd0168e67e9c3a0b59e54",
       "detailLevel": "preview"
     },
     {
@@ -709,6 +717,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1fd4415a8f3dffe33a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Entre le Royaume-Uni et l’Union européenne, des retrouvailles complexes",
+      "bullets": [
+        "Malgré la volonté affichée du premier ministre britannique, Andy Burnham, de renforcer les relations économiques et politiques avec l’Union européenne, les deux parties sont encore loin d’un consensus sur les dossiers qui seront abordés lors d’un sommet à Bruxelles, vendredi 20 novembre."
+      ],
+      "publishedAt": "2026-11-19T10:00:03+00:00",
+      "updatedAt": "2026-11-19T10:00:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/entre-le-royaume-uni-et-l-union-europeenne-des-retrouvailles-complexes_6813267_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c3b2b4d007c4c86506de13fae3ce76f65e350da356056206d25e206c29f6b50a",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-956586383984950151",
       "revision": 1,
       "category": "world",
@@ -720,7 +752,7 @@
       ],
       "publishedAt": "2026-11-18T09:52:21+00:00",
       "updatedAt": "2026-11-18T09:52:21+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -758,6 +790,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f0293d97172b0bbef8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dans les camps de réfugiés au Bangladesh, la situation des Rohingya se détériore en raison de la crise de financement",
+      "bullets": [
+        "Alors que la Cour internationale de justice doit déterminer, jeudi 19 novembre, si les autorités birmanes ont commis un génocide contre les Rohingya en 2017, les conditions de vie du plus d’un million de réfugiés installés au Bangladesh ne cesse de se dégrader."
+      ],
+      "publishedAt": "2026-11-19T09:30:10+00:00",
+      "updatedAt": "2026-11-19T09:30:10+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/dans-les-camps-de-refugies-au-bangladesh-la-situation-des-rohingya-se-deteriore-en-raison-de-la-crise-de-financement_6813265_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "68af674340f2069c5ad59ecf3bed639936106241864014807ff20a8de90c0531",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-26ccb10b68ed3d31cd",
       "revision": 1,
       "category": "world",
@@ -766,8 +822,8 @@
       "bullets": [
         "« Des débris sont tombés et les dégâts matériels sont en cours d’évaluation », a reconnu la coalition menée par l’Arabie saoudite, quelques heures après avoir annoncé avoir intercepté un missile tiré par les houthistes."
       ],
-      "publishedAt": "2026-11-19T07:23:48+00:00",
-      "updatedAt": "2026-11-19T07:23:48+00:00",
+      "publishedAt": "2026-11-19T07:23:43+00:00",
+      "updatedAt": "2026-11-19T07:23:43+00:00",
       "importance": 67,
       "sources": [
         {
@@ -782,108 +838,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8b9547dd175055771f",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
-      "bullets": [
-        "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu.",
-        "Il a expliqué que son engagement avait pour objectif « d’avoir un certain équilibre des pouvoirs »."
-      ],
-      "publishedAt": "2026-11-19T04:52:01+00:00",
-      "updatedAt": "2026-11-19T04:52:01+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7ffd8b22687b42033d47fe9492afaffeb8d5364cf43c94a7d0539dc05a195ac8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-02aa02bcc97e14ff9b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
-      "bullets": [
-        "La branche routière du pont de Crimée a été sévèrement endommagée lors d'une attaque ukrainienne combinée, dans la nuit du lundi 16 au mardi 17 novembre.",
-        "Toujours selon cette source, l'unité d'élite Alpha a notamment lancé des drones-missiles \"Palianytsia\" pour frapper la section automobile du pont de Crimée, qui relie à la Russie la péninsule ukrainienne, annexée par Moscou en 2014.",
-        "Chacun de ces drones coûte environ 50 000 euros, avec 90% de composants produits en Ukraine."
-      ],
-      "publishedAt": "2026-11-19T04:34:31+00:00",
-      "updatedAt": "2026-11-19T04:34:31+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "33a9cb64b7df4775e84bfa6e90edccaecac0c5a8a05ee92a4174238c10de9efd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1de49b46b37957e98c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure",
-      "bullets": [
-        "L'ouvrage reliant la Crimée annexée à la Russie a été attaqué, a annoncé dans la soirée du mercredi 18 novembre, un responsable russe local, deux jours après des frappes ukrainiennes ayant sérieusement endommagé cette infrastructure.\"A la suite d'une nouvelle attaque contre le pont de Crimée, la circulation est temporairement interrompue.",
-        "Tous les services compétents sont à pied d'œuvre.",
-        "Une évaluation des dégâts est en cours\", a affirmé Sergueï Aksionov, le responsable de la Crimée nommé par Moscou, sur son compte Telegram."
-      ],
-      "publishedAt": "2026-11-18T23:14:23+00:00",
-      "updatedAt": "2026-11-18T23:14:23+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "32d1f207cea437d005a0966dbcc9c6e920fa8b69dc65fa537f13947c517d8bcf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T09:20:28.187985+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-88131b515e2197cec8",
+      "id": "rss-a5806ca65156b20410",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
       "bullets": [
-        "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
+        "Mercredi, la candidate des Ecologistes a ouvert la porte à un soutien à Jean-Luc Mélenchon en soulignant « sa dynamique de campagne indéniable » et en « se disant prête à travailler à une coalition » autour de sa candidature."
       ],
-      "publishedAt": "2026-11-19T04:30:09+00:00",
-      "updatedAt": "2026-11-19T04:30:09+00:00",
-      "importance": 85,
+      "publishedAt": "2026-11-19T09:35:34+00:00",
+      "updatedAt": "2026-11-19T09:35:34+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "591bd16d8303b4c3a9cd77940df744d5956e07011a3fd0168e67e9c3a0b59e54",
+      "summaryInput": "56d9730d8e93c7c0a9edf926e40b1cbeaeb405359927fb95a40e9f5cc8595f1d",
       "detailLevel": "preview"
     },
     {
@@ -895,8 +870,8 @@
       "bullets": [
         "La présidente de France terre d’asile déplore, dans une tribune au « Monde », que l’attaque terroriste d’extrême droite n’ait donné lieu à aucune introspection des politiques ni des médias, et souligne qu’en des circonstances similaires, l’Allemagne et la Nouvelle-Zélande ont su prendre leurs responsabilités."
       ],
-      "publishedAt": "2026-11-19T05:00:22+00:00",
-      "updatedAt": "2026-11-19T05:00:22+00:00",
+      "publishedAt": "2026-11-19T05:00:17+00:00",
+      "updatedAt": "2026-11-19T05:00:17+00:00",
       "importance": 75,
       "sources": [
         {
@@ -973,7 +948,7 @@
       ],
       "publishedAt": "2026-11-17T21:29:41+00:00",
       "updatedAt": "2026-11-17T21:29:41+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -998,7 +973,7 @@
       ],
       "publishedAt": "2026-11-18T21:36:14+00:00",
       "updatedAt": "2026-11-18T21:36:14+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1010,7 +985,7 @@
       "provenance": "article-extract",
       "summaryInput": "198b3f8eb7cb70cfb3a6e3a81b477fed3262c66773215ba5e4a3dcd97a023692",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T22:01:47.647303+00:00",
+      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
       "context": null
     },
     {
@@ -1160,83 +1135,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ea9dc6f36c5e9914a8",
-      "revision": 2,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "A Nantes, après la visite perturbée du ministre au lycée Nelson-Mandela, élèves et enseignants ne pourront « pas oublier ce qui s’est passé »",
-      "bullets": [
-        "Mercredi, les élèves du lycée Nelson-Mandela retournaient en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre, lors des premières journées de la mobilisation lycéenne.",
-        "Une rentrée repoussée de deux jours à la suite des perturbations en marge de la visite du ministre de l’éducation nationale…"
-      ],
-      "publishedAt": "2026-11-18T16:18:54+00:00",
-      "updatedAt": "2026-11-18T16:18:54+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/a-nantes-apres-la-visite-perturbee-du-ministre-au-lycee-nelson-mandela-eleves-et-enseignants-ne-pourront-pas-oublier-ce-qui-s-est-passe_6813165_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "744dbf7c21de459c1d53158af9a30e2ec7d13cda164e4b9fd1554937529a9090",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9d24f68b2ca7d5edf3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "A Toulouse, un homme tué par balles, deuxième narchomicide en trois jours",
-      "bullets": [
-        "Ce nouvel homicide survenu à Toulouse, où la violence provenant du trafic de drogue a considérablement augmenté en 2026, est lié « à une guerre de territoire entre des groupes qui tiennent des points de deal » entre deux quartiers, selon le procureur."
-      ],
-      "publishedAt": "2026-11-18T10:46:57+00:00",
-      "updatedAt": "2026-11-18T10:46:57+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/18/a-toulouse-un-homme-tue-par-balles-deuxieme-narchomicide-en-trois-jours_6813113_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "762b9ea2f36a7fd6b2e3b8eeb9e4e323ba8d33db30c40c8177da5dbd4639de88",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bec003357eeada875c",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
-      "bullets": [
-        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
-        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
-        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
-      ],
-      "publishedAt": "2026-11-18T10:11:28+00:00",
-      "updatedAt": "2026-11-18T10:11:28+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T23:03:06.925522+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9788e9592e33324c8a",
       "revision": 1,
       "category": "france",
@@ -1263,6 +1161,83 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T05:19:21.428817+00:00",
       "context": null
+    },
+    {
+      "id": "rss-9d24f68b2ca7d5edf3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "A Toulouse, un homme tué par balles, deuxième narchomicide en trois jours",
+      "bullets": [
+        "Ce nouvel homicide survenu à Toulouse, où la violence provenant du trafic de drogue a considérablement augmenté en 2026, est lié « à une guerre de territoire entre des groupes qui tiennent des points de deal » entre deux quartiers, selon le procureur."
+      ],
+      "publishedAt": "2026-11-18T10:46:57+00:00",
+      "updatedAt": "2026-11-18T10:46:57+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/a-toulouse-un-homme-tue-par-balles-deuxieme-narchomicide-en-trois-jours_6813113_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "762b9ea2f36a7fd6b2e3b8eeb9e4e323ba8d33db30c40c8177da5dbd4639de88",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bec003357eeada875c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+      "bullets": [
+        "Près de \"3 millions de personnes en France n'ont pas accès au 100% santé\", alerte mercredi 18 novembre Élodie Vacherot, opticienne et représentante de l'association Vision Solidarité, invitée d'ICI Paris Île-de-France.",
+        "Le troisième volet de la grande consultation \"Dites-le ICI\", menée avec Odoxa, révèle mercredi que 55% des Français rencontrent des difficultés financières pour se soigner.",
+        "Vision Solidarité possède 34 antennes partout en France et s'appuie sur un maillage de plus de 300 organismes sociaux et collectivités locales."
+      ],
+      "publishedAt": "2026-11-18T10:11:28+00:00",
+      "updatedAt": "2026-11-18T10:11:28+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "89f4e3b522e5aa7bf6723c3f7370fa5cadd22f8e76d268382d8490a074ba7713",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T11:12:30.421941+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-477bfcde542a88b1e2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
+      "bullets": [
+        "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre.",
+        "Le ministère de l’éducation mise sur les nouveaux programmes et la formation des enseignants pour inverser la tendance."
+      ],
+      "publishedAt": "2026-11-18T07:41:00+00:00",
+      "updatedAt": "2026-11-18T07:41:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "76075c7d9f89ff5b9e123388c2d027d3802a47a9adbdc82b76acefdb738a22d3",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1300,7 +1275,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1312,7 +1287,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1348,7 +1323,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
@@ -1378,7 +1353,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 28
+      "candidates": 27
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
