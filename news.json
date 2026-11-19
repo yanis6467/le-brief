@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-19",
-  "preparedAt": "2026-11-19T05:19:21.428817+00:00",
+  "preparedAt": "2026-11-19T07:33:22.810587+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -18,7 +18,7 @@
       ],
       "publishedAt": "2026-11-18T19:12:29+00:00",
       "updatedAt": "2026-11-18T19:12:29+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -41,8 +41,8 @@
         "L’Agence internationale de l’énergie publie, jeudi 19 novembre, son rapport annuel.",
         "Son directeur exécutif souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le déploiement des renouvelables, du nucléaire et de l’électrification."
       ],
-      "publishedAt": "2026-11-19T05:00:41+00:00",
-      "updatedAt": "2026-11-19T05:00:41+00:00",
+      "publishedAt": "2026-11-19T05:00:28+00:00",
+      "updatedAt": "2026-11-19T05:00:28+00:00",
       "importance": 79,
       "sources": [
         {
@@ -81,18 +81,42 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0d80595d5d52ffc6eb",
+      "id": "rss-78a05a9f613c865607",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Régularisation des sans-papiers : « Nous ne pouvons pas bénéficier de leur travail et leur refuser la stabilité administrative qui leur permettrait de vivre dignement »",
+      "bullets": [
+        "Trente-sept chercheurs soutiennent, dans une tribune au « Monde », la proposition de loi visant à créer un dispositif de régularisation des étrangers en situation irrégulière présents sur notre territoire, examinée à l’Assemblée nationale le 19 novembre."
+      ],
+      "publishedAt": "2026-11-19T07:00:13+00:00",
+      "updatedAt": "2026-11-19T07:00:13+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/19/regularisation-des-sans-papiers-nous-ne-pouvons-pas-beneficier-de-leur-travail-et-leur-refuser-la-stabilite-administrative-qui-leur-permettrait-de-vivre-dignement_6813248_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0bb20dc663f00eaf07f02cf82b23e62ae4f253b41b67256cd52953d1c2fc3819",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0d80595d5d52ffc6eb",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Le Sénat adopte le projet de budget de la Sécurité sociale pour 2027",
       "bullets": [
         "Le projet de budget de la Sécurité sociale pour 2027 a été adopté mercredi en première lecture au Sénat, qui en a modifié plusieurs mesures phares notamment sur les retraites, alors que le suspense demeure entier sur l’issue des débats budgétaires au Parlement.",
-        "Rejeté à l’Assemblée nationale en l’absence de majorité, le projet de loi de financement de la Sécurité sociale (PLFSS) a été soutenu à 201 voix contre 124 à la chambre haute, dominée par la droite et les centristes."
+        "Le déficit de la Sécu ramené à 14 milliards Le projet gouvernemental, qui prévoit d’importants efforts notamment sur les dépenses de santé, les retraités et les assurés sociaux, entend ramener à 12,7 milliards le déficit de la Sécurité sociale en 2027, contre 21,8 milliards en 2026."
       ],
       "publishedAt": "2026-11-18T17:50:03+00:00",
       "updatedAt": "2026-11-18T17:50:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -104,7 +128,7 @@
       "provenance": "article-extract",
       "summaryInput": "b3160cb23725688a10510560c844626f8932badc4d65b1ffa40172615d9af2e8",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
       "context": null
     },
     {
@@ -156,33 +180,8 @@
       "provenance": "article-extract",
       "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
       "context": null
-    },
-    {
-      "id": "rss-ef0a5464fe9b9868ed",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "A Paris, la fin des livraisons de Franprix par bateau met à l’arrêt le port de la Bourdonnais",
-      "bullets": [
-        "Touché par l’inflation et la réduction des aides de l’Etat, Franprix met un terme à ses livraisons de marchandises par la Seine.",
-        "Une décision qui provoque l’arrêt des activités du port situé près de la tour Eiffel."
-      ],
-      "publishedAt": "2026-11-18T10:30:03+00:00",
-      "updatedAt": "2026-11-18T10:30:03+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/18/a-paris-la-fin-des-livraisons-de-franprix-par-bateau-met-a-l-arret-le-port-de-la-bourdonnais_6813108_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "27a53da4b8206b78563117e83880f118469d161fa3ed0058e3e23121cf99260f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-cfa3dc0f9772f38b4b",
@@ -196,7 +195,7 @@
       ],
       "publishedAt": "2026-11-18T18:00:00+00:00",
       "updatedAt": "2026-11-18T18:00:00+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -207,6 +206,31 @@
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
       "summaryInput": "290f2f4b3f06b40908bb07b4d0d183abc7029e834425517ea7567df9444784ed",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f112f90ca1955c260d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Trains de nuit : l’Etat renonce à commander des rames neuves et opte pour la rénovation des voitures Corail",
+      "bullets": [
+        "Le ministre des transports a confirmé que l’Etat commanderait 27 nouvelles locomotives mais pas de nouvelles rames, leur coût dépassant le budget prévu.",
+        "La SNCF devra rénover 180 voitures Corail, dont certaines ont plus de 50 ans."
+      ],
+      "publishedAt": "2026-11-19T06:40:17+00:00",
+      "updatedAt": "2026-11-19T06:40:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/trains-de-nuit-l-etat-renonce-a-commander-des-rames-neuves-et-opte-pour-la-renovation-des-voitures-corail_6813244_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3721b9b62cde87f9fda23e9d58ab5d4213cbe30e34c8b7bf04ac1dfaa5516931",
       "detailLevel": "preview"
     },
     {
@@ -290,30 +314,6 @@
       "context": null
     },
     {
-      "id": "rss-31cb78838b95b989a7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Ces « dingueries » fiscales du budget 2027 que dénonce le collectif de dirigeants « Trop, c’est trop »",
-      "bullets": [
-        "DÉCRYPTAGE - Le mouvement né voici un an, réunissant près de 3 000 patrons d’entreprises, milite pour supprimer plusieurs mesures voulues par le gouvernement."
-      ],
-      "publishedAt": "2026-11-18T19:24:09+00:00",
-      "updatedAt": "2026-11-18T19:24:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/ces-dingueries-fiscales-du-budget-2027-que-denonce-le-collectif-de-dirigeants-trop-c-est-trop-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eb4d0b46f51f01fa027344416782520891e161dfed1b4bd0d80cce6aabe628a0",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9acccf6fcf7e53b311",
       "revision": 1,
       "category": "markets",
@@ -322,8 +322,8 @@
       "bullets": [
         "La dégringolade en Bourse de Nvidia illustre les reculs de l’ensemble du secteur après six mois de croissance à deux chiffres, les investisseurs s’interrogeant désormais sur le modèle économique et le niveau d’endettement des sociétés."
       ],
-      "publishedAt": "2026-11-19T05:00:22+00:00",
-      "updatedAt": "2026-11-19T05:00:22+00:00",
+      "publishedAt": "2026-11-19T05:00:17+00:00",
+      "updatedAt": "2026-11-19T05:00:17+00:00",
       "importance": 75,
       "sources": [
         {
@@ -373,9 +373,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T05:17:17+00:00",
-      "updatedAt": "2026-11-19T05:17:17+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-19T07:33:23+00:00",
+      "updatedAt": "2026-11-19T07:33:23+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -387,7 +387,35 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-676126c3b8869ab9a6",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Le marché sous les sunlights d'Anthropic",
+      "bullets": [
+        "Le titre, qui avait pourtant ouvert en hausse, a clôturé dans le rouge, assez significativement (-2,89%).",
+        "Dans son prospectus amendé le 10 novembre, Anthropic indique avoir atteint son propre seuil d'accélération de la recherche par l'IA, sur la base de ce qu'elle attend de ses prochains modèles.",
+        "Alors la méthode devient le modèle.\" Pour revenir à Paris, Alstom a perdu 7,15%, alors que le groupe a publié ses résultats semestriels qui n'ont réservé aucune surprise, la société les ayant pré-annoncés il y a quelques semaines dans le cadre d'un lourd avertissement sur résultats."
+      ],
+      "publishedAt": "2026-11-19T07:30:58+00:00",
+      "updatedAt": "2026-11-19T07:30:58+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-le-marche-sous-les-sunlights-d-anthropic-1174058.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "aa4452925ea51483e7076de0ad2b4a4cd06c8eb44ce44332d3e17a3a15869848",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
       "context": null
     },
     {
@@ -443,34 +471,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f5ed8e1b7f0a0251db",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Les résultats tonitruants de Nvidia ne suffisent pas à apaiser Wall Street, le CAC 40 termine en nette baisse",
-      "bullets": [
-        "Du côté des valeurs parisiennes, Alstom a perdu 7,15%, alors que le groupe a publié ses résultats semestriels qui n'ont réservé aucune surprise, la société les ayant pré-annoncés il y a quelques semaines dans le cadre d'un lourd avertissement sur résultats.",
-        "Accor a abandonné 4,2% après avoir annoncé le rachat des minoritaires de sa filiale d'hôtellerie lifestyle Ennismore.",
-        "Le contrat de janvier sur le Brent de mer du Nord abandonne 1,7% 91,56 dollars tandis que celui de décembre sur le WTI coté à New York recule de 3% à 83,44 dollars le baril."
-      ],
-      "publishedAt": "2026-11-18T16:57:23+00:00",
-      "updatedAt": "2026-11-18T16:57:23+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "0b447385489fc923cf4ff07a9fd1e37194c2830ae0bb03a407b1f6e4d24ffa20",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
-      "context": null
-    },
-    {
       "id": "rss-1d1879df406add44ab",
       "revision": 1,
       "category": "markets",
@@ -495,7 +495,7 @@
       "provenance": "article-extract",
       "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T17:20:38.909998+00:00",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
       "context": null
     },
     {
@@ -591,8 +591,8 @@
       "bullets": [
         "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
       ],
-      "publishedAt": "2026-11-19T04:30:19+00:00",
-      "updatedAt": "2026-11-19T04:30:19+00:00",
+      "publishedAt": "2026-11-19T04:30:09+00:00",
+      "updatedAt": "2026-11-19T04:30:09+00:00",
       "importance": 85,
       "sources": [
         {
@@ -615,8 +615,8 @@
       "bullets": [
         "Une proposition de loi du Parti socialiste, examinée jeudi 19 novembre à l’Assemblée, veut interdire le commerce avec les colonies israéliennes, y compris les services financiers, alors que deux mois après avoir annoncé des sanctions, le gouvernement n’agit pas."
       ],
-      "publishedAt": "2026-11-19T04:00:10+00:00",
-      "updatedAt": "2026-11-19T04:00:10+00:00",
+      "publishedAt": "2026-11-19T04:00:05+00:00",
+      "updatedAt": "2026-11-19T04:00:05+00:00",
       "importance": 85,
       "sources": [
         {
@@ -643,7 +643,7 @@
       ],
       "publishedAt": "2026-11-17T18:16:11+00:00",
       "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -722,7 +722,7 @@
       ],
       "publishedAt": "2026-11-18T19:10:00+00:00",
       "updatedAt": "2026-11-18T19:10:00+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -734,34 +734,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "360671d37377052f7ddd4f2cde291fb73f49161fde7bd3f49574751c0b834c51",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8bea0934c63097a11c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
-      "bullets": [
-        "Pour comprendre la domination de la Russie et des Etats-Unis, il y a d'abord ce chiffre : les deux puissances possèdent plus de 85% de l'arsenal nucléaire dans le monde.",
-        "120 milliards de dollars de dépenses en 2025La Chine est le pays au monde qui développe le plus rapidement son arsenal nucléaire.",
-        "120 milliards de dollars ont été dépensé l'an dernier dans le monde; c'est une augmentation de 20% sur un an, d'après la Campagne internationale pour l'abolition des armes nucléaires, qui parle de \"nouvelle course aux armements\"."
-      ],
-      "publishedAt": "2026-11-18T14:41:33+00:00",
-      "updatedAt": "2026-11-18T14:41:33+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "8e594c1e4316d45cde76aa1b6da741a93a057350ebbc92eb1ebd4ba71cdbee08",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T04:11:11.972728+00:00",
-      "context": null
     },
     {
       "id": "rss-956586383984950151",
@@ -800,7 +772,7 @@
       ],
       "publishedAt": "2026-11-18T18:00:06+00:00",
       "updatedAt": "2026-11-18T18:00:06+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -812,34 +784,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "57650a15110c219ba01ce882efd516d45f37dfc435ea618b908a4f233553f1cf",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-d787c66224734ee16c",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "\"N’apportons pas d’eau au moulin de la propagande russe\", prévient le député Pieyre-Alexandre Anglade",
-      "bullets": [
-        "Le député Ensemble pour la République Pieyre-Alexandre Anglade, président de la Commission des Affaires européennes à l'Assemblée rappelle qu’en Ukraine, \"un faible contingent\" de soldats français est sur place, mais pas en situation de combat.",
-        "Trump, Poutine, Xi, une rencontre qui intrigue le monde",
-        "\"Petite martyre de l'A10\" : sa mère et son père condamnés à 20 et 15 ans de réclusion"
-      ],
-      "publishedAt": "2026-11-18T15:00:02+00:00",
-      "updatedAt": "2026-11-18T15:00:02+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/n-apportons-pas-d-eau-au-moulin-de-la-propagande-russe-previent-le-depute-pieyre-alexandre-anglade_8288240.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "article-extract",
-      "summaryInput": "a6f18b7d89e615caeaa8ca00508c40859966a90dea5554d789088fc607d157cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T04:11:11.972728+00:00",
-      "context": null
     },
     {
       "id": "rss-c28fe5b405c7981a96",
@@ -866,14 +810,38 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8b9547dd175055771f",
+      "id": "rss-26ccb10b68ed3d31cd",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Arabie saoudite : le quartier financier de Riyad de nouveau attaqué, la tour du fonds souverain endommagée",
+      "bullets": [
+        "« Des débris sont tombés et les dégâts matériels sont en cours d’évaluation », a reconnu la coalition menée par l’Arabie saoudite, quelques heures après avoir annoncé avoir intercepté un missile tiré par les houthistes."
+      ],
+      "publishedAt": "2026-11-19T07:23:48+00:00",
+      "updatedAt": "2026-11-19T07:23:48+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/arabie-saoudite-le-quartier-financier-de-riyad-de-nouveau-attaque-la-tour-du-fonds-souverain-endommagee_6813250_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "041194e07796281bda7ba5387bb332860f882d601f2b1915f7ee088df9f6e4cf",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8b9547dd175055771f",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
       "bullets": [
         "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu.",
-        "Il a expliqué que son engagement avait pour but « d’avoir un certain équilibre des pouvoirs »."
+        "Il a expliqué que son engagement avait pour objectif « d’avoir un certain équilibre des pouvoirs »."
       ],
       "publishedAt": "2026-11-19T04:52:01+00:00",
       "updatedAt": "2026-11-19T04:52:01+00:00",
@@ -887,17 +855,45 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "e8886fb704e94ca7ee522498c112a830cd0701a5bc98ab191ac9e19e70997edb",
+      "summaryInput": "7ffd8b22687b42033d47fe9492afaffeb8d5364cf43c94a7d0539dc05a195ac8",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3e73abe5f96b3a73ba",
+      "id": "rss-02aa02bcc97e14ff9b",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
+      "bullets": [
+        "La branche routière du pont de Crimée a été sévèrement endommagée lors d'une attaque ukrainienne combinée, dans la nuit du lundi 16 au mardi 17 novembre.",
+        "Toujours selon cette source, l'unité d'élite Alpha a notamment lancé des drones-missiles \"Palianytsia\" pour frapper la section automobile du pont de Crimée, qui relie à la Russie la péninsule ukrainienne, annexée par Moscou en 2014.",
+        "Chacun de ces drones coûte environ 50 000 euros, avec 90% de composants produits en Ukraine."
+      ],
+      "publishedAt": "2026-11-19T04:34:31+00:00",
+      "updatedAt": "2026-11-19T04:34:31+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "article-extract",
+      "summaryInput": "33a9cb64b7df4775e84bfa6e90edccaecac0c5a8a05ee92a4174238c10de9efd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3e73abe5f96b3a73ba",
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
       "bullets": [
-        "Sur France 2, la secrétaire nationale des Ecologistes a ouvert la voie à son retrait de la présidentielle, alors que le parti ne s’est pas encore prononcé sur une candidature propre, une alliance avec La France insoumise ou un rapprochement avec Raphaël Glucksmann."
+        "Sur France 2, mercredi 18 novembre, la secrétaire nationale des Ecologistes a ouvert la voie à son retrait de la présidentielle, alors que le parti ne s’est pas encore prononcé sur une candidature propre, une alliance avec La France insoumise ou un rapprochement avec Raphaël Glucksmann."
       ],
       "publishedAt": "2026-11-18T23:49:22+00:00",
       "updatedAt": "2026-11-18T23:49:22+00:00",
@@ -911,7 +907,7 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "fd27308c2bc07b596a8a45dce64fbff8ae7ae977412022ca0389ddeeb7c177c4",
+      "summaryInput": "edb3cc7a8bec97dac5941121de9c7d2e8df43adbed668010c587cffaa6da38eb",
       "detailLevel": "preview"
     },
     {
@@ -927,7 +923,7 @@
       ],
       "publishedAt": "2026-11-18T19:06:33+00:00",
       "updatedAt": "2026-11-18T19:06:33+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -939,7 +935,7 @@
       "provenance": "article-extract",
       "summaryInput": "7b0d075243dedd22cacbd7f0b0ec9c1f1b2ff725ec95b9065f4749daa0fd84a3",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-18T19:10:54.059515+00:00",
+      "enrichedAt": "2026-11-19T07:33:22.810587+00:00",
       "context": null
     },
     {
@@ -1056,7 +1052,7 @@
       ],
       "publishedAt": "2026-11-17T18:00:09+00:00",
       "updatedAt": "2026-11-17T18:00:09+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1080,7 +1076,7 @@
       ],
       "publishedAt": "2026-11-18T18:32:29+00:00",
       "updatedAt": "2026-11-18T18:32:29+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1104,7 +1100,7 @@
       ],
       "publishedAt": "2026-11-18T17:31:41+00:00",
       "updatedAt": "2026-11-18T17:31:41+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1167,39 +1163,38 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c6275b0240638d60ba",
+      "id": "rss-17089628027693b62f",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+      "title": "Au moins 2 100 jeunes étrangers en France en attente d’une décision sur leur minorité",
       "bullets": [
-        "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte.",
-        "L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+        "La Coordination nationale jeunes exilés en danger constate une forte baisse des recours en un an, mais alerte sur des conditions de vie toujours précaires pour ces personnes."
       ],
-      "publishedAt": "2026-11-18T18:09:23+00:00",
-      "updatedAt": "2026-11-18T18:09:23+00:00",
+      "publishedAt": "2026-11-19T05:39:50+00:00",
+      "updatedAt": "2026-11-19T05:39:50+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/au-moins-2-100-jeunes-etrangers-en-france-en-attente-d-une-decision-sur-leur-minorite_6813238_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "963d856143d9d511c0df196961211f81d8bcc27126c0bd55e8b515099177340c",
+      "summaryInput": "ca414da4d2b9d948e19af0d378855f3371383a725c9e635113bdce001d330566",
       "detailLevel": "preview"
     },
     {
       "id": "rss-ea9dc6f36c5e9914a8",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
       "title": "A Nantes, après la visite perturbée du ministre au lycée Nelson-Mandela, élèves et enseignants ne pourront « pas oublier ce qui s’est passé »",
       "bullets": [
-        "Les élèves du lycée Nelson-Mandela retournent en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre.",
-        "Les événements survenus lors de la visite du ministre de l’éducation nationale, lundi 16 novembre, ont contraint à repousser cette rentrée de deux jours."
+        "Mercredi, les élèves du lycée Nelson-Mandela retournaient en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre, lors des premières journées de la mobilisation lycéenne.",
+        "Une rentrée repoussée de deux jours à la suite des perturbations en marge de la visite du ministre de l’éducation nationale…"
       ],
       "publishedAt": "2026-11-18T16:18:54+00:00",
       "updatedAt": "2026-11-18T16:18:54+00:00",
@@ -1213,7 +1208,7 @@
       ],
       "verifiedAt": "2026-11-19",
       "provenance": "rss-excerpt",
-      "summaryInput": "116c7ed5de146d2b2df18e974618a1575c8f62184a0ca61a1b942a83e88b76d3",
+      "summaryInput": "744dbf7c21de459c1d53158af9a30e2ec7d13cda164e4b9fd1554937529a9090",
       "detailLevel": "preview"
     },
     {
@@ -1241,30 +1236,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bf176079419e24d2f4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Nicole Belloubet, ancienne ministre de la justice : « Les juges deviennent à titre individuel la cible de critiques violentes »",
-      "bullets": [
-        "L’ancienne ministre de la justice revient, dans une tribune au « Monde », sur les cas Nicolas Guillou, juge à la Cour pénale internationale, Youssef Badr, magistrat, et Richard Ferrand, président du Conseil constitutionnel, tous trois cibles de campagnes visant à les décrédibiliser, et à travers eux l’institution judiciaire."
-      ],
-      "publishedAt": "2026-11-18T07:09:15+00:00",
-      "updatedAt": "2026-11-18T07:09:15+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a16d887454deb5ae6f28ff2c1ea5f076b64853ca728925d18f8e634d98d5a884",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9788e9592e33324c8a",
       "revision": 1,
       "category": "france",
@@ -1275,8 +1246,8 @@
         "Dans un communiqué commun, elles demandent l’indexation des pensions sur l’inflation dès janvier 2027, le rattrapage des pertes de pouvoir d’achat subies depuis 2017 et une retraite au moins égale au Smic pour une carrière complète.",
         "Mercredi, le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027, après en avoir supprimé, dans la nuit de lundi à mardi, la mesure qui prévoyait de sous-indexer certaines pensions."
       ],
-      "publishedAt": "2026-11-19T05:00:00+00:00",
-      "updatedAt": "2026-11-19T05:00:00+00:00",
+      "publishedAt": "2026-11-19T06:37:55+00:00",
+      "updatedAt": "2026-11-19T06:37:55+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1291,6 +1262,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T05:19:21.428817+00:00",
       "context": null
+    },
+    {
+      "id": "rss-bf176079419e24d2f4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Nicole Belloubet, ancienne ministre de la justice : « Les juges deviennent à titre individuel la cible de critiques violentes »",
+      "bullets": [
+        "L’ancienne ministre de la justice revient, dans une tribune au « Monde », sur les cas Nicolas Guillou, juge à la Cour pénale internationale, Youssef Badr, magistrat, et Richard Ferrand, président du Conseil constitutionnel, tous trois cibles de campagnes visant à les décrédibiliser, et à travers eux l’institution judiciaire."
+      ],
+      "publishedAt": "2026-11-18T07:09:15+00:00",
+      "updatedAt": "2026-11-18T07:09:15+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-19",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a16d887454deb5ae6f28ff2c1ea5f076b64853ca728925d18f8e634d98d5a884",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1304,7 +1299,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1328,13 +1323,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
@@ -1370,13 +1365,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
