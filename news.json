@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T13:27:35.544572+00:00",
+  "preparedAt": "2026-11-20T15:08:48.305602+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -96,8 +96,8 @@
         "Le gouvernement souhaite obliger les gros annonceurs à consacrer une part de leurs investissements publicitaires à la presse en ligne d’information politique et générale.",
         "Notamment réclamé par la presse quotidienne régionale, le texte a provoqué la démission d’un professionnel du secteur."
       ],
-      "publishedAt": "2026-11-20T13:00:06+00:00",
-      "updatedAt": "2026-11-20T13:00:06+00:00",
+      "publishedAt": "2026-11-20T13:00:03+00:00",
+      "updatedAt": "2026-11-20T13:00:03+00:00",
       "importance": 65,
       "sources": [
         {
@@ -246,15 +246,15 @@
     },
     {
       "id": "rss-f9dc3d6d7f5dd90cd4",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Agios, découverts, paiements fractionnés… Ce qui change pour votre argent à partir du 20 novembre",
+      "title": "Agios, découverts, paiements fractionnés : ce qui change pour votre argent à partir du 20 novembre",
       "bullets": [
         "Parmi les changements introduits par une directive européenne, l’autorisation d’être à découvert sera mieux contrôlée par les banques. Tout comme le montant des agios. En parallèle, les règles encadrant les prêts à la consommation et les paiements différés vont être durcies."
       ],
-      "publishedAt": "2026-11-20T11:52:51+00:00",
-      "updatedAt": "2026-11-20T11:52:51+00:00",
+      "publishedAt": "2026-11-20T13:45:39+00:00",
+      "updatedAt": "2026-11-20T13:45:39+00:00",
       "importance": 59,
       "sources": [
         {
@@ -265,7 +265,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "d10f17d3b6bd9449e2bdb9580e3bb33176143223b0e21e5b51a4db9f45d67502",
+      "summaryInput": "8bc20f50670c5b39542ae158b56b19027c4080e538a1cb9772c0da5db7a63665",
       "detailLevel": "preview"
     },
     {
@@ -321,6 +321,34 @@
       "context": null
     },
     {
+      "id": "rss-428f958e6d945a5369",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Le géant de l’IA Anthropic chute de 9 % pour sa deuxième séance à Wall Street",
+      "bullets": [
+        "L’entreprise américaine d’intelligence artificielle Anthropic, qui a connu des débuts éclatants à Wall Street jeudi, cédait déjà une large partie de ses gains vendredi, dans un environnement boursier difficile pour les valeurs associées à l’IA.",
+        "Dans les premiers échanges, le titre Anthropic cédait 9,34 % à 88,10 dollars.",
+        "L’entreprise a réalisé, la veille, la plus importante introduction en Bourse de l’histoire."
+      ],
+      "publishedAt": "2026-11-20T14:57:11+00:00",
+      "updatedAt": "2026-11-20T14:57:11+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/le-geant-de-l-ia-anthropic-chute-de-9-pour-sa-deuxieme-seance-a-wall-street-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "fca98e62b4a81875d72a71e1519c1a29c61cfc5821aa2dafef8752c579d2192f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T15:08:48.305602+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +359,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T13:21:47+00:00",
-      "updatedAt": "2026-11-20T13:21:47+00:00",
+      "publishedAt": "2026-11-20T15:05:25+00:00",
+      "updatedAt": "2026-11-20T15:05:25+00:00",
       "importance": 69,
       "sources": [
         {
@@ -346,6 +374,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4799cb2d3cc3b1b819",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Lendemain de fête difficile pour Anthropic, dont l'action chute de 9% après une entrée en Bourse historique à Wall Street",
+      "bullets": [
+        "Dans les premiers échanges, le titre Anthropic chute de plus de 9%, à 88,10 dollars.",
+        "Leur perte médiane atteignait 22 %, alors que le Nasdaq progressait de 17 % sur les mêmes périodes.",
+        "Le titre avait cependant plongé par la suite et évolue désormais presque à son prix d’introduction, à 136 dollars contre 135 dollars initialement."
+      ],
+      "publishedAt": "2026-11-20T14:40:18+00:00",
+      "updatedAt": "2026-11-20T14:40:18+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/lendemain-de-fete-difficile-pour-anthropic-dont-l-action-chute-de-9-apres-une-entree-en-bourse-historique-a-wall-street-1174189.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "6ef4ddd5d6a09681d21c77b6ff1f2e133d6a92423fae27eea44447030227d324",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T15:08:48.305602+00:00",
       "context": null
     },
     {
@@ -569,34 +625,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2e959b95eed702fad9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Combattez pour notre avenir, pas pour leurs guerres\" : les jeunes Britanniques se mobilisent à leur tour pour de meilleures conditions d'études",
-      "bullets": [
-        "\"Fight for our future not their wars\", en français : \"Combattez pour notre avenir, pas pour leurs guerres\".",
-        "Des débrayages sont annoncés, vendredi 20 novembre, dans tout le pays, avec un grand rassemblement prévu à Parliament Square, à Londres, à 13 heures, heure de Paris.",
-        "Des débrayages sont annoncés dans plus de 340 établissements scolaires à travers le Royaume-Uni."
-      ],
-      "publishedAt": "2026-11-20T05:04:51+00:00",
-      "updatedAt": "2026-11-20T05:04:51+00:00",
-      "importance": 87,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/royaume-uni/combattez-pour-notre-avenir-pas-pour-leurs-guerres-les-jeunes-britanniques-se-mobilisent-a-leur-tour-pour-de-meilleures-conditions-d-etudes_8290598.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "ece9b270f84f7ba962120fafefb398fc3e904fcc9f87bf04076c887ae5630d79",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T05:15:27.085412+00:00",
-      "context": null
-    },
-    {
       "id": "rss-87505c46e566075861",
       "revision": 2,
       "category": "world",
@@ -675,28 +703,52 @@
       "context": null
     },
     {
-      "id": "rss-7f531baea4720b2575",
-      "revision": 2,
+      "id": "rss-a0978b9e491613eb7d",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : à Berlin, les alliés de Kiev répondent aux provocations de Donald Trump et de Vladimir Poutine, réunis à Shenzhen",
+      "title": "En Amérique latine, l’intervention militaire des Etats-Unis gagne du terrain",
       "bullets": [
-        "Le chef du Kremlin a proposé de rencontrer les Européens à Moscou pour négocier le sort de l’Ukraine et de la future architecture de sécurité européenne.",
-        "L’Europe compte « bientôt » participer à des discussions avec Kiev, Moscou et Washington, a précisé le chancelier Friedrich Merz, qui cherche un «…"
+        "Attaques contre les guérillas au Venezuela ou en Equateur, bombardements en mer : l’administration Trump poursuit la mise en œuvre de sa doctrine « Donroe », traduisant la volonté hégémonique du président des Etats-Unis.",
+        "Une stratégie qui pourrait être remise en cause après la lourde défaite des républicains aux midterms…"
       ],
-      "publishedAt": "2026-11-20T04:30:03+00:00",
-      "updatedAt": "2026-11-20T04:30:03+00:00",
+      "publishedAt": "2026-11-20T13:30:09+00:00",
+      "updatedAt": "2026-11-20T13:30:09+00:00",
       "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/en-amerique-latine-l-intervention-militaire-des-etats-unis-gagne-du-terrain_6813642_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "de212ce4028f47e3d28245c93794ef00309b523736392dc813fd7e1670bdeb4e",
+      "summaryInput": "d64492beec7ca8b25fec5ca4fd4b786dc8cfff218365ed82b0c9f077547875a4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7b45e45f84828a9248",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un accord conclu entre le Royaume-Uni et l’Union européenne, cinq ans après la mise en œuvre du Brexit",
+      "bullets": [
+        "Au sortir d’un sommet, vendredi, le premier ministre britannique a salué un « accord historique », et la présidente de la Commission européenne a évoqué « un tournant » dans les relations avec Londres."
+      ],
+      "publishedAt": "2026-11-20T14:07:53+00:00",
+      "updatedAt": "2026-11-20T14:07:53+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/un-accord-conclu-entre-le-royaume-uni-et-l-union-europeenne-cinq-ans-apres-la-mise-en-uvre-du-brexit_6813648_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "880d986b64a52c31a8eb3c75cd26c66cd6d3d8a2003b6caf0a43fc4e5f39a617",
       "detailLevel": "preview"
     },
     {
@@ -728,34 +780,6 @@
       "context": null
     },
     {
-      "id": "rss-085b40d9026cccb0f4",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Nous avons perdu plus que nous avons gagné\" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne",
-      "bullets": [
-        "Cinq ans après son entrée en vigueur, la sortie de l'UE votée et actée par le Royaume-Uni est en effet perçue comme un \"échec\" par 63% de la population, selon un sondage YouGov paru mercredi 18 novembre.",
-        "(CHIP SOMODEVILLA / GETTY IMAGES / AFP) Londres \"a des intérêts communs\" avec les 27 en matière de défense et de sécurité, \"notamment sur la question de la guerre en Ukraine\", confirme Sandro Gozi, eurodéputé du groupe centriste Renew et coprésident de l'assemblée parlementaire UE-Royaume-Uni.",
-        "Le sommet bilatéral de vendredi devrait permettre d'avancer dans cette direction."
-      ],
-      "publishedAt": "2026-11-20T11:30:56+00:00",
-      "updatedAt": "2026-11-20T11:30:56+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "5b98455428a3419d7bc29a4b436b1e7790936dcb0933a9818708102d47246157",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T05:15:27.085412+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3f9b86458291dd9d3a",
       "revision": 1,
       "category": "world",
@@ -778,30 +802,6 @@
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "4641b2cc66b0412e756cf2b3da53b055c9ad58eeae3f342d23a1d14f4e1cc726",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5cd07cd175ac277164",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
-      "bullets": [
-        "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants »."
-      ],
-      "publishedAt": "2026-11-20T00:03:49+00:00",
-      "updatedAt": "2026-11-20T00:03:49+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "03ab89802ecfeb400eca38d42a98d50e17eafa5c3aabe43c2f0fba5b6bac07c7",
       "detailLevel": "preview"
     },
     {
@@ -855,28 +855,78 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bfc731845b7e72a475",
-      "revision": 3,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
+      "id": "rss-bb0d2cc149cbc0f7d4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Malaisie prévoit de relocaliser 10 000 réfugiés rohingyas en Turquie, dans le cadre d'un programme de formation professionnelle",
       "bullets": [
-        "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de sa formation politique.",
-        "Yannick Jadot et d’autres annoncent quitter Les Ecologistes."
+        "\"Le Conseil des ministres a approuvé une proposition visant à réinstaller 10 000 réfugiés rohingyas actuellement en Malaisie vers la Turquie, dans le cadre d'un programme structuré de formation professionnelle\", a déclaré le vice-Premier ministre malaisien Ahmad Zahid Hamidi dans un communiqué, vendredi 20 novembre.",
+        "Les Rohingyas, une minorité musulmane persécutée dans leur pays, représentent les deux tiers des 190 000 réfugiés et demandeurs d'asile birmans présents en Malaisie, selon les Nations unies."
       ],
-      "publishedAt": "2026-11-20T04:00:07+00:00",
-      "updatedAt": "2026-11-20T04:00:07+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-20T13:42:06+00:00",
+      "updatedAt": "2026-11-20T13:42:06+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/asie/rohingyas/la-malaisie-prevoit-de-relocaliser-10-000-refugies-rohingyas-en-turquie-dans-le-cadre-d-un-programme-de-formation-professionnelle_8292296.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "9a006de60d8c403f3443dfece5f3c2a9b4403c127361e3bdd07d95e8561db90b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T15:08:48.305602+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b60f79c794d3af0350",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
+      "bullets": [
+        "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre les Rohingya."
+      ],
+      "publishedAt": "2026-11-20T11:00:06+00:00",
+      "updatedAt": "2026-11-20T11:00:06+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "0b5aff8f2c6d56f95ad49aa64c501bd73668381aacb63cb4401821000253c35c",
+      "summaryInput": "aa42c24853198f1aef8a9899500fcdac8f0961f7f2e70831b859ab6b98882338",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6d05b8f735303248f6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Marine Tondelier estime que la balle est dans le camp de Jean-Luc Mélenchon",
+      "bullets": [
+        "La secrétaire nationale des Ecologistes a rappelé que sa main tendue à LFI ne présageait en rien du vote des militants, qui diront entre les 10 et 13 décembre s’ils préfèrent qu’elle reste candidate ou que le parti se rallie à Jean-Luc Mélenchon ou à Raphaël Glucksmann."
+      ],
+      "publishedAt": "2026-11-20T13:51:08+00:00",
+      "updatedAt": "2026-11-20T13:51:08+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-marine-tondelier-estime-que-la-balle-est-dans-le-camp-de-jean-luc-melenchon_6813644_6205049.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7dc62575616aa7c6a9c75bc4004449822733aed8e39fa12046875102ff747d8d",
       "detailLevel": "preview"
     },
     {
@@ -966,7 +1016,7 @@
       ],
       "publishedAt": "2026-11-19T15:00:54+00:00",
       "updatedAt": "2026-11-19T15:00:54+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1053,27 +1103,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-84b2ca6096e86fa6a2",
-      "revision": 2,
+      "id": "rss-bfc731845b7e72a475",
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
-      "title": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
+      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
       "bullets": [
-        "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, outre-mer et territoires."
+        "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de sa formation politique.",
+        "Yannick Jadot et d’autres annoncent quitter Les Ecologistes."
       ],
-      "publishedAt": "2026-11-19T20:35:44+00:00",
-      "updatedAt": "2026-11-19T20:35:44+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-20T04:00:07+00:00",
+      "updatedAt": "2026-11-20T04:00:07+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "82a8dd9bd1c01448268dfc50e2c1d6d651be92c598468772c829e6273d4a8318",
+      "summaryInput": "0b5aff8f2c6d56f95ad49aa64c501bd73668381aacb63cb4401821000253c35c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5cd07cd175ac277164",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+      "bullets": [
+        "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants »."
+      ],
+      "publishedAt": "2026-11-20T00:03:49+00:00",
+      "updatedAt": "2026-11-20T00:03:49+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "03ab89802ecfeb400eca38d42a98d50e17eafa5c3aabe43c2f0fba5b6bac07c7",
       "detailLevel": "preview"
     },
     {
@@ -1151,55 +1226,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-336f6a2a029b9f962b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
-      "bullets": [
-        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh est suspecté."
-      ],
-      "publishedAt": "2026-11-20T08:46:19+00:00",
-      "updatedAt": "2026-11-20T08:46:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "77809899b0d2ecb8cd1eaf8dbf4f10fad6cf53f318cf721b367c36cbc81cb222",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1ee54a116fa44616f9",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
-      "bullets": [
-        "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits.",
-        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national…"
-      ],
-      "publishedAt": "2026-11-19T14:31:38+00:00",
-      "updatedAt": "2026-11-19T14:31:38+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bfd622be0b668e9ad25aa91ede3d4a6e3c1d4c52d93b216ccba2cc74f103b759",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-264d1f9e43a394eea2",
       "revision": 1,
       "category": "france",
@@ -1228,28 +1254,53 @@
       "context": null
     },
     {
-      "id": "rss-bc32c97dfcadd296a1",
+      "id": "rss-1ee54a116fa44616f9",
       "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "Victoria Ivleva, la photographe russe qui regarde la guerre du côté ukrainien",
+      "topic": "Justice",
+      "title": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
       "bullets": [
-        "Dès l’invasion de février 2022, cette photojournaliste réputée a quitté Moscou pour Kiev.",
-        "Militante inlassable des droits humains, elle expose à Paris, jusqu’au 30 novembre, les images des destructions et des souffrances causées par son pays en Ukraine."
+        "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits.",
+        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national…"
       ],
-      "publishedAt": "2026-11-19T13:00:04+00:00",
-      "updatedAt": "2026-11-19T13:00:04+00:00",
+      "publishedAt": "2026-11-19T14:31:38+00:00",
+      "updatedAt": "2026-11-19T14:31:38+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/victoria-ivleva-la-photographe-russe-qui-regarde-la-guerre-du-cote-ukrainien_6813301_4500055.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "348c387c1377733d39fed8910884d649023c1e3ecdbd9dad273faa1b56e647a0",
+      "summaryInput": "bfd622be0b668e9ad25aa91ede3d4a6e3c1d4c52d93b216ccba2cc74f103b759",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fcbd320af081cdefa6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
+      "bullets": [
+        "A quelques jours de son extinction, l’encadrement des loyers a été prolongé lors d’un vote à la Chambre basse.",
+        "Un barrage d’amendements du RN, selon qui le texte est dangereux pour le marché du logement, menaçait la possibilité de son adoption."
+      ],
+      "publishedAt": "2026-11-19T18:44:07+00:00",
+      "updatedAt": "2026-11-19T18:44:07+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "69969b9019cc09749d4ed62601fb38b421bcc1b8bc4532c4186e1c202c98a0d2",
       "detailLevel": "preview"
     }
   ],
@@ -1312,7 +1363,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 4
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
@@ -1366,7 +1417,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 29
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
