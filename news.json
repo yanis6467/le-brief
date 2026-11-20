@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T16:09:52.860956+00:00",
+  "preparedAt": "2026-11-20T17:11:26.841014+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-d9ddb1529092302e60",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
+      "bullets": [
+        "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens.",
+        "Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
+      ],
+      "publishedAt": "2026-11-20T16:00:32+00:00",
+      "updatedAt": "2026-11-20T16:00:32+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-e54ec8e2ac8d9a6639",
       "revision": 1,
@@ -113,6 +138,58 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ebd051027de5af5fc45ed3809c0a5e66bbec154b3af8b4e83cdb19fe4fd0dea5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cfbe29274ecbf8c4d0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Chez Accor, le premier actionnaire exige le départ du PDG Sébastien Bazin",
+      "bullets": [
+        "Le fonds britannique Parvus, qui possède 14,1 % du géant français de l’hôtellerie, réclame l’éviction de Sébastien Bazin, menaçant de demander sa révocation lors de la prochaine assemblée générale."
+      ],
+      "publishedAt": "2026-11-20T17:00:02+00:00",
+      "updatedAt": "2026-11-20T17:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3a7fa6a037c3fb7531996f5fe772d2e583894a150bbbe6f861a8baa573f41900",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-cbb270773d50605a8e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "On vous explique les nouvelles règles de pluralisme que l'Arcom veut appliquer aux influenceurs comme HugoDécrypte ou Guillaume Pley pour la présidentielle",
+      "bullets": [
+        "Les principaux créateurs de contenus sur YouTube et sur les réseaux sociaux devront respecter \"les règles de pluralisme politique dans le traitement de l'actualité électorale\" de la campagne présidentielle 2027, a fait savoir l'Arcom.",
+        "HugoDécrypte, Gaspard G, le média Legend de Guillaume Pley ou encore Brut ont été cités par l'Arcom, qui n'a pas dévoilé de liste détaillée des influenceurs concernés par cette nouvelle règle.",
+        "A titre d'exemple, HugoDécrypte (3,8 millions d'abonnés sur YouTube) est devenu la principale source d'information des jeunes en France, selon le rapport 2026 de l'institut Reuters pour l'étude du journalisme."
+      ],
+      "publishedAt": "2026-11-20T16:48:54+00:00",
+      "updatedAt": "2026-11-20T16:48:54+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/medias/on-vous-presente-les-nouvelles-regles-de-pluralisme-que-l-arcom-veut-appliquer-aux-influenceurs-comme-hugodecrypte-ou-guillaume-pley-pour-la-presidentielle_8292011.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "3567faa958a85384c7ef5f99aa6b53422e04de296ea1149c21128de00ee3b779",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "context": null
     },
     {
       "id": "rss-a44f4732ca07ed78e5",
@@ -249,82 +326,6 @@
       "context": null
     },
     {
-      "id": "rss-09f0095183d72d06fc",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Tout est arrêté, le coût de la transmission devient totalement prohibitif\" : des entrepreneurs dénoncent la réforme de l'apport-cession",
-      "bullets": [
-        "Le projet de budget 2027 arrive en séance au Sénat, vendredi 20 novembre, après avoir été rejeté par l'Assemblée nationale.",
-        "Mais les sénateurs ont durci une règle qui intervient lors de la vente d'une entreprise.",
-        "Pour éviter de perdre cet impôt, le gouvernement veut instaurer une taxe au moment de la transmission et cela affole nombre d'entrepreneurs."
-      ],
-      "publishedAt": "2026-11-20T05:04:14+00:00",
-      "updatedAt": "2026-11-20T05:04:14+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/entreprises/tout-est-arrete-le-cout-de-la-transmission-devient-totalement-prohibitif-des-entrepreneurs-denoncent-la-reforme-de-l-apport-cession_8290397.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "a2c8e3bf175b8fb674e9824474aa9a766bc4d49f3cc8bbdb82f90bd55f5d8808",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T05:15:27.085412+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6ffc4801f1189fe05f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
-      "bullets": [
-        "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les radios, se soumettre à des règles de temps de parole et de déontologie."
-      ],
-      "publishedAt": "2026-11-19T19:30:08+00:00",
-      "updatedAt": "2026-11-19T19:30:08+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f9dc3d6d7f5dd90cd4",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Agios, découverts, paiements fractionnés : ce qui change pour votre argent à partir du 20 novembre",
-      "bullets": [
-        "Parmi les changements introduits par une directive européenne, l’autorisation d’être à découvert sera mieux contrôlée par les banques. Tout comme le montant des agios. En parallèle, les règles encadrant les prêts à la consommation et les paiements différés vont être durcies."
-      ],
-      "publishedAt": "2026-11-20T13:45:39+00:00",
-      "updatedAt": "2026-11-20T13:45:39+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/agios-decouverts-paiements-fractionnes-ce-que-change-la-nouvelle-directive-europeenne-a-partir-du-20-novembre-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "8bc20f50670c5b39542ae158b56b19027c4080e538a1cb9772c0da5db7a63665",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-428f958e6d945a5369",
       "revision": 2,
       "category": "markets",
@@ -363,8 +364,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T16:07:52+00:00",
-      "updatedAt": "2026-11-20T16:07:52+00:00",
+      "publishedAt": "2026-11-20T17:05:23+00:00",
+      "updatedAt": "2026-11-20T17:05:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -477,7 +478,7 @@
       ],
       "publishedAt": "2026-11-19T16:54:44+00:00",
       "updatedAt": "2026-11-19T16:54:44+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -533,7 +534,7 @@
       ],
       "publishedAt": "2026-11-19T05:00:00+00:00",
       "updatedAt": "2026-11-19T05:00:00+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -617,7 +618,7 @@
       ],
       "publishedAt": "2026-11-18T05:00:00+00:00",
       "updatedAt": "2026-11-18T05:00:00+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -657,6 +658,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b6b8e156d4edc9c0d8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Birmanie condamnée pour génocide contre les Rohingyas",
+      "bullets": [
+        "RÉCIT - La Cour internationale de justice a ordonné au gouvernement de ramener chez eux les membres de cette minorité musulmane, alors que 750.000 personnes de cette communauté ont dû fuir depuis 2017."
+      ],
+      "publishedAt": "2026-11-20T16:30:00+00:00",
+      "updatedAt": "2026-11-20T16:30:00+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-birmanie-condamnee-pour-genocide-contre-les-rohingyas-20261120",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2609609b22e06f34117b08b2a179c5ad2a15d77b7e40dc6023014b739a442894",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-87505c46e566075861",
       "revision": 2,
       "category": "world",
@@ -679,31 +704,6 @@
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "e683832ecb278be2a0e8093957bcfd2f2fa71882d4a64c76a4810ea36d470c6b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1995143693c2e62cab",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017",
-      "bullets": [
-        "La Cour internationale de justice a statué, jeudi, que les autorités birmanes avaient commis un génocide contre la minorité musulmane.",
-        "Elle a aussi ordonné que les réfugiés puissent être rapatriés en toute sécurité."
-      ],
-      "publishedAt": "2026-11-20T08:11:49+00:00",
-      "updatedAt": "2026-11-20T08:11:49+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ec5fb8a1fef1f2822c9581a9ee2937e50da06bc35e121692af85d244dd23e927",
       "detailLevel": "preview"
     },
     {
@@ -732,28 +732,55 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d9ddb1529092302e60",
+      "id": "rss-bd75efce5cca7d4415",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
+      "title": "REPORTAGE. \"C'était une grave erreur\" : à Londres, des Britanniques regrettent le Brexit et se disent prêts à revenir dans l'Union européenne",
       "bullets": [
-        "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens.",
-        "Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
+        "Le Premier ministre Andy Burnham a salué, vendredi 20 novembre, un \"accord historique\" avec l'Union européenne.",
+        "Selon un récent sondage Ipsos, 56% des Britanniques voteraient aujourd'hui pour demander à réintégrer l'Union européenne.",
+        "Je pense qu’on devrait réintégrer l'UE, confirme un homme dans les rues de Londres."
       ],
-      "publishedAt": "2026-11-20T16:00:32+00:00",
-      "updatedAt": "2026-11-20T16:00:32+00:00",
+      "publishedAt": "2026-11-20T16:45:46+00:00",
+      "updatedAt": "2026-11-20T16:45:46+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/reportage-c-etait-une-grave-erreur-a-londres-des-britanniques-regrettent-le-brexit-et-se-disent-prets-a-revenir-dans-l-union-europeenne_8292533.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "4d29d86f768f75ba903a3f7548650616dc889b623a36a36ecc7d2996c96d7aa6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-33a2ec86051616cbcd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dix ans après le Brexit, le Royaume-Uni s’enflamme autour d’un hypothétique retour vers l’Europe",
+      "bullets": [
+        "DÉCRYPTAGE - Même si les intentions du premier ministre britannique, Andy Burnham, restent floues et ambiguës, l’évocation d’un « Brejoin », réintégration dans le bloc européen, provoque la remobilisation des anciens groupes de brexiters."
+      ],
+      "publishedAt": "2026-11-20T16:05:00+00:00",
+      "updatedAt": "2026-11-20T16:05:00+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dix-ans-apres-le-brexit-le-royaume-uni-s-enflamme-autour-d-un-hypothetique-retour-vers-l-europe-20261120",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
+      "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
       "detailLevel": "preview"
     },
     {
@@ -809,31 +836,6 @@
       "context": null
     },
     {
-      "id": "rss-3f9b86458291dd9d3a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
-      "bullets": [
-        "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche.",
-        "S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature du rapprochement qu’il envisage."
-      ],
-      "publishedAt": "2026-11-20T05:00:18+00:00",
-      "updatedAt": "2026-11-20T05:00:18+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4641b2cc66b0412e756cf2b3da53b055c9ad58eeae3f342d23a1d14f4e1cc726",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ae37a943cf8c0ccd27",
       "revision": 1,
       "category": "world",
@@ -859,81 +861,83 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-956586383984950151",
+      "id": "rss-5f8463f9b210d44cb6",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Introvertie, discrète, richissime : qui est Tatiana Kim, la « Jeff Bezos » russe sanctionnée par l’Union européenne ?",
+      "title": "Contre la guerre et la vie chère, pour la jeunesse : les images des manifestations en Italie",
       "bullets": [
-        "PORTRAIT - La fondatrice de Wildberries, femme la plus riche de Russie, figure sur la nouvelle liste de sanctions européennes.",
-        "Bruxelles l’accuse d’avoir mis son empire du e-commerce au service de l’effort de guerre du Kremlin."
+        "Contre la « militarisation » de la société et la vie chère, pour l’avenir des jeunes, l’éducation, le droit au logement, le climat : des dizaines de milliers de manifestants se mobilisent à travers l’Europe vendredi, sur fond de rejet des institutions."
       ],
-      "publishedAt": "2026-11-18T09:52:21+00:00",
-      "updatedAt": "2026-11-18T09:52:21+00:00",
+      "publishedAt": "2026-11-20T16:55:11+00:00",
+      "updatedAt": "2026-11-20T16:55:11+00:00",
       "importance": 75,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/introvertie-discrete-richissime-qui-est-tatiana-kim-la-jeff-bezos-russe-sanctionnee-par-l-union-europeenne-20261118",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1d4201e6f6404bdcd8",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A travers l’Europe, des mobilisations vendredi et tout ce week-end contre la « militarisation », la vie chère et pour l’éducation",
-      "bullets": [
-        "Alors que la colère sociale gronde depuis des semaines, syndicats, associations et organisations de jeunesse ont lancé des appels à des actions vendredi, samedi et dimanche dans de nombreux pays, dont la France, l’Allemagne et l’Italie.",
-        "Dès vendredi, des organisations de lycéens et d’étudiants ont aussi appelé à une grève…"
-      ],
-      "publishedAt": "2026-11-20T16:04:54+00:00",
-      "updatedAt": "2026-11-20T16:04:54+00:00",
-      "importance": 67,
-      "sources": [
-        {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html",
+          "url": "https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "e48073240a581e686d73fb57b8c2d5a8fb8dabf01f9c610b01a61673e18b3335",
+      "summaryInput": "2d77a71e024eb737657f9fd6dfe8714e0a27e8994d02e31ba77cbbdd881b332d",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4a35e7cd0e161baf96",
+      "id": "rss-4c8f9bb30b8ca7ab29",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
+      "title": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine",
       "bullets": [
-        "Grâce à ce nouveau bâtiment, \"entre la coulée actuellement en service et la future, on va augmenter de 50% la productivité, c'est-à-dire le nombre d'obus produits par jour et par opérateur\", explique le directeur du programme d'augmentation capacitaire pour KNDS à ICI Berry.",
-        "Le ministère des Armées indique aussi dans son communiqué avoir passé une commande à l'usine de 50 000 obus dont les livraisons s'étaleront sur 2029 et 2030 afin de \"renforcer significativement les stocks de l'armée de Terre\".",
-        "Une réunion publique est prévue le 5 janvier 2027 à La Chapelle-Saint-Ursin."
+        "La France a demandé une réunion du Conseil de sécurité de l'ONU, vendredi 20 novembre, après les frappes de jeudi et la salve de missiles lancées par Moscou contre l'Ukraine, dans la nuit de jeudi à vendredi.",
+        "La France les condamne avec la plus grande fermeté.",
+        "Au moins sept personnes ont été tuées et 17 autres ont été blessées à Kiev, tandis que deux autres personnes ont perdu la vie à Lviv, grande ville de l'ouest de l'Ukraine, selon les autorités."
       ],
-      "publishedAt": "2026-11-20T16:03:51+00:00",
-      "updatedAt": "2026-11-20T16:03:51+00:00",
+      "publishedAt": "2026-11-20T16:38:35+00:00",
+      "updatedAt": "2026-11-20T16:38:35+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
-      "summaryInput": "983d31227e383db834913c59dd97884f6216779a39c634fe77a958ecdaa55170",
+      "summaryInput": "aee599562e35fb774eeb957461e4f3aff168debf191958f292652ffb7abda674",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
+      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d2d51c23556f472bf6",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Décision inédite, retour des réfugiés... Cinq questions sur la reconnaissance du génocide des Rohingyas en Birmanie par la Cour internationale de justice",
+      "bullets": [
+        "Cet arrêt a été rendu dans une affaire portée en 2019 devant la CIJ par la Gambie, pays africain musulman, sur la base de la Convention sur le génocide.",
+        "L'arrêt de la cour établit la responsabilité de l'Etat birman dans la campagne de viols, de massacres et de persécutions menée par l'armée contre les Rohingyas en 2017, qui avait contraint près de 750 000 d'entre eux à fuir vers le Bangladesh voisin.",
+        "Ahmad Zahid Hamidi, vice-Premier ministre du pays, a annoncé dans un communiqué qu'il comptait relocaliser 10 000 Rohingyas en Turquie."
+      ],
+      "publishedAt": "2026-11-20T16:36:38+00:00",
+      "updatedAt": "2026-11-20T16:36:38+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/birmanie/decision-inedite-retour-des-refugies-cinq-questions-sur-la-reconnaissance-du-genocide-des-rohingyas-en-birmanie-par-la-cour-internationale-de-justice_8291954.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "502ccf762f51ca040893ba8d5ca15956e58c7067d985f1370190e022588907e8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
       "context": null
     },
     {
@@ -1021,7 +1025,7 @@
       ],
       "publishedAt": "2026-11-19T16:20:19+00:00",
       "updatedAt": "2026-11-19T16:20:19+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1096,7 +1100,7 @@
       ],
       "publishedAt": "2026-11-19T16:30:05+00:00",
       "updatedAt": "2026-11-19T16:30:05+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1120,7 +1124,7 @@
       ],
       "publishedAt": "2026-11-20T04:15:11+00:00",
       "updatedAt": "2026-11-20T04:15:11+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1131,55 +1135,6 @@
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "09d5659322768642b84bbd1235a5aab15002982b60615fd0da1a19b33793a93c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bfc731845b7e72a475",
-      "revision": 3,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
-      "bullets": [
-        "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de sa formation politique.",
-        "Yannick Jadot et d’autres annoncent quitter Les Ecologistes."
-      ],
-      "publishedAt": "2026-11-20T04:00:07+00:00",
-      "updatedAt": "2026-11-20T04:00:07+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0b5aff8f2c6d56f95ad49aa64c501bd73668381aacb63cb4401821000253c35c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5cd07cd175ac277164",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
-      "bullets": [
-        "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants »."
-      ],
-      "publishedAt": "2026-11-20T00:03:49+00:00",
-      "updatedAt": "2026-11-20T00:03:49+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "03ab89802ecfeb400eca38d42a98d50e17eafa5c3aabe43c2f0fba5b6bac07c7",
       "detailLevel": "preview"
     },
     {
@@ -1257,6 +1212,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-336f6a2a029b9f962b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+      "bullets": [
+        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh est suspecté."
+      ],
+      "publishedAt": "2026-11-20T08:46:19+00:00",
+      "updatedAt": "2026-11-20T08:46:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "77809899b0d2ecb8cd1eaf8dbf4f10fad6cf53f318cf721b367c36cbc81cb222",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39b21961f2bb449dad",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : la bataille délétère du « vote utile »",
+      "bullets": [
+        "La notion de vote utile, qui alimente les débats de l’automne et s’impose dans le champ politique, nie le débat d’idées en se concentrant exclusivement sur les sondages, estime Matthieu Goar, l’un des chefs du service Politique du « Monde »."
+      ],
+      "publishedAt": "2026-11-20T16:30:03+00:00",
+      "updatedAt": "2026-11-20T16:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-la-bataille-deletere-du-vote-utile_6813664_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "324328c845d5cf5c1f14f49f29e0c16e6b4bfcbe5299a0486b11f2127dfdd0f6",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-264d1f9e43a394eea2",
       "revision": 1,
       "category": "france",
@@ -1269,7 +1272,7 @@
       ],
       "publishedAt": "2026-11-18T16:41:12+00:00",
       "updatedAt": "2026-11-18T16:41:12+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1285,54 +1288,56 @@
       "context": null
     },
     {
-      "id": "rss-1ee54a116fa44616f9",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
-      "bullets": [
-        "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits.",
-        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national…"
-      ],
-      "publishedAt": "2026-11-19T14:31:38+00:00",
-      "updatedAt": "2026-11-19T14:31:38+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bfd622be0b668e9ad25aa91ede3d4a6e3c1d4c52d93b216ccba2cc74f103b759",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-fcbd320af081cdefa6",
+      "id": "rss-91752231f20dcf236b",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
+      "title": "Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre reporté à vendredi",
       "bullets": [
-        "A quelques jours de son extinction, l’encadrement des loyers a été prolongé lors d’un vote à la Chambre basse.",
-        "Un barrage d’amendements du RN, selon qui le texte est dangereux pour le marché du logement, menaçait la possibilité de son adoption."
+        "Cette loi soutenue par le gouvernement et le RN mais contestée par la gauche permettrait aux policiers et gendarmes de ne plus systématiquement être mis en cause ou placés en garde à vue en cas d’usage d’une arme."
       ],
-      "publishedAt": "2026-11-19T18:44:07+00:00",
-      "updatedAt": "2026-11-19T18:44:07+00:00",
+      "publishedAt": "2026-11-20T01:00:55+00:00",
+      "updatedAt": "2026-11-20T01:00:55+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "69969b9019cc09749d4ed62601fb38b421bcc1b8bc4532c4186e1c202c98a0d2",
+      "summaryInput": "7070053e695cd6fb6dd609e0d010fbdfca8bb20c8396bdff1dbdc8d6f36ea606",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9788e9592e33324c8a",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
+      "bullets": [
+        "Le rendez-vous est fixé ce jeudi à 11 heures sur le parvis de la gare Montparnasse.",
+        "Dans un communiqué commun, elles demandent l’indexation des pensions sur l’inflation dès janvier 2027, le rattrapage des pertes de pouvoir d’achat subies depuis 2017 et une retraite au moins égale au Smic pour une carrière complète.",
+        "Mercredi, le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027, après en avoir supprimé, dans la nuit de lundi à mardi, la mesure qui prévoyait de sous-indexer certaines pensions."
+      ],
+      "publishedAt": "2026-11-19T06:37:55+00:00",
+      "updatedAt": "2026-11-19T06:37:55+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/vivre-dignement-apres-des-annees-de-travail-des-organisations-syndicales-et-associatives-de-retraites-manifestent-jeudi-a-paris-20261119",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "c0a4f0ab423fb3f9bbe4310ee20d42110d84bc26afce9da9d4501ae05fcb499c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1346,7 +1351,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1358,7 +1363,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1370,7 +1375,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1412,7 +1417,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1436,7 +1441,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1448,7 +1453,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
