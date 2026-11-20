@@ -1,99 +1,75 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T08:28:43.850538+00:00",
+  "preparedAt": "2026-11-20T10:19:10.929945+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-4f8037bc75994ea51a",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Cyberattaques : la menace est à un niveau «grave et inédit», et «rien ne laisse à penser que les choses vont s’arranger», affirme Lecornu",
-      "bullets": [
-        "Enfin, comme l’a annoncé le ministre de l’Économie Roland Lescure, «l’État mobilisera les 200 millions d’euros prévus en faveur de la cybersécurité dans le cadre de France 2030 pour faire de l’intelligence artificielle un atout pour (la) cyberdéfense» de la France.",
-        "La liste sans fin des cyberattaques contre l’État et ses agences en 2026 Multiplication des attaques Ces derniers mois, la France a été la cible de très nombreuses cyberattaques.",
-        "Plus récemment, la banque Crédit Mutuel Arkéa a été victime d’une série d’opérations frauduleuses pour un montant d’au moins 150 millions d’euros."
-      ],
-      "publishedAt": "2026-11-19T16:55:47+00:00",
-      "updatedAt": "2026-11-19T16:55:47+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaques-la-menace-est-a-un-niveau-grave-et-inedit-et-rien-ne-laisse-a-penser-que-les-choses-vont-s-arranger-affirme-lecornu-20261119",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "8e2d1b1350c655f102a6f3490641b9e8a7e8b70630f4c720404af6484df6c5a3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T06:21:32.400409+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b2840acc6675757d37",
+      "id": "rss-0bb39bbd231cb44ec3",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Après le krach spectaculaire du cabinet Weil, les 87 avocats de la branche française trouvent un nouvel allié américain",
+      "title": "Budget 2027 : 6 milliards d’euros d’économies supplémentaires ne pourront «être qu’un point de départ», affirme David Amiel",
       "bullets": [
-        "INFO LE FIGARO - Trois semaines après l’annonce surprise de la dissolution de Weil, Gotshal & Manges au niveau mondial, les associés de sa filiale française ont signé un partenariat avec un autre cabinet américain."
+        "Faudra-t-il aller au-delà des 43 milliards d’euros d’économies prévus par le gouvernement dans son projet de budget 2027 ?",
+        "David Amiel est revenu en outre sur les 43 milliards d’euros d’économies proposés par le gouvernement, «avec un effort très important pour 2027 par rapport à 2026».",
+        "«54 milliards d’euros en réalité si l’on prend les mesures que nous avons prises en 2026, et qui donneront leurs pleins effets en 2027», a ajouté le ministre."
       ],
-      "publishedAt": "2026-11-19T16:03:08+00:00",
-      "updatedAt": "2026-11-19T16:03:08+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-20T09:58:08+00:00",
+      "updatedAt": "2026-11-20T09:58:08+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/apres-le-krach-spectaculaire-du-cabinet-weil-les-109-avocats-de-la-branche-francaise-trouvent-un-sauveur-americain-20261119",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b67f15bfb6b9ad93ef1fd11265d2a8fabecee5ff4e02ec8900f50f24184a06ab",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-488d4d8263889a2ddd",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Commission européenne visée par une cyberattaque assistée par l’IA, des données personnelles potentiellement compromises",
-      "bullets": [
-        "La Commission européenne a annoncé ce jeudi avoir été la cible d’une cyberattaque fin octobre, confirmant une information du média Politico.",
-        "La possible exposition de données personnelles est encore en cours d’enquête, selon le porte-parole de la Commission, Thomas Regnier.",
-        "Devant la presse, la Commission a précisé que l’incident avait été détecté le 22 octobre, puis confirmé le 26 octobre au terme d’une première enquête."
-      ],
-      "publishedAt": "2026-11-19T14:27:53+00:00",
-      "updatedAt": "2026-11-19T14:27:53+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-visee-par-une-cyberattaque-assistee-par-l-ia-des-donnees-personnelles-potentiellement-compromises-20261119",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-2027-6-milliards-d-euros-d-economies-supplementaires-ne-pourront-etre-qu-un-point-de-depart-affirme-david-amiel-20261120",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
-      "summaryInput": "ff31f16faf8d17f7029915cfa0138e9508f2db5edd700860da565a6325d81eb2",
+      "summaryInput": "6f4f3eb0ba306b30135186b98560d3e314095a2aa4b3cf9987f8a00dd52e6b12",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T04:07:38.021465+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-a6e5bebee6b5931a36",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics",
+      "bullets": [
+        "Alors que les discussions sur le budget de l'Etat (PLF) démarrent vendredi 20 novembre dans l'hémicycle du Sénat, le ministre des Comptes publics envisage des économies supplémentaires, se rangeant à l'avis de la rapporteure du budget au Sénat, Christine Lavarde.",
+        "Le Sénat en débattra jusqu'à un vote, prévu le 9 décembre.",
+        "Dominée par la droite et les centristes, la chambre haute compte l'adopter tout en le modifiant."
+      ],
+      "publishedAt": "2026-11-20T09:02:18+00:00",
+      "updatedAt": "2026-11-20T09:02:18+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "0e619474bae73087afcf4b43b881907753d963c735ba0460a269f0ce7eba2dd9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
       "id": "rss-3015585198d7e37490",
-      "revision": 2,
+      "revision": 3,
       "category": "eco",
       "topic": "Économie",
       "title": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
       "bullets": [
-        "L’introduction en Bourse spectaculaire du leader de l’Intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés."
+        "L’introduction en Bourse spectaculaire du leader de l’intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés."
       ],
       "publishedAt": "2026-11-19T23:30:54+00:00",
       "updatedAt": "2026-11-19T23:30:54+00:00",
@@ -107,7 +83,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "4f65bec2072d28e1be09b413815572c40098425bd73736467206c70ac3b1f3a8",
+      "summaryInput": "ebd051027de5af5fc45ed3809c0a5e66bbec154b3af8b4e83cdb19fe4fd0dea5",
       "detailLevel": "preview"
     },
     {
@@ -135,6 +111,61 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-72e94f754aa41182a3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les données de clients de JPMorgan, Visa et Mastercard volées après une cyberattaque visant un fournisseur",
+      "bullets": [
+        "Un sous-traitant de JPMorgan, Visa et Mastercard a été la cible d'une cyberattaque au cours de laquelle les pirates ont pu accéder à des données de leurs clients, ont indiqué jeudi les trois groupes américains, assurant qu'aucune donnée financière n'avait été subtilisée.",
+        "«Aucune donnée de paiement affectée» Un groupe de pirates, appelé n0n, a revendiqué cette attaque au «ransomware», un logiciel de chantage numérique, et a publié des documents supposés prouver ses dires, a indiqué à l'AFP la société de cybersécurité SOCRadar, qui n'a pu confirmer indépendamment la véracité de ces affirmations."
+      ],
+      "publishedAt": "2026-11-20T06:05:09+00:00",
+      "updatedAt": "2026-11-20T06:05:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/les-donnees-de-clients-de-jpmorgan-visa-et-mastercard-volees-apres-une-cyberattaque-visant-un-fournisseur-20261119",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "b574e37777d30bde416ce0f4b920ef8deff6bc445d053d4fbefc8c53f0869c63",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-cec7150adc6e5a68e3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Chargemap : des utilisateurs de l’application de recharge de véhicules électriques victimes d’un vol de données",
+      "bullets": [
+        "Un outil utilisé par 3,5 millions de conducteurs dans 19 pays européens.",
+        "Ce mercredi 18 novembre, l’entreprise a annoncé avoir subi un incident de sécurité, avec le piratage de données personnelles de certains utilisateurs.",
+        "L’incident a été détecté le 10 novembre et les équipes de Chargemap ont pu corriger la faille deux jours plus tard."
+      ],
+      "publishedAt": "2026-11-19T20:53:59+00:00",
+      "updatedAt": "2026-11-19T20:53:59+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/automobile/chargemap-des-utilisateurs-de-l-application-de-recharge-de-vehicules-electriques-victimes-d-un-vol-de-donnees-20261119",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "9003e7191c7cf191e072c634b8b1d8f5f0fdadf140a6cc43c289e347df079f55",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
+      "context": null
+    },
+    {
       "id": "rss-29d74a7426fa524582",
       "revision": 1,
       "category": "eco",
@@ -159,8 +190,33 @@
       "provenance": "article-extract",
       "summaryInput": "5195265a1da9aaf217ca1eba5b8c48a939a3a97f6355ee3d93553fc82590ba3e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2d5ef62475acc9b998",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
+      "bullets": [
+        "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée.",
+        "Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et ultramarins)."
+      ],
+      "publishedAt": "2026-11-20T09:30:03+00:00",
+      "updatedAt": "2026-11-20T09:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "beb6bf02636de285aa5696e2b13496552d72e332e45f0d1784a5cebe65c7330a",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-9a7f40e9f6fb45135f",
@@ -219,6 +275,33 @@
       "context": null
     },
     {
+      "id": "rss-eb3fea0489b1e6eb02",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "TikTok lance un outil de détection des vidéos IA destiné aux personnalités publiques",
+      "bullets": [
+        "TikTok a annoncé ce vendredi 20 novembre le lancement mondial de son outil de détection permettant aux personnalités publiques de repérer les contenus générés par l'IA simulant leur identité, le réseau social cherchant à enrayer la désinformation avant une vague d'élections européennes l'an prochain.",
+        "Déployé progressivement, l'«outil de détection de ressemblance» permet aux responsables politiques et aux comptes dotés d'un grand nombre d'abonnés sur TikTok de repérer et de signaler des contenus générés par l'IA utilisant leur image sans consentement."
+      ],
+      "publishedAt": "2026-11-20T06:32:13+00:00",
+      "updatedAt": "2026-11-20T06:32:13+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/tiktok-lance-un-outil-de-detection-des-videos-ia-destine-aux-personnalites-publiques-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "36da5e2b8544746976d006bc90b74c8576ceb6ca7eb5095910a9423c94c812c4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
+      "context": null
+    },
+    {
       "id": "rss-09f0095183d72d06fc",
       "revision": 1,
       "category": "eco",
@@ -247,103 +330,6 @@
       "context": null
     },
     {
-      "id": "rss-6ffc4801f1189fe05f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
-      "bullets": [
-        "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les radios, se soumettre à des règles de temps de parole et de déontologie."
-      ],
-      "publishedAt": "2026-11-19T19:30:08+00:00",
-      "updatedAt": "2026-11-19T19:30:08+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-88b86fffbaf5bf2fdb",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : les plus influents créateurs de contenu devront respecter le pluralisme",
-      "bullets": [
-        "Pour la première fois, l’Arcom leur impose de respecter les mêmes règles du jeu que les télévisions et radios."
-      ],
-      "publishedAt": "2026-11-19T18:44:45+00:00",
-      "updatedAt": "2026-11-19T18:44:45+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/medias/presidentielle-les-plus-influents-createurs-de-contenu-devront-respecter-le-pluralisme-20261119",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c35adddf2777b4af6014ba8f5aad31474f24a624f0fb99617fdf65db1c2537f1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b2b803338beb431243",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Il est absurde de les dissuader d’exercer » : la réforme du cumul emploi-retraite pousse les médecins à partir avant la fin de l’année",
-      "bullets": [
-        "DÉCRYPTAGE - Le régime complémentaire des médecins libéraux a recensé 1 800 départs contre 800 anticipés."
-      ],
-      "publishedAt": "2026-11-19T17:45:00+00:00",
-      "updatedAt": "2026-11-19T17:45:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/il-est-absurde-de-les-dissuader-d-exercer-la-reforme-du-cumul-emploi-retraite-pousse-les-medecins-a-partir-avant-la-fin-de-l-annee-20261119",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9a987c404f3d0656ce9784f9821051575a69f2abe27481dca16dc956553f6629",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0992278c57eb1393e6",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "+35 % à sa première cotation : Anthropic bat tous les records pour ses débuts à Wall Street",
-      "bullets": [
-        "La société derrière le modèle de langage Claude a levé 107 milliards de dollars ce jeudi au Nasdaq, passant le cap des 2000 milliards de valorisation.",
-        "Un soulagement pour l’ensemble du secteur de l’intelligence artificielle."
-      ],
-      "publishedAt": "2026-11-19T21:12:28+00:00",
-      "updatedAt": "2026-11-19T21:12:28+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/35-a-sa-premiere-cotation-anthropic-bat-tous-les-records-pour-ses-debuts-a-wall-street-20261119",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0d002a7df09cce0fa8e9e8544c69838a771ee7a22ee9c5780febb6bf022198e6",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -354,8 +340,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T08:24:35+00:00",
-      "updatedAt": "2026-11-20T08:24:35+00:00",
+      "publishedAt": "2026-11-20T10:13:32+00:00",
+      "updatedAt": "2026-11-20T10:13:32+00:00",
       "importance": 69,
       "sources": [
         {
@@ -368,7 +354,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
@@ -408,7 +394,7 @@
       ],
       "publishedAt": "2026-11-19T21:06:06+00:00",
       "updatedAt": "2026-11-19T21:06:06+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -420,7 +406,7 @@
       "provenance": "article-extract",
       "summaryInput": "11ba04b923d692f85b2dc029c961a2d9c3a5c80c114137e80294838e5e07e40e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T21:10:17.530508+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
@@ -520,7 +506,7 @@
       ],
       "publishedAt": "2026-11-19T09:30:00+00:00",
       "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -592,34 +578,6 @@
       "context": null
     },
     {
-      "id": "rss-559fb023452ff912a8",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Deutsche Bank : Elle voulait gagner toujours plus d'argent avec les riches Russes... La très embarrassante enquête qui fait chuter Deutsche Bank en Bourse",
-      "bullets": [
-        "L'action Deutsche Bank chute mardi matin à la Bourse de Francfort, et perd 5,6% après la publication d'une vaste enquête de presse internationale fondée sur plus de 15 millions de documents internes ayant fuité.",
-        "Les données proviennent de deux lanceurs d'alerte, dont l'identité reste cachée, et ont été transmises, via des journalistes sud-africains et indiens, à plus de 50 médias dans le monde.",
-        "Deutsche Bank employait encore 162 personnes dans le pays l'an dernier et sa filiale y a réalisé 61 millions d'euros de bénéfice avant impôts."
-      ],
-      "publishedAt": "2026-11-17T09:28:41+00:00",
-      "updatedAt": "2026-11-17T09:28:41+00:00",
-      "importance": 50,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/deutsche-bank-DE0005140008/actualites/deutsche-bank-elle-voulait-gagner-toujours-plus-d-argent-avec-les-riches-russes-la-tres-embarrassante-enquete-qui-fait-chuter-deutsche-bank-en-bourse-1173905.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T02:58:16.770538+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2e959b95eed702fad9",
       "revision": 1,
       "category": "world",
@@ -648,6 +606,31 @@
       "context": null
     },
     {
+      "id": "rss-87505c46e566075861",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Espagne, à dix jours des élections législatives, Pedro Sanchez admet des « erreurs »",
+      "bullets": [
+        "Attaqué sur son bilan par son rival conservateur, Alberto Nuñez Feijoo, lors d’un débat télévisé, jeudi 19 novembre, le premier ministre socialiste a cherché à remobiliser l’électorat de gauche.",
+        "A ce stade, il ne décolle pas dans les sondages, qui continuent de donner une majorité à la droite et à…"
+      ],
+      "publishedAt": "2026-11-20T08:33:05+00:00",
+      "updatedAt": "2026-11-20T08:33:05+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/en-espagne-a-dix-jours-des-elections-legislatives-pedro-sanchez-admet-des-erreurs_6813603_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7ef5a74151f88f16afea2427ede7d2c9415d836042ac5147ac7d3ceb6003eab1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-1995143693c2e62cab",
       "revision": 1,
       "category": "world",
@@ -671,34 +654,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ec5fb8a1fef1f2822c9581a9ee2937e50da06bc35e121692af85d244dd23e927",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-872e2eebe7e5f79464",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
-      "bullets": [
-        "Alors que les entretiens se poursuivent en Chine, entre Xi Jinping, Vladimir Poutine et Donald Trump, ce jeudi 19 novembre, les dirigeants européens, alliés de l'Ukraine, se réunissent à Berlin, au sein de la future coalition des volontaires.",
-        "En attendant, l'Ukraine continue de manquer de missiles antimissiles Patriot pour se défendre et en réclame régulièrement aux États-Unis.",
-        "Selon l'enquête du Wall Street Journal, le client américain d'ArianneGroup a obtenu, via une avance de 5 millions de dollars, que l'usine bordelaise mette en œuvre une nouvelle ligne de production pour sa rayonne, mais pas avant 2028."
-      ],
-      "publishedAt": "2026-11-19T15:11:45+00:00",
-      "updatedAt": "2026-11-19T15:11:45+00:00",
-      "importance": 82,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "8541f38ddcca99245d10211731a62145b66ff329ddb3c4306b3b7da8ab467ec1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
-      "context": null
     },
     {
       "id": "rss-4c7f6287fee3a1d857",
@@ -725,7 +680,7 @@
       "provenance": "article-extract",
       "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
@@ -895,7 +850,7 @@
       ],
       "publishedAt": "2026-11-18T09:52:21+00:00",
       "updatedAt": "2026-11-18T09:52:21+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -909,32 +864,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c7f3c30fc07bee9e4b",
+      "id": "rss-7fbdbbe01721ae7c17",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+      "title": "Guerre en Ukraine : Kiev mise sur l’isolement stratégique de la Crimée occupée",
       "bullets": [
-        "Les frappes russes survenues vendredi 20 novembre sur l'Ukraine ont fait trois morts dans la capitale, a annoncé l'administration militaire de ville.",
-        "A la suite de l'attaque [aux missiles] balistique[s] contre la capitale, le pont Podilsko-Voskresensky a été endommagé.",
-        "Le président russe, Vladimir Poutine, avait averti jeudi que la Russie répliquerait aux frappes ukrainiennes contre le pont de Crimée mercredi."
+        "Une série de frappes ukrainiennes sur le pont de Crimée, symbole de l’occupation russe, a lourdement endommagé l’ouvrage cher au cœur de Vladimir Poutine, réduisant l’accès de la Russie à la presqu’île."
       ],
-      "publishedAt": "2026-11-20T06:11:38+00:00",
-      "updatedAt": "2026-11-20T06:11:38+00:00",
+      "publishedAt": "2026-11-20T10:00:08+00:00",
+      "updatedAt": "2026-11-20T10:00:08+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/l-ukraine-mise-sur-l-isolement-strategique-de-la-crimee-occupee_6813616_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "ad23e0e6d0ebe476fcfef0ed8b92f614935f8c2b640b47841c0a9f8034c631be",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T08:28:43.850538+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1edb1d1ad64461423599a84354bfe3b37d6422bc6455dbfa48112550114167f4",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-bfc731845b7e72a475",
@@ -1034,7 +985,7 @@
       "provenance": "article-extract",
       "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
@@ -1071,8 +1022,8 @@
         "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
         "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-20T06:15:20+00:00",
-      "updatedAt": "2026-11-20T06:15:20+00:00",
+      "publishedAt": "2026-11-20T09:19:12+00:00",
+      "updatedAt": "2026-11-20T09:19:12+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1145,7 +1096,7 @@
       ],
       "publishedAt": "2026-11-19T20:35:44+00:00",
       "updatedAt": "2026-11-19T20:35:44+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1307,32 +1258,32 @@
       "provenance": "article-extract",
       "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
       "context": null
     },
     {
-      "id": "rss-ea780f8e9272024de6",
+      "id": "rss-fcbd320af081cdefa6",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Budget de la « Sécu » pour 2027 : la question-clé de l’effort demandé aux retraités",
+      "title": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
       "bullets": [
-        "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux Chambres du Parlement.",
-        "Jusqu’à présent, elles ont divergé sur la mise à contribution des retraités pour redresser les finances…"
+        "A quelques jours de son extinction, l’encadrement des loyers a été prolongé lors d’un vote à la Chambre basse.",
+        "Un barrage d’amendements du RN, selon qui le texte est dangereux pour le marché du logement, menaçait la possibilité de son adoption."
       ],
-      "publishedAt": "2026-11-19T09:07:47+00:00",
-      "updatedAt": "2026-11-19T09:07:47+00:00",
+      "publishedAt": "2026-11-19T18:44:07+00:00",
+      "updatedAt": "2026-11-19T18:44:07+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
+      "summaryInput": "69969b9019cc09749d4ed62601fb38b421bcc1b8bc4532c4186e1c202c98a0d2",
       "detailLevel": "preview"
     }
   ],
@@ -1347,7 +1298,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1377,7 +1328,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1395,7 +1346,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1413,7 +1364,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
@@ -1449,7 +1400,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
