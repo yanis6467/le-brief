@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T22:58:46.668532+00:00",
+  "edition": "2026-11-21",
+  "preparedAt": "2026-11-20T23:58:06.745236+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-d9ddb1529092302e60",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
-      "bullets": [
-        "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens.",
-        "Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
-      ],
-      "publishedAt": "2026-11-20T16:00:32+00:00",
-      "updatedAt": "2026-11-20T16:00:32+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-e54ec8e2ac8d9a6639",
       "revision": 1,
@@ -325,6 +300,34 @@
       "context": null
     },
     {
+      "id": "rss-efa408ba8e5ee2076f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
+      "bullets": [
+        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
+        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
+        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
+      ],
+      "publishedAt": "2026-11-20T17:14:56+00:00",
+      "updatedAt": "2026-11-20T17:14:56+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T23:58:06.745236+00:00",
+      "context": null
+    },
+    {
       "id": "rss-428f958e6d945a5369",
       "revision": 2,
       "category": "markets",
@@ -363,9 +366,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T22:55:05+00:00",
-      "updatedAt": "2026-11-20T22:55:05+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-20T23:58:08+00:00",
+      "updatedAt": "2026-11-20T23:58:08+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -505,7 +508,7 @@
       ],
       "publishedAt": "2026-11-19T11:00:11+00:00",
       "updatedAt": "2026-11-19T11:00:11+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -758,6 +761,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-d9ddb1529092302e60",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
+      "bullets": [
+        "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens.",
+        "Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
+      ],
+      "publishedAt": "2026-11-20T16:00:32+00:00",
+      "updatedAt": "2026-11-20T16:00:32+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-7b45e45f84828a9248",
       "revision": 1,
       "category": "world",
@@ -911,34 +939,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4c8f9bb30b8ca7ab29",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine",
-      "bullets": [
-        "La France a demandé une réunion du Conseil de sécurité de l'ONU, vendredi 20 novembre, après les frappes de jeudi et la salve de missiles lancées par Moscou contre l'Ukraine, dans la nuit de jeudi à vendredi.",
-        "La France les condamne avec la plus grande fermeté.",
-        "Au moins sept personnes ont été tuées et 17 autres ont été blessées à Kiev, tandis que deux autres personnes ont perdu la vie à Lviv, grande ville de l'ouest de l'Ukraine, selon les autorités."
-      ],
-      "publishedAt": "2026-11-20T16:38:35+00:00",
-      "updatedAt": "2026-11-20T16:38:35+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "aee599562e35fb774eeb957461e4f3aff168debf191958f292652ffb7abda674",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T21:59:53.784267+00:00",
-      "context": null
-    },
-    {
       "id": "rss-b31b9c845e91e09d1c",
       "revision": 1,
       "category": "france",
@@ -1039,27 +1039,28 @@
       "context": null
     },
     {
-      "id": "rss-bbf48abb46c2aed194",
+      "id": "rss-0b15501dc450fc0274",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Enquête sur des fuites vers le RN : le préfet Hugues Moutouh convoqué par Laurent Nuñez vendredi",
+      "title": "Deux mois après l’exécution ratée de Christa Pike, la longue mise à mort d’un détenu de 70 ans au Texas",
       "bullets": [
-        "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti, notamment celle ayant trait au financement de ses campagnes de 2022 et 2024."
+        "Alors que la peine de mort fait l’objet d’un regain d’attention aux Etats-Unis après l’échec de l’exécution de Christa Pike, en septembre, dans le Tennessee, celle de Reinaldo Dennes, jeudi, a duré plus d’une heure.",
+        "Le condamné s’est plaint de douleurs tout au long de la procédure."
       ],
-      "publishedAt": "2026-11-19T21:01:10+00:00",
-      "updatedAt": "2026-11-19T21:01:10+00:00",
-      "importance": 57,
+      "publishedAt": "2026-11-20T04:54:49+00:00",
+      "updatedAt": "2026-11-20T04:54:49+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/deux-mois-apres-l-execution-ratee-de-christa-pike-la-longue-mise-a-mort-de-reinaldo-dennes-au-texas_6813583_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "26b5f5d59a2e5806924e551d698d83c56434bab8ae798d15cdb3fa13d3f4c6b6",
+      "summaryInput": "37754c687f09a9e9511eec0833a4c06c1921f76629c3f5b565c541f6105dcc50",
       "detailLevel": "preview"
     },
     {
@@ -1373,7 +1374,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
