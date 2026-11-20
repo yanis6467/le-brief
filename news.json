@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T15:08:48.305602+00:00",
+  "preparedAt": "2026-11-20T16:09:52.860956+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-e54ec8e2ac8d9a6639",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Encadrement des loyers: est-ce que ça fonctionne ?",
+      "bullets": [
+        "L’Assemblée nationale vient de prolonger l’encadrement des loyers pour deux ans.",
+        "Expérimenté depuis 2018 dans environ 70 villes, ce dispositif est critiqué par la Cour des comptes et certains professionnels de l’immobilier.",
+        "La députée RN Laure Lavalette accusée d'avoir cautionné des écrits antisémites dans les années 1990"
+      ],
+      "publishedAt": "2026-11-20T15:15:13+00:00",
+      "updatedAt": "2026-11-20T15:15:13+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/encadrement-des-loyers-est-ce-que-ca-fonctionne_8292497.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "269e5acb2a276ef423da6e449b6e7185958d55c178e425278370e9fc41028865",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
+      "context": null
+    },
     {
       "id": "rss-0bb39bbd231cb44ec3",
       "revision": 1,
@@ -85,6 +113,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ebd051027de5af5fc45ed3809c0a5e66bbec154b3af8b4e83cdb19fe4fd0dea5",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a44f4732ca07ed78e5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La réforme du crédit à la consommation est \"une bonne chose\" pour Que Choisir Ensemble, inquiet malgré tout du durcissement des autorisations de découvert",
+      "bullets": [
+        "Les nouvelles règles en matière d'encadrement du crédit à la consommation qui entrent en vigueur vendredi 20 novembre sont \"une bonne chose\", affirme vendredi sur ICI Marie-Amandine Stévenin, présidente de Que choisir ensemble (anciennement UFC Que choisir).",
+        "Mais l'association de consommateurs craint un durcissement des autorisations de découvert.",
+        "Ça va permettre d'avoir des alertes qui vont être plus en amont, car tous les paiements en plusieurs fois échappaient jusqu'à maintenant [à l'encadrement]."
+      ],
+      "publishedAt": "2026-11-20T15:20:18+00:00",
+      "updatedAt": "2026-11-20T15:20:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/la-reforme-du-credit-a-la-consommation-est-une-bonne-chose-pour-que-choisir-ensemble-inquiet-malgre-tout-du-durcissement-des-autorisations-de-decouvert_8292446.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "ddbcbca808eb2d68f8c8bab50a18407cb35d9e91dc61f2cec7a8049766861bed",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
+      "context": null
     },
     {
       "id": "rss-7f4fc7dfb322fff609",
@@ -269,70 +325,18 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-627db3ff8a2550feec",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le sommet de Paris contre l’oligarchie internationale, un clin d’œil au colloque Lippmann qui a inventé le néolibéralisme",
-      "bullets": [
-        "Les organisateurs du sommet prévu le 21 novembre rêvent d’avoir un impact de même ampleur que celui de la conférence qui, en 1938, à Paris, a été le moment refondateur du libéralisme."
-      ],
-      "publishedAt": "2026-11-20T06:30:02+00:00",
-      "updatedAt": "2026-11-20T06:30:02+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/20/le-sommet-de-paris-contre-l-oligarchie-internationale-un-clin-d-il-au-colloque-lippmann-qui-a-invente-le-neoliberalisme_6813596_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c0748e81df1be92039d6a761960d53d166df5601a65cefaa05e433aa52f9b198",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-624ed7264418caa13a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
-      "bullets": [
-        "Du côté de ses défenseurs, on souligne la croissance du Royaume-Uni qui est restée solide : +12,2% entre 2016 et 2025, deux fois plus que celle de l'Allemagne et quasi équivalente à la nôtre en France, +13%.",
-        "Enfin, en arrêtant de contribuer au budget européen, le Royaume-Uni a économisé 14 milliards d'euros par an.",
-        "À long terme, son impact économique pourrait même coûter aux Britanniques entre 2 et 4% de leur PIB."
-      ],
-      "publishedAt": "2026-11-19T21:23:22+00:00",
-      "updatedAt": "2026-11-19T21:23:22+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "8de57630235450077404d4739c704d5c9238e01df12695c22ab16ac519b41fca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T13:27:35.544572+00:00",
-      "context": null
-    },
-    {
       "id": "rss-428f958e6d945a5369",
-      "revision": 1,
+      "revision": 2,
       "category": "markets",
       "topic": "Marchés",
       "title": "Le géant de l’IA Anthropic chute de 9 % pour sa deuxième séance à Wall Street",
       "bullets": [
-        "L’entreprise américaine d’intelligence artificielle Anthropic, qui a connu des débuts éclatants à Wall Street jeudi, cédait déjà une large partie de ses gains vendredi, dans un environnement boursier difficile pour les valeurs associées à l’IA.",
-        "Dans les premiers échanges, le titre Anthropic cédait 9,34 % à 88,10 dollars.",
-        "L’entreprise a réalisé, la veille, la plus importante introduction en Bourse de l’histoire."
+        "Dans les premiers échanges, le titre Anthropic cédait 9,34 % à 88,10 dollars, après avoir fini en hausse de 17,07 % jeudi.",
+        "Par ailleurs, le montant levé en Bourse par Anthropic a été porté à 91,6 milliards de dollars à l’issue d’une vente supplémentaire d’actions par les banques partenaires de l’opération, selon un communiqué publié vendredi.",
+        "Le chiffre officiel du produit total de l’introduction atteint ainsi 93,5 milliards."
       ],
-      "publishedAt": "2026-11-20T14:57:11+00:00",
-      "updatedAt": "2026-11-20T14:57:11+00:00",
+      "publishedAt": "2026-11-20T15:58:36+00:00",
+      "updatedAt": "2026-11-20T15:58:36+00:00",
       "importance": 75,
       "sources": [
         {
@@ -343,9 +347,9 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
-      "summaryInput": "fca98e62b4a81875d72a71e1519c1a29c61cfc5821aa2dafef8752c579d2192f",
+      "summaryInput": "5e8cf6bde72467dc79317cfb404d913e56ab499fcad9f16825d88d585f1f5b67",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T15:08:48.305602+00:00",
+      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
       "context": null
     },
     {
@@ -359,8 +363,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T15:05:25+00:00",
-      "updatedAt": "2026-11-20T15:05:25+00:00",
+      "publishedAt": "2026-11-20T16:07:52+00:00",
+      "updatedAt": "2026-11-20T16:07:52+00:00",
       "importance": 69,
       "sources": [
         {
@@ -545,6 +549,34 @@
       "context": null
     },
     {
+      "id": "rss-606e9b5aec5f598bf1",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "SANOFI : La biotech américaine Insmed, un morceau de choix pour Sanofi, même si elle coûte plus de 30 milliards de dollars?",
+      "bullets": [
+        "Sur les neufs premiers mois de 2026, ce médicament a vu ses revenus grimper de 34,5% à 15 milliards d'euros et a assuré le gros de la croissance de la société sur la période.",
+        "Ce \"patent cliff\" retranchera 17,3 milliards d'euros de revenus entre 2030 et 2035, selon les projections de JPMorgan.",
+        "Le chiffre d'affaires combiné atteindrait 62 milliards en 2029 et le poids de Dupixent au même horizon reculerait de trois points de pourcentage à 38%, calcule encore le courtier."
+      ],
+      "publishedAt": "2026-11-20T14:44:32+00:00",
+      "updatedAt": "2026-11-20T14:44:32+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-la-biotech-americaine-insmed-un-morceau-de-choix-pour-sanofi-meme-si-elle-coute-plus-de-30-milliards-de-dollars-1174190.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
+      "context": null
+    },
+    {
       "id": "rss-49bf54c9b1b5a5c443",
       "revision": 1,
       "category": "markets",
@@ -675,34 +707,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4c7f6287fee3a1d857",
-      "revision": 1,
-      "category": "world",
-      "topic": "Santé",
-      "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
-      "bullets": [
-        "Les Etats-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé l'Organisation panaméricaine de la santé, la branche continentale de l'OMS, mardi 17 novembre.",
-        "Cette annonce constitue un revers particulièrement cinglant pour les Etats-Unis, première puissance mondiale.",
-        "Le pays fait désormais face à sa pire épidémie en 35 ans."
-      ],
-      "publishedAt": "2026-11-17T18:16:11+00:00",
-      "updatedAt": "2026-11-17T18:16:11+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T10:19:10.929945+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a0978b9e491613eb7d",
       "revision": 1,
       "category": "world",
@@ -725,6 +729,31 @@
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "d64492beec7ca8b25fec5ca4fd4b786dc8cfff218365ed82b0c9f077547875a4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d9ddb1529092302e60",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
+      "bullets": [
+        "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens.",
+        "Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
+      ],
+      "publishedAt": "2026-11-20T16:00:32+00:00",
+      "updatedAt": "2026-11-20T16:00:32+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
       "detailLevel": "preview"
     },
     {
@@ -855,55 +884,57 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bb0d2cc149cbc0f7d4",
+      "id": "rss-1d4201e6f6404bdcd8",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La Malaisie prévoit de relocaliser 10 000 réfugiés rohingyas en Turquie, dans le cadre d'un programme de formation professionnelle",
+      "title": "A travers l’Europe, des mobilisations vendredi et tout ce week-end contre la « militarisation », la vie chère et pour l’éducation",
       "bullets": [
-        "\"Le Conseil des ministres a approuvé une proposition visant à réinstaller 10 000 réfugiés rohingyas actuellement en Malaisie vers la Turquie, dans le cadre d'un programme structuré de formation professionnelle\", a déclaré le vice-Premier ministre malaisien Ahmad Zahid Hamidi dans un communiqué, vendredi 20 novembre.",
-        "Les Rohingyas, une minorité musulmane persécutée dans leur pays, représentent les deux tiers des 190 000 réfugiés et demandeurs d'asile birmans présents en Malaisie, selon les Nations unies."
+        "Alors que la colère sociale gronde depuis des semaines, syndicats, associations et organisations de jeunesse ont lancé des appels à des actions vendredi, samedi et dimanche dans de nombreux pays, dont la France, l’Allemagne et l’Italie.",
+        "Dès vendredi, des organisations de lycéens et d’étudiants ont aussi appelé à une grève…"
       ],
-      "publishedAt": "2026-11-20T13:42:06+00:00",
-      "updatedAt": "2026-11-20T13:42:06+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/asie/rohingyas/la-malaisie-prevoit-de-relocaliser-10-000-refugies-rohingyas-en-turquie-dans-le-cadre-d-un-programme-de-formation-professionnelle_8292296.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "9a006de60d8c403f3443dfece5f3c2a9b4403c127361e3bdd07d95e8561db90b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T15:08:48.305602+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b60f79c794d3af0350",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
-      "bullets": [
-        "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre les Rohingya."
-      ],
-      "publishedAt": "2026-11-20T11:00:06+00:00",
-      "updatedAt": "2026-11-20T11:00:06+00:00",
+      "publishedAt": "2026-11-20T16:04:54+00:00",
+      "updatedAt": "2026-11-20T16:04:54+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "aa42c24853198f1aef8a9899500fcdac8f0961f7f2e70831b859ab6b98882338",
+      "summaryInput": "e48073240a581e686d73fb57b8c2d5a8fb8dabf01f9c610b01a61673e18b3335",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4a35e7cd0e161baf96",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
+      "bullets": [
+        "Grâce à ce nouveau bâtiment, \"entre la coulée actuellement en service et la future, on va augmenter de 50% la productivité, c'est-à-dire le nombre d'obus produits par jour et par opérateur\", explique le directeur du programme d'augmentation capacitaire pour KNDS à ICI Berry.",
+        "Le ministère des Armées indique aussi dans son communiqué avoir passé une commande à l'usine de 50 000 obus dont les livraisons s'étaleront sur 2029 et 2030 afin de \"renforcer significativement les stocks de l'armée de Terre\".",
+        "Une réunion publique est prévue le 5 janvier 2027 à La Chapelle-Saint-Ursin."
+      ],
+      "publishedAt": "2026-11-20T16:03:51+00:00",
+      "updatedAt": "2026-11-20T16:03:51+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "983d31227e383db834913c59dd97884f6216779a39c634fe77a958ecdaa55170",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T16:09:52.860956+00:00",
+      "context": null
     },
     {
       "id": "rss-6d05b8f735303248f6",
@@ -1039,8 +1070,8 @@
         "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
         "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-20T09:19:12+00:00",
-      "updatedAt": "2026-11-20T09:19:12+00:00",
+      "publishedAt": "2026-11-20T15:45:16+00:00",
+      "updatedAt": "2026-11-20T15:45:16+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1114,7 +1145,7 @@
       ],
       "publishedAt": "2026-11-20T04:00:07+00:00",
       "updatedAt": "2026-11-20T04:00:07+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1185,9 +1216,9 @@
       "bullets": [
         "SONDAGE EXCLUSIF - Selon une étude Odoxa-Backbone Consulting pour Le Figaro, 85 % des Français pensent que les blocages vont pénaliser les élèves dans la suite de leur parcours scolaire et professionnel."
       ],
-      "publishedAt": "2026-11-19T16:04:34+00:00",
-      "updatedAt": "2026-11-19T16:04:34+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-20T15:58:05+00:00",
+      "updatedAt": "2026-11-20T15:58:05+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1212,7 +1243,7 @@
       ],
       "publishedAt": "2026-11-18T16:00:08+00:00",
       "updatedAt": "2026-11-18T16:00:08+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1339,7 +1370,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1363,7 +1394,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 4
     },
     {
       "publisher": "Le Figaro",
@@ -1381,7 +1412,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1417,7 +1448,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
