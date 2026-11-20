@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-20T06:21:32.400409+00:00",
+  "preparedAt": "2026-11-20T08:28:43.850538+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -87,43 +87,16 @@
       "context": null
     },
     {
-      "id": "rss-89540c8459cdcea67b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La régularisation de travailleurs sans-papiers est une mesure pour aider les entreprises en \"grandes difficultés de recrutement\", pointe un député PS",
-      "bullets": [
-        "Les socialistes proposent jeudi 19 novembre à l'Assemblée de régulariser 300 000 travailleurs sans-papiers, une mesure pour aider les entreprises en \"grandes difficultés de recrutement\", souligne le député PS de la première circonscription de la Drôme, Paul Christophle qui porte cette proposition de loi.",
-        "La proposition portée par Paul Christophle à l'Assemblée nationale \"ne donne pas un chiffre précis, elle dit que, sur le critère d'avoir travaillé six mois sur les 24 derniers mois, alors on peut vous donner un titre de séjour salarié, un an\", précise-t-il."
-      ],
-      "publishedAt": "2026-11-19T09:01:30+00:00",
-      "updatedAt": "2026-11-19T09:01:30+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/la-regularisation-de-travailleurs-sans-papiers-est-une-mesure-pour-aider-les-entreprises-en-grandes-difficultes-de-recrutement-pointe-un-depute-ps_8289641.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "9e68ff993e52f524d0a0707a9c676bc3b8c2794d239ce119c13a8d13206c7742",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3015585198d7e37490",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+      "title": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
       "bullets": [
-        "L’introduction en Bourse spectaculaire du leader de l’IA n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés."
+        "L’introduction en Bourse spectaculaire du leader de l’Intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés."
       ],
-      "publishedAt": "2026-11-19T23:30:58+00:00",
-      "updatedAt": "2026-11-19T23:30:58+00:00",
+      "publishedAt": "2026-11-19T23:30:54+00:00",
+      "updatedAt": "2026-11-19T23:30:54+00:00",
       "importance": 75,
       "sources": [
         {
@@ -134,7 +107,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "588e7d5fb97b95866b2193b3fa667611d06fcb356b157f2e86172ab5a04cf5d0",
+      "summaryInput": "4f65bec2072d28e1be09b413815572c40098425bd73736467206c70ac3b1f3a8",
       "detailLevel": "preview"
     },
     {
@@ -148,7 +121,7 @@
       ],
       "publishedAt": "2026-11-19T19:05:00+00:00",
       "updatedAt": "2026-11-19T19:05:00+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -159,30 +132,6 @@
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "17f91e1d067e8b57866a300bdb537ea40e606a17022b2411f7fe56cc51f9a792",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5aab93c082ab2c5a56",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« L’impopularité des droits de douane imposés par Donald Trump révèle les limites de sa politique économique, fondée sur une illusion »",
-      "bullets": [
-        "L’économiste Antoine Bouët liste, dans une tribune au « Monde », les cinq promesses non tenues du protectionnisme mis en œuvre par le président américain et qui explique, dans une large mesure, la déroute du camp républicain aux midterms, le 3 novembre."
-      ],
-      "publishedAt": "2026-11-19T09:00:02+00:00",
-      "updatedAt": "2026-11-19T09:00:02+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/19/l-impopularite-des-droits-de-douane-revele-les-limites-de-la-politique-economique-de-donald-trump-fondee-sur-une-illusion_6813256_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
     },
     {
@@ -211,6 +160,62 @@
       "summaryInput": "5195265a1da9aaf217ca1eba5b8c48a939a3a97f6355ee3d93553fc82590ba3e",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9a7f40e9f6fb45135f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Ça me scandalise\" : les réactions des créateurs de contenus aux annonces de l'Arcom qui impose le pluralisme politique",
+      "bullets": [
+        "Alors que les premiers débats en vue de l'élection présidentielle 2027 ont déjà eu lieu, l'Arcom, le régulateur de l'audiovisuel et du numérique, a communiqué jeudi 19 novembre les règles mises en place pour assurer le pluralisme dans les médias dans les prochains mois.",
+        "Mais cette année, l'Arcom a aussi annoncé des mesures applicables à internet et ses créateurs de contenu.",
+        "J'ai sélectionné huit thématiques pour papoter avec toi\", annonce-t-il dans sa dernière vidéo."
+      ],
+      "publishedAt": "2026-11-20T07:30:25+00:00",
+      "updatedAt": "2026-11-20T07:30:25+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/elections/ca-me-scandalise-les-reactions-des-createurs-de-contenus-aux-annonces-de-l-arcom-qui-impose-le-pluralisme-politique_8291759.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "b4f500a34d2eb3c19dcbab4c133100335f9eb8aadfc2d999e4a379f129034ec1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T08:28:43.850538+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9e9b21b7db1a201712",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Plus de restrictions\" avec la réforme du crédit à la consommation, \"c'est la bonne direction\", estime une association de lutte contre le surendettement",
+      "bullets": [
+        "Pour mieux protéger les consommateurs, les paiements fractionnés et les découverts bancaires sont désormais considérés comme des crédits à la consommation.",
+        "\"Plus de restrictions et de contrôles\", souligne Fabrice Messoumian, \"c'est la bonne direction\".\"Un découvert bancaire\" par exemple \"peut avoir une utilité dans un cas particulier, mais trop l'utiliser, c'est dangereux car cela coûte cher\".",
+        "Quant aux mini-crédits, de moins de 200 euros, qui eux aussi sont désormais considérés comme des crédits à la consommation."
+      ],
+      "publishedAt": "2026-11-20T06:56:06+00:00",
+      "updatedAt": "2026-11-20T06:56:06+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/plus-de-restrictions-avec-la-reforme-du-credit-a-la-consommation-c-est-la-bonne-direction-estime-une-association-de-lutte-contre-le-surendettement_8291786.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "f1a55458f6df39fea1391fa797065c31b7c8f4e3a4a632fcd0eccc34a588c11f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T08:28:43.850538+00:00",
       "context": null
     },
     {
@@ -252,7 +257,7 @@
       ],
       "publishedAt": "2026-11-19T19:30:08+00:00",
       "updatedAt": "2026-11-19T19:30:08+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -276,7 +281,7 @@
       ],
       "publishedAt": "2026-11-19T18:44:45+00:00",
       "updatedAt": "2026-11-19T18:44:45+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -349,8 +354,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-20T06:03:26+00:00",
-      "updatedAt": "2026-11-20T06:03:26+00:00",
+      "publishedAt": "2026-11-20T08:24:35+00:00",
+      "updatedAt": "2026-11-20T08:24:35+00:00",
       "importance": 69,
       "sources": [
         {
@@ -365,6 +370,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
       "context": null
+    },
+    {
+      "id": "rss-761c37cc0fcaa2be88",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.75%",
+      "bullets": [
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-075-1174148.html"
+      ],
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "updatedAt": "2026-11-20T08:00:00+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-075-1174148.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f2b4e7aa5afbcbc11f48321074ebcb9fc7d4cf67d623b361ad904258c98b8a73",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-59eb319f76e025666b",
@@ -418,34 +447,6 @@
       "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "525660d0d9c5912a7b0e29bf4d974de34f658b3175dd8f200033d37a1f601725",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T06:21:32.400409+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-7ea07d971d272c64f6",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Anthropic s'envole de plus de 30% pour ses premiers pas à Wall Street, le CAC 40 cède encore du terrain",
-      "bullets": [
-        "Son indice phare, le CAC 40 recule de 0,81%, pour clôturer sous les 8.100 points, à 8.080,74 points.",
-        "Le Dow Jones Industrial Average perd 1%, le S&P 500 est à l'équilibre et le Nasdaq Composite gagne 0,5%.",
-        "Soitec tient bon Du côté des valeurs françaises, Soitec a bondi de 12%, après avoir livré une croissance trimestrielle supérieure aux attentes et communiqué des objectifs annuels."
-      ],
-      "publishedAt": "2026-11-19T16:46:35+00:00",
-      "updatedAt": "2026-11-19T16:46:35+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-anthropic-s-envole-de-plus-de-30-pour-ses-premiers-pas-a-wall-street-le-cac-40-cede-encore-du-terrain-1174126.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "127bb650131cd92b4ef203d0f82281a54ff3a7208504d8cba9b1383b00cee9a3",
       "detailLevel": "article",
       "enrichedAt": "2026-11-20T06:21:32.400409+00:00",
       "context": null
@@ -559,7 +560,7 @@
       "provenance": "article-extract",
       "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T20:16:40.748961+00:00",
+      "enrichedAt": "2026-11-20T08:28:43.850538+00:00",
       "context": null
     },
     {
@@ -647,6 +648,31 @@
       "context": null
     },
     {
+      "id": "rss-1995143693c2e62cab",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017",
+      "bullets": [
+        "La Cour internationale de justice a statué, jeudi, que les autorités birmanes avaient commis un génocide contre la minorité musulmane.",
+        "Elle a aussi ordonné que les réfugiés puissent être rapatriés en toute sécurité."
+      ],
+      "publishedAt": "2026-11-20T08:11:49+00:00",
+      "updatedAt": "2026-11-20T08:11:49+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ec5fb8a1fef1f2822c9581a9ee2937e50da06bc35e121692af85d244dd23e927",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-872e2eebe7e5f79464",
       "revision": 1,
       "category": "world",
@@ -704,15 +730,16 @@
     },
     {
       "id": "rss-7f531baea4720b2575",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine",
+      "title": "Guerre en Ukraine : à Berlin, les alliés de Kiev répondent aux provocations de Donald Trump et de Vladimir Poutine, réunis à Shenzhen",
       "bullets": [
-        "Les membres de la coalition des volontaires, réunis jeudi en Allemagne, se sont engagés à honorer l’intégralité de l’aide promise en 2026 et à maintenir ce soutien en 2027, quand le président russe a mis en scène, en Chine, l’« amitié » que lui porte le chef de la Maison…"
+        "Le chef du Kremlin a proposé de rencontrer les Européens à Moscou pour négocier le sort de l’Ukraine et de la future architecture de sécurité européenne.",
+        "L’Europe compte « bientôt » participer à des discussions avec Kiev, Moscou et Washington, a précisé le chancelier Friedrich Merz, qui cherche un «…"
       ],
-      "publishedAt": "2026-11-20T04:30:15+00:00",
-      "updatedAt": "2026-11-20T04:30:15+00:00",
+      "publishedAt": "2026-11-20T04:30:03+00:00",
+      "updatedAt": "2026-11-20T04:30:03+00:00",
       "importance": 79,
       "sources": [
         {
@@ -723,88 +750,8 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "81fd3b9eb88b1d32bbe97610a818006928e6e6f971fbe306345aef6ee6515459",
+      "summaryInput": "de212ce4028f47e3d28245c93794ef00309b523736392dc813fd7e1670bdeb4e",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2270b084c49d25d649",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie",
-      "bullets": [
-        "\"Les pays du monde entier sont confrontés au plus grand choc d'approvisionnement énergétique de l'histoire\", affirme l'Agence internationale de l'énergie (AIE) dans son rapport de référence, publié jeudi 19 novembre.",
-        "Dans son scénario médian, l'AIE prévoit que la demande mondiale de pétrole atteindra un pic \"autour de 2030\" avant un \"lent déclin\", tandis que la demande de gaz croîtrait jusqu'à environ 2035.",
-        "Et l'Europe pourrait être le moteur de ce déclin du pétrole, avec \"l'adoption croissante des véhicules électriques accélérant le remplacement des carburants pétroliers dans les transports routiers\", pointe le rapport."
-      ],
-      "publishedAt": "2026-11-19T16:16:55+00:00",
-      "updatedAt": "2026-11-19T16:16:55+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "61f63322d9b4afd114d9bf56a9676effa729383620c4101eaade313e01e8ea9e",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-8a849231d450c3a390",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Shenzhen, Xi Jinping et « l’ami » Vladimir Poutine ont endormi Donald Trump sous les fastes",
-      "bullets": [
-        "Les chefs d’Etat des trois grandes puissances ont profité du sommet en Chine pour entretenir une fausse proximité, qui ne dit rien de leurs désaccords sur des sujets comme l’intelligence artificielle ou les arsenaux nucléaires."
-      ],
-      "publishedAt": "2026-11-19T15:50:36+00:00",
-      "updatedAt": "2026-11-19T15:50:36+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-xi-jinping-et-l-ami-vladimir-ont-endormi-donald-trump-sous-les-fastes_6813336_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d624c30da7cf50143c46677ced9f6642584e6b51165556b9200a3e13ee31e0b8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3a56b9aff3f6edbc15",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Valise nucléaire : quand la Russie la met en scène",
-      "bullets": [
-        "La valise nucléaire russe exhibée à Shenzhen, en Chine.",
-        "La députée RN Laure Lavalette accusée d'avoir cautionné des écrits antisémites dans les années 1990",
-        "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?"
-      ],
-      "publishedAt": "2026-11-19T12:17:43+00:00",
-      "updatedAt": "2026-11-19T12:17:43+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-20",
-      "provenance": "article-extract",
-      "summaryInput": "68bd9569dac1c48bb3df8b3fde09cc47dfbc7b1506279bcad34db83e5598d5cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
-      "context": null
     },
     {
       "id": "rss-3f9b86458291dd9d3a",
@@ -816,8 +763,8 @@
         "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche.",
         "S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature du rapprochement qu’il envisage."
       ],
-      "publishedAt": "2026-11-20T05:00:30+00:00",
-      "updatedAt": "2026-11-20T05:00:30+00:00",
+      "publishedAt": "2026-11-20T05:00:18+00:00",
+      "updatedAt": "2026-11-20T05:00:18+00:00",
       "importance": 77,
       "sources": [
         {
@@ -889,10 +836,10 @@
     },
     {
       "id": "rss-5cd07cd175ac277164",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+      "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
       "bullets": [
         "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants »."
       ],
@@ -908,7 +855,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "98a3f341de03759211d4b7bde71c5b7b4e0fc4a53dbbe43646ccdeebbfdf8d81",
+      "summaryInput": "03ab89802ecfeb400eca38d42a98d50e17eafa5c3aabe43c2f0fba5b6bac07c7",
       "detailLevel": "preview"
     },
     {
@@ -923,7 +870,7 @@
       ],
       "publishedAt": "2026-11-18T19:10:00+00:00",
       "updatedAt": "2026-11-18T19:10:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -937,11 +884,64 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-956586383984950151",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Introvertie, discrète, richissime : qui est Tatiana Kim, la « Jeff Bezos » russe sanctionnée par l’Union européenne ?",
+      "bullets": [
+        "PORTRAIT - La fondatrice de Wildberries, femme la plus riche de Russie, figure sur la nouvelle liste de sanctions européennes.",
+        "Bruxelles l’accuse d’avoir mis son empire du e-commerce au service de l’effort de guerre du Kremlin."
+      ],
+      "publishedAt": "2026-11-18T09:52:21+00:00",
+      "updatedAt": "2026-11-18T09:52:21+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/introvertie-discrete-richissime-qui-est-tatiana-kim-la-jeff-bezos-russe-sanctionnee-par-l-union-europeenne-20261118",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c7f3c30fc07bee9e4b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+      "bullets": [
+        "Les frappes russes survenues vendredi 20 novembre sur l'Ukraine ont fait trois morts dans la capitale, a annoncé l'administration militaire de ville.",
+        "A la suite de l'attaque [aux missiles] balistique[s] contre la capitale, le pont Podilsko-Voskresensky a été endommagé.",
+        "Le président russe, Vladimir Poutine, avait averti jeudi que la Russie répliquerait aux frappes ukrainiennes contre le pont de Crimée mercredi."
+      ],
+      "publishedAt": "2026-11-20T06:11:38+00:00",
+      "updatedAt": "2026-11-20T06:11:38+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "article-extract",
+      "summaryInput": "ad23e0e6d0ebe476fcfef0ed8b92f614935f8c2b640b47841c0a9f8034c631be",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-20T08:28:43.850538+00:00",
+      "context": null
+    },
+    {
       "id": "rss-bfc731845b7e72a475",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : le Parti socialiste stoppe les discussions avec Les Ecologistes après le rapprochement de Tondelier avec Mélenchon",
+      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
       "bullets": [
         "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de sa formation politique.",
         "Yannick Jadot et d’autres annoncent quitter Les Ecologistes."
@@ -958,20 +958,20 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "0a6c96c2077a6af33add85695bf6794e6ee05c4a020f88baa8249d9c73d26f0e",
+      "summaryInput": "0b5aff8f2c6d56f95ad49aa64c501bd73668381aacb63cb4401821000253c35c",
       "detailLevel": "preview"
     },
     {
       "id": "rss-fde8fb5f1adcb272fd",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Les députés votent une « petite avancée » contre la vie chère en outre-mer",
+      "title": "Vie chère en outre-mer : l’Assemblée nationale vote une « petite avancée »",
       "bullets": [
         "La proposition de loi portée par le sénateur Victorin Lurel et le député Christian Baptiste a été adoptée à l’unanimité à l’Assemblée nationale jeudi, en attendant le grand texte promis par le gouvernement."
       ],
-      "publishedAt": "2026-11-20T00:08:13+00:00",
-      "updatedAt": "2026-11-20T00:08:13+00:00",
+      "publishedAt": "2026-11-20T00:08:12+00:00",
+      "updatedAt": "2026-11-20T00:08:12+00:00",
       "importance": 77,
       "sources": [
         {
@@ -982,7 +982,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "64144c6ce7e344bb0cdd19986ddaf42510c9fce1103acf77f6e8cbb2c9fce860",
+      "summaryInput": "425a650b02958241b1bac624148df537b718d11721e91e2e070441e9d38ee8a2",
       "detailLevel": "preview"
     },
     {
@@ -1063,16 +1063,16 @@
     },
     {
       "id": "rss-0c1febf9f3c9edbcab",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
       "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
       "bullets": [
-        "RÉCIT - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
+        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
         "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-20T06:00:00+00:00",
-      "updatedAt": "2026-11-20T06:00:00+00:00",
+      "publishedAt": "2026-11-20T06:15:20+00:00",
+      "updatedAt": "2026-11-20T06:15:20+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1083,7 +1083,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "72083f826e4b102e8b8b6d532627c26ec131254e8eaaa7f0594d7f6909af63c8",
+      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
       "detailLevel": "preview"
     },
     {
@@ -1136,12 +1136,12 @@
     },
     {
       "id": "rss-84b2ca6096e86fa6a2",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
       "bullets": [
-        "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, Outre-mer et territoires."
+        "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, outre-mer et territoires."
       ],
       "publishedAt": "2026-11-19T20:35:44+00:00",
       "updatedAt": "2026-11-19T20:35:44+00:00",
@@ -1155,7 +1155,7 @@
       ],
       "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "51fcbfebb9d6580e16006c61ffcd409ea7e952460a582f51aa0d2098a46ae8f5",
+      "summaryInput": "82a8dd9bd1c01448268dfc50e2c1d6d651be92c598468772c829e6273d4a8318",
       "detailLevel": "preview"
     },
     {
@@ -1170,7 +1170,7 @@
       ],
       "publishedAt": "2026-11-19T19:03:14+00:00",
       "updatedAt": "2026-11-19T19:03:14+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1347,7 +1347,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 5
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1371,13 +1371,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
