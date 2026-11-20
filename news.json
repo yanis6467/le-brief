@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-20",
-  "preparedAt": "2026-11-19T23:55:16.895627+00:00",
+  "preparedAt": "2026-11-20T01:23:36.744467+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -27,7 +27,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "8e2d1b1350c655f102a6f3490641b9e8a7e8b70630f4c720404af6484df6c5a3",
       "detailLevel": "article",
@@ -53,7 +53,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "b67f15bfb6b9ad93ef1fd11265d2a8fabecee5ff4e02ec8900f50f24184a06ab",
       "detailLevel": "preview"
@@ -79,37 +79,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "ff31f16faf8d17f7029915cfa0138e9508f2db5edd700860da565a6325d81eb2",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T15:11:26.459214+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8dbbedf090bcff20f1",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-      "bullets": [
-        "L’Agence internationale de l’énergie devait publier son rapport annuel, jeudi 19 novembre.",
-        "Le directeur exécutif de l’organisation souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le développement des renouvelables, du nucléaire et de l’électrification."
-      ],
-      "publishedAt": "2026-11-19T05:00:28+00:00",
-      "updatedAt": "2026-11-19T05:00:28+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "93f9467c4361bde437c44a4612c8da9b0340f29e408ee5b89d872d80570269d4",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-89540c8459cdcea67b",
@@ -131,7 +106,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "9e68ff993e52f524d0a0707a9c676bc3b8c2794d239ce119c13a8d13206c7742",
       "detailLevel": "article",
@@ -158,7 +133,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "e45fed8c6b5bbfd7d777436f4b1cbbfbca93108df275583bb62ae8217feb41a0",
       "detailLevel": "article",
@@ -184,7 +159,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "0bb20dc663f00eaf07f02cf82b23e62ae4f253b41b67256cd52953d1c2fc3819",
       "detailLevel": "preview"
@@ -208,7 +183,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "588e7d5fb97b95866b2193b3fa667611d06fcb356b157f2e86172ab5a04cf5d0",
       "detailLevel": "preview"
@@ -232,7 +207,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "17f91e1d067e8b57866a300bdb537ea40e606a17022b2411f7fe56cc51f9a792",
       "detailLevel": "preview"
@@ -256,7 +231,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "5039f2a8e77710f3fffad89fdbf4d1e080539a58c999acbc5ca474f2daa7a6a7",
       "detailLevel": "preview"
@@ -282,7 +257,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "5195265a1da9aaf217ca1eba5b8c48a939a3a97f6355ee3d93553fc82590ba3e",
       "detailLevel": "article",
@@ -310,12 +285,36 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "c8f581ad29876cceb6a2b7908c34bac11659834e45f19770b3028729f065e213",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
       "context": null
+    },
+    {
+      "id": "rss-6ffc4801f1189fe05f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+      "bullets": [
+        "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les radios, se soumettre à des règles de temps de parole et de déontologie."
+      ],
+      "publishedAt": "2026-11-19T19:30:08+00:00",
+      "updatedAt": "2026-11-19T19:30:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-0992278c57eb1393e6",
@@ -337,7 +336,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "0d002a7df09cce0fa8e9e8544c69838a771ee7a22ee9c5780febb6bf022198e6",
       "detailLevel": "preview"
@@ -353,8 +352,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-19T23:55:06+00:00",
-      "updatedAt": "2026-11-19T23:55:06+00:00",
+      "publishedAt": "2026-11-20T01:20:06+00:00",
+      "updatedAt": "2026-11-20T01:20:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -363,7 +362,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -391,7 +390,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "11ba04b923d692f85b2dc029c961a2d9c3a5c80c114137e80294838e5e07e40e",
       "detailLevel": "article",
@@ -419,7 +418,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "525660d0d9c5912a7b0e29bf4d974de34f658b3175dd8f200033d37a1f601725",
       "detailLevel": "article",
@@ -447,7 +446,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "127bb650131cd92b4ef203d0f82281a54ff3a7208504d8cba9b1383b00cee9a3",
       "detailLevel": "article",
@@ -475,11 +474,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "763c9db752c69eeec6338667ca2b984f58861f1ded96797d1f8a427148a9923b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-19T12:10:52.176937+00:00",
+      "enrichedAt": "2026-11-20T01:23:36.744467+00:00",
       "context": null
     },
     {
@@ -503,7 +502,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "c9057019682d45ea9e56188754216c8b633094ad24e72a50891df96fa8adbd76",
       "detailLevel": "article",
@@ -531,7 +530,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
       "detailLevel": "article",
@@ -559,7 +558,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "dfe5837026cb84c4c658c4c4c485d9e372276e63fefa51dbba125ae56d5c0fcc",
       "detailLevel": "article",
@@ -587,7 +586,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "1ae97dc5e34c8763187283328000fa9a4c2f63c38dbca6aab5a8c92544e17b57",
       "detailLevel": "article",
@@ -615,7 +614,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "d1bf063c4241e3b5b24548564fb37e6dcd7f01c2c962feb0e5699884350c6cc6",
       "detailLevel": "article",
@@ -642,7 +641,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "004c091dc7b0047b6bf739cd2f6ad11dd4878d0b59d253a419c44e08b90d2d47",
       "detailLevel": "preview"
@@ -666,7 +665,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "894e4ae83849b14f7846d7497a5bb38f048ffd7aa0fb6dd166429cbe35134058",
       "detailLevel": "preview"
@@ -692,7 +691,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "8541f38ddcca99245d10211731a62145b66ff329ddb3c4306b3b7da8ab467ec1",
       "detailLevel": "article",
@@ -720,7 +719,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "64b14288ad3136907f01bf196c1ebdb26341da3223498d971419e03f5e60b832",
       "detailLevel": "article",
@@ -748,7 +747,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "61f63322d9b4afd114d9bf56a9676effa729383620c4101eaade313e01e8ea9e",
       "detailLevel": "article",
@@ -774,7 +773,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "d624c30da7cf50143c46677ced9f6642584e6b51165556b9200a3e13ee31e0b8",
       "detailLevel": "preview"
@@ -800,7 +799,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "eaa365e39cae8a657eaada98340e74e78ac38210de9c32d8d35eb8682233ab37",
       "detailLevel": "article",
@@ -828,7 +827,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "21b4241ab213e80d384de36decbfdd729a5be2dee24edeb636fa6be9716c5a72",
       "detailLevel": "article",
@@ -848,7 +847,7 @@
       ],
       "publishedAt": "2026-11-19T12:17:43+00:00",
       "updatedAt": "2026-11-19T12:17:43+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -856,12 +855,36 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "68bd9569dac1c48bb3df8b3fde09cc47dfbc7b1506279bcad34db83e5598d5cf",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
       "context": null
+    },
+    {
+      "id": "rss-5cd07cd175ac277164",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+      "bullets": [
+        "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants »."
+      ],
+      "publishedAt": "2026-11-20T00:03:49+00:00",
+      "updatedAt": "2026-11-20T00:03:49+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "98a3f341de03759211d4b7bde71c5b7b4e0fc4a53dbbe43646ccdeebbfdf8d81",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ae37a943cf8c0ccd27",
@@ -883,7 +906,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "360671d37377052f7ddd4f2cde291fb73f49161fde7bd3f49574751c0b834c51",
       "detailLevel": "preview"
@@ -908,33 +931,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "b3c17bdc5d9331e90d11e0914dad2381882eaf8fa798c07244ad0a2316124ce8",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6cf20b7a8e410d5c9f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Italie, plus de 2 400 écoles ont été évacuées le 11 novembre après de fausses alertes à la bombe",
-      "bullets": [
-        "Face à la multiplication des fausses alertes à la bombe, le gouvernement italien dénonce des « actions dont le seul objectif est la déstabilisation » et tient à rassurer familles et enseignants."
-      ],
-      "publishedAt": "2026-11-19T15:14:50+00:00",
-      "updatedAt": "2026-11-19T15:14:50+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/en-italie-plus-de-2-400-ecoles-ont-ete-evacuees-le-11-novembre-apres-de-fausses-alertes-a-la-bombe_6813331_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f1d53311eed9fc576c96bc709447dca414f0fcea7fd39c61acc13c02b06251b7",
       "detailLevel": "preview"
     },
     {
@@ -956,34 +955,33 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "51fcbfebb9d6580e16006c61ffcd409ea7e952460a582f51aa0d2098a46ae8f5",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4103ae04f2fa4a9524",
+      "id": "rss-fde8fb5f1adcb272fd",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
+      "title": "Les députés votent une « petite avancée » contre la vie chère en outre-mer",
       "bullets": [
-        "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable.",
-        "La mesure est proposée par certains candidats à la présidentielle comme un nouveau droit social."
+        "La proposition de loi portée par le sénateur Victorin Lurel et le député Christian Baptiste a été adoptée à l’unanimité à l’Assemblée nationale jeudi, en attendant le grand texte promis par le gouvernement."
       ],
-      "publishedAt": "2026-11-19T13:00:02+00:00",
-      "updatedAt": "2026-11-19T13:00:02+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-20T00:08:13+00:00",
+      "updatedAt": "2026-11-20T00:08:13+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html",
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "94508e6d44468027400c689d770c86d2263ce53f2d6d00146be41175bb2c8587",
+      "summaryInput": "64144c6ce7e344bb0cdd19986ddaf42510c9fce1103acf77f6e8cbb2c9fce860",
       "detailLevel": "preview"
     },
     {
@@ -1005,7 +1003,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "0e68f3d2dc0555c2998653a755671b983632af6bdf74cc9101cd1296808fd83e",
       "detailLevel": "preview"
@@ -1031,7 +1029,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
       "detailLevel": "article",
@@ -1057,7 +1055,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "0a3581d20eb79226b61ea114e8d73895e3ccf676daa09b08b971bdac40ddb59a",
       "detailLevel": "preview"
@@ -1082,7 +1080,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "198b3f8eb7cb70cfb3a6e3a81b477fed3262c66773215ba5e4a3dcd97a023692",
       "detailLevel": "article",
@@ -1108,7 +1106,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "b3f0bf7afc321f56eda4043675470b062b5e05849b133bc0122014cb3112e287",
       "detailLevel": "preview"
@@ -1133,7 +1131,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "96759790b1c3e22623bce5ff2c046fd57c5c9262ab16c86b84f7a8a3830dc604",
       "detailLevel": "preview"
@@ -1158,7 +1156,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "fa583d6e4a729a65af92b22aa41d968cccbae161a518f9120bf2409ff60137e4",
       "detailLevel": "preview"
@@ -1182,7 +1180,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "fc9f39373884a6c5ca84fbda3530e295d7a8299bc6f292f5434f5dfc35bc7b30",
       "detailLevel": "preview"
@@ -1206,7 +1204,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "87c8da6b3aae810c04e2d358d7965e73390550c007ad4ed6f4577a1ac04444ec",
       "detailLevel": "preview"
@@ -1231,34 +1229,34 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bc32c97dfcadd296a1",
+      "id": "rss-1ee54a116fa44616f9",
       "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "Victoria Ivleva, la photographe russe qui regarde la guerre du côté ukrainien",
+      "topic": "Société",
+      "title": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
       "bullets": [
-        "Dès l’invasion de février 2022, cette photojournaliste réputée a quitté Moscou pour Kiev.",
-        "Militante inlassable des droits humains, elle expose à Paris, jusqu’au 30 novembre, les images des destructions et des souffrances causées par son pays en Ukraine."
+        "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits.",
+        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national…"
       ],
-      "publishedAt": "2026-11-19T13:00:04+00:00",
-      "updatedAt": "2026-11-19T13:00:04+00:00",
+      "publishedAt": "2026-11-19T14:31:38+00:00",
+      "updatedAt": "2026-11-19T14:31:38+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/victoria-ivleva-la-photographe-russe-qui-regarde-la-guerre-du-cote-ukrainien_6813301_4500055.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
-      "summaryInput": "348c387c1377733d39fed8910884d649023c1e3ecdbd9dad273faa1b56e647a0",
+      "summaryInput": "bfd622be0b668e9ad25aa91ede3d4a6e3c1d4c52d93b216ccba2cc74f103b759",
       "detailLevel": "preview"
     },
     {
@@ -1282,12 +1280,37 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "article-extract",
       "summaryInput": "d52fde6e65f6cb451c831b059d0308ec378eb5c2c9632ce96b2da48a7f1ff3c7",
       "detailLevel": "article",
       "enrichedAt": "2026-11-19T22:01:53.645594+00:00",
       "context": null
+    },
+    {
+      "id": "rss-bc32c97dfcadd296a1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Victoria Ivleva, la photographe russe qui regarde la guerre du côté ukrainien",
+      "bullets": [
+        "Dès l’invasion de février 2022, cette photojournaliste réputée a quitté Moscou pour Kiev.",
+        "Militante inlassable des droits humains, elle expose à Paris, jusqu’au 30 novembre, les images des destructions et des souffrances causées par son pays en Ukraine."
+      ],
+      "publishedAt": "2026-11-19T13:00:04+00:00",
+      "updatedAt": "2026-11-19T13:00:04+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/victoria-ivleva-la-photographe-russe-qui-regarde-la-guerre-du-cote-ukrainien_6813301_4500055.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-20",
+      "provenance": "rss-excerpt",
+      "summaryInput": "348c387c1377733d39fed8910884d649023c1e3ecdbd9dad273faa1b56e647a0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ea780f8e9272024de6",
@@ -1309,33 +1332,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "provenance": "rss-excerpt",
       "summaryInput": "17f306bacb83efcfca3cc1509726fc9bc0508f602df6bc218d5966efdb0b2fa9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b3f5af890055cb361b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Emploi et handicap : le gouvernement souhaite supprimer les restrictions d’accès à 36 métiers",
-      "bullets": [
-        "Les représentants du secteur du handicap dénoncent une mesure discriminatoire et obsolète. Mais les employeurs la défendent au nom de la sécurité et des coûts d’adaptation des postes. Ils y trouvent aussi un avantage financier."
-      ],
-      "publishedAt": "2026-11-19T08:30:09+00:00",
-      "updatedAt": "2026-11-19T08:30:09+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/19/emploi-et-handicap-le-gouvernement-souhaite-supprimer-les-restrictions-d-acces-a-36-metiers_6813253_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-19",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7526ac8b70c0747dc9a6c1eaf2c47b6f2a1c117f83068a9aa6c3a1345dc8639c",
       "detailLevel": "preview"
     }
   ],
