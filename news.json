@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T20:53:39.978620+00:00",
+  "preparedAt": "2026-11-21T21:53:15.100796+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,30 +35,6 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-      "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
-      ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-96839bdd5dbe524d59",
       "revision": 1,
       "category": "eco",
@@ -71,7 +47,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:06+00:00",
       "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -215,31 +191,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-680a3d5ed6f8caf04f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
-      "bullets": [
-        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
-        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
-      ],
-      "publishedAt": "2026-11-21T06:00:05+00:00",
-      "updatedAt": "2026-11-21T06:00:05+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -317,6 +268,59 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
       "context": null
+    },
+    {
+      "id": "rss-efa408ba8e5ee2076f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
+      "bullets": [
+        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
+        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
+        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
+      ],
+      "publishedAt": "2026-11-20T17:14:56+00:00",
+      "updatedAt": "2026-11-20T17:14:56+00:00",
+      "importance": 57,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T21:53:15.100796+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1b955b0ea0f2f2ac0f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
+      "bullets": [
+        "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables.",
+        "Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés."
+      ],
+      "publishedAt": "2026-11-20T17:00:12+00:00",
+      "updatedAt": "2026-11-20T17:00:12+00:00",
+      "importance": 57,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "746d2452c8b7699782aa95c8603e27462be168b7f464854fb36c4eb5ddfde065",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -438,8 +442,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T20:51:06+00:00",
-      "updatedAt": "2026-11-21T20:51:06+00:00",
+      "publishedAt": "2026-11-21T21:48:50+00:00",
+      "updatedAt": "2026-11-21T21:48:50+00:00",
       "importance": 69,
       "sources": [
         {
@@ -548,7 +552,7 @@
       ],
       "publishedAt": "2026-11-19T21:06:06+00:00",
       "updatedAt": "2026-11-19T21:06:06+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -752,6 +756,30 @@
       "context": null
     },
     {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5ef485212381e5fafa",
       "revision": 1,
       "category": "world",
@@ -906,54 +934,32 @@
       "context": null
     },
     {
-      "id": "rss-94fa5f97bf0fa86b85",
+      "id": "rss-e51ceaab8c4e67af57",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+      "title": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement",
       "bullets": [
-        "M.",
-        "Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant."
+        "24 heures plus tard, à Portsmouth (Royaume-Uni), des militants du même mouvement cherchent à empêcher l'évacuation de migrants, et vont cette fois au contact des forces de l'ordre.",
+        "Un influenceur anti-migrants condamné à 15 mois de prisonDes militants inoffensifs ?",
+        "Pour ces actes à l'encontre du sauveteur français, l'influenceur a été arrêté, mis en examen et condamné à 15 mois de prison."
       ],
-      "publishedAt": "2026-11-21T20:00:09+00:00",
-      "updatedAt": "2026-11-21T20:00:09+00:00",
+      "publishedAt": "2026-11-21T21:47:57+00:00",
+      "updatedAt": "2026-11-21T21:47:57+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eb13843839cc222c44c45c43484900e2afef8ada13ff9bed4493f7ce26b20485",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1caad4c61d78d5e747",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
-      "bullets": [
-        "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes.",
-        "Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne."
-      ],
-      "publishedAt": "2026-11-21T13:00:09+00:00",
-      "updatedAt": "2026-11-21T13:00:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30529a2156695beffa892fe877cb596a385a28a13250ce2fe3559a64d37ac3b6",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "1685ae1f4036dc212ff556e6fa9dff1e6e7f67a4e2c6c9f3a67b38a69ef0587b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T21:53:15.100796+00:00",
+      "context": null
     },
     {
       "id": "rss-b31b9c845e91e09d1c",
@@ -1269,7 +1275,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:27+00:00",
       "updatedAt": "2026-11-21T09:00:27+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1294,7 +1300,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:00+00:00",
       "updatedAt": "2026-11-21T09:00:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
