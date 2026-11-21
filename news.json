@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T14:11:57.777466+00:00",
+  "preparedAt": "2026-11-21T15:00:24.368575+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,6 +33,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T13:11:55.752268+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d9ddb1529092302e60",
@@ -241,6 +265,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-680a3d5ed6f8caf04f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "bullets": [
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+      ],
+      "publishedAt": "2026-11-21T06:00:05+00:00",
+      "updatedAt": "2026-11-21T06:00:05+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -263,61 +312,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a8ad8dfa84f14c5d4f6ac6b4701ce1f4813064f5ced022b74f5be02f90d6889e",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-89a46bef18f4dfd108",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures",
-      "bullets": [
-        "Ce chiffre représente près de cinq fois les quelque 800 millions de dollars que son prédécesseur, «Grand Theft Auto 5», avait générés au cours de ses premières 24 heures en 2013, une performance considérée jusqu’ici comme un sommet historique.",
-        "GTA 5 s’est écoulé à 235 millions d’exemplaires à ce jour selon Rockstar Games et a généré environ 10,8 milliards de dollars de chiffre d’affaires depuis sa sortie, selon le cabinet MoffettNathanson.",
-        "Son coût de développement est estimé entre 1 et 1,5 milliard de dollars, un montant jamais vu."
-      ],
-      "publishedAt": "2026-11-21T00:50:48+00:00",
-      "updatedAt": "2026-11-21T00:50:48+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "aade5b40dd5eebd0b963490d56f5d60125f740748c7d747948d4d933e307b0ba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T13:11:55.752268+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9d860ed5876c3d19d8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«J’adorerais le voir revenir» : Donald Trump incite Nvidia à donner une deuxième chance à son ex-patron, Jensen Huang",
-      "bullets": [
-        "Donald Trump a appelé vendredi Nvidia à donner une «deuxième chance» à Jensen Huang, l’ex-patron du géant américain de la tech qui a démissionné dans le cadre d’un scandale mêlant adultère, possible espionnage d’une maîtresse au profit de Pékin et contrebande de puces dernier cri vers la Chine.",
-        "Nous sommes un pays où l’on accorde une deuxième chance, et j’adorerais pouvoir le revoir», a déclaré le président américain, interrogé à ce sujet lors d’une conférence de presse."
-      ],
-      "publishedAt": "2026-11-20T18:50:55+00:00",
-      "updatedAt": "2026-11-20T18:50:55+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/j-adorerais-le-voir-revenir-donald-trump-incite-nvidia-a-donner-une-deuxieme-chance-a-son-ex-patron-jensen-huang-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "8d3a84f36dc441d0f41b7189c79a39b4239a5340d4e97391f2a68f90bc949276",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T14:11:57.777466+00:00",
-      "context": null
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -346,6 +340,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
       "context": null
+    },
+    {
+      "id": "rss-3b48a79efbbacf6073",
+      "revision": 2,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "bullets": [
+        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
+        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
+      ],
+      "publishedAt": "2026-11-21T00:33:30+00:00",
+      "updatedAt": "2026-11-21T00:33:30+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-428f958e6d945a5369",
@@ -386,9 +405,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T14:11:58+00:00",
-      "updatedAt": "2026-11-21T14:11:58+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-21T15:00:07+00:00",
+      "updatedAt": "2026-11-21T15:00:07+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -468,7 +487,7 @@
       ],
       "publishedAt": "2026-11-20T14:40:18+00:00",
       "updatedAt": "2026-11-20T14:40:18+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -564,7 +583,7 @@
       "provenance": "article-extract",
       "summaryInput": "763c9db752c69eeec6338667ca2b984f58861f1ded96797d1f8a427148a9923b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T02:58:36.873268+00:00",
+      "enrichedAt": "2026-11-21T15:00:24.368575+00:00",
       "context": null
     },
     {
@@ -608,7 +627,7 @@
       ],
       "publishedAt": "2026-11-20T14:44:32+00:00",
       "updatedAt": "2026-11-20T14:44:32+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -621,34 +640,6 @@
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T05:07:46.827880+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-49bf54c9b1b5a5c443",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
-      "bullets": [
-        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
-        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
-        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
-      ],
-      "publishedAt": "2026-11-19T09:30:00+00:00",
-      "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 55,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T13:11:55.752268+00:00",
       "context": null
     },
     {
@@ -753,30 +744,6 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-      "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
-      ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-33a2ec86051616cbcd",
       "revision": 1,
       "category": "world",
@@ -827,31 +794,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
-    },
-    {
-      "id": "rss-3b48a79efbbacf6073",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-      "bullets": [
-        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
-        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
-      ],
-      "publishedAt": "2026-11-21T00:33:30+00:00",
-      "updatedAt": "2026-11-21T00:33:30+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-cf36f7236cc41b8bb8",
@@ -960,6 +902,59 @@
       "summaryInput": "c0415eaff42e7a025d4b8644091a3714d57d279bcd8e1e9878480b11a2113a34",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T09:59:06.416588+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1caad4c61d78d5e747",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
+      "bullets": [
+        "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes.",
+        "Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne."
+      ],
+      "publishedAt": "2026-11-21T13:00:09+00:00",
+      "updatedAt": "2026-11-21T13:00:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "30529a2156695beffa892fe877cb596a385a28a13250ce2fe3559a64d37ac3b6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-80db3329496c60a3e0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+      "bullets": [
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
+      ],
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T15:00:24.368575+00:00",
       "context": null
     },
     {
@@ -1088,32 +1083,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bc5af3714f9fa0048d",
-      "revision": 2,
+      "id": "rss-0c1febf9f3c9edbcab",
+      "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"Veux-tu m'épouser ?\" : un député fait sa demande au Parlement",
+      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
       "bullets": [
-        "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
+        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
+        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-20T17:59:52+00:00",
-      "updatedAt": "2026-11-20T17:59:52+00:00",
+      "publishedAt": "2026-11-20T15:45:16+00:00",
+      "updatedAt": "2026-11-20T15:45:16+00:00",
       "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/veux-tu-m-epouser-un-depute-fait-sa-demande-au-parlement_8292812.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "9731d892a21db14cb5baffff602754988265d75169e9a250263eff585191db33",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T07:25:12.050955+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4e1410d82832836ae7",
