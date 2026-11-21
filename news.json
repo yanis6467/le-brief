@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T17:54:03.287150+00:00",
+  "preparedAt": "2026-11-21T19:00:30.297994+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,6 +33,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T13:11:55.752268+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-96839bdd5dbe524d59",
@@ -73,7 +97,7 @@
       ],
       "publishedAt": "2026-11-21T07:00:00+00:00",
       "updatedAt": "2026-11-21T07:00:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -99,7 +123,7 @@
       ],
       "publishedAt": "2026-11-21T06:46:51+00:00",
       "updatedAt": "2026-11-21T06:46:51+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -191,6 +215,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-680a3d5ed6f8caf04f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "bullets": [
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+      ],
+      "publishedAt": "2026-11-21T06:00:05+00:00",
+      "updatedAt": "2026-11-21T06:00:05+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -254,7 +303,7 @@
       ],
       "publishedAt": "2026-11-20T18:50:55+00:00",
       "updatedAt": "2026-11-20T18:50:55+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -270,59 +319,6 @@
       "context": null
     },
     {
-      "id": "rss-efa408ba8e5ee2076f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
-      "bullets": [
-        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
-        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
-        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
-      ],
-      "publishedAt": "2026-11-20T17:14:56+00:00",
-      "updatedAt": "2026-11-20T17:14:56+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1b955b0ea0f2f2ac0f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
-      "bullets": [
-        "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables.",
-        "Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés."
-      ],
-      "publishedAt": "2026-11-20T17:00:12+00:00",
-      "updatedAt": "2026-11-20T17:00:12+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "746d2452c8b7699782aa95c8603e27462be168b7f464854fb36c4eb5ddfde065",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -335,7 +331,7 @@
       ],
       "publishedAt": "2026-11-21T06:00:00+00:00",
       "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -348,6 +344,34 @@
       "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b414a4c5921dc93866",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "bullets": [
+        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
+        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
+        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
+      ],
+      "publishedAt": "2026-11-21T11:44:42+00:00",
+      "updatedAt": "2026-11-21T11:44:42+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
     },
     {
@@ -414,9 +438,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T17:51:56+00:00",
-      "updatedAt": "2026-11-21T17:51:56+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-21T19:00:32+00:00",
+      "updatedAt": "2026-11-21T19:00:32+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -624,31 +648,31 @@
       "context": null
     },
     {
-      "id": "rss-606e9b5aec5f598bf1",
+      "id": "rss-9243bc2b8cec9d3cf5",
       "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "SANOFI : La biotech américaine Insmed, un morceau de choix pour Sanofi, même si elle coûte plus de 30 milliards de dollars?",
+      "category": "world",
+      "topic": "International",
+      "title": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
       "bullets": [
-        "Sur les neufs premiers mois de 2026, ce médicament a vu ses revenus grimper de 34,5% à 15 milliards d'euros et a assuré le gros de la croissance de la société sur la période.",
-        "Ce \"patent cliff\" retranchera 17,3 milliards d'euros de revenus entre 2030 et 2035, selon les projections de JPMorgan.",
-        "Le chiffre d'affaires combiné atteindrait 62 milliards en 2029 et le poids de Dupixent au même horizon reculerait de trois points de pourcentage à 38%, calcule encore le courtier."
+        "L'athlète de 56 ans a annoncé, samedi 21 novembre, avoir nagé dans le détroit d'Ormuz, au cœur du conflit entre l'Iran et les Etats-Unis.\"La guerre provoque d'immenses souffrances humaines.",
+        "Dans ce texte, Lewis Pugh fait le récit de cette initiative périlleuse qui s'est déroulée le 17 novembre.",
+        "A peine 30 minutes après le début de ma traversée à la nage, un pétrolier a été touché à quelques kilomètres de là."
       ],
-      "publishedAt": "2026-11-20T14:44:32+00:00",
-      "updatedAt": "2026-11-20T14:44:32+00:00",
-      "importance": 57,
+      "publishedAt": "2026-11-21T18:05:06+00:00",
+      "updatedAt": "2026-11-21T18:05:06+00:00",
+      "importance": 87,
       "sources": [
         {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-la-biotech-americaine-insmed-un-morceau-de-choix-pour-sanofi-meme-si-elle-coute-plus-de-30-milliards-de-dollars-1174190.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "article-extract",
-      "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
+      "summaryInput": "e0ea54606efa1b2a5bd2c564035ee43e969619fff42e08d848cced72e5f8980b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "enrichedAt": "2026-11-21T19:00:30.297994+00:00",
       "context": null
     },
     {
@@ -673,55 +697,6 @@
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
       "summaryInput": "2609609b22e06f34117b08b2a179c5ad2a15d77b7e40dc6023014b739a442894",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5ef485212381e5fafa",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux États-Unis, la discrète éviction du commandement d’un sous-marin nucléaire après une collision en mer",
-      "bullets": [
-        "RÉCIT - L’USS South Dakota, un sous-marin très moderne de la classe Virginia, aurait percuté un fond marin.",
-        "Un accident rare, mal géré par les officiers du bâtiment."
-      ],
-      "publishedAt": "2026-11-20T18:25:00+00:00",
-      "updatedAt": "2026-11-20T18:25:00+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-la-discrete-eviction-du-commandement-d-un-sous-marin-nucleaire-apres-une-collision-en-mer-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4ede6eed1e21bd99d7e6d78a6214c6132262b97fa90295fff865133eec849a33",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6f63e186ae0cf36350",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
-      "bullets": [
-        "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades européennes ont également été touchées."
-      ],
-      "publishedAt": "2026-11-20T17:55:11+00:00",
-      "updatedAt": "2026-11-20T17:55:11+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "650cd69550ef854a239277adcb489ff66c6cf985e8341db9f8b022eae4d368e4",
       "detailLevel": "preview"
     },
     {
@@ -753,56 +728,53 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
+      "id": "rss-5ef485212381e5fafa",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "title": "Aux États-Unis, la discrète éviction du commandement d’un sous-marin nucléaire après une collision en mer",
       "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+        "RÉCIT - L’USS South Dakota, un sous-marin très moderne de la classe Virginia, aurait percuté un fond marin.",
+        "Un accident rare, mal géré par les officiers du bâtiment."
       ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "publishedAt": "2026-11-20T18:25:00+00:00",
+      "updatedAt": "2026-11-20T18:25:00+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-la-discrete-eviction-du-commandement-d-un-sous-marin-nucleaire-apres-une-collision-en-mer-20261120",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "summaryInput": "4ede6eed1e21bd99d7e6d78a6214c6132262b97fa90295fff865133eec849a33",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b414a4c5921dc93866",
+      "id": "rss-6f63e186ae0cf36350",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "title": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
       "bullets": [
-        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
-        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
-        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
+        "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades européennes ont également été touchées."
       ],
-      "publishedAt": "2026-11-21T11:44:42+00:00",
-      "updatedAt": "2026-11-21T11:44:42+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-20T17:55:11+00:00",
+      "updatedAt": "2026-11-20T17:55:11+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "650cd69550ef854a239277adcb489ff66c6cf985e8341db9f8b022eae4d368e4",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-33a2ec86051616cbcd",
@@ -966,6 +938,31 @@
       "context": null
     },
     {
+      "id": "rss-1caad4c61d78d5e747",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
+      "bullets": [
+        "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes.",
+        "Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne."
+      ],
+      "publishedAt": "2026-11-21T13:00:09+00:00",
+      "updatedAt": "2026-11-21T13:00:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "30529a2156695beffa892fe877cb596a385a28a13250ce2fe3559a64d37ac3b6",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b31b9c845e91e09d1c",
       "revision": 1,
       "category": "france",
@@ -990,29 +987,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d35e19286830d75ad1",
+      "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Projet de loi logement : les députés n’ont pas revoté sur le droit de louer les passoires thermiques",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
       "bullets": [
-        "L’examen de ce texte qui ambitionne de relancer la création de logements s’est achevé vendredi.",
-        "Le gouvernement mise sur une suppression ultérieure de l’amendement RN qui réautorise la mise en location des logements les plus énergivores."
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
       ],
-      "publishedAt": "2026-11-20T19:33:59+00:00",
-      "updatedAt": "2026-11-20T19:33:59+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "97307c50bb7ab89a8addf94774902902813e3e014b93b15eb18cc4dd22643c2e",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T19:00:30.297994+00:00",
+      "context": null
     },
     {
       "id": "rss-11b8615914a99ccff8",
@@ -1141,16 +1141,17 @@
     },
     {
       "id": "rss-913ed3ac30c2968f14",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Environnement",
       "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête",
       "bullets": [
-        "RÉCIT - Convoqué par le ministre de l’Intérieur, Laurent Nuñez, ce vendredi, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours."
+        "RÉCIT - Convoqué vendredi par le ministre de l’Intérieur Laurent Nuñez, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours.",
+        "Le préfet a demandé ce samedi à être relevé de ses fonctions."
       ],
-      "publishedAt": "2026-11-20T18:49:22+00:00",
-      "updatedAt": "2026-11-20T18:49:22+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-21T18:02:40+00:00",
+      "updatedAt": "2026-11-21T18:02:40+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1160,7 +1161,7 @@
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "13bb2bf853bd33b6b2212c19531ea3a1e6a810caa5f4eeee676a95a27a0f504d",
+      "summaryInput": "e765caa8832ccc5d601213608258234dafb7cec1a06781522f7b41f3ba08392f",
       "detailLevel": "preview"
     },
     {
@@ -1321,7 +1322,7 @@
       ],
       "publishedAt": "2026-11-21T06:00:00+00:00",
       "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
