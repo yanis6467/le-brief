@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T07:25:12.050955+00:00",
+  "preparedAt": "2026-11-21T08:59:11.658176+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -72,7 +72,7 @@
       ],
       "publishedAt": "2026-11-20T20:08:53+00:00",
       "updatedAt": "2026-11-20T20:08:53+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -322,6 +322,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3b48a79efbbacf6073",
+      "revision": 2,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "bullets": [
+        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
+        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
+      ],
+      "publishedAt": "2026-11-21T00:33:30+00:00",
+      "updatedAt": "2026-11-21T00:33:30+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-428f958e6d945a5369",
       "revision": 2,
       "category": "markets",
@@ -360,8 +385,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T07:21:34+00:00",
-      "updatedAt": "2026-11-21T07:21:34+00:00",
+      "publishedAt": "2026-11-21T08:51:57+00:00",
+      "updatedAt": "2026-11-21T08:51:57+00:00",
       "importance": 69,
       "sources": [
         {
@@ -727,31 +752,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3b48a79efbbacf6073",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-      "bullets": [
-        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
-        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
-      ],
-      "publishedAt": "2026-11-21T00:33:30+00:00",
-      "updatedAt": "2026-11-21T00:33:30+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-cf36f7236cc41b8bb8",
       "revision": 1,
       "category": "world",
@@ -775,6 +775,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "cf071797b4992478afc7ec7d4516da04850aba8e7705c3d96ff08c73219e3509",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d755694efa1dd4acc5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Cour internationale de justice déclare la Birmanie responsable de génocide contre les Rohingyas",
+      "bullets": [
+        "\"La Cour, à neuf voix contre six, conclut que la République de l'Union de Birmanie a commis un génocide contre le groupe des Rohingyas\", a ainsi déclaré Yuji Iwasawa, président de la Cour internationale de justice (CIJ).",
+        "Plus de 10 000 mortsEn 2017, la Birmanie, majoritairement bouddhiste et dirigée par son armée, exclut dans une répression brutale une minorité musulmane du pays, les Rohingyas.",
+        "Plus de 10 000 personnes perdent la vie."
+      ],
+      "publishedAt": "2026-11-21T07:55:29+00:00",
+      "updatedAt": "2026-11-21T07:55:29+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/asie/rohingyas/la-cour-internationale-de-justice-declare-la-birmanie-responsable-de-genocide-contre-les-rohingyas_8293484.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "1b8c28f80656ea5b216296cca597a6e37f77f5b99f931c1d2f422b125a621cfa",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T08:59:11.658176+00:00",
+      "context": null
     },
     {
       "id": "rss-e2e9f145ca8f5d935c",
@@ -806,17 +834,17 @@
     },
     {
       "id": "rss-7c20deb838ac684559",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
-      "title": "Génocide des Rohingya : la Cour internationale de justice « confirme qu’elle est indubitablement la boussole du droit international »",
+      "title": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’histoire",
       "bullets": [
-        "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ».",
-        "Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens…"
+        "La plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat, la Birmanie, dans « le crime des crimes ».",
+        "Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, l’arrêt prononcé jeudi pourrait faire jurisprudence."
       ],
       "publishedAt": "2026-11-20T20:38:52+00:00",
       "updatedAt": "2026-11-20T20:38:52+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -826,7 +854,7 @@
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "5dcdc38abacb2824890b63f6bef0628af22d8f56c6bedac95b57d82ba7c64159",
+      "summaryInput": "a95756806b6dfbb532a4c08d0b1c4bfeb7f5247bfa81997f9839fd8daeb235ea",
       "detailLevel": "preview"
     },
     {
@@ -949,7 +977,7 @@
       ],
       "publishedAt": "2026-11-20T19:33:59+00:00",
       "updatedAt": "2026-11-20T19:33:59+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1025,7 +1053,7 @@
       ],
       "publishedAt": "2026-11-20T08:46:19+00:00",
       "updatedAt": "2026-11-20T08:46:19+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1340,7 +1368,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1352,7 +1380,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
