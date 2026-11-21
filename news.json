@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T05:07:46.827880+00:00",
+  "preparedAt": "2026-11-21T06:06:36.687095+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -154,7 +154,7 @@
       ],
       "publishedAt": "2026-11-20T17:15:00+00:00",
       "updatedAt": "2026-11-20T17:15:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -216,7 +216,7 @@
       "provenance": "article-extract",
       "summaryInput": "3567faa958a85384c7ef5f99aa6b53422e04de296ea1149c21128de00ee3b779",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "enrichedAt": "2026-11-21T06:06:36.687095+00:00",
       "context": null
     },
     {
@@ -298,31 +298,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9d860ed5876c3d19d8",
+      "id": "rss-680a3d5ed6f8caf04f",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "«J’adorerais le voir revenir» : Donald Trump incite Nvidia à donner une deuxième chance à son ex-patron, Jensen Huang",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
       "bullets": [
-        "Donald Trump a appelé vendredi Nvidia à donner une «deuxième chance» à Jensen Huang, l’ex-patron du géant américain de la tech qui a démissionné dans le cadre d’un scandale mêlant adultère, possible espionnage d’une maîtresse au profit de Pékin et contrebande de puces dernier cri vers la Chine.",
-        "Nous sommes un pays où l’on accorde une deuxième chance, et j’adorerais pouvoir le revoir», a déclaré le président américain, interrogé à ce sujet lors d’une conférence de presse."
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
       ],
-      "publishedAt": "2026-11-20T18:50:55+00:00",
-      "updatedAt": "2026-11-20T18:50:55+00:00",
+      "publishedAt": "2026-11-21T06:00:15+00:00",
+      "updatedAt": "2026-11-21T06:00:15+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/j-adorerais-le-voir-revenir-donald-trump-incite-nvidia-a-donner-une-deuxieme-chance-a-son-ex-patron-jensen-huang-20261120",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "8d3a84f36dc441d0f41b7189c79a39b4239a5340d4e97391f2a68f90bc949276",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-20T19:15:04.171173+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-428f958e6d945a5369",
@@ -363,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T05:04:10+00:00",
-      "updatedAt": "2026-11-21T05:04:10+00:00",
+      "publishedAt": "2026-11-21T06:03:05+00:00",
+      "updatedAt": "2026-11-21T06:03:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -664,7 +662,7 @@
       ],
       "publishedAt": "2026-11-20T17:55:11+00:00",
       "updatedAt": "2026-11-20T17:55:11+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -702,7 +700,7 @@
       "provenance": "article-extract",
       "summaryInput": "4d29d86f768f75ba903a3f7548650616dc889b623a36a36ecc7d2996c96d7aa6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T17:11:26.841014+00:00",
+      "enrichedAt": "2026-11-21T06:06:36.687095+00:00",
       "context": null
     },
     {
@@ -782,6 +780,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cf36f7236cc41b8bb8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
+      "bullets": [
+        "Alors que la pression s’accentue sur les élèves passant le fameux « Suneung », de nouvelles méthodes de triche à l’IA, plus efficaces et dures à détecter, mettent le gouvernement sud-coréen en alerte.",
+        "Les fouilles et les demandes d’aveux publics se multiplient, parfois jusqu’au drame."
+      ],
+      "publishedAt": "2026-11-21T05:30:03+00:00",
+      "updatedAt": "2026-11-21T05:30:03+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cf071797b4992478afc7ec7d4516da04850aba8e7705c3d96ff08c73219e3509",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e2e9f145ca8f5d935c",
       "revision": 1,
       "category": "world",
@@ -845,7 +868,7 @@
       ],
       "publishedAt": "2026-11-20T17:41:10+00:00",
       "updatedAt": "2026-11-20T17:41:10+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -884,34 +907,6 @@
       "summaryInput": "aee599562e35fb774eeb957461e4f3aff168debf191958f292652ffb7abda674",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T01:27:35.178581+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d2d51c23556f472bf6",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Décision inédite, retour des réfugiés... Cinq questions sur la reconnaissance du génocide des Rohingyas en Birmanie par la Cour internationale de justice",
-      "bullets": [
-        "Cet arrêt a été rendu dans une affaire portée en 2019 devant la CIJ par la Gambie, pays africain musulman, sur la base de la Convention sur le génocide.",
-        "L'arrêt de la cour établit la responsabilité de l'Etat birman dans la campagne de viols, de massacres et de persécutions menée par l'armée contre les Rohingyas en 2017, qui avait contraint près de 750 000 d'entre eux à fuir vers le Bangladesh voisin.",
-        "Ahmad Zahid Hamidi, vice-Premier ministre du pays, a annoncé dans un communiqué qu'il comptait relocaliser 10 000 Rohingyas en Turquie."
-      ],
-      "publishedAt": "2026-11-20T16:36:38+00:00",
-      "updatedAt": "2026-11-20T16:36:38+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/birmanie/decision-inedite-retour-des-refugies-cinq-questions-sur-la-reconnaissance-du-genocide-des-rohingyas-en-birmanie-par-la-cour-internationale-de-justice_8291954.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "502ccf762f51ca040893ba8d5ca15956e58c7067d985f1370190e022588907e8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T05:07:46.827880+00:00",
       "context": null
     },
     {
@@ -1052,7 +1047,7 @@
       ],
       "publishedAt": "2026-11-20T17:59:52+00:00",
       "updatedAt": "2026-11-20T17:59:52+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1068,27 +1063,27 @@
       "context": null
     },
     {
-      "id": "rss-6ffc4801f1189fe05f",
+      "id": "rss-95e195588eb1d27def",
       "revision": 1,
       "category": "france",
       "topic": "Culture",
-      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+      "title": "La BNF François-Mitterrand, à bout de souffle, évalue à 527 millions d’euros le budget nécessaire à sa survie",
       "bullets": [
-        "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les radios, se soumettre à des règles de temps de parole et de déontologie."
+        "Pannes à répétition, fuites et infiltrations, vétusté des installations, présence de souris, le bâtiment, signé par l’architecte Dominique Perrault et inauguré en 1995, nécessite une rénovation rapide."
       ],
-      "publishedAt": "2026-11-19T19:30:08+00:00",
-      "updatedAt": "2026-11-19T19:30:08+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-21T05:30:03+00:00",
+      "updatedAt": "2026-11-21T05:30:03+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/21/la-bnf-francois-mitterrand-a-bout-de-souffle-evalue-a-527-millions-d-euros-le-budget-necessaire-a-sa-survie_6813945_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "c96e5711d79f07e56c04cd849fa8122b37cec656ffd7e8009ce05f4f128ca5c5",
+      "summaryInput": "2668ed432614bc9363b03b4641f7a1547a5dfed28528edf7bedfb5fe43adaaf3",
       "detailLevel": "preview"
     },
     {
@@ -1396,7 +1391,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1408,7 +1403,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
