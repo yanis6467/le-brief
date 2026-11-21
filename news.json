@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T09:59:06.416588+00:00",
+  "preparedAt": "2026-11-21T10:58:42.129528+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-d1dad382ceaeda4571",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique",
+      "bullets": [
+        "Le président du Conseil européen Antonio Costa a présenté samedi un nouveau projet de budget de l'UE pour la période 2028-2034, réduit de 204 milliards d'euros par rapport à la proposition initiale de la Commission, qui s'élevait à 2000 milliards d'euros.",
+        "La nouvelle boîte de négociation sur le prochain budget pluriannuel européen est très décevante.",
+        "Le mois dernier, l’Irlande, qui exerce la présidence tournante de l’Union européenne, avait proposé de réduire son montant total de 140 milliards d’euros, sans satisfaire les pays du Nord de l’Europe, qui se sont surnommés les «frugaux»."
+      ],
+      "publishedAt": "2026-11-21T10:56:43+00:00",
+      "updatedAt": "2026-11-21T10:56:43+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-le-conseil-europeen-prevoit-des-coupes-de-204-milliards-d-euros-et-une-taxe-numerique-20261121",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "75092382b5f22dd458b9fb6f2eee73f40eae8eb234f5b67586030875d985a0c2",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
+      "context": null
+    },
     {
       "id": "rss-d9ddb1529092302e60",
       "revision": 1,
@@ -164,7 +192,7 @@
       "provenance": "article-extract",
       "summaryInput": "13911a6a6e202a35b1b308d130e7c6bbd92e0c43374d3785c364a2813b1e7c0d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T21:59:53.784267+00:00",
+      "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
       "context": null
     },
     {
@@ -294,28 +322,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a34062abc76c2cdb83",
+      "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "NVIDIA : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street",
       "bullets": [
-        "Pour contrer le club des milliardaires dont la puissance ne cesse de croître, et à l’heure où se tient à Paris un colloque sur le sujet, des penseurs dont quatre Prix Nobel (Daron Acemoglu, Esther Duflo, Paul Krugman et Joseph Stiglitz) appellent, dans une tribune au « Monde », à…"
+        "Pour sa première séance au Nasdaq jeudi, l'action Anthropic a terminé en hausse de 17%, portant sa capitalisation à environ 1.280 milliards de dollars à la clôture, selon les données Bloomberg.",
+        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025 alors que son ex-patron, Jensen Huang,est empêtré dans un scandale mêlant adultère et contrebande présumée.",
+        "L’indice taïwanais Taiex, qui avait atteint un sommet en même temps que le Nasdaq, début octobre, a décroché de quelque 28% en un mois et demi."
       ],
-      "publishedAt": "2026-11-21T05:25:05+00:00",
-      "updatedAt": "2026-11-21T05:25:05+00:00",
-      "importance": 59,
+      "publishedAt": "2026-11-21T06:00:00+00:00",
+      "updatedAt": "2026-11-21T06:00:00+00:00",
+      "importance": 97,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/21/l-explosion-de-l-extreme-richesse-constitue-le-fait-social-majeur-de-notre-temps-le-manifeste-de-plus-de-110-intellectuels-contre-l-oligarchie_6813943_3232.html",
-          "access": "extrait"
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/nvidia-US67066G1040/actualites/nvidia-l-equivalent-du-pib-francais-envole-sur-fond-de-scandale-chez-nvidia-et-de-craintes-reglementaires-les-geants-de-l-ia-ont-efface-plus-de-3500-milliards-de-dollars-en-six-semaines-a-wall-street-1174187.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a8ad8dfa84f14c5d4f6ac6b4701ce1f4813064f5ced022b74f5be02f90d6889e",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
+      "context": null
     },
     {
       "id": "rss-428f958e6d945a5369",
@@ -356,8 +388,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T09:54:40+00:00",
-      "updatedAt": "2026-11-21T09:54:40+00:00",
+      "publishedAt": "2026-11-21T10:54:51+00:00",
+      "updatedAt": "2026-11-21T10:54:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -1258,12 +1290,12 @@
     },
     {
       "id": "rss-8afe751f3941bd37c3",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
       "bullets": [
-        "Le débat autour d’une primaire à droite met en lumière la difficulté d’une stratégie claire au sein de l’ancienne majorité, prise entre des considérations individuelles et des fractures idéologiques."
+        "Le débat autour d’une primaire à droite et au centre met en lumière la difficulté d’une stratégie claire au sein de l’ancienne majorité, prise entre des considérations individuelles et des fractures idéologiques."
       ],
       "publishedAt": "2026-11-21T04:30:08+00:00",
       "updatedAt": "2026-11-21T04:30:08+00:00",
@@ -1277,7 +1309,7 @@
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "6b29ee714f0e7e174918525254d451f11b3b8f98a6a29a9aae5f6972ca6ffa9c",
+      "summaryInput": "013c2eaea38db3b3c18fe781d807fda0f8c92cb34a1519ad8f2de8751cf05f6b",
       "detailLevel": "preview"
     },
     {
@@ -1365,7 +1397,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1383,7 +1415,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
@@ -1419,7 +1451,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
