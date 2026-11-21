@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T10:58:42.129528+00:00",
+  "preparedAt": "2026-11-21T11:55:52.114862+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -17,8 +17,8 @@
         "La nouvelle boîte de négociation sur le prochain budget pluriannuel européen est très décevante.",
         "Le mois dernier, l’Irlande, qui exerce la présidence tournante de l’Union européenne, avait proposé de réduire son montant total de 140 milliards d’euros, sans satisfaire les pays du Nord de l’Europe, qui se sont surnommés les «frugaux»."
       ],
-      "publishedAt": "2026-11-21T10:56:43+00:00",
-      "updatedAt": "2026-11-21T10:56:43+00:00",
+      "publishedAt": "2026-11-21T11:33:31+00:00",
+      "updatedAt": "2026-11-21T11:33:31+00:00",
       "importance": 77,
       "sources": [
         {
@@ -33,6 +33,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d9ddb1529092302e60",
@@ -297,31 +321,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2d5ef62475acc9b998",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
-      "bullets": [
-        "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée.",
-        "Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et ultramarins)."
-      ],
-      "publishedAt": "2026-11-20T09:30:00+00:00",
-      "updatedAt": "2026-11-20T09:30:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "beb6bf02636de285aa5696e2b13496552d72e332e45f0d1784a5cebe65c7330a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -348,6 +347,59 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T10:58:42.129528+00:00",
       "context": null
+    },
+    {
+      "id": "rss-b414a4c5921dc93866",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "bullets": [
+        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
+        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
+        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
+      ],
+      "publishedAt": "2026-11-21T11:44:42+00:00",
+      "updatedAt": "2026-11-21T11:44:42+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3b48a79efbbacf6073",
+      "revision": 2,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "bullets": [
+        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
+        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
+      ],
+      "publishedAt": "2026-11-21T00:33:30+00:00",
+      "updatedAt": "2026-11-21T00:33:30+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-428f958e6d945a5369",
@@ -388,8 +440,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T10:54:51+00:00",
-      "updatedAt": "2026-11-21T10:54:51+00:00",
+      "publishedAt": "2026-11-21T11:55:31+00:00",
+      "updatedAt": "2026-11-21T11:55:31+00:00",
       "importance": 69,
       "sources": [
         {
@@ -402,7 +454,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T22:58:46.668532+00:00",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
     },
     {
@@ -486,7 +538,7 @@
       "provenance": "article-extract",
       "summaryInput": "11ba04b923d692f85b2dc029c961a2d9c3a5c80c114137e80294838e5e07e40e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T22:58:46.668532+00:00",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
     },
     {
@@ -530,7 +582,7 @@
       ],
       "publishedAt": "2026-11-19T11:00:11+00:00",
       "updatedAt": "2026-11-19T11:00:11+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -599,34 +651,6 @@
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T05:07:46.827880+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-49bf54c9b1b5a5c443",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
-      "bullets": [
-        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
-        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
-        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
-      ],
-      "publishedAt": "2026-11-19T09:30:00+00:00",
-      "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 55,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T01:27:35.178581+00:00",
       "context": null
     },
     {
@@ -703,6 +727,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-58015f32853cbda557",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
+      "bullets": [
+        "Le président du Conseil européen a proposé, samedi 21 novembre, 204 milliards d'euros d'économie dans le futur budget de l'UE, dans l'espoir de conclure les négociations entre les Etats membres avant la fin de l'année.",
+        "Antonio Costa a présenté lors d'une conférence de presse ce projet de budget révisé pour la période 2028-2034, inférieur à la proposition initiale de la Commission, qui s'élevait à 2 000 milliards d'euros au total.",
+        "La France a aussitôt rejeté la proposition d'Antonio Costa, estimant qu'en l'état, elle \"ne constitue pas une base pour un accord\"."
+      ],
+      "publishedAt": "2026-11-21T11:27:41+00:00",
+      "updatedAt": "2026-11-21T11:27:41+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "5bd63d3a9254e4ac9f54d59169b3da793d3f835bde6f1c10f053607f30cd94c7",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
+      "context": null
+    },
+    {
       "id": "rss-bd75efce5cca7d4415",
       "revision": 1,
       "category": "world",
@@ -752,31 +804,6 @@
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
       "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3b48a79efbbacf6073",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-      "bullets": [
-        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
-        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
-      ],
-      "publishedAt": "2026-11-21T00:33:30+00:00",
-      "updatedAt": "2026-11-21T00:33:30+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
       "detailLevel": "preview"
     },
     {
@@ -886,34 +913,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4c8f9bb30b8ca7ab29",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine",
-      "bullets": [
-        "La France a demandé une réunion du Conseil de sécurité de l'ONU, vendredi 20 novembre, après les frappes de jeudi et la salve de missiles lancées par Moscou contre l'Ukraine, dans la nuit de jeudi à vendredi.",
-        "La France les condamne avec la plus grande fermeté.",
-        "Au moins sept personnes ont été tuées et 17 autres ont été blessées à Kiev, tandis que deux autres personnes ont perdu la vie à Lviv, grande ville de l'ouest de l'Ukraine, selon les autorités."
-      ],
-      "publishedAt": "2026-11-20T16:38:35+00:00",
-      "updatedAt": "2026-11-20T16:38:35+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "aee599562e35fb774eeb957461e4f3aff168debf191958f292652ffb7abda674",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T01:27:35.178581+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d2d51c23556f472bf6",
       "revision": 1,
       "category": "world",
@@ -940,6 +939,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T07:25:12.050955+00:00",
       "context": null
+    },
+    {
+      "id": "rss-7168c46ca69c84d91c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Starlink, DOGE, MAGA : après la défaite des républicains aux midterms, les paris risqués d’Elon Musk pourraient se retourner contre lui",
+      "bullets": [
+        "RÉCIT - La victoire démocrate aux élections ouvre la perspective d’enquêtes sur l’agence DOGE ou le rôle de Starlink en Ukraine, alors qu’Elon Musk prend ses distances avec un mouvement MAGA, dont il avait été l’un des personnages les plus influents."
+      ],
+      "publishedAt": "2026-11-20T22:31:37+00:00",
+      "updatedAt": "2026-11-20T22:31:37+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/starlink-doge-maga-apres-la-defaite-des-republicains-aux-midterms-les-paris-risques-d-elon-musk-pourraient-se-retourner-contre-lui-20261120",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "201f01b7caf7d6b0cd4eaaca54509f1cdc7611de98bc8590824b7167bd88faf8",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b31b9c845e91e09d1c",
@@ -992,10 +1015,10 @@
     },
     {
       "id": "rss-11b8615914a99ccff8",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Éducation",
-      "title": "Mobilisation lycéenne : les introuvables « complicités » de violences parmi les enseignants dénoncées par Matignon",
+      "title": "Mobilisation lycéenne : les preuves des accusations de « complicités » de violences portées par Matignon à l’encontre d’enseignants restent introuvables",
       "bullets": [
         "Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a contacté plusieurs chefs d’établissement qui livrent un tout autre récit…"
       ],
@@ -1011,7 +1034,7 @@
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "6fba596676bd16c4c0839ab889ab8ab1720f905c5539819706b5b43b8854b152",
+      "summaryInput": "b805fd5b6348c98ef1b01d62ad2d1b46c353c8a0183390d2c9b6c05346d553da",
       "detailLevel": "preview"
     },
     {
@@ -1039,7 +1062,7 @@
       "provenance": "article-extract",
       "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-20T22:58:46.668532+00:00",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
     },
     {
@@ -1167,30 +1190,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cdfbbd240cc7960f30",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Colère des lycéens et étudiants : près de la moitié des Français pointe du doigt le laxisme du gouvernement",
-      "bullets": [
-        "SONDAGE EXCLUSIF - Selon une étude Odoxa-Backbone Consulting pour Le Figaro, 85 % des Français pensent que les blocages vont pénaliser les élèves dans la suite de leur parcours scolaire et professionnel."
-      ],
-      "publishedAt": "2026-11-20T15:58:05+00:00",
-      "updatedAt": "2026-11-20T15:58:05+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/colere-des-lyceens-et-etudiants-pres-de-la-moitie-des-francais-pointe-du-doigt-le-laxisme-du-gouvernement-20261119",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "87c8da6b3aae810c04e2d358d7965e73390550c007ad4ed6f4577a1ac04444ec",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1213,6 +1212,55 @@
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1d4201e6f6404bdcd8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "A travers l’Europe, des mobilisations vendredi et tout ce week-end contre la « militarisation », la vie chère et pour l’éducation",
+      "bullets": [
+        "Alors que la colère sociale gronde depuis des semaines, syndicats, associations et organisations de jeunesse ont lancé des appels à des actions vendredi, samedi et dimanche dans de nombreux pays, dont la France, l’Allemagne et l’Italie.",
+        "Dès vendredi, des organisations de lycéens et d’étudiants ont aussi appelé à une grève…"
+      ],
+      "publishedAt": "2026-11-20T16:04:53+00:00",
+      "updatedAt": "2026-11-20T16:04:53+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e48073240a581e686d73fb57b8c2d5a8fb8dabf01f9c610b01a61673e18b3335",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b49936f16da641c67b",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "« Quand on a acheté à manger, on n’a plus rien » : étranglées par les crédits, ces familles prises dans la spirale de la vie chère",
+      "bullets": [
+        "REPORTAGE - Budget qui explose, découverts qui se creusent, surendettement… Ces Français qui viennent chercher de l’aide au Point Conseil Budget de l’Essonne racontent leurs dilemmes et leurs restrictions."
+      ],
+      "publishedAt": "2026-11-21T11:00:00+00:00",
+      "updatedAt": "2026-11-21T11:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/quand-on-a-achete-a-manger-on-n-a-plus-rien-etranglees-par-les-credits-ces-familles-prises-dans-la-spirale-de-la-vie-chere-20261121",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b2f995760af3512b336423d513457b5697e780b6c23d623cbd83017caf83a716",
       "detailLevel": "preview"
     },
     {
@@ -1311,31 +1359,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "013c2eaea38db3b3c18fe781d807fda0f8c92cb34a1519ad8f2de8751cf05f6b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0c1febf9f3c9edbcab",
-      "revision": 2,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
-      "bullets": [
-        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
-        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
-      ],
-      "publishedAt": "2026-11-20T15:45:16+00:00",
-      "updatedAt": "2026-11-20T15:45:16+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1349,7 +1372,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
