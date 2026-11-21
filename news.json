@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T19:00:30.297994+00:00",
+  "preparedAt": "2026-11-21T19:56:12.457570+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,30 +33,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T13:11:55.752268+00:00",
       "context": null
-    },
-    {
-      "id": "rss-be379830fdec5f1199",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-      "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
-      ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-96839bdd5dbe524d59",
@@ -215,31 +191,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-680a3d5ed6f8caf04f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
-      "bullets": [
-        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
-        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
-      ],
-      "publishedAt": "2026-11-21T06:00:05+00:00",
-      "updatedAt": "2026-11-21T06:00:05+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -317,6 +268,59 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
       "context": null
+    },
+    {
+      "id": "rss-efa408ba8e5ee2076f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
+      "bullets": [
+        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
+        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
+        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
+      ],
+      "publishedAt": "2026-11-20T17:14:56+00:00",
+      "updatedAt": "2026-11-20T17:14:56+00:00",
+      "importance": 57,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T19:56:12.457570+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1b955b0ea0f2f2ac0f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
+      "bullets": [
+        "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables.",
+        "Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés."
+      ],
+      "publishedAt": "2026-11-20T17:00:12+00:00",
+      "updatedAt": "2026-11-20T17:00:12+00:00",
+      "importance": 57,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "746d2452c8b7699782aa95c8603e27462be168b7f464854fb36c4eb5ddfde065",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -438,9 +442,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T19:00:32+00:00",
-      "updatedAt": "2026-11-21T19:00:32+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-21T19:51:13+00:00",
+      "updatedAt": "2026-11-21T19:51:13+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -504,7 +508,7 @@
       "provenance": "article-extract",
       "summaryInput": "93659a021c4f4b704b9ff8345ffaf05b08b6a5765ff145ddf47256752aec7ae5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T07:25:12.050955+00:00",
+      "enrichedAt": "2026-11-21T19:56:12.457570+00:00",
       "context": null
     },
     {
@@ -588,7 +592,7 @@
       "provenance": "article-extract",
       "summaryInput": "525660d0d9c5912a7b0e29bf4d974de34f658b3175dd8f200033d37a1f601725",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T07:25:12.050955+00:00",
+      "enrichedAt": "2026-11-21T19:56:12.457570+00:00",
       "context": null
     },
     {
@@ -644,7 +648,7 @@
       "provenance": "article-extract",
       "summaryInput": "c9057019682d45ea9e56188754216c8b633094ad24e72a50891df96fa8adbd76",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T07:25:12.050955+00:00",
+      "enrichedAt": "2026-11-21T19:56:12.457570+00:00",
       "context": null
     },
     {
@@ -700,6 +704,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-078d4a2ee94f1ba975",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Même si les démocrates américains enquêtent sur les malversations de Trump et ses proches, il ne se passera rien »",
+      "bullets": [
+        "Malgré leur victoire aux midterms, les démocrates doivent s’attendre à deux années « peu productives » avant les élections présidentielles de 2028, estime, dans une tribune au « Monde », Anne Deysine, spécialiste des Etats-Unis, qui rappelle qu’ils peuvent néanmoins s’inspirer d’une vieille recette des républicains."
+      ],
+      "publishedAt": "2026-11-21T19:00:02+00:00",
+      "updatedAt": "2026-11-21T19:00:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/21/meme-si-les-democrates-americains-enquetent-sur-les-malversations-de-trump-et-ses-proches-il-ne-se-passera-rien_6814061_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ae5a69d8dcdc5c50a7f916c7fb94f5cb3d4e860b6c21a0c6a2cc8ce6bfbfbbd1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-58015f32853cbda557",
       "revision": 1,
       "category": "world",
@@ -726,6 +754,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5ef485212381e5fafa",
@@ -826,34 +878,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
-      "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
-      ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3821d2381b922aeb64",
       "revision": 1,
       "category": "world",
@@ -922,7 +946,7 @@
       ],
       "publishedAt": "2026-11-21T07:55:29+00:00",
       "updatedAt": "2026-11-21T07:55:29+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -938,31 +962,6 @@
       "context": null
     },
     {
-      "id": "rss-1caad4c61d78d5e747",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
-      "bullets": [
-        "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes.",
-        "Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne."
-      ],
-      "publishedAt": "2026-11-21T13:00:09+00:00",
-      "updatedAt": "2026-11-21T13:00:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30529a2156695beffa892fe877cb596a385a28a13250ce2fe3559a64d37ac3b6",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-b31b9c845e91e09d1c",
       "revision": 1,
       "category": "france",
@@ -973,7 +972,7 @@
       ],
       "publishedAt": "2026-11-20T19:09:22+00:00",
       "updatedAt": "2026-11-20T19:09:22+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1091,29 +1090,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0c1febf9f3c9edbcab",
+      "id": "rss-8ceba0b2ba8bc77f64",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
+      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
       "bullets": [
-        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
-        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
+        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
+        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
+        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
       ],
-      "publishedAt": "2026-11-20T15:45:16+00:00",
-      "updatedAt": "2026-11-20T15:45:16+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-21T17:18:07+00:00",
+      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "context": null
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1383,7 +1385,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
