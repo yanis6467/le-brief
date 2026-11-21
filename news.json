@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T21:53:15.100796+00:00",
+  "preparedAt": "2026-11-21T22:53:49.923861+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,15 +35,39 @@
       "context": null
     },
     {
-      "id": "rss-96839bdd5dbe524d59",
+      "id": "rss-be379830fdec5f1199",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-96839bdd5dbe524d59",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "Capitalisation : votre retraite placée en bourse ?",
       "bullets": [
-        "Procès Michel Zecler : les trois policiers condamnés à un à deux ans de prison ferme",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
+        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+        "Cette sacoche renferme un secret depuis 81 ans"
       ],
       "publishedAt": "2026-11-21T09:00:06+00:00",
       "updatedAt": "2026-11-21T09:00:06+00:00",
@@ -59,7 +83,7 @@
       "provenance": "article-extract",
       "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T09:59:06.416588+00:00",
+      "enrichedAt": "2026-11-21T22:53:49.923861+00:00",
       "context": null
     },
     {
@@ -191,6 +215,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-680a3d5ed6f8caf04f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "bullets": [
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+      ],
+      "publishedAt": "2026-11-21T06:00:05+00:00",
+      "updatedAt": "2026-11-21T06:00:05+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -268,59 +317,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
       "context": null
-    },
-    {
-      "id": "rss-efa408ba8e5ee2076f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
-      "bullets": [
-        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
-        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
-        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
-      ],
-      "publishedAt": "2026-11-20T17:14:56+00:00",
-      "updatedAt": "2026-11-20T17:14:56+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T21:53:15.100796+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1b955b0ea0f2f2ac0f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
-      "bullets": [
-        "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables.",
-        "Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés."
-      ],
-      "publishedAt": "2026-11-20T17:00:12+00:00",
-      "updatedAt": "2026-11-20T17:00:12+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "746d2452c8b7699782aa95c8603e27462be168b7f464854fb36c4eb5ddfde065",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -442,8 +438,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T21:48:50+00:00",
-      "updatedAt": "2026-11-21T21:48:50+00:00",
+      "publishedAt": "2026-11-21T22:53:05+00:00",
+      "updatedAt": "2026-11-21T22:53:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -756,30 +752,6 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-      "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
-      ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-5ef485212381e5fafa",
       "revision": 1,
       "category": "world",
@@ -962,27 +934,52 @@
       "context": null
     },
     {
-      "id": "rss-b31b9c845e91e09d1c",
+      "id": "rss-94fa5f97bf0fa86b85",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Emmanuel Macron fustige le « discours de jalousie et de haine de la réussite » dans la campagne",
+      "category": "world",
+      "topic": "International",
+      "title": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
       "bullets": [
-        "Le président de la République a attaqué les candidats de gauche à l’élection présidentielle, en tentant de protéger son bilan économique."
+        "M.",
+        "Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant."
       ],
-      "publishedAt": "2026-11-20T19:09:22+00:00",
-      "updatedAt": "2026-11-20T19:09:22+00:00",
-      "importance": 83,
+      "publishedAt": "2026-11-21T20:00:05+00:00",
+      "updatedAt": "2026-11-21T20:00:05+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-emmanuel-macron-fustige-le-discours-de-jalousie-et-de-haine-de-la-reussite-dans-la-campagne_6813696_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
-      "summaryInput": "aeedccc84efbfa1fb03d9f29bdc6203522d18a1f5d462717d8c6e54637379e26",
+      "summaryInput": "eb13843839cc222c44c45c43484900e2afef8ada13ff9bed4493f7ce26b20485",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-198331875102f5414f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
+      "bullets": [
+        "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du…"
+      ],
+      "publishedAt": "2026-11-21T17:13:30+00:00",
+      "updatedAt": "2026-11-21T17:13:30+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
       "detailLevel": "preview"
     },
     {
@@ -1167,30 +1164,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-198331875102f5414f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
-      "bullets": [
-        "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du…"
-      ],
-      "publishedAt": "2026-11-21T17:13:30+00:00",
-      "updatedAt": "2026-11-21T17:13:30+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1213,6 +1186,30 @@
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d4305a06f590eca058",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
+      "bullets": [
+        "Le candidat de Nouvelle Energie affirme que le scrutin n’aurait de sens qu’avec la participation d’Edouard Philippe et d’Eric Zemmour, deux conditions pratiquement irréalisables qui font planer un peu plus le doute sur sa tenue."
+      ],
+      "publishedAt": "2026-11-21T22:46:33+00:00",
+      "updatedAt": "2026-11-21T22:46:33+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "68e208a19bcc7d5c245992e5cef3d830cf392a776d0a25b8ac230148ff4d5b09",
       "detailLevel": "preview"
     },
     {
