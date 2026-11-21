@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-21",
-  "preparedAt": "2026-11-21T15:57:20.129983+00:00",
+  "preparedAt": "2026-11-21T16:58:04.580722+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,6 +35,30 @@
       "context": null
     },
     {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d9ddb1529092302e60",
       "revision": 1,
       "category": "eco",
@@ -46,7 +70,7 @@
       ],
       "publishedAt": "2026-11-20T16:00:32+00:00",
       "updatedAt": "2026-11-20T16:00:32+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -58,34 +82,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "51053686e53dad86bb35ffcd48cc39f5e74d9fe87e948245950dab268ebdfc93",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a44ecc65d4074af8a5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le logement est le premier poste de dépense qui \"ampute le pouvoir d'achat\" des Français, souligne Christophe Robert, de la Fondation pour le logement des défavorisés",
-      "bullets": [
-        "Le nombre de personne à la rue \"a doublé en 10 ans\"La France compte \"quatre millions de mal logés, dont 350 000 personnes sans domiciles\", rappelle Christophe Robert.",
-        "Et ce chiffre \"a doublé en 10 ans\", appuie-t-il.",
-        "Christophe Robert met en exergue \"un chiffre macabre : c'est 1 000 personnes qui meurent de la rue chaque année."
-      ],
-      "publishedAt": "2026-11-20T20:08:53+00:00",
-      "updatedAt": "2026-11-20T20:08:53+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/elections/le-logement-est-le-premier-poste-de-depense-qui-ampute-le-pouvoir-d-achat-des-francais-souligne-christophe-robert-de-la-fondation-pour-le-logement-des-defavorises_8292908.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "ecf8730a5b701a1db80281d123bb2c939a32ab682552f703559263d5d71437c3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T09:59:06.416588+00:00",
-      "context": null
     },
     {
       "id": "rss-0f19474ff4df833ddf",
@@ -116,34 +112,6 @@
       "context": null
     },
     {
-      "id": "rss-96839bdd5dbe524d59",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Capitalisation : votre retraite placée en bourse ?",
-      "bullets": [
-        "Procès Michel Zecler : les trois policiers condamnés à un à deux ans de prison ferme",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
-      ],
-      "publishedAt": "2026-11-21T09:00:06+00:00",
-      "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T09:59:06.416588+00:00",
-      "context": null
-    },
-    {
       "id": "rss-3fa32865f00a10659d",
       "revision": 1,
       "category": "eco",
@@ -166,6 +134,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "08cdbe3d73e8f3334d455fb8942160aa61647dbc8a0ae07fc0779a4ba7803739",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1f6318e86f15fd695d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "REPORTAGE. \"Les médias ont clairement été le déclencheur\" : en République tchèque, une réforme de l'audiovisuel public à l'origine d'une vaste mobilisation",
+      "bullets": [
+        "Depuis le mois d'octobre 2026, les manifestations se multiplient en République tchèque contre le projet de loi sur les médias publics porté par le gouvernement d'Andrej Babiš, figure du populisme de droite, allié à l'extrême droite.",
+        "L'exécutif assure de son côté qu'il n'en sera rien.",
+        "L'hebdomadaire Respekt - fondé en 1989 par des dissidents de la Charte 77 de Václav Havel - analyse l'évolution de la mobilisation : \"Les médias ont clairement été le déclencheur de la mobilisation et en sont, de toute évidence, le principal point de convergence, et le resteront sans doute."
+      ],
+      "publishedAt": "2026-11-21T06:46:51+00:00",
+      "updatedAt": "2026-11-21T06:46:51+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/reportage-les-medias-ont-clairement-ete-le-declencheur-en-republique-tcheque-une-reforme-de-l-audiovisuel-public-a-l-origine-d-une-vaste-mobilisation_8292938.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "bbb0c455715718275b686f41b235317b413b263274572b91f3333f11cbcf0108",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T16:58:04.580722+00:00",
+      "context": null
     },
     {
       "id": "rss-2e1c558735f4b760c2",
@@ -241,6 +237,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-680a3d5ed6f8caf04f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "bullets": [
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+      ],
+      "publishedAt": "2026-11-21T06:00:05+00:00",
+      "updatedAt": "2026-11-21T06:00:05+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-a34062abc76c2cdb83",
       "revision": 1,
       "category": "eco",
@@ -293,33 +314,6 @@
       "context": null
     },
     {
-      "id": "rss-9d860ed5876c3d19d8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«J’adorerais le voir revenir» : Donald Trump incite Nvidia à donner une deuxième chance à son ex-patron, Jensen Huang",
-      "bullets": [
-        "Donald Trump a appelé vendredi Nvidia à donner une «deuxième chance» à Jensen Huang, l’ex-patron du géant américain de la tech qui a démissionné dans le cadre d’un scandale mêlant adultère, possible espionnage d’une maîtresse au profit de Pékin et contrebande de puces dernier cri vers la Chine.",
-        "Nous sommes un pays où l’on accorde une deuxième chance, et j’adorerais pouvoir le revoir», a déclaré le président américain, interrogé à ce sujet lors d’une conférence de presse."
-      ],
-      "publishedAt": "2026-11-20T18:50:55+00:00",
-      "updatedAt": "2026-11-20T18:50:55+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/j-adorerais-le-voir-revenir-donald-trump-incite-nvidia-a-donner-une-deuxieme-chance-a-son-ex-patron-jensen-huang-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "8d3a84f36dc441d0f41b7189c79a39b4239a5340d4e97391f2a68f90bc949276",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T15:57:20.129983+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -348,6 +342,59 @@
       "context": null
     },
     {
+      "id": "rss-b414a4c5921dc93866",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "bullets": [
+        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
+        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
+        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
+      ],
+      "publishedAt": "2026-11-21T11:44:42+00:00",
+      "updatedAt": "2026-11-21T11:44:42+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3b48a79efbbacf6073",
+      "revision": 2,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "bullets": [
+        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
+        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
+      ],
+      "publishedAt": "2026-11-21T00:33:30+00:00",
+      "updatedAt": "2026-11-21T00:33:30+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-428f958e6d945a5369",
       "revision": 2,
       "category": "markets",
@@ -360,7 +407,7 @@
       ],
       "publishedAt": "2026-11-20T15:58:36+00:00",
       "updatedAt": "2026-11-20T15:58:36+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -386,8 +433,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-21T15:55:44+00:00",
-      "updatedAt": "2026-11-21T15:55:44+00:00",
+      "publishedAt": "2026-11-21T16:55:09+00:00",
+      "updatedAt": "2026-11-21T16:55:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -440,7 +487,7 @@
       ],
       "publishedAt": "2026-11-20T16:52:38+00:00",
       "updatedAt": "2026-11-20T16:52:38+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -480,7 +527,7 @@
       "provenance": "article-extract",
       "summaryInput": "6ef4ddd5d6a09681d21c77b6ff1f2e133d6a92423fae27eea44447030227d324",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T04:04:07.597256+00:00",
+      "enrichedAt": "2026-11-21T16:58:04.580722+00:00",
       "context": null
     },
     {
@@ -524,7 +571,7 @@
       ],
       "publishedAt": "2026-11-19T16:54:44+00:00",
       "updatedAt": "2026-11-19T16:54:44+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -596,62 +643,6 @@
       "context": null
     },
     {
-      "id": "rss-606e9b5aec5f598bf1",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "SANOFI : La biotech américaine Insmed, un morceau de choix pour Sanofi, même si elle coûte plus de 30 milliards de dollars?",
-      "bullets": [
-        "Sur les neufs premiers mois de 2026, ce médicament a vu ses revenus grimper de 34,5% à 15 milliards d'euros et a assuré le gros de la croissance de la société sur la période.",
-        "Ce \"patent cliff\" retranchera 17,3 milliards d'euros de revenus entre 2030 et 2035, selon les projections de JPMorgan.",
-        "Le chiffre d'affaires combiné atteindrait 62 milliards en 2029 et le poids de Dupixent au même horizon reculerait de trois points de pourcentage à 38%, calcule encore le courtier."
-      ],
-      "publishedAt": "2026-11-20T14:44:32+00:00",
-      "updatedAt": "2026-11-20T14:44:32+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-la-biotech-americaine-insmed-un-morceau-de-choix-pour-sanofi-meme-si-elle-coute-plus-de-30-milliards-de-dollars-1174190.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T05:07:46.827880+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-49bf54c9b1b5a5c443",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
-      "bullets": [
-        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
-        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
-        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
-      ],
-      "publishedAt": "2026-11-19T09:30:00+00:00",
-      "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 55,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T15:57:20.129983+00:00",
-      "context": null
-    },
-    {
       "id": "rss-b6b8e156d4edc9c0d8",
       "revision": 1,
       "category": "world",
@@ -662,7 +653,7 @@
       ],
       "publishedAt": "2026-11-20T16:30:00+00:00",
       "updatedAt": "2026-11-20T16:30:00+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -753,30 +744,6 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-      "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
-      ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-33a2ec86051616cbcd",
       "revision": 1,
       "category": "world",
@@ -787,7 +754,7 @@
       ],
       "publishedAt": "2026-11-20T16:05:00+00:00",
       "updatedAt": "2026-11-20T16:05:00+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -798,59 +765,6 @@
       "verifiedAt": "2026-11-21",
       "provenance": "rss-excerpt",
       "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b414a4c5921dc93866",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
-      "bullets": [
-        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
-        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
-        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
-      ],
-      "publishedAt": "2026-11-21T11:44:42+00:00",
-      "updatedAt": "2026-11-21T11:44:42+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "article-extract",
-      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-3b48a79efbbacf6073",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-      "bullets": [
-        "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation.",
-        "La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19."
-      ],
-      "publishedAt": "2026-11-21T00:33:30+00:00",
-      "updatedAt": "2026-11-21T00:33:30+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "75c1b91685d7f3b05f1e5db5c678ec986944faccb5baacec99ef86751ad75e2f",
       "detailLevel": "preview"
     },
     {
@@ -963,6 +877,79 @@
       "context": null
     },
     {
+      "id": "rss-1caad4c61d78d5e747",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
+      "bullets": [
+        "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes.",
+        "Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne."
+      ],
+      "publishedAt": "2026-11-21T13:00:09+00:00",
+      "updatedAt": "2026-11-21T13:00:09+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "30529a2156695beffa892fe877cb596a385a28a13250ce2fe3559a64d37ac3b6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7168c46ca69c84d91c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Starlink, DOGE, MAGA : après la défaite des républicains aux midterms, les paris risqués d’Elon Musk pourraient se retourner contre lui",
+      "bullets": [
+        "RÉCIT - La victoire démocrate aux élections ouvre la perspective d’enquêtes sur l’agence DOGE ou le rôle de Starlink en Ukraine, alors qu’Elon Musk prend ses distances avec un mouvement MAGA, dont il avait été l’un des personnages les plus influents."
+      ],
+      "publishedAt": "2026-11-20T22:31:37+00:00",
+      "updatedAt": "2026-11-20T22:31:37+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/starlink-doge-maga-apres-la-defaite-des-republicains-aux-midterms-les-paris-risques-d-elon-musk-pourraient-se-retourner-contre-lui-20261120",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "201f01b7caf7d6b0cd4eaaca54509f1cdc7611de98bc8590824b7167bd88faf8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39e5a22092f3a3da65",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« On est parti sans savoir si on pourra rentrer un jour » : à Gaza, les chars israéliens font de nouveau fuir les familles",
+      "bullets": [
+        "RÉCIT - Treize mois après le cessez-le-feu, une incursion au-delà de la « ligne jaune » a déplacé des milliers de Palestiniens autour de Nusseirat et d’al-Bureij. Tsahal dit avoir visé un tunnel menaçant ses soldats. L’opération s’est achevée jeudi et les habitants commencent à regagner leurs abris."
+      ],
+      "publishedAt": "2026-11-19T20:30:00+00:00",
+      "updatedAt": "2026-11-19T20:30:00+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/on-est-parti-sans-savoir-si-on-pourra-rentrer-un-jour-a-gaza-les-chars-israeliens-font-de-nouveau-fuir-les-familles-20261119",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "rss-excerpt",
+      "summaryInput": "237d18ccd4c6b26fb2145e826fa13be0240fb6905791c30140b8058dbdeadb17",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b31b9c845e91e09d1c",
       "revision": 1,
       "category": "france",
@@ -1036,31 +1023,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-76e39f380f882e28ba",
+      "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
       "bullets": [
-        "\"Ce qu'il y a de primordial, c'est la formation technique et humaine\", déclare ce jeudi sur franceinfo Daniel Guillerm, président de la Fédération nationale des infirmiers (FNI), premier syndicat représentatif des infirmiers libéraux en France, à propos de l'aide à mourir.",
-        "Pour l'instant, \"la formation et les outils ne sont pas encore définis\", analyse Daniel Guillerm.",
-        "Dans le texte publié ce jeudi, la Haute Autorité de santé liste les substances susceptibles d'être utilisées, établit des protocoles sur la mise en œuvre de l'aide à mourir et détaille les conduites à tenir en cas de difficultés."
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
       ],
-      "publishedAt": "2026-11-19T16:20:19+00:00",
-      "updatedAt": "2026-11-19T16:20:19+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-21",
       "provenance": "article-extract",
-      "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T11:55:52.114862+00:00",
+      "enrichedAt": "2026-11-21T16:58:04.580722+00:00",
       "context": null
     },
     {
@@ -1161,30 +1148,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5f8463f9b210d44cb6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Contre la guerre et la vie chère, pour la jeunesse : les images des manifestations en Italie",
-      "bullets": [
-        "Contre la « militarisation » de la société et la vie chère, pour l’avenir des jeunes, l’éducation, le droit au logement, le climat : des dizaines de milliers de manifestants se mobilisent à travers l’Europe vendredi, sur fond de rejet des institutions."
-      ],
-      "publishedAt": "2026-11-20T16:55:11+00:00",
-      "updatedAt": "2026-11-20T16:55:11+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-21",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2d77a71e024eb737657f9fd6dfe8714e0a27e8994d02e31ba77cbbdd881b332d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1196,7 +1159,7 @@
       ],
       "publishedAt": "2026-11-18T16:00:08+00:00",
       "updatedAt": "2026-11-18T16:00:08+00:00",
-      "importance": 68,
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1281,6 +1244,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5d98915f3f9675988cfe8d456e109d8a2c9a1d4b08fbc3791b7c43788295a5f0",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-96839bdd5dbe524d59",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Capitalisation : votre retraite placée en bourse ?",
+      "bullets": [
+        "Procès Michel Zecler : les trois policiers condamnés à un à deux ans de prison ferme",
+        "Cette sacoche renferme un secret depuis 81 ans",
+        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
+      ],
+      "publishedAt": "2026-11-21T09:00:06+00:00",
+      "updatedAt": "2026-11-21T09:00:06+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-21",
+      "provenance": "article-extract",
+      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T09:59:06.416588+00:00",
+      "context": null
     },
     {
       "id": "rss-9554618b9ff8cbdf52",
@@ -1457,13 +1448,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
