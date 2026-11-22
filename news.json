@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T11:54:15.670370+00:00",
+  "preparedAt": "2026-11-22T13:10:04.130283+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -19,7 +19,7 @@
       ],
       "publishedAt": "2026-11-21T13:08:16+00:00",
       "updatedAt": "2026-11-21T13:08:16+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -56,6 +56,31 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-97ee3208e302c36936",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
+      "bullets": [
+        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
+        "La 11ᵉ fortune française vient d’avoir 100 ans."
+      ],
+      "publishedAt": "2026-11-22T05:00:31+00:00",
+      "updatedAt": "2026-11-22T05:00:31+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
       "detailLevel": "preview"
     },
     {
@@ -289,34 +314,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-89a46bef18f4dfd108",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures",
-      "bullets": [
-        "Ce chiffre représente près de cinq fois les quelque 800 millions de dollars que son prédécesseur, «Grand Theft Auto 5», avait générés au cours de ses premières 24 heures en 2013, une performance considérée jusqu’ici comme un sommet historique.",
-        "GTA 5 s’est écoulé à 235 millions d’exemplaires à ce jour selon Rockstar Games et a généré environ 10,8 milliards de dollars de chiffre d’affaires depuis sa sortie, selon le cabinet MoffettNathanson.",
-        "Son coût de développement est estimé entre 1 et 1,5 milliard de dollars, un montant jamais vu."
-      ],
-      "publishedAt": "2026-11-21T00:50:48+00:00",
-      "updatedAt": "2026-11-21T00:50:48+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "aade5b40dd5eebd0b963490d56f5d60125f740748c7d747948d4d933e307b0ba",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -384,7 +381,7 @@
       ],
       "publishedAt": "2026-11-21T00:33:30+00:00",
       "updatedAt": "2026-11-21T00:33:30+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -408,9 +405,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T11:54:16+00:00",
-      "updatedAt": "2026-11-22T11:54:16+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-22T13:05:13+00:00",
+      "updatedAt": "2026-11-22T13:05:13+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -434,9 +431,9 @@
       "bullets": [
         "ENTRETIEN - Malgré l’introduction en Bourse réussie du géant de l’IA, Anthropic, le secteur technologique a connu «sa pire semaine depuis la crise du Covid», entraînant dans sa chute les marchés financiers américains."
       ],
-      "publishedAt": "2026-11-21T20:38:34+00:00",
-      "updatedAt": "2026-11-21T20:38:34+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-22T12:42:13+00:00",
+      "updatedAt": "2026-11-22T12:42:13+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -819,6 +816,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-2a8624d32bf517dcae",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique",
+      "bullets": [
+        "Les écoles d'Odessa, grande ville portuaire du sud de l'Ukraine, passeront à l'enseignement à distance après des frappes russes ayant gravement endommagé le réseau énergétique, ont annoncé les autorités dimanche 22 novembre.",
+        "Le fournisseur d'énergie ukrainien Ukrenergo a prévenu dimanche que \"la situation de l'alimentation électrique dans la ville\" d'Odessa et ses environs \"reste extrêmement difficile\".",
+        "Depuis le début de l'automne, la Russie a intensifié sa campagne de frappes contre les infrastructures énergétiques ukrainiennes, alors que les températures sont en baisse."
+      ],
+      "publishedAt": "2026-11-22T12:46:04+00:00",
+      "updatedAt": "2026-11-22T12:46:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "796b500eeb32641b452dd83d2de6574f13ea9a40ff9e838950dcf3d389d70a81",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T13:10:04.130283+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d7f8729276b9577fb5",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique",
+      "bullets": [
+        "DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises."
+      ],
+      "publishedAt": "2026-11-22T12:00:12+00:00",
+      "updatedAt": "2026-11-22T12:00:12+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "26ae1517284126edbc96bca94af6ffda1db236c3f8c745fa03856825b6af7583",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5134a8c0a1edd11337",
       "revision": 1,
       "category": "world",
@@ -843,76 +892,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d7f8729276b9577fb5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique",
-      "bullets": [
-        "DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises."
-      ],
-      "publishedAt": "2026-11-22T09:00:54+00:00",
-      "updatedAt": "2026-11-22T09:00:54+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26ae1517284126edbc96bca94af6ffda1db236c3f8c745fa03856825b6af7583",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-97ee3208e302c36936",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
-      "bullets": [
-        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
-        "La 11ᵉ fortune française vient d’avoir 100 ans."
-      ],
-      "publishedAt": "2026-11-22T05:00:31+00:00",
-      "updatedAt": "2026-11-22T05:00:31+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-198331875102f5414f",
+      "id": "rss-ae767215d26974f1a3",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
+      "title": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
       "bullets": [
-        "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du…"
+        "Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles.",
+        "Ses équipes estiment qu’elle n’en a pas besoin pour se forger une « stature internationale » qu’elles considèrent déjà acquise."
       ],
-      "publishedAt": "2026-11-21T17:13:30+00:00",
-      "updatedAt": "2026-11-21T17:13:30+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-22T13:00:08+00:00",
+      "updatedAt": "2026-11-22T13:00:08+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
+      "summaryInput": "ebb4856f3086dacb750982fdfd99eae2ddcdd90b5b3b9b7f2527f20ec30e41ff",
       "detailLevel": "preview"
     },
     {
@@ -1051,7 +1052,7 @@
       ],
       "publishedAt": "2026-11-21T12:00:09+00:00",
       "updatedAt": "2026-11-21T12:00:09+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1090,6 +1091,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-198331875102f5414f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
+      "bullets": [
+        "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du…"
+      ],
+      "publishedAt": "2026-11-21T17:13:30+00:00",
+      "updatedAt": "2026-11-21T17:13:30+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1112,6 +1137,30 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-32f5543e8782e53808",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
+      "bullets": [
+        "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle."
+      ],
+      "publishedAt": "2026-11-22T13:00:11+00:00",
+      "updatedAt": "2026-11-22T13:00:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5767e19c4baaff29300fc3849e862421c5c3441eed3261df6958c1d146db487b",
       "detailLevel": "preview"
     },
     {
@@ -1143,30 +1192,6 @@
       "context": null
     },
     {
-      "id": "rss-d4305a06f590eca058",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
-      "bullets": [
-        "Le candidat de Nouvelle Energie affirme que le scrutin n’aurait de sens qu’avec la participation d’Edouard Philippe et d’Eric Zemmour, deux conditions quasi irréalisables qui font planer un peu plus le doute sur sa tenue."
-      ],
-      "publishedAt": "2026-11-21T22:46:30+00:00",
-      "updatedAt": "2026-11-21T22:46:30+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cde686c5ec6a964a674c301ca0dad21b06a6c740949df46876a42c106fda2e48",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
@@ -1179,7 +1204,7 @@
       ],
       "publishedAt": "2026-11-21T12:22:07+00:00",
       "updatedAt": "2026-11-21T12:22:07+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1193,31 +1218,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
       "context": null
-    },
-    {
-      "id": "rss-efbd471328ed07034f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : qui sont les candidats déclarés ou probables ?",
-      "bullets": [
-        "Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade.",
-        "Mais leur chemin reste très long jusqu’au scrutin d’avril 2027."
-      ],
-      "publishedAt": "2026-11-21T12:13:23+00:00",
-      "updatedAt": "2026-11-21T12:13:23+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f77c6536663d7bd4a5aaee5188074972f56b5f45c9bc73473454e0ed8675fda8",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-b49936f16da641c67b",
