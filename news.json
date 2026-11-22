@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T05:10:20.348600+00:00",
+  "preparedAt": "2026-11-22T06:08:18.397611+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -33,6 +33,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T01:23:56.485048+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be379830fdec5f1199",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "bullets": [
+        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+      ],
+      "publishedAt": "2026-11-21T11:01:50+00:00",
+      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-96839bdd5dbe524d59",
@@ -87,30 +111,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2e1c558735f4b760c2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget : les confidences de Thierry Cozic, nouveau président de la commission des finances du Sénat",
-      "bullets": [
-        "RÉCIT - Alors que les débats budgétaires semblent enlisés au Parlement, le socialiste souhaite profiter de la période pour « faire de la politique »."
-      ],
-      "publishedAt": "2026-11-20T17:15:00+00:00",
-      "updatedAt": "2026-11-20T17:15:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/budget-les-confidences-de-thierry-cozic-nouveau-president-de-la-commission-des-finances-du-senat-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bc02cfaf7ecdd90361ec674bbf47b73669e5c8009a4be2fae9e52dfc2bce3169",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c93051345edd9df248",
       "revision": 1,
       "category": "eco",
@@ -135,8 +135,57 @@
       "provenance": "article-extract",
       "summaryInput": "6f4853af020439ed53fee3ca97f8da51fbe7a1db2dc893536ea50f8a5529784d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2e1c558735f4b760c2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget : les confidences de Thierry Cozic, nouveau président de la commission des finances du Sénat",
+      "bullets": [
+        "RÉCIT - Alors que les débats budgétaires semblent enlisés au Parlement, le socialiste souhaite profiter de la période pour « faire de la politique »."
+      ],
+      "publishedAt": "2026-11-20T17:15:00+00:00",
+      "updatedAt": "2026-11-20T17:15:00+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-les-confidences-de-thierry-cozic-nouveau-president-de-la-commission-des-finances-du-senat-20261120",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bc02cfaf7ecdd90361ec674bbf47b73669e5c8009a4be2fae9e52dfc2bce3169",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-308a39deb675ee9bea",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Comme aux Etats-Unis, les victimes françaises d’accidents de la route sont de plus en plus courtisées par les avocats",
+      "bullets": [
+        "En France, l’indemnisation des accidentés de la route coûte trois fois plus cher qu’il y a vingt ans.",
+        "Les victimes y gagnent, mais les assureurs dénoncent une judiciarisation malsaine."
+      ],
+      "publishedAt": "2026-11-22T05:20:07+00:00",
+      "updatedAt": "2026-11-22T05:20:07+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/comme-aux-etats-unis-les-victimes-francaises-d-accidents-de-la-route-sont-de-plus-en-plus-courtisees-par-les-avocats_6814181_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "447fa7d270f43f5efdacf6551b24792e3264a5eb5e8c0c3506f7ea48747ba382",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-aa7682b0542ba6bfdd",
@@ -178,7 +227,7 @@
       ],
       "publishedAt": "2026-11-21T06:00:05+00:00",
       "updatedAt": "2026-11-21T06:00:05+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -202,7 +251,7 @@
       ],
       "publishedAt": "2026-11-21T05:25:05+00:00",
       "updatedAt": "2026-11-21T05:25:05+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -267,61 +316,8 @@
       "provenance": "article-extract",
       "summaryInput": "8d3a84f36dc441d0f41b7189c79a39b4239a5340d4e97391f2a68f90bc949276",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
       "context": null
-    },
-    {
-      "id": "rss-efa408ba8e5ee2076f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
-      "bullets": [
-        "Pour sa première séance au Nasdaq jeudi, l'action d'Anthropic, l'une des sociétés vedettes de l'intelligence artificielle, a terminé en hausse de 17 %, ayant porté sa capitalisation à environ 1280 milliards de dollars à la clôture, selon les données Bloomberg.",
-        "Mais cette euphorie a été tempérée dès vendredi matin par une chute de 9 % du cours du titre à l'ouverture de Wall Street.",
-        "Sa valorisation est retombée à son plus bas niveau depuis le 23 juin 2025, alors que son ex-patron Jensen Huang est empêtré dans un scandale mêlant adultère et contrebande présumée."
-      ],
-      "publishedAt": "2026-11-20T17:14:56+00:00",
-      "updatedAt": "2026-11-20T17:14:56+00:00",
-      "importance": 57,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/les-geants-historiques-de-l-ia-perdent-3500-milliards-de-dollars-de-capitalisation-en-six-semaines-20261120",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7aac722119e7d6cd70d895b6dc4b54077da3704a9442b9c149466db60985ae79",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T03:00:07.554015+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e04898e2190f4a6aca",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
-      "bullets": [
-        "L’introduction en Bourse, en fanfare, de la société qui développe l’assistant Claude, et la correction du titre dès le lendemain illustrent les promesses et les doutes qui entourent le modèle économique de l’intelligence artificielle.",
-        "Au vu de la contestation grandissante liée à l’implantation des centres de données, le déploiement de…"
-      ],
-      "publishedAt": "2026-11-21T10:30:10+00:00",
-      "updatedAt": "2026-11-21T10:30:10+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/21/anthropic-ou-le-pari-de-plus-en-plus-vertigineux-de-l-ia_6813980_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bedc3b7f00cd758a0251cbf3f0d01ba0aab7c116649e9201dcfe0f6db3f5a839",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -336,7 +332,7 @@
       ],
       "publishedAt": "2026-11-21T06:00:00+00:00",
       "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 96,
+      "importance": 95,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -349,6 +345,34 @@
       "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
       "detailLevel": "article",
       "enrichedAt": "2026-11-21T23:50:18.777004+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b414a4c5921dc93866",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "bullets": [
+        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
+        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
+        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
+      ],
+      "publishedAt": "2026-11-21T11:44:42+00:00",
+      "updatedAt": "2026-11-21T11:44:42+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T01:23:56.485048+00:00",
       "context": null
     },
     {
@@ -401,7 +425,7 @@
       "provenance": "article-extract",
       "summaryInput": "5e8cf6bde72467dc79317cfb404d913e56ab499fcad9f16825d88d585f1f5b67",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
       "context": null
     },
     {
@@ -415,8 +439,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T05:09:00+00:00",
-      "updatedAt": "2026-11-22T05:09:00+00:00",
+      "publishedAt": "2026-11-22T06:06:06+00:00",
+      "updatedAt": "2026-11-22T06:06:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -625,34 +649,6 @@
       "context": null
     },
     {
-      "id": "rss-49bf54c9b1b5a5c443",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
-      "bullets": [
-        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
-        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
-        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
-      ],
-      "publishedAt": "2026-11-19T09:30:00+00:00",
-      "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9243bc2b8cec9d3cf5",
       "revision": 1,
       "category": "world",
@@ -665,7 +661,7 @@
       ],
       "publishedAt": "2026-11-21T18:05:06+00:00",
       "updatedAt": "2026-11-21T18:05:06+00:00",
-      "importance": 87,
+      "importance": 86,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -754,30 +750,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-6f63e186ae0cf36350",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
-      "bullets": [
-        "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades européennes ont également été touchées."
-      ],
-      "publishedAt": "2026-11-20T17:55:11+00:00",
-      "updatedAt": "2026-11-20T17:55:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "650cd69550ef854a239277adcb489ff66c6cf985e8341db9f8b022eae4d368e4",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-58015f32853cbda557",
       "revision": 1,
       "category": "world",
@@ -806,56 +778,28 @@
       "context": null
     },
     {
-      "id": "rss-be379830fdec5f1199",
+      "id": "rss-6f63e186ae0cf36350",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+      "title": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
       "bullets": [
-        "La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles."
+        "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades européennes ont également été touchées."
       ],
-      "publishedAt": "2026-11-21T11:01:50+00:00",
-      "updatedAt": "2026-11-21T11:01:50+00:00",
+      "publishedAt": "2026-11-20T17:55:11+00:00",
+      "updatedAt": "2026-11-20T17:55:11+00:00",
       "importance": 76,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "85d3542f18a9748fe843b5575c4c821b07f1c7ae096664e401fbab41f557ec3b",
+      "summaryInput": "650cd69550ef854a239277adcb489ff66c6cf985e8341db9f8b022eae4d368e4",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b414a4c5921dc93866",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
-      "bullets": [
-        "La Bourse de New York a lourdement chuté, vendredi 20 novembre, croulant sous le poids des inquiétudes persistantes autour de l'intelligence artificielle (IA), un jour à peine après la cotation historique du géant du secteur Anthropic.",
-        "L'indice élargi S&P 500 a lui reculé de 3,70%, tandis que le Dow Jones a cédé 1,94%.",
-        "Incarnation de l'engouement pour l'IA, le mastodonte des puces Nvidia a cédé 12,64%, soit près de 500 milliards de dollars de capitalisation boursière partis en fumée rien que pour l'entreprise."
-      ],
-      "publishedAt": "2026-11-21T11:44:42+00:00",
-      "updatedAt": "2026-11-21T11:44:42+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "18bb38de7f42ec8526a5d02073a603382552112133ec084880a8222765b880cf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T01:23:56.485048+00:00",
-      "context": null
     },
     {
       "id": "rss-33a2ec86051616cbcd",
@@ -879,6 +823,30 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4076aa2f4ccaabb864",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+      "bullets": [
+        "Quelques jours avant le « Suneung », un examen décisif pour les lycéens, qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
+      ],
+      "publishedAt": "2026-11-22T05:55:03+00:00",
+      "updatedAt": "2026-11-22T05:55:03+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4309ed5709ede3808e4e47f019f1729811518c63144b380ba238e2d9f8eb3e2d",
       "detailLevel": "preview"
     },
     {
@@ -955,6 +923,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bef9c0f7b92f6c125b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien. Retrouvez les informations du 15 au 21 novembre.",
+      "bullets": [
+        "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen."
+      ],
+      "publishedAt": "2026-11-21T18:41:34+00:00",
+      "updatedAt": "2026-11-21T18:41:34+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "09d3e84ac1dbba19493d791587436232caaa4f2102d303495f1a1f7da54cc370",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-198331875102f5414f",
       "revision": 1,
       "category": "france",
@@ -965,7 +957,7 @@
       ],
       "publishedAt": "2026-11-21T17:13:30+00:00",
       "updatedAt": "2026-11-21T17:13:30+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -979,29 +971,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bfd481062d4820d27d",
+      "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
       "bullets": [
-        "Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon.",
-        "Cet « acte VI » de la mobilisation contre la vie chère s’inscrit aussi dans le cadre d’un appel européen."
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
       ],
-      "publishedAt": "2026-11-21T16:04:58+00:00",
-      "updatedAt": "2026-11-21T16:04:58+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1f1858cdf403ef23251320837c48712308cd0dc262adb4d1348e8d6c062ba225",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
+      "context": null
     },
     {
       "id": "rss-11b8615914a99ccff8",
@@ -1076,32 +1071,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
+      "id": "rss-0c1febf9f3c9edbcab",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
       "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
+        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-20T15:45:16+00:00",
+      "updatedAt": "2026-11-20T15:45:16+00:00",
+      "importance": 62,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1139,7 +1131,7 @@
       ],
       "publishedAt": "2026-11-21T18:02:40+00:00",
       "updatedAt": "2026-11-21T18:02:40+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1310,7 +1302,7 @@
       ],
       "publishedAt": "2026-11-21T06:00:00+00:00",
       "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1334,7 +1326,7 @@
       ],
       "publishedAt": "2026-11-21T05:30:02+00:00",
       "updatedAt": "2026-11-21T05:30:02+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1425,7 +1417,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
