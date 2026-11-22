@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T06:08:18.397611+00:00",
+  "preparedAt": "2026-11-22T07:25:52.306487+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -59,32 +59,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-96839bdd5dbe524d59",
-      "revision": 2,
+      "id": "rss-97ee3208e302c36936",
+      "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Capitalisation : votre retraite placée en bourse ?",
+      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
       "bullets": [
-        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-        "Cette sacoche renferme un secret depuis 81 ans"
+        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
+        "La 11ᵉ fortune française vient d’avoir 100 ans."
       ],
-      "publishedAt": "2026-11-21T09:00:06+00:00",
-      "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-22T05:00:31+00:00",
+      "updatedAt": "2026-11-22T05:00:31+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T22:53:49.923861+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-3fa32865f00a10659d",
@@ -97,7 +94,7 @@
       ],
       "publishedAt": "2026-11-21T07:00:00+00:00",
       "updatedAt": "2026-11-21T07:00:00+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -189,10 +186,10 @@
     },
     {
       "id": "rss-aa7682b0542ba6bfdd",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "INFO FRANCE INFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
+      "title": "INFO FRANCEINFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
       "bullets": [
         "Dans le cadre du sommet Choose France-Édition France qui se tient lundi à Paris, l'entreprise Blanc Aéro Industries, basée dans l'Aveyron, doit investir 39 millions d'euros dans ses moyens de production en France, a appris dimanche 22 novembre le service politique de franceinfo de sources concordantes.",
         "Cet investissement devrait permettre plusieurs dizaines de recrutements sur un site qui emploie aujourd'hui 630 personnes.",
@@ -210,9 +207,9 @@
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "article-extract",
-      "summaryInput": "1edea88e221506bfe48c20f9e17f7da46e1cf51e7dc4e8b41a8507c35d250acf",
+      "summaryInput": "bbfb25d7edfd7aacffaf4d131a99723fc14cf8341ccea7d1154fc2661659f2d2",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
       "context": null
     },
     {
@@ -304,7 +301,7 @@
       ],
       "publishedAt": "2026-11-20T18:50:55+00:00",
       "updatedAt": "2026-11-20T18:50:55+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -439,8 +436,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T06:06:06+00:00",
-      "updatedAt": "2026-11-22T06:06:06+00:00",
+      "publishedAt": "2026-11-22T07:23:53+00:00",
+      "updatedAt": "2026-11-22T07:23:53+00:00",
       "importance": 69,
       "sources": [
         {
@@ -673,7 +670,7 @@
       "provenance": "article-extract",
       "summaryInput": "e0ea54606efa1b2a5bd2c564035ee43e969619fff42e08d848cced72e5f8980b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T19:00:30.297994+00:00",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
       "context": null
     },
     {
@@ -711,7 +708,7 @@
       ],
       "publishedAt": "2026-11-21T19:00:02+00:00",
       "updatedAt": "2026-11-21T19:00:02+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -736,7 +733,7 @@
       ],
       "publishedAt": "2026-11-20T18:25:00+00:00",
       "updatedAt": "2026-11-20T18:25:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -748,34 +745,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "4ede6eed1e21bd99d7e6d78a6214c6132262b97fa90295fff865133eec849a33",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-58015f32853cbda557",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
-      "bullets": [
-        "Le président du Conseil européen a proposé, samedi 21 novembre, 204 milliards d'euros d'économie dans le futur budget de l'UE, dans l'espoir de conclure les négociations entre les Etats membres avant la fin de l'année.",
-        "Antonio Costa a présenté lors d'une conférence de presse ce projet de budget révisé pour la période 2028-2034, inférieur à la proposition initiale de la Commission, qui s'élevait à 2 000 milliards d'euros au total.",
-        "La France a aussitôt rejeté la proposition d'Antonio Costa, estimant qu'en l'état, elle \"ne constitue pas une base pour un accord\"."
-      ],
-      "publishedAt": "2026-11-21T11:27:41+00:00",
-      "updatedAt": "2026-11-21T11:27:41+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "5bd63d3a9254e4ac9f54d59169b3da793d3f835bde6f1c10f053607f30cd94c7",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T01:23:56.485048+00:00",
-      "context": null
     },
     {
       "id": "rss-6f63e186ae0cf36350",
@@ -827,12 +796,12 @@
     },
     {
       "id": "rss-4076aa2f4ccaabb864",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
       "bullets": [
-        "Quelques jours avant le « Suneung », un examen décisif pour les lycéens, qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
+        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
       ],
       "publishedAt": "2026-11-22T05:55:03+00:00",
       "updatedAt": "2026-11-22T05:55:03+00:00",
@@ -846,32 +815,7 @@
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "4309ed5709ede3808e4e47f019f1729811518c63144b380ba238e2d9f8eb3e2d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-97ee3208e302c36936",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
-      "bullets": [
-        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
-        "La 11ᵉ fortune française vient d’avoir 100 ans."
-      ],
-      "publishedAt": "2026-11-22T05:00:31+00:00",
-      "updatedAt": "2026-11-22T05:00:31+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
+      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
       "detailLevel": "preview"
     },
     {
@@ -933,7 +877,7 @@
       ],
       "publishedAt": "2026-11-21T18:41:34+00:00",
       "updatedAt": "2026-11-21T18:41:34+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -945,6 +889,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "09d3e84ac1dbba19493d791587436232caaa4f2102d303495f1a1f7da54cc370",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8ceba0b2ba8bc77f64",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "bullets": [
+        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
+        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
+        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+      ],
+      "publishedAt": "2026-11-21T17:18:07+00:00",
+      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-3821d2381b922aeb64",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "À bord du Train d'or pour découvrir les plus beaux paysages de la Norvège",
+      "bullets": [
+        "Voyager à bord du Train d'or, c'est remonter le fil de l'histoire de la Norvège.",
+        "Départ de la petite ville d'Andalsnes avec Morten Whalgmann, guide touristique.",
+        "À bord, Jurgen Heen Brovold, le chef de cabine, veille au confort des passagers."
+      ],
+      "publishedAt": "2026-11-21T15:03:08+00:00",
+      "updatedAt": "2026-11-21T15:03:08+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/a-bord-du-train-d-or-pour-decouvrir-les-plus-beaux-paysages-de-la-norvege_8293826.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "ae5007144f7f86ebcc3f1fa34c60d0fd78a400aefe19e9573934cfa8063bb7c8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
+      "context": null
     },
     {
       "id": "rss-198331875102f5414f",
@@ -971,32 +971,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-80db3329496c60a3e0",
+      "id": "rss-bfd481062d4820d27d",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+      "title": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
       "bullets": [
-        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
-        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
-        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
+        "Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon.",
+        "Cet « acte VI » de la mobilisation contre la vie chère s’inscrit aussi dans le cadre d’un appel européen."
       ],
-      "publishedAt": "2026-11-21T12:22:07+00:00",
-      "updatedAt": "2026-11-21T12:22:07+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-21T16:04:58+00:00",
+      "updatedAt": "2026-11-21T16:04:58+00:00",
+      "importance": 58,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "1f1858cdf403ef23251320837c48712308cd0dc262adb4d1348e8d6c062ba225",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-11b8615914a99ccff8",
@@ -1194,6 +1191,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-80db3329496c60a3e0",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+      "bullets": [
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
+      ],
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T06:08:18.397611+00:00",
+      "context": null
+    },
+    {
       "id": "rss-efbd471328ed07034f",
       "revision": 1,
       "category": "france",
@@ -1267,6 +1292,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-96839bdd5dbe524d59",
+      "revision": 2,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Capitalisation : votre retraite placée en bourse ?",
+      "bullets": [
+        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+        "Cette sacoche renferme un secret depuis 81 ans"
+      ],
+      "publishedAt": "2026-11-21T09:00:06+00:00",
+      "updatedAt": "2026-11-21T09:00:06+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T22:53:49.923861+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9554618b9ff8cbdf52",
       "revision": 1,
       "category": "france",
@@ -1289,54 +1342,6 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "86328e2a8bbe15e01ebccfec5e0e5989c98f82eb4fda37b41064315d20bc8a12",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-30c52cc5d5277ad786",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«Ça reste une réforme forcée» : en Mayenne, les débuts contrariés d’une «docteur junior» envoyée dans un désert médical",
-      "bullets": [
-        "REPORTAGE - Le 2 novembre, 2700 futurs généralistes ont entamé une quatrième année d’internat en pratique encadrée, instaurée par une réforme adoptée en 2022. À Renazé, ce renfort fait le bonheur des patients. Mais Élyse, l’une des «docteurs juniors», aurait volontiers fait l’économie de cette prolongation."
-      ],
-      "publishedAt": "2026-11-21T06:00:00+00:00",
-      "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/ca-reste-une-reforme-forcee-en-mayenne-les-debuts-contraries-d-une-docteur-junior-envoyee-dans-un-desert-medical-20261121",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bb34b956d659e5e50984223bc2bd44865d6833c4b7a01aeb3ab3faf17c1f426c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-95e195588eb1d27def",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "La BNF François-Mitterrand, à bout de souffle, évalue à 527 millions d’euros le budget nécessaire à sa survie",
-      "bullets": [
-        "Pannes à répétition, fuites et infiltrations, vétusté des installations, présence de souris, le bâtiment, signé par l’architecte Dominique Perrault et inauguré en 1995, nécessite une rénovation rapide."
-      ],
-      "publishedAt": "2026-11-21T05:30:02+00:00",
-      "updatedAt": "2026-11-21T05:30:02+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/21/la-bnf-francois-mitterrand-a-bout-de-souffle-evalue-a-527-millions-d-euros-le-budget-necessaire-a-sa-survie_6813945_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2668ed432614bc9363b03b4641f7a1547a5dfed28528edf7bedfb5fe43adaaf3",
       "detailLevel": "preview"
     }
   ],
@@ -1375,7 +1380,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
