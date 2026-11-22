@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T09:59:03.449356+00:00",
+  "preparedAt": "2026-11-22T10:57:06.238449+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -59,31 +59,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-97ee3208e302c36936",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
-      "bullets": [
-        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
-        "La 11ᵉ fortune française vient d’avoir 100 ans."
-      ],
-      "publishedAt": "2026-11-22T05:00:31+00:00",
-      "updatedAt": "2026-11-22T05:00:31+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-506f6eb2e74a88bf3b",
       "revision": 1,
       "category": "eco",
@@ -106,34 +81,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6bafe9e1e8c33298ed2c54204aeed6a0713554225775d409bca6c300d01de52a",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-96839bdd5dbe524d59",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Capitalisation : votre retraite placée en bourse ?",
-      "bullets": [
-        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-        "Cette sacoche renferme un secret depuis 81 ans"
-      ],
-      "publishedAt": "2026-11-21T09:00:06+00:00",
-      "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T22:53:49.923861+00:00",
-      "context": null
     },
     {
       "id": "rss-3fa32865f00a10659d",
@@ -314,6 +261,59 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-89a46bef18f4dfd108",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures",
+      "bullets": [
+        "Ce chiffre représente près de cinq fois les quelque 800 millions de dollars que son prédécesseur, «Grand Theft Auto 5», avait générés au cours de ses premières 24 heures en 2013, une performance considérée jusqu’ici comme un sommet historique.",
+        "GTA 5 s’est écoulé à 235 millions d’exemplaires à ce jour selon Rockstar Games et a généré environ 10,8 milliards de dollars de chiffre d’affaires depuis sa sortie, selon le cabinet MoffettNathanson.",
+        "Son coût de développement est estimé entre 1 et 1,5 milliard de dollars, un montant jamais vu."
+      ],
+      "publishedAt": "2026-11-21T00:50:48+00:00",
+      "updatedAt": "2026-11-21T00:50:48+00:00",
+      "importance": 57,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "aade5b40dd5eebd0b963490d56f5d60125f740748c7d747948d4d933e307b0ba",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-e04898e2190f4a6aca",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
+      "bullets": [
+        "L’introduction en Bourse, en fanfare, de la société qui développe l’assistant Claude, et la correction du titre dès le lendemain illustrent les promesses et les doutes qui entourent le modèle économique de l’intelligence artificielle.",
+        "Au vu de la contestation grandissante liée à l’implantation des centres de données, le déploiement de…"
+      ],
+      "publishedAt": "2026-11-21T10:30:10+00:00",
+      "updatedAt": "2026-11-21T10:30:10+00:00",
+      "importance": 53,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/21/anthropic-ou-le-pari-de-plus-en-plus-vertigineux-de-l-ia_6813980_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bedc3b7f00cd758a0251cbf3f0d01ba0aab7c116649e9201dcfe0f6db3f5a839",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -405,8 +405,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T09:58:01+00:00",
-      "updatedAt": "2026-11-22T09:58:01+00:00",
+      "publishedAt": "2026-11-22T10:52:06+00:00",
+      "updatedAt": "2026-11-22T10:52:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -764,6 +764,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4076aa2f4ccaabb864",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+      "bullets": [
+        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
+      ],
+      "publishedAt": "2026-11-22T05:55:03+00:00",
+      "updatedAt": "2026-11-22T05:55:03+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5134a8c0a1edd11337",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »",
+      "bullets": [
+        "Dans la nuit de samedi à dimanche, des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie, territoire palestinien occupé par Israël depuis 1967."
+      ],
+      "publishedAt": "2026-11-22T10:19:56+00:00",
+      "updatedAt": "2026-11-22T10:19:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "50f058d9f41772fef53df5f63676a37affb734d2b60cfca5bfb40b2801aad1ef",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d7f8729276b9577fb5",
       "revision": 1,
       "category": "world",
@@ -788,10 +836,35 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-97ee3208e302c36936",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
+      "bullets": [
+        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
+        "La 11ᵉ fortune française vient d’avoir 100 ans."
+      ],
+      "publishedAt": "2026-11-22T05:00:31+00:00",
+      "updatedAt": "2026-11-22T05:00:31+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-873958ea729e8bd3de",
       "revision": 1,
       "category": "world",
-      "topic": "Société",
+      "topic": "International",
       "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
       "bullets": [
         "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des associations se battent…"
@@ -834,86 +907,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "3c008ada5b341ba699d17c60a2b267c9321badab6124fd3788aaf1be607f5200",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bef9c0f7b92f6c125b",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien. Retrouvez les informations du 15 au 21 novembre.",
-      "bullets": [
-        "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen."
-      ],
-      "publishedAt": "2026-11-21T18:41:34+00:00",
-      "updatedAt": "2026-11-21T18:41:34+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "09d3e84ac1dbba19493d791587436232caaa4f2102d303495f1a1f7da54cc370",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8ceba0b2ba8bc77f64",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
-      "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
-      ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-3821d2381b922aeb64",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "À bord du Train d'or pour découvrir les plus beaux paysages de la Norvège",
-      "bullets": [
-        "Voyager à bord du Train d'or, c'est remonter le fil de l'histoire de la Norvège.",
-        "Départ de la petite ville d'Andalsnes avec Morten Whalgmann, guide touristique.",
-        "À bord, Jurgen Heen Brovold, le chef de cabine, veille au confort des passagers."
-      ],
-      "publishedAt": "2026-11-21T15:03:08+00:00",
-      "updatedAt": "2026-11-21T15:03:08+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/a-bord-du-train-d-or-pour-decouvrir-les-plus-beaux-paysages-de-la-norvege_8293826.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "ae5007144f7f86ebcc3f1fa34c60d0fd78a400aefe19e9573934cfa8063bb7c8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
-      "context": null
     },
     {
       "id": "rss-198331875102f5414f",
@@ -1000,8 +993,8 @@
       "bullets": [
         "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000 milliards d’euros par an, relève, dans sa chronique, Stéphane Foucart, journaliste…"
       ],
-      "publishedAt": "2026-11-22T04:50:09+00:00",
-      "updatedAt": "2026-11-22T04:50:09+00:00",
+      "publishedAt": "2026-11-22T04:50:06+00:00",
+      "updatedAt": "2026-11-22T04:50:06+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1040,29 +1033,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0c1febf9f3c9edbcab",
+      "id": "rss-8ceba0b2ba8bc77f64",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
+      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
       "bullets": [
-        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
-        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
+        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
+        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
+        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
       ],
-      "publishedAt": "2026-11-20T15:45:16+00:00",
-      "updatedAt": "2026-11-20T15:45:16+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-21T17:18:07+00:00",
+      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "importance": 66,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
+      "context": null
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1114,30 +1110,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4076aa2f4ccaabb864",
-      "revision": 2,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-      "bullets": [
-        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
-      ],
-      "publishedAt": "2026-11-22T05:55:03+00:00",
-      "updatedAt": "2026-11-22T05:55:03+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1173,7 +1145,7 @@
       ],
       "publishedAt": "2026-11-21T22:46:30+00:00",
       "updatedAt": "2026-11-21T22:46:30+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1190,7 +1162,7 @@
       "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Santé",
       "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
       "bullets": [
         "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
@@ -1288,6 +1260,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-96839bdd5dbe524d59",
+      "revision": 2,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Capitalisation : votre retraite placée en bourse ?",
+      "bullets": [
+        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+        "Cette sacoche renferme un secret depuis 81 ans"
+      ],
+      "publishedAt": "2026-11-21T09:00:06+00:00",
+      "updatedAt": "2026-11-21T09:00:06+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9554618b9ff8cbdf52",
       "revision": 1,
       "category": "france",
@@ -1348,7 +1348,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1372,13 +1372,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
