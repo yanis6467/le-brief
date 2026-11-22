@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T04:06:24.019656+00:00",
+  "preparedAt": "2026-11-22T05:10:20.348600+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -87,62 +87,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1f6318e86f15fd695d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "REPORTAGE. \"Les médias ont clairement été le déclencheur\" : en République tchèque, une réforme de l'audiovisuel public à l'origine d'une vaste mobilisation",
-      "bullets": [
-        "Depuis le mois d'octobre 2026, les manifestations se multiplient en République tchèque contre le projet de loi sur les médias publics porté par le gouvernement d'Andrej Babiš, figure du populisme de droite, allié à l'extrême droite.",
-        "L'exécutif assure de son côté qu'il n'en sera rien.",
-        "L'hebdomadaire Respekt - fondé en 1989 par des dissidents de la Charte 77 de Václav Havel - analyse l'évolution de la mobilisation : \"Les médias ont clairement été le déclencheur de la mobilisation et en sont, de toute évidence, le principal point de convergence, et le resteront sans doute."
-      ],
-      "publishedAt": "2026-11-21T06:46:51+00:00",
-      "updatedAt": "2026-11-21T06:46:51+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/reportage-les-medias-ont-clairement-ete-le-declencheur-en-republique-tcheque-une-reforme-de-l-audiovisuel-public-a-l-origine-d-une-vaste-mobilisation_8292938.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "bbb0c455715718275b686f41b235317b413b263274572b91f3333f11cbcf0108",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T16:58:04.580722+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c93051345edd9df248",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "IA : ils deviennent millionnaires en 24h",
-      "bullets": [
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
-      ],
-      "publishedAt": "2026-11-21T17:00:03+00:00",
-      "updatedAt": "2026-11-21T17:00:03+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/ia-ils-deviennent-millionnaires-en-24h_8293934.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "6f4853af020439ed53fee3ca97f8da51fbe7a1db2dc893536ea50f8a5529784d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2e1c558735f4b760c2",
       "revision": 1,
       "category": "eco",
@@ -167,27 +111,84 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cfbe29274ecbf8c4d0",
+      "id": "rss-c93051345edd9df248",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Chez Accor, le premier actionnaire exige le départ du PDG Sébastien Bazin",
+      "title": "IA : ils deviennent millionnaires en 24h",
       "bullets": [
-        "Le fonds britannique Parvus, qui possède 14,1 % du géant français de l’hôtellerie, réclame l’éviction de Sébastien Bazin, menaçant de demander sa révocation lors de la prochaine assemblée générale."
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+        "Cette sacoche renferme un secret depuis 81 ans",
+        "La sonde Voyager 1 est à 26 milliards de km de la Terre et continue d'émettre"
       ],
-      "publishedAt": "2026-11-20T17:00:02+00:00",
-      "updatedAt": "2026-11-20T17:00:02+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-21T17:00:03+00:00",
+      "updatedAt": "2026-11-21T17:00:03+00:00",
+      "importance": 62,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/ia-ils-deviennent-millionnaires-en-24h_8293934.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "6f4853af020439ed53fee3ca97f8da51fbe7a1db2dc893536ea50f8a5529784d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-aa7682b0542ba6bfdd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "INFO FRANCE INFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
+      "bullets": [
+        "Dans le cadre du sommet Choose France-Édition France qui se tient lundi à Paris, l'entreprise Blanc Aéro Industries, basée dans l'Aveyron, doit investir 39 millions d'euros dans ses moyens de production en France, a appris dimanche 22 novembre le service politique de franceinfo de sources concordantes.",
+        "Cet investissement devrait permettre plusieurs dizaines de recrutements sur un site qui emploie aujourd'hui 630 personnes.",
+        "Cette annonce permet à Emmanuel Macron de montrer qu'il laisse une France \"plus innovante, plus indépendante\", assume l'Elysée."
+      ],
+      "publishedAt": "2026-11-22T05:00:04+00:00",
+      "updatedAt": "2026-11-22T05:00:04+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "1edea88e221506bfe48c20f9e17f7da46e1cf51e7dc4e8b41a8507c35d250acf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-680a3d5ed6f8caf04f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "bullets": [
+        "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain.",
+        "Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+      ],
+      "publishedAt": "2026-11-21T06:00:05+00:00",
+      "updatedAt": "2026-11-21T06:00:05+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "3a7fa6a037c3fb7531996f5fe772d2e583894a150bbbe6f861a8baa573f41900",
+      "summaryInput": "19209c752f39ea032e75479e68862568facc0c5bde79e0ccad88375cf6a8c864",
       "detailLevel": "preview"
     },
     {
@@ -298,28 +299,28 @@
       "context": null
     },
     {
-      "id": "rss-1b955b0ea0f2f2ac0f",
+      "id": "rss-e04898e2190f4a6aca",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
+      "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
       "bullets": [
-        "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables.",
-        "Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés."
+        "L’introduction en Bourse, en fanfare, de la société qui développe l’assistant Claude, et la correction du titre dès le lendemain illustrent les promesses et les doutes qui entourent le modèle économique de l’intelligence artificielle.",
+        "Au vu de la contestation grandissante liée à l’implantation des centres de données, le déploiement de…"
       ],
-      "publishedAt": "2026-11-20T17:00:12+00:00",
-      "updatedAt": "2026-11-20T17:00:12+00:00",
-      "importance": 57,
+      "publishedAt": "2026-11-21T10:30:10+00:00",
+      "updatedAt": "2026-11-21T10:30:10+00:00",
+      "importance": 54,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/21/anthropic-ou-le-pari-de-plus-en-plus-vertigineux-de-l-ia_6813980_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "746d2452c8b7699782aa95c8603e27462be168b7f464854fb36c4eb5ddfde065",
+      "summaryInput": "bedc3b7f00cd758a0251cbf3f0d01ba0aab7c116649e9201dcfe0f6db3f5a839",
       "detailLevel": "preview"
     },
     {
@@ -414,8 +415,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T04:04:53+00:00",
-      "updatedAt": "2026-11-22T04:04:53+00:00",
+      "publishedAt": "2026-11-22T05:09:00+00:00",
+      "updatedAt": "2026-11-22T05:09:00+00:00",
       "importance": 69,
       "sources": [
         {
@@ -468,7 +469,7 @@
       ],
       "publishedAt": "2026-11-20T16:52:38+00:00",
       "updatedAt": "2026-11-20T16:52:38+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -508,7 +509,7 @@
       "provenance": "article-extract",
       "summaryInput": "6ef4ddd5d6a09681d21c77b6ff1f2e133d6a92423fae27eea44447030227d324",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T16:58:04.580722+00:00",
+      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
       "context": null
     },
     {
@@ -552,7 +553,7 @@
       ],
       "publishedAt": "2026-11-19T16:54:44+00:00",
       "updatedAt": "2026-11-19T16:54:44+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -596,34 +597,6 @@
       "context": null
     },
     {
-      "id": "rss-d8cecc7232f9196fdd",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Anthropic débarque à Wall Street, prêt à signer la plus grande introduction en Bourse de l'histoire... Faut-il pour autant se ruer dès le premier jour sur l'action du créateur de Claude ?",
-      "bullets": [
-        "En trois journées, l'action avait bondi de près de 50% et avait atteint son plus haut historique le 16 juin (225,64 dollars).",
-        "Depuis ce pic, l'action a rechuté de 60% et évolue désormais à peine au-dessus de son cours d'introduction (141,7 dollars contre 135 dollars).",
-        "Morningstar juge l'action \"sous-valorisée\" au vu de ses perspectives, estimant sa juste valeur à 92 dollars, contre 70 à 78 dollars visés par la société."
-      ],
-      "publishedAt": "2026-11-19T05:00:00+00:00",
-      "updatedAt": "2026-11-19T05:00:00+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/anthropic-debarque-a-wall-street-pret-a-signer-la-plus-grande-introduction-en-bourse-de-l-histoire-faut-il-pour-autant-se-ruer-des-le-premier-jour-sur-l-action-du-createur-de-claude-1174016.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "c9057019682d45ea9e56188754216c8b633094ad24e72a50891df96fa8adbd76",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T19:56:12.457570+00:00",
-      "context": null
-    },
-    {
       "id": "rss-606e9b5aec5f598bf1",
       "revision": 1,
       "category": "markets",
@@ -649,6 +622,34 @@
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-49bf54c9b1b5a5c443",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
+      "bullets": [
+        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
+        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
+        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
+      ],
+      "publishedAt": "2026-11-19T09:30:00+00:00",
+      "updatedAt": "2026-11-19T09:30:00+00:00",
+      "importance": 54,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
       "context": null
     },
     {
@@ -690,7 +691,7 @@
       ],
       "publishedAt": "2026-11-20T16:30:00+00:00",
       "updatedAt": "2026-11-20T16:30:00+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -881,85 +882,77 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cf36f7236cc41b8bb8",
+      "id": "rss-97ee3208e302c36936",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
+      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
       "bullets": [
-        "Alors que la pression s’accentue sur les élèves passant le fameux « Suneung », de nouvelles méthodes de triche à l’IA, plus efficaces et dures à détecter, mettent le gouvernement sud-coréen en alerte.",
-        "Les fouilles et les demandes d’aveux publics se multiplient, parfois jusqu’au drame."
+        "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
+        "La 11ᵉ fortune française vient d’avoir 100 ans."
       ],
-      "publishedAt": "2026-11-21T05:30:03+00:00",
-      "updatedAt": "2026-11-21T05:30:03+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-22T05:00:31+00:00",
+      "updatedAt": "2026-11-22T05:00:31+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "cf071797b4992478afc7ec7d4516da04850aba8e7705c3d96ff08c73219e3509",
+      "summaryInput": "ebcf86011d8283cb1b1e8ebad6caf5c51522bb3e6c60f9692ca6f521294ead87",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
+      "id": "rss-873958ea729e8bd3de",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
       "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+        "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des associations se battent…"
       ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "publishedAt": "2026-11-22T05:00:28+00:00",
+      "updatedAt": "2026-11-22T05:00:28+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "3d671a83dc40825161929a7d17c364e91556142896830dac4da36dbfeb92e073",
+      "detailLevel": "preview"
     },
     {
-      "id": "rss-3821d2381b922aeb64",
+      "id": "rss-e70f66341659082c37",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "À bord du Train d'or pour découvrir les plus beaux paysages de la Norvège",
+      "title": "A Londres, une église éthiopienne orthodoxe devenue le refuge d’une communauté exilée par la guerre",
       "bullets": [
-        "Voyager à bord du Train d'or, c'est remonter le fil de l'histoire de la Norvège.",
-        "Départ de la petite ville d'Andalsnes avec Morten Whalgmann, guide touristique.",
-        "À bord, Jurgen Heen Brovold, le chef de cabine, veille au confort des passagers."
+        "Après dix-neuf ans de lieux d’accueil temporaires et d’incertitudes, la paroisse qui constitue un point d’ancrage pour les exilés de la guerre vient de trouver dans la capitale britannique un bâtiment permanent pour sa communauté."
       ],
-      "publishedAt": "2026-11-21T15:03:08+00:00",
-      "updatedAt": "2026-11-21T15:03:08+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-22T05:00:11+00:00",
+      "updatedAt": "2026-11-22T05:00:11+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/a-bord-du-train-d-or-pour-decouvrir-les-plus-beaux-paysages-de-la-norvege_8293826.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/22/a-londres-une-eglise-ethiopienne-orthodoxe-devenue-le-refuge-d-une-communaute-exilee-par-la-guerre_6814174_6038514.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "ae5007144f7f86ebcc3f1fa34c60d0fd78a400aefe19e9573934cfa8063bb7c8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "3c008ada5b341ba699d17c60a2b267c9321badab6124fd3788aaf1be607f5200",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-198331875102f5414f",
@@ -986,28 +979,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d35e19286830d75ad1",
+      "id": "rss-bfd481062d4820d27d",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Projet de loi logement : les députés n’ont pas revoté sur le droit de louer les passoires thermiques",
+      "title": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
       "bullets": [
-        "L’examen de ce texte qui ambitionne de relancer la création de logements s’est achevé vendredi.",
-        "Le gouvernement mise sur une suppression ultérieure de l’amendement RN qui réautorise la mise en location des logements les plus énergivores."
+        "Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon.",
+        "Cet « acte VI » de la mobilisation contre la vie chère s’inscrit aussi dans le cadre d’un appel européen."
       ],
-      "publishedAt": "2026-11-20T19:33:59+00:00",
-      "updatedAt": "2026-11-20T19:33:59+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-21T16:04:58+00:00",
+      "updatedAt": "2026-11-21T16:04:58+00:00",
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
-      "summaryInput": "97307c50bb7ab89a8addf94774902902813e3e014b93b15eb18cc4dd22643c2e",
+      "summaryInput": "1f1858cdf403ef23251320837c48712308cd0dc262adb4d1348e8d6c062ba225",
       "detailLevel": "preview"
     },
     {
@@ -1021,7 +1014,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 84,
+      "importance": 83,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1035,32 +1028,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-76e39f380f882e28ba",
+      "id": "rss-b44e4a6424920ba2aa",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
+      "title": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
       "bullets": [
-        "\"Ce qu'il y a de primordial, c'est la formation technique et humaine\", déclare ce jeudi sur franceinfo Daniel Guillerm, président de la Fédération nationale des infirmiers (FNI), premier syndicat représentatif des infirmiers libéraux en France, à propos de l'aide à mourir.",
-        "Pour l'instant, \"la formation et les outils ne sont pas encore définis\", analyse Daniel Guillerm.",
-        "Dans le texte publié ce jeudi, la Haute Autorité de santé liste les substances susceptibles d'être utilisées, établit des protocoles sur la mise en œuvre de l'aide à mourir et détaille les conduites à tenir en cas de difficultés."
+        "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000 milliards d’euros par an, relève, dans sa chronique, Stéphane Foucart, journaliste…"
       ],
-      "publishedAt": "2026-11-19T16:20:19+00:00",
-      "updatedAt": "2026-11-19T16:20:19+00:00",
-      "importance": 63,
+      "publishedAt": "2026-11-22T04:50:09+00:00",
+      "updatedAt": "2026-11-22T04:50:09+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "435cb5ae1b0272e064a8867137ea2f5b65f111fe9c2d25221789a7e0602dc3c0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "fb5d7975bf3e99e5836480966427ddb84f2d728413ea83983e003479a5beee70",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-336f6a2a029b9f962b",
@@ -1087,29 +1076,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0c1febf9f3c9edbcab",
+      "id": "rss-8ceba0b2ba8bc77f64",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
+      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
       "bullets": [
-        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
-        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
+        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
+        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
+        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
       ],
-      "publishedAt": "2026-11-20T15:45:16+00:00",
-      "updatedAt": "2026-11-20T15:45:16+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-21T17:18:07+00:00",
+      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "importance": 67,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-21T17:54:03.287150+00:00",
+      "context": null
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1433,13 +1425,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
