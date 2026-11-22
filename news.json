@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T22:56:01.997038+00:00",
+  "edition": "2026-11-23",
+  "preparedAt": "2026-11-22T23:53:46.470362+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -73,7 +73,7 @@
       ],
       "publishedAt": "2026-11-21T11:01:50+00:00",
       "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -95,8 +95,8 @@
       "bullets": [
         "Cette édition, réservée aux entreprises françaises qui investissent dans le pays, décompte 14,9 milliards d’euros d’investissements nouveaux, soit 81 projets inédits, notamment dans les secteurs de la santé, de la cosmétique, ou des biocarburants."
       ],
-      "publishedAt": "2026-11-22T18:42:12+00:00",
-      "updatedAt": "2026-11-22T18:42:12+00:00",
+      "publishedAt": "2026-11-22T18:42:11+00:00",
+      "updatedAt": "2026-11-22T18:42:11+00:00",
       "importance": 67,
       "sources": [
         {
@@ -108,31 +108,6 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "ec3b2ef813cfa662960c868a66e79dba1cbed3b2af6eb5ae9c345ba54e91dd2f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-97ee3208e302c36936",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
-      "bullets": [
-        "Un âpre conflit de gouvernance tourmente le géant des boissons, au sein duquel on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
-        "La 11ᵉ fortune française vient d’avoir 100 ans."
-      ],
-      "publishedAt": "2026-11-22T05:00:20+00:00",
-      "updatedAt": "2026-11-22T05:00:20+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ac44838493ae90144b9251ce2206cc238455f75a457eff395a248e38005f31cf",
       "detailLevel": "preview"
     },
     {
@@ -320,6 +295,30 @@
       "context": null
     },
     {
+      "id": "rss-a48ad240f54f479e97",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Ça me libère l’esprit» : l’étonnant essor des crèches pour chiens, qui surfent sur le marché du bien-être animal",
+      "bullets": [
+        "Payer plusieurs centaines d’euros par mois pour faire garder son chien dans un espace spécialement aménagé pour lui : ce concept, tout droit venu des États-Unis, commence à s’implanter en France."
+      ],
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "updatedAt": "2026-11-22T08:00:00+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/ca-me-libere-l-esprit-l-etonnant-essor-des-creches-pour-chiens-qui-surfent-sur-le-marche-du-bien-etre-animal-20261122",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0e9914c29aecc4de943051cc4278970e2559b7b243181bf10a1b5d471222235e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -358,8 +357,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T22:51:22+00:00",
-      "updatedAt": "2026-11-22T22:51:22+00:00",
+      "publishedAt": "2026-11-22T23:45:07+00:00",
+      "updatedAt": "2026-11-22T23:45:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -496,7 +495,7 @@
       ],
       "publishedAt": "2026-11-22T11:09:56+00:00",
       "updatedAt": "2026-11-22T11:09:56+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -548,7 +547,7 @@
       ],
       "publishedAt": "2026-11-22T11:12:16+00:00",
       "updatedAt": "2026-11-22T11:12:16+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1156,7 +1155,7 @@
       ],
       "publishedAt": "2026-11-21T11:00:00+00:00",
       "updatedAt": "2026-11-21T11:00:00+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Figaro",
