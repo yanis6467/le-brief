@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T16:58:25.045514+00:00",
+  "preparedAt": "2026-11-22T17:53:36.989715+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -147,7 +147,7 @@
       ],
       "publishedAt": "2026-11-21T17:00:03+00:00",
       "updatedAt": "2026-11-21T17:00:03+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -198,7 +198,7 @@
       ],
       "publishedAt": "2026-11-22T05:20:07+00:00",
       "updatedAt": "2026-11-22T05:20:07+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -224,7 +224,7 @@
       ],
       "publishedAt": "2026-11-22T05:00:04+00:00",
       "updatedAt": "2026-11-22T05:00:04+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -275,7 +275,7 @@
       ],
       "publishedAt": "2026-11-21T05:25:05+00:00",
       "updatedAt": "2026-11-21T05:25:05+00:00",
-      "importance": 57,
+      "importance": 56,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -408,8 +408,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T16:57:51+00:00",
-      "updatedAt": "2026-11-22T16:57:51+00:00",
+      "publishedAt": "2026-11-22T17:48:50+00:00",
+      "updatedAt": "2026-11-22T17:48:50+00:00",
       "importance": 69,
       "sources": [
         {
@@ -502,7 +502,7 @@
       "provenance": "article-extract",
       "summaryInput": "6ef4ddd5d6a09681d21c77b6ff1f2e133d6a92423fae27eea44447030227d324",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T05:10:20.348600+00:00",
+      "enrichedAt": "2026-11-22T17:53:36.989715+00:00",
       "context": null
     },
     {
@@ -931,7 +931,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 83,
+      "importance": 82,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1005,7 +1005,7 @@
       ],
       "publishedAt": "2026-11-21T17:18:07+00:00",
       "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1080,7 +1080,7 @@
       ],
       "publishedAt": "2026-11-21T17:13:30+00:00",
       "updatedAt": "2026-11-21T17:13:30+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1091,6 +1091,54 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e5646fc5fa741234c5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "L’idée d’une « règle d’or » budgétaire dans la Constitution soutenue par Marine Le Pen et Thierry Breton, critiquée par Gabriel Zucman",
+      "bullets": [
+        "Le projet d’un Congrès convoqué par Emmanuel Macron sur ce sujet avant l’élection présidentielle, évoqué dans « La Tribune Dimanche », et sur lequel l’Elysée n’a fait aucun commentaire, consisterait à faire adopter un projet de loi constitutionnel encadrant les déficits publics."
+      ],
+      "publishedAt": "2026-11-22T17:21:58+00:00",
+      "updatedAt": "2026-11-22T17:21:58+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3792574c26a7291db66924201e0d4e0cbcf429ee29fcccda6c4ffdcb622383e9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d27f54b55410f6c596",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques",
+      "bullets": [
+        "Le président songerait à réunir députés et sénateurs en janvier, en s’appuyant sur un projet de loi constitutionnelle adopté par l’Assemblée et le Sénat en 2011, mais jamais soumis au vote final."
+      ],
+      "publishedAt": "2026-11-22T17:12:47+00:00",
+      "updatedAt": "2026-11-22T17:12:47+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bbb518d4bec98191542d0a3a572064168bb85f11e97a34248dd29f0982cbf5a3",
       "detailLevel": "preview"
     },
     {
@@ -1122,58 +1170,6 @@
       "context": null
     },
     {
-      "id": "rss-248aaae68665b287e4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
-      "bullets": [
-        "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions."
-      ],
-      "publishedAt": "2026-11-22T14:01:15+00:00",
-      "updatedAt": "2026-11-22T14:01:15+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dd03731b0ec8d4782e8935109090dace9b65a8e81cca88e830bfdaed3f3c349e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5a0ef189e01ca07500",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
-      "bullets": [
-        "Interrogé par l'AFP, l'Élysée n'a fait aucun commentaire samedi soir sur ses informations.",
-        "Selon la Tribune Dimanche, Emmanuel Macron envisagerait de s'appuyer sur un projet de loi constitutionnelle voté dans les mêmes termes en 2011 par les deux chambres, à l'initiative du gouvernement de François Fillon.",
-        "Texte de 2011 «Heureux que le chef de l'État semble s'être rallié à notre demande d'inscrire dans la Constitution une règle d'or budgétaire», a rapidement réagi le président du Rassemblement national Jordan Bardella, promis à Matignon en cas de victoire de Marine Le Pen à l'élection présidentielle."
-      ],
-      "publishedAt": "2026-11-22T11:36:09+00:00",
-      "updatedAt": "2026-11-22T11:36:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-reflechirait-a-convoquer-le-congres-pour-instaurer-une-regle-d-or-20261122",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "e5d7176800ec96e32c1814b2ef4e1365927aa658c35c89d64a646d3aa4204b4f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T08:59:11.738661+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9b4f87305c622cb743",
       "revision": 1,
       "category": "france",
@@ -1197,6 +1193,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-80db3329496c60a3e0",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+      "bullets": [
+        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
+        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
+        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
+      ],
+      "publishedAt": "2026-11-21T12:22:07+00:00",
+      "updatedAt": "2026-11-21T12:22:07+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T17:53:36.989715+00:00",
+      "context": null
     },
     {
       "id": "rss-b49936f16da641c67b",
@@ -1245,34 +1269,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5d98915f3f9675988cfe8d456e109d8a2c9a1d4b08fbc3791b7c43788295a5f0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-96839bdd5dbe524d59",
-      "revision": 2,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Capitalisation : votre retraite placée en bourse ?",
-      "bullets": [
-        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-        "Cette sacoche renferme un secret depuis 81 ans"
-      ],
-      "publishedAt": "2026-11-21T09:00:06+00:00",
-      "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1358,7 +1354,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
@@ -1376,7 +1372,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
