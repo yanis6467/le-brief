@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T08:59:11.738661+00:00",
+  "preparedAt": "2026-11-22T09:59:03.449356+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -120,7 +120,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:06+00:00",
       "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -405,8 +405,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T08:55:07+00:00",
-      "updatedAt": "2026-11-22T08:55:07+00:00",
+      "publishedAt": "2026-11-22T09:58:01+00:00",
+      "updatedAt": "2026-11-22T09:58:01+00:00",
       "importance": 69,
       "sources": [
         {
@@ -515,7 +515,7 @@
       ],
       "publishedAt": "2026-11-19T21:06:06+00:00",
       "updatedAt": "2026-11-19T21:06:06+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -612,34 +612,6 @@
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-49bf54c9b1b5a5c443",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Une concurrence intense, des prix sous pression, des centaines de milliards de dollars de factures à régler… Les menaces qui pèsent sur le modèle économique d'Anthropic à l'heure de son entrée en Bourse",
-      "bullets": [
-        "Anthropic, devenue en cinq ans un géant de l'IA valorisé plus de 1.000 milliards de dollars, vise la deuxième plus grosse entrée en Bourse de l'histoire.",
-        "Car un ralentissement de croissance, passée de 145% entre le premier et le deuxième trimestre à 45% sur les trois mois suivants, a suffi à refroidir les esprits.",
-        "L'effet s'observe déjà chez Vercel, une plateforme pour développeurs qui répartit leurs demandes entre différents modèles d'IA : en septembre, plus de 70% du texte a été traité par des modèles ouverts, contre 13% en avril."
-      ],
-      "publishedAt": "2026-11-19T09:30:00+00:00",
-      "updatedAt": "2026-11-19T09:30:00+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/une-concurrence-intense-des-prix-sous-pression-des-centaines-de-milliards-de-dollars-de-factures-a-regler-les-menaces-qui-pesent-sur-le-modele-economique-d-anthropic-a-l-heure-de-son-entree-en-bourse-1174049.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "b8f2a1ce86f61db37a46e2a5475871cc390e11f22e5b0dc54e1c7ec6321e5531",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T08:59:11.738661+00:00",
       "context": null
     },
     {
@@ -792,30 +764,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4076aa2f4ccaabb864",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-      "bullets": [
-        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
-      ],
-      "publishedAt": "2026-11-22T05:55:03+00:00",
-      "updatedAt": "2026-11-22T05:55:03+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d7f8729276b9577fb5",
       "revision": 1,
       "category": "world",
@@ -824,8 +772,8 @@
       "bullets": [
         "DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises."
       ],
-      "publishedAt": "2026-11-22T08:46:54+00:00",
-      "updatedAt": "2026-11-22T08:46:54+00:00",
+      "publishedAt": "2026-11-22T09:00:54+00:00",
+      "updatedAt": "2026-11-22T09:00:54+00:00",
       "importance": 67,
       "sources": [
         {
@@ -843,7 +791,7 @@
       "id": "rss-873958ea729e8bd3de",
       "revision": 1,
       "category": "world",
-      "topic": "International",
+      "topic": "Société",
       "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
       "bullets": [
         "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des associations se battent…"
@@ -910,6 +858,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "09d3e84ac1dbba19493d791587436232caaa4f2102d303495f1a1f7da54cc370",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8ceba0b2ba8bc77f64",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "bullets": [
+        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
+        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
+        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+      ],
+      "publishedAt": "2026-11-21T17:18:07+00:00",
+      "updatedAt": "2026-11-21T17:18:07+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
+      "context": null
     },
     {
       "id": "rss-3821d2381b922aeb64",
@@ -1064,32 +1040,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
+      "id": "rss-0c1febf9f3c9edbcab",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
       "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
+        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-20T15:45:16+00:00",
+      "updatedAt": "2026-11-20T15:45:16+00:00",
+      "importance": 62,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1138,6 +1111,30 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "e765caa8832ccc5d601213608258234dafb7cec1a06781522f7b41f3ba08392f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4076aa2f4ccaabb864",
+      "revision": 2,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+      "bullets": [
+        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
+      ],
+      "publishedAt": "2026-11-22T05:55:03+00:00",
+      "updatedAt": "2026-11-22T05:55:03+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
       "detailLevel": "preview"
     },
     {
@@ -1277,7 +1274,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:27+00:00",
       "updatedAt": "2026-11-21T09:00:27+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1302,7 +1299,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:00+00:00",
       "updatedAt": "2026-11-21T09:00:00+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1313,30 +1310,6 @@
       "verifiedAt": "2026-11-22",
       "provenance": "rss-excerpt",
       "summaryInput": "86328e2a8bbe15e01ebccfec5e0e5989c98f82eb4fda37b41064315d20bc8a12",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-30c52cc5d5277ad786",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "«Ça reste une réforme forcée» : en Mayenne, les débuts contrariés d’une «docteur junior» envoyée dans un désert médical",
-      "bullets": [
-        "REPORTAGE - Le 2 novembre, 2700 futurs généralistes ont entamé une quatrième année d’internat en pratique encadrée, instaurée par une réforme adoptée en 2022. À Renazé, ce renfort fait le bonheur des patients. Mais Élyse, l’une des «docteurs juniors», aurait volontiers fait l’économie de cette prolongation."
-      ],
-      "publishedAt": "2026-11-21T06:00:00+00:00",
-      "updatedAt": "2026-11-21T06:00:00+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/ca-reste-une-reforme-forcee-en-mayenne-les-debuts-contraries-d-une-docteur-junior-envoyee-dans-un-desert-medical-20261121",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bb34b956d659e5e50984223bc2bd44865d6833c4b7a01aeb3ab3faf17c1f426c",
       "detailLevel": "preview"
     }
   ],
@@ -1375,7 +1348,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
