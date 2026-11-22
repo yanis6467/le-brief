@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T10:57:06.238449+00:00",
+  "preparedAt": "2026-11-22T11:54:15.670370+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -45,7 +45,7 @@
       ],
       "publishedAt": "2026-11-21T11:01:50+00:00",
       "updatedAt": "2026-11-21T11:01:50+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -81,6 +81,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6bafe9e1e8c33298ed2c54204aeed6a0713554225775d409bca6c300d01de52a",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-96839bdd5dbe524d59",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Capitalisation : votre retraite placée en bourse ?",
+      "bullets": [
+        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+        "Cette sacoche renferme un secret depuis 81 ans"
+      ],
+      "publishedAt": "2026-11-21T09:00:06+00:00",
+      "updatedAt": "2026-11-21T09:00:06+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
+      "context": null
     },
     {
       "id": "rss-3fa32865f00a10659d",
@@ -289,31 +317,6 @@
       "context": null
     },
     {
-      "id": "rss-e04898e2190f4a6aca",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
-      "bullets": [
-        "L’introduction en Bourse, en fanfare, de la société qui développe l’assistant Claude, et la correction du titre dès le lendemain illustrent les promesses et les doutes qui entourent le modèle économique de l’intelligence artificielle.",
-        "Au vu de la contestation grandissante liée à l’implantation des centres de données, le déploiement de…"
-      ],
-      "publishedAt": "2026-11-21T10:30:10+00:00",
-      "updatedAt": "2026-11-21T10:30:10+00:00",
-      "importance": 53,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/21/anthropic-ou-le-pari-de-plus-en-plus-vertigineux-de-l-ia_6813980_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bedc3b7f00cd758a0251cbf3f0d01ba0aab7c116649e9201dcfe0f6db3f5a839",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -338,7 +341,7 @@
       "provenance": "article-extract",
       "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-21T23:50:18.777004+00:00",
+      "enrichedAt": "2026-11-22T11:54:15.670370+00:00",
       "context": null
     },
     {
@@ -354,7 +357,7 @@
       ],
       "publishedAt": "2026-11-21T11:44:42+00:00",
       "updatedAt": "2026-11-21T11:44:42+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -405,9 +408,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T10:52:06+00:00",
-      "updatedAt": "2026-11-22T10:52:06+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-22T11:54:16+00:00",
+      "updatedAt": "2026-11-22T11:54:16+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -559,34 +562,6 @@
       "context": null
     },
     {
-      "id": "rss-11153d0d4975be306c",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "L'action n'est pas encore cotée mais gagnerait déjà 24% sur le «marché gris»... Anthropic affole les compteurs à l'aPPR (ex Pinault Printemps)oche de son entrée en fanfare au Nasdaq",
-      "bullets": [
-        "Le laboratoire d’intelligence artificielle a levé 107,3 milliards de dollars dans le cadre de son introduction en Bourse et d’un placement privé, tous deux revus à la hausse.",
-        "Anthropic dépasse ainsi le précédent record établi par SpaceX et relègue loin derrière Saudi Aramco, qui avait levé environ 25,6 milliards de dollars en 2019.",
-        "Ces paris ont déjà généré environ 9 millions de dollars de volume d’échanges, ajoute le média financier."
-      ],
-      "publishedAt": "2026-11-19T11:00:11+00:00",
-      "updatedAt": "2026-11-19T11:00:11+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/l-action-n-est-pas-encore-cotee-mais-gagnerait-deja-24-sur-le-marche-gris-anthropic-affole-les-compteurs-a-l-approche-de-son-entree-en-fanfare-au-nasdaq-1174094.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "763c9db752c69eeec6338667ca2b984f58861f1ded96797d1f8a427148a9923b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
-      "context": null
-    },
-    {
       "id": "rss-606e9b5aec5f598bf1",
       "revision": 1,
       "category": "markets",
@@ -612,6 +587,34 @@
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-492d4e0fbd6ed2b522",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan",
+      "bullets": [
+        "Invité du 8.30 franceinfo ce dimanche, Nicolas Dupont-Aignan, candidat à l’élection présidentielle estime que la \"boucherie\" en Ukraine \"est alimentée notamment par l'Union européenne\" et \"les Européens devraient être à la table des négociations avec Donald Trump, avec Poutine pour régler ce problème avant qu'ils ne ruinent l'Europe\".",
+        "Le pays dirigé par Vladimir Poutine est par ailleurs accusé par l'Ukraine d'avoir violé à plusieurs reprises des cessez-le-feu - Moscou accuse Kiev des mêmes faits.",
+        "S'il est élu président, Nicolas Dupont-Aignan indique qu'il cessera les aides à l'Ukraine dès \"le premier jour\"."
+      ],
+      "publishedAt": "2026-11-22T11:09:56+00:00",
+      "updatedAt": "2026-11-22T11:09:56+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "7eec268289e95f26979b72a349b4f758d9abf1dbac62f05400b3fbe4860cba2b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T11:54:15.670370+00:00",
       "context": null
     },
     {
@@ -665,6 +668,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2609609b22e06f34117b08b2a179c5ad2a15d77b7e40dc6023014b739a442894",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0073d97d4767a96e7e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+      "bullets": [
+        "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le Likoud du Premier ministre sortant Benyamin Nétanyahou à des pourparlers pour former une coalition, samedi 21 novembre.",
+        "Des représentants des deux formations s'étaient déjà rencontrés la semaine précédente.",
+        "Peu après l'annonce de Yashar, le Likoud a posé plusieurs conditions pour intégrer un gouvernement d'union – une option en faveur de laquelle plaide le Premier ministre sortant –, exigeant notamment la fin de \"toutes les attaques personnelles et incitations à la haine\" visant selon lui Benyamin Nétanyahou et son gouvernement."
+      ],
+      "publishedAt": "2026-11-22T11:12:16+00:00",
+      "updatedAt": "2026-11-22T11:12:16+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "5fee71e6a7406d038346d2212272bfcbe87975528b8ead2743127b6e8f646501",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T11:54:15.670370+00:00",
+      "context": null
     },
     {
       "id": "rss-078d4a2ee94f1ba975",
@@ -861,54 +892,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-873958ea729e8bd3de",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
-      "bullets": [
-        "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des associations se battent…"
-      ],
-      "publishedAt": "2026-11-22T05:00:28+00:00",
-      "updatedAt": "2026-11-22T05:00:28+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3d671a83dc40825161929a7d17c364e91556142896830dac4da36dbfeb92e073",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e70f66341659082c37",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Londres, une église éthiopienne orthodoxe devenue le refuge d’une communauté exilée par la guerre",
-      "bullets": [
-        "Après dix-neuf ans de lieux d’accueil temporaires et d’incertitudes, la paroisse qui constitue un point d’ancrage pour les exilés de la guerre vient de trouver dans la capitale britannique un bâtiment permanent pour sa communauté."
-      ],
-      "publishedAt": "2026-11-22T05:00:11+00:00",
-      "updatedAt": "2026-11-22T05:00:11+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/22/a-londres-une-eglise-ethiopienne-orthodoxe-devenue-le-refuge-d-une-communaute-exilee-par-la-guerre_6814174_6038514.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3c008ada5b341ba699d17c60a2b267c9321badab6124fd3788aaf1be607f5200",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-198331875102f5414f",
       "revision": 1,
       "category": "france",
@@ -943,8 +926,8 @@
         "Selon la Tribune Dimanche, Emmanuel Macron envisagerait de s'appuyer sur un projet de loi constitutionnelle voté dans les mêmes termes en 2011 par les deux chambres, à l'initiative du gouvernement de François Fillon.",
         "Texte de 2011 «Heureux que le chef de l'État semble s'être rallié à notre demande d'inscrire dans la Constitution une règle d'or budgétaire», a rapidement réagi le président du Rassemblement national Jordan Bardella, promis à Matignon en cas de victoire de Marine Le Pen à l'élection présidentielle."
       ],
-      "publishedAt": "2026-11-22T08:07:39+00:00",
-      "updatedAt": "2026-11-22T08:07:39+00:00",
+      "publishedAt": "2026-11-22T11:36:09+00:00",
+      "updatedAt": "2026-11-22T11:36:09+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1033,32 +1016,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
+      "id": "rss-0c1febf9f3c9edbcab",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
+      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
       "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
+        "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions.",
+        "Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon."
       ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-20T15:45:16+00:00",
+      "updatedAt": "2026-11-20T15:45:16+00:00",
+      "importance": 62,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T07:25:52.306487+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "30302c5b1c40714880fa9abd0ebfe2cce02dcfb2ab3315278417cb0fa98bee71",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-4e1410d82832836ae7",
@@ -1135,6 +1115,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-808b892a726a089ab2",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "«Un bouclier qui protège les Français»: la droite et le RN sont prêts à soutenir un projet de règle d'or budgétaire",
+      "bullets": [
+        "Cette règle d'or devra interdire la présentation de tout budget aggravant la dette de la Nation.",
+        "«Qu'Emmanuel Macron attende le dixième budget ultradéficitaire voté sous sa présidence pour l'envisager en dit long sur ce président qui aura attendu d'avoir vidé le coffre pour se décider à y mettre un verrou», a-t-il immédiatement ajouté.",
+        "La France est scrutée, à tout moment, les agences de notation peuvent dégrader notre note, a réagi Vincent Jeanbrun ce dimanche sur Europe 1."
+      ],
+      "publishedAt": "2026-11-22T11:24:35+00:00",
+      "updatedAt": "2026-11-22T11:24:35+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/un-bouclier-qui-protege-les-francais-la-droite-et-le-rn-sont-prets-a-soutenir-un-projet-de-regle-d-or-budgetaire-20261122",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "article-extract",
+      "summaryInput": "ee4b512cc1805fc1aa26323af9a4d3eaa642d49b2127494fe573645cf11eaed9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-22T11:54:15.670370+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d4305a06f590eca058",
       "revision": 2,
       "category": "france",
@@ -1162,7 +1170,7 @@
       "id": "rss-80db3329496c60a3e0",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
+      "topic": "Société",
       "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
       "bullets": [
         "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
@@ -1222,7 +1230,7 @@
       ],
       "publishedAt": "2026-11-21T11:00:00+00:00",
       "updatedAt": "2026-11-21T11:00:00+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1258,34 +1266,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5d98915f3f9675988cfe8d456e109d8a2c9a1d4b08fbc3791b7c43788295a5f0",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-96839bdd5dbe524d59",
-      "revision": 2,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Capitalisation : votre retraite placée en bourse ?",
-      "bullets": [
-        "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-        "Cette sacoche renferme un secret depuis 81 ans"
-      ],
-      "publishedAt": "2026-11-21T09:00:06+00:00",
-      "updatedAt": "2026-11-21T09:00:06+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/retraite/capitalisation-votre-retraite-placee-en-bourse_8292569.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "8ff87ac10d0b5d6d2866f72fdfd67a88ef08b321d9ae1fc3f16b030995af5401",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T10:57:06.238449+00:00",
-      "context": null
     },
     {
       "id": "rss-9554618b9ff8cbdf52",
@@ -1372,7 +1352,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1426,7 +1406,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
