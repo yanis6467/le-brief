@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-22",
-  "preparedAt": "2026-11-22T15:56:32.872449+00:00",
+  "preparedAt": "2026-11-22T16:58:25.045514+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -408,8 +408,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-22T15:55:24+00:00",
-      "updatedAt": "2026-11-22T15:55:24+00:00",
+      "publishedAt": "2026-11-22T16:57:51+00:00",
+      "updatedAt": "2026-11-22T16:57:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -462,7 +462,7 @@
       ],
       "publishedAt": "2026-11-20T16:52:38+00:00",
       "updatedAt": "2026-11-20T16:52:38+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -534,34 +534,6 @@
       "context": null
     },
     {
-      "id": "rss-6d2d32b7333f2d91a6",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Encore plus fort que SpaceX... Débuts canon pour Anthropic à Wall Street qui bondit de 33% pour ses premiers échanges et signe la plus grande introduction en Bourse de l'histoire",
-      "bullets": [
-        "Le groupe peut d'ailleurs encore augmenter cette enveloppe, avec une option de surallocation permettant d'émettre 147 millions d'actions additionnelles.",
-        "Au troisième trimestre 2026, Anthropic a dégagé des revenus de 16,96 milliards de dollars, en hausse de 1.130% sur un an, mais ses pertes opérationnelles se sont inscrites à 567 millions de dollars.",
-        "Dans ses projections, Goldman Sachs, banque conseil de la société, voit, certes, les revenus bondir à 685 milliards de dollars en 2030."
-      ],
-      "publishedAt": "2026-11-19T16:54:44+00:00",
-      "updatedAt": "2026-11-19T16:54:44+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/encore-plus-fort-que-spacex-debuts-canon-pour-anthropic-a-wall-street-qui-bondit-de-33-pour-ses-premiers-echanges-et-signe-la-plus-grande-introduction-en-bourse-de-l-histoire-1174112.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "525660d0d9c5912a7b0e29bf4d974de34f658b3175dd8f200033d37a1f601725",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T08:59:11.738661+00:00",
-      "context": null
-    },
-    {
       "id": "rss-606e9b5aec5f598bf1",
       "revision": 1,
       "category": "markets",
@@ -586,7 +558,7 @@
       "provenance": "article-extract",
       "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T04:06:24.019656+00:00",
+      "enrichedAt": "2026-11-22T16:58:25.045514+00:00",
       "context": null
     },
     {
@@ -628,7 +600,7 @@
       ],
       "publishedAt": "2026-11-20T16:30:00+00:00",
       "updatedAt": "2026-11-20T16:30:00+00:00",
-      "importance": 82,
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -775,30 +747,6 @@
       "context": null
     },
     {
-      "id": "rss-33a2ec86051616cbcd",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Dix ans après le Brexit, le Royaume-Uni s’enflamme autour d’un hypothétique retour vers l’Europe",
-      "bullets": [
-        "DÉCRYPTAGE - Même si les intentions du premier ministre britannique, Andy Burnham, restent floues et ambiguës, l’évocation d’un « Brejoin », réintégration dans le bloc européen, provoque la remobilisation des anciens groupes de brexiters."
-      ],
-      "publishedAt": "2026-11-20T16:05:00+00:00",
-      "updatedAt": "2026-11-20T16:05:00+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/dix-ans-apres-le-brexit-le-royaume-uni-s-enflamme-autour-d-un-hypothetique-retour-vers-l-europe-20261120",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4076aa2f4ccaabb864",
       "revision": 2,
       "category": "world",
@@ -823,6 +771,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-33a2ec86051616cbcd",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dix ans après le Brexit, le Royaume-Uni s’enflamme autour d’un hypothétique retour vers l’Europe",
+      "bullets": [
+        "DÉCRYPTAGE - Même si les intentions du premier ministre britannique, Andy Burnham, restent floues et ambiguës, l’évocation d’un « Brejoin », réintégration dans le bloc européen, provoque la remobilisation des anciens groupes de brexiters."
+      ],
+      "publishedAt": "2026-11-20T16:05:00+00:00",
+      "updatedAt": "2026-11-20T16:05:00+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dix-ans-apres-le-brexit-le-royaume-uni-s-enflamme-autour-d-un-hypothetique-retour-vers-l-europe-20261120",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c03a184cab8f23f023",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Soudan : l’Ethiopie mise en cause dans des frappes de drones sur des zones résidentielles et un bâtiment de l’ONU à Khartoum",
+      "bullets": [
+        "Au début de novembre, le Soudan avait annoncé avoir saisi le Conseil de sécurité de l’ONU et l’Union africaine, accusant le pays voisin de soutenir les paramilitaires des Forces de soutien rapide (FSR), qui s’opposent à l’armée soudanaise depuis 2023 dans une guerre meurtrière."
+      ],
+      "publishedAt": "2026-11-22T16:03:40+00:00",
+      "updatedAt": "2026-11-22T16:03:40+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ccedd3c37d749bd7db907cadf76e057a206ebf5aaae00910e091cfe0f4eb02d2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8cd97e15f371e9dbaf",
       "revision": 1,
       "category": "world",
@@ -833,8 +829,8 @@
         "Un ressortissant bahreïni en situation de handicap a été blessé.",
         "Tous deux sont soignés à l'hôpital\", a fait savoir le ministère bahreïni de l'Intérieur sur X."
       ],
-      "publishedAt": "2026-11-22T14:38:07+00:00",
-      "updatedAt": "2026-11-22T14:38:07+00:00",
+      "publishedAt": "2026-11-22T15:57:57+00:00",
+      "updatedAt": "2026-11-22T15:57:57+00:00",
       "importance": 67,
       "sources": [
         {
@@ -873,34 +869,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "26ae1517284126edbc96bca94af6ffda1db236c3f8c745fa03856825b6af7583",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2a8624d32bf517dcae",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique",
-      "bullets": [
-        "Les écoles d'Odessa, grande ville portuaire du sud de l'Ukraine, passeront à l'enseignement à distance après des frappes russes ayant gravement endommagé le réseau énergétique, ont annoncé les autorités dimanche 22 novembre.",
-        "Le fournisseur d'énergie ukrainien Ukrenergo a prévenu dimanche que \"la situation de l'alimentation électrique dans la ville\" d'Odessa et ses environs \"reste extrêmement difficile\".",
-        "Depuis le début de l'automne, la Russie a intensifié sa campagne de frappes contre les infrastructures énergétiques ukrainiennes, alors que les températures sont en baisse."
-      ],
-      "publishedAt": "2026-11-22T12:46:04+00:00",
-      "updatedAt": "2026-11-22T12:46:04+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "article-extract",
-      "summaryInput": "796b500eeb32641b452dd83d2de6574f13ea9a40ff9e838950dcf3d389d70a81",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T13:10:04.130283+00:00",
-      "context": null
     },
     {
       "id": "rss-ae767215d26974f1a3",
@@ -987,7 +955,7 @@
       ],
       "publishedAt": "2026-11-22T04:50:06+00:00",
       "updatedAt": "2026-11-22T04:50:06+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1126,31 +1094,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9b4f87305c622cb743",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "La présidentielle de 2027 et ses enjeux : l’école victime de disparités persistantes",
-      "bullets": [
-        "Entre fermetures de classes et réajustements structurels, les inégalités territoriales du système scolaire pourraient se voir renforcées.",
-        "Alors même qu’elles sont déjà exacerbées par les fractures actuelles, notamment la division entre public et privé, ou le clivage entre éducation classique et éducation prioritaire."
-      ],
-      "publishedAt": "2026-11-18T16:00:08+00:00",
-      "updatedAt": "2026-11-18T16:00:08+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/ecole-primaire-et-secondaire/article/2026/11/18/la-presidentielle-de-2027-et-ses-enjeux-l-ecole-victime-de-disparites-persistantes_6813160_1473688.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-22",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-808b892a726a089ab2",
       "revision": 1,
       "category": "france",
@@ -1229,6 +1172,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-22T08:59:11.738661+00:00",
       "context": null
+    },
+    {
+      "id": "rss-9b4f87305c622cb743",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "La présidentielle de 2027 et ses enjeux : l’école victime de disparités persistantes",
+      "bullets": [
+        "Entre fermetures de classes et réajustements structurels, les inégalités territoriales du système scolaire pourraient se voir renforcées.",
+        "Alors même qu’elles sont déjà exacerbées par les fractures actuelles, notamment la division entre public et privé, ou le clivage entre éducation classique et éducation prioritaire."
+      ],
+      "publishedAt": "2026-11-18T16:00:08+00:00",
+      "updatedAt": "2026-11-18T16:00:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/ecole-primaire-et-secondaire/article/2026/11/18/la-presidentielle-de-2027-et-ses-enjeux-l-ecole-victime-de-disparites-persistantes_6813160_1473688.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-22",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b49936f16da641c67b",
