@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-23",
-  "preparedAt": "2026-11-23T01:29:09.336444+00:00",
+  "preparedAt": "2026-11-23T03:09:33.433955+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -59,7 +59,7 @@
       "provenance": "article-extract",
       "summaryInput": "fdd61c82dfd5543d93690abdd734dbbabdd5daadc2952b6a17fb4a0717a8d58e",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T14:08:55.072145+00:00",
+      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
       "context": null
     },
     {
@@ -203,7 +203,7 @@
       ],
       "publishedAt": "2026-11-22T15:08:28+00:00",
       "updatedAt": "2026-11-22T15:08:28+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -357,8 +357,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T01:22:26+00:00",
-      "updatedAt": "2026-11-23T01:22:26+00:00",
+      "publishedAt": "2026-11-23T03:06:16+00:00",
+      "updatedAt": "2026-11-23T03:06:16+00:00",
       "importance": 69,
       "sources": [
         {
@@ -371,7 +371,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T14:08:55.072145+00:00",
+      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
       "context": null
     },
     {
@@ -439,7 +439,7 @@
       ],
       "publishedAt": "2026-11-20T14:40:18+00:00",
       "updatedAt": "2026-11-20T14:40:18+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -467,7 +467,7 @@
       ],
       "publishedAt": "2026-11-20T14:44:32+00:00",
       "updatedAt": "2026-11-20T14:44:32+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -591,34 +591,6 @@
       "context": null
     },
     {
-      "id": "rss-c1505a2cb56ecf3313",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En pleine guerre, un nageur britannique traverse une partie du détroit d'Ormuz",
-      "bullets": [
-        "Face à la guerre, le défi fou d’un athlète… Le nageur britannique Lewis Pugh a traversé une partie du détroit d’Ormuz, pour alerter les dirigeants sur les conséquences environnementales de la guerre dans cet endroit où la faune et la flore sont menacées",
-        "Plus de 350 écrivains dans le monde exhortent l'Iran à épargner un poète menacé de peine de mort",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
-      ],
-      "publishedAt": "2026-11-22T14:14:29+00:00",
-      "updatedAt": "2026-11-22T14:14:29+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/en-pleine-guerre-un-nageur-britannique-traverse-une-partie-du-detroit-d-ormuz_8294921.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "e9d80c4fbe0d62af8fa4578cca70fde59ef296d45698b32105d42d1b6db382a8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T14:59:14.226690+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5ef485212381e5fafa",
       "revision": 1,
       "category": "world",
@@ -666,6 +638,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "650cd69550ef854a239277adcb489ff66c6cf985e8341db9f8b022eae4d368e4",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c1505a2cb56ecf3313",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En pleine guerre, un nageur britannique traverse une partie du détroit d'Ormuz",
+      "bullets": [
+        "Face à la guerre, le défi fou d’un athlète… Le nageur britannique Lewis Pugh a traversé une partie du détroit d’Ormuz, pour alerter les dirigeants sur les conséquences environnementales de la guerre dans cet endroit où la faune et la flore sont menacées",
+        "Plus de 350 écrivains dans le monde exhortent l'Iran à épargner un poète menacé de peine de mort",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
+      ],
+      "publishedAt": "2026-11-22T14:14:29+00:00",
+      "updatedAt": "2026-11-22T14:14:29+00:00",
+      "importance": 74,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/en-pleine-guerre-un-nageur-britannique-traverse-une-partie-du-detroit-d-ormuz_8294921.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "e9d80c4fbe0d62af8fa4578cca70fde59ef296d45698b32105d42d1b6db382a8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
+      "context": null
     },
     {
       "id": "rss-33a2ec86051616cbcd",
@@ -769,14 +769,14 @@
     },
     {
       "id": "rss-8cd97e15f371e9dbaf",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Une frappe iranienne sur un \"site industriel civil\" fait deux blessés à Bahreïn",
       "bullets": [
         "Au lendemain de frappes visant \"un site industriel civil\", Bahreïn a annoncé, dimanche 22 novembre, que deux personnes avaient été blessées dans cette attaque iranienne.",
         "Un ressortissant bahreïni en situation de handicap a été blessé.",
-        "Tous deux sont soignés à l'hôpital\", a fait savoir le ministère bahreïni de l'Intérieur sur X."
+        "Tous deux sont soignés à l'hôpital\", a fait savoir le ministère de l'Intérieur bahreïni sur X."
       ],
       "publishedAt": "2026-11-22T15:57:57+00:00",
       "updatedAt": "2026-11-22T15:57:57+00:00",
@@ -792,14 +792,39 @@
       "provenance": "article-extract",
       "summaryInput": "5fc83426cb3ac4044e3f35b0e0d1bf13989851b99a17faab089b0c8fc0956609",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T14:59:14.226690+00:00",
+      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
       "context": null
+    },
+    {
+      "id": "rss-ae767215d26974f1a3",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
+      "bullets": [
+        "Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles.",
+        "Ses équipes estiment qu’elle n’en a pas besoin pour se forger une « stature internationale » qu’elles considèrent déjà acquise."
+      ],
+      "publishedAt": "2026-11-22T13:00:03+00:00",
+      "updatedAt": "2026-11-22T13:00:03+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ebb4856f3086dacb750982fdfd99eae2ddcdd90b5b3b9b7f2527f20ec30e41ff",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-b7162d8b095c2bcaa2",
       "revision": 2,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
       "bullets": [
         "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution.",
@@ -818,30 +843,6 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "0cddd7e54f0a6301746270268a01ece3bd37a08a958fb0678f141a11d67b1a9d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-4cdd62f7353ffada48",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
-      "bullets": [
-        "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée « sur la semaine qui vient » afin de « réserver la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyadier."
-      ],
-      "publishedAt": "2026-11-22T21:54:52+00:00",
-      "updatedAt": "2026-11-22T21:54:52+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4527f40b4572d11563234b83a20c9f77f4384fb057eeee660667d9455fc269d0",
       "detailLevel": "preview"
     },
     {
@@ -941,7 +942,7 @@
       "provenance": "article-extract",
       "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T14:59:14.226690+00:00",
+      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
       "context": null
     },
     {
@@ -994,31 +995,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ae767215d26974f1a3",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
-      "bullets": [
-        "Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles.",
-        "Ses équipes estiment qu’elle n’en a pas besoin pour se forger une « stature internationale » qu’elles considèrent déjà acquise."
-      ],
-      "publishedAt": "2026-11-22T13:00:03+00:00",
-      "updatedAt": "2026-11-22T13:00:03+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ebb4856f3086dacb750982fdfd99eae2ddcdd90b5b3b9b7f2527f20ec30e41ff",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-198331875102f5414f",
       "revision": 1,
       "category": "france",
@@ -1040,6 +1016,30 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "2a5500cbb71e011233b2a3993e884652b5086db573b4b6856417e4a2c1c732b3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4cdd62f7353ffada48",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
+      "bullets": [
+        "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée « sur la semaine qui vient » afin de « réserver la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyadier."
+      ],
+      "publishedAt": "2026-11-22T21:54:52+00:00",
+      "updatedAt": "2026-11-22T21:54:52+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4527f40b4572d11563234b83a20c9f77f4384fb057eeee660667d9455fc269d0",
       "detailLevel": "preview"
     },
     {
