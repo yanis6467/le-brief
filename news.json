@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-23",
-  "preparedAt": "2026-11-23T19:18:02.587888+00:00",
+  "preparedAt": "2026-11-23T21:02:06.207148+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -57,58 +57,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5613dfb0a957db97ce",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«C’est le début d’un âge d’or pour la cybersécurité» : CrowdStrike rachète Zscaler pour un montant record de 44 milliards de dollars",
-      "bullets": [
-        "La concentration s’accélère dans le secteur de la cybersécurité, porté par l’augmentation des attaques et l’arrivée de l’IA."
-      ],
-      "publishedAt": "2026-11-23T15:42:13+00:00",
-      "updatedAt": "2026-11-23T15:42:13+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/c-est-le-debut-d-un-age-d-or-pour-la-cybersecurite-crowdstrike-rachete-zscaler-pour-un-montant-record-de-44-milliards-de-dollars-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ea8d5f43deec1461b5778d4df7521982777a933a9a685ae6a835e8d37627560b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6475a5088495579abe",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Thierry Breton plaide pour une \"règle d'or\" inscrite dans la Constitution",
-      "bullets": [
-        "Pour inscrire la règle d'or budgétaire dans la Constitution, Thierry Breton, ex-commissaire européen a rencontré tous les chefs de parti.",
-        "Une interdiction de se réunir devant ces lycées d'Ile-de-France",
-        "230 carpes koï volées dans l'Oise, 4 suspects devant le tribunal"
-      ],
-      "publishedAt": "2026-11-23T15:46:54+00:00",
-      "updatedAt": "2026-11-23T15:46:54+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/thierry-breton-plaide-pour-un-budget-inscrit-dans-la-constitution_8296070.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "a2f5531d20ab555ee7b357eeff7138a4c93e6d0f8bef69aa0d430ce832bbd371",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
-      "context": null
-    },
-    {
       "id": "rss-70e330637e6144042d",
       "revision": 1,
       "category": "eco",
@@ -132,34 +80,6 @@
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
       "summaryInput": "555ef99ad508cfd393732e5e7d4d52739f210386232654df8550b8612fddc874",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-abb19d27cb635e5923",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget de la France : à quoi servirait la \"règle d'or budgétaire\" souhaitée par Emmanuel Macron ?",
-      "bullets": [
-        "Emmanuel Macron s'est rendu dans les ateliers d'Airbus à Blagnac (Haute-Garonne) dans la matinée du lundi 23 novembre, afin de célébrer la France qui exporte.",
-        "Mais les comptes publics, eux, sont au rouge : 3 600 milliards d'euros de dette.",
-        "\"Nous sommes les seuls à avoir, le 5 novembre, demandé à ce qu'il réunisse le Congrès, précisément pour faire voter une règle d'or maintenant\", a rappelé la candidate Rassemblement National à l’élection présidentielle dans Franc-Jeu, le 22 novembre."
-      ],
-      "publishedAt": "2026-11-23T15:29:51+00:00",
-      "updatedAt": "2026-11-23T15:29:51+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-france-a-quoi-servirait-la-regle-d-or-budgetaire-souhaitee-par-emmanuel-macron_8296121.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "cfc7ec3fba989b9f293db306bbf00d9268ef7225505acc4cb3a3ecf69b94ee82",
       "detailLevel": "article",
       "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
       "context": null
@@ -193,6 +113,34 @@
       "context": null
     },
     {
+      "id": "rss-8577ad5265c7a2136b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les dossiers de départs à la retraite s'accumulent",
+      "bullets": [
+        "Les caisses de retraite sont débordées avec 105 000 dossiers supplémentaires en 2026 pour l'assurance vieillesse.",
+        "Je suis retraité depuis le 1er octobre et je n'ai toujours rien reçu de leur part.",
+        "Heureusement que j'avais un peu d'économies qui permettent de tamponner un peu le temps de l'attente\", témoigne-t-il."
+      ],
+      "publishedAt": "2026-11-23T20:21:31+00:00",
+      "updatedAt": "2026-11-23T20:21:31+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/les-dossiers-de-departs-a-la-retraite-s-accumulent_8296734.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "54432716fef3ee0ca914220e2954696a7dc8265ed2df317ff15499ff89c544c5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T21:02:06.207148+00:00",
+      "context": null
+    },
+    {
       "id": "rss-9e1aef70729322129e",
       "revision": 1,
       "category": "eco",
@@ -202,8 +150,8 @@
         "DÉCRYPTAGE - Contraint à un effort d’économies de 170 millions en 2027, le groupe rogne sur ses investissements dans plusieurs secteurs.",
         "Il a aussi dû céder un immeuble de son siège pour soulager sa trésorerie."
       ],
-      "publishedAt": "2026-11-23T18:45:00+00:00",
-      "updatedAt": "2026-11-23T18:45:00+00:00",
+      "publishedAt": "2026-11-23T19:44:22+00:00",
+      "updatedAt": "2026-11-23T19:44:22+00:00",
       "importance": 65,
       "sources": [
         {
@@ -216,34 +164,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2f32aff391f308c210bfe4be4b4dd92b532e9300f780d9b37f7073c21b4827b9",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b1923fc3b181a2ba72",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
-      "bullets": [
-        "Le montant des seuls intérêts de la dette dépassera 91 milliards d'euros en 2027 soit 20 milliards d'euros de plus que cette année.",
-        "La France est pourtant déjà tenue de respecter des règles budgétaires tout comme ses voisins européens en vertu du traité de Maastricht avec une dette à 60% du PIB et un déficit à 3%.",
-        "\"C'est la conversion du dernier quart d'heure du président qui a cramé la caisse\", se félicite Valérie Pécresse qui avait fait voter cette règle en 2011 en tant que ministre."
-      ],
-      "publishedAt": "2026-11-23T15:38:13+00:00",
-      "updatedAt": "2026-11-23T15:38:13+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "1fe710c37549ba8ea8da635688ddfb0c363de4e4abac74a56eb100449090b7b5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
-      "context": null
     },
     {
       "id": "rss-ab470f48f80dbdd347",
@@ -274,34 +194,6 @@
       "context": null
     },
     {
-      "id": "rss-f6fdd023566cd87717",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le gouvernement fait adopter au Sénat une prolongation de la prime carburant en 2027",
-      "bullets": [
-        "Le gouvernement avait déjà annoncé fin septembre relever le plafond de cette aide de 600 à 1 000 euros pour faire face à l'inflation.",
-        "\"C'est difficile de ne pas y souscrire\", a-t-elle déclaré.",
-        "Le dispositif et sa prorogation en 2027 devront désormais être confirmés dans la copie finale du budget, qui pourrait passer par un recours à l'article 49 alinéa 3 de la Constitution."
-      ],
-      "publishedAt": "2026-11-23T14:07:35+00:00",
-      "updatedAt": "2026-11-23T14:07:35+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-fait-adopter-au-senat-une-prolongation-de-la-prime-carburant-en-2027_8296031.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "870afc90c3069dda0a5882ecbaabd959042b4fff0b9b036ddadfc8956ae9c775",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9a15df3987788a1efb",
       "revision": 1,
       "category": "eco",
@@ -324,6 +216,106 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ca575730840aa596cef7cf6a6957af1d3c5bed29551c911144d14cf9fa523fbc",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f227b48b8f4e9d7450",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+      "bullets": [
+        "La Caisse des dépôts, qui pilotera le projet, va consulter les industriels des secteurs stratégiques utilisant ces matières premières."
+      ],
+      "publishedAt": "2026-11-23T20:43:40+00:00",
+      "updatedAt": "2026-11-23T20:43:40+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "044260795276a71ddca8b97a2a91d728c141a451cc387e9792ffdce48caa07e6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a22008a294d5ee0c62",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le principal embouteilleur de Coca-Cola dans le viseur de Bruxelles",
+      "bullets": [
+        "La Commission européenne vient d’ouvrir une enquête contre CCEP, soupçonné d’abuser de sa position dominante en grande surface pour maintenir des prix plus élevés, et d’entraver le commerce transfrontalier de ses boissons."
+      ],
+      "publishedAt": "2026-11-23T18:48:18+00:00",
+      "updatedAt": "2026-11-23T18:48:18+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/le-principal-embouteilleur-de-coca-cola-dans-le-viseur-de-bruxelles-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7e200be8d1c4b72bf61ab2ab11f16624e348459b0090067d9f1c700d298aef1a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3667d079883ced8adf",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« 60 millions de consommateurs » : l’offre de reprise par Xavier Niel validée par l’Etat",
+      "bullets": [
+        "Après des mois d’incertitude, le magazine va passer sous pavillon privé.",
+        "Vingt-neuf salariés conserveront leur emploi, tandis qu’une vingtaine seront licenciés."
+      ],
+      "publishedAt": "2026-11-23T18:13:02+00:00",
+      "updatedAt": "2026-11-23T18:13:02+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/23/60-millions-de-consommateurs-l-offre-de-reprise-par-xavier-niel-validee-par-l-etat_6814438_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c173f0422c7e62d39f5eaf1b2476bba31bd9743c0f4928e21709ffd0db7021ea",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6be77a3e10d98eab1c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Un accord de reprise du magazine \"60 millions de consommateurs\" conclu avec Xavier Niel a été accepté par l'Etat, annonce le ministère de l'Economie",
+      "bullets": [
+        "L'offre de reprise du magazine 60 millions de consommateurs par le milliardaire Xavier Niel a été acceptée par l'Etat, a déclaré, lundi 23 novembre, à l'AFP le ministère de l'Economie et des Finances, faisant état d'un projet mieux-disant en termes d'emplois.",
+        "Les 27 signataires de ce communiqué dénonçaient un \"conflit d'intérêt\" en cas de rachat par Xavier Niel, propriétaire du groupe télécom Iliad (Free), du magazine, \"connu pour publier chaque année des comparatifs sur les forfaits mobile et internet\"."
+      ],
+      "publishedAt": "2026-11-23T17:34:01+00:00",
+      "updatedAt": "2026-11-23T17:34:01+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/un-accord-de-reprise-du-magazine-60-millions-de-consommateurs-conclu-avec-xavier-niel-a-ete-accepte-par-l-etat-annonce-le-ministere-de-l-economie_8296518.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "0c88873350b0d80112164a80ee5b00bdb5389ef275a20bd268ed726bfee812ae",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T21:02:06.207148+00:00",
+      "context": null
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -392,8 +384,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T19:16:57+00:00",
-      "updatedAt": "2026-11-23T19:16:57+00:00",
+      "publishedAt": "2026-11-23T21:00:08+00:00",
+      "updatedAt": "2026-11-23T21:00:08+00:00",
       "importance": 69,
       "sources": [
         {
@@ -603,6 +595,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-1b482dc1190b7e83c4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les Etats-Unis annoncent de nouvelles sanctions pour priver l’Iran de rentrées d’argent",
+      "bullets": [
+        "Des milliards de dollars de transactions suspectes liées à l’Iran ont été détectés par le régulateur américain FinCEN entre 2025 et 2026, selon le Trésor."
+      ],
+      "publishedAt": "2026-11-23T20:37:04+00:00",
+      "updatedAt": "2026-11-23T20:37:04+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c37731917808d14d0d50b0914eccbf470ed424de48828a36a3f4b677f8afd3f0",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4387e44edebd7bf346",
       "revision": 1,
       "category": "world",
@@ -683,29 +699,80 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-5ef485212381e5fafa",
+      "id": "rss-d2c8f83d3cb42aa4f9",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Aux États-Unis, la discrète éviction du commandement d’un sous-marin nucléaire après une collision en mer",
+      "title": "En Afrique, l’Ukraine et la Russie se font la guerre par procuration",
       "bullets": [
-        "RÉCIT - L’USS South Dakota, un sous-marin très moderne de la classe Virginia, aurait percuté un fond marin.",
-        "Un accident rare, mal géré par les officiers du bâtiment."
+        "RÉCIT - Les militaires ukrainiens tentent de se déployer pour contrer les hommes de l’Africa Corps russe, en appuyant des forces sur le continent africain."
       ],
-      "publishedAt": "2026-11-20T18:25:00+00:00",
-      "updatedAt": "2026-11-20T18:25:00+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-23T20:30:00+00:00",
+      "updatedAt": "2026-11-23T20:30:00+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-la-discrete-eviction-du-commandement-d-un-sous-marin-nucleaire-apres-une-collision-en-mer-20261120",
+          "url": "https://www.lefigaro.fr/international/en-afrique-l-ukraine-et-la-russie-se-font-la-guerre-par-procuration-20261123",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "4ede6eed1e21bd99d7e6d78a6214c6132262b97fa90295fff865133eec849a33",
+      "summaryInput": "19b86419ad74bb19ad607ae1188741ecadbe971565ac26e5e7a0b6c6fc16af11",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-706286f07b908c6a1c",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En ciblant deux navires sur la côte libyenne, l’Ukraine porte un coup spectaculaire à la Russie",
+      "bullets": [
+        "RÉCIT - Kiev a revendiqué une attaque inédite, dimanche, contre une corvette et un cargo russes, à Benghazi, confirmant une extension géographique du conflit."
+      ],
+      "publishedAt": "2026-11-23T19:45:00+00:00",
+      "updatedAt": "2026-11-23T19:45:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/en-ciblant-deux-navires-sur-la-cote-libyenne-l-ukraine-porte-un-coup-spectaculaire-a-la-russie-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "47149bfcbdf01ff709eb28319390410191dbc78018b0ec421b47c70ad4338c86",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fd9c7fe5348342957f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Ukraine frappe deux bateaux russes en Méditerranée",
+      "bullets": [
+        "Selon des images fournies par l'armée ukrainienne, l'Ukraine a lancé un drone naval kamikaze vers un navire marchand russe, dimanche 22 novembre.",
+        "Une deuxième attaque a eu lieu contre un bateau de guerre russe qui était à quai dans le port de Benghazi.",
+        "Au moins huit attaques de bateaux russes ont été attribuées ou revendiquées par l'Ukraine depuis décembre 2024."
+      ],
+      "publishedAt": "2026-11-23T19:44:45+00:00",
+      "updatedAt": "2026-11-23T19:44:45+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-deux-bateaux-russes-en-mediterranee_8296680.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "8d37e32e3d3d69c7d742f1704f96dcaa0a81348959d0821bc3fb4614f1c8f479",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T21:02:06.207148+00:00",
+      "context": null
     },
     {
       "id": "rss-704cc11835f70eb2e2",
@@ -813,105 +880,27 @@
       "context": null
     },
     {
-      "id": "rss-b6af1473d716d4cea0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Pesticides : « Omnibus X menace la santé des citoyens sans résoudre le problème bureaucratique qu’il dénonce »",
-      "bullets": [
-        "L’examen du paquet législatif, qui entend simplifier les réglementations liées à l’usage des produits phytosanitaires en Europe, doit être suspendu dans l’attente d’une « évaluation indépendante et contradictoire », appelle, dans une tribune au « Monde », un collectif de sociétés savantes et d’organisations médicales européen."
-      ],
-      "publishedAt": "2026-11-23T16:30:04+00:00",
-      "updatedAt": "2026-11-23T16:30:04+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/pesticides-omnibus-x-menace-la-sante-des-citoyens-sans-resoudre-le-probleme-bureaucratique-qu-il-denonce_6814419_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dfcc2df7f1ccffce66895b58612029dc50d5940734c7431c3ff9ea203864f73f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-61ec46ff46e0bbd20f",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Deux navires russes attaqués par l'Ukraine au large de la Libye : Volodymyr Zelensky se félicite de l'opération, filmée par des drones",
-      "bullets": [
-        "\"Malgré toutes les tentatives de l'ennemi pour les contrer, la corvette russe Merkury a été coulée\", a écrit sur X, ce lundi, Volodymyr Zelensky.",
-        "D'où ces attaques qui ont lieu à la fois en Méditerranée et en mer Baltique, parce que ça leur permettrait, dans ce cadre-là, d'avoir plus de facilité à frapper sur la flotte fantôme russe qui continue à permettre de financer le Kremlin\", explique Xavier Tytelman, consultant défense.",
-        "Le Kremlin met en garde ce matin contre un risque d'escalade."
-      ],
-      "publishedAt": "2026-11-23T15:21:57+00:00",
-      "updatedAt": "2026-11-23T15:21:57+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "3158fca33ef6b0aedc376dd800e7213e24af9669058cdbde29d46e8f5fba7063",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-42c66b392166ed7d52",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne",
-      "bullets": [
-        "Le président ukrainien, Volodymyr Zelensky, a revendiqué, lundi 23 novembre, le double assaut mené la veille par « sept drones navals » dans la zone maritime de Benghazi.",
-        "Une telle attaque contre des bateaux russes transportant de l’armement permet à Kiev de montrer que ses forces sont en mesure de…"
-      ],
-      "publishedAt": "2026-11-23T15:00:09+00:00",
-      "updatedAt": "2026-11-23T15:00:09+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6961c1249f3b2f8d70cc26d29043821b777dc7d2fde9b2c9b7be3e7711cdd259",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-25baa7c8b51da84187",
+      "id": "rss-db65b532b8a0122311",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
+      "title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
       "bullets": [
-        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
-        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
+        "Alors que les projets de loi de finance et de financement de la sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre, Sébastien Lecornu souhaite poursuivre les discussions avec les parlementaires."
       ],
-      "publishedAt": "2026-11-23T17:00:12+00:00",
-      "updatedAt": "2026-11-23T17:00:12+00:00",
+      "publishedAt": "2026-11-23T20:42:51+00:00",
+      "updatedAt": "2026-11-23T20:42:51+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
+      "summaryInput": "c70c23ea16dd870cede71f9c95895a7797ebce0aca2d7c1ae05b1105a620013f",
       "detailLevel": "preview"
     },
     {
@@ -1093,6 +1082,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-25baa7c8b51da84187",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
+      "bullets": [
+        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
+        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
+      ],
+      "publishedAt": "2026-11-23T17:00:12+00:00",
+      "updatedAt": "2026-11-23T17:00:12+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-98eca9ba6a1dce6d86",
       "revision": 2,
       "category": "france",
@@ -1114,30 +1128,6 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-85e9142aef3ea032ac",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : « La démocratie doit être une confrontation d’idées et non de comptes en banque »",
-      "bullets": [
-        "Le modèle de financement des campagnes des candidats à l’Elysée est fragile, alerte, dans une tribune au « Monde », le constitutionnaliste Benjamin Morel, qui plaide pour la création d’un Fonds pour le financement démocratique."
-      ],
-      "publishedAt": "2026-11-23T06:30:06+00:00",
-      "updatedAt": "2026-11-23T06:30:06+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/presidentielle-2027-la-democratie-doit-etre-une-confrontation-d-idees-et-non-de-comptes-en-banque_6814356_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1dd5456fffb9813d10db74de73e4dcda86c7f541a1665d8aee5dfbc7c8dcea7b",
       "detailLevel": "preview"
     },
     {
@@ -1186,6 +1176,30 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "8bafdbd249c024a3ca306ef2f07b8aa96ae77165fcfd8d1607da7c9a954c698d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4cdd62f7353ffada48",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
+      "bullets": [
+        "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée pour « la semaine qui vient » afin de privilégier « la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyader."
+      ],
+      "publishedAt": "2026-11-22T21:54:51+00:00",
+      "updatedAt": "2026-11-22T21:54:51+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cd18695d31804d4d96bc4e6b73dfae7e447ee2537e2463b80ff0847c1f65d6ce",
       "detailLevel": "preview"
     },
     {
@@ -1261,30 +1275,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-248aaae68665b287e4",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
-      "bullets": [
-        "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions."
-      ],
-      "publishedAt": "2026-11-22T14:01:15+00:00",
-      "updatedAt": "2026-11-22T14:01:15+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dd03731b0ec8d4782e8935109090dace9b65a8e81cca88e830bfdaed3f3c349e",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1298,7 +1288,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 11
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1310,7 +1300,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1322,7 +1312,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
@@ -1346,13 +1336,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
