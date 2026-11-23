@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-23",
-  "preparedAt": "2026-11-23T13:35:25.201642+00:00",
+  "preparedAt": "2026-11-23T15:20:33.325677+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-abb19d27cb635e5923",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget de la France : à quoi servirait la \"règle d'or budgétaire\" souhaitée par Emmanuel Macron ?",
+      "bullets": [
+        "Emmanuel Macron s'est rendu dans les ateliers d'Airbus à Blagnac (Haute-Garonne), dans la matinée du lundi 23 novembre, afin de célébrer la France qui exporte.",
+        "Mais les comptes publics, eux, sont au rouge : 3 600 milliards d'euros de dette.",
+        "\"Nous sommes les seuls à avoir, le 5 novembre, demandé à ce qu'il réunisse le Congrès, précisément pour faire voter une règle d'or maintenant\", a rappelé la candidate Rassemblement National à l’élection présidentielle dans Franc-Jeu, le 22 novembre."
+      ],
+      "publishedAt": "2026-11-23T13:46:57+00:00",
+      "updatedAt": "2026-11-23T13:46:57+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-france-a-quoi-servirait-la-regle-d-or-budgetaire-souhaitee-par-emmanuel-macron_8296121.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "d913b8c6580effad0e80f9eb9dcd6c24679219c20e8938a6fcc17916497f13ce",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
     {
       "id": "rss-6475a5088495579abe",
       "revision": 1,
@@ -35,34 +63,6 @@
       "context": null
     },
     {
-      "id": "rss-4feb9da8360044d6d8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Règle d'or\" budgétaire : \"Une idée démocrate, ni de droite ni de gauche\", explique l'ancien commissaire européen Thierry Breton",
-      "bullets": [
-        "\"C'est une idée démocrate, ni de droite, ni de gauche\", explique, lundi 23 novembre, sur franceinfo, Thierry Breton, ancien commissaire européen au Marché intérieur alors qu'Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire.",
-        "Thierry Breton appelle depuis plusieurs mois à instaurer cette \"règle d'or\" pour calmer l'inquiétude des marchés.🔴 Règle d'or budgétaire : sur quels critères ?",
-        "L'ancien ministre de l'Economie rappelle que si notre déficit est toujours à 5,1% depuis 2011, notre dette \"est passée de 1 700 à 3 600 milliards d'euros\"."
-      ],
-      "publishedAt": "2026-11-23T09:08:28+00:00",
-      "updatedAt": "2026-11-23T09:08:28+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/regle-d-or-budgetaire-une-idee-democrate-ni-de-droite-ni-de-gauche-explique-l-ancien-commissaire-europeen-thierry-breton_8295680.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "4acd8bf6591fcf882555ff1c3398091821378b580d3237554fab2c247e58b068",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
-      "context": null
-    },
-    {
       "id": "rss-e0f8d4b90c60588558",
       "revision": 2,
       "category": "eco",
@@ -73,7 +73,7 @@
       ],
       "publishedAt": "2026-11-23T03:10:36+00:00",
       "updatedAt": "2026-11-23T03:10:36+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -85,34 +85,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "72f9ebb1f7de35a2f7f182b529b5935dce9d969acb384b43140708c5c1ca0d77",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-faff77a07641a39834",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«On revient au papier et au crayon» : le CHU de la Guadeloupe victime d'une «cyberattaque de grande ampleur»",
-      "bullets": [
-        "Le plan blanc a été déclenché dimanche matin au CHU de la Guadeloupe, en plein transfert vers un nouveau site, après «une cyberattaque de grande ampleur», survenue samedi soir, a-t-on appris auprès de la direction de l'établissement.",
-        "La direction du CHU appelle les patients à ne se présenter aux urgences «que dans le cadre d'une urgence vitale, après avoir contacté le 15», le SAMU étant préservé de la cyberattaque.",
-        "Le nouveau CHU, à Belle Plaine, abrite pour l'heure les consultations externes."
-      ],
-      "publishedAt": "2026-11-23T07:24:16+00:00",
-      "updatedAt": "2026-11-23T07:24:16+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/on-revient-au-papier-et-au-crayon-le-chu-de-la-guadeloupe-victime-d-une-cyberattaque-de-grande-ampleur-20261123",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "5719a4990de6f01cb3e7768a00cb799e0134bc93401f3c0ae06cbbca072fcb94",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
-      "context": null
     },
     {
       "id": "rss-aba591781549f61a47",
@@ -143,6 +115,34 @@
       "context": null
     },
     {
+      "id": "rss-4d94669213f7a6dbf2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "ENTRETIEN. \"Les opinions convergent\" : une étude s'attaque à la \"fracture supposée entre urbains et ruraux\" sur la voiture",
+      "bullets": [
+        "Par exemple, 90% des conducteurs, qu'ils soient ruraux ou urbains, considèrent que la voiture est d'abord une liberté.",
+        "Et même sur la question de la charge au quotidien, vous avez 69% de ruraux et 72% d'urbains qui considèrent que l'automobile est une charge, pour des raisons de pouvoir d'achat, pour des raisons de temps passé dans les transports.",
+        "On l'a mesurée : 70% des Français doivent utiliser quotidiennement leur automobile pour aller travailler ou pour se rendre sur leur lieu d'étude."
+      ],
+      "publishedAt": "2026-11-23T15:02:06+00:00",
+      "updatedAt": "2026-11-23T15:02:06+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/entretien-les-opinions-convergent-une-etude-s-attaque-a-la-fracture-supposee-entre-urbains-et-ruraux-sur-la-voiture_8296082.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "71a2031d9c7f2e5a27199106c6490038179791174290a840f2d4780cb10abcdd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0896cb38bed9581c85",
       "revision": 1,
       "category": "eco",
@@ -167,30 +167,116 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e077ff241378d8f9dc",
+      "id": "rss-b1923fc3b181a2ba72",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Prime carburant : le gouvernement fait adopter au Sénat une prolongation en 2027",
+      "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
       "bullets": [
-        "LIRE AUSSI - Face à la flambée du kérosène, vers une « inévitable » hausse du prix des billets d’avion Un plafond à 1000 euros Face à la flambée des prix des carburants, le gouvernement avait aussi annoncé fin septembre relever le plafond de cette aide de 600 à 1000 euros.",
-        "Le dispositif et sa prorogation en 2027 devront désormais être confirmés dans la copie finale du budget, qui pourrait passer par un recours à l’article 49 alinéa 3 de la Constitution."
+        "Le montant des seuls intérêts de la dette dépassera 91 milliards d'euros en 2027 soit 20 milliards d'euros de plus que cette année.",
+        "La France est pourtant déjà tenue de respecter des règles budgétaires tout comme ses voisins européens en vertu du traité de Maastricht avec une dette à 60% du PIB et un déficit à 3%.",
+        "\"C'est la conversion du dernier quart d'heure du président qui a cramé la caisse\", se félicite Valérie Pécresse qui avait fait voter cette règle en 2011 en tant que ministre."
       ],
-      "publishedAt": "2026-11-23T13:18:27+00:00",
-      "updatedAt": "2026-11-23T13:18:27+00:00",
+      "publishedAt": "2026-11-23T14:18:36+00:00",
+      "updatedAt": "2026-11-23T14:18:36+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/prime-carburant-le-gouvernement-fait-adopter-au-senat-une-prolongation-en-2027-20261123",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
-      "summaryInput": "79137feb088291e81a7b2d1aa6855662c4e5405a6050b7bf77dbf5349a110ddb",
+      "summaryInput": "1fe710c37549ba8ea8da635688ddfb0c363de4e4abac74a56eb100449090b7b5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-cb61baea9575f7d67a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La règle d’or peut-elle vraiment contraindre la France à sortir de la spirale infernale de la dette ?",
+      "bullets": [
+        "DÉCRYPTAGE - Ce mécanisme, plébiscité par plusieurs candidats à l’élection présidentielle, interdirait aux parlementaires de voter une loi de finances dépassant un certain niveau de déficit public."
+      ],
+      "publishedAt": "2026-11-23T14:12:19+00:00",
+      "updatedAt": "2026-11-23T14:12:19+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "52d08ec7a6f8244667fbd4ef8c2dc93c7b01e3708d50e179e70c18ea208ed3e7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ab470f48f80dbdd347",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli",
+      "bullets": [
+        "Dans les années 2000, l'économie stagne et puis la crise financière de 2008 entre également en jeu.",
+        "A partir de là, Angela Merkel, alors chancelière, décide d'inscrire dans la Constitution la règle du \"frein à l'endettement\", qui empêche l'Etat fédéral d'emprunter au-delà de 0,35% du PIB chaque année.",
+        "Conséquence de tout cela, au premier semestre de 2026 le déficit public de l'Allemagne a dépassé les 3%, ce qui n'était pas arrivé depuis la crise du Covid-19."
+      ],
+      "publishedAt": "2026-11-23T14:08:03+00:00",
+      "updatedAt": "2026-11-23T14:08:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "4a6558285cd39bbc24c324b23b03669d5f1b0033878d8dc4f568e6b6a3ff0d91",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f6fdd023566cd87717",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le gouvernement fait adopter au Sénat une prolongation de la prime carburant en 2027",
+      "bullets": [
+        "Le gouvernement avait déjà annoncé fin septembre relever le plafond de cette aide de 600 à 1 000 euros pour faire face à l'inflation.",
+        "\"C'est difficile de ne pas y souscrire\", a-t-elle déclaré.",
+        "Le dispositif et sa prorogation en 2027 devront désormais être confirmés dans la copie finale du budget, qui pourrait passer par un recours à l'article 49 alinéa 3 de la Constitution."
+      ],
+      "publishedAt": "2026-11-23T14:07:35+00:00",
+      "updatedAt": "2026-11-23T14:07:35+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-fait-adopter-au-senat-une-prolongation-de-la-prime-carburant-en-2027_8296031.html",
+          "access": "public"
+        },
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/prime-carburant-le-gouvernement-fait-adopter-au-senat-une-prolongation-en-2027-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "870afc90c3069dda0a5882ecbaabd959042b4fff0b9b036ddadfc8956ae9c775",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
       "context": null
     },
     {
@@ -219,107 +305,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ad1764ad11f94c1112",
+      "id": "rss-cb71ab103b587f5530",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "\"Règle d'or\" budgétaire dans la Constitution : \"Ça se regarde\", confirme Roland Lescure, qui précise qu'il \"faut créer une certaine forme de consensus, un débat politique\" autour de cette question",
+      "title": "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros",
       "bullets": [
-        "Alix Bouilhaguet : Emmanuel Macron pourrait convoquer un Congrès pour adopter une \"règle d'or\" budgétaire, qui pourrait avoir lieu en janvier.",
-        "La réalité, c'est que ce n'est pas la fièvre, ce sont les médicaments qui vont permettre de l'éviter qu'il faut plafonner.",
-        "Mais regardez, il y a bien une \"règle d'or\" au niveau européen, 3% du déficit."
+        "Le Premier ministre socialiste espagnol, Pedro Sanchez, a proposé, lundi 23 novembre, une nouvelle taxe sur les fortunes de plus de 100 millions d'euros, à six jours des élections législatives.",
+        "Même si nous avons réduit les inégalités de revenus à des niveaux historiquement bas, les 0,1% les plus riches détiennent plus de 10% du patrimoine.",
+        "L'Espagne dispose déjà d'un impôt de solidarité sur les grandes fortunes, instauré en 2022, qui s'applique aux patrimoines nets supérieurs à 3 millions d'euros."
       ],
-      "publishedAt": "2026-11-23T08:50:03+00:00",
-      "updatedAt": "2026-11-23T08:50:03+00:00",
+      "publishedAt": "2026-11-23T11:13:23+00:00",
+      "updatedAt": "2026-11-23T11:13:23+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-lundi-23-novembre-2026_8291537.html",
+          "url": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
-      "summaryInput": "77b8a6db659fe1301e484c5e6f11365ebd91f7fe21e8be93a16366a5f426f91b",
+      "summaryInput": "4dbe5ad7076244949b8b1cecb741fa7cbbe7768ec90f44c2fd86e56aa5838367",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
       "context": null
-    },
-    {
-      "id": "rss-58803ba6ac94ac189d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : Marylise Léon redoute de \"très, très fortes tensions\" si le second tour est maintenu le 2 mai",
-      "bullets": [
-        "\"Il risque d'y avoir de très, très fortes tensions\", alerte, lundi 23 novembre sur franceinfo Marylise Léon, secrétaire générale de la CFDT, alors que le second tour de l'élection présidentielle de 2027 est prévu le 2 mai prochain, au lendemain des traditionnelles mobilisations du 1er-Mai.",
-        "Interrogée sur le risque d'une moindre participation si le scrutin était avancé pendant les vacances scolaires, Marylise Léon estime que la présidentielle reste l'une des élections les plus mobilisatrices."
-      ],
-      "publishedAt": "2026-11-23T07:44:09+00:00",
-      "updatedAt": "2026-11-23T07:44:09+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/elections/presidentielle-2027-marylise-leon-redoute-de-tres-tres-fortes-tensions-si-le-second-tour-est-maintenu-le-2-mai_8295602.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "f999e47de2692eba0ae692eda262158df5afbd9912d8965ad3aca02a1c9a4aeb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T08:45:40.085795+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-cb61baea9575f7d67a",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La règle d’or peut-elle vraiment contraindre la France à sortir de la spirale infernale de la dette ?",
-      "bullets": [
-        "DÉCRYPTAGE - Ce mécanisme, plébiscité par plusieurs candidats à l’élection présidentielle, interdirait aux parlementaires de voter une loi de finances dépassant un certain niveau de déficit public."
-      ],
-      "publishedAt": "2026-11-22T18:40:24+00:00",
-      "updatedAt": "2026-11-22T18:40:24+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "52d08ec7a6f8244667fbd4ef8c2dc93c7b01e3708d50e179e70c18ea208ed3e7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9a15df3987788a1efb",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
-      "bullets": [
-        "La Bourse de Corée du Sud a chuté de presque 50 % depuis juin, et celle de Taïwan de 30 %. Les autorités financières asiatiques sont intervenues, samedi et dimanche, sur les marchés pour tenter d’enrayer le déclin. Une agitation qui fait suite à la lourde dégringolade de Wall Street…"
-      ],
-      "publishedAt": "2026-11-23T09:30:06+00:00",
-      "updatedAt": "2026-11-23T09:30:06+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ca575730840aa596cef7cf6a6957af1d3c5bed29551c911144d14cf9fa523fbc",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -350,6 +361,34 @@
       "context": null
     },
     {
+      "id": "rss-8807b484bedc9ddb20",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Plus de 950 milliards de dollars repris en quelques minutes... L'action Nvidia bondit de 31% à Wall Street alors que Jensen Huang est rétabli à son poste de directeur général",
+      "bullets": [
+        "En préouverture, l'action du fabricant de processeurs graphiques (GPU) s'envole de 31% vers 15h20.",
+        "Comme les fondamentaux n'ont pas faibli, avec un chiffre d'affaires trimestriel qui a doublé à 115,8 milliards de dollars, le titre pourrait poursuivre sa remontée.",
+        "Cofondateur et directeur général emblématique de Nvidia depuis 1993 (à l'exception donc de quelques jours en ce mois de novembre), Jensen Huang a été l'artisan du succès technologique, commercial et boursier (l'action a été multipliée par dix depuis fin 2022)."
+      ],
+      "publishedAt": "2026-11-23T14:13:49+00:00",
+      "updatedAt": "2026-11-23T14:13:49+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/plus-de-950-milliards-de-dollars-repris-en-quelques-minutes-l-action-nvidia-bondit-de-31-a-wall-street-alors-que-jensen-huang-est-retabli-a-son-poste-de-directeur-general-1174265.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -360,8 +399,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T13:34:33+00:00",
-      "updatedAt": "2026-11-23T13:34:33+00:00",
+      "publishedAt": "2026-11-23T15:19:56+00:00",
+      "updatedAt": "2026-11-23T15:19:56+00:00",
       "importance": 69,
       "sources": [
         {
@@ -374,7 +413,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
       "context": null
     },
     {
@@ -406,6 +445,62 @@
       "context": null
     },
     {
+      "id": "rss-417d9f7d8159f6a044",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Retour de Jensen Huang à la tête de Nvidia : l’action du géant américain s’envole de près de 30% à Wall Street",
+      "bullets": [
+        "Ce lundi, l’action du géant des puces Nvidia s’envole de 29% à l’ouverture de Wall Street.",
+        "Vendredi, le titre s’échangeait autour de 125 dollars, au plus bas depuis mi-2025.",
+        "Ce lundi, à l’ouverture, le Nasdaq grimpait de 6,75 % et le S&P 500 de 4,77 %."
+      ],
+      "publishedAt": "2026-11-23T15:06:39+00:00",
+      "updatedAt": "2026-11-23T15:06:39+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/retour-de-jensen-huang-a-la-tete-de-nvidia-l-action-du-geant-americain-s-envole-de-pres-de-30-a-wall-street-20261123",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "0ceb56bf175e0225a1ebaf230fda4d1e48d9c0006ff352c95eb91fc5c05dd7fb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8923ee66b3e7da958c",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Catapultée par l'improbable retour de Jensen Huang à la tête de Nvidia, Wall Street décolle, le S&P 500 prend 3,7% et le Nasdaq 5,4%",
+      "bullets": [
+        "Le Dow Jones Industrial Average prend 2,2% en début de séance, le S&P 500 gagne 3,7% tandis que le Nasdaq Composite bondit de 5,7%.",
+        ">> Accédez à nos analyses graphiques exclusives, et entrez dans la confidence du Portefeuille Trading Un \"soulagement\" Les marchés américains sont portés par le bond spectaculaire de l'action Nvidia qui s'adjuge 29% à la suite de l'annonce du rétablissement de Jensen Huang à la tête du groupe.",
+        "À noter que l'ouverture de Wall Street a donné un coup de fouet au CAC 40 qui accélère ses gains, prenant 1,1% vers 15h45."
+      ],
+      "publishedAt": "2026-11-23T14:52:41+00:00",
+      "updatedAt": "2026-11-23T14:52:41+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/marches-financiers/catapultee-par-l-improbable-retour-de-jensen-huang-a-la-tete-de-nvidia-wall-street-decolle-le-sp-500-prend-37-et-le-nasdaq-54-1174272.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
       "id": "rss-ad9cf08116931df2b6",
       "revision": 1,
       "category": "markets",
@@ -434,59 +529,31 @@
       "context": null
     },
     {
-      "id": "rss-4799cb2d3cc3b1b819",
+      "id": "rss-b04af56a6a1e5573a0",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "Lendemain de fête difficile pour Anthropic, dont l'action chute de 9% après une entrée en Bourse historique à Wall Street",
+      "title": "Un mastodonte de la cybersécurité à 270 milliards de dollars s'aPPR (ex Pinault Printemps)ête à émerger… Crowdstrike va racheter Zscaler pour 44 milliards de dollar",
       "bullets": [
-        "Dans les premiers échanges, le titre Anthropic chute de plus de 9%, à 88,10 dollars.",
-        "Leur perte médiane atteignait 22 %, alors que le Nasdaq progressait de 17 % sur les mêmes périodes.",
-        "Le titre avait cependant plongé par la suite et évolue désormais presque à son prix d’introduction, à 136 dollars contre 135 dollars initialement."
+        "La nouvelle entité devrait afficher une capitalisation boursière (la valeur de la totalité des actions) de 270 milliards de dollars (235 milliards de dollars pour Crowdstrike, 32 milliards pour Zscaler) et des revenus récurrents annuels de 10 milliards de dollars.",
+        "La société a d'ailleurs chiffré des synergies de revenus de plus de 1 milliard de dollars dans un horizon de trente mois suivant la finalisation de la transaction.",
+        "Une vague de consolidation Plus largement, Crodwstrike estime que l'acquisition de Zscaler lui permettra d'étendre son marché potentiel de plus de 185 milliards de dollars."
       ],
-      "publishedAt": "2026-11-20T14:40:18+00:00",
-      "updatedAt": "2026-11-20T14:40:18+00:00",
-      "importance": 58,
+      "publishedAt": "2026-11-23T13:46:55+00:00",
+      "updatedAt": "2026-11-23T13:46:55+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/actualites/informations-societes/lendemain-de-fete-difficile-pour-anthropic-dont-l-action-chute-de-9-apres-une-entree-en-bourse-historique-a-wall-street-1174189.html",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/un-mastodonte-de-la-cybersecurite-a-270-milliards-de-dollars-s-apprete-a-emerger-crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollar-1174259.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
-      "summaryInput": "6ef4ddd5d6a09681d21c77b6ff1f2e133d6a92423fae27eea44447030227d324",
+      "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T06:20:05.122394+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-606e9b5aec5f598bf1",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "SANOFI : La biotech américaine Insmed, un morceau de choix pour Sanofi, même si elle coûte plus de 30 milliards de dollars?",
-      "bullets": [
-        "Sur les neufs premiers mois de 2026, ce médicament a vu ses revenus grimper de 34,5% à 15 milliards d'euros et a assuré le gros de la croissance de la société sur la période.",
-        "Ce \"patent cliff\" retranchera 17,3 milliards d'euros de revenus entre 2030 et 2035, selon les projections de JPMorgan.",
-        "Le chiffre d'affaires combiné atteindrait 62 milliards en 2029 et le poids de Dupixent au même horizon reculerait de trois points de pourcentage à 38%, calcule encore le courtier."
-      ],
-      "publishedAt": "2026-11-20T14:44:32+00:00",
-      "updatedAt": "2026-11-20T14:44:32+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-la-biotech-americaine-insmed-un-morceau-de-choix-pour-sanofi-meme-si-elle-coute-plus-de-30-milliards-de-dollars-1174190.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "d45e735e75a4e124082304a9ec1236e5c55975f380a076f63b964e632f95a391",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T06:20:05.122394+00:00",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
       "context": null
     },
     {
@@ -615,6 +682,108 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-42c66b392166ed7d52",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne",
+      "bullets": [
+        "Le président ukrainien Volodymyr Zelensky a revendiqué, lundi 23 novembre, le double assaut mené la veille par « sept drones navals » dans la zone maritime de Benghazi.",
+        "Une telle attaque contre des bateaux russes transportant de l’armement permet à Kiev de montrer que ses forces sont en mesure de…"
+      ],
+      "publishedAt": "2026-11-23T15:00:09+00:00",
+      "updatedAt": "2026-11-23T15:00:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "680f3e576b59185ed80726e8332004f4799224f88f767979c3e235f8a20666cb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-61ec46ff46e0bbd20f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Deux navires russes attaqués par l'Ukraine au large de la Libye : l'opération, dont s'est félicité Volodymyr Zelensky, filmée par des drones",
+      "bullets": [
+        "Des images spectaculaires, filmées au large de Benghazi (Libye).",
+        "\"Malgré toutes les tentatives de l'ennemi pour les contrer, la corvette russe Merkury a été coulée\", a écrit sur X, ce lundi, Volodymyr Zelensky.",
+        "Le Kremlin met en garde ce matin contre un risque d'escalade."
+      ],
+      "publishedAt": "2026-11-23T14:56:38+00:00",
+      "updatedAt": "2026-11-23T14:56:38+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "e398c14d7b2816d0d2dd8c81342ba96be0a9debb9f1c9225452aa0d797c34559",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-1220a5cba945432ca3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Génocide des Rohingya : « Le champ d’action de la Cour internationale de justice s’est orienté vers les enjeux liés aux droits humains »",
+      "bullets": [
+        "Le juriste William Schabas souligne, dans une tribune au « Monde », la nouvelle approche de la CIJ, qui s’affranchit des menaces à peine voilées de l’ambassadeur américain auprès des Nations unies.",
+        "Celui-ci avait mis en garde contre un abaissement du seuil juridique requis pour caractériser un tel crime."
+      ],
+      "publishedAt": "2026-11-23T14:30:13+00:00",
+      "updatedAt": "2026-11-23T14:30:13+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/23/genocide-des-rohingya-le-champ-d-action-de-la-cour-internationale-de-justice-s-est-oriente-vers-les-enjeux-lies-aux-droits-humains_6814395_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "782202ac1af1e39dff1a9f508fdecdac3862b9a6752089a35e137ad5b0a4b688",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b53191832c662110b7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En images. Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye à l’aide de « drones maritimes »",
+      "bullets": [
+        "Volodymyr Zelensky a revendiqué l’attaque de deux bateaux russes en Libye qui s’est déroulée dans la nuit du dimanche 22 novembre 2026."
+      ],
+      "publishedAt": "2026-11-23T14:30:09+00:00",
+      "updatedAt": "2026-11-23T14:30:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/videos/video/2026/11/23/en-images-volodymyr-zelensky-revendique-l-attaque-de-deux-bateaux-russes-en-libye-a-l-aide-de-drones-maritimes_6814394_1669088.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "91b349eeda75c32e1441eaffbf9f4bedb538ad23ba68b146fbb0b44b82148fda",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c000f099efd88d50a8",
       "revision": 1,
       "category": "world",
@@ -693,111 +862,6 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "7a0f89a0ca879f7ba849e4a8485bf59e774ef252330853fd8aa986635a2b52b3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0d8258a6f8ee13e873",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Deux navires, dont un russe, attaqués en Libye",
-      "bullets": [
-        "Deux navires, dont un bateau russe, ont été attaqués par des drones maritimes samedi 21 novembre dans la base navale de Benghazi, en Libye.",
-        "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
-      ],
-      "publishedAt": "2026-11-23T07:11:08+00:00",
-      "updatedAt": "2026-11-23T07:11:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/russie/deux-navires-dont-un-russe-attaques-en-libye_8295578.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "da15caa225c2c1b955a413671c98cfa7001609fd5d3dff5cbf2e96a6f69c11cb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T08:45:40.085795+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-c180a997ac2690114e",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine",
-      "bullets": [
-        "Au moins 15 personnes ont été tuées lors de frappes russes dans la région de Kiev, selon un bilan des autorités lundi 23 novembre.",
-        "Dans la nuit de samedi à dimanche, une frappe sur Dymer, à environ 45 km au nord de la capitale, a notamment touché un immeuble résidentiel de cinq étages.",
-        "Le bilan n'a cessé de s'alourdir au fil des heures, atteignant 11 morts lundi matin, selon le gouverneur militaire de la région de Kiev, Tymour Tkatchenko."
-      ],
-      "publishedAt": "2026-11-23T06:18:38+00:00",
-      "updatedAt": "2026-11-23T06:18:38+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "8c4f9a4f2864a1015244b2ff1c54bfb3bfcd9093eb34ad98e4ab7c32daa7ee4a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T08:45:40.085795+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d7f8729276b9577fb5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique",
-      "bullets": [
-        "DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises."
-      ],
-      "publishedAt": "2026-11-23T06:10:50+00:00",
-      "updatedAt": "2026-11-23T06:10:50+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "26ae1517284126edbc96bca94af6ffda1db236c3f8c745fa03856825b6af7583",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-db75ea80eed036a874",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "« Maman, les gens qui t’ont découpée sont revenus nous chercher » : dans l’est de la RDC, la guerre impossible contre les ADF, groupe armé affilié à l’Etat islamique",
-      "bullets": [
-        "Parmi la centaine de milices présentes dans l’est du pays, les Forces démocratiques alliées se distinguent par leurs atrocités.",
-        "Elles tentent d’établir un sanctuaire dans cette région majoritairement chrétienne en violant les femmes et en forçant les hommes à la rejoindre. « Le Monde » est allé à la rencontre…"
-      ],
-      "publishedAt": "2026-11-23T05:15:08+00:00",
-      "updatedAt": "2026-11-23T05:15:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/23/maman-les-gens-qui-t-ont-decoupee-sont-revenus-nous-chercher-dans-l-est-de-la-rdc-la-guerre-impossible-contre-les-adf-groupe-arme-affilie-a-l-etat-islamique_6814346_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "dff9849185c39a3ca283f3a8ddb78285c45553c7ff51bd8378194e1ec5cc1168",
       "detailLevel": "preview"
     },
     {
@@ -928,17 +992,17 @@
     },
     {
       "id": "rss-e07af191ad6412ced9",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangui regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme",
+      "title": "Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangi regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme",
       "bullets": [
-        "Un mois s'est écoulé, lundi 23 novembre, depuis la mort de Pengo Bossio Wangui, 26 ans, lors de l'attentat qui a meurtri les Yvelines fin octobre, et la date d'un hommage national, promis par Emmanuel Macron, n'a toujours pas été communiquée.",
-        "Si aucune date n'est annoncée, Matignon et Beauvau assurent maintenir le contact avec les familles de victimes et suivre l'évolution de l'état de santé des blessés avec attention.",
+        "Un mois s'est écoulé, lundi 23 novembre, depuis la mort de Pengo Bossio Wangi, 26 ans, lors de l'attentat qui a meurtri les Yvelines fin octobre, et la date d'un hommage national, promis par Emmanuel Macron, n'a toujours pas été communiquée.",
+        "\"On a retardé la date jusqu'à présent parce qu'on a indexé cette date sur l'état de santé des blessés\", a justifié Sébastien Lecornu, précisant que \"l'hommage aura[it] lieu à Paris\".",
         "La ville de Trappes a, de son côté, déjà avancé sur un hommage permanent au jeune homme tué il y a un mois."
       ],
-      "publishedAt": "2026-11-23T11:40:50+00:00",
-      "updatedAt": "2026-11-23T11:40:50+00:00",
+      "publishedAt": "2026-11-23T14:51:48+00:00",
+      "updatedAt": "2026-11-23T14:51:48+00:00",
       "importance": 85,
       "sources": [
         {
@@ -949,9 +1013,9 @@
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
-      "summaryInput": "ce3e8dc53a0a7bf6a57cb35395e9d3c7509caa93d7e7fd04e63a584b9b7e8c29",
+      "summaryInput": "70385b9b67470f2da8399e4f003d259bb12a38a4a0028336abde618ac3d12948",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T12:06:54.686246+00:00",
+      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
       "context": null
     },
     {
@@ -1139,8 +1203,8 @@
         "EXCLUSIF - Le chef de l’État confirme qu’il envisage de reprendre une révision constitutionnelle entreprise en 2011 mais non finalisée.",
         "Tout en conditionnant prudemment ce scénario à l’évolution de la situation budgétaire et à l’état d’esprit des partis politiques."
       ],
-      "publishedAt": "2026-11-23T08:28:04+00:00",
-      "updatedAt": "2026-11-23T08:28:04+00:00",
+      "publishedAt": "2026-11-23T15:17:35+00:00",
+      "updatedAt": "2026-11-23T15:17:35+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1214,7 +1278,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1226,7 +1290,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1316,7 +1380,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 34
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
