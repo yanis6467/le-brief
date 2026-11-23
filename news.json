@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-23",
-  "preparedAt": "2026-11-23T12:06:54.686246+00:00",
+  "preparedAt": "2026-11-23T13:35:25.201642+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-6475a5088495579abe",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Thierry Breton plaide pour un budget inscrit dans la Constitution",
+      "bullets": [
+        "Pour inscrire la règle d'or budgétaire dans la Constituions, Thierry Breton, ex-commissaire européen a rencontré tous les chefs de parti.",
+        "Une interdiction de se réunir devant ces lycées d'Ile-de-France",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
+      ],
+      "publishedAt": "2026-11-23T12:46:44+00:00",
+      "updatedAt": "2026-11-23T12:46:44+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/thierry-breton-plaide-pour-un-budget-inscrit-dans-la-constitution_8296070.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "43404472d06704ce08b6b9d14fa47b1c2b20b8b146f16ac20a5e59679ecf3535",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
+      "context": null
+    },
     {
       "id": "rss-4feb9da8360044d6d8",
       "revision": 1,
@@ -87,6 +115,34 @@
       "context": null
     },
     {
+      "id": "rss-aba591781549f61a47",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "En Espagne, Pedro Sánchez propose de taxer les patrimoines supérieurs à 100 millions d'euros",
+      "bullets": [
+        "Même si nous avons réduit les inégalités de revenus à des niveaux historiquement bas, les 0,1 % les plus riches détiennent plus de 10 % du patrimoine.",
+        "Et leur part n'a cessé d'augmenter depuis 2010», a écrit Pedro Sánchez sur X.",
+        "LIRE AUSSI - Taxer les « riches » et les grandes entreprises : la folie fiscale de la gauche tenue en échec à l’Assemblée nationale L'Espagne dispose déjà d'un impôt de solidarité sur les grandes fortunes, instauré en 2022, qui s'applique aux patrimoines nets supérieurs à 3 millions d'euros."
+      ],
+      "publishedAt": "2026-11-23T12:40:43+00:00",
+      "updatedAt": "2026-11-23T12:40:43+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/en-espagne-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros-20261123",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "f0d9ee13fd5441d1135d26114081eed7be1e54a48f96e05d8dddf29721e0cef6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0896cb38bed9581c85",
       "revision": 1,
       "category": "eco",
@@ -111,32 +167,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cb71ab103b587f5530",
+      "id": "rss-e077ff241378d8f9dc",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros",
+      "title": "Prime carburant : le gouvernement fait adopter au Sénat une prolongation en 2027",
       "bullets": [
-        "Le Premier ministre socialiste espagnol, Pedro Sanchez, a proposé, lundi 23 novembre, une nouvelle taxe sur les fortunes de plus de 100 millions d'euros, à six jours des élections législatives.",
-        "Même si nous avons réduit les inégalités de revenus à des niveaux historiquement bas, les 0,1% les plus riches détiennent plus de 10% du patrimoine.",
-        "L'Espagne dispose déjà d'un impôt de solidarité sur les grandes fortunes, instauré en 2022, qui s'applique aux patrimoines nets supérieurs à 3 millions d'euros."
+        "LIRE AUSSI - Face à la flambée du kérosène, vers une « inévitable » hausse du prix des billets d’avion Un plafond à 1000 euros Face à la flambée des prix des carburants, le gouvernement avait aussi annoncé fin septembre relever le plafond de cette aide de 600 à 1000 euros.",
+        "Le dispositif et sa prorogation en 2027 devront désormais être confirmés dans la copie finale du budget, qui pourrait passer par un recours à l’article 49 alinéa 3 de la Constitution."
       ],
-      "publishedAt": "2026-11-23T11:13:23+00:00",
-      "updatedAt": "2026-11-23T11:13:23+00:00",
+      "publishedAt": "2026-11-23T13:18:27+00:00",
+      "updatedAt": "2026-11-23T13:18:27+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/prime-carburant-le-gouvernement-fait-adopter-au-senat-une-prolongation-en-2027-20261123",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "article-extract",
-      "summaryInput": "4dbe5ad7076244949b8b1cecb741fa7cbbe7768ec90f44c2fd86e56aa5838367",
+      "summaryInput": "79137feb088291e81a7b2d1aa6855662c4e5405a6050b7bf77dbf5349a110ddb",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T12:06:54.686246+00:00",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
       "context": null
+    },
+    {
+      "id": "rss-10d24001648a858f1a",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Kokou Agbo-Bloua (Société Générale) : « Il n’y a pas de bulle de l’IA mais une révolution industrielle qui aura des effets profonds »",
+      "bullets": [
+        "ENTRETIEN - Le responsable mondial de la recherche de la branche banque d’investissement de Société Générale analyse les récents mouvements boursiers qui ont suivi les élections des midterms et les inquiétudes sur l’intelligence artificielle.",
+        "Son point de vue diffère de l’inquiétude dominante."
+      ],
+      "publishedAt": "2026-11-23T12:30:00+00:00",
+      "updatedAt": "2026-11-23T12:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/kokou-agbo-bloua-societe-generale-il-n-y-a-pas-de-bulle-de-l-ia-mais-une-revolution-industrielle-qui-aura-des-effets-profonds-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "dc96f630bc40a1aaef89203d7095decba52437aac4f9efdccbd4366c39c35260",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-ad1764ad11f94c1112",
@@ -194,31 +274,6 @@
       "context": null
     },
     {
-      "id": "rss-97ee3208e302c36936",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
-      "bullets": [
-        "Un âpre conflit de gouvernance tourmente le géant des boissons, au sein duquel on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel.",
-        "La 11ᵉ fortune française vient d’avoir 100 ans."
-      ],
-      "publishedAt": "2026-11-22T05:00:20+00:00",
-      "updatedAt": "2026-11-22T05:00:20+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ac44838493ae90144b9251ce2206cc238455f75a457eff395a248e38005f31cf",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-cb61baea9575f7d67a",
       "revision": 1,
       "category": "eco",
@@ -267,58 +322,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cfaa706b8e7ead6179",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les Bourses d'Asie continuent de chuter face aux inquiétudes sur l'IA, Séoul en tête",
-      "bullets": [
-        "L'indice Nasdaq, qui rassemble l'essentiel des titres technologiques, a dévissé vendredi de 5,28 %.",
-        "Vers 03H10 GMT, le Kospi à Séoul décrochait de 5,08 % à 4.622,57 points, plombé par Samsung (- 6,01 %) et SK hynix (- 5,75 %).",
-        "À la Bourse de Taipei, l'indice Taiex se montrait plus résilient (-0,51 %), tout comme le géant des semi-conducteurs et première capitalisation boursière d'Asie TSMC (-0,25 %)."
-      ],
-      "publishedAt": "2026-11-23T05:19:08+00:00",
-      "updatedAt": "2026-11-23T05:19:08+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/les-bourses-d-asie-continuent-de-chuter-face-aux-inquietudes-sur-l-ia-seoul-en-tete-20261123",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "d08d9b49293b6e96a316c07e45705a3b3443ca3b20413f75fd7a49a772573671",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T12:06:54.686246+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-506f6eb2e74a88bf3b",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Le paradoxe est saisissant : les Français réclament plus de services publics ? On leur propose moins d’Etat »",
-      "bullets": [
-        "L’urbaniste Julien Moulard, qui a dirigé le groupement d’intérêt public L’Europe des projets architecturaux et urbains, dissout en juillet, s’alarme, dans une tribune au « Monde », d’une politique de réforme de l’Etat qui, sous couvert d’efficacité, fragilise des services publics déjà exangues."
-      ],
-      "publishedAt": "2026-11-22T08:00:06+00:00",
-      "updatedAt": "2026-11-22T08:00:06+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/22/le-paradoxe-est-saisissant-les-francais-reclament-plus-de-services-publics-on-leur-propose-moins-d-etat_6814195_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6bafe9e1e8c33298ed2c54204aeed6a0713554225775d409bca6c300d01de52a",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d5fa6e2b86ef1d0c7a",
       "revision": 1,
       "category": "markets",
@@ -343,7 +346,7 @@
       "provenance": "article-extract",
       "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T01:29:09.336444+00:00",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
       "context": null
     },
     {
@@ -357,8 +360,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T12:02:14+00:00",
-      "updatedAt": "2026-11-23T12:02:14+00:00",
+      "publishedAt": "2026-11-23T13:34:33+00:00",
+      "updatedAt": "2026-11-23T13:34:33+00:00",
       "importance": 69,
       "sources": [
         {
@@ -403,28 +406,32 @@
       "context": null
     },
     {
-      "id": "rss-8f54d93c543fbdd875",
+      "id": "rss-ad9cf08116931df2b6",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.48%",
+      "title": "CAC 40 : Avec une accalmie sur l'IA et la détente des taux français, le CAC 40 reprend un tout petit peu d'allant",
       "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-048-1174226.html"
+        "Après avoir chuté de plus de 5% la semaine dernière (en cumulé), le CAC 40 reste groggy.",
+        "L'indice parisien prend 0,68% à 7.981,58 points ce lundi 23 novembre à la mi-séance.",
+        "Le rendement tricolore à 10 ans recule ainsi de six points base (0,06 point de pourcentage) à 4,817%."
       ],
-      "publishedAt": "2026-11-23T08:00:00+00:00",
-      "updatedAt": "2026-11-23T08:00:00+00:00",
+      "publishedAt": "2026-11-23T11:57:04+00:00",
+      "updatedAt": "2026-11-23T11:57:04+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-048-1174226.html",
-          "access": "extrait"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avec-une-accalmie-sur-l-ia-et-la-detente-des-taux-francais-le-cac-40-reprend-un-tout-petit-peu-d-allant-1174251.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ba0505c44d7d758720e8785047841d52282ecf4d1ced024b64574cf1b66858c0",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "d2f97bd7a938bef07a6b60ee16e5d2d6c2b678b4038cc4fad256f68cb4b3e853",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
+      "context": null
     },
     {
       "id": "rss-4799cb2d3cc3b1b819",
@@ -608,6 +615,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c000f099efd88d50a8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Ukraine attaque deux navires russes en Libye",
+      "bullets": [
+        "L'Ukraine a revendiqué des attaques contre deux navires russes au large de la Libye, dans ce qui apparaît comme une nouvelle extension de la guerre entre Kiev et Moscou.",
+        "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine",
+        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
+      ],
+      "publishedAt": "2026-11-23T13:04:53+00:00",
+      "updatedAt": "2026-11-23T13:04:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/l-ukraine-attaque-deux-navires-russes-en-libye_8296079.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "6b0941710c479eb3c7bcb9bc924b3b7138ea0ed4dd94bbe30a844d6e082870da",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T13:35:25.201642+00:00",
+      "context": null
+    },
+    {
       "id": "rss-249ca56f8d5f996a27",
       "revision": 1,
       "category": "world",
@@ -637,16 +672,16 @@
     },
     {
       "id": "rss-1a84922b4f1677df86",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Eliav Lieblich : après l’arrêt de la CIJ reconnaissant la responsabilité birmane dans le génocide des Rohingya, « il est fort probable qu’Israël soit condamné » pour Gaza",
+      "title": "Eliav Lieblich, juriste israélien : après l’arrêt de la CIJ reconnaissant la responsabilité birmane dans le génocide des Rohingya, « il est fort probable qu’Israël soit condamné » pour Gaza",
       "bullets": [
         "Pour le professeur de droit à l’université de Tel-Aviv, Eliav Lieblich, la décision de la Cour de justice internationale du 19 novembre « complique la position d’Israël ».",
         "Il précise, dans un entretien au « Monde », la jurisprudence sur le crime de génocide dans un sens qui rendra les…"
       ],
-      "publishedAt": "2026-11-23T10:00:09+00:00",
-      "updatedAt": "2026-11-23T10:00:09+00:00",
+      "publishedAt": "2026-11-23T10:00:06+00:00",
+      "updatedAt": "2026-11-23T10:00:06+00:00",
       "importance": 67,
       "sources": [
         {
@@ -657,7 +692,7 @@
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "7fa1b05562668413a48989358f9bb12137edf029ec0efa4b682f7ed9a5a545cf",
+      "summaryInput": "7a0f89a0ca879f7ba849e4a8485bf59e774ef252330853fd8aa986635a2b52b3",
       "detailLevel": "preview"
     },
     {
@@ -766,34 +801,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-cfab9bf57e275e4eea",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Soudan : des enfants mis en danger par la malnutrition",
-      "bullets": [
-        "Au Soudan, l’ONU s’alarme d’un nouveau risque de famine.",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
-      ],
-      "publishedAt": "2026-11-23T05:00:02+00:00",
-      "updatedAt": "2026-11-23T05:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/soudan-des-enfants-mis-en-danger-par-la-malnutrition_8292443.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "f4761ccf3f810e6302978027f3a1500dad5d8bb462fd9ac93fa31691e21a755a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T12:06:54.686246+00:00",
-      "context": null
-    },
-    {
       "id": "rss-98eca9ba6a1dce6d86",
       "revision": 2,
       "category": "france",
@@ -879,7 +886,7 @@
       ],
       "publishedAt": "2026-11-21T12:22:07+00:00",
       "updatedAt": "2026-11-21T12:22:07+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -895,27 +902,28 @@
       "context": null
     },
     {
-      "id": "rss-336f6a2a029b9f962b",
+      "id": "rss-b395ec8b1dd11650ee",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+      "title": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
       "bullets": [
-        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh est suspecté."
+        "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti.",
+        "Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur."
       ],
-      "publishedAt": "2026-11-20T08:46:19+00:00",
-      "updatedAt": "2026-11-20T08:46:19+00:00",
-      "importance": 61,
+      "publishedAt": "2026-11-21T18:01:12+00:00",
+      "updatedAt": "2026-11-21T18:01:12+00:00",
+      "importance": 56,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "77809899b0d2ecb8cd1eaf8dbf4f10fad6cf53f318cf721b367c36cbc81cb222",
+      "summaryInput": "8d4e0dbd6bf1fda6eed2857713701a930e7d3e06869b48c770ba0016c11d3ccd",
       "detailLevel": "preview"
     },
     {
@@ -1007,7 +1015,7 @@
       ],
       "publishedAt": "2026-11-22T13:00:03+00:00",
       "updatedAt": "2026-11-22T13:00:03+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1147,34 +1155,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ceba0b2ba8bc77f64",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
-      "bullets": [
-        "Arnaud Hercules Harixcalde Logan, 36 ans, a plaidé coupable jeudi 19 novembre devant le tribunal de Perth (centre de l'Écosse) de faits de dégradation volontaire commis en juillet 2025 au musée de la ville.",
-        "La pierre historique, sur laquelle les souverains écossais recevaient traditionnellement l'onction royale, n'a pas été endommagée.",
-        "La \"Pierre du Destin\", qui pèse près de 152 kilogrammes, avait été saisie par le roi d'Angleterre Édouard Ier en 1296 et transportée à l'abbaye de Westminster, à Londres."
-      ],
-      "publishedAt": "2026-11-21T17:18:07+00:00",
-      "updatedAt": "2026-11-21T17:18:07+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "7eeb49aab953c66987f59891b25a931cf02fa11376efd038d85ee0069a3cf888",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
-      "context": null
-    },
-    {
       "id": "rss-b49936f16da641c67b",
       "revision": 1,
       "category": "france",
@@ -1197,6 +1177,30 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b2f995760af3512b336423d513457b5697e780b6c23d623cbd83017caf83a716",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ffb23a964ea6cb20db",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Sélection galerie : Lee Krasner chez Gagosian",
+      "bullets": [
+        "A voir cette semaine : une exposition parisienne, concentrée sur les années 1960, pour découvrir les singularités de la peintre expressionniste abstraite, mariée à Jackson Pollock."
+      ],
+      "publishedAt": "2026-11-21T09:00:18+00:00",
+      "updatedAt": "2026-11-21T09:00:18+00:00",
+      "importance": 61,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/21/selection-galerie-lee-krasner-chez-gagosian_6813961_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5d98915f3f9675988cfe8d456e109d8a2c9a1d4b08fbc3791b7c43788295a5f0",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1210,7 +1214,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1222,7 +1226,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1258,7 +1262,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1276,7 +1280,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 7
     },
     {
       "publisher": "Le Monde",
@@ -1312,7 +1316,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
