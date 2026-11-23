@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-23",
-  "preparedAt": "2026-11-23T08:45:40.085795+00:00",
+  "preparedAt": "2026-11-23T10:25:48.092070+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-4feb9da8360044d6d8",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Règle d'or\" budgétaire : \"Une idée démocrate, ni de droite ni de gauche\", explique l'ancien commissaire européen Thierry Breton",
+      "bullets": [
+        "\"C'est une idée démocrate, ni de droite, ni de gauche\", explique, lundi 23 novembre, sur franceinfo, Thierry Breton, ancien commissaire européen au Marché intérieur alors qu'Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire.",
+        "Thierry Breton appelle depuis plusieurs mois à instaurer cette \"règle d'or\" pour calmer l'inquiétude des marchés.🔴 Règle d'or budgétaire : sur quels critères ?",
+        "L'ancien ministre de l'Economie rappelle que si notre déficit est toujours à 5,1% depuis 2011, notre dette \"est passée de 1 700 à 3 600 milliards d'euros\"."
+      ],
+      "publishedAt": "2026-11-23T09:08:28+00:00",
+      "updatedAt": "2026-11-23T09:08:28+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/regle-d-or-budgetaire-une-idee-democrate-ni-de-droite-ni-de-gauche-explique-l-ancien-commissaire-europeen-thierry-breton_8295680.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "4acd8bf6591fcf882555ff1c3398091821378b580d3237554fab2c247e58b068",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "context": null
+    },
     {
       "id": "rss-e0f8d4b90c60588558",
       "revision": 2,
@@ -59,6 +87,34 @@
       "context": null
     },
     {
+      "id": "rss-faff77a07641a39834",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«On revient au papier et au crayon» : le CHU de la Guadeloupe victime d'une «cyberattaque de grande ampleur»",
+      "bullets": [
+        "Le plan blanc a été déclenché dimanche matin au CHU de la Guadeloupe, en plein transfert vers un nouveau site, après «une cyberattaque de grande ampleur», survenue samedi soir, a-t-on appris auprès de la direction de l'établissement.",
+        "La direction du CHU appelle les patients à ne se présenter aux urgences «que dans le cadre d'une urgence vitale, après avoir contacté le 15», le SAMU étant préservé de la cyberattaque.",
+        "Le nouveau CHU, à Belle Plaine, abrite pour l'heure les consultations externes."
+      ],
+      "publishedAt": "2026-11-23T07:24:16+00:00",
+      "updatedAt": "2026-11-23T07:24:16+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/on-revient-au-papier-et-au-crayon-le-chu-de-la-guadeloupe-victime-d-une-cyberattaque-de-grande-ampleur-20261123",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "5719a4990de6f01cb3e7768a00cb799e0134bc93401f3c0ae06cbbca072fcb94",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0896cb38bed9581c85",
       "revision": 1,
       "category": "eco",
@@ -81,6 +137,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ec3b2ef813cfa662960c868a66e79dba1cbed3b2af6eb5ae9c345ba54e91dd2f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ad1764ad11f94c1112",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Règle d'or\" budgétaire dans la Constitution : \"Ça se regarde\", confirme Roland Lescure, qui précise qu'il \"faut créer une certaine forme de consensus, un débat politique\" autour de cette question",
+      "bullets": [
+        "Alix Bouilhaguet : Emmanuel Macron pourrait convoquer un Congrès pour adopter une \"règle d'or\" budgétaire, qui pourrait avoir lieu en janvier.",
+        "La réalité, c'est que ce n'est pas la fièvre, ce sont les médicaments qui vont permettre de l'éviter qu'il faut plafonner.",
+        "Mais regardez, il y a bien une \"règle d'or\" au niveau européen, 3% du déficit."
+      ],
+      "publishedAt": "2026-11-23T08:50:03+00:00",
+      "updatedAt": "2026-11-23T08:50:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-lundi-23-novembre-2026_8291537.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "77b8a6db659fe1301e484c5e6f11365ebd91f7fe21e8be93a16366a5f426f91b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "context": null
     },
     {
       "id": "rss-58803ba6ac94ac189d",
@@ -137,34 +221,6 @@
       "context": null
     },
     {
-      "id": "rss-b55a2785d3cd6e839d",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Aujourd'hui, des personnes sans logement, on en voit tous les jours\" : quand trouver une location devient un parcours du combattant",
-      "bullets": [
-        "Le deux-pièces avec jardin coûte 700 euros par mois.",
-        "La colocation, moins chère qu'une location classique — 500 euros par mois ici — est beaucoup plus accessible selon eux.",
-        "Un couple rénove un corps de ferme de 200 mètres carrés."
-      ],
-      "publishedAt": "2026-11-22T21:42:46+00:00",
-      "updatedAt": "2026-11-22T21:42:46+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/immobilier/aujourd-hui-des-personnes-sans-logement-on-en-voit-tous-les-jours-quand-trouver-une-location-devient-un-parcours-du-combattant_8295185.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "d16ca8c649f3aa4d27ffaf6b57a8778ed1cfe7325c1b8734bf61374ff3827d85",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-22T21:55:32.653977+00:00",
-      "context": null
-    },
-    {
       "id": "rss-97ee3208e302c36936",
       "revision": 1,
       "category": "eco",
@@ -188,6 +244,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "ac44838493ae90144b9251ce2206cc238455f75a457eff395a248e38005f31cf",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b55a2785d3cd6e839d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Aujourd'hui, des personnes sans logement, on en voit tous les jours\" : quand trouver une location devient un parcours du combattant",
+      "bullets": [
+        "Le deux-pièces avec jardin coûte 700 euros par mois.",
+        "La colocation, moins chère qu'une location classique — 500 euros par mois ici — est beaucoup plus accessible selon eux.",
+        "Un couple rénove un corps de ferme de 200 mètres carrés."
+      ],
+      "publishedAt": "2026-11-22T21:42:46+00:00",
+      "updatedAt": "2026-11-22T21:42:46+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/immobilier/aujourd-hui-des-personnes-sans-logement-on-en-voit-tous-les-jours-quand-trouver-une-location-devient-un-parcours-du-combattant_8295185.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "d16ca8c649f3aa4d27ffaf6b57a8778ed1cfe7325c1b8734bf61374ff3827d85",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "context": null
     },
     {
       "id": "rss-cb61baea9575f7d67a",
@@ -214,112 +298,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f26b52598d51730064",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"Toutes les solutions méritent d’être explorées\" : l'Elysée ne confirme pas la possible inscription de la \"règle d'or\" budgétaire dans la Constitution début 2027",
-      "bullets": [
-        "Avant de quitter l'Elysée, Emmanuel Macron va-t-il graver dans la Constitution une \"règle d'or\" budgétaire ?",
-        "Selon des informations obtenues par La Tribune Dimanche et publiée dans son édition du 22 novembre, le chef de l'Etat réfléchit à faire approuver une telle disposition afin d'encadrer les déficits publics.",
-        "Concrètement, il porterait sur un projet de loi constitutionnelle déjà adopté dans les mêmes termes par les deux chambres en 2011, à la fin du mandat de Nicolas Sarkozy, mais qui n'avait pas été à son terme."
-      ],
-      "publishedAt": "2026-11-22T18:25:32+00:00",
-      "updatedAt": "2026-11-22T18:25:32+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/toutes-les-solutions-meritent-d-etre-explorees-l-elysee-ne-confirme-pas-la-possible-inscription-de-la-regle-d-or-budgetaire-dans-la-constitution-debut-2027_8295083.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "1e52205db6abf864d2a3ab83fb9b0e989bef765fe28588df405a1ac64b1e532d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T08:45:40.085795+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ebeec9dde722673ddb",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Une épicerie itinérante pour les petits budgets mise en place par la Banque Alimentaire",
-      "bullets": [
-        "Carla Boissier, une mère de quatre enfants et sans emploi, qui s'y rend depuis plusieurs mois, témoigne au micro de France 2 : \"Personnellement, je ne suis pas véhiculée.",
-        "Et ici, au camion, on pratique des prix vraiment très intéressants, (...) à 15% (en dessous) du prix en supermarché\", explique Isabelle Arnaud, bénévole à la Banque Alimentaire du Rhône.",
-        "Le gaz, par exemple, leur coûte 164 euros par mois."
-      ],
-      "publishedAt": "2026-11-22T15:08:28+00:00",
-      "updatedAt": "2026-11-22T15:08:28+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/une-epicerie-itinerante-pour-les-petits-budgets-mise-en-place-par-la-banque-alimentaire_8294912.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "25f0b9bb51e345f1c54f1fe652e12afd47fc9630dcc78620c909e325dd613acf",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T04:22:59.831976+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-506f6eb2e74a88bf3b",
+      "id": "rss-9a15df3987788a1efb",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« Le paradoxe est saisissant : les Français réclament plus de services publics ? On leur propose moins d’Etat »",
+      "title": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
       "bullets": [
-        "L’urbaniste Julien Moulard, qui a dirigé le groupement d’intérêt public L’Europe des projets architecturaux et urbains, dissout en juillet, s’alarme, dans une tribune au « Monde », d’une politique de réforme de l’Etat qui, sous couvert d’efficacité, fragilise des services publics déjà exangues."
+        "La Bourse de Corée du Sud a chuté de presque 50 % depuis juin, et celle de Taïwan de 30 %. Les autorités financières asiatiques sont intervenues, samedi et dimanche, sur les marchés pour tenter d’enrayer le déclin. Une agitation qui fait suite à la lourde dégringolade de Wall Street…"
       ],
-      "publishedAt": "2026-11-22T08:00:06+00:00",
-      "updatedAt": "2026-11-22T08:00:06+00:00",
+      "publishedAt": "2026-11-23T09:30:06+00:00",
+      "updatedAt": "2026-11-23T09:30:06+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/22/le-paradoxe-est-saisissant-les-francais-reclament-plus-de-services-publics-on-leur-propose-moins-d-etat_6814195_3232.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "6bafe9e1e8c33298ed2c54204aeed6a0713554225775d409bca6c300d01de52a",
+      "summaryInput": "ca575730840aa596cef7cf6a6957af1d3c5bed29551c911144d14cf9fa523fbc",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-05bd03224ed4b23b6e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "\"La tendance à la désindustrialisation s'est inversée mais elle reste fragile\", estime l'organisation patronale France Industrie à l'occasion de l'ouverture du sommet Choose France",
-      "bullets": [
-        "\"La tendance à la désindustrialisation s'est inversée mais cette tendance reste fragile\", indique lundi 23 novembre sur franceinfo, Alexandre Saubot, président de l'organisation patronale France Industrie qui regroupe 90% des entreprises industrielles en France.",
-        "L'Élysée a annoncé, dans le cadre du sommet Choose France qui s'ouvre lundi, près de 15 milliards d'euros d'investissements nouveaux pour 81 projets inédits.",
-        "La croissance pour \"durablement augmenter les salaires\"Selon le président de France Industrie, \"la dynamique, qui a permis d'accompagner les entreprises par moins de prélèvements\" afin de les inciter \"à investir, a été fragilisée depuis le budget 2025\"."
-      ],
-      "publishedAt": "2026-11-23T08:35:21+00:00",
-      "updatedAt": "2026-11-23T08:35:21+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/industrie/la-tendance-a-la-desindustrialisation-s-est-inversee-mais-elle-reste-fragile-estime-l-organisation-patronale-france-industrie-a-l-occasion-de-l-ouverture-du-sommet-choose-france_8295656.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "8aa694dce1c0a7d731011b0c31289bacb5bbec5680a6385c22fe3d8a4262b5f4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T08:45:40.085795+00:00",
-      "context": null
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -360,8 +360,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T08:43:04+00:00",
-      "updatedAt": "2026-11-23T08:43:04+00:00",
+      "publishedAt": "2026-11-23T10:21:24+00:00",
+      "updatedAt": "2026-11-23T10:21:24+00:00",
       "importance": 69,
       "sources": [
         {
@@ -538,34 +538,6 @@
       "context": null
     },
     {
-      "id": "rss-c1505a2cb56ecf3313",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En pleine guerre, un nageur britannique traverse une partie du détroit d'Ormuz",
-      "bullets": [
-        "Face à la guerre, le défi fou d’un athlète… Le nageur britannique Lewis Pugh a traversé une partie du détroit d’Ormuz, pour alerter les dirigeants sur les conséquences environnementales de la guerre dans cet endroit où la faune et la flore sont menacées",
-        "Plus de 350 écrivains dans le monde exhortent l'Iran à épargner un poète menacé de peine de mort",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
-      ],
-      "publishedAt": "2026-11-22T14:14:29+00:00",
-      "updatedAt": "2026-11-22T14:14:29+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/en-pleine-guerre-un-nageur-britannique-traverse-une-partie-du-detroit-d-ormuz_8294921.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "e9d80c4fbe0d62af8fa4578cca70fde59ef296d45698b32105d42d1b6db382a8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T03:09:33.433955+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5ef485212381e5fafa",
       "revision": 1,
       "category": "world",
@@ -637,6 +609,59 @@
       "provenance": "rss-excerpt",
       "summaryInput": "190c2039d5bec041d5da3d5c9cc9be62994b4df7a8a19488df30d3b2e2471a63",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1a84922b4f1677df86",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Eliav Lieblich : après l’arrêt de la CIJ reconnaissant la responsabilité birmane dans le génocide des Rohingya, « il est fort probable qu’Israël soit condamné » pour Gaza",
+      "bullets": [
+        "Pour le professeur de droit à l’université de Tel-Aviv, Eliav Lieblich, la décision de la Cour de justice internationale du 19 novembre « complique la position d’Israël ».",
+        "Il précise, dans un entretien au « Monde », la jurisprudence sur le crime de génocide dans un sens qui rendra les…"
+      ],
+      "publishedAt": "2026-11-23T10:00:09+00:00",
+      "updatedAt": "2026-11-23T10:00:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/23/eliav-lieblich-apres-l-arret-de-la-cij-reconnaissant-la-responsabilite-birmane-dans-le-genocide-des-rohingya-il-est-fort-probable-qu-israel-soit-condamne-pour-gaza_6814372_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7fa1b05562668413a48989358f9bb12137edf029ec0efa4b682f7ed9a5a545cf",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-249ca56f8d5f996a27",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
+      "bullets": [
+        "Deux navires, russes d'après la présidence ukrainienne, ont été attaqués, dimanche 22 novembre, dans le port et au large de Benghazi (Libye).",
+        "Deux navires, dont un bateau russe, ont été attaqués par des drones maritimes samedi 21 novembre dans la base navale de Benghazi, en Libye.",
+        "(franceinfo) 0:57 Selon les autorités de l'est de la Libye, le navire faisait route vers la Russie et avait fait escale à Benghazi pour se ravitailler en carburant et en provisions, dans le cadre d'accords de coopération entre les deux pays."
+      ],
+      "publishedAt": "2026-11-23T09:16:56+00:00",
+      "updatedAt": "2026-11-23T09:16:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "article-extract",
+      "summaryInput": "1511a5436aa5454ffb38b57c106f0dceb92f8375f3a569349b1eee335b651417",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
+      "context": null
     },
     {
       "id": "rss-0d8258a6f8ee13e873",
@@ -720,13 +745,13 @@
     },
     {
       "id": "rss-db75ea80eed036a874",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "« Maman, les gens qui t’ont découpée sont revenus nous chercher » : dans l’Est de la RDC, la guerre impossible contre les ADF, groupe armé affilié à l’Etat islamique",
+      "title": "« Maman, les gens qui t’ont découpée sont revenus nous chercher » : dans l’est de la RDC, la guerre impossible contre les ADF, groupe armé affilié à l’Etat islamique",
       "bullets": [
-        "Parmi la centaine de milices dans l’Est de la République démocratique du Congo, les Forces démocratiques alliées se distinguent par leurs atrocités.",
-        "Cette filiale de l’Etat islamique veut établir un sanctuaire dans cette région majoritairement chrétienne en violant les femmes et en forçant les hommes à la rejoindre. « Le…"
+        "Parmi la centaine de milices présentes dans l’est du pays, les Forces démocratiques alliées se distinguent par leurs atrocités.",
+        "Elles tentent d’établir un sanctuaire dans cette région majoritairement chrétienne en violant les femmes et en forçant les hommes à la rejoindre. « Le Monde » est allé à la rencontre…"
       ],
       "publishedAt": "2026-11-23T05:15:08+00:00",
       "updatedAt": "2026-11-23T05:15:08+00:00",
@@ -740,36 +765,8 @@
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "1479e3b34065800bbb8bed49d53f6790b9d53ef6d35ee466d6236acb1041853a",
+      "summaryInput": "dff9849185c39a3ca283f3a8ddb78285c45553c7ff51bd8378194e1ec5cc1168",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-cfab9bf57e275e4eea",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Soudan : des enfants mis en danger par la malnutrition",
-      "bullets": [
-        "Au Soudan, l’ONU s’alarme d’un nouveau risque de famine.",
-        "Cette sacoche renferme un secret depuis 81 ans",
-        "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
-      ],
-      "publishedAt": "2026-11-23T05:00:02+00:00",
-      "updatedAt": "2026-11-23T05:00:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/soudan-des-enfants-mis-en-danger-par-la-malnutrition_8292443.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "article-extract",
-      "summaryInput": "f4761ccf3f810e6302978027f3a1500dad5d8bb462fd9ac93fa31691e21a755a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T06:20:05.122394+00:00",
-      "context": null
     },
     {
       "id": "rss-98eca9ba6a1dce6d86",
@@ -796,28 +793,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-b7162d8b095c2bcaa2",
-      "revision": 2,
+      "id": "rss-0664f938727ef00491",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
+      "title": "Après l’attentat de Trappes, un entrepreneur de Millau lance une nouvelle marche nationale contre le racisme, au départ de Marseille",
       "bullets": [
-        "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution.",
-        "Le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités."
+        "Le parcours démarrera lundi 23 novembre avec l’objectif de rejoindre la ville des Yvelines.",
+        "Sollicités, certains marcheurs de 1983 sont circonspects sur l’impact d’une nouvelle édition."
       ],
-      "publishedAt": "2026-11-22T18:53:29+00:00",
-      "updatedAt": "2026-11-22T18:53:29+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-22T15:30:09+00:00",
+      "updatedAt": "2026-11-22T15:30:09+00:00",
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/22/apres-l-attentat-de-trappes-un-entrepreneur-de-millau-lance-une-nouvelle-marche-nationale-contre-le-racisme-au-depart-de-marseille_6814223_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
-      "summaryInput": "0cddd7e54f0a6301746270268a01ece3bd37a08a958fb0678f141a11d67b1a9d",
+      "summaryInput": "935d365f25cbbae40495fa594d8658cea2b6898959b1a34a3dc86829306fc12d",
       "detailLevel": "preview"
     },
     {
@@ -869,7 +866,7 @@
       "provenance": "article-extract",
       "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-22T20:56:04.700801+00:00",
+      "enrichedAt": "2026-11-23T10:25:48.092070+00:00",
       "context": null
     },
     {
@@ -883,7 +880,7 @@
       ],
       "publishedAt": "2026-11-20T08:46:19+00:00",
       "updatedAt": "2026-11-20T08:46:19+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -974,6 +971,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-b7162d8b095c2bcaa2",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
+      "bullets": [
+        "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution.",
+        "Le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités."
+      ],
+      "publishedAt": "2026-11-22T18:53:29+00:00",
+      "updatedAt": "2026-11-22T18:53:29+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0cddd7e54f0a6301746270268a01ece3bd37a08a958fb0678f141a11d67b1a9d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ae767215d26974f1a3",
       "revision": 1,
       "category": "france",
@@ -996,30 +1018,6 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "ebb4856f3086dacb750982fdfd99eae2ddcdd90b5b3b9b7f2527f20ec30e41ff",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-85e9142aef3ea032ac",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : « La démocratie doit être une confrontation d’idées et non de comptes en banque »",
-      "bullets": [
-        "Le modèle de financement des campagnes des candidats à l’Elysée est fragile, alerte, dans une tribune au « Monde », le constitutionnaliste Benjamin Morel, qui plaide pour la création d’un Fonds pour le financement démocratique."
-      ],
-      "publishedAt": "2026-11-23T06:30:06+00:00",
-      "updatedAt": "2026-11-23T06:30:06+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/presidentielle-2027-la-democratie-doit-etre-une-confrontation-d-idees-et-non-de-comptes-en-banque_6814356_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1dd5456fffb9813d10db74de73e4dcda86c7f541a1665d8aee5dfbc7c8dcea7b",
       "detailLevel": "preview"
     },
     {
@@ -1075,31 +1073,6 @@
       "context": null
     },
     {
-      "id": "rss-0664f938727ef00491",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Après l’attentat de Trappes, un entrepreneur de Millau lance une nouvelle marche nationale contre le racisme, au départ de Marseille",
-      "bullets": [
-        "Le parcours démarrera lundi 23 novembre avec l’objectif de rejoindre la ville des Yvelines.",
-        "Sollicités, certains marcheurs de 1983 sont circonspects sur l’impact d’une nouvelle édition."
-      ],
-      "publishedAt": "2026-11-22T15:30:09+00:00",
-      "updatedAt": "2026-11-22T15:30:09+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/22/apres-l-attentat-de-trappes-un-entrepreneur-de-millau-lance-une-nouvelle-marche-nationale-contre-le-racisme-au-depart-de-marseille_6814223_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "935d365f25cbbae40495fa594d8658cea2b6898959b1a34a3dc86829306fc12d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a17b1889888e8efb0d",
       "revision": 1,
       "category": "france",
@@ -1122,6 +1095,30 @@
       "verifiedAt": "2026-11-23",
       "provenance": "rss-excerpt",
       "summaryInput": "9c3ed69b405500cd52ef749eb0f08bbc22cff76d177a9e3e36e2e9b61bf4e531",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d27f54b55410f6c596",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques",
+      "bullets": [
+        "Le président songerait à réunir députés et sénateurs en janvier, en s’appuyant sur un projet de loi constitutionnelle adopté par l’Assemblée et le Sénat en 2011, mais jamais soumis au vote final."
+      ],
+      "publishedAt": "2026-11-22T17:12:47+00:00",
+      "updatedAt": "2026-11-22T17:12:47+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-23",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bbb518d4bec98191542d0a3a572064168bb85f11e97a34248dd29f0982cbf5a3",
       "detailLevel": "preview"
     },
     {
@@ -1159,7 +1156,7 @@
       ],
       "publishedAt": "2026-11-21T09:00:18+00:00",
       "updatedAt": "2026-11-21T09:00:18+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1208,7 +1205,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1232,7 +1229,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Le Figaro",
@@ -1250,7 +1247,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
@@ -1286,7 +1283,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 30
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
