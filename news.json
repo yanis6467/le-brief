@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T03:04:07.652115+00:00",
+  "preparedAt": "2026-11-24T04:14:21.455425+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -69,7 +69,7 @@
       ],
       "publishedAt": "2026-11-23T15:35:31+00:00",
       "updatedAt": "2026-11-23T15:35:31+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -109,7 +109,7 @@
       "provenance": "article-extract",
       "summaryInput": "71a2031d9c7f2e5a27199106c6490038179791174290a840f2d4780cb10abcdd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -371,7 +371,7 @@
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -385,8 +385,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T03:04:01+00:00",
-      "updatedAt": "2026-11-24T03:04:01+00:00",
+      "publishedAt": "2026-11-24T04:10:20+00:00",
+      "updatedAt": "2026-11-24T04:10:20+00:00",
       "importance": 69,
       "sources": [
         {
@@ -399,7 +399,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -499,7 +499,7 @@
       ],
       "publishedAt": "2026-11-23T16:13:12+00:00",
       "updatedAt": "2026-11-23T16:13:12+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -511,7 +511,7 @@
       "provenance": "article-extract",
       "summaryInput": "0ceb56bf175e0225a1ebaf230fda4d1e48d9c0006ff352c95eb91fc5c05dd7fb",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -539,7 +539,7 @@
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -567,7 +567,7 @@
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
       "context": null
     },
     {
@@ -687,7 +687,7 @@
       ],
       "publishedAt": "2026-11-23T15:44:32+00:00",
       "updatedAt": "2026-11-23T15:44:32+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -742,7 +742,7 @@
       ],
       "publishedAt": "2026-11-23T15:31:18+00:00",
       "updatedAt": "2026-11-23T15:31:18+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1119,7 +1119,7 @@
       ],
       "publishedAt": "2026-11-23T03:10:36+00:00",
       "updatedAt": "2026-11-23T03:10:36+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1205,6 +1205,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-cd5930a3cd646d25f8",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Les séries de la semaine : « Blade Runner 2099 », « Le Cinéma selon Cunk », « The Altruists » et « Snake Killer »",
+      "bullets": [
+        "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran.",
+        "Aujourd’hui, notamment, une histoire du cinéma en 90 minutes, livrée par une créature issue du cerveau retors de Charlie Brooker."
+      ],
+      "publishedAt": "2026-11-24T03:30:10+00:00",
+      "updatedAt": "2026-11-24T03:30:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/24/les-series-de-la-semaine-blade-runner-2099-le-cinema-selon-cunk-the-altruists-et-snake-killer_6814603_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "265b6c7a6848c053fb2431e8837a9e0c41d608421302cb78a1cc1c10d2a831d8",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-eaf7fb7e0a76123add",
       "revision": 1,
       "category": "france",
@@ -1250,31 +1275,6 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "b2f995760af3512b336423d513457b5697e780b6c23d623cbd83017caf83a716",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-9b4f87305c622cb743",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "La présidentielle de 2027 et ses enjeux : l’école victime de disparités persistantes",
-      "bullets": [
-        "Entre fermetures de classes et réajustements structurels, les inégalités territoriales du système scolaire pourraient se voir renforcées.",
-        "Alors même qu’elles sont déjà exacerbées par les fractures actuelles, notamment la division entre public et privé, ou le clivage entre éducation classique et éducation prioritaire."
-      ],
-      "publishedAt": "2026-11-18T16:00:08+00:00",
-      "updatedAt": "2026-11-18T16:00:08+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/ecole-primaire-et-secondaire/article/2026/11/18/la-presidentielle-de-2027-et-ses-enjeux-l-ecole-victime-de-disparites-persistantes_6813160_1473688.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
       "detailLevel": "preview"
     }
   ],
@@ -1325,7 +1325,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1379,7 +1379,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
