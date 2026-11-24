@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T18:03:40.972354+00:00",
+  "preparedAt": "2026-11-24T19:14:35.205802+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -60,54 +60,32 @@
       "context": null
     },
     {
-      "id": "rss-936d2689fd0323928e",
+      "id": "rss-3df144810aec7b8658",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
+      "title": "Sébastien Lecornu recevra les présidents des groupes parlementaires \"la semaine prochaine\" pour prolonger les discussions sur le budget 2027",
       "bullets": [
-        "Les discussions sur la hausse de son plafond, voulue par le gouvernement, sont toujours en cours.",
-        "Son taux d’intérêt pourrait passer de 1,7 % actuellement à 2,8 % en février."
+        "Sébastien Lecornu a annoncé mardi 24 novembre sur X qu'il recevrait \"la semaine prochaine chacun des présidents de groupe parlementaire pour poursuivre les discussions budgétaires\", pour la première fois cet automne, alors qu'aucun compromis n'est en vue sur les projets de loi de finances pour 2027.",
+        "Le Parlement vient d’adopter le projet de loi de finances de fin de gestion pour 2026.",
+        "Ces engagements seront tenus sans dégrader l’objectif de déficit public pour 2026."
       ],
-      "publishedAt": "2026-11-24T05:00:31+00:00",
-      "updatedAt": "2026-11-24T05:00:31+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-24T19:04:02+00:00",
+      "updatedAt": "2026-11-24T19:04:02+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "47fddf9a24ffe5feab14996d108e64bfec2ebac856e558a45c8d85c046541976",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-33ecaf2895063718d4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Le prix reste le nerf de la guerre»: même conscientes des risques de leur dépendance, les entreprises françaises privilégient les outils américains pour leur sécurité",
-      "bullets": [
-        "Entre deux tiers et trois quarts des entreprises françaises se déclarent dépendantes de solutions numériques étrangères.",
-        "Le critère de la souveraineté pèse toujours peu dans les décisions d’achat face aux arguments de l’efficacité et du prix."
-      ],
-      "publishedAt": "2026-11-24T11:37:46+00:00",
-      "updatedAt": "2026-11-24T11:37:46+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/le-prix-reste-le-nerf-de-la-guerre-meme-conscientes-des-risques-de-leur-dependance-les-entreprises-francaises-privilegient-les-outils-americains-pour-leur-securite-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "344cfe7924ef03a3dea992181acd0f2651746649ec86d52145640911205c5539",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "35699436addcd8d0c4b596038aaf390d7acbc6ddaebec1d4be32da94762c7972",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T19:14:35.205802+00:00",
+      "context": null
     },
     {
       "id": "rss-ccaf9431d5cf2906dd",
@@ -166,32 +144,29 @@
       "context": null
     },
     {
-      "id": "rss-12dede95d0c8064b38",
+      "id": "rss-19561f0b47a79a3fb3",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
+      "title": "Le constructeur chinois BYD sur le point de racheter une usine en Moselle pour produire en France",
       "bullets": [
-        "L'accusation vient d'une sénatrice démocrate, Elissa Slotkin, qui a affirmé, lundi 23 novembre sur X, que le président américain aurait déjà gagné 60 millions de dollars avec l'entreprise de puces ultras performantes.",
-        "D'après une enquête de la chaîne financière américaine CNBC, Donald Trump aurait fait 103 transactions sur son compte Nvidia depuis son retour à la Maison Blanche, pour un montant supérieur à 27 millions de dollars.",
-        "D'après CNBC, il a déclaré plus de 20 000 transactions boursières en 2025, contre 500 lors de son premier mandat."
+        "Le constructeur chinois, confronté à une forte baisse de ses ventes en Chine, investit massivement en Europe.",
+        "Il a choisi l’ancienne usine de Smart en Moselle."
       ],
-      "publishedAt": "2026-11-24T17:34:08+00:00",
-      "updatedAt": "2026-11-24T17:34:08+00:00",
+      "publishedAt": "2026-11-24T19:05:09+00:00",
+      "updatedAt": "2026-11-24T19:05:09+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/le-constructeur-auto-chinois-byd-sur-le-point-de-racheter-une-usine-en-moselle-pour-produire-en-france-20261124",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "30ec7037022b856fa8f52355ef8061a692755431d534c79554c83d3caca4fcb8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "5198d2c43821414a0405a8a9ee07f4084ddcccd6ad2318d2460a930f09658cb0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-2f8ee613d15f90000f",
@@ -275,34 +250,6 @@
       "context": null
     },
     {
-      "id": "rss-e5d1a1605c16974122",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "VIDÉO. Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
-      "bullets": [
-        "\"C'est un principe simple [...] qui consiste à ne pas mettre tous ses œufs dans le même panier\", commente Benjamin Gallezot, délégué interministériel aux approvisionnements en minerais et métaux stratégiques auprès du Premier ministre, sur franceinfo mardi 24 novembre.",
-        "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels notamment à l'égard de la Chine.",
-        "\"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", affirme Benjamin Gallezot."
-      ],
-      "publishedAt": "2026-11-24T12:20:45+00:00",
-      "updatedAt": "2026-11-24T12:20:45+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "789dcd44f6a509610bea82ee889e7f285a364a22d2e2123a1d278661bb2f50b4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
-      "context": null
-    },
-    {
       "id": "rss-26a4c0752e41c7c5b3",
       "revision": 3,
       "category": "eco",
@@ -325,6 +272,54 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "a2ef2a8f277b522d0c1a4989c9feecaf8c2bb5c44dd03c17782fdf30aa441a4d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f4ef270dbd99f58f13",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
+      "bullets": [
+        "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre."
+      ],
+      "publishedAt": "2026-11-24T11:56:00+00:00",
+      "updatedAt": "2026-11-24T11:56:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b211770e7c5e7e2580",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
+      "bullets": [
+        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
+      ],
+      "publishedAt": "2026-11-24T10:53:15+00:00",
+      "updatedAt": "2026-11-24T10:53:15+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
       "detailLevel": "preview"
     },
     {
@@ -366,9 +361,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T18:00:06+00:00",
-      "updatedAt": "2026-11-24T18:00:06+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-24T19:14:38+00:00",
+      "updatedAt": "2026-11-24T19:14:38+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -589,8 +584,8 @@
         "Le gouvernement libyen d'unité nationale, basé à Tripoli, a démenti mardi 24 novembre toute \"entente\" avec Kiev au sujet des attaques de dimanche contre deux navires russes au large de l'est de la Libye, prenant ainsi publiquement ses distances avec les opérations revendiquées par l'Ukraine.",
         "Alors que des spéculations ont circulé sur un éventuel rôle des autorités de Tripoli dans les opérations revendiquées par Kiev, le ministère des Affaires étrangères a affirmé que les \"allégations faisant état de l'existence de quelconques ententes avec la partie ukrainienne concernant ces événements\" étaient \"sans fondement\"."
       ],
-      "publishedAt": "2026-11-24T17:12:08+00:00",
-      "updatedAt": "2026-11-24T17:12:08+00:00",
+      "publishedAt": "2026-11-24T18:58:33+00:00",
+      "updatedAt": "2026-11-24T18:58:33+00:00",
       "importance": 97,
       "sources": [
         {
@@ -601,9 +596,9 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "2f34a51943b5a01aeddb49c1665b326b6ca2606fd9687cf5ca1c27bcbc107a62",
+      "summaryInput": "97f9ffa772adc31671293f65e6994410259df01f10542fd97311507b235011ca",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-24T19:14:35.205802+00:00",
       "context": null
     },
     {
@@ -635,16 +630,89 @@
       "context": null
     },
     {
-      "id": "rss-6fe0b59737e15d18d3",
+      "id": "rss-f6a78292937eff8200",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Relancer ou non la guerre : l’alliance israélo-américaine au défi du réarmement iranien",
+      "bullets": [
+        "Alors que le premier ministre sortant d’Israël, Benyamin Nétanyahou, plaide auprès de Donald Trump pour une reprise rapide des frappes sur l’Iran, le président américain, refroidi par la défaite historique de son camp aux élections de mi-mandat, s’est donné jusqu’à janvier pour trancher."
+      ],
+      "publishedAt": "2026-11-24T19:00:03+00:00",
+      "updatedAt": "2026-11-24T19:00:03+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/relancer-ou-non-la-guerre-l-alliance-israelo-americaine-au-defi-du-rearmement-iranien_6814843_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b3a7fd938ecf5512e16054956e718b0b2e6ee6c85a5038c03163687c00d8c325",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5cefc82b32e7939488",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dans son dernier train de sanctions, l’UE entend généraliser l’exclusion des athlètes russes des compétitions sportives organisées sur son territoire",
+      "bullets": [
+        "La Commission européenne a présenté lundi son nouveau paquet de sanctions contre la Russie, dans un contexte d’intensification de la guerre hybride entre les deux puissances."
+      ],
+      "publishedAt": "2026-11-24T18:09:46+00:00",
+      "updatedAt": "2026-11-24T18:09:46+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-son-dernier-train-de-sanctions-l-ue-entend-generaliser-l-exclusion-des-athletes-russes-des-competitions-sportives-organisees-sur-son-territoire-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7d4b28359e010f4f27",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
+      "bullets": [
+        "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français.",
+        "Avant les élections, la Commission marche sur des œufs et retient ses critiques."
+      ],
+      "publishedAt": "2026-11-24T18:42:05+00:00",
+      "updatedAt": "2026-11-24T18:42:05+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5299014bf67d00f574496485bf3f92e67705611fd9fc79ee10e8fcb3420828e7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6fe0b59737e15d18d3",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
       "bullets": [
-        "Cette attaque intervient le jour du 10e anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie (FARC)."
+        "Cette attaque intervient le jour du dixième anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie."
       ],
-      "publishedAt": "2026-11-24T17:53:30+00:00",
-      "updatedAt": "2026-11-24T17:53:30+00:00",
+      "publishedAt": "2026-11-24T17:53:27+00:00",
+      "updatedAt": "2026-11-24T17:53:27+00:00",
       "importance": 75,
       "sources": [
         {
@@ -655,7 +723,31 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "412a0e15619661024d7280229eb93760726e2bb1f10687d81d1eee8a3dd38719",
+      "summaryInput": "966996ffb959b0fa2ce9f9474ae41828cbe09d867ad418827f4b71b3c4c0abe8",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1e6c2150b81a4f615e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au Brésil, le gouvernement Lula fait voter un plan de rigueur budgétaire controversé",
+      "bullets": [
+        "Ce premier texte d’envergure soumis au vote depuis la réélection du dirigeant du Parti des travailleurs, le 25 octobre, a suscité la réprobation d’une partie de la gauche, en désaccord avec la modification de la loi allouant une partie des recettes des exportations de pétrole et de gaz naturel à…"
+      ],
+      "publishedAt": "2026-11-24T19:11:50+00:00",
+      "updatedAt": "2026-11-24T19:11:50+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/au-bresil-le-gouvernement-lula-fait-voter-un-plan-de-rigueur-budgetaire-controverse_6814846_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ad026f7a4cbcb99be76e9a94be5ce50c1ada82d82e6122527a8e4f3a929394b7",
       "detailLevel": "preview"
     },
     {
@@ -681,34 +773,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a5eaae32b1e30fa6be",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
-      "bullets": [
-        "Les progrès en matière de lutte contre le VIH et de ses effets sont indéniables.",
-        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le Fonds mondial de lutte contre le sida, la tuberculose et le paludisme de 13%.",
-        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus, plaide Mary Mahy."
-      ],
-      "publishedAt": "2026-11-24T13:21:28+00:00",
-      "updatedAt": "2026-11-24T13:21:28+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
-      "context": null
     },
     {
       "id": "rss-df2211a4bce8c28a0f",
@@ -767,34 +831,6 @@
       "context": null
     },
     {
-      "id": "rss-bea8174331cea9908a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Des frappes israéliennes à Gaza font six morts, dont un adolescent, selon les secours",
-      "bullets": [
-        "Six personnes, dont un adolescent, ont été tuées, mardi 24 novembre, lors de frappes israéliennes dans la bande de Gaza, ont annoncé les services de secours du territoire palestinien ravagé par la guerre.",
-        "Selon la Défense civile, trois Palestiniens, dont un jeune de 17 ans, ont été \"tués lors d'une frappe aérienne israélienne qui a visé un groupe de civils\" au sud de la ville de Gaza.",
-        "Dans le même temps, l'armée israélienne a déploré la perte de sept soldats, ainsi que d'un intervenant civil."
-      ],
-      "publishedAt": "2026-11-24T10:53:40+00:00",
-      "updatedAt": "2026-11-24T10:53:40+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-font-six-morts-dont-un-adolescent-selon-les-secours_8297418.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "afc283bb010135e26384f49a4e3a0c61f5db1048664c4766b9497740c76b5772",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d2c8f83d3cb42aa4f9",
       "revision": 1,
       "category": "world",
@@ -843,103 +879,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-704cc11835f70eb2e2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Russie s’apprêterait à placer une arme nucléaire dans l’espace",
-      "bullets": [
-        "RÉCIT - Le projet, intitulé Spoutnik S, est révélé par des médias allemands qui s’appuient sur des sources au sein du renseignement occidental.",
-        "L’Occident s’inquiète des intentions russes de militariser l’espace."
-      ],
-      "publishedAt": "2026-11-23T18:30:17+00:00",
-      "updatedAt": "2026-11-23T18:30:17+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "348db11b555a0a7c35323362c24858df445eafdaa955d06a87992efb3fe10392",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-aa70e1aacd068fcd42",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Suède : le centre gauche échoue à former un gouvernement",
-      "bullets": [
-        "Deux mois et demi après les élections législatives, les sociaux-démocrates, les centristes, les Verts et le Parti de la gauche ont acté leur incapacité à constituer une coalition.",
-        "Le premier ministre sortant conservateur, Ulf Kristersson, se dit prêt à briguer un second mandat à la tête de la droite."
-      ],
-      "publishedAt": "2026-11-24T16:30:10+00:00",
-      "updatedAt": "2026-11-24T16:30:10+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/suede-le-centre-gauche-echoue-a-former-un-gouvernement_6814817_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c452631f268c4526ed23720a660c9a6424b87d7a73bdd5ab090664f18f6aaf30",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ffafe8ea21a4d12c2c",
+      "id": "rss-a9f1e01e0feda4c14d",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : « Ce qui s’effrite sous nos yeux, c’est la légitimité d’un régime bâti sur l’idée de faire barrage au RN »",
+      "title": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
       "bullets": [
-        "Le sociologue Sylvain Laurens rappelle, dans une tribune au « Monde », que depuis vingt-cinq ans le pouvoir du chef de l’Etat se fonde sur le front républicain face au Rassemblement national, mais qu’aujourd’hui le présidentialisme est en crise, faute de susciter l’adhésion des électeurs."
+        "A l’occasion du congrès des maires de France, la candidate du Rassemblement national a reçu plusieurs édiles au siège du parti mardi 24 novembre et a dévoilé son programme pour les collectivités locales."
       ],
-      "publishedAt": "2026-11-24T16:00:02+00:00",
-      "updatedAt": "2026-11-24T16:00:02+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-24T18:33:50+00:00",
+      "updatedAt": "2026-11-24T18:33:50+00:00",
+      "importance": 97,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-ce-qui-s-effrite-sous-nos-yeux-c-est-la-legitimite-d-un-regime-bati-sur-l-idee-de-faire-barrage-au-rn_6814813_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "0c73ea03a7adecd82f72227fda8157a36b4a683d1d5528f3114a2efca190f55b",
+      "summaryInput": "836a0be18d85611083457a787939f51c97c62d0b9aacdd201a3d2b733799f300",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1c5bdb574cb7587906",
+      "id": "rss-3fce85e028881ce422",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
+      "title": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
       "bullets": [
-        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
-        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
+        "L'Assemblée nationale a adopté le texte en première lecture, par 362 voix contre 118, mardi 24 novembre.",
+        "Déjà adopté au Sénat, le projet de loi vise la construction de 400 000 logements par an et prévoit notamment d'élargir un avantage fiscal destiné aux particuliers qui achètent un logement pour le louer.",
+        "La mesure sur les passoires énergétiques, un \"point noir\"?\"Revenons simplement à la situation de 2021\", a plaidé le député RN Frédéric Falcon, auteur de l'amendement venu supprimer toute interdiction progressive."
       ],
-      "publishedAt": "2026-11-24T08:52:32+00:00",
-      "updatedAt": "2026-11-24T08:52:32+00:00",
+      "publishedAt": "2026-11-24T18:49:59+00:00",
+      "updatedAt": "2026-11-24T18:49:59+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "2ac3a06a2ad6e789779752d9a16086679a56c62ab5716e510355542b95e78c09",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T19:14:35.205802+00:00",
+      "context": null
     },
     {
       "id": "rss-11b8615914a99ccff8",
@@ -966,31 +955,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-56e9524935bde87c52",
-      "revision": 1,
+      "id": "rss-a5eaae32b1e30fa6be",
+      "revision": 2,
       "category": "france",
       "topic": "Santé",
-      "title": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
+      "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
       "bullets": [
-        "Le texte prévoit notamment de limiter la médecine esthétique à 30% du temps de travail des médecins.",
-        "\"Aucune donnée scientifique, épidémiologique ou de santé publique ne permet d'affirmer qu'un praticien consacrant 29% de son activité à l'esthétique offrirait davantage de garanties de sécurité qu'un confrère y consacrant une part plus importante\", a-t-il souligné début novembre dans une question écrite destinée à la ministre de la Santé.",
-        "Selon eux, les dermatologues consacrent en moyenne 3% de leur temps à la médecine esthétique, 58% d'entre eux ne la pratiquant pas du tout."
+        "Les progrès en matière de lutte contre le VIH et de ses effets sont indéniables.",
+        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le Fonds mondial de lutte contre le sida, la tuberculose et le paludisme de 13%.",
+        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus, plaide Mary Mahy."
       ],
-      "publishedAt": "2026-11-24T04:59:37+00:00",
-      "updatedAt": "2026-11-24T04:59:37+00:00",
-      "importance": 72,
+      "publishedAt": "2026-11-24T13:21:28+00:00",
+      "updatedAt": "2026-11-24T13:21:28+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html",
+          "url": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
+      "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
       "context": null
     },
     {
@@ -1095,6 +1084,30 @@
       "context": null
     },
     {
+      "id": "rss-ffafe8ea21a4d12c2c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : « Ce qui s’effrite sous nos yeux, c’est la légitimité d’un régime bâti sur l’idée de faire barrage au RN »",
+      "bullets": [
+        "Le sociologue Sylvain Laurens rappelle, dans une tribune au « Monde », que depuis vingt-cinq ans le pouvoir du chef de l’Etat se fonde sur le front républicain face au Rassemblement national, mais qu’aujourd’hui le présidentialisme est en crise, faute de susciter l’adhésion des électeurs."
+      ],
+      "publishedAt": "2026-11-24T16:00:02+00:00",
+      "updatedAt": "2026-11-24T16:00:02+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-ce-qui-s-effrite-sous-nos-yeux-c-est-la-legitimite-d-un-regime-bati-sur-l-idee-de-faire-barrage-au-rn_6814813_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "0c73ea03a7adecd82f72227fda8157a36b4a683d1d5528f3114a2efca190f55b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0be522f55442c17e32",
       "revision": 1,
       "category": "france",
@@ -1123,27 +1136,28 @@
       "context": null
     },
     {
-      "id": "rss-37c5cc7d2bf7057c43",
+      "id": "rss-1c5bdb574cb7587906",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "A l’Assemblée nationale, les niches parlementaires menacées d’embouteillage",
+      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
       "bullets": [
-        "Face à la multiplication des groupes politiques et à une session raccourcie en raison de l’échéance présidentielle, les journées d’initiative parlementaire où les groupes d’opposition ont la main sur l’ordre du jour nécessitent des arbitrages délicats."
+        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
+        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
       ],
-      "publishedAt": "2026-11-24T08:45:04+00:00",
-      "updatedAt": "2026-11-24T08:45:04+00:00",
+      "publishedAt": "2026-11-24T08:52:32+00:00",
+      "updatedAt": "2026-11-24T08:52:32+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "675e0543685b02b8bda0a3e3ef2dc0a48211058ffca569a552cf2994a892b480",
+      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
       "detailLevel": "preview"
     },
     {
@@ -1195,6 +1209,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-56e9524935bde87c52",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
+      "bullets": [
+        "Le texte prévoit notamment de limiter la médecine esthétique à 30% du temps de travail des médecins.",
+        "\"Aucune donnée scientifique, épidémiologique ou de santé publique ne permet d'affirmer qu'un praticien consacrant 29% de son activité à l'esthétique offrirait davantage de garanties de sécurité qu'un confrère y consacrant une part plus importante\", a-t-il souligné début novembre dans une question écrite destinée à la ministre de la Santé.",
+        "Selon eux, les dermatologues consacrent en moyenne 3% de leur temps à la médecine esthétique, 58% d'entre eux ne la pratiquant pas du tout."
+      ],
+      "publishedAt": "2026-11-24T04:59:37+00:00",
+      "updatedAt": "2026-11-24T04:59:37+00:00",
+      "importance": 72,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "context": null
+    },
+    {
       "id": "rss-af681c0f50302c88ea",
       "revision": 1,
       "category": "france",
@@ -1242,55 +1284,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "5395dd8c0f33c5335bfab100caef3875716c61467baf11a2267db572caa28ab1",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-97f733dbf0626b5b6d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Élèves politisés de milieux favorisés, personnels «empathiques», soutien de LFI… Un rapport dresse le portrait des perturbateurs de lycées",
-      "bullets": [
-        "ANALYSE - À la demande du ministre Édouard Geffray, l’inspection générale de l’Éducation nationale a mené une mission flash pour déterminer les raisons des blocages qui perdurent encore.",
-        "Elle a rendu son rapport ce 24 novembre."
-      ],
-      "publishedAt": "2026-11-24T15:08:32+00:00",
-      "updatedAt": "2026-11-24T15:08:32+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/eleves-politises-de-milieux-favorises-personnels-empathiques-soutien-de-lfi-un-rapport-dresse-le-portrait-des-perturbateurs-de-lycees-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4b7b330809d599a5f305001da6f007ba10a6581209ac1128d5c12a0feadf17d5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-39b16b97ce3dc2fcc5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Espoir, Sierra de Teruel », l’exceptionnel film d’André Malraux sur la guerre d’Espagne ressort en salle",
-      "bullets": [
-        "Sorti en 1945, l’unique film tourné par l’écrivain apporte un témoignage de première main sur ce conflit terrible auquel il prit lui-même part, en créant une escadrille d’aviation destinée à combattre les forces franquistes."
-      ],
-      "publishedAt": "2026-11-24T14:00:08+00:00",
-      "updatedAt": "2026-11-24T14:00:08+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/24/espoir-sierra-de-teruel-l-exceptionnel-film-d-andre-malraux-sur-la-guerre-d-espagne-ressort-en-salle_6814774_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4021f10ce38af0a07f8d8d940d9ab5ebb3af1b90c01096321d68ee1a160f8308",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1304,7 +1297,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 7
     },
     {
       "publisher": "Franceinfo",
@@ -1352,7 +1345,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1376,7 +1369,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
