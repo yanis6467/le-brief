@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T09:22:41.619781+00:00",
+  "preparedAt": "2026-11-24T11:05:56.866350+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -16,9 +16,9 @@
         "Dans un nouveau rapport, la Banque centrale européenne dresse une liste des risques que font peser l’hyperconcentration des capitaux entre les mains d’une poignée de géants de la tech et leur endettement croissant.",
         "La zone euro est de plus en plus exposée."
       ],
-      "publishedAt": "2026-11-23T18:09:04+00:00",
-      "updatedAt": "2026-11-23T18:09:04+00:00",
-      "importance": 88,
+      "publishedAt": "2026-11-24T10:53:18+00:00",
+      "updatedAt": "2026-11-24T10:53:18+00:00",
+      "importance": 89,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -82,15 +82,43 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f35d88909007214ab4",
+      "id": "rss-2ac0497bcbd38fced3",
       "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
+      "bullets": [
+        "On a prévu des exonérations de charges pour les commerces qui ont souffert en Gironde, ça doit passer dans le PLF.",
+        "La discussion avec les lycéens actuellement, il y a des choses qui sont prévues pour eux, ça doit passer aussi dans le PLF.",
+        "Lors de ces discussions, récemment, les sénateurs ont supprimé le gel des pensions des retraités les plus aisés qui était voulu par le gouvernement tout en supprimant l'abattement fiscal de 10% qui devait simplement être réduit dans la copie initiale."
+      ],
+      "publishedAt": "2026-11-24T10:37:21+00:00",
+      "updatedAt": "2026-11-24T10:37:21+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "edab60683966e5cf70e9b9a7b777e71caddcf0605e385c1eed71ebd31f321b7b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-f35d88909007214ab4",
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "REPORTAGE. \"Nous sommes à l'os\" : dans les communes, les maires confrontés à des choix difficiles en prévision de nouvelles restrictions budgétaires",
       "bullets": [
         "La maire craint de devoir se passer de 200 000 euros en 2027, après déjà un rabot de 300 000 euros cette année.",
-        "\"C'est à peu près 80 000 euros en moins à récupérer en 2027\", explique Laurence Renier, qui ne sait plus quelle ficelle tirer.",
-        "Nous sommes à l'os, on risque de devoir augmenter la fiscalité, regrette-t-elle."
+        "Dans certaines classes, il a fait jusqu'à 34 degrés en fin d'année scolaire.",
+        "\"C'est à peu près 80 000 euros en moins à récupérer en 2027\", explique Laurence Renier, qui ne sait plus quelle ficelle tirer."
       ],
       "publishedAt": "2026-11-24T07:16:22+00:00",
       "updatedAt": "2026-11-24T07:16:22+00:00",
@@ -104,9 +132,9 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "c700934d8b49f9c06f6793e6c3e8dc02077055bfb2003120079eef1d3a7670a6",
+      "summaryInput": "6c943eece8996d3112d3bfa020ef490194cb69eabe257500d10e5c0dfdecc550",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T07:36:00.263808+00:00",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
       "context": null
     },
     {
@@ -138,32 +166,53 @@
       "context": null
     },
     {
-      "id": "rss-9fe0bcaaf5f657d988",
+      "id": "rss-63564ede1c62b67134",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Retraites, droits de succession, niches fiscales... Dominique de Villepin présente les premières mesures de son programme pour la présidentielle",
+      "title": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
       "bullets": [
-        "Invité de franceinfo et France 2, lundi 23 novembre, le candidat La France humaniste à la course élyséenne, Dominique de Villepin, a détaillé certaines de ses mesures programmatiques.",
-        "Fin des droits de succession en dessous d'un million d'eurosEn ce qui concerne le sujet de l'héritage, Dominique de Villepin a proposé qu'il n'y ait plus de droits de succession en dessous d'un million d'euros.",
-        "\"Au-dessus d'un million jusqu'à 5 millions, il y a une imposition accélérée à 50 % et au-dessus de 5 millions à 60 %\", a-t-il précisé."
+        "La Chine a accepté, en octobre, de plafonner à 350 000 par an le nombre de véhicules qu’elle peut exporter vers l’UE, qui accusait ses industriels d’inonder le marché européen avec des modèles bon marché."
       ],
-      "publishedAt": "2026-11-23T21:41:27+00:00",
-      "updatedAt": "2026-11-23T21:41:27+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-24T10:26:41+00:00",
+      "updatedAt": "2026-11-24T10:26:41+00:00",
+      "importance": 59,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/elections/retraites-droits-de-succession-niches-fiscales-dominique-de-villepin-presente-les-premieres-mesures-de-son-programme-pour-la-presidentielle_8296785.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/l-ue-limite-les-importations-de-voitures-hybrides-en-provenance-de-chine-comme-convenu-le-mois-dernier-avec-pekin_6814744_3234.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "31cf2b199ecb12d9cca522f2864c4fc85988e24b1c935f501b62fafa3e1da4d3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-23T22:03:21.312606+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "45e3f100f124c12ce923c2a3a069ef713137bd5bfeaa3761e8190355919f0d91",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e28729df1e91f3fdd9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
+      "bullets": [
+        "Moteurs, batteries, hélices… De nombreux appareils, y compris destinés à des usages militaires, ne peuvent pas voler sans ces pièces produites en Chine.",
+        "Les industriels cherchent à développer une filière européenne pour viser l’indépendance."
+      ],
+      "publishedAt": "2026-11-24T09:30:05+00:00",
+      "updatedAt": "2026-11-24T09:30:05+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d9e03d577462c0c4c5be1e120548fb1ecbc7c1ef377a19b10787af9b29e55b30",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-e662717434725d692e",
@@ -267,58 +316,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2c90c882e14a1e757e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Avec le rachat à 41 milliards de dollars de l’américain Insmed, Sanofi trouve enfin l’opération qui assure son avenir",
-      "bullets": [
-        "En quête de remplaçants pour son médicament phare, le Dupixent, le laboratoire pharmaceutique français réalise la plus importante opération de ces dernières années dans le secteur."
-      ],
-      "publishedAt": "2026-11-24T06:49:18+00:00",
-      "updatedAt": "2026-11-24T06:49:18+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "254b51cc1b0c0f3f8a0db8d2312e257fe98609f8692ab4a86961600a73313350",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8c7b72613f28bcff46",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leur livret A, qui connaît sa pire année depuis 2008",
-      "bullets": [
-        "Les épargnants ont retiré, depuis janvier, 9,54 milliards d'euros de plus qu'ils n'en ont déposé sur ce placement, a-t-on appris mardi 24 novembre.",
-        "Pour le seul mois d'octobre, la baisse de l'encours a atteint 2,62 milliards d'euros.",
-        "Au global, l'inflation a atteint 3,4% sur un an en octobre, un niveau aujourd'hui deux fois plus élevé que le rendement du livret A, qui ne protège donc plus les épargnants contre la hausse des prix."
-      ],
-      "publishedAt": "2026-11-24T06:36:37+00:00",
-      "updatedAt": "2026-11-24T06:36:37+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/depuis-janvier-les-francais-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livrets-a-qui-connait-sa-pire-annee-depuis-2008_8297058.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "e6a01c485e77444cbf3f84b3f71079175aa0b46b61bcd35bd914d720f7a378f0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a3f8d5aa7a8af2af1f",
       "revision": 1,
       "category": "markets",
@@ -329,9 +326,9 @@
         "L’indice Nasdaq - qui rassemble les valeurs technologiques - s’est envolé de 6,51 %, l’indice élargi S&P 500 a gagné 4,3 % et le Dow Jones a progressé de 3,01 %.",
         "Le titre Nvidia a lui bondi de 31,48 % à 165,05 dollars, soit un gain de plus de 900 milliards de dollars de capitalisation boursière en une seule séance."
       ],
-      "publishedAt": "2026-11-23T21:19:30+00:00",
-      "updatedAt": "2026-11-23T21:19:30+00:00",
-      "importance": 74,
+      "publishedAt": "2026-11-24T10:53:19+00:00",
+      "updatedAt": "2026-11-24T10:53:19+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -385,8 +382,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T09:18:50+00:00",
-      "updatedAt": "2026-11-24T09:18:50+00:00",
+      "publishedAt": "2026-11-24T11:02:23+00:00",
+      "updatedAt": "2026-11-24T11:02:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -415,7 +412,7 @@
       ],
       "publishedAt": "2026-11-23T10:08:35+00:00",
       "updatedAt": "2026-11-23T10:08:35+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -511,40 +508,15 @@
       "context": null
     },
     {
-      "id": "rss-1385ea0097fddac802",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Après le jugement de la Cour internationale de justice sur le Myanmar, la qualification de génocide à Gaza peut désormais s’appuyer sur sa jurisprudence »",
-      "bullets": [
-        "La plus haute juridiction des Nations unies, la Cour internationale de justice, a jugé le 19 novembre que la Birmanie a commis un génocide à l’encontre de la minorité rohingya en 2017.",
-        "Pour les professeurs de droit Olivier Corten et Farah Safi, cette décision affaiblit considérablement Israël, également accusé de…"
-      ],
-      "publishedAt": "2026-11-23T18:30:12+00:00",
-      "updatedAt": "2026-11-23T18:30:12+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/apres-le-jugement-de-la-cour-internationale-de-justice-sur-le-myanmar-la-qualification-de-genocide-a-gaza-peut-desormais-s-appuyer-sur-sa-jurisprudence_6814439_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "16f42647414499383ecd618eea9ac744311afa240b1459ef5069309ee0cefd72",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1a9f0fcc327d69e45e",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Dans les bunkers des ultra-riches aux États-Unis",
       "bullets": [
+        "À suivre Loïc de la Mornais : le quart d'heure américain du lundi 23 novembre",
         "L'Iran réclame 290 milliards de dollars de dédommagements aux Etats-Unis après la guerre lancée le 28 février",
-        "Violences motorisées : 8 cyclistes sur 10 victimes sur les routes",
-        "José Mourinho : \"Si on joueur fait grève car on joue trop, on peut lui proposer de gagner 50% de moins\""
+        "Violences motorisées : 8 cyclistes sur 10 victimes sur les routes"
       ],
       "publishedAt": "2026-11-23T21:00:02+00:00",
       "updatedAt": "2026-11-23T21:00:02+00:00",
@@ -560,31 +532,32 @@
       "provenance": "article-extract",
       "summaryInput": "18f9033d639ae552f8ff501e70eb765bda7591cebe49681657ead75ffa11d2b1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T22:03:21.312606+00:00",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
       "context": null
     },
     {
-      "id": "rss-1b482dc1190b7e83c4",
+      "id": "rss-be4f915b152a6a25e2",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les Etats-Unis annoncent de nouvelles sanctions pour priver l’Iran de rentrées d’argent",
+      "title": "Madagascar : l’Assemblée nationale vote la destitution de son président, Siteny Randrianasoloniaiko, homme fort du nouveau régime",
       "bullets": [
-        "Des milliards de dollars de transactions suspectes liées à l’Iran ont été détectés par le régulateur américain FinCEN entre 2025 et 2026, selon le Trésor."
+        "M.",
+        "Randrianasoloniaiko, ancien candidat à l’élection présidentielle en 2023, est régulièrement présenté comme l’un des artisans du rapprochement de Madagascar avec la Russie depuis l’arrivée au pouvoir du colonel Michaël Randrianirina, en octobre 2025."
       ],
-      "publishedAt": "2026-11-23T20:37:04+00:00",
-      "updatedAt": "2026-11-23T20:37:04+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-24T09:48:41+00:00",
+      "updatedAt": "2026-11-24T09:48:41+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/madagascar-l-assemblee-nationale-vote-la-destitution-de-son-president-siteny-randrianasoloniaiko-homme-fort-du-nouveau-regime_6814733_3212.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "c37731917808d14d0d50b0914eccbf470ed424de48828a36a3f4b677f8afd3f0",
+      "summaryInput": "405b78c95661173c0c72673b0d121f394da7fe3d6bbabfd8c4ddfb1e291bf49b",
       "detailLevel": "preview"
     },
     {
@@ -612,8 +585,112 @@
       "provenance": "article-extract",
       "summaryInput": "aa4d02de3f7c26e6184664e1d85ac83e8c653564c764a3a8fc4492cc0e83187d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T22:03:21.312606+00:00",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2c559e00ba6e6929f2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
+      "bullets": [
+        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
+      ],
+      "publishedAt": "2026-11-24T09:33:52+00:00",
+      "updatedAt": "2026-11-24T09:33:52+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bea8174331cea9908a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Des frappes israéliennes à Gaza font six morts, dont un adolescent, selon les secours",
+      "bullets": [
+        "Six personnes, dont un adolescent, ont été tuées, mardi 24 novembre, lors de frappes israéliennes dans la bande de Gaza, ont annoncé les services de secours du territoire palestinien ravagé par la guerre.",
+        "Selon la Défense civile, trois Palestiniens, dont un jeune de 17 ans, ont été \"tués lors d'une frappe aérienne israélienne qui a visé un groupe de civils\" au sud de la ville de Gaza.",
+        "Dans le même temps, l'armée israélienne a déploré la perte de sept soldats, ainsi que d'un intervenant civil."
+      ],
+      "publishedAt": "2026-11-24T10:53:40+00:00",
+      "updatedAt": "2026-11-24T10:53:40+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-font-six-morts-dont-un-adolescent-selon-les-secours_8297418.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "afc283bb010135e26384f49a4e3a0c61f5db1048664c4766b9497740c76b5772",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-b8faaa068450d17a1f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia",
+      "bullets": [
+        "La ville est pilonnée par les forces russes.",
+        "Deux personnes ont été tuées et 41 autres blessées dans des frappes russes menées dans la nuit du lundi 23 au mardi 24 novembre sur la ville de Zaporijjia, dans le sud-est de l'Ukraine.",
+        "Les forces russes, qui occupent une partie de cette région méridionale, ont \"mené 687 frappes sur 54 localités de la région de Zaporijjia\" au cours des dernières 24 heures, a déclaré, tôt mardi, Ivan Fedorov, responsable du Conseil de défense de la région."
+      ],
+      "publishedAt": "2026-11-24T10:06:56+00:00",
+      "updatedAt": "2026-11-24T10:06:56+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "34121dad2c95fa10035eb8234546943f2f68ed7e6d06ba320aa71f4c6c187ecb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-96f9915a821e63cf27",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Gaza : six personnes tuées par des frappes israéliennes, selon les services de secours palestiniens",
+      "bullets": [
+        "Trois personnes ont été tuées au sud de la ville de Gaza tandis que trois autres personnes ont péri dans une frappe contre un poste de police à l’ouest de Khan Younès, a fait savoir la défense civile de l’enclave palestinienne."
+      ],
+      "publishedAt": "2026-11-24T10:04:41+00:00",
+      "updatedAt": "2026-11-24T10:04:41+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/gaza-six-personnes-tuees-par-des-frappes-israeliennes-selon-les-services-de-secours-palestiniens_6814740_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6f75c4d97765dfed59c0d170c4051cd10d6d519a1bb04538c0ca187a91eb197c",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-eb4a36969b51559284",
@@ -692,34 +769,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-fd9c7fe5348342957f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L'Ukraine frappe deux bateaux russes en Méditerranée",
-      "bullets": [
-        "Selon des images fournies par l'armée ukrainienne, l'Ukraine a lancé un drone naval kamikaze vers un navire marchand russe, dimanche 22 novembre.",
-        "Une deuxième attaque a eu lieu contre un bateau de guerre russe qui était à quai dans le port de Benghazi.",
-        "Au moins huit attaques de bateaux russes ont été attribuées ou revendiquées par l'Ukraine depuis décembre 2024."
-      ],
-      "publishedAt": "2026-11-23T19:44:45+00:00",
-      "updatedAt": "2026-11-23T19:44:45+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-deux-bateaux-russes-en-mediterranee_8296680.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "8d37e32e3d3d69c7d742f1704f96dcaa0a81348959d0821bc3fb4614f1c8f479",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
-      "context": null
-    },
-    {
       "id": "rss-704cc11835f70eb2e2",
       "revision": 1,
       "category": "world",
@@ -767,58 +816,6 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "5ef572d36e1c65a0304af5144942c43995b77be764cc318581d67ec60c158c22",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6290caecce9402b1db",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Gadi Eisenkot est dans une impasse\" : en Israël, de difficiles négociations pour former un gouvernement, presque un mois après les législatives",
-      "bullets": [
-        "Les tractations n'ont pas encore permis de débloquer la situation en Israël, qui attend toujours de se doter d'un nouveau gouvernement, près d'un mois après les élections législatives du 27 octobre.",
-        "Les deux délégations se sont retrouvées, lundi 23 novembre \"dans la soirée\", pour un troisième cycle de négociations.",
-        "Gadi Eisenkot a jusqu'au 6 décembre – un délai pouvant être prolongé de 14 jours – pour former un gouvernement, après ce scrutin qui n'a donné de majorité absolue à aucun camp."
-      ],
-      "publishedAt": "2026-11-24T08:56:28+00:00",
-      "updatedAt": "2026-11-24T08:56:28+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/israel/gadi-eisenkot-est-dans-une-impasse-en-israel-de-difficiles-negociations-pour-former-un-gouvernement-presque-un-mois-apres-les-legislatives_8295749.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "606ef1f64761c6896ab264366eaf91b41c26192280cd10ca20adedf6a7513538",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fb58dbc3a4df3d2af0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Colombie, dix ans après l’accord de paix, le laborieux retour à la vie civile des ex-FARC",
-      "bullets": [
-        "L’accord de 2016 avec le gouvernement colombien prévoyait le désarmement de la guérilla et le retour à la vie civile de 14 000 combattants à partir de zones rurales spécifiques. Une minorité s’y maintient encore. Tous sont confrontés à la précarité de leurs conditions et au manque de soutien de…"
-      ],
-      "publishedAt": "2026-11-24T07:30:00+00:00",
-      "updatedAt": "2026-11-24T07:30:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-dix-ans-apres-l-accord-de-paix-le-laborieux-retour-a-la-vie-civile-des-ex-farc_6814720_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9525fbeba3bea2988a5a1c77c0f3270c411f4b378782d462afbeb5cf3094e0a4",
       "detailLevel": "preview"
     },
     {
@@ -926,55 +923,55 @@
       "context": null
     },
     {
-      "id": "rss-b688a8455cdac85c08",
-      "revision": 1,
+      "id": "rss-98eca9ba6a1dce6d86",
+      "revision": 2,
       "category": "france",
       "topic": "Justice",
-      "title": "Mort de Nahel : la cour d’appel de Versailles ordonne un procès pour meurtre à l’encontre du policier",
+      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
       "bullets": [
-        "En mars, la cour d’appel avait une première fois requalifié les faits et ordonné que le policier soit jugé pour violences ayant entraîné la mort sans intention de la donner, mais la Cour de cassation avait annulé cet arrêt."
+        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
       ],
-      "publishedAt": "2026-11-24T08:55:19+00:00",
-      "updatedAt": "2026-11-24T08:55:19+00:00",
-      "importance": 55,
+      "publishedAt": "2026-11-23T04:30:07+00:00",
+      "updatedAt": "2026-11-23T04:30:07+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/24/mort-de-nahel-la-cour-d-appel-de-versailles-ordonne-un-proces-pour-meurtre-a-l-encontre-du-policier_6814726_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "226ce3fb542cac783998459905ec6097b90f9dfffc7efc7aa5542c7c028a960c",
+      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8fb8f2852c0e57f593",
+      "id": "rss-0be522f55442c17e32",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Mort de Nahel Merzouk en 2023 : la cour d'appel de Versailles confirme le renvoi du policier devant les assises pour meurtre",
+      "title": "Polémique après une vidéo sur les violences policières tournée dans l'Hémicycle : que dit le règlement de l'Assemblée nationale ?",
       "bullets": [
-        "La cour d'appel de Versailles s'est prononcée, mardi 24 novembre, sur le renvoi devant les assises pour meurtre de Florian Menesplier, le policier qui a tiré sur le jeune homme de 17 ans lors d'un contrôle routier en juin 2023 à Nanterre (Hauts-de-Seine).",
-        "En réaction, Laurent-Franck Lienard, avocat du policier, a annoncé à BFMTV qu'il allait former un nouveau pourvoi en cassation.",
-        "Le 27 juin 2023, après avoir pris en chasse l'adolescent de 17 ans qui conduisait sans permis, le policier l'a mis en joue et a tiré sur lui."
+        "En plein cœur de l'Assemblée nationale samedi, six jeunes égrènent les noms des personnes tuées après une interpellation ou lors d'un refus d'obtempérer.",
+        "Dans le viseur de ces visiteurs, le texte sur la présomption d'usage légal des armes par les forces de l'ordre, adopté définitivement au Sénat.",
+        "\"Ça va à l'encontre des valeurs universelles des Droits de l'Homme et du Citoyen\", soutient une jeune femme."
       ],
-      "publishedAt": "2026-11-24T09:11:10+00:00",
-      "updatedAt": "2026-11-24T09:11:10+00:00",
-      "importance": 55,
+      "publishedAt": "2026-11-24T09:58:21+00:00",
+      "updatedAt": "2026-11-24T09:58:21+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html",
+          "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/polemique-apres-une-video-sur-les-violences-policieres-tournee-dans-l-hemicycle-que-dit-le-reglement-de-l-assemblee-nationale_8297412.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "272b0167e54c38f41a3fe503e6860f67c2312d963670422b9843beab94c9c06b",
+      "summaryInput": "59ab1d1ff925e39d126ccb245fddcdbd4d3826200bd2d760051b8f71e372c3e0",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
       "context": null
     },
     {
@@ -986,8 +983,8 @@
       "bullets": [
         "Dans ce podcast documentaire, Yasmine Chouaki ouvre ses archives familiales et tente de combler les trous d’un récit personnel et national encore largement empreint de non-dits et de tabous."
       ],
-      "publishedAt": "2026-11-23T16:30:05+00:00",
-      "updatedAt": "2026-11-23T16:30:05+00:00",
+      "publishedAt": "2026-11-23T16:30:03+00:00",
+      "updatedAt": "2026-11-23T16:30:03+00:00",
       "importance": 78,
       "sources": [
         {
@@ -1104,30 +1101,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-98eca9ba6a1dce6d86",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
-      "bullets": [
-        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
-      ],
-      "publishedAt": "2026-11-23T04:30:07+00:00",
-      "updatedAt": "2026-11-23T04:30:07+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-67ae1bf76472984e41",
       "revision": 1,
       "category": "france",
@@ -1150,6 +1123,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1ed41648d2ec2f6d80",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Cyberattaque au CHU de Guadeloupe : le personnel de retour au stylo et au papier pour faire tourner l'établissement",
+      "bullets": [
+        "Retour au papier et stylo au CHU de Guadeloupe depuis la cyberattaque de grande ampleur que subit l'hôpital.",
+        "On a accès à leur numéro personnel et eux nous contactent sur nos propres numéros aussi, afin de pouvoir échanger sur les patients\", explique Aurélie Yoyotte, infirmière en réanimation.",
+        "\"On peut penser qu'on est victime d'un rançongiciel, mais de toute façon, il est absolument exclu que l'établissement puisse payer quelque rançon que ce soit\", souligne Eric Guyader, directeur du CHU de Guadeloupe."
+      ],
+      "publishedAt": "2026-11-24T10:15:02+00:00",
+      "updatedAt": "2026-11-24T10:15:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-au-chu-de-guadeloupe-le-personnel-de-retour-au-stylo-et-au-papier-pour-faire-tourner-l-etablissement_8297442.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "08f358c97ac34b28b0507185fe443b2bc96c9b5bd58b487698b72d25b3278725",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "context": null
     },
     {
       "id": "rss-1ef93219ccd9fe72b7",
@@ -1176,6 +1177,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-de6accd651562a127b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Présomption de légitime défense pour les forces de l’ordre : un grave dévoiement",
+      "bullets": [
+        "Le texte instaurant une présomption d’usage légitime des armes par les policiers et les gendarmes a été adopté défintivement, le 20 novembre.",
+        "Une réforme jugée inutile et dangereuse par de nombreux avocats, magistrats et défenseurs des droits humains, et qui pourrait être contre-productive en renforçant la suspicion d’impunité."
+      ],
+      "publishedAt": "2026-11-24T10:30:03+00:00",
+      "updatedAt": "2026-11-24T10:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/24/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-un-grave-devoiement_6814745_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3dc0743c83fbb1a814d7d944359a697838188bce947a6fb85b24be01c5d5f6db",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-5d3926be110a312026",
       "revision": 1,
       "category": "france",
@@ -1186,8 +1212,8 @@
         "\"On voit bien que le phénomène continue de prospérer\", a souligné la ministre, qui a insisté sur les difficultés rencontrées par les élus confrontés à des enjeux de santé publique, de sécurité et de tranquillité publiques, mais aussi de gestion des déchets.",
         "Le document rappelle les risques sanitaires liés à l'inhalation du gaz, notamment les atteintes neurologiques, les troubles de l'équilibre et les difficultés à marcher."
       ],
-      "publishedAt": "2026-11-24T09:19:43+00:00",
-      "updatedAt": "2026-11-24T09:19:43+00:00",
+      "publishedAt": "2026-11-24T09:27:23+00:00",
+      "updatedAt": "2026-11-24T09:27:23+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1202,31 +1228,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8fe6b96f580036185b",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Dans son journal spirituel, le pape François révèle ses combats contre «le diable», qui lui est apparu à plusieurs reprises",
-      "bullets": [
-        "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat.",
-        "Dans ces textes d’une rare intensité, il décrit sa face sombre, ce «Jorge arrogant, autosuffisant, cynique et menteur avec lui-même»."
-      ],
-      "publishedAt": "2026-11-24T06:59:08+00:00",
-      "updatedAt": "2026-11-24T06:59:08+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "226342cd78dd54626a72acbbbaac289e1fbe64dcac81ffcc809ea5db00826457",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1264,7 +1265,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1294,7 +1295,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
@@ -1306,7 +1307,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1342,7 +1343,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 34
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
