@@ -1,34 +1,34 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T13:30:31.172477+00:00",
+  "preparedAt": "2026-11-24T15:16:38.286056+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-31c8fa08f8815e23c9",
+      "id": "rss-0452607d0a85394b6f",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "«Risque sous-estimé», «exubérance de fin de cycle» : la BCE alerte à son tour sur un possible éclatement de la bulle de l’IA",
+      "title": "«Les Français veulent se faire plaisir» : malgré l’inflation, le secteur du jouet en route vers une nouvelle année record",
       "bullets": [
-        "Dans un nouveau rapport, la Banque centrale européenne dresse une liste des risques que font peser l’hyperconcentration des capitaux entre les mains d’une poignée de géants de la tech et leur endettement croissant.",
-        "La zone euro est de plus en plus exposée."
+        "Au total, 267 millions de jouets ont été vendus cette année pour un prix moyen de 17,97 euros, selon un premier bilan présenté ce mardi.",
+        "La barre des 5 milliards d’euros de chiffre d’affaires pourrait être atteinte d’ici à la fin de l’année."
       ],
-      "publishedAt": "2026-11-24T10:53:18+00:00",
-      "updatedAt": "2026-11-24T10:53:18+00:00",
-      "importance": 89,
+      "publishedAt": "2026-11-24T13:52:01+00:00",
+      "updatedAt": "2026-11-24T13:52:01+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/risque-sous-estime-exuberance-de-fin-de-cycle-la-bce-alerte-a-son-tour-sur-un-possible-eclatement-de-la-bulle-de-l-ia-20261123",
+          "url": "https://www.lefigaro.fr/conso/les-francais-veulent-se-faire-plaisir-malgre-l-inflation-le-secteur-du-jouet-en-route-vers-une-nouvelle-annee-record-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "690210a6451f61f2f8dfb03eaa4fcaa54aad291665fb42024f5212188232f226",
+      "summaryInput": "a8f92ff132aab1a4c6e46f634f999087a97f7827613d9bfa0f5a29556f9bd929",
       "detailLevel": "preview"
     },
     {
@@ -107,6 +107,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ccaf9431d5cf2906dd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"On sera des communes mortes\" : les maires affichent des rubans noirs pour manifester leur colère contre les coupes budgétaires",
+      "bullets": [
+        "Pour trouver les 10 000 euros de contributions réclamés par l'État, le maire pourrait donc en priorité supprimer les décorations de Noël.",
+        "Dans le projet de loi de finances actuel, 40% des communes devront payer en 2027 une nouvelle contribution à l'effort budgétaire : 2 milliards et demi d'euros au total, pour alléger la dette française.",
+        "À La Frénaye (Seine-Maritime), commune voisine, Christophe Tétrel, le maire (SE), cherche où trouver les 43 000 euros réclamés."
+      ],
+      "publishedAt": "2026-11-24T14:26:44+00:00",
+      "updatedAt": "2026-11-24T14:26:44+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/on-sera-des-communes-mortes-les-maires-affichent-des-rubans-noirs-pour-manifester-leur-colere-contre-les-coupes-budgetaires_8297790.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "820b3602809ecfa320388af9b97e288493c8544defd2cdae5cfc3c470e967d22",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
       "id": "rss-659bd62f05b7301a84",
       "revision": 1,
       "category": "eco",
@@ -117,8 +145,8 @@
         "L’article propose aussi une tranche additionnelle de 100.000 euros de dons, qui serait soumise à un taux exceptionnel de 6% de taxation, et que le Sénat a plafonné à 200.000 euros par donataire, avec une borne d’âge à 80 ans.",
         "Le gouvernement a en revanche essuyé un revers inattendu : le relèvement en 2027 du plafond jusqu'auquel les heures supplémentaires sont défiscalisées - 10.000 euros contre 7.500 aujourd'hui a été rejeté de justesse."
       ],
-      "publishedAt": "2026-11-24T13:19:08+00:00",
-      "updatedAt": "2026-11-24T13:19:08+00:00",
+      "publishedAt": "2026-11-24T14:10:24+00:00",
+      "updatedAt": "2026-11-24T14:10:24+00:00",
       "importance": 65,
       "sources": [
         {
@@ -163,62 +191,6 @@
       "context": null
     },
     {
-      "id": "rss-f35d88909007214ab4",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "REPORTAGE. \"Nous sommes à l'os\" : dans les communes, les maires confrontés à des choix difficiles en prévision de nouvelles restrictions budgétaires",
-      "bullets": [
-        "La maire craint de devoir se passer de 200 000 euros en 2027, après déjà un rabot de 300 000 euros cette année.",
-        "Dans certaines classes, il a fait jusqu'à 34 degrés en fin d'année scolaire.",
-        "\"C'est à peu près 80 000 euros en moins à récupérer en 2027\", explique Laurence Renier, qui ne sait plus quelle ficelle tirer."
-      ],
-      "publishedAt": "2026-11-24T07:16:22+00:00",
-      "updatedAt": "2026-11-24T07:16:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/reportage-nous-sommes-a-l-os-dans-les-communes-les-maires-confrontes-a-des-choix-difficiles-en-prevision-de-nouvelles-restrictions-budgetaires_8297172.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "6c943eece8996d3112d3bfa020ef490194cb69eabe257500d10e5c0dfdecc550",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6b07af691de46e4468",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sébastien Lecornu tend la main aux parlementaires pour un compromis sur le budget, sans toucher au déficit",
-      "bullets": [
-        "Le gouvernement \"veut ce compromis et s'y engagera pleinement\", assure le Premier ministre.",
-        "Faute de majorité, Sébastien Lecornu a proposé, dans un courrier envoyé aux parlementaires lundi 23 novembre et consulté par franceinfo, cinq thèmes de compromis sur le budget 2027, de l'agriculture au logement, à condition de ne pas dépasser la cible gouvernementale d'un déficit de 5%.",
-        "Or les ordonnances empêcheraient a priori d'ajouter au texte initial les mesures promises depuis la rentrée aux agriculteurs ou aux lycéens, que Sébastien Lecornu veut voir figurer \"dans le budget adopté\"."
-      ],
-      "publishedAt": "2026-11-24T06:43:01+00:00",
-      "updatedAt": "2026-11-24T06:43:01+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sur-le-budget-sans-toucher-au-deficit_8297160.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "8585f7d605075e69c53626584df23a6c756b8321f4a8e19fcddaab317fab5a1c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T07:36:00.263808+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cbc4601c46d561b310",
       "revision": 1,
       "category": "eco",
@@ -228,8 +200,8 @@
         "La réintégration de l’emblématique patron à la tête du géant des puces, orchestrée par Donald Trump, a fait s’envoler l’action Nvidia de 31,5% lundi et regagner 950 milliards de dollars de capitalisation au groupe.",
         "Un rebond potentiellement juteux pour… le président américain lui-même."
       ],
-      "publishedAt": "2026-11-24T13:02:49+00:00",
-      "updatedAt": "2026-11-24T13:02:49+00:00",
+      "publishedAt": "2026-11-24T14:38:39+00:00",
+      "updatedAt": "2026-11-24T14:38:39+00:00",
       "importance": 59,
       "sources": [
         {
@@ -244,11 +216,39 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e5d1a1605c16974122",
+      "id": "rss-175cd03fc287a66c7e",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
+      "title": "Projet français, dépendance chinoise, exemple américain… Quatre questions sur les \"stocks stratégiques de terres rares et métaux\" voulus par Emmanuel Macron",
+      "bullets": [
+        "L'Union européenne liste 34 matières premières critiques, et une vingtaine d'entre elles est concernée par ce projet de stocks français comme le samarium, un métal indispensable à la construction d'aimants que l'on retrouve dans les éoliennes en mer.",
+        "La Chine extrait aujourd'hui 60% de la production mondiale de terres rares et procède à son raffinage et à la séparation des éléments pour environ 91% de la production mondiale.",
+        "Un projet qui prévoit la constitution d'un stock de 12 milliards de dollars de métaux."
+      ],
+      "publishedAt": "2026-11-24T14:27:09+00:00",
+      "updatedAt": "2026-11-24T14:27:09+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "b75b660f3c22ce22ac95f3ddf6ec4ef64f4ccae60101eb0687e54d23fa2485a0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-e5d1a1605c16974122",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "VIDÉO. Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
       "bullets": [
         "\"C'est un principe simple [...] qui consiste à ne pas mettre tous ses œufs dans le même panier\", commente Benjamin Gallezot, délégué interministériel aux approvisionnements en minerais et métaux stratégiques auprès du Premier ministre, sur franceinfo mardi 24 novembre.",
         "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels notamment à l'égard de la Chine.",
@@ -266,9 +266,9 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "368e51c0ca5b650e97c06e747efea69374e7e2e631dcbabcb79c80e179c65009",
+      "summaryInput": "789dcd44f6a509610bea82ee889e7f285a364a22d2e2123a1d278661bb2f50b4",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
       "context": null
     },
     {
@@ -297,27 +297,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f4ef270dbd99f58f13",
+      "id": "rss-2c90c882e14a1e757e",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
+      "title": "Avec le rachat à 41 milliards de dollars de l’américain Insmed, Sanofi trouve enfin l’opération qui assure son avenir",
       "bullets": [
-        "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre."
+        "En quête de remplaçants pour son médicament phare, le Dupixent, le laboratoire pharmaceutique français réalise la plus importante opération de ces dernières années dans le secteur."
       ],
-      "publishedAt": "2026-11-24T11:56:00+00:00",
-      "updatedAt": "2026-11-24T11:56:00+00:00",
+      "publishedAt": "2026-11-24T11:28:38+00:00",
+      "updatedAt": "2026-11-24T11:28:38+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
+      "summaryInput": "254b51cc1b0c0f3f8a0db8d2312e257fe98609f8692ab4a86961600a73313350",
       "detailLevel": "preview"
     },
     {
@@ -333,7 +333,7 @@
       ],
       "publishedAt": "2026-11-23T14:13:49+00:00",
       "updatedAt": "2026-11-23T14:13:49+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -359,8 +359,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T13:26:31+00:00",
-      "updatedAt": "2026-11-24T13:26:31+00:00",
+      "publishedAt": "2026-11-24T15:12:21+00:00",
+      "updatedAt": "2026-11-24T15:12:21+00:00",
       "importance": 69,
       "sources": [
         {
@@ -433,6 +433,62 @@
       "context": null
     },
     {
+      "id": "rss-6ffa01e1d9d7b9a1f8",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "L’action d’Anthropic tombe sous son prix d’introduction en Bourse, Wall Street dans le rouge",
+      "bullets": [
+        "L’action de la société américaine Anthropic est tombée ce mardi 24 novembre pour la première fois sous la barre des 83 dollars fixés pour son introduction en Bourse, moins d’une semaine seulement après son entrée historique à Wall Street.",
+        "De même, les autres géants de la tech reculent : à 15h50, heure de Paris, Nvidia chutait de 5,87 %, tandis que Microsoft et Meta cédaient respectivement 0,31 % et 0,11 %.",
+        "Dans les premiers échanges, le Dow Jones cédait 0,52 %, l’indice Nasdaq perdait 1,43 % et l’indice élargi S&P 500 reculait de 0,92 %."
+      ],
+      "publishedAt": "2026-11-24T15:08:47+00:00",
+      "updatedAt": "2026-11-24T15:08:47+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/l-action-d-anthropic-tombe-sous-son-prix-d-introduction-en-bourse-wall-street-dans-le-rouge-20261124",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "dc4095797504a904574424a9a086657abefb56c634764411df26b9d246466da0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-93cf786b4ce3190ea5",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Après des débuts en fanfare à Wall Street, Anthropic efface plus de la totalité de sa hausse, perd 30% par rapport à son pic et repasse sous son cours d'introduction",
+      "bullets": [
+        "La start-up créatrice du grand modèle de langage d'intelligence artificielle Claude avait levé près de 120 milliards de dollars lors de son introduction en Bourse, le 19 novembre, dépassant les quelque 86 milliards de dollars de la société d'Elon Musk.",
+        "Par rapport à son plus haut niveau atteint le 19 novembre dernier (115,1 dollars) l'action plonge de plus de 30%.",
+        "Au troisième trimestre 2026, Anthropic a dégagé des revenus de 16,96 milliards de dollars, en hausse de 1.130% sur un an, mais ses pertes opérationnelles se sont inscrites à 567 millions de dollars."
+      ],
+      "publishedAt": "2026-11-24T15:02:20+00:00",
+      "updatedAt": "2026-11-24T15:02:20+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/informations-societes/apres-des-debuts-en-fanfare-a-wall-street-anthropic-efface-plus-de-la-totalite-de-sa-hausse-perd-30-par-rapport-a-son-pic-et-repasse-sous-son-cours-d-introduction-1174353.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
       "id": "rss-1d4f3d537270b2a3d5",
       "revision": 1,
       "category": "markets",
@@ -473,7 +529,7 @@
       ],
       "publishedAt": "2026-11-23T14:52:41+00:00",
       "updatedAt": "2026-11-23T14:52:41+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -501,7 +557,7 @@
       ],
       "publishedAt": "2026-11-23T13:46:55+00:00",
       "updatedAt": "2026-11-23T13:46:55+00:00",
-      "importance": 58,
+      "importance": 57,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -527,8 +583,8 @@
         "Pour parvenir à ces conclusions, le quotidien britannique a analysé plus de 11 millions d’actes de décès issus de données confidentielles de l’agence nationale russe des statistiques, Rosstat.",
         "Parmi eux, 49 concernent de très jeunes soldats, âgés de 18 ou 19 ans."
       ],
-      "publishedAt": "2026-11-24T12:53:56+00:00",
-      "updatedAt": "2026-11-24T12:53:56+00:00",
+      "publishedAt": "2026-11-24T14:08:54+00:00",
+      "updatedAt": "2026-11-24T14:08:54+00:00",
       "importance": 87,
       "sources": [
         {
@@ -570,15 +626,39 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a5eaae32b1e30fa6be",
+      "id": "rss-2c559e00ba6e6929f2",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
+      "bullets": [
+        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
+      ],
+      "publishedAt": "2026-11-24T13:26:40+00:00",
+      "updatedAt": "2026-11-24T13:26:40+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a5eaae32b1e30fa6be",
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
       "bullets": [
-        "Sur les 41 millions de personnes qui vivent avec la maladie, environ 32 millions sont aujourd'hui sous traitement.\"L'arrivée du lenacapavir, un traitement préventif injectable deux fois par an, a aussi révolutionné la lutte contre le VIH.",
-        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le fonds mondial de 13%.",
-        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus."
+        "Les progrès en matière de lutte contre le VIH et de ses effets sont indéniables.",
+        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le Fonds mondial de lutte contre le sida, la tuberculose et le paludisme de 13%.",
+        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus, plaide Mary Mahy."
       ],
       "publishedAt": "2026-11-24T13:21:28+00:00",
       "updatedAt": "2026-11-24T13:21:28+00:00",
@@ -592,34 +672,10 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "6be1213239b6d9aaacbe8706ab42f0641a8a930e213e4920ece9a15f594a0b68",
+      "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
       "context": null
-    },
-    {
-      "id": "rss-2c559e00ba6e6929f2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
-      "bullets": [
-        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
-      ],
-      "publishedAt": "2026-11-24T09:33:52+00:00",
-      "updatedAt": "2026-11-24T09:33:52+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-bea8174331cea9908a",
@@ -828,55 +884,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-37c5cc7d2bf7057c43",
+      "id": "rss-1c5bdb574cb7587906",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "A l’Assemblée nationale, les niches parlementaires menacées d’embouteillage",
+      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
       "bullets": [
-        "Face à la multiplication des groupes politiques et à une session raccourcie en raison de l’échéance présidentielle, les journées d’initiative parlementaire où les groupes d’opposition ont la main sur l’ordre du jour nécessitent des arbitrages délicats."
+        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
+        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
       ],
-      "publishedAt": "2026-11-24T08:45:04+00:00",
-      "updatedAt": "2026-11-24T08:45:04+00:00",
+      "publishedAt": "2026-11-24T08:52:32+00:00",
+      "updatedAt": "2026-11-24T08:52:32+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "675e0543685b02b8bda0a3e3ef2dc0a48211058ffca569a552cf2994a892b480",
+      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a94c46c62ad43be1e8",
+      "id": "rss-0895d0fece1da24520",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Suppression de l'abattement fiscal de 10% appliqué aux pensions de retraites : \"Je salue le choix courageux du Sénat\", confie David Amiel, ministre des Comptes publics",
+      "title": "Budget : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
       "bullets": [
-        "Mais d'abord, je salue le choix courageux du Sénat, parce qu'il a décidé de rétablir l'indexation des pensions sur les retraites de 100% des pensions… Mais en supprimant l'abattement fiscal de 10%...",
-        "Moi, je salue le choix courageux du Sénat parce que c'est le seul choix crédible si on veut indexer 100% des retraites sur l'inflation.",
-        "Si on veut indexer 100% des retraites sur l'inflation, alors il faut supprimer à 100% l'abattement pour frais professionnels."
+        "Faute de majorité, Sébastien Lecornu a proposé lundi dans un courrier aux parlementaires consulté par l’AFP et Le Figaro cinq thèmes de compromis sur le budget 2027, de l’agriculture au logement, à condition de ne pas dépasser la cible gouvernementale d’un déficit de 5%.",
+        "Rejeté début novembre à l’unanimité par les députés, le projet de budget de l’État est actuellement examiné par le Sénat.",
+        "Or les ordonnances empêcheraient a priori d’ajouter au texte initial les mesures promises depuis la rentrée aux agriculteurs ou aux lycéens, que Sébastien Lecornu veut voir figurer «dans le budget adopté»."
       ],
-      "publishedAt": "2026-11-24T08:27:34+00:00",
-      "updatedAt": "2026-11-24T08:27:34+00:00",
-      "importance": 87,
+      "publishedAt": "2026-11-24T14:05:22+00:00",
+      "updatedAt": "2026-11-24T14:05:22+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/suppression-de-l-abattement-fiscal-de-10-applique-aux-pensions-de-retraites-je-salue-le-choix-courageux-du-senat-confie-david-amiel-ministre-des-comptes-publics_8297268.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/budget-sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sans-toucher-au-deficit-20261124",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "c5af0235e7d9c6da3f6ce8fbfb758e0e21909af1da7912a5af5e6d45ed33d212",
+      "summaryInput": "806848316fdf514fddaceaddc8af28b6d2ff7e7f483861f59776870e2b2ca234",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
+      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
       "context": null
     },
     {
@@ -932,27 +989,28 @@
       "context": null
     },
     {
-      "id": "rss-98eca9ba6a1dce6d86",
-      "revision": 2,
+      "id": "rss-25baa7c8b51da84187",
+      "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
+      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
       "bullets": [
-        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
+        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
+        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
       ],
-      "publishedAt": "2026-11-23T04:30:07+00:00",
-      "updatedAt": "2026-11-23T04:30:07+00:00",
-      "importance": 75,
+      "publishedAt": "2026-11-23T17:00:08+00:00",
+      "updatedAt": "2026-11-23T17:00:08+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
+      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
       "detailLevel": "preview"
     },
     {
@@ -1036,28 +1094,27 @@
       "context": null
     },
     {
-      "id": "rss-1c5bdb574cb7587906",
+      "id": "rss-37c5cc7d2bf7057c43",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
+      "topic": "Politique",
+      "title": "A l’Assemblée nationale, les niches parlementaires menacées d’embouteillage",
       "bullets": [
-        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
-        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
+        "Face à la multiplication des groupes politiques et à une session raccourcie en raison de l’échéance présidentielle, les journées d’initiative parlementaire où les groupes d’opposition ont la main sur l’ordre du jour nécessitent des arbitrages délicats."
       ],
-      "publishedAt": "2026-11-24T08:52:32+00:00",
-      "updatedAt": "2026-11-24T08:52:32+00:00",
+      "publishedAt": "2026-11-24T08:45:04+00:00",
+      "updatedAt": "2026-11-24T08:45:04+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
+      "summaryInput": "675e0543685b02b8bda0a3e3ef2dc0a48211058ffca569a552cf2994a892b480",
       "detailLevel": "preview"
     },
     {
@@ -1085,28 +1142,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-25baa7c8b51da84187",
-      "revision": 1,
+      "id": "rss-98eca9ba6a1dce6d86",
+      "revision": 2,
       "category": "france",
-      "topic": "Politique",
-      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
+      "topic": "Justice",
+      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
       "bullets": [
-        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
-        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
+        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
       ],
-      "publishedAt": "2026-11-23T17:00:08+00:00",
-      "updatedAt": "2026-11-23T17:00:08+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-23T04:30:07+00:00",
+      "updatedAt": "2026-11-23T04:30:07+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
+      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
       "detailLevel": "preview"
     },
     {
@@ -1131,6 +1187,30 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39b16b97ce3dc2fcc5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "« Espoir, Sierra de Teruel », l’exceptionnel film d’André Malraux sur la guerre d’Espagne ressort en salle",
+      "bullets": [
+        "Sorti en 1945, l’unique film tourné par l’écrivain apporte un témoignage de première main sur ce conflit terrible auquel il prit lui-même part, en créant une escadrille d’aviation destinée à combattre les forces franquistes."
+      ],
+      "publishedAt": "2026-11-24T14:00:08+00:00",
+      "updatedAt": "2026-11-24T14:00:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/24/espoir-sierra-de-teruel-l-exceptionnel-film-d-andre-malraux-sur-la-guerre-d-espagne-ressort-en-salle_6814774_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4021f10ce38af0a07f8d8d940d9ab5ebb3af1b90c01096321d68ee1a160f8308",
       "detailLevel": "preview"
     },
     {
@@ -1186,57 +1266,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e72aa34d999616799d",
+      "id": "rss-8fe6b96f580036185b",
       "revision": 1,
       "category": "france",
-      "topic": "Justice",
-      "title": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
+      "topic": "France",
+      "title": "Dans son journal spirituel, le pape François révèle ses combats contre le diable, qui lui est apparu à plusieurs reprises",
       "bullets": [
-        "L’ancien chef de l’Etat comparaîtra fin 2027 devant les juges pour « participation à association de malfaiteurs en vue de commettre une escroquerie en bande organisée » et « recel de subornation de témoin ».",
-        "Les juges le soupçonnent d’avoir participé à la rétractation impromptue et médiatisée de l’un de…"
+        "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat.",
+        "Dans ces textes d’une rare intensité, il décrit sa face sombre, ce « Jorge arrogant, autosuffisant, cynique et menteur avec lui-même »."
       ],
-      "publishedAt": "2026-11-24T13:26:18+00:00",
-      "updatedAt": "2026-11-24T13:26:18+00:00",
+      "publishedAt": "2026-11-24T14:37:47+00:00",
+      "updatedAt": "2026-11-24T14:37:47+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "847997e0b92dea923bb56be4aef50115f21080cccd30aa8fe810c793102fc19c",
+      "summaryInput": "e946c736e788b3add51b068c3e2ac17620ddf62b1ddfd075c8302eb89d7c17ed",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0895d0fece1da24520",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Budget : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
-      "bullets": [
-        "Faute de majorité, Sébastien Lecornu a proposé lundi dans un courrier aux parlementaires consulté par l’AFP et Le Figaro cinq thèmes de compromis sur le budget 2027, de l’agriculture au logement, à condition de ne pas dépasser la cible gouvernementale d’un déficit de 5%.",
-        "Rejeté début novembre à l’unanimité par les députés, le projet de budget de l’État est actuellement examiné par le Sénat.",
-        "Or les ordonnances empêcheraient a priori d’ajouter au texte initial les mesures promises depuis la rentrée aux agriculteurs ou aux lycéens, que Sébastien Lecornu veut voir figurer «dans le budget adopté»."
-      ],
-      "publishedAt": "2026-11-24T11:53:16+00:00",
-      "updatedAt": "2026-11-24T11:53:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/politique/budget-sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sans-toucher-au-deficit-20261124",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "806848316fdf514fddaceaddc8af28b6d2ff7e7f483861f59776870e2b2ca234",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1250,7 +1302,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1262,7 +1314,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1274,7 +1326,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
@@ -1340,7 +1392,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
@@ -1352,7 +1404,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 34
+      "candidates": 35
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
