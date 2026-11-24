@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-23T23:59:48.564643+00:00",
+  "preparedAt": "2026-11-24T01:27:49.127446+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -26,7 +26,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "690210a6451f61f2f8dfb03eaa4fcaa54aad291665fb42024f5212188232f226",
       "detailLevel": "preview"
@@ -51,7 +51,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "3336a157ce83514c72c0a81af75e1bf0e21cb1a4a5ad573d10e023954044c005",
       "detailLevel": "preview"
@@ -77,7 +77,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "555ef99ad508cfd393732e5e7d4d52739f210386232654df8550b8612fddc874",
       "detailLevel": "article",
@@ -105,11 +105,39 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "71a2031d9c7f2e5a27199106c6490038179791174290a840f2d4780cb10abcdd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-23T15:20:33.325677+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d555844c1076d19025",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Cette caravane, c'est le plus digne que j'ai trouvé\" : en Espagne, le logement au cœur d'une crise profonde",
+      "bullets": [
+        "La crise a désormais un visage : Maricarmen Abascal, 87 ans, décédée il y a un mois après avoir été expulsée.",
+        "Rien qu'une chambre dans une colocation, ça coûte 500 euros.",
+        "Mais avec 600 euros de revenus, il m'est impossible de me loger."
+      ],
+      "publishedAt": "2026-11-23T22:45:45+00:00",
+      "updatedAt": "2026-11-23T22:45:45+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/cette-caravane-c-est-le-plus-digne-que-j-ai-trouve-en-espagne-le-logement-au-c-ur-d-une-crise-profonde_8296770.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "d1d6b5983450d4390b7ee72abebcbe3252c892bd76972ce3a6d1f0af3ae3c450",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T01:27:49.127446+00:00",
       "context": null
     },
     {
@@ -133,7 +161,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "35a23ec12640043edc9405f2c24ede9938a0d2380a1697bc87bfc381c7b9afdf",
       "detailLevel": "article",
@@ -161,7 +189,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "31cf2b199ecb12d9cca522f2864c4fc85988e24b1c935f501b62fafa3e1da4d3",
       "detailLevel": "article",
@@ -189,7 +217,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "54432716fef3ee0ca914220e2954696a7dc8265ed2df317ff15499ff89c544c5",
       "detailLevel": "article",
@@ -216,7 +244,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "2f32aff391f308c210bfe4be4b4dd92b532e9300f780d9b37f7073c21b4827b9",
       "detailLevel": "preview"
@@ -240,7 +268,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "ca575730840aa596cef7cf6a6957af1d3c5bed29551c911144d14cf9fa523fbc",
       "detailLevel": "preview"
@@ -264,7 +292,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "044260795276a71ddca8b97a2a91d728c141a451cc387e9792ffdce48caa07e6",
       "detailLevel": "preview"
@@ -288,34 +316,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "7e200be8d1c4b72bf61ab2ab11f16624e348459b0090067d9f1c700d298aef1a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3667d079883ced8adf",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« 60 millions de consommateurs » : l’offre de reprise par Xavier Niel validée par l’Etat",
-      "bullets": [
-        "Après des mois d’incertitude, le magazine va passer sous pavillon privé.",
-        "Vingt-neuf salariés conserveront leur emploi, tandis qu’une vingtaine seront licenciés."
-      ],
-      "publishedAt": "2026-11-23T18:13:02+00:00",
-      "updatedAt": "2026-11-23T18:13:02+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/23/60-millions-de-consommateurs-l-offre-de-reprise-par-xavier-niel-validee-par-l-etat_6814438_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-23",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c173f0422c7e62d39f5eaf1b2476bba31bd9743c0f4928e21709ffd0db7021ea",
       "detailLevel": "preview"
     },
     {
@@ -339,7 +342,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "223a87c7ce2f739d72a0f417c49cccca534b3adddf5889ed0e74fc95c374e5b5",
       "detailLevel": "article",
@@ -367,7 +370,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
@@ -385,8 +388,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-23T23:55:21+00:00",
-      "updatedAt": "2026-11-23T23:55:21+00:00",
+      "publishedAt": "2026-11-24T01:22:41+00:00",
+      "updatedAt": "2026-11-24T01:22:41+00:00",
       "importance": 69,
       "sources": [
         {
@@ -395,7 +398,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -423,11 +426,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "1d96257b04fd059949019314dc0d7082c0706470ec7da55a5868df5edd464314",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T12:06:54.686246+00:00",
+      "enrichedAt": "2026-11-24T01:27:49.127446+00:00",
       "context": null
     },
     {
@@ -451,7 +454,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "08a10c0a991cf33b06f91823a03083e7eae2dbea3c887584edb423372b827087",
       "detailLevel": "article",
@@ -479,7 +482,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "fa42e0640d9936fdfcd0b9f057cae3bfd7a1e14d4d560ab50f9f9f0aca1f5dcb",
       "detailLevel": "article",
@@ -507,7 +510,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "0ceb56bf175e0225a1ebaf230fda4d1e48d9c0006ff352c95eb91fc5c05dd7fb",
       "detailLevel": "article",
@@ -535,7 +538,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
@@ -563,7 +566,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
@@ -590,7 +593,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "16f42647414499383ecd618eea9ac744311afa240b1459ef5069309ee0cefd72",
       "detailLevel": "preview"
@@ -616,7 +619,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "18f9033d639ae552f8ff501e70eb765bda7591cebe49681657ead75ffa11d2b1",
       "detailLevel": "article",
@@ -642,7 +645,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "c37731917808d14d0d50b0914eccbf470ed424de48828a36a3f4b677f8afd3f0",
       "detailLevel": "preview"
@@ -667,7 +670,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "9dd1fe41e8464d09771e0b24e0bdb0be2056adda01e49b100db63b92d89e3bce",
       "detailLevel": "article",
@@ -695,7 +698,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "79d329a6a13bcc01775d951485c133658b93f029c6129405d6248753dd49c6dd",
       "detailLevel": "article",
@@ -723,7 +726,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "aa4d02de3f7c26e6184664e1d85ac83e8c653564c764a3a8fc4492cc0e83187d",
       "detailLevel": "article",
@@ -750,7 +753,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "ab35ba436f4975b8f4300bea68625eca007b6dca4e6f590ab1aa6fe88c676f47",
       "detailLevel": "preview"
@@ -774,7 +777,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "19b86419ad74bb19ad607ae1188741ecadbe971565ac26e5e7a0b6c6fc16af11",
       "detailLevel": "preview"
@@ -798,7 +801,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "47149bfcbdf01ff709eb28319390410191dbc78018b0ec421b47c70ad4338c86",
       "detailLevel": "preview"
@@ -824,7 +827,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "8d37e32e3d3d69c7d742f1704f96dcaa0a81348959d0821bc3fb4614f1c8f479",
       "detailLevel": "article",
@@ -851,7 +854,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "348db11b555a0a7c35323362c24858df445eafdaa955d06a87992efb3fe10392",
       "detailLevel": "preview"
@@ -876,7 +879,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "5ef572d36e1c65a0304af5144942c43995b77be764cc318581d67ec60c158c22",
       "detailLevel": "preview"
@@ -900,7 +903,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "0835372cb462b4bd6de87cb4bb50791fb6bdcd9bf48e89cc626bcc432d08a56d",
       "detailLevel": "preview"
@@ -924,7 +927,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "72f9ebb1f7de35a2f7f182b529b5935dce9d969acb384b43140708c5c1ca0d77",
       "detailLevel": "preview"
@@ -948,7 +951,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "b805fd5b6348c98ef1b01d62ad2d1b46c353c8a0183390d2c9b6c05346d553da",
       "detailLevel": "preview"
@@ -966,7 +969,7 @@
       ],
       "publishedAt": "2026-11-21T12:22:07+00:00",
       "updatedAt": "2026-11-21T12:22:07+00:00",
-      "importance": 61,
+      "importance": 60,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -974,7 +977,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
       "detailLevel": "article",
@@ -1001,7 +1004,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "8d4e0dbd6bf1fda6eed2857713701a930e7d3e06869b48c770ba0016c11d3ccd",
       "detailLevel": "preview"
@@ -1027,7 +1030,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "cae670b4cf65406a523ec52d97a771d8d11b3f581f96d838aa8e7e2488c79d66",
       "detailLevel": "article",
@@ -1053,7 +1056,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "8f0badc4d279f74e9561d7fc56743f34d96722a78f7592734d80b317aca96432",
       "detailLevel": "preview"
@@ -1078,7 +1081,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "e765caa8832ccc5d601213608258234dafb7cec1a06781522f7b41f3ba08392f",
       "detailLevel": "preview"
@@ -1093,8 +1096,8 @@
         "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
         "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
       ],
-      "publishedAt": "2026-11-23T17:00:12+00:00",
-      "updatedAt": "2026-11-23T17:00:12+00:00",
+      "publishedAt": "2026-11-23T17:00:08+00:00",
+      "updatedAt": "2026-11-23T17:00:08+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1103,7 +1106,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
       "detailLevel": "preview"
@@ -1127,7 +1130,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
       "detailLevel": "preview"
@@ -1151,7 +1154,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
       "detailLevel": "preview"
@@ -1175,7 +1178,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "8bafdbd249c024a3ca306ef2f07b8aa96ae77165fcfd8d1607da7c9a954c698d",
       "detailLevel": "preview"
@@ -1201,7 +1204,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
       "summaryInput": "0f9735d4325deb457cb4cdaa00d41c543acd0b2631556529b2d5c6ca3a2b67c9",
       "detailLevel": "article",
@@ -1227,7 +1230,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "b2f995760af3512b336423d513457b5697e780b6c23d623cbd83017caf83a716",
       "detailLevel": "preview"
@@ -1251,7 +1254,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "cd18695d31804d4d96bc4e6b73dfae7e447ee2537e2463b80ff0847c1f65d6ce",
       "detailLevel": "preview"
@@ -1276,7 +1279,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "1ccdfd578e2de57fc2aae04b25512d99a1dfc7a7f82bf37253b073b58512dac3",
       "detailLevel": "preview"
