@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T11:05:56.866350+00:00",
+  "preparedAt": "2026-11-24T12:11:10.108064+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -54,6 +54,31 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "47fddf9a24ffe5feab14996d108e64bfec2ebac856e558a45c8d85c046541976",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-33ecaf2895063718d4",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Le prix reste le nerf de la guerre»: même conscientes des risques de leur dépendance, les entreprises françaises privilégient les outils américains pour leur sécurité",
+      "bullets": [
+        "Entre deux tiers et trois quarts des entreprises françaises se déclarent dépendantes de solutions numériques étrangères.",
+        "Le critère de la souveraineté pèse toujours peu dans les décisions d’achat face aux arguments de l’efficacité et du prix."
+      ],
+      "publishedAt": "2026-11-24T11:37:46+00:00",
+      "updatedAt": "2026-11-24T11:37:46+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/le-prix-reste-le-nerf-de-la-guerre-meme-conscientes-des-risques-de-leur-dependance-les-entreprises-francaises-privilegient-les-outils-americains-pour-leur-securite-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "344cfe7924ef03a3dea992181acd0f2651746649ec86d52145640911205c5539",
       "detailLevel": "preview"
     },
     {
@@ -166,153 +191,128 @@
       "context": null
     },
     {
-      "id": "rss-63564ede1c62b67134",
+      "id": "rss-26a4c0752e41c7c5b3",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
+      "title": "Sanofi prêt à débourser 37,6 milliards d’euros pour l’américain Insmed, un spécialiste du traitement des maladies respiratoires",
       "bullets": [
-        "La Chine a accepté, en octobre, de plafonner à 350 000 par an le nombre de véhicules qu’elle peut exporter vers l’UE, qui accusait ses industriels d’inonder le marché européen avec des modèles bon marché."
+        "Le groupe pharmaceutique français se lance dans la plus importante acquisition de son histoire.",
+        "Insmed dispose déjà d’un médicament réalisant plus d’un milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
       ],
-      "publishedAt": "2026-11-24T10:26:41+00:00",
-      "updatedAt": "2026-11-24T10:26:41+00:00",
+      "publishedAt": "2026-11-24T12:08:36+00:00",
+      "updatedAt": "2026-11-24T12:08:36+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/l-ue-limite-les-importations-de-voitures-hybrides-en-provenance-de-chine-comme-convenu-le-mois-dernier-avec-pekin_6814744_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "45e3f100f124c12ce923c2a3a069ef713137bd5bfeaa3761e8190355919f0d91",
+      "summaryInput": "4386cb6e020fda79c5e90303f9e2d2f3e4dd1d30e98a855bbb93f85430b99cae",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e28729df1e91f3fdd9",
+      "id": "rss-f4ef270dbd99f58f13",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
+      "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
       "bullets": [
-        "Moteurs, batteries, hélices… De nombreux appareils, y compris destinés à des usages militaires, ne peuvent pas voler sans ces pièces produites en Chine.",
-        "Les industriels cherchent à développer une filière européenne pour viser l’indépendance."
+        "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre."
       ],
-      "publishedAt": "2026-11-24T09:30:05+00:00",
-      "updatedAt": "2026-11-24T09:30:05+00:00",
+      "publishedAt": "2026-11-24T11:56:00+00:00",
+      "updatedAt": "2026-11-24T11:56:00+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "d9e03d577462c0c4c5be1e120548fb1ecbc7c1ef377a19b10787af9b29e55b30",
+      "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e662717434725d692e",
+      "id": "rss-2c90c882e14a1e757e",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Photovoltaïque : en Moselle, le projet de méga-usine Holosolis cherche à ressusciter l’industrie française des panneaux solaires",
+      "title": "Avec le rachat à 41 milliards de dollars de l’américain Insmed, Sanofi trouve enfin l’opération qui assure son avenir",
       "bullets": [
-        "Alors que la Chine domine le secteur photovoltaïque mondial, le consortium Holosolis ambitionne de produire 10 millions de panneaux solaires par an d’ici à 2029.",
-        "Mais le projet reste suspendu à des financements supplémentaires et à l’évolution de la réglementation européenne, selon son directeur général, Henri Poupart-Lafarge."
+        "En quête de remplaçants pour son médicament phare, le Dupixent, le laboratoire pharmaceutique français réalise la plus importante opération de ces dernières années dans le secteur."
       ],
-      "publishedAt": "2026-11-24T09:00:07+00:00",
-      "updatedAt": "2026-11-24T09:00:07+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/photovoltaique-en-moselle-le-projet-de-mega-usine-holosolis-cherche-a-ressusciter-l-industrie-francaise-des-panneaux-solaires_6814729_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3f8a009818e8ffb67ecd88bc87e661e8893706da6552f12715e06ebc2794d7de",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c641989654bb4ce6c1",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Sanofi, groupe pharmaceutique français, va racheter l’américain Insmed pour 37,6 milliards d’euros",
-      "bullets": [
-        "La transaction, qui représente l’une des plus grosses acquisitions réalisées par Sanofi, devrait être finalisée au premier semestre 2027 et améliorer le bénéfice net par action du groupe français « d’ici fin 2028 »."
-      ],
-      "publishedAt": "2026-11-24T07:29:26+00:00",
-      "updatedAt": "2026-11-24T07:29:26+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-groupe-pharmaceutique-francais-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_6814719_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a331d8f97c2ae0615f90ed5118dfda6cb1ba094e34b85676c732db38c87987f2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a66d067e52596c3546",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Près de 10 milliards d’euros retirés depuis janvier : le Livret A connaît sa pire année depuis 2008",
-      "bullets": [
-        "L'année 2026 est pour l'instant la plus mauvaise du Livret A depuis 2008 : les Français ont retiré depuis janvier 9,54 milliards d'euros de plus qu'ils n'en ont déposé sur ce placement, victime comme tous les placements réglementés de la forte inflation et d'un pouvoir d'achat à la peine.",
-        "Pour le seul mois d'octobre, la baisse de l'encours a atteint 2,62 milliards d'euros.",
-        "Le plafond du Livret A sera relevé «entre 25.000 et 30.000 euros», contre 22.950 euros actuellement, a annoncé Sébastien Lecornu début novembre."
-      ],
-      "publishedAt": "2026-11-24T07:26:30+00:00",
-      "updatedAt": "2026-11-24T07:26:30+00:00",
+      "publishedAt": "2026-11-24T11:28:38+00:00",
+      "updatedAt": "2026-11-24T11:28:38+00:00",
       "importance": 59,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/inflation-pouvoir-d-achat-en-berne-le-livret-a-connait-sa-pire-annee-depuis-2008-20261124",
+          "url": "https://www.lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "254b51cc1b0c0f3f8a0db8d2312e257fe98609f8692ab4a86961600a73313350",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-61aaabba4eada4d947",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre",
+      "bullets": [
+        "A compter du 1er décembre, les importations de voitures hybrides en provenance de Chine seront limitées, a annoncé la Commission européenne, mardi 24 novembre.",
+        "Ce quota représente une hausse d'un peu plus de 15% par rapport au nombre de voitures hybrides chinoises importées l'an dernier dans l'Union européenne, mais une réduction considérable par rapport au niveau total attendu en 2026, soit environ 800 000 véhicules.",
+        "Le déficit commercial de l'UE avec la Chine atteint désormais environ un milliard d'euros par jour depuis 2025, une déferlante aux conséquences majeures pour l'industrie et l'emploi européens."
+      ],
+      "publishedAt": "2026-11-24T10:55:22+00:00",
+      "updatedAt": "2026-11-24T10:55:22+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "a3677c3ebeedde3a0c5b6addf8e9ee4a78f9d02dd844183fd2923f350489d1a1",
+      "summaryInput": "c80860cf12a633cc446b2eda662de1e8702bba0540df9bec1f6375446c948924",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T07:36:00.263808+00:00",
+      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
       "context": null
     },
     {
-      "id": "rss-76b6026e340c2e1628",
+      "id": "rss-b211770e7c5e7e2580",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Automobile : les ventes de voitures neuves dans l’UE augmentent, tirées par les véhicules électriques",
+      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
       "bullets": [
-        "Les immatriculations de voitures neuves dans l’Union européenne sont en hausse de 5,4 % sur les dix premiers mois de l’année, soit 9,46 millions de véhicules vendus, les voitures électriques représentant presque le quart des ventes."
+        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
       ],
-      "publishedAt": "2026-11-24T06:52:39+00:00",
-      "updatedAt": "2026-11-24T06:52:39+00:00",
+      "publishedAt": "2026-11-24T10:53:15+00:00",
+      "updatedAt": "2026-11-24T10:53:15+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/automobile-les-ventes-de-voitures-neuves-dans-l-ue-augmentent-tirees-par-les-vehicules-electriques_6814715_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "a5a45c4e94a1e4244512967bef29d873589236f45b0a27a94a71361703969810",
+      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
       "detailLevel": "preview"
     },
     {
@@ -382,8 +382,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T11:02:23+00:00",
-      "updatedAt": "2026-11-24T11:02:23+00:00",
+      "publishedAt": "2026-11-24T12:10:22+00:00",
+      "updatedAt": "2026-11-24T12:10:22+00:00",
       "importance": 69,
       "sources": [
         {
@@ -397,6 +397,34 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-01b8467f305c595797",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "NVIDIA : Le retour de Jensen Huang montre combien Nvidia est plus que jamais devenue la banque centrale officieuse de l'IA en Bourse",
+      "bullets": [
+        "Lundi soir, Nvidia a clôturé sur une hausse de 31,48% à Wall Street à la suite de l'annonce du rétablissement de Jensen Huang, grand artisan du succès commercial, technologique et boursier du fabricant de processeurs graphiques (GPU), au poste de directeur général.",
+        "Le S&P 500 a repris 4,7% et le Nasdaq Composite a regagné 6,51%.",
+        "UBS estime que les dépenses d’investissement dans l’IA, atteindront 1.000 milliards de dollars en 2026 et 1.400 milliards de dollars en 2027."
+      ],
+      "publishedAt": "2026-11-24T11:01:06+00:00",
+      "updatedAt": "2026-11-24T11:01:06+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/nvidia-US67066G1040/actualites/nvidia-le-retour-de-jensen-huang-montre-combien-nvidia-est-plus-que-jamais-devenue-la-banque-centrale-officieuse-de-l-ia-en-bourse-1174335.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
       "context": null
     },
     {
@@ -561,34 +589,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-96b533b33639aa65f3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Élections législatives en Espagne : avec Vox, l'extrême droite est-elle aux portes du pouvoir ?",
-      "bullets": [
-        "À Benicarló (Espagne), dans la région de Valence, des saisonniers marocains travaillent pour 8 à 9 euros de l'heure.",
-        "Le parti Vox est en position de faiseur de rois dans les élections législatives qui se dérouleront dimanche 29 novembre.",
-        "À l'extérieur, l'autre Espagne s'indigne, celle qui ne soutient pas cette extrême droite décomplexée et rappelle les 39 ans de dictature franquiste."
-      ],
-      "publishedAt": "2026-11-23T20:59:13+00:00",
-      "updatedAt": "2026-11-23T20:59:13+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/elections-legislatives-en-espagne-avec-vox-l-extreme-droite-est-elle-aux-portes-du-pouvoir_8296776.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "aa4d02de3f7c26e6184664e1d85ac83e8c653564c764a3a8fc4492cc0e83187d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2c559e00ba6e6929f2",
       "revision": 1,
       "category": "world",
@@ -670,15 +670,15 @@
     },
     {
       "id": "rss-96f9915a821e63cf27",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Gaza : six personnes tuées par des frappes israéliennes, selon les services de secours palestiniens",
       "bullets": [
-        "Trois personnes ont été tuées au sud de la ville de Gaza tandis que trois autres personnes ont péri dans une frappe contre un poste de police à l’ouest de Khan Younès, a fait savoir la défense civile de l’enclave palestinienne."
+        "Trois personnes ont été tuées au sud de la ville de Gaza tandis que trois autres personnes ont péri dans l’attaque distincte d’un poste de police situé à l’ouest de Khan Younès, a fait savoir la défense civile de l’enclave palestinienne."
       ],
-      "publishedAt": "2026-11-24T10:04:41+00:00",
-      "updatedAt": "2026-11-24T10:04:41+00:00",
+      "publishedAt": "2026-11-24T10:04:40+00:00",
+      "updatedAt": "2026-11-24T10:04:40+00:00",
       "importance": 67,
       "sources": [
         {
@@ -689,7 +689,7 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "6f75c4d97765dfed59c0d170c4051cd10d6d519a1bb04538c0ca187a91eb197c",
+      "summaryInput": "f8b5cc7237ab2f434ce60c61ee2b02ca22e484815ca267a073911e64b0e3a6ce",
       "detailLevel": "preview"
     },
     {
@@ -816,6 +816,31 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "5ef572d36e1c65a0304af5144942c43995b77be764cc318581d67ec60c158c22",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6ee76605e0910c3aab",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Egypte, la campagne de dénigrement envers le sénateur américain Abdul El-Sayed témoigne de la nervosité du régime",
+      "bullets": [
+        "Depuis sa victoire aux élections sénatoriales de mi-mandat, début novembre, le démocrate américain, fils d’immigrés égyptiens, est étrillé par une grande partie des organes de presse du pays, quasiment tous inféodés au pouvoir du président Abdel Fattah Al-Sissi.",
+        "En cause, ses prétendues accointances avec les Frères musulmans."
+      ],
+      "publishedAt": "2026-11-24T10:00:07+00:00",
+      "updatedAt": "2026-11-24T10:00:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/en-egypte-la-campagne-de-denigrement-envers-le-senateur-americain-abdul-el-sayed-temoigne-de-la-nervosite-du-regime_6814736_3212.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b341b6bf5937f7a12f6c3f0defda7bbf4e8cf4710129f378701f98b9718398a0",
       "detailLevel": "preview"
     },
     {
@@ -1177,57 +1202,57 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de6accd651562a127b",
+      "id": "rss-0895d0fece1da24520",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Présomption de légitime défense pour les forces de l’ordre : un grave dévoiement",
+      "title": "Budget : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
       "bullets": [
-        "Le texte instaurant une présomption d’usage légitime des armes par les policiers et les gendarmes a été adopté défintivement, le 20 novembre.",
-        "Une réforme jugée inutile et dangereuse par de nombreux avocats, magistrats et défenseurs des droits humains, et qui pourrait être contre-productive en renforçant la suspicion d’impunité."
+        "Faute de majorité, Sébastien Lecornu a proposé lundi dans un courrier aux parlementaires consulté par l’AFP et Le Figaro cinq thèmes de compromis sur le budget 2027, de l’agriculture au logement, à condition de ne pas dépasser la cible gouvernementale d’un déficit de 5%.",
+        "Rejeté début novembre à l’unanimité par les députés, le projet de budget de l’État est actuellement examiné par le Sénat.",
+        "Or les ordonnances empêcheraient a priori d’ajouter au texte initial les mesures promises depuis la rentrée aux agriculteurs ou aux lycéens, que Sébastien Lecornu veut voir figurer «dans le budget adopté»."
       ],
-      "publishedAt": "2026-11-24T10:30:03+00:00",
-      "updatedAt": "2026-11-24T10:30:03+00:00",
+      "publishedAt": "2026-11-24T11:53:16+00:00",
+      "updatedAt": "2026-11-24T11:53:16+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/24/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-un-grave-devoiement_6814745_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3dc0743c83fbb1a814d7d944359a697838188bce947a6fb85b24be01c5d5f6db",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5d3926be110a312026",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Fiches pratiques, interventions à l'école, interlocuteurs adaptés… Face aux dangers du protoxyde d'azote, le gouvernement outille les maires",
-      "bullets": [
-        "Le ministère de l'Intérieur a publié, mardi 24 novembre, un guide pratique à destination des maires pour les aider à lutter contre l'usage détourné du protoxyde d'azote.",
-        "\"On voit bien que le phénomène continue de prospérer\", a souligné la ministre, qui a insisté sur les difficultés rencontrées par les élus confrontés à des enjeux de santé publique, de sécurité et de tranquillité publiques, mais aussi de gestion des déchets.",
-        "Le document rappelle les risques sanitaires liés à l'inhalation du gaz, notamment les atteintes neurologiques, les troubles de l'équilibre et les difficultés à marcher."
-      ],
-      "publishedAt": "2026-11-24T09:27:23+00:00",
-      "updatedAt": "2026-11-24T09:27:23+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/drogue-addictions/fiches-pratiques-interventions-a-l-ecole-interlocuteurs-adaptes-face-aux-dangers-du-protoxyde-d-azote-le-gouvernement-outille-les-maires_8297283.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/politique/budget-sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sans-toucher-au-deficit-20261124",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "4165ef950dd2ad298ef383e07e8cf3af10d9b9709fadb577b4bc4c09a6861b1f",
+      "summaryInput": "806848316fdf514fddaceaddc8af28b6d2ff7e7f483861f59776870e2b2ca234",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
+      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
       "context": null
+    },
+    {
+      "id": "rss-8fe6b96f580036185b",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Dans son journal spirituel, le pape François révèle ses combats contre «le diable», qui lui est apparu à plusieurs reprises",
+      "bullets": [
+        "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat.",
+        "Dans ces textes d’une rare intensité, il décrit sa face sombre, ce «Jorge arrogant, autosuffisant, cynique et menteur avec lui-même»."
+      ],
+      "publishedAt": "2026-11-24T11:02:28+00:00",
+      "updatedAt": "2026-11-24T11:02:28+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "226342cd78dd54626a72acbbbaac289e1fbe64dcac81ffcc809ea5db00826457",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1241,7 +1266,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1265,7 +1290,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1289,7 +1314,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 6
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
@@ -1307,7 +1332,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1337,13 +1362,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 33
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
