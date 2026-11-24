@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T21:13:58.497645+00:00",
+  "preparedAt": "2026-11-24T22:13:05.756930+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-0452607d0a85394b6f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Les Français veulent se faire plaisir» : malgré l’inflation, le secteur du jouet en route vers une nouvelle année record",
-      "bullets": [
-        "Au total, 267 millions de jouets ont été vendus cette année pour un prix moyen de 17,97 euros, selon un premier bilan présenté ce mardi.",
-        "La barre des 5 milliards d’euros de chiffre d’affaires pourrait être atteinte d’ici à la fin de l’année."
-      ],
-      "publishedAt": "2026-11-24T13:52:01+00:00",
-      "updatedAt": "2026-11-24T13:52:01+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/les-francais-veulent-se-faire-plaisir-malgre-l-inflation-le-secteur-du-jouet-en-route-vers-une-nouvelle-annee-record-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a8f92ff132aab1a4c6e46f634f999087a97f7827613d9bfa0f5a29556f9bd929",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-dee5442dfc741957af",
       "revision": 1,
@@ -82,6 +57,56 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "b1bb822b323a4d8f14389d22bb40e8e42e4fa001447a8fd817d9aadc85997031",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-06b87eec120853f8d7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+      "bullets": [
+        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
+        "Du jamais vu depuis la Seconde Guerre mondiale."
+      ],
+      "publishedAt": "2026-11-24T19:28:50+00:00",
+      "updatedAt": "2026-11-24T19:28:50+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-22aec6a09fac635e30",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Avec l’ouverture d’un nouvel atelier, EDF complète sa panoplie industrielle dans le nucléaire",
+      "bullets": [
+        "REPORTAGE - Framatome, filiale de l’électricien, a inauguré ce mardi au Creusot un nouvel espace de fabrication.",
+        "Un investissement important destiné à renforcer la souveraineté industrielle du pays."
+      ],
+      "publishedAt": "2026-11-24T19:20:00+00:00",
+      "updatedAt": "2026-11-24T19:20:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/avec-l-ouverture-d-un-nouvel-atelier-edf-complete-sa-panoplie-industrielle-dans-le-nucleaire-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1f063f8fca9ba0f4c11e7aee88de19e299184aa5f48e6e61bfd8b105c9ba37f7",
       "detailLevel": "preview"
     },
     {
@@ -138,87 +163,6 @@
       "summaryInput": "820b3602809ecfa320388af9b97e288493c8544defd2cdae5cfc3c470e967d22",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-659bd62f05b7301a84",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Budget 2027 : le Sénat approuve un allègement de fiscalité des dons d’argent entre générations",
-      "bullets": [
-        "Le Sénat l'a approuvé en le modifiant, avec l'assentiment du gouvernement, en allongeant notamment le dispositif à un an.",
-        "L’article propose aussi une tranche additionnelle de 100.000 euros de dons, qui serait soumise à un taux exceptionnel de 6% de taxation, et que le Sénat a plafonné à 200.000 euros par donataire, avec une borne d’âge à 80 ans.",
-        "Le gouvernement a en revanche essuyé un revers inattendu : le relèvement en 2027 du plafond jusqu'auquel les heures supplémentaires sont défiscalisées - 10.000 euros contre 7.500 aujourd'hui a été rejeté de justesse."
-      ],
-      "publishedAt": "2026-11-24T14:10:24+00:00",
-      "updatedAt": "2026-11-24T14:10:24+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/budget-2027-le-senat-approuve-un-allegement-de-fiscalite-des-dons-d-argent-entre-generations-20261124",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "0e5709e66ceba1b78a3ff61feb9f35aebfea0112ff1eaba9b909bdef7bc0a188",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-19561f0b47a79a3fb3",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le constructeur chinois BYD sur le point de racheter une usine en Moselle pour produire en France",
-      "bullets": [
-        "Le constructeur chinois, confronté à une forte baisse de ses ventes en Chine, investit massivement en Europe.",
-        "Il a choisi l’ancienne usine de Smart en Moselle."
-      ],
-      "publishedAt": "2026-11-24T19:05:09+00:00",
-      "updatedAt": "2026-11-24T19:05:09+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/le-constructeur-auto-chinois-byd-sur-le-point-de-racheter-une-usine-en-moselle-pour-produire-en-france-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5198d2c43821414a0405a8a9ee07f4084ddcccd6ad2318d2460a930f09658cb0",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-12dede95d0c8064b38",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
-      "bullets": [
-        "L'accusation vient d'une sénatrice démocrate, Elissa Slotkin, qui a affirmé, lundi 23 novembre sur X, que le président américain aurait déjà gagné 60 millions de dollars avec l'entreprise de puces ultras performantes.",
-        "D'après une enquête de la chaîne financière américaine CNBC, Donald Trump aurait fait 103 transactions sur son compte Nvidia depuis son retour à la Maison Blanche, pour un montant supérieur à 27 millions de dollars.",
-        "D'après CNBC, il a déclaré plus de 20 000 transactions boursières en 2025, contre 500 lors de son premier mandat."
-      ],
-      "publishedAt": "2026-11-24T17:34:08+00:00",
-      "updatedAt": "2026-11-24T17:34:08+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "30ec7037022b856fa8f52355ef8061a692755431d534c79554c83d3caca4fcb8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T21:13:58.497645+00:00",
       "context": null
     },
     {
@@ -328,6 +272,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f4ef270dbd99f58f13",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
+      "bullets": [
+        "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre."
+      ],
+      "publishedAt": "2026-11-24T11:56:00+00:00",
+      "updatedAt": "2026-11-24T11:56:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-b211770e7c5e7e2580",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
+      "bullets": [
+        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
+      ],
+      "publishedAt": "2026-11-24T10:53:15+00:00",
+      "updatedAt": "2026-11-24T10:53:15+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -366,9 +358,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T21:10:04+00:00",
-      "updatedAt": "2026-11-24T21:10:04+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-24T22:13:07+00:00",
+      "updatedAt": "2026-11-24T22:13:07+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -424,7 +416,7 @@
       ],
       "publishedAt": "2026-11-23T10:08:35+00:00",
       "updatedAt": "2026-11-23T10:08:35+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -465,34 +457,6 @@
       "summaryInput": "3ba7c2b2dc30cf5ea791eb0769162110ae523d190891ea6060ea9cc3f9c3eea6",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-6ffa01e1d9d7b9a1f8",
-      "revision": 2,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "L’action d’Anthropic tombe sous son prix d’introduction en Bourse, Wall Street dans le rouge",
-      "bullets": [
-        "L’action de la société américaine Anthropic est tombée mardi pour la première fois sous la barre des 83 dollars fixés pour son introduction en Bourse, moins d’une semaine après son entrée historique à Wall Street.",
-        "Minée en particulier par Nvidia, la Bourse de New York a ainsi ouvert en baisse ce mardi, pénalisée par des prises de bénéfices après l’envolée de la veille déclenchée par le retour de Jensen Huang à la tête du géant des puces, qui avait bondi de plus de 30 %.",
-        "Mais la conjoncture semble jouer en défaveur de la start-up."
-      ],
-      "publishedAt": "2026-11-24T15:37:34+00:00",
-      "updatedAt": "2026-11-24T15:37:34+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/l-action-d-anthropic-tombe-sous-son-prix-d-introduction-en-bourse-wall-street-dans-le-rouge-20261124",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "e7bc88b8b6f55d1135e2f4acc74a84a2b4ac618a7a89be90241c2f3a631be326",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
       "context": null
     },
     {
@@ -1141,7 +1105,7 @@
       "id": "rss-1c5bdb574cb7587906",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
       "bullets": [
         "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
@@ -1160,6 +1124,30 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-37c5cc7d2bf7057c43",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "A l’Assemblée nationale, les niches parlementaires menacées d’embouteillage",
+      "bullets": [
+        "Face à la multiplication des groupes politiques et à une session raccourcie en raison de l’échéance présidentielle, les journées d’initiative parlementaire où les groupes d’opposition ont la main sur l’ordre du jour nécessitent des arbitrages délicats."
+      ],
+      "publishedAt": "2026-11-24T08:45:04+00:00",
+      "updatedAt": "2026-11-24T08:45:04+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "675e0543685b02b8bda0a3e3ef2dc0a48211058ffca569a552cf2994a892b480",
       "detailLevel": "preview"
     },
     {
@@ -1262,30 +1250,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ce40d0c0ee0f34eb3d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Congo Boy » : un jeune réfugié en Centrafrique tente sa chance dans un concours musical",
-      "bullets": [
-        "Rafiki Fariala signe un premier long-métrage de fiction dont le personnage central est un garçon de 17 ans qui, en plein chaos de guerre civile, rêve de devenir artiste."
-      ],
-      "publishedAt": "2026-11-24T15:30:15+00:00",
-      "updatedAt": "2026-11-24T15:30:15+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/24/congo-boy-un-jeune-refugie-en-centrafrique-tente-sa-chance-dans-un-concours-musical_6814809_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5395dd8c0f33c5335bfab100caef3875716c61467baf11a2267db572caa28ab1",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1347,7 +1311,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 5
     },
     {
       "publisher": "Le Figaro",
