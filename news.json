@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T04:14:21.455425+00:00",
+  "preparedAt": "2026-11-24T05:23:38.527862+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -57,6 +57,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-936d2689fd0323928e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
+      "bullets": [
+        "Les discussions sur la hausse de son plafond, voulue par le gouvernement, sont toujours en cours.",
+        "Son taux d’intérêt pourrait passer de 1,7 % actuellement à 2,8 % en février."
+      ],
+      "publishedAt": "2026-11-24T05:00:40+00:00",
+      "updatedAt": "2026-11-24T05:00:40+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "47fddf9a24ffe5feab14996d108e64bfec2ebac856e558a45c8d85c046541976",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-70e330637e6144042d",
       "revision": 1,
       "category": "eco",
@@ -81,7 +106,7 @@
       "provenance": "article-extract",
       "summaryInput": "555ef99ad508cfd393732e5e7d4d52739f210386232654df8550b8612fddc874",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -110,6 +135,34 @@
       "summaryInput": "71a2031d9c7f2e5a27199106c6490038179791174290a840f2d4780cb10abcdd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T04:14:21.455425+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d555844c1076d19025",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "\"Cette caravane, c'est le plus digne que j'ai trouvé\" : en Espagne, le logement au cœur d'une crise profonde",
+      "bullets": [
+        "La crise a désormais un visage : Maricarmen Abascal, 87 ans, décédée il y a un mois après avoir été expulsée.",
+        "Rien qu'une chambre dans une colocation, ça coûte 500 euros.",
+        "Mais avec 600 euros de revenus, il m'est impossible de me loger."
+      ],
+      "publishedAt": "2026-11-23T22:45:45+00:00",
+      "updatedAt": "2026-11-23T22:45:45+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/cette-caravane-c-est-le-plus-digne-que-j-ai-trouve-en-espagne-le-logement-au-c-ur-d-une-crise-profonde_8296770.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "d1d6b5983450d4390b7ee72abebcbe3252c892bd76972ce3a6d1f0af3ae3c450",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -246,77 +299,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f227b48b8f4e9d7450",
+      "id": "rss-8c7b72613f28bcff46",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+      "title": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leurs livrets A, qui connaît sa pire année depuis 2008",
       "bullets": [
-        "La Caisse des dépôts, qui pilotera le projet, va consulter les industriels des secteurs stratégiques utilisant ces matières premières."
+        "Les épargnants ont retiré, depuis janvier, 9,54 milliards d'euros de plus qu'ils n'en ont déposé sur ce placement, a-t-on appris mardi 24 novembre.",
+        "Cette \"décollecte nette\", c'est-à-dire quand les retraits effectués sont supérieurs aux dépôts, porte l'encours global du livret A à 440 milliards d'euros.",
+        "Pour le seul mois d'octobre, la baisse de l'encours a atteint 2,62 milliards d'euros."
       ],
-      "publishedAt": "2026-11-23T20:43:40+00:00",
-      "updatedAt": "2026-11-23T20:43:40+00:00",
+      "publishedAt": "2026-11-24T05:17:59+00:00",
+      "updatedAt": "2026-11-24T05:17:59+00:00",
       "importance": 59,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/depuis-janvier-les-francais-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livrets-a-qui-connait-sa-pire-annee-depuis-2008_8297058.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "044260795276a71ddca8b97a2a91d728c141a451cc387e9792ffdce48caa07e6",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a22008a294d5ee0c62",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le principal embouteilleur de Coca-Cola dans le viseur de Bruxelles",
-      "bullets": [
-        "La Commission européenne vient d’ouvrir une enquête contre CCEP, soupçonné d’abuser de sa position dominante en grande surface pour maintenir des prix plus élevés, et d’entraver le commerce transfrontalier de ses boissons."
-      ],
-      "publishedAt": "2026-11-23T18:48:18+00:00",
-      "updatedAt": "2026-11-23T18:48:18+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/le-principal-embouteilleur-de-coca-cola-dans-le-viseur-de-bruxelles-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7e200be8d1c4b72bf61ab2ab11f16624e348459b0090067d9f1c700d298aef1a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3667d079883ced8adf",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« 60 millions de consommateurs » : l’offre de reprise par Xavier Niel validée par l’Etat",
-      "bullets": [
-        "Après des mois d’incertitude, le magazine va passer sous pavillon privé.",
-        "Vingt-neuf salariés conserveront leur emploi, tandis qu’une vingtaine seront licenciés."
-      ],
-      "publishedAt": "2026-11-23T18:13:02+00:00",
-      "updatedAt": "2026-11-23T18:13:02+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/23/60-millions-de-consommateurs-l-offre-de-reprise-par-xavier-niel-validee-par-l-etat_6814438_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c173f0422c7e62d39f5eaf1b2476bba31bd9743c0f4928e21709ffd0db7021ea",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "f4f46c8035a9ba6ad17b97cdf217420bef99345515e1579d17c5602841080b8d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "context": null
     },
     {
       "id": "rss-d5fa6e2b86ef1d0c7a",
@@ -385,9 +393,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T04:10:20+00:00",
-      "updatedAt": "2026-11-24T04:10:20+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-24T05:23:39+00:00",
+      "updatedAt": "2026-11-24T05:23:39+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -471,7 +479,7 @@
       ],
       "publishedAt": "2026-11-23T16:47:29+00:00",
       "updatedAt": "2026-11-23T16:47:29+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -483,7 +491,7 @@
       "provenance": "article-extract",
       "summaryInput": "fa42e0640d9936fdfcd0b9f057cae3bfd7a1e14d4d560ab50f9f9f0aca1f5dcb",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -671,7 +679,7 @@
       "provenance": "article-extract",
       "summaryInput": "9dd1fe41e8464d09771e0b24e0bdb0be2056adda01e49b100db63b92d89e3bce",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -699,7 +707,7 @@
       "provenance": "article-extract",
       "summaryInput": "79d329a6a13bcc01775d951485c133658b93f029c6129405d6248753dd49c6dd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T17:15:36.111288+00:00",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -868,7 +876,7 @@
       ],
       "publishedAt": "2026-11-23T17:21:08+00:00",
       "updatedAt": "2026-11-23T17:21:08+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -906,28 +914,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-25baa7c8b51da84187",
-      "revision": 1,
+      "id": "rss-98eca9ba6a1dce6d86",
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
+      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
       "bullets": [
-        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
-        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
+        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
       ],
-      "publishedAt": "2026-11-23T17:00:08+00:00",
-      "updatedAt": "2026-11-23T17:00:08+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-23T04:30:07+00:00",
+      "updatedAt": "2026-11-23T04:30:07+00:00",
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
+      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
       "detailLevel": "preview"
     },
     {
@@ -941,7 +948,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 80,
+      "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -955,31 +962,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-80db3329496c60a3e0",
+      "id": "rss-56e9524935bde87c52",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "REPORTAGE. \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+      "title": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
       "bullets": [
-        "La contestation sociale ne faiblit pas au Portugal où les comptes publics affichent pourtant l'un des plus importants excédents de l'Union européenne : 0,8 % du PIB au deuxième trimestre.",
-        "Le budget prévoit déjà moins d'argent que ce qui sera nécessaire pour faire fonctionner le Service national de santé.",
-        "Aujourd'hui, il ne tient que grâce aux efforts parfois presque surhumains des professionnels, qui accumulent des milliers d'heures supplémentaires.\"La situation pourrait encore se dégrader, avec la fin des fonds européens du plan de relance, l'investissement public portugais devrait tomber à 2,8 % du PIB en 2027."
+        "Le texte prévoit notamment de limiter la médecine esthétique à 30% du temps de travail des médecins.",
+        "\"Aucune donnée scientifique, épidémiologique ou de santé publique ne permet d'affirmer qu'un praticien consacrant 29% de son activité à l'esthétique offrirait davantage de garanties de sécurité qu'un confrère y consacrant une part plus importante\", a-t-il souligné début novembre dans une question écrite destinée à la ministre de la Santé.",
+        "Selon eux, les dermatologues consacrent en moyenne 3% de leur temps à la médecine esthétique, 58% d'entre eux ne la pratiquant pas du tout."
       ],
-      "publishedAt": "2026-11-21T12:22:07+00:00",
-      "updatedAt": "2026-11-21T12:22:07+00:00",
-      "importance": 60,
+      "publishedAt": "2026-11-24T04:59:37+00:00",
+      "updatedAt": "2026-11-24T04:59:37+00:00",
+      "importance": 73,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+          "url": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "f51af8e082b1b747b3dca937c074bc4ed83aa685cc425479540af349a6c23674",
+      "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-23T23:05:32.480341+00:00",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
       "context": null
     },
     {
@@ -1046,7 +1053,7 @@
       ],
       "publishedAt": "2026-11-23T16:30:05+00:00",
       "updatedAt": "2026-11-23T16:30:05+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1060,52 +1067,56 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-913ed3ac30c2968f14",
-      "revision": 2,
+      "id": "rss-a9d127805032853104",
+      "revision": 1,
       "category": "france",
       "topic": "Environnement",
-      "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête",
+      "title": "Entre sécheresses et inondations, va-t-on manquer d’eau pour produire notre alimentation ?",
       "bullets": [
-        "RÉCIT - Convoqué vendredi par le ministre de l’Intérieur Laurent Nuñez, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours.",
-        "Le préfet a demandé ce samedi à être relevé de ses fonctions."
+        "«Cette année, on a connu une chute de 60% de rendement sur nos betteraves», se désole cet agriculteur en Seine-et-Marne.",
+        "À l’échelle nationale, la sécheresse et les fortes chaleurs de cet été ont entraîné des pertes agricoles estimées à 10 milliards d’euros, avec notamment 50% de production en moins pour la filière maraîchère.",
+        "Or si les quantités d’eau que reçoit la France ne diminuent pas au fil des années, sa répartition saisonnière autant que géographique évolue rapidement et ne permet plus de répondre aux besoins de l’agriculture, notamment l’été."
       ],
-      "publishedAt": "2026-11-21T18:02:40+00:00",
-      "updatedAt": "2026-11-21T18:02:40+00:00",
-      "importance": 55,
+      "publishedAt": "2026-11-23T16:34:38+00:00",
+      "updatedAt": "2026-11-23T16:34:38+00:00",
+      "importance": 46,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-le-prefet-hugues-moutouh-dans-la-tempete-20261120",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/actualite-france/entre-secheresses-et-inondations-pourrait-on-manquer-d-eau-pour-produire-notre-alimentation-20261123",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e765caa8832ccc5d601213608258234dafb7cec1a06781522f7b41f3ba08392f",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "context": null
     },
     {
-      "id": "rss-98eca9ba6a1dce6d86",
-      "revision": 2,
+      "id": "rss-25baa7c8b51da84187",
+      "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
+      "topic": "Politique",
+      "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
       "bullets": [
-        "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti."
+        "Le haut fonctionnaire doit être auditionné, mardi 24 novembre, par la commission d’enquête de l’Assemblée nationale sur les violences du 17 octobre.",
+        "Nommé il y a un an à ce poste stratégique, l’ancien directeur de cabinet d’Emmanuel Macron à l’Elysée doit s’expliquer sur ce fiasco sécuritaire."
       ],
-      "publishedAt": "2026-11-23T04:30:07+00:00",
-      "updatedAt": "2026-11-23T04:30:07+00:00",
+      "publishedAt": "2026-11-23T17:00:08+00:00",
+      "updatedAt": "2026-11-23T17:00:08+00:00",
       "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
+      "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
       "detailLevel": "preview"
     },
     {
@@ -1157,30 +1168,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4076aa2f4ccaabb864",
-      "revision": 2,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-      "bullets": [
-        "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
-      ],
-      "publishedAt": "2026-11-22T05:55:03+00:00",
-      "updatedAt": "2026-11-22T05:55:03+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e54697bbdacaf4341c7a1f3a91a20b9049f39a8aad3ec9ab0dde706e8602329f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1ef93219ccd9fe72b7",
       "revision": 1,
       "category": "france",
@@ -1202,6 +1189,59 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "8bafdbd249c024a3ca306ef2f07b8aa96ae77165fcfd8d1607da7c9a954c698d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dcc435bfb896077cc9",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "\"Monsieur Bonbon, démission !\", réagit Foodwatch après la nomination de l'ancien PDG d'Haribo pour copiloter l’action de l’État sur l’alimentation",
+      "bullets": [
+        "\"Monsieur Bonbon, démission !\", réagit, mardi 23 novembre, l'association Foodwatch à la nomination, de Jean-Philippe André, ancien PDG du groupe Haribo, au poste de coprésident du comité de suivi de la Stratégie nationale pour l’alimentation, la nutrition et le climat (SNANC), jeudi 19 novembre.",
+        "Cette nomination, par la ministre de l'Agriculture Annie Genvard, est \"une provocation, tant elle manque de crédibilité et est illégitime\", poursuit l'association de défense des consommateurs.",
+        "Foodwatch rappelle que Jean-Philippe André a également présidé l’Association Nationale des Industries Agroalimentaires (ANIA), le lobby de l'industrie agroalimentaire, de 2021 à 2024."
+      ],
+      "publishedAt": "2026-11-24T05:00:04+00:00",
+      "updatedAt": "2026-11-24T05:00:04+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/alimentation/monsieur-bonbon-demission-reagit-foodwatch-apres-la-nomination-de-l-ancien-pdg-d-haribo-pour-copiloter-l-action-de-l-etat-sur-l-alimentation_8296659.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "898cb94603fc0893a56df43ff9491e5c9c8352c0002eae0c72d375f534dc13c0",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-8fe6b96f580036185b",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "Dans son journal spirituel, le pape François révèle ses combats contre «le diable», qui lui est apparu à plusieurs reprises",
+      "bullets": [
+        "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat.",
+        "Dans ces textes d’une rare intensité, il décrit sa face sombre, ce «Jorge arrogant, autosuffisant, cynique et menteur avec lui-même»."
+      ],
+      "publishedAt": "2026-11-24T05:00:00+00:00",
+      "updatedAt": "2026-11-24T05:00:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "226342cd78dd54626a72acbbbaac289e1fbe64dcac81ffcc809ea5db00826457",
       "detailLevel": "preview"
     },
     {
@@ -1230,52 +1270,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-eaf7fb7e0a76123add",
+      "id": "rss-9fd2fed40a40db3b57",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Budget : ces cinq obstacles auxquels se heurte le projet d’inscrire une « règle d’or » dans la Constitution",
+      "topic": "Société",
+      "title": "Le gouvernement essuie un revers inattendu au Sénat sur la défiscalisation des heures supplémentaires et demande une seconde délibération",
       "bullets": [
-        "Impopularité d’Emmanuel Macron, calendrier restreint, complexité technique, efficacité aléatoire, rigidité… La méthode annoncée par le chef de l’Etat pour imposer le retour à l’équilibre budgétaire nécessite de surmonter de fortes difficultés."
+        "Le gouvernement a essuyé, lundi 23 novembre, un revers inattendu dans le cadre de l’examen du projet de loi de finances (PLF) au Sénat.",
+        "Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat L'exécutif proposait de le passer à 10 000 euros contre 7 500 aujourd'hui.",
+        "Son coût pour les finances publiques, estimé à 150 millions d'euros en année pleine par David Amiel, a aussi suscité de la prudence des sénateurs qui se sont fixés comme objectif de faire des économies supplémentaires par rapport à la copie initiale du gouvernement."
       ],
-      "publishedAt": "2026-11-23T17:30:02+00:00",
-      "updatedAt": "2026-11-23T17:30:02+00:00",
+      "publishedAt": "2026-11-23T22:04:17+00:00",
+      "updatedAt": "2026-11-23T22:04:17+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-ces-cinq-obstacles-auxquels-se-heurte-le-projet-d-inscrire-une-regle-d-or-dans-la-constitution_6814433_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-gouvernement-essuie-un-revers-inattendu-au-senat-sur-la-defiscalisation-des-heures-supplementaires-et-demande-une-seconde-deliberation_8296815.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "604cbe9cdf5a425e98a3a1a317f589dcf04ed9321b87802337215fdb6a56f632",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b49936f16da641c67b",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "« Quand on a acheté à manger, on n’a plus rien » : étranglées par les crédits, ces familles prises dans la spirale de la vie chère",
-      "bullets": [
-        "REPORTAGE - Budget qui explose, découverts qui se creusent, surendettement… Ces Français qui viennent chercher de l’aide au Point Conseil Budget de l’Essonne racontent leurs dilemmes et leurs restrictions."
-      ],
-      "publishedAt": "2026-11-23T16:36:22+00:00",
-      "updatedAt": "2026-11-23T16:36:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/quand-on-a-achete-a-manger-on-n-a-plus-rien-etranglees-par-les-credits-ces-familles-prises-dans-la-spirale-de-la-vie-chere-20261121",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b2f995760af3512b336423d513457b5697e780b6c23d623cbd83017caf83a716",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "0f9735d4325deb457cb4cdaa00d41c543acd0b2631556529b2d5c6ca3a2b67c9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1319,13 +1339,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
@@ -1355,7 +1375,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 4
+      "candidates": 6
     },
     {
       "publisher": "Le Monde",
