@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T12:11:10.108064+00:00",
+  "preparedAt": "2026-11-24T13:30:31.172477+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -107,6 +107,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-659bd62f05b7301a84",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Budget 2027 : le Sénat approuve un allègement de fiscalité des dons d’argent entre générations",
+      "bullets": [
+        "Le Sénat l'a approuvé en le modifiant, avec l'assentiment du gouvernement, en allongeant notamment le dispositif à un an.",
+        "L’article propose aussi une tranche additionnelle de 100.000 euros de dons, qui serait soumise à un taux exceptionnel de 6% de taxation, et que le Sénat a plafonné à 200.000 euros par donataire, avec une borne d’âge à 80 ans.",
+        "Le gouvernement a en revanche essuyé un revers inattendu : le relèvement en 2027 du plafond jusqu'auquel les heures supplémentaires sont défiscalisées - 10.000 euros contre 7.500 aujourd'hui a été rejeté de justesse."
+      ],
+      "publishedAt": "2026-11-24T13:19:08+00:00",
+      "updatedAt": "2026-11-24T13:19:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-2027-le-senat-approuve-un-allegement-de-fiscalite-des-dons-d-argent-entre-generations-20261124",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "0e5709e66ceba1b78a3ff61feb9f35aebfea0112ff1eaba9b909bdef7bc0a188",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2ac0497bcbd38fced3",
       "revision": 1,
       "category": "eco",
@@ -191,17 +219,70 @@
       "context": null
     },
     {
-      "id": "rss-26a4c0752e41c7c5b3",
+      "id": "rss-cbc4601c46d561b310",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Sanofi prêt à débourser 37,6 milliards d’euros pour l’américain Insmed, un spécialiste du traitement des maladies respiratoires",
+      "title": "Jusqu’à 15 millions de dollars de gains : jackpot pour Donald Trump après le retour de Jensen Huang à la tête de Nvidia",
       "bullets": [
-        "Le groupe pharmaceutique français se lance dans la plus importante acquisition de son histoire.",
-        "Insmed dispose déjà d’un médicament réalisant plus d’un milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
+        "La réintégration de l’emblématique patron à la tête du géant des puces, orchestrée par Donald Trump, a fait s’envoler l’action Nvidia de 31,5% lundi et regagner 950 milliards de dollars de capitalisation au groupe.",
+        "Un rebond potentiellement juteux pour… le président américain lui-même."
       ],
-      "publishedAt": "2026-11-24T12:08:36+00:00",
-      "updatedAt": "2026-11-24T12:08:36+00:00",
+      "publishedAt": "2026-11-24T13:02:49+00:00",
+      "updatedAt": "2026-11-24T13:02:49+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/jusqu-a-15-millions-de-dollars-de-gains-jackpot-pour-donald-trump-apres-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c3165f8d030e7d203dc5b871711fa03c0424360fb401590c9cb5945808767fd6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e5d1a1605c16974122",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
+      "bullets": [
+        "\"C'est un principe simple [...] qui consiste à ne pas mettre tous ses œufs dans le même panier\", commente Benjamin Gallezot, délégué interministériel aux approvisionnements en minerais et métaux stratégiques auprès du Premier ministre, sur franceinfo mardi 24 novembre.",
+        "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels notamment à l'égard de la Chine.",
+        "\"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", affirme Benjamin Gallezot."
+      ],
+      "publishedAt": "2026-11-24T12:20:45+00:00",
+      "updatedAt": "2026-11-24T12:20:45+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "368e51c0ca5b650e97c06e747efea69374e7e2e631dcbabcb79c80e179c65009",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-26a4c0752e41c7c5b3",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
+      "bullets": [
+        "Le groupe pharmaceutique français met la main, pour 37,6 milliards d’euros, sur ce spécialiste du traitement des maladies respiratoires.",
+        "La biotech dispose déjà d’un médicament réalisant plus d’1 milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
+      ],
+      "publishedAt": "2026-11-24T12:08:33+00:00",
+      "updatedAt": "2026-11-24T12:08:33+00:00",
       "importance": 59,
       "sources": [
         {
@@ -212,7 +293,7 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "4386cb6e020fda79c5e90303f9e2d2f3e4dd1d30e98a855bbb93f85430b99cae",
+      "summaryInput": "3eedf492a11635738f0424a2afff2c758f8304aa6d238a7b73cde71d411d09e1",
       "detailLevel": "preview"
     },
     {
@@ -238,110 +319,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2c90c882e14a1e757e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Avec le rachat à 41 milliards de dollars de l’américain Insmed, Sanofi trouve enfin l’opération qui assure son avenir",
-      "bullets": [
-        "En quête de remplaçants pour son médicament phare, le Dupixent, le laboratoire pharmaceutique français réalise la plus importante opération de ces dernières années dans le secteur."
-      ],
-      "publishedAt": "2026-11-24T11:28:38+00:00",
-      "updatedAt": "2026-11-24T11:28:38+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "254b51cc1b0c0f3f8a0db8d2312e257fe98609f8692ab4a86961600a73313350",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-61aaabba4eada4d947",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre",
-      "bullets": [
-        "A compter du 1er décembre, les importations de voitures hybrides en provenance de Chine seront limitées, a annoncé la Commission européenne, mardi 24 novembre.",
-        "Ce quota représente une hausse d'un peu plus de 15% par rapport au nombre de voitures hybrides chinoises importées l'an dernier dans l'Union européenne, mais une réduction considérable par rapport au niveau total attendu en 2026, soit environ 800 000 véhicules.",
-        "Le déficit commercial de l'UE avec la Chine atteint désormais environ un milliard d'euros par jour depuis 2025, une déferlante aux conséquences majeures pour l'industrie et l'emploi européens."
-      ],
-      "publishedAt": "2026-11-24T10:55:22+00:00",
-      "updatedAt": "2026-11-24T10:55:22+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "c80860cf12a633cc446b2eda662de1e8702bba0540df9bec1f6375446c948924",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-b211770e7c5e7e2580",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
-      "bullets": [
-        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
-      ],
-      "publishedAt": "2026-11-24T10:53:15+00:00",
-      "updatedAt": "2026-11-24T10:53:15+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a3f8d5aa7a8af2af1f",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "Wall Street clôture en très forte hausse, portée par Nvidia",
-      "bullets": [
-        "La Bourse de New York a bondi lundi, portée par l’envolée des valeurs liées à l’intelligence artificielle (IA) après le retour surprise de Jensen Huang à la tête du géant américain des puces Nvidia.",
-        "L’indice Nasdaq - qui rassemble les valeurs technologiques - s’est envolé de 6,51 %, l’indice élargi S&P 500 a gagné 4,3 % et le Dow Jones a progressé de 3,01 %.",
-        "Le titre Nvidia a lui bondi de 31,48 % à 165,05 dollars, soit un gain de plus de 900 milliards de dollars de capitalisation boursière en une seule séance."
-      ],
-      "publishedAt": "2026-11-24T10:53:19+00:00",
-      "updatedAt": "2026-11-24T10:53:19+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/wall-street-cloture-en-tres-forte-hausse-portee-par-nvidia-20261123",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "c06d5457ba2434f18917edb89bb0f3639433fc5a154196fce708bbb5d70cff09",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T09:22:41.619781+00:00",
-      "context": null
     },
     {
       "id": "rss-8807b484bedc9ddb20",
@@ -382,8 +359,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T12:10:22+00:00",
-      "updatedAt": "2026-11-24T12:10:22+00:00",
+      "publishedAt": "2026-11-24T13:26:31+00:00",
+      "updatedAt": "2026-11-24T13:26:31+00:00",
       "importance": 69,
       "sources": [
         {
@@ -452,32 +429,36 @@
       "provenance": "article-extract",
       "summaryInput": "1d96257b04fd059949019314dc0d7082c0706470ec7da55a5868df5edd464314",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T01:27:49.127446+00:00",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
       "context": null
     },
     {
-      "id": "rss-f32fe2cbe1244e1fdc",
+      "id": "rss-1d4f3d537270b2a3d5",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.21%",
+      "title": "CAC 40 : Soutenu par le bond de Sanofi, le CAC 40 peine à trouver une direction",
       "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-021-1174307.html"
+        "Imaginez un scénario dans lequel vous seriez considéré comme tellement indispensable à une entreprise que la valeur de ses actions augmenterait de près de 1.000 milliards de dollars le jour même de votre réintégration au poste de directeur général.",
+        "L'action Nvidia est attendue en baisse de 5,45% dans les échanges de préouverture ce mardi après sa folle remontée de la veille.",
+        "Soitec abandonne 7,2%, STMicroelectronics recule de 4,81%, Legrand abandonne 2% et Schneider Electric cède 1,5%."
       ],
-      "publishedAt": "2026-11-24T08:00:00+00:00",
-      "updatedAt": "2026-11-24T08:00:00+00:00",
+      "publishedAt": "2026-11-24T12:48:20+00:00",
+      "updatedAt": "2026-11-24T12:48:20+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-021-1174307.html",
-          "access": "extrait"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-soutenu-par-le-bond-de-sanofi-le-cac-40-peine-a-trouver-une-direction-1174341.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f7aaf6dbaa5ad3eae9e86c681575e193064b8b401b25e0253af60b965b9fd4f6",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "c7f3bcf60caa6ba5081a1394b2df0ae1dfea32737a280d5dfbc7ca30d7792d8b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "context": null
     },
     {
       "id": "rss-8923ee66b3e7da958c",
@@ -536,31 +517,31 @@
       "context": null
     },
     {
-      "id": "rss-1a9f0fcc327d69e45e",
-      "revision": 2,
+      "id": "rss-2f3c70e141b428a075",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Dans les bunkers des ultra-riches aux États-Unis",
+      "title": "Guerre en Ukraine : plus de 1000 soldats russes se seraient suicidés depuis le début du conflit",
       "bullets": [
-        "À suivre Loïc de la Mornais : le quart d'heure américain du lundi 23 novembre",
-        "L'Iran réclame 290 milliards de dollars de dédommagements aux Etats-Unis après la guerre lancée le 28 février",
-        "Violences motorisées : 8 cyclistes sur 10 victimes sur les routes"
+        "Pas moins de 1087 décès officiellement enregistrés comme des suicides, auxquels s’ajoutent 885 tués par armes à feu mais à «intention indéterminée»: au total, les suicides dans l’armée russe depuis le début de la guerre en Ukraine représentent l’équivalent de «tout un régiment», affirme The Guardian.",
+        "Pour parvenir à ces conclusions, le quotidien britannique a analysé plus de 11 millions d’actes de décès issus de données confidentielles de l’agence nationale russe des statistiques, Rosstat.",
+        "Parmi eux, 49 concernent de très jeunes soldats, âgés de 18 ou 19 ans."
       ],
-      "publishedAt": "2026-11-23T21:00:02+00:00",
-      "updatedAt": "2026-11-23T21:00:02+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-24T12:53:56+00:00",
+      "updatedAt": "2026-11-24T12:53:56+00:00",
+      "importance": 87,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/dans-les-bunkers-des-ultra-riches-aux-etats-unis_8296563.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-1000-soldats-russes-se-seraient-suicides-depuis-le-debut-du-conflit-20261124",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "18f9033d639ae552f8ff501e70eb765bda7591cebe49681657ead75ffa11d2b1",
+      "summaryInput": "410fa31c30dad1a42c7c835e8c6511619fa649187c6951a3fe341a6ba1728e71",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
       "context": null
     },
     {
@@ -587,6 +568,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "405b78c95661173c0c72673b0d121f394da7fe3d6bbabfd8c4ddfb1e291bf49b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a5eaae32b1e30fa6be",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
+      "bullets": [
+        "Sur les 41 millions de personnes qui vivent avec la maladie, environ 32 millions sont aujourd'hui sous traitement.\"L'arrivée du lenacapavir, un traitement préventif injectable deux fois par an, a aussi révolutionné la lutte contre le VIH.",
+        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le fonds mondial de 13%.",
+        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus."
+      ],
+      "publishedAt": "2026-11-24T13:21:28+00:00",
+      "updatedAt": "2026-11-24T13:21:28+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "6be1213239b6d9aaacbe8706ab42f0641a8a930e213e4920ece9a15f594a0b68",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "context": null
     },
     {
       "id": "rss-2c559e00ba6e6929f2",
@@ -816,31 +825,6 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "5ef572d36e1c65a0304af5144942c43995b77be764cc318581d67ec60c158c22",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6ee76605e0910c3aab",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Egypte, la campagne de dénigrement envers le sénateur américain Abdul El-Sayed témoigne de la nervosité du régime",
-      "bullets": [
-        "Depuis sa victoire aux élections sénatoriales de mi-mandat, début novembre, le démocrate américain, fils d’immigrés égyptiens, est étrillé par une grande partie des organes de presse du pays, quasiment tous inféodés au pouvoir du président Abdel Fattah Al-Sissi.",
-        "En cause, ses prétendues accointances avec les Frères musulmans."
-      ],
-      "publishedAt": "2026-11-24T10:00:07+00:00",
-      "updatedAt": "2026-11-24T10:00:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/en-egypte-la-campagne-de-denigrement-envers-le-senateur-americain-abdul-el-sayed-temoigne-de-la-nervosite-du-regime_6814736_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b341b6bf5937f7a12f6c3f0defda7bbf4e8cf4710129f378701f98b9718398a0",
       "detailLevel": "preview"
     },
     {
@@ -1202,6 +1186,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-e72aa34d999616799d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
+      "bullets": [
+        "L’ancien chef de l’Etat comparaîtra fin 2027 devant les juges pour « participation à association de malfaiteurs en vue de commettre une escroquerie en bande organisée » et « recel de subornation de témoin ».",
+        "Les juges le soupçonnent d’avoir participé à la rétractation impromptue et médiatisée de l’un de…"
+      ],
+      "publishedAt": "2026-11-24T13:26:18+00:00",
+      "updatedAt": "2026-11-24T13:26:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "847997e0b92dea923bb56be4aef50115f21080cccd30aa8fe810c793102fc19c",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-0895d0fece1da24520",
       "revision": 1,
       "category": "france",
@@ -1228,31 +1237,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8fe6b96f580036185b",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "Dans son journal spirituel, le pape François révèle ses combats contre «le diable», qui lui est apparu à plusieurs reprises",
-      "bullets": [
-        "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat.",
-        "Dans ces textes d’une rare intensité, il décrit sa face sombre, ce «Jorge arrogant, autosuffisant, cynique et menteur avec lui-même»."
-      ],
-      "publishedAt": "2026-11-24T11:02:28+00:00",
-      "updatedAt": "2026-11-24T11:02:28+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "226342cd78dd54626a72acbbbaac289e1fbe64dcac81ffcc809ea5db00826457",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1314,7 +1298,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
@@ -1368,7 +1352,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 33
+      "candidates": 34
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
