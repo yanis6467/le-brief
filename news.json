@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-24",
-  "preparedAt": "2026-11-24T16:30:31.926968+00:00",
+  "preparedAt": "2026-11-24T18:03:40.972354+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -32,6 +32,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dee5442dfc741957af",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'Assemblée nationale adopte en première lecture le projet de loi logement",
+      "bullets": [
+        "L'Assemblée nationale a adopté mardi 24 novembre en première lecture, par 362 voix contre 118, le projet de loi de relance du logement, après y avoir inscrit, à l'initiative du Rassemblement national, la suppression de l'interdiction progressive de louer les logements les plus énergivores.",
+        "Les opposants à cette mesure, et l'entourage du ministre du Logement Vincent Jeanbrun, tablent désormais sur la commission mixte paritaire pour la faire sortir du texte.",
+        "Si députés et sénateurs s'accordent sur une version commune du projet de loi, l'Assemblée se prononcera définitivement sur le texte le 15 décembre."
+      ],
+      "publishedAt": "2026-11-24T17:42:56+00:00",
+      "updatedAt": "2026-11-24T17:42:56+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-logement-20261124",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "5b81ddbb319c7d982528db6c2b7aa114113965255bc36a6ada81f64592aa37cf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "context": null
+    },
+    {
       "id": "rss-936d2689fd0323928e",
       "revision": 1,
       "category": "eco",
@@ -43,7 +71,7 @@
       ],
       "publishedAt": "2026-11-24T05:00:31+00:00",
       "updatedAt": "2026-11-24T05:00:31+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -138,56 +166,32 @@
       "context": null
     },
     {
-      "id": "rss-2ac0497bcbd38fced3",
+      "id": "rss-12dede95d0c8064b38",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
+      "title": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
       "bullets": [
-        "On a prévu des exonérations de charges pour les commerces qui ont souffert en Gironde, ça doit passer dans le PLF.",
-        "La discussion avec les lycéens actuellement, il y a des choses qui sont prévues pour eux, ça doit passer aussi dans le PLF.",
-        "Lors de ces discussions, récemment, les sénateurs ont supprimé le gel des pensions des retraités les plus aisés qui était voulu par le gouvernement tout en supprimant l'abattement fiscal de 10% qui devait simplement être réduit dans la copie initiale."
+        "L'accusation vient d'une sénatrice démocrate, Elissa Slotkin, qui a affirmé, lundi 23 novembre sur X, que le président américain aurait déjà gagné 60 millions de dollars avec l'entreprise de puces ultras performantes.",
+        "D'après une enquête de la chaîne financière américaine CNBC, Donald Trump aurait fait 103 transactions sur son compte Nvidia depuis son retour à la Maison Blanche, pour un montant supérieur à 27 millions de dollars.",
+        "D'après CNBC, il a déclaré plus de 20 000 transactions boursières en 2025, contre 500 lors de son premier mandat."
       ],
-      "publishedAt": "2026-11-24T10:37:21+00:00",
-      "updatedAt": "2026-11-24T10:37:21+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-24T17:34:08+00:00",
+      "updatedAt": "2026-11-24T17:34:08+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html",
+          "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "article-extract",
-      "summaryInput": "edab60683966e5cf70e9b9a7b777e71caddcf0605e385c1eed71ebd31f321b7b",
+      "summaryInput": "30ec7037022b856fa8f52355ef8061a692755431d534c79554c83d3caca4fcb8",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
       "context": null
-    },
-    {
-      "id": "rss-bcfa3d70fffb007679",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
-      "bullets": [
-        "Alors que Jensen Huang a repris la tête du géant des processeurs américain, lundi 23 novembre, la presse financière mondiale retrace les méthodes qui ont permis d’expédier les puces vers le territoire chinois, malgré les restrictions des Etats-Unis."
-      ],
-      "publishedAt": "2026-11-24T15:49:58+00:00",
-      "updatedAt": "2026-11-24T15:49:58+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e7cb9515391eae41976d2c6592c2f3b84cc313fb93c88ef21ef53484c54a7e6b",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-2f8ee613d15f90000f",
@@ -300,13 +304,13 @@
     },
     {
       "id": "rss-26a4c0752e41c7c5b3",
-      "revision": 2,
+      "revision": 3,
       "category": "eco",
       "topic": "Économie",
       "title": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
       "bullets": [
         "Le groupe pharmaceutique français met la main, pour 37,6 milliards d’euros, sur ce spécialiste du traitement des maladies respiratoires.",
-        "La biotech dispose déjà d’un médicament réalisant plus d’1 milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
+        "La biotech dispose déjà d’un médicament réalisant plus de 1 milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
       ],
       "publishedAt": "2026-11-24T12:08:33+00:00",
       "updatedAt": "2026-11-24T12:08:33+00:00",
@@ -320,7 +324,7 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "3eedf492a11635738f0424a2afff2c758f8304aa6d238a7b73cde71d411d09e1",
+      "summaryInput": "a2ef2a8f277b522d0c1a4989c9feecaf8c2bb5c44dd03c17782fdf30aa441a4d",
       "detailLevel": "preview"
     },
     {
@@ -362,8 +366,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T16:29:20+00:00",
-      "updatedAt": "2026-11-24T16:29:20+00:00",
+      "publishedAt": "2026-11-24T18:00:06+00:00",
+      "updatedAt": "2026-11-24T18:00:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -436,6 +440,34 @@
       "context": null
     },
     {
+      "id": "rss-837f2a0524811d360a",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Essoufflée, Wall Street repart à la baisse, le CAC 40 limite la casse (-0,05%) grâce à Sanofi",
+      "bullets": [
+        "Wall Street, qui avait terminé en très forte hausse lundi (+4,7% pour le S&P 500 et +6,5% pour le Nasdaq) repart à la baisse.",
+        "Soitec a abandonné 10%, STMicroelectronics a reculé de 10,22%, Legrand a perdu 5,6% et Schneider Electric 4,13%.",
+        "Le groupe pharmaceutique s'est adjugé 9,8%, après avoir annoncé le rachat de la biotech américaine Insmed pour 41 milliards de dollars."
+      ],
+      "publishedAt": "2026-11-24T16:33:08+00:00",
+      "updatedAt": "2026-11-24T16:33:08+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-essoufflee-wall-street-repart-a-la-baisse-le-cac-40-limite-la-casse-005-grace-a-sanofi-1174359.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "3ba7c2b2dc30cf5ea791eb0769162110ae523d190891ea6060ea9cc3f9c3eea6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "context": null
+    },
+    {
       "id": "rss-6ffa01e1d9d7b9a1f8",
       "revision": 2,
       "category": "markets",
@@ -489,34 +521,6 @@
       "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-1d4f3d537270b2a3d5",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Soutenu par le bond de Sanofi, le CAC 40 peine à trouver une direction",
-      "bullets": [
-        "Imaginez un scénario dans lequel vous seriez considéré comme tellement indispensable à une entreprise que la valeur de ses actions augmenterait de près de 1.000 milliards de dollars le jour même de votre réintégration au poste de directeur général.",
-        "L'action Nvidia est attendue en baisse de 5,45% dans les échanges de préouverture ce mardi après sa folle remontée de la veille.",
-        "Soitec abandonne 7,2%, STMicroelectronics recule de 4,81%, Legrand abandonne 2% et Schneider Electric cède 1,5%."
-      ],
-      "publishedAt": "2026-11-24T12:48:20+00:00",
-      "updatedAt": "2026-11-24T12:48:20+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-soutenu-par-le-bond-de-sanofi-le-cac-40-peine-a-trouver-une-direction-1174341.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "c7f3bcf60caa6ba5081a1394b2df0ae1dfea32737a280d5dfbc7ca30d7792d8b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
       "context": null
     },
     {
@@ -576,6 +580,33 @@
       "context": null
     },
     {
+      "id": "rss-0d5ff21fcd49061dbf",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes",
+      "bullets": [
+        "Le gouvernement libyen d'unité nationale, basé à Tripoli, a démenti mardi 24 novembre toute \"entente\" avec Kiev au sujet des attaques de dimanche contre deux navires russes au large de l'est de la Libye, prenant ainsi publiquement ses distances avec les opérations revendiquées par l'Ukraine.",
+        "Alors que des spéculations ont circulé sur un éventuel rôle des autorités de Tripoli dans les opérations revendiquées par Kiev, le ministère des Affaires étrangères a affirmé que les \"allégations faisant état de l'existence de quelconques ententes avec la partie ukrainienne concernant ces événements\" étaient \"sans fondement\"."
+      ],
+      "publishedAt": "2026-11-24T17:12:08+00:00",
+      "updatedAt": "2026-11-24T17:12:08+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "2f34a51943b5a01aeddb49c1665b326b6ca2606fd9687cf5ca1c27bcbc107a62",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2f3c70e141b428a075",
       "revision": 1,
       "category": "world",
@@ -604,53 +635,27 @@
       "context": null
     },
     {
-      "id": "rss-be4f915b152a6a25e2",
+      "id": "rss-6fe0b59737e15d18d3",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Madagascar : l’Assemblée nationale vote la destitution de son président, Siteny Randrianasoloniaiko, homme fort du nouveau régime",
+      "title": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
       "bullets": [
-        "M.",
-        "Randrianasoloniaiko, ancien candidat à l’élection présidentielle en 2023, est régulièrement présenté comme l’un des artisans du rapprochement de Madagascar avec la Russie depuis l’arrivée au pouvoir du colonel Michaël Randrianirina, en octobre 2025."
+        "Cette attaque intervient le jour du 10e anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie (FARC)."
       ],
-      "publishedAt": "2026-11-24T09:48:41+00:00",
-      "updatedAt": "2026-11-24T09:48:41+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/madagascar-l-assemblee-nationale-vote-la-destitution-de-son-president-siteny-randrianasoloniaiko-homme-fort-du-nouveau-regime_6814733_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "405b78c95661173c0c72673b0d121f394da7fe3d6bbabfd8c4ddfb1e291bf49b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f11c5a26f0907cc049",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Colombie, un attentat à la voiture piégée fait au moins 25 blessés, à la veille des dix ans de l’accord de paix avec les FARC",
-      "bullets": [
-        "Le président colombien a attribué l’attentat à des dissidents de l’ex-guérilla.",
-        "Aucun groupe n’a pour l’heure revendiqué l’attaque de Villavicencio."
-      ],
-      "publishedAt": "2026-11-24T16:02:16+00:00",
-      "updatedAt": "2026-11-24T16:02:16+00:00",
+      "publishedAt": "2026-11-24T17:53:30+00:00",
+      "updatedAt": "2026-11-24T17:53:30+00:00",
       "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-un-attentat-a-la-voiture-piegee-fait-au-moins-25-blesses-a-la-veille-des-dix-ans-de-l-accord-de-paix-avec-les-farc_6814815_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "38ef3e79b92a9473509e1cebc89404485b96e3f7a8282d4d5cc52cc979cf52d3",
+      "summaryInput": "412a0e15619661024d7280229eb93760726e2bb1f10687d81d1eee8a3dd38719",
       "detailLevel": "preview"
     },
     {
@@ -703,6 +708,34 @@
       "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-df2211a4bce8c28a0f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie soupçonnée de vouloir placer une arme nucléaire dans l'espace",
+      "bullets": [
+        "Ces annonces sont prises au sérieux par les gouvernements européens et par l'Otan, même si la menace d'une nucléarisation de l'espace est connue depuis quelques années.",
+        "Des précédents en 2022 et dans les années 1960Cela fait un moment que la nucléarisation de l'espace est en cours.",
+        "Américains et Soviétiques, au cours des années 1961 et 1962, ont lancé chacun deux séries de missiles nucléaires, et fait exploser leurs ogives à des altitudes variant entre 150 et 300 kilomètres, ce qui correspond à peu près à ce que l'on appelle une orbite basse."
+      ],
+      "publishedAt": "2026-11-24T16:28:40+00:00",
+      "updatedAt": "2026-11-24T16:28:40+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-russie-soupconnee-de-vouloir-placer-une-arme-nucleaire-dans-l-espace_8297916.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "article-extract",
+      "summaryInput": "d7eabf2da9402d15e5d07ede071f95187f92911de694dc6f67dc4f1fc76c54ec",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
       "context": null
     },
     {
@@ -760,58 +793,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
       "context": null
-    },
-    {
-      "id": "rss-b8faaa068450d17a1f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia",
-      "bullets": [
-        "La ville est pilonnée par les forces russes.",
-        "Deux personnes ont été tuées et 41 autres blessées dans des frappes russes menées dans la nuit du lundi 23 au mardi 24 novembre sur la ville de Zaporijjia, dans le sud-est de l'Ukraine.",
-        "Les forces russes, qui occupent une partie de cette région méridionale, ont \"mené 687 frappes sur 54 localités de la région de Zaporijjia\" au cours des dernières 24 heures, a déclaré, tôt mardi, Ivan Fedorov, responsable du Conseil de défense de la région."
-      ],
-      "publishedAt": "2026-11-24T10:06:56+00:00",
-      "updatedAt": "2026-11-24T10:06:56+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "article-extract",
-      "summaryInput": "34121dad2c95fa10035eb8234546943f2f68ed7e6d06ba320aa71f4c6c187ecb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T11:05:56.866350+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-96f9915a821e63cf27",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Gaza : six personnes tuées par des frappes israéliennes, selon les services de secours palestiniens",
-      "bullets": [
-        "Trois personnes ont été tuées au sud de la ville de Gaza tandis que trois autres personnes ont péri dans l’attaque distincte d’un poste de police situé à l’ouest de Khan Younès, a fait savoir la défense civile de l’enclave palestinienne."
-      ],
-      "publishedAt": "2026-11-24T10:04:40+00:00",
-      "updatedAt": "2026-11-24T10:04:40+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/gaza-six-personnes-tuees-par-des-frappes-israeliennes-selon-les-services-de-secours-palestiniens_6814740_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f8b5cc7237ab2f434ce60c61ee2b02ca22e484815ca267a073911e64b0e3a6ce",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d2c8f83d3cb42aa4f9",
@@ -887,6 +868,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-aa70e1aacd068fcd42",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Suède : le centre gauche échoue à former un gouvernement",
+      "bullets": [
+        "Deux mois et demi après les élections législatives, les sociaux-démocrates, les centristes, les Verts et le Parti de la gauche ont acté leur incapacité à constituer une coalition.",
+        "Le premier ministre sortant conservateur, Ulf Kristersson, se dit prêt à briguer un second mandat à la tête de la droite."
+      ],
+      "publishedAt": "2026-11-24T16:30:10+00:00",
+      "updatedAt": "2026-11-24T16:30:10+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/suede-le-centre-gauche-echoue-a-former-un-gouvernement_6814817_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c452631f268c4526ed23720a660c9a6424b87d7a73bdd5ab090664f18f6aaf30",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-ffafe8ea21a4d12c2c",
       "revision": 1,
       "category": "france",
@@ -946,7 +952,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -972,7 +978,7 @@
       ],
       "publishedAt": "2026-11-24T04:59:37+00:00",
       "updatedAt": "2026-11-24T04:59:37+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -984,7 +990,7 @@
       "provenance": "article-extract",
       "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
       "context": null
     },
     {
@@ -999,7 +1005,7 @@
       ],
       "publishedAt": "2026-11-23T17:00:08+00:00",
       "updatedAt": "2026-11-23T17:00:08+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1014,15 +1020,15 @@
     },
     {
       "id": "rss-1e6338b9edab7a179e",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
-      "title": "VIDEO. Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuité des informations au RN",
+      "title": "VIDEO. Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuiter des informations au RN",
       "bullets": [
-        "S'exprimant lors des questions au gouvernement à l'Assemblée nationale mardi, le ministre de l'Intérieur a ajouté avoir \"pris acte\" du souhait du préfet Moutouh d'être démis de ses fonctions."
+        "S'exprimant lors des questions au gouvernement à l'Assemblée nationale mardi après-midi, le ministre de l'Intérieur a ajouté avoir \"pris acte\" du souhait du préfet Moutouh d'être démis de ses fonctions."
       ],
-      "publishedAt": "2026-11-24T15:38:56+00:00",
-      "updatedAt": "2026-11-24T15:38:56+00:00",
+      "publishedAt": "2026-11-24T16:25:27+00:00",
+      "updatedAt": "2026-11-24T16:25:27+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1033,7 +1039,7 @@
       ],
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
-      "summaryInput": "9fc3781e185106e4c4191c14ed9f3bd4d0f49f1a626e17dd9f13fe1ced936a6b",
+      "summaryInput": "a4bb9f59a27f4dd8f65b0e895b8550dbd6fff93b0e4cbeb8e508c68523e27aee",
       "detailLevel": "preview"
     },
     {
@@ -1073,7 +1079,7 @@
       ],
       "publishedAt": "2026-11-23T16:34:38+00:00",
       "updatedAt": "2026-11-23T16:34:38+00:00",
-      "importance": 46,
+      "importance": 45,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1085,7 +1091,7 @@
       "provenance": "article-extract",
       "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T05:23:38.527862+00:00",
+      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
       "context": null
     },
     {
@@ -1141,30 +1147,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-db65b532b8a0122311",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
-      "bullets": [
-        "Alors que les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre souhaite poursuivre les discussions avec les parlementaires."
-      ],
-      "publishedAt": "2026-11-23T20:42:50+00:00",
-      "updatedAt": "2026-11-23T20:42:50+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0835372cb462b4bd6de87cb4bb50791fb6bdcd9bf48e89cc626bcc432d08a56d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-98eca9ba6a1dce6d86",
       "revision": 2,
       "category": "france",
@@ -1210,6 +1192,31 @@
       "verifiedAt": "2026-11-24",
       "provenance": "rss-excerpt",
       "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af681c0f50302c88ea",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
+      "bullets": [
+        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
+        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
+      ],
+      "publishedAt": "2026-11-24T17:30:00+00:00",
+      "updatedAt": "2026-11-24T17:30:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-24",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
       "detailLevel": "preview"
     },
     {
@@ -1297,7 +1304,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1363,13 +1370,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
