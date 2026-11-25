@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T04:23:14.762835+00:00",
+  "preparedAt": "2026-11-25T06:11:11.742777+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -19,7 +19,7 @@
       ],
       "publishedAt": "2026-11-24T17:42:56+00:00",
       "updatedAt": "2026-11-24T17:42:56+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -31,7 +31,7 @@
       "provenance": "article-extract",
       "summaryInput": "5b81ddbb319c7d982528db6c2b7aa114113965255bc36a6ada81f64592aa37cf",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -166,6 +166,58 @@
       "context": null
     },
     {
+      "id": "rss-12dede95d0c8064b38",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
+      "bullets": [
+        "L'accusation vient d'une sénatrice démocrate, Elissa Slotkin, qui a affirmé, lundi 23 novembre sur X, que le président américain aurait déjà gagné 60 millions de dollars avec l'entreprise de puces ultras performantes.",
+        "D'après une enquête de la chaîne financière américaine CNBC, Donald Trump aurait fait 103 transactions sur son compte Nvidia depuis son retour à la Maison Blanche, pour un montant supérieur à 27 millions de dollars.",
+        "D'après CNBC, il a déclaré plus de 20 000 transactions boursières en 2025, contre 500 lors de son premier mandat."
+      ],
+      "publishedAt": "2026-11-24T17:34:08+00:00",
+      "updatedAt": "2026-11-24T17:34:08+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "30ec7037022b856fa8f52355ef8061a692755431d534c79554c83d3caca4fcb8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-bcfa3d70fffb007679",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
+      "bullets": [
+        "Alors que Jensen Huang a repris la tête du géant des processeurs américain, lundi 23 novembre, la presse financière mondiale retrace les méthodes qui ont permis d’expédier les puces vers le territoire chinois, malgré les restrictions des Etats-Unis."
+      ],
+      "publishedAt": "2026-11-24T15:49:52+00:00",
+      "updatedAt": "2026-11-24T15:49:52+00:00",
+      "importance": 58,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e7cb9515391eae41976d2c6592c2f3b84cc313fb93c88ef21ef53484c54a7e6b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2f8ee613d15f90000f",
       "revision": 1,
       "category": "eco",
@@ -190,7 +242,7 @@
       "provenance": "article-extract",
       "summaryInput": "5a2a688a96f93ee00e76a4b512bc431e52017899d59ccd4ac33be198006673ca",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -272,54 +324,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f4ef270dbd99f58f13",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
-      "bullets": [
-        "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre."
-      ],
-      "publishedAt": "2026-11-24T11:56:00+00:00",
-      "updatedAt": "2026-11-24T11:56:00+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b211770e7c5e7e2580",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
-      "bullets": [
-        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
-      ],
-      "publishedAt": "2026-11-24T10:53:15+00:00",
-      "updatedAt": "2026-11-24T10:53:15+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -344,7 +348,7 @@
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -358,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T04:20:06+00:00",
-      "updatedAt": "2026-11-25T04:20:06+00:00",
+      "publishedAt": "2026-11-25T06:05:51+00:00",
+      "updatedAt": "2026-11-25T06:05:51+00:00",
       "importance": 69,
       "sources": [
         {
@@ -372,7 +376,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -444,7 +448,7 @@
       ],
       "publishedAt": "2026-11-24T16:33:08+00:00",
       "updatedAt": "2026-11-24T16:33:08+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -456,7 +460,7 @@
       "provenance": "article-extract",
       "summaryInput": "3ba7c2b2dc30cf5ea791eb0769162110ae523d190891ea6060ea9cc3f9c3eea6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -512,7 +516,7 @@
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -540,7 +544,7 @@
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T16:30:31.926968+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
@@ -633,7 +637,7 @@
       ],
       "publishedAt": "2026-11-24T18:09:46+00:00",
       "updatedAt": "2026-11-24T18:09:46+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -669,30 +673,6 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "5299014bf67d00f574496485bf3f92e67705611fd9fc79ee10e8fcb3420828e7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-6fe0b59737e15d18d3",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
-      "bullets": [
-        "Cette attaque intervient le jour du dixième anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie."
-      ],
-      "publishedAt": "2026-11-24T17:53:27+00:00",
-      "updatedAt": "2026-11-24T17:53:27+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "966996ffb959b0fa2ce9f9474ae41828cbe09d867ad418827f4b71b3c4c0abe8",
       "detailLevel": "preview"
     },
     {
@@ -742,6 +722,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-27c1d5ae11cec3b2b7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
+      "bullets": [
+        "Deux militaires libyens ont succombé à leurs blessures, après les attaques revendiquées par l'Ukraine contre des navires russes à Benghazi, en Libye le 22 novembre, ont annoncé les autorités de l'Est libyen, mercredi 25 novembre.",
+        "\"C'est avec une profonde tristesse et une grande fierté que je rends aujourd'hui hommage à deux héros de nos forces navales\", a déclaré sur Facebook Saddam Haftar, fils du maréchal Khalifa Haftar et commandant en chef adjoint des Forces armées arabes libyennes."
+      ],
+      "publishedAt": "2026-11-25T05:43:24+00:00",
+      "updatedAt": "2026-11-25T05:43:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "f63408f7877a6504b91ccaaed05512b6abfb708ede92b03ecf6613a0c4f92ce5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "context": null
     },
     {
       "id": "rss-50b869a36817d1436b",
@@ -904,7 +911,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 78,
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -957,7 +964,7 @@
       ],
       "publishedAt": "2026-11-23T17:00:08+00:00",
       "updatedAt": "2026-11-23T17:00:08+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -981,7 +988,7 @@
       ],
       "publishedAt": "2026-11-24T16:25:27+00:00",
       "updatedAt": "2026-11-24T16:25:27+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1005,7 +1012,7 @@
       ],
       "publishedAt": "2026-11-23T16:30:03+00:00",
       "updatedAt": "2026-11-23T16:30:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1031,7 +1038,7 @@
       ],
       "publishedAt": "2026-11-23T16:34:38+00:00",
       "updatedAt": "2026-11-23T16:34:38+00:00",
-      "importance": 45,
+      "importance": 44,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1043,57 +1050,57 @@
       "provenance": "article-extract",
       "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
-      "id": "rss-4a452524924be57380",
+      "id": "rss-7794f6a3386878f8d8",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : au RN, la certitude de la victoire enivre les élus et inquiète Marine Le Pen",
+      "title": "Michaël Zemmour, économiste : « La réforme des retraites proposée par le RN ne rétablit pas un départ à 62 ans et n’en garantit pas le droit à 64 ans »",
       "bullets": [
-        "Les adversaires du Rassemblement national pointent l’arrogance des députés d’extrême droite dans les médias, les réseaux sociaux et à l’Assemblée nationale.",
-        "De récents faux pas de communication attestent d’un état d’esprit euphorique."
+        "Les jeunes, les travailleurs peu qualifiés ou à mi-temps figureraient parmi les plus affectés par la réforme envisagée par le Rassemblement national, analyse, dans une tribune au « Monde », l’enseignant-chercheur.",
+        "Selon ses calculs, près d’un tiers des personnes parties en 2022 auraient été perdantes si cette réforme s’était appliquée."
       ],
-      "publishedAt": "2026-11-25T04:15:07+00:00",
-      "updatedAt": "2026-11-25T04:15:07+00:00",
+      "publishedAt": "2026-11-25T04:46:50+00:00",
+      "updatedAt": "2026-11-25T04:46:50+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/michael-zemmour-economiste-la-reforme-des-retraites-proposee-par-le-rn-ne-retablit-pas-un-depart-a-62-ans-et-n-en-garantit-pas-le-droit-a-64-ans_6815038_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "131a91f16ac523e988ddd9723b3074155de84906277937c3b7ed5576e8cb2a5d",
+      "summaryInput": "6d4d45ec8035a26d082a0ea38072dab55ac0d1b2db0e146384e41cd86c21e3bc",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-74c37b4922e625a956",
-      "revision": 2,
+      "id": "rss-ae46fa8444fde88635",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
+      "title": "Présidentielle 2027 : LFI, force d’attraction à gauche",
       "bullets": [
-        "Le congrès de l’Association des maires de France s’est ouvert à Paris, mardi 24 novembre.",
-        "Beaucoup de maires s’émeuvent de la situation sociale et redoutent que la détresse d’une partie de la population profite au Rassemblement national."
+        "Après la majorité du groupe communiste à l’Assemblée nationale, puis la secrétaire nationale des Ecologistes, Marine Tondelier, le parti Génération.s apporte, à son tour, son soutien à Jean-Luc Mélenchon, en vue du scrutin d’avril 2027.",
+        "La France insoumise lorgne désormais sur la candidature de Fabien Roussel."
       ],
-      "publishedAt": "2026-11-24T22:36:38+00:00",
-      "updatedAt": "2026-11-24T22:36:38+00:00",
+      "publishedAt": "2026-11-25T04:29:29+00:00",
+      "updatedAt": "2026-11-25T04:29:29+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "e71134b40337da65cdcfd94adf1dae1f892df34ac9f1ea90b55e914f8e8cf9dc",
+      "summaryInput": "3d5852fc8bb83c10addfb3acc88d2d162cab80e112e22ad905d7beb91ce343ab",
       "detailLevel": "preview"
     },
     {
@@ -1125,31 +1132,6 @@
       "context": null
     },
     {
-      "id": "rss-1c5bdb574cb7587906",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
-      "bullets": [
-        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
-        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
-      ],
-      "publishedAt": "2026-11-24T08:52:32+00:00",
-      "updatedAt": "2026-11-24T08:52:32+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-98eca9ba6a1dce6d86",
       "revision": 2,
       "category": "france",
@@ -1160,7 +1142,7 @@
       ],
       "publishedAt": "2026-11-23T04:30:07+00:00",
       "updatedAt": "2026-11-23T04:30:07+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1210,7 +1192,7 @@
       ],
       "publishedAt": "2026-11-24T04:59:37+00:00",
       "updatedAt": "2026-11-24T04:59:37+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1222,32 +1204,56 @@
       "provenance": "article-extract",
       "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
+      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
       "context": null
     },
     {
-      "id": "rss-af681c0f50302c88ea",
+      "id": "rss-0911a1d151ef903a8b",
       "revision": 1,
       "category": "france",
-      "topic": "Faits divers",
-      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
       "bullets": [
-        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
-        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
+        "Après plusieurs semaines de passes d’armes politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, parents et personnels, ainsi que sur les attentes de proviseurs."
       ],
-      "publishedAt": "2026-11-24T17:30:00+00:00",
-      "updatedAt": "2026-11-24T17:30:00+00:00",
+      "publishedAt": "2026-11-25T04:45:11+00:00",
+      "updatedAt": "2026-11-25T04:45:11+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
+      "summaryInput": "37b7ed3e02d6e689b115110aa84f446dfba5535515e9e852aac28a7f808e7d0c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0c93562516722e9159",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "L’influenceur Tibo InShape dépose plainte après une action devant son domicile revendiquée par un groupuscule identitaire",
+      "bullets": [
+        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
+        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
+      ],
+      "publishedAt": "2026-11-24T23:20:22+00:00",
+      "updatedAt": "2026-11-24T23:20:22+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d69e6599bbcdb9fd6368b3e89833f7a022d2c5df5a926488b57cf814db69d897",
       "detailLevel": "preview"
     }
   ],
@@ -1286,7 +1292,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1328,13 +1334,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 8
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
@@ -1364,7 +1370,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 35
+      "candidates": 34
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
