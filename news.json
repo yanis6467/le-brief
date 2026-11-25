@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T15:21:36.458261+00:00",
+  "preparedAt": "2026-11-25T17:15:19.392440+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -34,54 +34,6 @@
       "context": null
     },
     {
-      "id": "rss-3341137df7dad010fe",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
-      "bullets": [
-        "L’administration américaine a annoncé, mercredi 25 novembre, la mise en place de nouvelles taxes sur les importations qui affectent 14 partenaires commerciaux des Etats, dont l’Union européenne et la Chine."
-      ],
-      "publishedAt": "2026-11-25T14:04:49+00:00",
-      "updatedAt": "2026-11-25T14:04:49+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "89235ef430708377f76b7eb1d24920b1c2f982469d1dd06868971e388a2721c4",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-800b211a650b6b2da8",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique",
-      "bullets": [
-        "Ces nouvelles surtaxes, qui s’ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier par le représentant au commerce des Etats-Unis, Jamieson Greer."
-      ],
-      "publishedAt": "2026-11-25T13:30:49+00:00",
-      "updatedAt": "2026-11-25T13:30:49+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/l-administration-trump-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-dont-l-ue-la-chine-et-le-mexique_6815099_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "aaa2915417b7ce1799a727bfc4ccfab31ffcb69a9f7210dddf6fa3d863ae1573",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-ea7b4dd4ea7be22c38",
       "revision": 1,
       "category": "eco",
@@ -106,61 +58,6 @@
       "summaryInput": "a1b052108bc1ea5a9c657b4448246b7140375a14ca9936d28be95a973b0b0cae",
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T11:10:41.060596+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-f6437a82b46d9c818f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
-      "bullets": [
-        "La Coordination rurale va demander, mercredi 25 novembre, à Emmanuel Macron de refuser tout accord sur la politique agricole commune (PAC) qui ne permette pas aux \"agriculteurs de vivre de leur production\", indique sur franceinfo François Walraet, secrétaire général du syndicat agricole.",
-        "Face à cela, François Walraet demande au chef de l'État de refuser tout accord qui ne garantirait pas le maintien intégral du budget agricole, \"voire qui ne l'augmenterait pas\".\"Quand j'entends qu'on nous dit qu'il ne manquera pas un euro, j'entends aussi qu'il n'y aura pas un euro supplémentaire pour la PAC."
-      ],
-      "publishedAt": "2026-11-25T12:50:11+00:00",
-      "updatedAt": "2026-11-25T12:50:11+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "fdb61ea65ba3d8b261e70060e384b641063c387fd48607e59983a51f3e5552cc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d372b929d29e4e5646",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
-      "bullets": [
-        "A Bruxelles, le président va encore une fois plaider pour une véritable sanctuarisation de la PAC, dont la France est le premier bénéficiaire avec plus de 9 milliards d'euros reçus par an.",
-        "Ce mécanisme permet d'assurer la grande majorité des revenus agricoles du pays.",
-        "A l'appel de la Coordination rurale, des agriculteurs bloquent depuis mardi deux centrales d'achat du groupe Leclerc, dans l'Allier et dans l'Aude, pour dénoncer des revenus trop faibles et les marges des distributeurs."
-      ],
-      "publishedAt": "2026-11-25T07:10:53+00:00",
-      "updatedAt": "2026-11-25T07:10:53+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "6c53c4d1c73f30e7f6b4844d2057135d8bada23486402803a58036ac1bf1f067",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
       "context": null
     },
     {
@@ -192,6 +89,62 @@
       "context": null
     },
     {
+      "id": "rss-4c01a428e4559179a9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La banque indépendante Delubac placée sous le contrôle du gendarme du secteur bancaire",
+      "bullets": [
+        "Les déconvenues s'enchaînentLa banque a annoncé lundi avoir été la cible d'une \"intrusion informatique\", qui a entraîné une \"fuite de données\" d'une partie de la clientèle.",
+        "En juin 2025, l'ACPR avait adressé une amende de 600 000 euros à Delubac car son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme présentait des \"insuffisances\".",
+        "La banque avait aussi lancé plus tôt dans l'année un plan social visant à supprimer 55 emplois, soit plus de 12% de son effectif."
+      ],
+      "publishedAt": "2026-11-25T17:01:43+00:00",
+      "updatedAt": "2026-11-25T17:01:43+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/la-banque-independante-delubac-placee-sous-le-controle-du-gendarme-du-secteur-bancaire_8299923.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "b97a92097b6b0f879d03db217f5df1fef6547537c65b828e4892ca543b2605bc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-23d436acd6e388d732",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage",
+      "bullets": [
+        "Des apprentis sont embauchés mais \"ne sont pas accompagnés\" dans leur entreprise, pointant des cas où \"sur le papier, il y a un maître d'apprentissage, mais en réalité il a sous sa responsabilité trois, quatre, cinq apprentis alors que légalement c'est interdit\".",
+        "Un contrôle des \"mauvais élèves\"La Cour des comptes estime que les contrats suspects représentent jusqu'à trois milliards d'euros de dépenses publiques en 2024.",
+        "Le gouvernement estime pour sa part que cette fraude ne représente que 100 millions d'euros."
+      ],
+      "publishedAt": "2026-11-25T16:08:17+00:00",
+      "updatedAt": "2026-11-25T16:08:17+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/le-president-de-l-association-nationale-des-apprentis-de-france-appelle-a-ne-pas-minimiser-les-impacts-des-fraudes-dans-l-apprentissage_8299956.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "b069985e23aec6a0f4d0057acd19bc96197c61e3a6210048e19bd60373f3a236",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "context": null
+    },
+    {
       "id": "rss-06b87eec120853f8d7",
       "revision": 1,
       "category": "eco",
@@ -215,6 +168,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-275b50bca5386b8887",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
+      "bullets": [
+        "Le Premier ministre, Sébastien Lecornu, a appelé mercredi 25 novembre devant le Sénat à bâtir un compromis sur le budget 2027 susceptible de \"repousser les perspectives d'une crise financière\" en ramenant le déficit à 5% du PIB en 2027.",
+        "Dans les négociations à venir, le gouvernement n'aura selon lui \"aucun tabou\", \"aucune ligne rouge\", mais \"un seul impératif : qu'il y ait un budget dans les temps, et qu'on boucle à 5% de déficit\" contre 5,4% envisagés pour 2026."
+      ],
+      "publishedAt": "2026-11-25T15:23:32+00:00",
+      "updatedAt": "2026-11-25T15:23:32+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "6c039615e0c714a7defc6d54b3ac999c73024afa74eab1c2feb6329718863299",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "context": null
     },
     {
       "id": "rss-696ceedff6532ac6d3",
@@ -266,6 +246,58 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-2941751764c6d581bf",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Crise viticole : une verrerie historique ferme ses portes en Gironde",
+      "bullets": [
+        "En 2025 déjà, le propriétaire américain avait fermé l'un des deux fours et licencié 80 personnes.",
+        "On a bénéficié de 50 millions d'euros d'investissement dans un four neuf décarboné en 2022, avec 10 millions d'euros d'investissement cette année.",
+        "Donc on a reçu environ 60 millions d'euros d'investissement en quatre ans, balayés d'un revers de main\", précise Yohann Villaneau, secrétaire du CSE - délégué CGT de O-I Glass Vayres (Gironde)."
+      ],
+      "publishedAt": "2026-11-25T16:05:38+00:00",
+      "updatedAt": "2026-11-25T16:05:38+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "eb66a5ec8454ec6b20bbeee30c6d15741e053996c292101d87c969f666914d9c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-582718e25c260307b1",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Cartel des parfums » : l’UE inflige près d’un demi-milliard d’euros d’amendes à trois industriels du secteur",
+      "bullets": [
+        "L’exécutif bruxellois reproche aux groupes suisses Firmenich et Givaudan, ainsi qu’à l’américain IFF d’avoir partagé des secrets commerciaux et coordonné certaines décisions tarifaires, notamment vis-à-vis de leur principal client, Unilever."
+      ],
+      "publishedAt": "2026-11-25T15:26:00+00:00",
+      "updatedAt": "2026-11-25T15:26:00+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/25/cartel-des-parfums-l-ue-inflige-pres-d-un-demi-milliard-d-euros-d-amendes-a-trois-industriels-du-secteur_6815122_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1de1f3b5ae75a800abe5dd79807d910adc2f9efcd290345a84efc666a67cfad5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-6d8fc0493c1b11e541",
       "revision": 1,
       "category": "eco",
@@ -288,33 +320,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "aeed9962f428d05f8b61e4735a656c09e55c040518e058db4c59ceda909118d6",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-307044a97b14c48331",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "IA, informatique quantique… L’Union européenne veut lancer un fonds souverain de 50 milliards d’euros",
-      "bullets": [
-        "L'Union européenne veut lancer un fonds souverain doté de 50 milliards d'euros de capitaux publics et privés, pour investir dans les technologies stratégiques comme l'intelligence artificielle et l'informatique quantique, a annoncé mercredi une responsable de la Commission.",
-        "Ce fonds d'investissement apportera des financements pour «toutes les technologies critiques, nécessaires à notre souveraineté technologique et notre sécurité économique», a expliqué la vice-présidente de la Commission chargée du Numérique, Henna Virkkunen, lors d'une conférence de presse au Parlement européen à Strasbourg."
-      ],
-      "publishedAt": "2026-11-25T10:29:11+00:00",
-      "updatedAt": "2026-11-25T10:29:11+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/ia-informatique-quantique-l-union-europeenne-veut-lancer-un-fonds-souverain-de-50-milliards-d-euros-20261125",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "64d3eb5121badf675f62f181e9635904a79f227c241fb0bc1bfc8617683794ec",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T11:10:41.060596+00:00",
-      "context": null
     },
     {
       "id": "rss-8807b484bedc9ddb20",
@@ -355,9 +360,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T15:20:04+00:00",
-      "updatedAt": "2026-11-25T15:20:04+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-25T17:15:20+00:00",
+      "updatedAt": "2026-11-25T17:15:20+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -398,6 +403,34 @@
       "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6e4f45d5a84fc1e2ed",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "Wall Street prend une nouvelle fois l'eau à cause des craintes sur l'IA et le Nasdaq chute de 4%, le CAC 40, lui, résiste grâce encore à Sanofi",
+      "bullets": [
+        "L'indice parisien n'y est pas parvenu et a finalement clôturé sur une baisse de 0,75% à 7.980,57 points.",
+        "Dans le même temps, l'estimation de croissance américaine pour le troisième trimestre a été relevée à 4,3% contre 3,4% pour la première estimation.",
+        ">> Accédez à nos analyses graphiques exclusives, et entrez dans la confidence du Portefeuille Trading Sanofi prolonge sa hausse Par ailleurs, l'administration américaine a annoncé de nouveaux droits de douane visant 14 partenaires commerciaux, dont la Chine, l'Union européenne, le Japon et l'Inde."
+      ],
+      "publishedAt": "2026-11-25T17:02:38+00:00",
+      "updatedAt": "2026-11-25T17:02:38+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-prend-une-nouvelle-fois-l-eau-a-cause-des-craintes-sur-l-ia-et-le-nasdaq-chute-de-4-le-cac-40-lui-resiste-grace-encore-a-sanofi-1174436.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "a5239fe8b111f4728c6d808d6ca8dba94c19a872f107325aa44291c7151c3a0d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
       "context": null
     },
     {
@@ -509,7 +542,7 @@
       "provenance": "article-extract",
       "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T04:23:14.762835+00:00",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
       "context": null
     },
     {
@@ -597,6 +630,78 @@
       "context": null
     },
     {
+      "id": "rss-42394b2aa0859478b4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Droits de douane : l’UE « conteste fermement » le bien-fondé des nouvelles sanctions américaines",
+      "bullets": [
+        "L’administration Trump a annoncé, mercredi, une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont l’UE, les accusant de soutenir leurs industries par des subventions qu’il juge illicites."
+      ],
+      "publishedAt": "2026-11-25T15:20:37+00:00",
+      "updatedAt": "2026-11-25T15:20:37+00:00",
+      "importance": 89,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/droits-de-douane-l-ue-conteste-fermement-le-bien-fonde-des-nouvelles-sanctions-americaines_6815121_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "65ac728a6c3fb1d348ca37efba93fe3bc293bbd927b6c57787fe6bc42a94e697",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e4ea1ec50b4f099775",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’Allemagne prête à adopter un endettement historique, un tournant soutenu par une figure de l’orthodoxie économique",
+      "bullets": [
+        "La politique d’investissement dans les infrastructures et la défense financée par la dette défendue par le gouvernement Merz a reçu le soutien inattendu d’Isabel Schnabel, figure de l’orthodoxie monétaire qui, avant de quitter le directoire de la BCE, remet en cause l’idée que la prospérité du pays dépend avant tout…"
+      ],
+      "publishedAt": "2026-11-25T16:47:57+00:00",
+      "updatedAt": "2026-11-25T16:47:57+00:00",
+      "importance": 87,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/25/l-allemagne-prete-a-adopter-un-endettement-historique-un-tournant-soutenu-par-une-figure-de-l-orthodoxie-economique_6815144_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-39c28df6b53fc40040",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Teddy Riner critique le déploiement de soldats français en Ukraine pour des missions non combattantes : « Ce n’est pas notre guerre »",
+      "bullets": [
+        "Le candidat à l’élection présidentielle fait référence au petit noyau de forces conventionnelles qui effectuent des rotations régulières en Ukraine pour de la formation et de la réparation de matériel."
+      ],
+      "publishedAt": "2026-11-25T16:10:38+00:00",
+      "updatedAt": "2026-11-25T16:10:38+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b8e7d42d3326fe8882820697784081423389e5de2e1fd837721053cc736e6137",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2f3c70e141b428a075",
       "revision": 1,
       "category": "world",
@@ -653,28 +758,80 @@
       "context": null
     },
     {
-      "id": "rss-a53e5d94319d32f4ec",
+      "id": "rss-3341137df7dad010fe",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Quand ma chorale a inscrit un auteur russe au répertoire, j’ai eu un haut-le-cœur »",
+      "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
       "bullets": [
-        "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Alors qu’Olga s’emporte de voir les Européens continuer de mettre en avant la culture russe au détriment des artistes ukrainiens, Sasha, effrayée par les attaques quotidiennes, renonce à sortir de son quartier."
+        "L’administration américaine a annoncé, mercredi 25 novembre, la mise en place de nouvelles taxes sur les importations qui affectent 14 partenaires commerciaux des Etats, dont l’Union européenne et la Chine."
       ],
-      "publishedAt": "2026-11-25T10:00:07+00:00",
-      "updatedAt": "2026-11-25T10:00:07+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-25T14:04:49+00:00",
+      "updatedAt": "2026-11-25T14:04:49+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "9592cf35f6cb594b3903d0c9919f8c9df704a9fd6995e0829a07df576e0d9bd0",
+      "summaryInput": "89235ef430708377f76b7eb1d24920b1c2f982469d1dd06868971e388a2721c4",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-800b211a650b6b2da8",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique",
+      "bullets": [
+        "Ces nouvelles surtaxes, qui s’ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier par le représentant au commerce des Etats-Unis, Jamieson Greer."
+      ],
+      "publishedAt": "2026-11-25T13:30:49+00:00",
+      "updatedAt": "2026-11-25T13:30:49+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/l-administration-trump-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-dont-l-ue-la-chine-et-le-mexique_6815099_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "aaa2915417b7ce1799a727bfc4ccfab31ffcb69a9f7210dddf6fa3d863ae1573",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-08a49c5ccde274c0c1",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au moins 470 000 soldats russes sont morts depuis le début de la guerre en Ukraine, selon un nouveau décompte issu de données piratées",
+      "bullets": [
+        "Des fichiers complémentaires, et de nouvelles requêtes effectuées sur la base, ont permis à plusieurs médias d'affiner le premier bilan de 400 000 décès déjà établi début novembre, à partir des données extraites par deux groupes de hackeurs : les Cyber Partisans biélorusses et les Ukrainiens Silent Crow.",
+        "Moscou ne communique pas ses pertes en Ukraine, conflit le plus meurtrier en Europe depuis 1945.",
+        "Le président russe, Vladimir Poutine, avait affirmé que plus de 700 000 militaires russes étaient déployés dans la zone d'opération avec l'Ukraine."
+      ],
+      "publishedAt": "2026-11-25T16:05:18+00:00",
+      "updatedAt": "2026-11-25T16:05:18+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-470-000-soldats-russes-sont-morts-depuis-le-debut-de-la-guerre-en-ukraine-selon-un-nouveau-decompte-issu-de-donnees-piratees_8299866.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "b1985a2b97d0a3a2720710fcba0fc565d6d537f31563f16a9501f9a596393b12",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "context": null
     },
     {
       "id": "rss-476099bf6c3b917da4",
@@ -729,6 +886,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-dc68faff9f1b048227",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Budget de l’UE : la France ne veut « pas un euro » de moins pour la PAC, prévient Emmanuel Macron",
+      "bullets": [
+        "« L’enveloppe actuelle de la France, c’est 66,25 milliards » d’euros « de crédits européens », « nous on veut nos 66,25 milliards de crédits européens, les plus lisibles et les plus fléchés possibles », dans le budget pluriannuel pour 2028-2034, a dit le chef de l’Etat."
+      ],
+      "publishedAt": "2026-11-25T16:56:34+00:00",
+      "updatedAt": "2026-11-25T16:56:34+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/budget-de-l-ue-la-france-ne-veut-pas-un-euro-de-moins-pour-la-pac-previent-emmanuel-macron_6815145_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4f91b620474c18d0111b1e7c21a224ec5a12a4dcd336b30b9fd7374b8e229a57",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-cb020b2a8fb98eb25a",
       "revision": 1,
       "category": "world",
@@ -754,160 +935,6 @@
       "summaryInput": "a5229eeb0643c0a399a828fbdf0decb679e64af2f79e713a4bde8de2987f5a9b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T15:21:36.458261+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-72e02687b0944b4cc7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Haut-Commissariat des Nations unies aux droits de l’homme alerte sur le risque de nouveaux « crimes atroces » commis par Israël contre les Palestiniens",
-      "bullets": [
-        "La poursuite des attaques, des politiques et des violations israéliennes à l’encontre des Palestiniens à Gaza et en Cisjordanie témoigne d’un « risque croissant de nouveaux crimes atroces » dans les deux territoires, estime le chef de l’organe onusien."
-      ],
-      "publishedAt": "2026-11-25T14:34:07+00:00",
-      "updatedAt": "2026-11-25T14:34:07+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-haut-commissariat-des-nations-unies-aux-droits-de-l-homme-alerte-sur-le-risque-de-nouveaux-crimes-atroces-commis-par-israel-contre-les-palestiniens_6815114_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "11d71453f5879bed721384cc0ad8604b486a6863b77c5426f32b29c2f19efabc",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2c559e00ba6e6929f2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
-      "bullets": [
-        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
-      ],
-      "publishedAt": "2026-11-24T13:26:40+00:00",
-      "updatedAt": "2026-11-24T13:26:40+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-15115560f5fca9094d",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ukraine, face à la multiplication des frappes russes sur les ponts, Kiev songe à se doter d’un tunnel sous le Dniepr",
-      "bullets": [
-        "Sous le feu incessant des drones et des missiles russes, la vulnérabilité des ponts du Dniepr fait courir le risque d’un pays coupé en deux.",
-        "Pour contrer cette menace, un vif débat oppose les partisans d’un tunnel sous le fleuve à ceux qui jugent le chantier bien trop long à…"
-      ],
-      "publishedAt": "2026-11-25T14:30:14+00:00",
-      "updatedAt": "2026-11-25T14:30:14+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/en-ukraine-face-a-la-multiplication-des-frappes-russes-sur-les-ponts-kiev-songe-a-se-doter-d-un-tunnel-sous-le-dniepr_6815113_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "181d64a76a5469f0fd70eb1a4b639068ec6285cbbdbf62a71ea41dc6ead95333",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-38b4ff30fb0065b397",
-      "revision": 1,
-      "category": "world",
-      "topic": "Faits divers",
-      "title": "Un homme et son chien emportés par la mer aux États-Unis",
-      "bullets": [
-        "Un homme et son chien ont été emportés par de puissantes vagues lors des fortes marées.",
-        "À suivre Loïc de la Mornais : le quart d'heure américain du mardi 24 novembre",
-        "Une chanteuse iranienne subit 74 coups de fouet pour avoir chanté sans voile"
-      ],
-      "publishedAt": "2026-11-25T09:54:02+00:00",
-      "updatedAt": "2026-11-25T09:54:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/un-homme-et-son-chien-emportes-par-la-mer-aux-etats-unis_8299134.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "a3e91eb87080628f3593b2bf65763bf5e65187e3bd3f5c78e6c6e002c349612b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T11:10:41.060596+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-37987b95c8edc81c66",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Envoi d’une arme nucléaire russe dans l’espace d’ici deux mois : un risque jugé sérieux",
-      "bullets": [
-        "Identifié depuis longtemps par Washington, le projet russe n’avait, pour le moment, pas de calendrier connu.",
-        "D’après les éléments rapportés, le satellite russe pouvant emporter une arme nucléaire serait déjà construit, et entreposé dans la région de Moscou."
-      ],
-      "publishedAt": "2026-11-25T09:30:12+00:00",
-      "updatedAt": "2026-11-25T09:30:12+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/envoi-d-une-arme-nucleaire-russe-dans-l-espace-d-ici-deux-mois-un-risque-juge-serieux_6815074_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a4b5eda33d10bcb46fe21c2a52dc29837a2f5b7929499d623609e267f0e8c0be",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a4124cfcaa0e9cbdb4",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Kilmar Abrego Garcia, un Salvadorien symbole des expulsions sous Donald Trump, décide de quitter de lui-même les Etats-Unis",
-      "bullets": [
-        "La saga judiciaire de cet immigré salvadorien avec les autorités américaines est devenue un symbole de la politique d'expulsions massives ordonnée par Donald Trump.",
-        "Kilmar Abrego Garcia a quitté de lui-même les Etats-Unis pour l'Espagne, a annoncé mardi 24 novembre le sénateur démocrate Chris Van Hollen.",
-        "Kilmar Abrego Garcia vivait aux Etats-Unis depuis 2019 sous un statut protégé, en raison des risques qu'il aurait pu encourir dans son pays."
-      ],
-      "publishedAt": "2026-11-25T08:14:19+00:00",
-      "updatedAt": "2026-11-25T08:14:19+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/decret-anti-immigration-de-trump/le-salvadorien-symbole-des-expulsions-sous-donald-trump-quitte-de-lui-meme-les-etats-unis_8298651.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "64b1d1c12037eb99a23d2e6b68f274513a3c9ec47577745cb76490a2c40090a9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
       "context": null
     },
     {
@@ -970,7 +997,7 @@
       ],
       "publishedAt": "2026-11-21T05:00:03+00:00",
       "updatedAt": "2026-11-21T05:00:03+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1008,7 +1035,7 @@
       "provenance": "article-extract",
       "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T04:23:14.762835+00:00",
+      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
       "context": null
     },
     {
@@ -1023,7 +1050,7 @@
       ],
       "publishedAt": "2026-11-23T17:00:08+00:00",
       "updatedAt": "2026-11-23T17:00:08+00:00",
-      "importance": 74,
+      "importance": 73,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1072,7 +1099,7 @@
       ],
       "publishedAt": "2026-11-24T15:30:09+00:00",
       "updatedAt": "2026-11-24T15:30:09+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1098,7 +1125,7 @@
       ],
       "publishedAt": "2026-11-23T16:34:38+00:00",
       "updatedAt": "2026-11-23T16:34:38+00:00",
-      "importance": 44,
+      "importance": 43,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1125,7 +1152,7 @@
       ],
       "publishedAt": "2026-11-25T04:46:50+00:00",
       "updatedAt": "2026-11-25T04:46:50+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1150,7 +1177,7 @@
       ],
       "publishedAt": "2026-11-25T04:29:28+00:00",
       "updatedAt": "2026-11-25T04:29:28+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1186,34 +1213,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "2590f34dfb5de6051e5520dce64d3ed203f5dfffd9cb8c61789cb03380a0bea3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-35afdd36ddd411d492",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "VIDEO. Economies demandées aux collectivités : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", assure Valérie Pécresse, présidente de la région Ile-de-France",
-      "bullets": [
-        "Et puis, depuis le début novembre, nous avons une grosse innovation, c'est que nous avons mis en place un numéro d'alerte, le 31 17, dans les transports contre les violences sexuelles et sexistes.",
-        "Le gouvernement demande au moins cinq milliards d'économies pour 2027 aux collectivités : les départements, les régions, les communes.",
-        "Vous nous avez dit ce matin que vous sanctuariserez le budget de rénovation des lycées en Île-de-France.[00:07:38 - 00:07:39] Valérie Pécresse: À vous, Maya."
-      ],
-      "publishedAt": "2026-11-25T10:47:10+00:00",
-      "updatedAt": "2026-11-25T10:47:10+00:00",
-      "importance": 73,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "2e0c99cd18aaacc3b3ee1134efaa8794e77e8062cd3a51c4fb8374b8ea9c51f0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T11:10:41.060596+00:00",
-      "context": null
     },
     {
       "id": "rss-67ae1bf76472984e41",
@@ -1252,7 +1251,7 @@
       ],
       "publishedAt": "2026-11-24T04:59:37+00:00",
       "updatedAt": "2026-11-24T04:59:37+00:00",
-      "importance": 71,
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1315,6 +1314,30 @@
       "provenance": "rss-excerpt",
       "summaryInput": "298789bfafcc967306cb9857c555b4a4eef3b95b0162ead9a145cc99d7297357",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0911a1d151ef903a8b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
+      "bullets": [
+        "Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, des parents et du personnel, ainsi que sur les attentes de proviseurs."
+      ],
+      "publishedAt": "2026-11-25T04:45:07+00:00",
+      "updatedAt": "2026-11-25T04:45:07+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1328,7 +1351,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1352,7 +1375,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1394,13 +1417,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
