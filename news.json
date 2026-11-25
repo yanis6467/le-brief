@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T07:39:27.767820+00:00",
+  "preparedAt": "2026-11-25T09:28:10.640051+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -74,7 +74,7 @@
       ],
       "publishedAt": "2026-11-24T20:35:09+00:00",
       "updatedAt": "2026-11-24T20:35:09+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -85,6 +85,31 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "b1bb822b323a4d8f14389d22bb40e8e42e4fa001447a8fd817d9aadc85997031",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-06b87eec120853f8d7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+      "bullets": [
+        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
+        "Du jamais vu depuis la Seconde Guerre mondiale."
+      ],
+      "publishedAt": "2026-11-25T08:38:55+00:00",
+      "updatedAt": "2026-11-25T08:38:55+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
       "detailLevel": "preview"
     },
     {
@@ -113,31 +138,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-06b87eec120853f8d7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
-      "bullets": [
-        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
-        "Du jamais vu depuis la Seconde Guerre mondiale."
-      ],
-      "publishedAt": "2026-11-24T19:28:50+00:00",
-      "updatedAt": "2026-11-24T19:28:50+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-3df144810aec7b8658",
       "revision": 2,
       "category": "eco",
@@ -162,8 +162,33 @@
       "provenance": "article-extract",
       "summaryInput": "3a8755d233c6a9aba282f1e52d9cbb22d30e78702e3a0f8755511ee1fdf15988",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T20:15:44.862879+00:00",
+      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
       "context": null
+    },
+    {
+      "id": "rss-3fd9ab050da04f2b9c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "IA et travail : « On peut se borner à remplacer les emplois existants, mais on peut aussi repenser le travail et la formation professionnelle »",
+      "bullets": [
+        "Un ralentissement dans le développement de l’intelligence artificielle ne donnerait pas à la Chine un avantage décisif, mais permettrait de préserver emploi et stabilité et d’éviter un carnage social, affirme l’économiste Raghuram G.",
+        "Rajan dans une chronique au « Monde »."
+      ],
+      "publishedAt": "2026-11-25T08:00:11+00:00",
+      "updatedAt": "2026-11-25T08:00:11+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/ia-et-travail-on-peut-se-borner-a-remplacer-les-emplois-existants-mais-on-peut-aussi-repenser-le-travail-et-la-formation-professionnelle_6815063_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "aa400cd0f0df30b92eb8c606c5c954f4f1503e150667e357b3e284d5c1824db0",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-c3fb1f6f80ca9b4790",
@@ -246,34 +271,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2f8ee613d15f90000f",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La baisse de l'encours du livret A en 2026 est \"un signal réel\" de la baisse du pouvoir d'achat des Français, explique un économiste",
-      "bullets": [
-        "Entre janvier et octobre, ils ont retiré 9,5 milliards d'euros de plus que ce qu'ils n'ont déposé.",
-        "L'encours du livret A, estimé à 440 milliards d'euros, n'a jamais, depuis 2008, enregistré une telle baisse sur cette période.",
-        "\"Il s'est dit qu'il y avait une enveloppe possible, le livret A, et donc, il demande aux Français d'épargner plus sur [ce] livret pour financer ses investissements publics.\" Mais, pour que l'opération soit un succès, prévient-t-il, il faudra en revaloriser le taux, qui, selon ses calculs, pourrait passer de 1,7 à 2,6%."
-      ],
-      "publishedAt": "2026-11-24T15:13:37+00:00",
-      "updatedAt": "2026-11-24T15:13:37+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/la-baisse-de-l-encours-du-livret-a-en-2026-est-un-signal-reel-de-la-baisse-du-pouvoir-d-achat-des-francais-explique-un-economiste_8297811.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "5a2a688a96f93ee00e76a4b512bc431e52017899d59ccd4ac33be198006673ca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
-      "context": null
-    },
-    {
       "id": "rss-cbc4601c46d561b310",
       "revision": 1,
       "category": "eco",
@@ -299,28 +296,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-26a4c0752e41c7c5b3",
+      "id": "rss-b211770e7c5e7e2580",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
+      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
       "bullets": [
-        "Le groupe pharmaceutique français met la main, pour 37,6 milliards d’euros, sur ce spécialiste du traitement des maladies respiratoires.",
-        "La biotech dispose déjà d’un médicament réalisant plus de 1 milliard de dollars de recettes annuelles et de plusieurs produits en développement jugés prometteurs."
+        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
       ],
-      "publishedAt": "2026-11-24T12:08:33+00:00",
-      "updatedAt": "2026-11-24T12:08:33+00:00",
+      "publishedAt": "2026-11-24T10:53:15+00:00",
+      "updatedAt": "2026-11-24T10:53:15+00:00",
       "importance": 58,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "a2ef2a8f277b522d0c1a4989c9feecaf8c2bb5c44dd03c17782fdf30aa441a4d",
+      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
       "detailLevel": "preview"
     },
     {
@@ -362,9 +358,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T07:39:30+00:00",
-      "updatedAt": "2026-11-25T07:39:30+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-25T09:23:26+00:00",
+      "updatedAt": "2026-11-25T09:23:26+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -576,27 +572,28 @@
       "context": null
     },
     {
-      "id": "rss-f6a78292937eff8200",
-      "revision": 3,
+      "id": "rss-0bda6f858f138d7bcc",
+      "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Relancer ou non la guerre en Iran : les divergences de l’alliance américano-israélienne",
+      "title": "Arabie saoudite : après la frappe sur le siège de son fonds souverain, Riyad se prépare à une guerre plus intense au Yémen",
       "bullets": [
-        "Alors que le premier ministre sortant de l’Etat hébreu, Benyamin Nétanyahou, plaide auprès de Donald Trump pour une reprise rapide des frappes, le président américain, refroidi par la défaite historique de son camp aux élections de mi-mandat, s’est donné jusqu’à janvier pour trancher, malgré le réarmement de la République islamique."
+        "Le gratte-ciel symbole de Vision 2030 a été touché pour la deuxième fois en cinq jours, mardi 24 novembre.",
+        "Cette attaque intervient alors qu’au Yémen voisin, les forces gouvernementales, soutenues par Riyad, reculent face aux houthistes, appuyés par les Iraniens."
       ],
-      "publishedAt": "2026-11-24T19:00:01+00:00",
-      "updatedAt": "2026-11-24T19:00:01+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-25T08:15:07+00:00",
+      "updatedAt": "2026-11-25T08:15:07+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/relancer-ou-non-la-guerre-l-alliance-israelo-americaine-au-defi-du-rearmement-iranien_6814843_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/arabie-saoudite-apres-la-frappe-sur-le-siege-de-son-fonds-souverain-riyad-se-prepare-a-une-guerre-plus-intense-au-yemen_6815066_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "832d517e7fb223e7ac98f1c324a1b39c013a4df30b2a144d06b0cf6a409c3b83",
+      "summaryInput": "7e6ba4d6bb165669b664fded3e85ac816c1dfb80b37d3da38d4e1419e9ea5c93",
       "detailLevel": "preview"
     },
     {
@@ -652,31 +649,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7d4b28359e010f4f27",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
-      "bullets": [
-        "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français.",
-        "Avant les élections, la Commission marche sur des œufs et retient ses critiques."
-      ],
-      "publishedAt": "2026-11-24T18:42:05+00:00",
-      "updatedAt": "2026-11-24T18:42:05+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5299014bf67d00f574496485bf3f92e67705611fd9fc79ee10e8fcb3420828e7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1e6c2150b81a4f615e",
       "revision": 1,
       "category": "world",
@@ -723,6 +695,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a4124cfcaa0e9cbdb4",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Kilmar Abrego Garcia, un Salvadorien symbole des expulsions sous Donald Trump, décide de quitter de lui-même les Etats-Unis",
+      "bullets": [
+        "La saga judiciaire de cet immigré salvadorien avec les autorités américaines est devenue un symbole de la politique d'expulsions massives ordonnée par Donald Trump.",
+        "Kilmar Abrego Garcia a quitté de lui-même les Etats-Unis pour l'Espagne, a annoncé mardi 24 novembre le sénateur démocrate Chris Van Hollen.",
+        "Kilmar Abrego Garcia vivait aux Etats-Unis depuis 2019 sous un statut protégé, en raison des risques qu'il aurait pu encourir dans son pays."
+      ],
+      "publishedAt": "2026-11-25T08:14:19+00:00",
+      "updatedAt": "2026-11-25T08:14:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/decret-anti-immigration-de-trump/le-salvadorien-symbole-des-expulsions-sous-donald-trump-quitte-de-lui-meme-les-etats-unis_8298651.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "64b1d1c12037eb99a23d2e6b68f274513a3c9ec47577745cb76490a2c40090a9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-71bc826d2f1824f92f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Corée du Nord expulse le chef du bureau diplomatique suisse, en cours de fermeture",
+      "bullets": [
+        "La Corée du Nord a expulsé le chef du bureau diplomatique suisse à Pyongyang, a rapporté l'agence officielle KCNA, mercredi 25 novembre.",
+        "La Suisse, un des rares pays occidentaux disposant d'une représentation en Corée du Nord, avait rouvert en octobre son bureau diplomatique fermé en 2020.",
+        "L'effet ne s'est pas fait attendre : \"Le ministère des Affaires étrangères de la République populaire démocratique de Corée a déclaré persona non grata le chef du bureau diplomatique suisse en RPDC et l'a exhorté à quitter le pays sous 48 heures\", a écrit l'agence KCNA."
+      ],
+      "publishedAt": "2026-11-25T08:05:03+00:00",
+      "updatedAt": "2026-11-25T08:05:03+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-expulse-le-chef-du-bureau-diplomatique-suisse-en-cours-de-fermeture_8298792.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "cc14786198debadd695ea1aff8101656b9662114695406000e25b9887c88edac",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
+      "context": null
     },
     {
       "id": "rss-ebe7893fc3d18ecf14",
@@ -828,31 +856,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-35f1c65bfbafc88ff9",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Attaques de drones, « flotte fantôme »… La mer Baltique, nouveau théâtre du conflit entre l’Ukraine et la Russie",
-      "bullets": [
-        "DÉCRYPTAGE - Deux navires russes ont été frappés à dix jours d’intervalle par des drones ukrainiens dans le golfe de Finlande.",
-        "Les pays riverains membres de l’Otan sont embarrassés."
-      ],
-      "publishedAt": "2026-11-24T20:31:45+00:00",
-      "updatedAt": "2026-11-24T20:31:45+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/attaques-de-drones-flotte-fantome-la-mer-baltique-nouveau-theatre-du-conflit-entre-l-ukraine-et-la-russie-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1725dc74d84b999904e8659112ab3c101a0d76a8b5c4264dcd3c9f9d7e43d783",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a9f1e01e0feda4c14d",
       "revision": 1,
       "category": "france",
@@ -887,7 +890,7 @@
       ],
       "publishedAt": "2026-11-24T20:22:45+00:00",
       "updatedAt": "2026-11-24T20:22:45+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1132,6 +1135,34 @@
       "context": null
     },
     {
+      "id": "rss-35afdd36ddd411d492",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Budget 2027 : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", annonce Valérie Pécresse",
+      "bullets": [
+        "Et puis, depuis le début novembre, nous avons une grosse innovation, c'est que nous avons mis en place un numéro d'alerte, le 31 17, dans les transports contre les violences sexuelles et sexistes.",
+        "Là, il y a 1,5 milliard de recettes touristiques qui ne sont pas là.",
+        "Vous nous avez dit ce matin que vous sanctuariserez le budget de rénovation des lycées en Île-de-France.[00:07:38 - 00:07:39] Valérie Pécresse: À vous, Maya."
+      ],
+      "publishedAt": "2026-11-25T07:58:17+00:00",
+      "updatedAt": "2026-11-25T07:58:17+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "a170fe904b70cd5a3e15c7fd6b866adc3b0bcb3a983e5fec529a172bd4c6721c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
+      "context": null
+    },
+    {
       "id": "rss-98eca9ba6a1dce6d86",
       "revision": 2,
       "category": "france",
@@ -1166,7 +1197,7 @@
       ],
       "publishedAt": "2026-11-24T09:00:04+00:00",
       "updatedAt": "2026-11-24T09:00:04+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1208,52 +1239,27 @@
       "context": null
     },
     {
-      "id": "rss-0911a1d151ef903a8b",
+      "id": "rss-c4cabc432d92fd6352",
       "revision": 1,
       "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
+      "topic": "Justice",
+      "title": "Procureur présent au siège du RN lors d’une perquisition : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »",
       "bullets": [
-        "Après plusieurs semaines de passes d’armes politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, parents et personnels, ainsi que sur les attentes de proviseurs."
+        "Le Garde des Sceaux a pointé « un défaut de loyauté » manifeste du haut magistrat, qui n’a pas posé de jour de congé pour rendre visite à une personnalité politique – Jean-Paul Garraud, député européen RN –, et qui n’a pas informé sa supérieure du fait qu’il avait croisé…"
       ],
-      "publishedAt": "2026-11-25T04:45:11+00:00",
-      "updatedAt": "2026-11-25T04:45:11+00:00",
+      "publishedAt": "2026-11-25T07:55:20+00:00",
+      "updatedAt": "2026-11-25T07:55:20+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/procureur-present-lors-d-une-perquisition-au-rn-gerald-darmanin-annonce-saisir-l-inspection-generale-de-la-justice-pour-faire-toute-la-lumiere_6815060_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "37b7ed3e02d6e689b115110aa84f446dfba5535515e9e852aac28a7f808e7d0c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0c93562516722e9159",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
-      "bullets": [
-        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
-        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
-      ],
-      "publishedAt": "2026-11-24T23:20:22+00:00",
-      "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
+      "summaryInput": "298789bfafcc967306cb9857c555b4a4eef3b95b0162ead9a145cc99d7297357",
       "detailLevel": "preview"
     }
   ],
@@ -1280,7 +1286,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1292,13 +1298,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Figaro",
@@ -1334,13 +1340,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 7
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1358,7 +1364,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1370,7 +1376,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 34
+      "candidates": 33
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
