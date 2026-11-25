@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T06:11:11.742777+00:00",
+  "preparedAt": "2026-11-25T07:39:27.767820+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-d372b929d29e4e5646",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
+      "bullets": [
+        "A Bruxelles, le président va encore une fois plaider pour une véritable sanctuarisation de la PAC, dont la France est le premier bénéficiaire avec plus de 9 milliards d'euros reçus par an.",
+        "Ce mécanisme permet d'assurer la grande majorité des revenus agricoles du pays.",
+        "A l'appel de la Coordination rurale, des agriculteurs bloquent depuis mardi deux centrales d'achat du groupe Leclerc, dans l'Allier et dans l'Aude, pour dénoncer des revenus trop faibles et les marges des distributeurs."
+      ],
+      "publishedAt": "2026-11-25T07:10:53+00:00",
+      "updatedAt": "2026-11-25T07:10:53+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "6c53c4d1c73f30e7f6b4844d2057135d8bada23486402803a58036ac1bf1f067",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
+      "context": null
+    },
     {
       "id": "rss-dee5442dfc741957af",
       "revision": 1,
@@ -60,31 +88,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-06b87eec120853f8d7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
-      "bullets": [
-        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
-        "Du jamais vu depuis la Seconde Guerre mondiale."
-      ],
-      "publishedAt": "2026-11-24T19:28:50+00:00",
-      "updatedAt": "2026-11-24T19:28:50+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-22aec6a09fac635e30",
       "revision": 1,
       "category": "eco",
@@ -94,8 +97,8 @@
         "REPORTAGE - Framatome, filiale de l’électricien, a inauguré ce mardi au Creusot un nouvel espace de fabrication.",
         "Un investissement important destiné à renforcer la souveraineté industrielle du pays."
       ],
-      "publishedAt": "2026-11-24T19:20:00+00:00",
-      "updatedAt": "2026-11-24T19:20:00+00:00",
+      "publishedAt": "2026-11-25T06:56:12+00:00",
+      "updatedAt": "2026-11-25T06:56:12+00:00",
       "importance": 67,
       "sources": [
         {
@@ -107,6 +110,31 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "1f063f8fca9ba0f4c11e7aee88de19e299184aa5f48e6e61bfd8b105c9ba37f7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-06b87eec120853f8d7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+      "bullets": [
+        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
+        "Du jamais vu depuis la Seconde Guerre mondiale."
+      ],
+      "publishedAt": "2026-11-24T19:28:50+00:00",
+      "updatedAt": "2026-11-24T19:28:50+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
       "detailLevel": "preview"
     },
     {
@@ -122,7 +150,7 @@
       ],
       "publishedAt": "2026-11-24T19:15:27+00:00",
       "updatedAt": "2026-11-24T19:15:27+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -138,31 +166,31 @@
       "context": null
     },
     {
-      "id": "rss-ccaf9431d5cf2906dd",
+      "id": "rss-c3fb1f6f80ca9b4790",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "\"On sera des communes mortes\" : les maires affichent des rubans noirs pour manifester leur colère contre les coupes budgétaires",
+      "title": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis",
       "bullets": [
-        "Pour trouver les 10 000 euros de contributions réclamés par l'État, le maire pourrait donc en priorité supprimer les décorations de Noël.",
-        "Dans le projet de loi de finances actuel, 40% des communes devront payer en 2027 une nouvelle contribution à l'effort budgétaire : 2 milliards et demi d'euros au total, pour alléger la dette française.",
-        "À La Frénaye (Seine-Maritime), commune voisine, Christophe Tétrel, le maire (SE), cherche où trouver les 43 000 euros réclamés."
+        "Le géant chinois des télécoms Huawei a été reconnu coupable aux Etats-Unis, mardi 24 novembre, de vol de secrets industriels et d'avoir aidé l'Iran à censurer internet.",
+        "La peine doit être décidée en septembre 2027.",
+        "Les accusations américaines sont \"dénuées de tout fondement juridique et factuel\", a réagi Huawei, qui fait face à des interdictions aux Etats-Unis et en Europe."
       ],
-      "publishedAt": "2026-11-24T14:26:44+00:00",
-      "updatedAt": "2026-11-24T14:26:44+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-25T07:20:28+00:00",
+      "updatedAt": "2026-11-25T07:20:28+00:00",
+      "importance": 59,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/budget/on-sera-des-communes-mortes-les-maires-affichent-des-rubans-noirs-pour-manifester-leur-colere-contre-les-coupes-budgetaires_8297790.html",
+          "url": "https://www.franceinfo.fr/monde/chine/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis_8298741.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
-      "summaryInput": "820b3602809ecfa320388af9b97e288493c8544defd2cdae5cfc3c470e967d22",
+      "summaryInput": "6809341dc1008d86dd1ad01e7785e6997be8532a7143b2dcaa4e05a44fe08b55",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T04:23:14.762835+00:00",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
       "context": null
     },
     {
@@ -271,34 +299,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-175cd03fc287a66c7e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Projet français, dépendance chinoise, exemple américain… Quatre questions sur les \"stocks stratégiques de terres rares et métaux\" voulus par Emmanuel Macron",
-      "bullets": [
-        "L'Union européenne liste 34 matières premières critiques, et une vingtaine d'entre elles est concernée par ce projet de stocks français comme le samarium, un métal indispensable à la construction d'aimants que l'on retrouve dans les éoliennes en mer.",
-        "La Chine extrait aujourd'hui 60% de la production mondiale de terres rares et procède à son raffinage et à la séparation des éléments pour environ 91% de la production mondiale.",
-        "Un projet qui prévoit la constitution d'un stock de 12 milliards de dollars de métaux."
-      ],
-      "publishedAt": "2026-11-24T14:27:09+00:00",
-      "updatedAt": "2026-11-24T14:27:09+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "b75b660f3c22ce22ac95f3ddf6ec4ef64f4ccae60101eb0687e54d23fa2485a0",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T04:23:14.762835+00:00",
-      "context": null
-    },
-    {
       "id": "rss-26a4c0752e41c7c5b3",
       "revision": 1,
       "category": "eco",
@@ -362,9 +362,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T06:05:51+00:00",
-      "updatedAt": "2026-11-25T06:05:51+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-25T07:39:30+00:00",
+      "updatedAt": "2026-11-25T07:39:30+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -436,31 +436,31 @@
       "context": null
     },
     {
-      "id": "rss-837f2a0524811d360a",
+      "id": "rss-e5475a91de720dce6e",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Essoufflée, Wall Street repart à la baisse, le CAC 40 limite la casse (-0,05%) grâce à Sanofi",
+      "title": "CAC 40 : Nouvelle cible baissière",
       "bullets": [
-        "Wall Street, qui avait terminé en très forte hausse lundi (+4,7% pour le S&P 500 et +6,5% pour le Nasdaq) repart à la baisse.",
-        "Soitec a abandonné 10%, STMicroelectronics a reculé de 10,22%, Legrand a perdu 5,6% et Schneider Electric 4,13%.",
-        "Le groupe pharmaceutique s'est adjugé 9,8%, après avoir annoncé le rachat de la biotech américaine Insmed pour 41 milliards de dollars."
+        "Hier le Nasdaq Composite repartait vivement à la baisse (-1,48%), sur fond d'inquiétudes quant à la rentabilité des investissements monstre réalisés dans l'IA ces dernières années.",
+        "Exception, contre la tendance, Sanofi a à elle seule permis au CAC de préserver le seuil des 8 000 points, en gagnant 9,76% à 93,58 euros.",
+        "La cible baissière du scénario central est une bande latérale de 100 points d'amplitude entre 7 680 et 7 780 points PREVISION Au regard des facteurs graphiques clés que nous avons mentionnées, notre avis est négatif sur l'indice CAC 40 à court terme."
       ],
-      "publishedAt": "2026-11-24T16:33:08+00:00",
-      "updatedAt": "2026-11-24T16:33:08+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-25T07:30:58+00:00",
+      "updatedAt": "2026-11-25T07:30:58+00:00",
+      "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-essoufflee-wall-street-repart-a-la-baisse-le-cac-40-limite-la-casse-005-grace-a-sanofi-1174359.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-nouvelle-cible-baissiere-1174378.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
-      "summaryInput": "3ba7c2b2dc30cf5ea791eb0769162110ae523d190891ea6060ea9cc3f9c3eea6",
+      "summaryInput": "d913820cff743c79ef531166728bda6c27b990a73dbf8ae1065ec60d6b9da447",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
       "context": null
     },
     {
@@ -548,33 +548,6 @@
       "context": null
     },
     {
-      "id": "rss-0d5ff21fcd49061dbf",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes",
-      "bullets": [
-        "Le gouvernement libyen d'unité nationale, basé à Tripoli, a démenti mardi 24 novembre toute \"entente\" avec Kiev au sujet des attaques de dimanche contre deux navires russes au large de l'est de la Libye, prenant ainsi publiquement ses distances avec les opérations revendiquées par l'Ukraine.",
-        "Alors que des spéculations ont circulé sur un éventuel rôle des autorités de Tripoli dans les opérations revendiquées par Kiev, le ministère des Affaires étrangères a affirmé que les \"allégations faisant état de l'existence de quelconques ententes avec la partie ukrainienne concernant ces événements\" étaient \"sans fondement\"."
-      ],
-      "publishedAt": "2026-11-24T18:58:33+00:00",
-      "updatedAt": "2026-11-24T18:58:33+00:00",
-      "importance": 97,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "97f9ffa772adc31671293f65e6994410259df01f10542fd97311507b235011ca",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T19:14:35.205802+00:00",
-      "context": null
-    },
-    {
       "id": "rss-2f3c70e141b428a075",
       "revision": 1,
       "category": "world",
@@ -604,16 +577,16 @@
     },
     {
       "id": "rss-f6a78292937eff8200",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
-      "title": "Relancer ou non la guerre : l’alliance israélo-américaine au défi du réarmement iranien",
+      "title": "Relancer ou non la guerre en Iran : les divergences de l’alliance américano-israélienne",
       "bullets": [
-        "Alors que le premier ministre sortant de l’Etat hébreu, Benyamin Nétanyahou, plaide auprès de Donald Trump pour une reprise rapide des frappes sur l’Iran, le président américain, refroidi par la défaite historique de son camp aux élections de mi-mandat, s’est donné jusqu’à janvier pour trancher."
+        "Alors que le premier ministre sortant de l’Etat hébreu, Benyamin Nétanyahou, plaide auprès de Donald Trump pour une reprise rapide des frappes, le président américain, refroidi par la défaite historique de son camp aux élections de mi-mandat, s’est donné jusqu’à janvier pour trancher, malgré le réarmement de la République islamique."
       ],
       "publishedAt": "2026-11-24T19:00:01+00:00",
       "updatedAt": "2026-11-24T19:00:01+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -623,8 +596,36 @@
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "35e041cff45036f1ac26e20c392e5bf1615b7fce5c8581104656851ce3f0b1b7",
+      "summaryInput": "832d517e7fb223e7ac98f1c324a1b39c013a4df30b2a144d06b0cf6a409c3b83",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-63c550271d2bff94d0",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La CIA et le bureau du directeur du renseignement national ont subi un piratage informatique, selon plusieurs médias américains",
+      "bullets": [
+        "La CIA et le bureau du directeur du renseignement national (DNI) ont subi un piratage informatique portant sur des informations non classifiées, ont rapporté les médias américains, mardi 24 novembre.",
+        "L'agence centrale de renseignement des Etats-Unis et le bureau du DNI, Jay Clayton, ont récemment découvert cette intrusion informatique, relate notamment le New York Times, citant des responsables américains et des sources proches du dossier sous le couvert de l'anonymat.",
+        "Ce piratage a touché un réseau informatique d'analyse des informations dites en \"source ouverte\", c'est-à-dire accessibles publiquement, ont précisé ces sources proches du dossier."
+      ],
+      "publishedAt": "2026-11-25T06:45:26+00:00",
+      "updatedAt": "2026-11-25T06:45:26+00:00",
+      "importance": 79,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/la-cia-et-le-bureau-du-directeur-du-renseignement-national-ont-subi-un-piratage-informatique-selon-plusieurs-medias-americains_8298636.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "21a267f5f691e72f8ddb3e27c087cc84d068bd7c883d2588b8de285a1850ad8d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
+      "context": null
     },
     {
       "id": "rss-5cefc82b32e7939488",
@@ -662,7 +663,7 @@
       ],
       "publishedAt": "2026-11-24T18:42:05+00:00",
       "updatedAt": "2026-11-24T18:42:05+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -686,7 +687,7 @@
       ],
       "publishedAt": "2026-11-24T19:11:47+00:00",
       "updatedAt": "2026-11-24T19:11:47+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -724,6 +725,57 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-ebe7893fc3d18ecf14",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ?",
+      "bullets": [
+        "Les invités de \"À suivre Loïc de la Mornais\" du mardi 24 novembre 2026 sont :Général Jean-Paul Paloméros, ancien chef d'état-major de l'armée de l'Air française.",
+        "Benoît Grémare, chercheur associé à l'Institut français d'analyse stratégique."
+      ],
+      "publishedAt": "2026-11-25T07:24:28+00:00",
+      "updatedAt": "2026-11-25T07:24:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-nucleaire-aura-t-elle-lieu-dans-l-espace_8298912.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "2622206f3c190a55ba56522f99050802d4315ba395047b0d27708920e8df5e8c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-5488f98461a38433ea",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’Australie et les Iles Salomon signent un traité freinant les ambitions de la Chine dans le Pacifique",
+      "bullets": [
+        "Le traité, qui couvre de nombreux domaines (éducation, santé, police, énergie, résilience climatique…) consacre l’Australie comme « premier partenaire en matière de sécurité » des Iles Salomon, et stipule qu’il ne peut y avoir de base militaire étrangère dans l’archipel."
+      ],
+      "publishedAt": "2026-11-25T07:08:38+00:00",
+      "updatedAt": "2026-11-25T07:08:38+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/l-australie-et-les-iles-salomon-signent-un-traite-freinant-les-ambitions-de-la-chine-dans-le-pacifique_6815057_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "66fc847942f6a7dd05dc83aa517756618ceea23fdb2ca02a8f2e4d7d3aa18a32",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-27c1d5ae11cec3b2b7",
       "revision": 1,
       "category": "world",
@@ -733,8 +785,8 @@
         "Deux militaires libyens ont succombé à leurs blessures, après les attaques revendiquées par l'Ukraine contre des navires russes à Benghazi, en Libye le 22 novembre, ont annoncé les autorités de l'Est libyen, mercredi 25 novembre.",
         "\"C'est avec une profonde tristesse et une grande fierté que je rends aujourd'hui hommage à deux héros de nos forces navales\", a déclaré sur Facebook Saddam Haftar, fils du maréchal Khalifa Haftar et commandant en chef adjoint des Forces armées arabes libyennes."
       ],
-      "publishedAt": "2026-11-25T05:43:24+00:00",
-      "updatedAt": "2026-11-25T05:43:24+00:00",
+      "publishedAt": "2026-11-25T06:28:00+00:00",
+      "updatedAt": "2026-11-25T06:28:00+00:00",
       "importance": 67,
       "sources": [
         {
@@ -752,13 +804,13 @@
     },
     {
       "id": "rss-50b869a36817d1436b",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
       "bullets": [
         "Cet habitant du Maryland, marié à une Américaine, a pris un vol pour l’Espagne, mardi.",
-        "Expulsé en mars 2025 vers le Salvador puis ramené aux Etats-Unis, il avait été inculpé par la justice fédérale américaine avant qu’un juge mette fin à ces poursuites, fin mai."
+        "Expulsé en mars 2025 vers le Salvador puis ramené aux Etats-Unis, il avait été inculpé par la justice fédérale américaine avant qu’un juge mette fin à ces poursuites, à la fin de mai."
       ],
       "publishedAt": "2026-11-25T03:25:48+00:00",
       "updatedAt": "2026-11-25T03:25:48+00:00",
@@ -772,7 +824,7 @@
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "dbf161a3febdea889e2e2972c4e5f17f5c62c3d48cedf4deac56e5aa69bf9283",
+      "summaryInput": "445142f9b2fb1bc907b5ae1ece261a7e125bc5839c93582da42c59470130afb9",
       "detailLevel": "preview"
     },
     {
@@ -801,58 +853,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c676c488237aed06f3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Face à l’aggravation des tensions en mer, les marines occidentales dans l’urgence de la guerre des drones",
-      "bullets": [
-        "DÉCRYPTAGE - La marine française développe plusieurs programmes, comme Smokers ou Danaé, pour compléter sa flotte par des drones."
-      ],
-      "publishedAt": "2026-11-24T20:30:00+00:00",
-      "updatedAt": "2026-11-24T20:30:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/face-a-l-aggravation-des-tensions-en-mer-les-marines-occidentales-dans-l-urgence-de-la-guerre-des-drones-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0238f649d976cbec052084bedf72c3f483b67346f3b40c0010db8b33ee8a77e7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7e4c30c83a9aa12dd0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le gratte-ciel emblématique du pouvoir financier saoudien frappé par des Houthis",
-      "bullets": [
-        "\"Ils ont fermé les rues et interdit aux gens de circuler ou d'entrer\", indique-t-il.",
-        "Les Saoudiens rencontrent de plus en plus de difficultés à arrêter les missiles et drones lancés par cette milice proche de Téhéran (Iran).",
-        "Plus spectaculaire encore, une attaque contre l'aéroport international de Riyad, le 11 octobre avait fait 14 morts et des centaines de blessés."
-      ],
-      "publishedAt": "2026-11-24T20:12:54+00:00",
-      "updatedAt": "2026-11-24T20:12:54+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/le-gratte-ciel-emblematique-du-pouvoir-financier-saoudien-frappe-par-des-houthis_8298369.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "bf8ba1115e5a0fbcdd2fa1fb4695f503471e1b65886bb6fc6340516ec4eef2dd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-24T21:13:58.497645+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a9f1e01e0feda4c14d",
       "revision": 1,
       "category": "france",
@@ -863,7 +863,7 @@
       ],
       "publishedAt": "2026-11-24T18:33:49+00:00",
       "updatedAt": "2026-11-24T18:33:49+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1080,16 +1080,16 @@
     },
     {
       "id": "rss-ae46fa8444fde88635",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
       "title": "Présidentielle 2027 : LFI, force d’attraction à gauche",
       "bullets": [
         "Après la majorité du groupe communiste à l’Assemblée nationale, puis la secrétaire nationale des Ecologistes, Marine Tondelier, le parti Génération.s apporte, à son tour, son soutien à Jean-Luc Mélenchon, en vue du scrutin d’avril 2027.",
-        "La France insoumise lorgne désormais sur la candidature de Fabien Roussel."
+        "La France insoumise lorgne désormais la candidature de Fabien Roussel."
       ],
-      "publishedAt": "2026-11-25T04:29:29+00:00",
-      "updatedAt": "2026-11-25T04:29:29+00:00",
+      "publishedAt": "2026-11-25T04:29:28+00:00",
+      "updatedAt": "2026-11-25T04:29:28+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1100,7 +1100,7 @@
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "3d5852fc8bb83c10addfb3acc88d2d162cab80e112e22ad905d7beb91ce343ab",
+      "summaryInput": "a2ccd9f5d1f463f89cace91ad5468e951b45abc6c6b3549e60de2a919015aecd",
       "detailLevel": "preview"
     },
     {
@@ -1116,7 +1116,7 @@
       ],
       "publishedAt": "2026-11-24T18:49:59+00:00",
       "updatedAt": "2026-11-24T18:49:59+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1128,7 +1128,7 @@
       "provenance": "article-extract",
       "summaryInput": "2ac3a06a2ad6e789779752d9a16086679a56c62ab5716e510355542b95e78c09",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T19:14:35.205802+00:00",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
       "context": null
     },
     {
@@ -1233,10 +1233,10 @@
     },
     {
       "id": "rss-0c93562516722e9159",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "L’influenceur Tibo InShape dépose plainte après une action devant son domicile revendiquée par un groupuscule identitaire",
+      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
       "bullets": [
         "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
         "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
@@ -1253,7 +1253,7 @@
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "d69e6599bbcdb9fd6368b3e89833f7a022d2c5df5a926488b57cf814db69d897",
+      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
       "detailLevel": "preview"
     }
   ],
@@ -1292,13 +1292,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
