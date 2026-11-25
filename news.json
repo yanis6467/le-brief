@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-24T23:58:24.259444+00:00",
+  "preparedAt": "2026-11-25T01:32:06.640543+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -27,7 +27,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "5b81ddbb319c7d982528db6c2b7aa114113965255bc36a6ada81f64592aa37cf",
       "detailLevel": "article",
@@ -54,7 +54,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "b1bb822b323a4d8f14389d22bb40e8e42e4fa001447a8fd817d9aadc85997031",
       "detailLevel": "preview"
@@ -79,7 +79,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
       "detailLevel": "preview"
@@ -104,7 +104,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "1f063f8fca9ba0f4c11e7aee88de19e299184aa5f48e6e61bfd8b105c9ba37f7",
       "detailLevel": "preview"
@@ -130,7 +130,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "3a8755d233c6a9aba282f1e52d9cbb22d30e78702e3a0f8755511ee1fdf15988",
       "detailLevel": "article",
@@ -158,11 +158,39 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "820b3602809ecfa320388af9b97e288493c8544defd2cdae5cfc3c470e967d22",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T15:16:38.286056+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-12dede95d0c8064b38",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
+      "bullets": [
+        "L'accusation vient d'une sénatrice démocrate, Elissa Slotkin, qui a affirmé, lundi 23 novembre sur X, que le président américain aurait déjà gagné 60 millions de dollars avec l'entreprise de puces ultras performantes.",
+        "D'après une enquête de la chaîne financière américaine CNBC, Donald Trump aurait fait 103 transactions sur son compte Nvidia depuis son retour à la Maison Blanche, pour un montant supérieur à 27 millions de dollars.",
+        "D'après CNBC, il a déclaré plus de 20 000 transactions boursières en 2025, contre 500 lors de son premier mandat."
+      ],
+      "publishedAt": "2026-11-24T17:34:08+00:00",
+      "updatedAt": "2026-11-24T17:34:08+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "30ec7037022b856fa8f52355ef8061a692755431d534c79554c83d3caca4fcb8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
       "context": null
     },
     {
@@ -186,7 +214,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "5a2a688a96f93ee00e76a4b512bc431e52017899d59ccd4ac33be198006673ca",
       "detailLevel": "article",
@@ -213,7 +241,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "c3165f8d030e7d203dc5b871711fa03c0424360fb401590c9cb5945808767fd6",
       "detailLevel": "preview"
@@ -239,7 +267,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "b75b660f3c22ce22ac95f3ddf6ec4ef64f4ccae60101eb0687e54d23fa2485a0",
       "detailLevel": "article",
@@ -258,7 +286,7 @@
       ],
       "publishedAt": "2026-11-24T12:08:33+00:00",
       "updatedAt": "2026-11-24T12:08:33+00:00",
-      "importance": 59,
+      "importance": 58,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -266,7 +294,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "a2ef2a8f277b522d0c1a4989c9feecaf8c2bb5c44dd03c17782fdf30aa441a4d",
       "detailLevel": "preview"
@@ -290,33 +318,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "6dea38d54aa1fb89e4718d0d674a7f3a2936a72dadc25d7c7199662d261c41f3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-b211770e7c5e7e2580",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "2000 milliards de dollars partis en fumée, puis un rebond de 31% en quelques heures : l’incroyable mois de l’action Nvidia",
-      "bullets": [
-        "INFOGRAPHIES - En ce mois de novembre, les annonces autour du patron de Nvidia Jensen Huang, finalement de retour aux affaires ce lundi dix jours après sa démission, ont donné au cours et à la capitalisation du géant de la tech des allures de montagnes russes."
-      ],
-      "publishedAt": "2026-11-24T10:53:15+00:00",
-      "updatedAt": "2026-11-24T10:53:15+00:00",
-      "importance": 58,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/2000-milliards-de-dollars-partis-en-fumee-puis-un-rebond-de-36-en-quelques-heures-l-incroyable-mois-de-l-action-nvidia-20261123",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "864040914d0e4a34cbbd1663f1011bc25018995f1a7d6d550375b6ba4a99d1c2",
       "detailLevel": "preview"
     },
     {
@@ -340,7 +344,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
@@ -358,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-24T23:56:58+00:00",
-      "updatedAt": "2026-11-24T23:56:58+00:00",
+      "publishedAt": "2026-11-25T01:30:07+00:00",
+      "updatedAt": "2026-11-25T01:30:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -368,7 +372,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -396,11 +400,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T12:11:10.108064+00:00",
+      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
       "context": null
     },
     {
@@ -424,11 +428,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "1d96257b04fd059949019314dc0d7082c0706470ec7da55a5868df5edd464314",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
       "context": null
     },
     {
@@ -452,7 +456,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "3ba7c2b2dc30cf5ea791eb0769162110ae523d190891ea6060ea9cc3f9c3eea6",
       "detailLevel": "article",
@@ -480,7 +484,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
       "detailLevel": "article",
@@ -508,7 +512,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
@@ -536,7 +540,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
@@ -563,7 +567,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "97f9ffa772adc31671293f65e6994410259df01f10542fd97311507b235011ca",
       "detailLevel": "article",
@@ -591,11 +595,11 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "410fa31c30dad1a42c7c835e8c6511619fa649187c6951a3fe341a6ba1728e71",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-24T13:30:31.172477+00:00",
+      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
       "context": null
     },
     {
@@ -617,7 +621,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "35e041cff45036f1ac26e20c392e5bf1615b7fce5c8581104656851ce3f0b1b7",
       "detailLevel": "preview"
@@ -641,7 +645,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
       "detailLevel": "preview"
@@ -666,7 +670,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "5299014bf67d00f574496485bf3f92e67705611fd9fc79ee10e8fcb3420828e7",
       "detailLevel": "preview"
@@ -690,7 +694,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "966996ffb959b0fa2ce9f9474ae41828cbe09d867ad418827f4b71b3c4c0abe8",
       "detailLevel": "preview"
@@ -714,7 +718,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "ad026f7a4cbcb99be76e9a94be5ce50c1ada82d82e6122527a8e4f3a929394b7",
       "detailLevel": "preview"
@@ -730,7 +734,7 @@
       ],
       "publishedAt": "2026-11-24T13:26:40+00:00",
       "updatedAt": "2026-11-24T13:26:40+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -738,7 +742,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
       "detailLevel": "preview"
@@ -763,7 +767,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "1725dc74d84b999904e8659112ab3c101a0d76a8b5c4264dcd3c9f9d7e43d783",
       "detailLevel": "preview"
@@ -787,7 +791,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "0238f649d976cbec052084bedf72c3f483b67346f3b40c0010db8b33ee8a77e7",
       "detailLevel": "preview"
@@ -813,7 +817,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "bf8ba1115e5a0fbcdd2fa1fb4695f503471e1b65886bb6fc6340516ec4eef2dd",
       "detailLevel": "article",
@@ -841,7 +845,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "b828a789edeaf5f7b2b53957769c53975ce22507675e17102bd9c07064e0f88e",
       "detailLevel": "article",
@@ -867,7 +871,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "836a0be18d85611083457a787939f51c97c62d0b9aacdd201a3d2b733799f300",
       "detailLevel": "preview"
@@ -891,7 +895,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "1566e516b6fdeaa6948397329194c669d52e8fd9fe56c666086389c116597e24",
       "detailLevel": "preview"
@@ -915,7 +919,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "b805fd5b6348c98ef1b01d62ad2d1b46c353c8a0183390d2c9b6c05346d553da",
       "detailLevel": "preview"
@@ -933,7 +937,7 @@
       ],
       "publishedAt": "2026-11-24T13:21:28+00:00",
       "updatedAt": "2026-11-24T13:21:28+00:00",
-      "importance": 73,
+      "importance": 72,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -941,7 +945,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
@@ -968,7 +972,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "ea740d2ea30cd7aad6b46c9ca57f7d830e3ba5dd1c6b50dc011f8aa40eaa2c02",
       "detailLevel": "preview"
@@ -992,7 +996,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "a4bb9f59a27f4dd8f65b0e895b8550dbd6fff93b0e4cbeb8e508c68523e27aee",
       "detailLevel": "preview"
@@ -1016,7 +1020,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "8f0badc4d279f74e9561d7fc56743f34d96722a78f7592734d80b317aca96432",
       "detailLevel": "preview"
@@ -1042,7 +1046,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
       "detailLevel": "article",
@@ -1069,7 +1073,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "a837d526c12e0e0cc8c5caa42a1b380e225b0c51e48d7f537525299b4039229c",
       "detailLevel": "preview"
@@ -1095,7 +1099,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "2ac3a06a2ad6e789779752d9a16086679a56c62ab5716e510355542b95e78c09",
       "detailLevel": "article",
@@ -1121,34 +1125,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "0c73ea03a7adecd82f72227fda8157a36b4a683d1d5528f3114a2efca190f55b",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1c5bdb574cb7587906",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
-      "bullets": [
-        "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles.",
-        "Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
-      ],
-      "publishedAt": "2026-11-24T08:52:32+00:00",
-      "updatedAt": "2026-11-24T08:52:32+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-24",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1413e06a20271e19aa18f682296638bcc873ddcaba45e96d9a0a9cedc87815d4",
       "detailLevel": "preview"
     },
     {
@@ -1170,7 +1149,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "f7cdf7b5d6fc6b6f0dbfed5cb276f5ea476c24b59fbbf4690d3bc76f21f4b067",
       "detailLevel": "preview"
@@ -1194,7 +1173,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
       "detailLevel": "preview"
@@ -1220,12 +1199,37 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "article-extract",
       "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
       "detailLevel": "article",
       "enrichedAt": "2026-11-24T18:03:40.972354+00:00",
       "context": null
+    },
+    {
+      "id": "rss-0c93562516722e9159",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "L’influenceur Tibo InShape dépose plainte après une action devant son domicile revendiquée par un groupuscule identitaire",
+      "bullets": [
+        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
+        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
+      ],
+      "publishedAt": "2026-11-24T23:20:22+00:00",
+      "updatedAt": "2026-11-24T23:20:22+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d69e6599bbcdb9fd6368b3e89833f7a022d2c5df5a926488b57cf814db69d897",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-af681c0f50302c88ea",
@@ -1247,7 +1251,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-24",
+      "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
       "detailLevel": "preview"
