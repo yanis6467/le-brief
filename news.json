@@ -1,11 +1,38 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T12:17:00.329852+00:00",
+  "preparedAt": "2026-11-25T13:44:43.321965+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-f717f61bae3368f201",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Union européenne, Chine, Mexique… Washington annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux",
+      "bullets": [
+        "Le gouvernement américain a annoncé mardi une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont la Chine, l'Union européenne ou le Mexique, les accusant de soutenir leurs industries par des subventions qu'il juge illicites.",
+        "Ces nouvelles surtaxes, qui s'ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier par le représentant de la Maison Blanche pour le Commerce (USTR), Jamieson Greer."
+      ],
+      "publishedAt": "2026-11-25T13:32:40+00:00",
+      "updatedAt": "2026-11-25T13:32:40+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/union-europeenne-chine-mexique-washington-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-20261125",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "e072731f3af9413f808b363a6bf1efd11aaa9a370a651d5bee4b1a09a0ea5895",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
+    },
     {
       "id": "rss-ea7b4dd4ea7be22c38",
       "revision": 1,
@@ -31,34 +58,6 @@
       "summaryInput": "a1b052108bc1ea5a9c657b4448246b7140375a14ca9936d28be95a973b0b0cae",
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T11:10:41.060596+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-d372b929d29e4e5646",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
-      "bullets": [
-        "A Bruxelles, le président va encore une fois plaider pour une véritable sanctuarisation de la PAC, dont la France est le premier bénéficiaire avec plus de 9 milliards d'euros reçus par an.",
-        "Ce mécanisme permet d'assurer la grande majorité des revenus agricoles du pays.",
-        "A l'appel de la Coordination rurale, des agriculteurs bloquent depuis mardi deux centrales d'achat du groupe Leclerc, dans l'Allier et dans l'Aude, pour dénoncer des revenus trop faibles et les marges des distributeurs."
-      ],
-      "publishedAt": "2026-11-25T07:10:53+00:00",
-      "updatedAt": "2026-11-25T07:10:53+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "6c53c4d1c73f30e7f6b4844d2057135d8bada23486402803a58036ac1bf1f067",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
       "context": null
     },
     {
@@ -115,31 +114,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-22aec6a09fac635e30",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Avec l’ouverture d’un nouvel atelier, EDF complète sa panoplie industrielle dans le nucléaire",
-      "bullets": [
-        "REPORTAGE - Framatome, filiale de l’électricien, a inauguré ce mardi au Creusot un nouvel espace de fabrication.",
-        "Un investissement important destiné à renforcer la souveraineté industrielle du pays."
-      ],
-      "publishedAt": "2026-11-25T06:56:12+00:00",
-      "updatedAt": "2026-11-25T06:56:12+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/societes/avec-l-ouverture-d-un-nouvel-atelier-edf-complete-sa-panoplie-industrielle-dans-le-nucleaire-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1f063f8fca9ba0f4c11e7aee88de19e299184aa5f48e6e61bfd8b105c9ba37f7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-696ceedff6532ac6d3",
       "revision": 1,
       "category": "eco",
@@ -162,30 +136,6 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "f7b3e7e6e91386336218900eb9468e556ba07acc56be5910102283099e91e3bb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-42cf746fab6987f4e4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
-      "bullets": [
-        "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement."
-      ],
-      "publishedAt": "2026-11-25T10:30:08+00:00",
-      "updatedAt": "2026-11-25T10:30:08+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "742928a04d95362d4e6ab543b0c3d2f3cd451a5ff26bc8c0e2603c9b09fd8e9c",
       "detailLevel": "preview"
     },
     {
@@ -269,31 +219,6 @@
       "context": null
     },
     {
-      "id": "rss-81017a2ae2c3f0bbd7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
-      "bullets": [
-        "Dans un contexte de baisse des prix, le pays a de nouveau interdit l’exportation de cobalt, dont la transformation est presque entièrement contrôlée par la Chine.",
-        "Un premier embargo, remplacé ensuite par des quotas, avait été mis en place en 2025."
-      ],
-      "publishedAt": "2026-11-25T10:00:09+00:00",
-      "updatedAt": "2026-11-25T10:00:09+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/la-rdc-impose-un-nouvel-embargo-sur-les-exportations-de-cobalt-pour-faire-monter-les-cours_6815079_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "de4a7a1b15acd1b98bbf51e8985c74d77a7aa9be0eb03168233d170046672c70",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-2b8876705e35c88521",
       "revision": 1,
       "category": "eco",
@@ -316,6 +241,87 @@
       "provenance": "rss-excerpt",
       "summaryInput": "fd5cd39e767386ea196bea0e4dac2aa9a36ea74b60326e0bec5fea77bd0881a3",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3fd9ab050da04f2b9c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "IA et travail : « On peut se borner à remplacer les emplois existants, mais on peut aussi repenser le travail et la formation professionnelle »",
+      "bullets": [
+        "Un ralentissement dans le développement de l’intelligence artificielle ne donnerait pas à la Chine un avantage décisif, mais permettrait de préserver emploi et stabilité et d’éviter un carnage social, affirme l’économiste Raghuram G.",
+        "Rajan dans une chronique au « Monde »."
+      ],
+      "publishedAt": "2026-11-25T08:00:11+00:00",
+      "updatedAt": "2026-11-25T08:00:11+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/ia-et-travail-on-peut-se-borner-a-remplacer-les-emplois-existants-mais-on-peut-aussi-repenser-le-travail-et-la-formation-professionnelle_6815063_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "aa400cd0f0df30b92eb8c606c5c954f4f1503e150667e357b3e284d5c1824db0",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-044973c312d4daf6cd",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Arrêts maladie : près d’un salarié sur deux préfère continuer à travailler malgré son état de santé, selon une étude",
+      "bullets": [
+        "Travailler malgré la maladie, quitte à mettre sa santé au second plan.",
+        "Près d’un salarié sur deux (47%) continue de se rendre à son travail alors que son état de santé physique aurait justifié qu’il reste chez lui, selon la deuxième édition du baromètre national sur la santé et les conditions de travail, réalisé par OpinionWay pour le cabinet Ekilibre Conseil.",
+        "Cette étude, publiée ce mercredi 25 novembre et consultée par France Inter, met en lumière le poids des considérations financières dans la décision des salariés de renoncer à un arrêt maladie."
+      ],
+      "publishedAt": "2026-11-25T13:25:02+00:00",
+      "updatedAt": "2026-11-25T13:25:02+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/arrets-maladie-pres-d-un-salarie-sur-deux-prefere-continuer-a-travailler-malgre-son-etat-de-sante-selon-une-etude-20261125",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "cae42a2aaa9d14d60488e64e97697f555c18e7a52b20d9782ff787f0fe585377",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-26fa06591e3d57dbc7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
+      "bullets": [
+        "Y a-t-il \"une faille systémique dans le contrôle de la gestion\" des aides pour les formations en apprentissage ?",
+        "Le fort soutien d'argent public pour développer ce secteur aurait généré des milliards d'euros de risques d'abus et de fraudes, estime la Cour des comptes.",
+        "Les aides à l'apprentissage, passées au crible de la Cour des comptes concernent à la fois la prise en charge des coûts de la formation par les opérateurs de compétences (Opco), associations finançant la formation professionnelle, et les aides financières aux entreprises pour l'embauche d'apprentis."
+      ],
+      "publishedAt": "2026-11-25T12:37:03+00:00",
+      "updatedAt": "2026-11-25T12:37:03+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/la-cour-des-comptes-epingle-des-fraudes-et-des-abus-dans-les-formations-en-apprentissage_8299608.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "7f7ddaf56237cd9c274dffd621c774c1304bdfcb9f10da4cd307e4a542d933a2",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
     },
     {
       "id": "rss-8807b484bedc9ddb20",
@@ -356,8 +362,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T12:15:40+00:00",
-      "updatedAt": "2026-11-25T12:15:40+00:00",
+      "publishedAt": "2026-11-25T13:42:05+00:00",
+      "updatedAt": "2026-11-25T13:42:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -398,7 +404,35 @@
       "provenance": "article-extract",
       "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-fd961c4fcbbd4ef7e3",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : En attendant une batterie d'indicateurs américains, le CAC 40 avance un peu",
+      "bullets": [
+        "L'indice phare de la Bourse de Paris prend 0,39% à 8.071,67 points.",
+        ">> Accédez à nos analyses graphiques exclusives, et entrez dans la confidence du Portefeuille Trading Sanofi monte encore Du côté des valeurs, Bureau Veritas s'adjuge 6,7% alors que, selon Bloomberg, le fonds Advent lorgne un rachat du groupe.",
+        "Le contrat de janvier sur le Brent de mer du Nord prend 0,2% à 88,97 dollars le baril tandis que celui de même échéance sur le WTI coté à New York avance de 0,34% à 82,33 dollars le baril."
+      ],
+      "publishedAt": "2026-11-25T12:52:34+00:00",
+      "updatedAt": "2026-11-25T12:52:34+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-une-batterie-d-indicateurs-americains-le-cac-40-avance-un-peu-1174415.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "95f3c76c6c8ff5a0c1be07c617a6b63264a4f730d469eccaee6d7f9c4c39fc15",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
       "context": null
     },
     {
@@ -430,34 +464,6 @@
       "context": null
     },
     {
-      "id": "rss-e5475a91de720dce6e",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : Nouvelle cible baissière",
-      "bullets": [
-        "Hier le Nasdaq Composite repartait vivement à la baisse (-1,48%), sur fond d'inquiétudes quant à la rentabilité des investissements monstre réalisés dans l'IA ces dernières années.",
-        "Exception, contre la tendance, Sanofi a à elle seule permis au CAC de préserver le seuil des 8 000 points, en gagnant 9,76% à 93,58 euros.",
-        "La cible baissière du scénario central est une bande latérale de 100 points d'amplitude entre 7 680 et 7 780 points PREVISION Au regard des facteurs graphiques clés que nous avons mentionnées, notre avis est négatif sur l'indice CAC 40 à court terme."
-      ],
-      "publishedAt": "2026-11-25T07:30:58+00:00",
-      "updatedAt": "2026-11-25T07:30:58+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-nouvelle-cible-baissiere-1174378.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "d913820cff743c79ef531166728bda6c27b990a73dbf8ae1065ec60d6b9da447",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9b1203452505b65334",
       "revision": 1,
       "category": "markets",
@@ -482,7 +488,7 @@
       "provenance": "article-extract",
       "summaryInput": "1d96257b04fd059949019314dc0d7082c0706470ec7da55a5868df5edd464314",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
       "context": null
     },
     {
@@ -594,7 +600,7 @@
       "provenance": "article-extract",
       "summaryInput": "410fa31c30dad1a42c7c835e8c6511619fa649187c6951a3fe341a6ba1728e71",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T01:32:06.640543+00:00",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
       "context": null
     },
     {
@@ -620,6 +626,30 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "7e6ba4d6bb165669b664fded3e85ac816c1dfb80b37d3da38d4e1419e9ea5c93",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-800b211a650b6b2da8",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’UE, la Chine et le Mexique",
+      "bullets": [
+        "Ces nouvelles surtaxes, qui s’ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier par le représentant au commerce des Etats-Unis, Jamieson Greer."
+      ],
+      "publishedAt": "2026-11-25T13:30:53+00:00",
+      "updatedAt": "2026-11-25T13:30:53+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/l-administration-trump-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-dont-l-ue-la-chine-et-le-mexique_6815099_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "60865a334e4a4a3b4e598d7c33a3731aa9e60b16189927215203651f988a005a",
       "detailLevel": "preview"
     },
     {
@@ -675,34 +705,6 @@
       "context": null
     },
     {
-      "id": "rss-63c550271d2bff94d0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La CIA et le bureau du directeur du renseignement national ont subi un piratage informatique, selon plusieurs médias américains",
-      "bullets": [
-        "La CIA et le bureau du directeur du renseignement national (DNI) ont subi un piratage informatique portant sur des informations non classifiées, ont rapporté les médias américains, mardi 24 novembre.",
-        "L'agence centrale de renseignement des Etats-Unis et le bureau du DNI, Jay Clayton, ont récemment découvert cette intrusion informatique, relate notamment le New York Times, citant des responsables américains et des sources proches du dossier sous le couvert de l'anonymat.",
-        "Ce piratage a touché un réseau informatique d'analyse des informations dites en \"source ouverte\", c'est-à-dire accessibles publiquement, ont précisé ces sources proches du dossier."
-      ],
-      "publishedAt": "2026-11-25T06:45:26+00:00",
-      "updatedAt": "2026-11-25T06:45:26+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/la-cia-et-le-bureau-du-directeur-du-renseignement-national-ont-subi-un-piratage-informatique-selon-plusieurs-medias-americains_8298636.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "21a267f5f691e72f8ddb3e27c087cc84d068bd7c883d2588b8de285a1850ad8d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
-      "context": null
-    },
-    {
       "id": "rss-5cefc82b32e7939488",
       "revision": 1,
       "category": "world",
@@ -727,6 +729,61 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f6437a82b46d9c818f",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+      "bullets": [
+        "La Coordination rurale va demander, mercredi 25 novembre, à Emmanuel Macron de refuser tout accord sur la politique agricole commune (PAC) qui ne permette pas aux \"agriculteurs de vivre de leur production\", indique sur franceinfo François Walraet, secrétaire général du syndicat agricole.",
+        "Face à cela, François Walraet demande au chef de l'État de refuser tout accord qui ne garantirait pas le maintien intégral du budget agricole, \"voire qui ne l'augmenterait pas\".\"Quand j'entends qu'on nous dit qu'il ne manquera pas un euro, j'entends aussi qu'il n'y aura pas un euro supplémentaire pour la PAC."
+      ],
+      "publishedAt": "2026-11-25T12:50:11+00:00",
+      "updatedAt": "2026-11-25T12:50:11+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "fdb61ea65ba3d8b261e70060e384b641063c387fd48607e59983a51f3e5552cc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T13:44:43.321965+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d372b929d29e4e5646",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
+      "bullets": [
+        "A Bruxelles, le président va encore une fois plaider pour une véritable sanctuarisation de la PAC, dont la France est le premier bénéficiaire avec plus de 9 milliards d'euros reçus par an.",
+        "Ce mécanisme permet d'assurer la grande majorité des revenus agricoles du pays.",
+        "A l'appel de la Coordination rurale, des agriculteurs bloquent depuis mardi deux centrales d'achat du groupe Leclerc, dans l'Allier et dans l'Aude, pour dénoncer des revenus trop faibles et les marges des distributeurs."
+      ],
+      "publishedAt": "2026-11-25T07:10:53+00:00",
+      "updatedAt": "2026-11-25T07:10:53+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "6c53c4d1c73f30e7f6b4844d2057135d8bada23486402803a58036ac1bf1f067",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2c559e00ba6e6929f2",
       "revision": 1,
       "category": "world",
@@ -737,7 +794,7 @@
       ],
       "publishedAt": "2026-11-24T13:26:40+00:00",
       "updatedAt": "2026-11-24T13:26:40+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -832,61 +889,6 @@
       "context": null
     },
     {
-      "id": "rss-71bc826d2f1824f92f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Corée du Nord expulse le chef du bureau diplomatique suisse, en cours de fermeture",
-      "bullets": [
-        "La Corée du Nord a expulsé le chef du bureau diplomatique suisse à Pyongyang, a rapporté l'agence officielle KCNA, mercredi 25 novembre.",
-        "La Suisse, un des rares pays occidentaux disposant d'une représentation en Corée du Nord, avait rouvert en octobre son bureau diplomatique fermé en 2020.",
-        "L'effet ne s'est pas fait attendre : \"Le ministère des Affaires étrangères de la République populaire démocratique de Corée a déclaré persona non grata le chef du bureau diplomatique suisse en RPDC et l'a exhorté à quitter le pays sous 48 heures\", a écrit l'agence KCNA."
-      ],
-      "publishedAt": "2026-11-25T08:05:03+00:00",
-      "updatedAt": "2026-11-25T08:05:03+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-expulse-le-chef-du-bureau-diplomatique-suisse-en-cours-de-fermeture_8298792.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "cc14786198debadd695ea1aff8101656b9662114695406000e25b9887c88edac",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T09:28:10.640051+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-ebe7893fc3d18ecf14",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ?",
-      "bullets": [
-        "Les invités de \"À suivre Loïc de la Mornais\" du mardi 24 novembre 2026 sont :Général Jean-Paul Paloméros, ancien chef d'état-major de l'armée de l'Air française.",
-        "Benoît Grémare, chercheur associé à l'Institut français d'analyse stratégique."
-      ],
-      "publishedAt": "2026-11-25T07:24:28+00:00",
-      "updatedAt": "2026-11-25T07:24:28+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-nucleaire-aura-t-elle-lieu-dans-l-espace_8298912.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "2622206f3c190a55ba56522f99050802d4315ba395047b0d27708920e8df5e8c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T07:39:27.767820+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a9f1e01e0feda4c14d",
       "revision": 1,
       "category": "france",
@@ -971,7 +973,7 @@
       ],
       "publishedAt": "2026-11-24T13:21:28+00:00",
       "updatedAt": "2026-11-24T13:21:28+00:00",
-      "importance": 72,
+      "importance": 71,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1098,8 +1100,8 @@
         "Contre l’avis du gouvernement et de la commission des finances, une partie de la droite et du centre droit a mêlé ses voix à celles de la gauche et de l’extrême droite pour s’opposer à la suppression totale de l’abattement fiscal dont bénéficient les retraités.",
         "Cet avantage sera seulement réduit…"
       ],
-      "publishedAt": "2026-11-25T11:28:11+00:00",
-      "updatedAt": "2026-11-25T11:28:11+00:00",
+      "publishedAt": "2026-11-25T11:28:09+00:00",
+      "updatedAt": "2026-11-25T11:28:09+00:00",
       "importance": 77,
       "sources": [
         {
@@ -1136,6 +1138,30 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "6d4d45ec8035a26d082a0ea38072dab55ac0d1b2db0e146384e41cd86c21e3bc",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7ac058052db9239ee6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "« Pourquoi, alors que les budgets de sécurité ne cessent de croître, la sécurité des femmes ne s’améliore-t-elle pas ? »",
+      "bullets": [
+        "Dans une tribune au « Monde », Sarah d’Anjou, experte des questions d’égalité, alerte sur la baisse des crédits alloués à la lutte contre les violences faites aux femmes et appelle à intégrer ce financement aux politiques de défense."
+      ],
+      "publishedAt": "2026-11-25T13:00:22+00:00",
+      "updatedAt": "2026-11-25T13:00:22+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/pourquoi-alors-que-les-budgets-de-securite-ne-cessent-de-croitre-la-securite-des-femmes-ne-s-ameliore-t-elle-pas_6815098_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2590f34dfb5de6051e5520dce64d3ed203f5dfffd9cb8c61789cb03380a0bea3",
       "detailLevel": "preview"
     },
     {
@@ -1219,6 +1245,31 @@
       "context": null
     },
     {
+      "id": "rss-bb74b0e6bd82b76d13",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+      "bullets": [
+        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
+        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
+      ],
+      "publishedAt": "2026-11-25T11:39:02+00:00",
+      "updatedAt": "2026-11-25T11:39:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c4cabc432d92fd6352",
       "revision": 1,
       "category": "france",
@@ -1241,55 +1292,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "298789bfafcc967306cb9857c555b4a4eef3b95b0162ead9a145cc99d7297357",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0911a1d151ef903a8b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
-      "bullets": [
-        "Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, des parents et du personnel, ainsi que sur les attentes de proviseurs."
-      ],
-      "publishedAt": "2026-11-25T04:45:07+00:00",
-      "updatedAt": "2026-11-25T04:45:07+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0c93562516722e9159",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
-      "bullets": [
-        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
-        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
-      ],
-      "publishedAt": "2026-11-24T23:20:22+00:00",
-      "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1303,7 +1305,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 6
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1327,7 +1329,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1351,13 +1353,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 5
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 16
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1369,7 +1371,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
