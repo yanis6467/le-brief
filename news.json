@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T18:02:06.005646+00:00",
+  "preparedAt": "2026-11-25T19:08:38.988497+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -182,6 +182,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f6437a82b46d9c818f",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+      "bullets": [
+        "La Coordination rurale va demander, mercredi 25 novembre, à Emmanuel Macron de refuser tout accord sur la politique agricole commune (PAC) qui ne permette pas aux \"agriculteurs de vivre de leur production\", indique sur franceinfo François Walraet, secrétaire général du syndicat agricole.",
+        "Face à cela, François Walraet demande au chef de l'État de refuser tout accord qui ne garantirait pas le maintien intégral du budget agricole, \"voire qui ne l'augmenterait pas\".\"Quand j'entends qu'on nous dit qu'il ne manquera pas un euro, j'entends aussi qu'il n'y aura pas un euro supplémentaire pour la PAC."
+      ],
+      "publishedAt": "2026-11-25T12:50:11+00:00",
+      "updatedAt": "2026-11-25T12:50:11+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "fdb61ea65ba3d8b261e70060e384b641063c387fd48607e59983a51f3e5552cc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T18:02:06.005646+00:00",
+      "context": null
+    },
+    {
       "id": "rss-4ed9cdd5af0aae14dd",
       "revision": 1,
       "category": "eco",
@@ -266,31 +293,6 @@
       "context": null
     },
     {
-      "id": "rss-06b87eec120853f8d7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
-      "bullets": [
-        "ANALYSE - Effondrement de la construction de logements neufs, marché de l’ancien en recul, baisse drastique des offres de location : tout le secteur est en crise.",
-        "Du jamais vu depuis la Seconde Guerre mondiale."
-      ],
-      "publishedAt": "2026-11-25T09:32:29+00:00",
-      "updatedAt": "2026-11-25T09:32:29+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/10-des-salaries-ont-refuse-un-emploi-faute-de-pouvoir-se-loger-les-francais-pieges-par-la-crise-du-logement-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "14a2a7a2e3c8aab7c41755550c89471c460f880889574335044fd9f4103f02b1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-275b50bca5386b8887",
       "revision": 1,
       "category": "eco",
@@ -342,7 +344,7 @@
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
@@ -356,8 +358,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T18:00:09+00:00",
-      "updatedAt": "2026-11-25T18:00:09+00:00",
+      "publishedAt": "2026-11-25T19:05:07+00:00",
+      "updatedAt": "2026-11-25T19:05:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -370,7 +372,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
@@ -594,7 +596,7 @@
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
@@ -622,31 +624,31 @@
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
-      "id": "rss-39c28df6b53fc40040",
+      "id": "rss-cead99383c2e6d233c",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Teddy Riner critique le déploiement de soldats français en Ukraine pour des missions non combattantes : « Ce n’est pas notre guerre »",
+      "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
       "bullets": [
-        "Le candidat à l’élection présidentielle fait référence au petit noyau de forces conventionnelles qui effectuent des rotations régulières en Ukraine pour de la formation et de la réparation de matériel."
+        "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre »."
       ],
-      "publishedAt": "2026-11-25T16:10:38+00:00",
-      "updatedAt": "2026-11-25T16:10:38+00:00",
+      "publishedAt": "2026-11-25T18:57:23+00:00",
+      "updatedAt": "2026-11-25T18:57:23+00:00",
       "importance": 85,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "b8e7d42d3326fe8882820697784081423389e5de2e1fd837721053cc736e6137",
+      "summaryInput": "7cadcb47e98aa7bb8850e1b48d28493f13a6f296a17b899d00dc2e3aadee1966",
       "detailLevel": "preview"
     },
     {
@@ -762,27 +764,28 @@
       "context": null
     },
     {
-      "id": "rss-5cefc82b32e7939488",
+      "id": "rss-f8f0293ba43ebbba76",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Dans son dernier train de sanctions, l’UE entend généraliser l’exclusion des athlètes russes des compétitions sportives organisées sur son territoire",
+      "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
       "bullets": [
-        "La Commission européenne a présenté lundi son nouveau paquet de sanctions contre la Russie, dans un contexte d’intensification de la guerre hybride entre les deux puissances."
+        "Le président de l’Assemblée nationale a été destitué mardi 24 novembre.",
+        "Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie."
       ],
-      "publishedAt": "2026-11-24T18:09:46+00:00",
-      "updatedAt": "2026-11-24T18:09:46+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-25T18:30:05+00:00",
+      "updatedAt": "2026-11-25T18:30:05+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/dans-son-dernier-train-de-sanctions-l-ue-entend-generaliser-l-exclusion-des-athletes-russes-des-competitions-sportives-organisees-sur-son-territoire-20261124",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
+      "summaryInput": "d4b5548818dab7dd3829a3431c80894243e34f3161b4824f1abc716b3c9dd424",
       "detailLevel": "preview"
     },
     {
@@ -838,54 +841,27 @@
       "context": null
     },
     {
-      "id": "rss-f6437a82b46d9c818f",
+      "id": "rss-5cefc82b32e7939488",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+      "title": "Dans son dernier train de sanctions, l’UE entend généraliser l’exclusion des athlètes russes des compétitions sportives organisées sur son territoire",
       "bullets": [
-        "La Coordination rurale va demander, mercredi 25 novembre, à Emmanuel Macron de refuser tout accord sur la politique agricole commune (PAC) qui ne permette pas aux \"agriculteurs de vivre de leur production\", indique sur franceinfo François Walraet, secrétaire général du syndicat agricole.",
-        "Face à cela, François Walraet demande au chef de l'État de refuser tout accord qui ne garantirait pas le maintien intégral du budget agricole, \"voire qui ne l'augmenterait pas\".\"Quand j'entends qu'on nous dit qu'il ne manquera pas un euro, j'entends aussi qu'il n'y aura pas un euro supplémentaire pour la PAC."
+        "La Commission européenne a présenté lundi son nouveau paquet de sanctions contre la Russie, dans un contexte d’intensification de la guerre hybride entre les deux puissances."
       ],
-      "publishedAt": "2026-11-25T12:50:11+00:00",
-      "updatedAt": "2026-11-25T12:50:11+00:00",
+      "publishedAt": "2026-11-24T18:09:46+00:00",
+      "updatedAt": "2026-11-24T18:09:46+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "fdb61ea65ba3d8b261e70060e384b641063c387fd48607e59983a51f3e5552cc",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T18:02:06.005646+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-72e02687b0944b4cc7",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Haut-Commissariat des Nations unies aux droits de l’homme alerte sur le risque de nouveaux « crimes atroces » commis par Israël contre les Palestiniens",
-      "bullets": [
-        "La poursuite des attaques, des politiques et des violations israéliennes à l’encontre des Palestiniens à Gaza et en Cisjordanie témoigne d’un « risque croissant de nouveaux crimes atroces » dans les deux territoires, estime le chef de l’organe onusien."
-      ],
-      "publishedAt": "2026-11-25T14:34:07+00:00",
-      "updatedAt": "2026-11-25T14:34:07+00:00",
-      "importance": 75,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-haut-commissariat-des-nations-unies-aux-droits-de-l-homme-alerte-sur-le-risque-de-nouveaux-crimes-atroces-commis-par-israel-contre-les-palestiniens_6815114_3210.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-son-dernier-train-de-sanctions-l-ue-entend-generaliser-l-exclusion-des-athletes-russes-des-competitions-sportives-organisees-sur-son-territoire-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "11d71453f5879bed721384cc0ad8604b486a6863b77c5426f32b29c2f19efabc",
+      "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
       "detailLevel": "preview"
     },
     {
@@ -941,16 +917,44 @@
       "context": null
     },
     {
-      "id": "rss-fe2dcf7e71c52361dd",
+      "id": "rss-38b4ff30fb0065b397",
       "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Un homme et son chien emportés par la mer aux États-Unis",
+      "bullets": [
+        "À suivre Loïc de la Mornais : le quart d'heure américain du mardi 24 novembre",
+        "Colombie : une prise d'otages prend fin après près de 17 heures de captivité",
+        "À 20 ans, Manolo est candidat à la présidentielle et tente de réunir les signatures des maires"
+      ],
+      "publishedAt": "2026-11-25T09:54:02+00:00",
+      "updatedAt": "2026-11-25T09:54:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/un-homme-et-son-chien-emportes-par-la-mer-aux-etats-unis_8299134.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "a3e91eb87080628f3593b2bf65763bf5e65187e3bd3f5c78e6c6e002c349612b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-fe2dcf7e71c52361dd",
+      "revision": 2,
       "category": "france",
       "topic": "Politique",
-      "title": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026, en hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+      "title": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026 ; une hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
       "bullets": [
         "L’agression d’un édile de la Vienne a relancé le débat lors des questions au gouvernement, mercredi. « S’il faut durcir les sanctions », elles le seront, a prévenu le ministre de l’intérieur."
       ],
-      "publishedAt": "2026-11-25T17:40:47+00:00",
-      "updatedAt": "2026-11-25T17:40:47+00:00",
+      "publishedAt": "2026-11-25T17:40:46+00:00",
+      "updatedAt": "2026-11-25T17:40:46+00:00",
       "importance": 85,
       "sources": [
         {
@@ -961,7 +965,7 @@
       ],
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
-      "summaryInput": "c439bc6651b310956c37b06b9cc8d975789a6073da5517699b0a852b015b532e",
+      "summaryInput": "cc66da22ed6cf22cb1e7924d6381946cc9d5a9f98ecbc23c3e86521579d18dfe",
       "detailLevel": "preview"
     },
     {
@@ -1139,7 +1143,7 @@
       "provenance": "article-extract",
       "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
@@ -1265,7 +1269,7 @@
       "provenance": "article-extract",
       "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T06:11:11.742777+00:00",
+      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
       "context": null
     },
     {
@@ -1401,7 +1405,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
@@ -1419,7 +1423,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
