@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-25",
-  "preparedAt": "2026-11-25T21:10:25.594225+00:00",
+  "preparedAt": "2026-11-25T22:10:11.084644+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -354,8 +354,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-25T21:05:34+00:00",
-      "updatedAt": "2026-11-25T21:05:34+00:00",
+      "publishedAt": "2026-11-25T22:06:32+00:00",
+      "updatedAt": "2026-11-25T22:06:32+00:00",
       "importance": 69,
       "sources": [
         {
@@ -468,7 +468,7 @@
       ],
       "publishedAt": "2026-11-25T09:22:38+00:00",
       "updatedAt": "2026-11-25T09:22:38+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -496,7 +496,7 @@
       ],
       "publishedAt": "2026-11-23T10:08:35+00:00",
       "updatedAt": "2026-11-23T10:08:35+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -670,6 +670,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-136b50436dbcc2cc71",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Je ne comprends pas qu'on envoie des troupes en Ukraine\", déclare Teddy Riner, candidat à la présidentielle",
+      "bullets": [
+        "Le candidat surprise à l’élection présidentielle a déclaré que le conflit russo-ukrainien n'était \"pas notre guerre\", mardi 25 novembre lors du Congrès des maires de France.",
+        "\"J'ai les os d'une femme de 60 ans\" : comment la biathlète Maya Cloetens vit avec le Red-s syndrome",
+        "José Mourinho : \"Si un joueur fait grève car on joue trop, on peut lui proposer de gagner 50% de moins\""
+      ],
+      "publishedAt": "2026-11-25T21:34:11+00:00",
+      "updatedAt": "2026-11-25T21:34:11+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/je-ne-comprends-pas-qu-on-envoie-des-troupes-en-ukraine-declare-teddy-riner-candidat-a-la-presidentielle_8300373.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "99ca9880d9e97a12501625e35aaf6bfc7f380593f7d656cadc13ab36894f10cb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T22:10:11.084644+00:00",
+      "context": null
     },
     {
       "id": "rss-cead99383c2e6d233c",
@@ -903,31 +931,6 @@
       "verifiedAt": "2026-11-25",
       "provenance": "rss-excerpt",
       "summaryInput": "c3b14a63e15d77d1e305a796e1f44428dcb6f7aed527873d543f6b6715802d5a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f8f0293ba43ebbba76",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
-      "bullets": [
-        "Le président de l’Assemblée nationale a été destitué mardi 24 novembre.",
-        "Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie."
-      ],
-      "publishedAt": "2026-11-25T18:30:05+00:00",
-      "updatedAt": "2026-11-25T18:30:05+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4b5548818dab7dd3829a3431c80894243e34f3161b4824f1abc716b3c9dd424",
       "detailLevel": "preview"
     },
     {
@@ -1182,34 +1185,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-56e9524935bde87c52",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
-      "bullets": [
-        "Le texte prévoit notamment de limiter la médecine esthétique à 30% du temps de travail des médecins.",
-        "\"Aucune donnée scientifique, épidémiologique ou de santé publique ne permet d'affirmer qu'un praticien consacrant 29% de son activité à l'esthétique offrirait davantage de garanties de sécurité qu'un confrère y consacrant une part plus importante\", a-t-il souligné début novembre dans une question écrite destinée à la ministre de la Santé.",
-        "Selon eux, les dermatologues consacrent en moyenne 3% de leur temps à la médecine esthétique, 58% d'entre eux ne la pratiquant pas du tout."
-      ],
-      "publishedAt": "2026-11-24T04:59:37+00:00",
-      "updatedAt": "2026-11-24T04:59:37+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-25",
-      "provenance": "article-extract",
-      "summaryInput": "816c9484880a2c16f1ef6053872d82b067b9a8aa353d88349709737707938044",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8d540eeffc353136ed",
       "revision": 1,
       "category": "france",
@@ -1334,6 +1309,34 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
       "context": null
+    },
+    {
+      "id": "rss-229544ef0747a5cde5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Ces dermatologues qui préfèrent le Botox",
+      "bullets": [
+        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
+        "Le gouvernement veut plafonner l’esthétique à 30 % de l'activité des dermatologues.",
+        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande"
+      ],
+      "publishedAt": "2026-11-25T16:00:02+00:00",
+      "updatedAt": "2026-11-25T16:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-25",
+      "provenance": "article-extract",
+      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T22:10:11.084644+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1371,7 +1374,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
