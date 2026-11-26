@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T07:38:08.103545+00:00",
+  "preparedAt": "2026-11-26T09:24:13.447808+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -55,6 +55,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bc870e46686f178c14",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La Chine menace de riposter face à l’annonce des nouveaux droits de douane américains",
+      "bullets": [
+        "La Chine a averti jeudi qu’elle se réservait le droit de prendre les « mesures nécessaires » en réponse aux nouveaux droits de douane annoncés par les États-Unis."
+      ],
+      "publishedAt": "2026-11-26T08:03:10+00:00",
+      "updatedAt": "2026-11-26T08:03:10+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-chine-menace-de-riposter-face-a-l-annonce-des-nouveaux-droits-de-douane-americains-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "269f35a520b68ade49684e36f782d167afc8f90e93ca6fd45534dc6404c57b31",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c8b603422edc933cc7",
       "revision": 1,
       "category": "eco",
@@ -77,33 +101,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "095ef6de608de0c4a676c3ade3265389a3b092b6941bc7c83f9452334155909b",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f717f61bae3368f201",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "UE, Chine, Mexique… L’administration Trump annonce de nouveaux droits de douane, Bruxelles «conteste fermement» leur bien-fondé",
-      "bullets": [
-        "Le gouvernement américain a annoncé ce mercredi 25 novembre une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont la Chine, l’Union européenne ou le Mexique, les accusant de soutenir leurs industries par des subventions qu’il juge illicites.",
-        "Ces droits de douane, qui pourraient atteindre 20 % dans le cas des produits provenant de Chine, n’entreront en vigueur que dans un mois, la période permettant au public et aux entreprises de faire des observations écrites sur ces propositions."
-      ],
-      "publishedAt": "2026-11-25T15:18:24+00:00",
-      "updatedAt": "2026-11-25T15:18:24+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/union-europeenne-chine-mexique-washington-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-20261125",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "2b7d1ff85b0aca2bc294dc3fbba493956871188bc6d8fdee99e12e4085103b26",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T04:18:45.994377+00:00",
-      "context": null
     },
     {
       "id": "rss-3341137df7dad010fe",
@@ -154,36 +151,63 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8ab353a14f7874ddb2",
+      "id": "rss-2cb40ee1fee21e3163",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Présidentielle 2027 : la lutte contre la fraude sociale et fiscale, cette promesse d’argent facile qui se heurte à la réalité",
+      "title": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
       "bullets": [
-        "Plusieurs candidats à la présidentielle promettent d’obtenir plusieurs milliards d’euros en renforçant la lutte contre les fraudes sociales et fiscales.",
-        "Mais ces ambitions se heurtent à des difficultés structurelles d’identification et de recouvrement."
+        "Députés et sénateurs ont échoué ce jeudi à s'entendre sur le projet de budget de la Sécurité sociale pour 2027, renvoyant ainsi le texte en nouvelle lecture à l'Assemblée nationale, ont déclaré à l'AFP plusieurs sources parlementaires.",
+        "Sept députés et sept sénateurs s’étaient réunis, jeudi matin, en commission mixte paritaire (CMP) pour tenter de trouver un compromis sur ce texte, dont le gouvernement souhaite qu’il permette de réduire drastiquement le déficit de la Sécurité sociale.",
+        "Son arrivée dans l’hémicycle serait ensuite fixée à la semaine du 7 décembre."
       ],
-      "publishedAt": "2026-11-26T06:47:34+00:00",
-      "updatedAt": "2026-11-26T06:47:34+00:00",
+      "publishedAt": "2026-11-26T09:16:55+00:00",
+      "updatedAt": "2026-11-26T09:16:55+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/presidentielle-2027-la-lutte-contre-la-fraude-sociale-et-fiscale-cette-promesse-d-argent-facile-qui-se-heurte-a-la-realite-20261125",
+          "url": "https://www.lefigaro.fr/social/budget-de-la-securite-sociale-2027-deputes-et-senateurs-echouent-a-trouver-un-accord-20261126",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "b290fc0111f8b5fa59f6a8543f893b6b162b6dc0b60268eab0bda5dfb2bbadc8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-6dc3b882e6c407c64b",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Le statu quo n’est plus possible» : le plan des sénateurs LR pour transformer France Télévisions et Radio France",
+      "bullets": [
+        "Lancé en pleine commission d’enquête de l’Assemblée nationale, dont ils ont pris le contre-pied, ce groupe de travail s’est penché sur l’avenir de l’audiovisuel public et fait de nouvelles propositions."
+      ],
+      "publishedAt": "2026-11-26T08:24:23+00:00",
+      "updatedAt": "2026-11-26T08:24:23+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/medias/le-statu-quo-n-est-plus-possible-le-plan-des-senateurs-lr-pour-transformer-france-televisions-et-radio-france-20261126",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "eda4c0f46466d1eb108a38d179cc5078b61a60157de2e624178f79d08bc7aaa5",
+      "summaryInput": "06fafa49bb818a60bed20af17485fee66a9f587b90d2330c22084c8054c91bc2",
       "detailLevel": "preview"
     },
     {
       "id": "rss-2f81bc438eb31da2f3",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Les « millionnaires patriotes », ces riches qui veulent payer des impôts, se lancent en France",
+      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
       "bullets": [
         "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
         "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
@@ -200,7 +224,7 @@
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "2366405dd5c21b6cdf7fdb5d3c4b59bba5a6f6655b294c9f03aea00d75ff7b6d",
+      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
       "detailLevel": "preview"
     },
     {
@@ -253,60 +277,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4c733494abd679816c",
+      "id": "rss-4f2e2b0a01cf60bdb8",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Apprentissage : les fraudes et les abus pourraient coûter 3 milliards d'euros selon la Cour des comptes",
+      "title": "Sortie du nucléaire, blocage des prix : Terra Nova alerte sur le volet énergétique du programme de LFI",
       "bullets": [
-        "Pourtant, bien loin des spots promotionnels, une jeune femme de 22 ans n'a pas un bon souvenir de son apprentissage.",
-        "Je devais réaliser environ 2 000 euros de devis par jour.",
-        "Mais la Cour des comptes pointe mercredi 25 novembre des fraudes et des abus, estimés entre 1,5 et 3 milliards d'euros."
+        "Le parti de Jean-Luc Mélenchon veut fermer les centrales nucléaires françaises et faire «de l’océan la première source d’énergie renouvelable propre».",
+        "Sans chiffrer les conséquences de ces choix, ni prendre en compte les retours d’expérience."
       ],
-      "publishedAt": "2026-11-25T19:44:37+00:00",
-      "updatedAt": "2026-11-25T19:44:37+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-26T04:00:00+00:00",
+      "updatedAt": "2026-11-26T04:00:00+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/apprentissage-les-fraudes-et-les-abus-pourraient-couter-3-milliards-d-euros-selon-la-cour-des-comptes_8300244.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/societes/sortie-du-nucleaire-blocage-des-prix-terra-nova-alerte-sur-le-volet-energetique-du-programme-de-lfi-20261126",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "0200cf056a9383c5b0794f1f4b67c96a8eef540fe8be12156ac8b720e8e55e6c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-4c01a428e4559179a9",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La banque indépendante Delubac placée sous le contrôle du gendarme du secteur bancaire",
-      "bullets": [
-        "Cyberattaque et amendeLa banque a annoncé lundi avoir été la cible d'une \"intrusion informatique\", qui a entraîné une \"fuite de données\" d'une partie de la clientèle.",
-        "En juin 2025, l'ACPR avait adressé une amende de 600 000 euros à Delubac car son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme présentait des \"insuffisances\".",
-        "La banque avait aussi lancé plus tôt dans l'année un plan social visant à supprimer 55 emplois, soit plus de 12% de ses effectifs."
-      ],
-      "publishedAt": "2026-11-25T17:01:43+00:00",
-      "updatedAt": "2026-11-25T17:01:43+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/la-banque-independante-delubac-placee-sous-le-controle-du-gendarme-du-secteur-bancaire_8299923.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "4071d4be855636dabc5bd1e628edf626576e7cc3d1c5748035f6ad44cf3299d5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "86eca3de072aa065a7d90f6678b593722d8de19fc522d93404d2e173d075ad8d",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-8807b484bedc9ddb20",
@@ -347,8 +340,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T07:36:07+00:00",
-      "updatedAt": "2026-11-26T07:36:07+00:00",
+      "publishedAt": "2026-11-26T09:21:57+00:00",
+      "updatedAt": "2026-11-26T09:21:57+00:00",
       "importance": 69,
       "sources": [
         {
@@ -393,32 +386,28 @@
       "context": null
     },
     {
-      "id": "rss-9b02982bda6274d302",
+      "id": "rss-6ba744a930b27d5999",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Une pause de Thanksgiving bienvenue dans un marché échevelé",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +1.48%",
       "bullets": [
-        "L'indice phare de la Bourse de Paris, le CAC 40, a vivement reflué mercredi, en perdant 0,75% à 7 980 points, en clôturant sur les points bas de séance, sous le seuil symbolique des 8 000 points.",
-        "L'administration américaine a annoncé de nouveaux droits de douane visant 14 partenaires commerciaux, dont la Chine, l'Union européenne, le Japon et l'Inde.",
-        "Hors CAC 40, Rémy Cointreau a pris 13,1% après avoir relevé ses objectifs et livré de nouvelles ambitions de moyen terme."
+        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-148-1174457.html"
       ],
-      "publishedAt": "2026-11-26T07:31:47+00:00",
-      "updatedAt": "2026-11-26T07:31:47+00:00",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "updatedAt": "2026-11-26T08:00:00+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-une-pause-de-thanksgiving-bienvenue-dans-un-marche-echevele-1174449.html",
-          "access": "public"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-148-1174457.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "379aea81f75d5a724769cc5276cf6a725fa8311ca3d9161a14920aff5f3743e5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0524bb02e7a86ce220f4515e7bb8c58686994afc8ab746f921840082f4f72bea",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-6e4f45d5a84fc1e2ed",
@@ -449,34 +438,6 @@
       "context": null
     },
     {
-      "id": "rss-d0a676a5703db6c094",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "BUREAU VERITAS : Un groupe du CAC 40 bientôt racheté par un grand fonds américain? Le pro de la certification Bureau Veritas bondit de 6,6% à la Bourse de Paris, suscitant apparemment l'appétit d'Advent",
-      "bullets": [
-        "Fondé en 1984 à Boston, Advent affiche 109 milliards de dollars d'actifs sous gestion et a notamment racheté en 2022 les cagnottes en ligne françaises Leetchi.",
-        "Le titre se traite actuellement à 13,3 fois le ratio de résultat brut d'exploitation (Ebitda) sur valeur d'entreprise de 2027 contre 18 fois pour son rival suisse Intertek, et 17 fois pour le laboratoire Eurofins.",
-        "L'entité combinée aurait affiché des revenus combinés d'environ 13 milliards d'euros (sur la base des résultats 2023) et une capitalisation boursière d'environ 31 milliards d'euros."
-      ],
-      "publishedAt": "2026-11-25T09:22:38+00:00",
-      "updatedAt": "2026-11-25T09:22:38+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/bureau-veritas-FR0006174348/actualites/bureau-veritas-un-groupe-du-cac-40-bientot-rachete-par-un-grand-fonds-americain-le-pro-de-la-certification-bureau-veritas-bondit-de-66-a-la-bourse-de-paris-suscitant-apparemment-l-appetit-d-advent-1174396.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "3ca8643ff0792373e7df2b9e46c775786d4a907f2a2b433648c6fd7e5cd247dd",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T23:59:18.240939+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9b1203452505b65334",
       "revision": 1,
       "category": "markets",
@@ -502,6 +463,34 @@
       "summaryInput": "1d96257b04fd059949019314dc0d7082c0706470ec7da55a5868df5edd464314",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T03:10:01.918926+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d0a676a5703db6c094",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "BUREAU VERITAS : Un groupe du CAC 40 bientôt racheté par un grand fonds américain? Le pro de la certification Bureau Veritas bondit de 6,6% à la Bourse de Paris, suscitant apparemment l'appétit d'Advent",
+      "bullets": [
+        "Fondé en 1984 à Boston, Advent affiche 109 milliards de dollars d'actifs sous gestion et a notamment racheté en 2022 les cagnottes en ligne françaises Leetchi.",
+        "Le titre se traite actuellement à 13,3 fois le ratio de résultat brut d'exploitation (Ebitda) sur valeur d'entreprise de 2027 contre 18 fois pour son rival suisse Intertek, et 17 fois pour le laboratoire Eurofins.",
+        "L'entité combinée aurait affiché des revenus combinés d'environ 13 milliards d'euros (sur la base des résultats 2023) et une capitalisation boursière d'environ 31 milliards d'euros."
+      ],
+      "publishedAt": "2026-11-25T09:22:38+00:00",
+      "updatedAt": "2026-11-25T09:22:38+00:00",
+      "importance": 61,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/bureau-veritas-FR0006174348/actualites/bureau-veritas-un-groupe-du-cac-40-bientot-rachete-par-un-grand-fonds-americain-le-pro-de-la-certification-bureau-veritas-bondit-de-66-a-la-bourse-de-paris-suscitant-apparemment-l-appetit-d-advent-1174396.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "3ca8643ff0792373e7df2b9e46c775786d4a907f2a2b433648c6fd7e5cd247dd",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T23:59:18.240939+00:00",
       "context": null
     },
     {
@@ -645,58 +634,6 @@
       "context": null
     },
     {
-      "id": "rss-136b50436dbcc2cc71",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "\"Je ne comprends pas qu'on envoie des troupes en Ukraine\", déclare Teddy Riner, candidat à la présidentielle",
-      "bullets": [
-        "Le candidat surprise à l’élection présidentielle a déclaré que le conflit russo-ukrainien n'était \"pas notre guerre\", mardi 25 novembre lors du Congrès des maires de France.",
-        "\"J'ai les os d'une femme de 60 ans\" : comment la biathlète Maya Cloetens vit avec le Red-s syndrome",
-        "José Mourinho : \"Si un joueur fait grève car on joue trop, on peut lui proposer de gagner 50% de moins\""
-      ],
-      "publishedAt": "2026-11-25T21:34:11+00:00",
-      "updatedAt": "2026-11-25T21:34:11+00:00",
-      "importance": 85,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/je-ne-comprends-pas-qu-on-envoie-des-troupes-en-ukraine-declare-teddy-riner-candidat-a-la-presidentielle_8300373.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "99ca9880d9e97a12501625e35aaf6bfc7f380593f7d656cadc13ab36894f10cb",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T22:10:11.084644+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-cead99383c2e6d233c",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
-      "bullets": [
-        "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre »."
-      ],
-      "publishedAt": "2026-11-25T18:57:23+00:00",
-      "updatedAt": "2026-11-25T18:57:23+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7cadcb47e98aa7bb8850e1b48d28493f13a6f296a17b899d00dc2e3aadee1966",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-2f3c70e141b428a075",
       "revision": 1,
       "category": "world",
@@ -749,46 +686,18 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-48d573c225370f99f3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L'Iran accuse Israël de chercher à tromper les Etats-Unis en affirmant que Téhéran développe des armes chimiques",
-      "bullets": [
-        "Le ton monte entre Téhéran et l'Etat hébreu.",
-        "Le camp du Premier ministre sortant, Benyamin Nétanyahou, agite régulièrement la menace iranienne, ses opposants l'accusant d'instrumentaliser le conflit pour se maintenir au pouvoir à l'issue d'élections qui n'ont pas dégagé de majorité claire.",
-        "Un allié du centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a de son côté estimé mercredi que \"rien ne justifiait\" d'attaquer l'Iran dans l'immédiat."
-      ],
-      "publishedAt": "2026-11-25T20:53:00+00:00",
-      "updatedAt": "2026-11-25T20:53:00+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-accuse-israel-de-chercher-a-tromper-les-etats-unis-en-affirmant-que-teheran-developpe-des-armes-chimiques_8300259.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "77f8a8c6c15c5ed6529c12a1672e5b5e8e441f5488b4b41e7c998d49b84aff03",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T21:10:25.594225+00:00",
-      "context": null
-    },
-    {
       "id": "rss-9c071bd90edf78325a",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "La nomination d’un Russe dans les instances dirigeantes de l’AIEA scandalise l’Ukraine",
       "bullets": [
-        "Rafael Grossi, à la tête de l’Agence internationale de l’énergie atomique, a choisi Oleksii Ferapontov comme directeur adjoint.",
+        "Rafael Grossi, à la tête de l’Agence internationale de l’énergie atomique, a choisi Alexeï Ferapontov comme directeur adjoint.",
         "Un homme sous sanctions ukrainiennes, accusé par Kiev d’être complice de l’occupation militaire de la centrale nucléaire de Zaporijia par l’armée russe depuis mars 2022."
       ],
-      "publishedAt": "2026-11-25T20:11:38+00:00",
-      "updatedAt": "2026-11-25T20:11:38+00:00",
-      "importance": 79,
+      "publishedAt": "2026-11-25T20:11:37+00:00",
+      "updatedAt": "2026-11-25T20:11:37+00:00",
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -798,31 +707,31 @@
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "8a9284e876d07ce586f433d06a3f35ba7e1847d5d492e9fec02c04e154e2b278",
+      "summaryInput": "bcaa8ce6522623e6b6476ff3ab09541891d04a719a5bbe61b4ed03e91155cf63",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2a072e173af7ce3201",
+      "id": "rss-35f2eefd6f6a1f6f81",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Budget de l’UE : les exigences de l’Allemagne, chef de file des « frugaux » et premier contributeur net",
+      "title": "Au Royaume-Uni, le procès de Russell Brand et un autre semblable à l’affaire Pelicot ouvrent un débat national sur le consentement",
       "bullets": [
-        "RÉCIT - Première économie européenne, Berlin compte peser de tout son poids lors des négociations relatives au budget de l’UE, lors du sommet extraordinaire du Conseil européen qui se tient à compter de ce jeudi."
+        "Dans une tribune publiée mardi dans le quotidien « The Guardian », le premier ministre travailliste Andy Burnham affirme vouloir réfléchir à une réforme de l’âge du consentement."
       ],
-      "publishedAt": "2026-11-25T20:30:00+00:00",
-      "updatedAt": "2026-11-25T20:30:00+00:00",
+      "publishedAt": "2026-11-26T08:49:33+00:00",
+      "updatedAt": "2026-11-26T08:49:33+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/budget-de-l-ue-les-exigences-de-l-allemagne-chef-de-file-des-frugaux-et-premier-contributeur-net-20261125",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/au-royaume-uni-le-proces-de-russell-brand-et-un-autre-semblable-a-l-affaire-pelicot-ouvrent-un-debat-national-sur-le-consentement_6815497_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "6827411574940fb632241bb415d411d275a18af2022bf3e3bdd1945b740e9cb4",
+      "summaryInput": "3e4a7d1ca5e58ac809e1d3a087dc8287f9e25d766d80caada018a0b034060709",
       "detailLevel": "preview"
     },
     {
@@ -834,8 +743,8 @@
       "bullets": [
         "DÉCRYPTAGE - Les tensions autour des contributions nationales et le choix des priorités communes divisent les pays européens, réunis pour un sommet extraordinaire à Bruxelles."
       ],
-      "publishedAt": "2026-11-25T19:45:00+00:00",
-      "updatedAt": "2026-11-25T19:45:00+00:00",
+      "publishedAt": "2026-11-26T08:49:23+00:00",
+      "updatedAt": "2026-11-26T08:49:23+00:00",
       "importance": 77,
       "sources": [
         {
@@ -850,53 +759,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-de575933df487e63fd",
-      "revision": 1,
+      "id": "rss-2a072e173af7ce3201",
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Madagascar : Marco Tsaradia élu président de l’Assemblée nationale, après la destitution de Siteny Randrianasoloniaiko, accusé d’abus de pouvoir",
+      "title": "Budget de l’UE : les exigences de l’Allemagne, chef de file des « frugaux » et premier contributeur net",
       "bullets": [
-        "M.",
-        "Randrianasoloniaiko est régulièrement présenté comme l’un des artisans du rapprochement de Madagascar avec la Russie depuis l’arrivée au pouvoir du colonel Michaël Randrianirina, en octobre 2025."
+        "RÉCIT - Première économie européenne, l’Allemagne compte peser de tout son poids sur les négociations relatives au budget de l’UE lors du sommet extraordinaire du Conseil européen qui se tient à compter de ce jeudi."
       ],
-      "publishedAt": "2026-11-25T19:32:42+00:00",
-      "updatedAt": "2026-11-25T19:32:42+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-26T08:40:52+00:00",
+      "updatedAt": "2026-11-26T08:40:52+00:00",
+      "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/madagascar-marco-tsaradia-elu-president-de-l-assemblee-nationale-apres-la-destitution-de-siteny-randrianasoloniaiko-accuse-d-abus-de-pouvoir_6815172_3212.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/budget-de-l-ue-les-exigences-de-l-allemagne-chef-de-file-des-frugaux-et-premier-contributeur-net-20261125",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "c3b14a63e15d77d1e305a796e1f44428dcb6f7aed527873d543f6b6715802d5a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f8f0293ba43ebbba76",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
-      "bullets": [
-        "Le président de l’Assemblée nationale a été destitué mardi 24 novembre.",
-        "Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie."
-      ],
-      "publishedAt": "2026-11-25T18:30:05+00:00",
-      "updatedAt": "2026-11-25T18:30:05+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4b5548818dab7dd3829a3431c80894243e34f3161b4824f1abc716b3c9dd424",
+      "summaryInput": "e3554afb090601d49aeed9c17644fd9a71a4d5921f02c036f22516cf6b271ff1",
       "detailLevel": "preview"
     },
     {
@@ -924,27 +807,140 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-fe2dcf7e71c52361dd",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026 ; une hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+      "id": "rss-3f0fdb9bd91e6a70c3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice",
       "bullets": [
-        "L’agression d’un édile de la Vienne a relancé le débat lors des questions au gouvernement, mercredi. « S’il faut durcir les sanctions », elles le seront, a prévenu le ministre de l’intérieur."
+        "Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010.",
+        "400 lycéens exclus, argent français en Ukraine et discrimination (ou pas) au Danemark : ça dit quoi ce 26 novembre ?",
+        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande"
       ],
-      "publishedAt": "2026-11-25T17:40:46+00:00",
-      "updatedAt": "2026-11-25T17:40:46+00:00",
-      "importance": 84,
+      "publishedAt": "2026-11-26T08:04:35+00:00",
+      "updatedAt": "2026-11-26T08:04:35+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/25/violences-sur-des-elus-plus-de-3-100-faits-comptabilises-depuis-le-debut-2026-en-hausse-de-25-par-rapport-a-2025-annonce-laurent-nunez_6815158_3224.html",
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-propagandiste-et-recruteuse-de-l-etat-islamique-devant-la-justice_8300964.html",
+          "access": "public"
+        },
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-egerie-de-l-etat-islamique-devant-la-justice_8300913.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "0cb1defde7132329ac59242a019d8532cb00d27043a33480ed07d540f63651ad",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-2c559e00ba6e6929f2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
+      "bullets": [
+        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
+      ],
+      "publishedAt": "2026-11-24T13:26:40+00:00",
+      "updatedAt": "2026-11-24T13:26:40+00:00",
+      "importance": 70,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "cc66da22ed6cf22cb1e7924d6381946cc9d5a9f98ecbc23c3e86521579d18dfe",
+      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-464b50b4acd020503b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "\"Inacceptables\", \"regrettables\", \"prétexte à la manipulation politique\"... Les pays visés s'indignent face aux nouveaux droits de douane américains",
+      "bullets": [
+        "L'annonce par le gouvernement américain d'une nouvelle série de droits de douane soulève l'indignation des principaux partenaires commerciaux des Etats-Unis, jeudi 26 novembre.",
+        "Ces droits de douane, qui pourraient atteindre 20% dans le cas des produits provenant de Chine, n'entreront en vigueur que dans un mois, le délai permettant au public et aux entreprises de faire des observations écrites sur ces propositions.",
+        "Parmi les pays visés figurent aussi l'Inde, la Suisse, la Corée du Sud, la plupart des pays d'Asie du Sud-Est et le Bangladesh."
+      ],
+      "publishedAt": "2026-11-26T05:39:33+00:00",
+      "updatedAt": "2026-11-26T05:39:33+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/inacceptables-regrettables-pretexte-a-la-manipulation-politique-les-pays-vises-s-indignent-face-aux-nouveaux-droits-de-douane-americains_8300712.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "8c6ff7c65c867d4c8fc1d5ea40e662fd1f811eccacb65abb02dc4589236d80fc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-389fa3d7db79adc124",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Donald Trump et le secrétaire général de l'Otan, Mark Rutte, exhortent la Russie à ne pas \"étendre la guerre\" avec l'Ukraine",
+      "bullets": [
+        "Donald Trump et le chef de l'Otan, Mark Rutte, se sont rencontrés dans la résidence du président américain en Floride, mercredi 25 novembre.",
+        "A cette occasion, ils ont appelé la Russie à ne pas \"étendre la guerre\" en Ukraine, dans une déclaration conjointe.",
+        "Cette rencontre est intervenue quelques jours après que Mark Rutte s'est engagé à défendre la Pologne, membre de l'Otan, après la chute de missiles russes sur son territoire."
+      ],
+      "publishedAt": "2026-11-26T08:29:36+00:00",
+      "updatedAt": "2026-11-26T08:29:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "1e9319afcb735f186a37f818cb0772d52311bac78fab12f49d5208b50091eb8f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-cead99383c2e6d233c",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+      "bullets": [
+        "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre »."
+      ],
+      "publishedAt": "2026-11-25T18:57:23+00:00",
+      "updatedAt": "2026-11-25T18:57:23+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7cadcb47e98aa7bb8850e1b48d28493f13a6f296a17b899d00dc2e3aadee1966",
       "detailLevel": "preview"
     },
     {
@@ -1026,10 +1022,10 @@
     },
     {
       "id": "rss-4ab39f0f56cf9c616e",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Justice",
-      "title": "Emilie König, \"égérie\" de l'Etat islamique, devant la justice",
+      "title": "Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice",
       "bullets": [
         "Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010.",
         "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande",
@@ -1047,60 +1043,82 @@
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "article-extract",
-      "summaryInput": "d7941c4ef6fd66b2a2c56002069d53c65e5a3feda28b47f886ee434388e30387",
+      "summaryInput": "0cb1defde7132329ac59242a019d8532cb00d27043a33480ed07d540f63651ad",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
       "context": null
     },
     {
-      "id": "rss-d65769d50f65f312aa",
+      "id": "rss-af681c0f50302c88ea",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "\"La ressource n'est pas inépuisable\", alerte le syndicat de police Un1té police avant les rassemblements de policiers",
+      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
       "bullets": [
-        "\"La ressource n'est pas inépuisable et la ressource est clairement en train d'être épuisée\", alerte jeudi 26 novembre sur franceinfo Grégory Joron, secrétaire général du syndicat Un1té police, alors qu'une intersyndicale de la police nationale appelle à des rassemblements jeudi midi \"devant tous les commissariats de France\".",
-        "La profession milite pour qu'elle passe de 28,5% à 35%, dénonçant un métier \"extrêmement difficile\"."
+        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
+        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
       ],
-      "publishedAt": "2026-11-26T06:43:36+00:00",
-      "updatedAt": "2026-11-26T06:43:36+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-24T17:30:00+00:00",
+      "updatedAt": "2026-11-24T17:30:00+00:00",
+      "importance": 64,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestation-des-policiers/la-ressource-n-est-pas-inepuisable-alerte-le-syndicat-de-police-un1te-police-avant-les-rassemblements-de-policiers_8300868.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "97291170df9f2c00920ee57b1435abe9ba43d824fc2e9afa2f991d2b18262803",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-9a7ad30235a1860992",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Au Festival des 3 continents, à Nantes, Lê Bao, jeune pousse du cinéma vietnamien, enchante avec son univers délicatement fêlé",
-      "bullets": [
-        "Le deuxième long-métrage du réalisateur, « Hearing », est en compétition dans le cadre de la 48e édition, qui a lieu jusqu’au 28 novembre."
-      ],
-      "publishedAt": "2026-11-26T07:00:07+00:00",
-      "updatedAt": "2026-11-26T07:00:07+00:00",
-      "importance": 47,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/26/au-festival-des-3-continents-a-nantes-le-bao-jeune-pousse-du-cinema-vietnamien-enchante-avec-son-univers-delicatement-fele_6815490_3246.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "2746ebe2d614123f715d8421bd500abd8830a232f6314e11763f87182c977dcb",
+      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-204252d4dd0848c718",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "A Rome, un « Soleil noir » fait rayonner les mirages du pétrole sur la Villa Médicis",
+      "bullets": [
+        "Une exposition présente les œuvres d’une quarantaine d’artistes qui explorent la fascination comme la répulsion inspirées par l’or noir."
+      ],
+      "publishedAt": "2026-11-26T08:02:54+00:00",
+      "updatedAt": "2026-11-26T08:02:54+00:00",
+      "importance": 55,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/26/a-rome-un-soleil-noir-fait-rayonner-les-mirages-du-petrole-sur-la-villa-medicis_6815493_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "886794b522601c0d7114bbe852074c21e2c988e20f5e165a271ea3a52766d8ce",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-fe2dcf7e71c52361dd",
+      "revision": 2,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026 ; une hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+      "bullets": [
+        "L’agression d’un édile de la Vienne a relancé le débat lors des questions au gouvernement, mercredi. « S’il faut durcir les sanctions », elles le seront, a prévenu le ministre de l’intérieur."
+      ],
+      "publishedAt": "2026-11-25T17:40:46+00:00",
+      "updatedAt": "2026-11-25T17:40:46+00:00",
+      "importance": 84,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/violences-sur-des-elus-plus-de-3-100-faits-comptabilises-depuis-le-debut-2026-en-hausse-de-25-par-rapport-a-2025-annonce-laurent-nunez_6815158_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cc66da22ed6cf22cb1e7924d6381946cc9d5a9f98ecbc23c3e86521579d18dfe",
       "detailLevel": "preview"
     },
     {
@@ -1166,7 +1184,7 @@
       ],
       "publishedAt": "2026-11-24T09:00:04+00:00",
       "updatedAt": "2026-11-24T09:00:04+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1189,8 +1207,8 @@
         "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
         "Il est aujourd’hui visé par un mandat d’arrêt européen."
       ],
-      "publishedAt": "2026-11-26T05:00:33+00:00",
-      "updatedAt": "2026-11-26T05:00:33+00:00",
+      "publishedAt": "2026-11-26T05:00:19+00:00",
+      "updatedAt": "2026-11-26T05:00:19+00:00",
       "importance": 67,
       "sources": [
         {
@@ -1202,31 +1220,6 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8d540eeffc353136ed",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Ce que l’on sait des fuites d’informations confidentielles vers le Rassemblement national",
-      "bullets": [
-        "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national.",
-        "Une enquête pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits a été ouverte."
-      ],
-      "publishedAt": "2026-11-25T17:30:09+00:00",
-      "updatedAt": "2026-11-25T17:30:09+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/videos/video/2026/11/25/ce-que-l-on-sait-des-fuites-d-informations-confidentielles-vers-le-rassemblement-national_6815155_1669088.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7682c79459de028e10e57e223f1495494c81ac6d1acf4abf9960d22f7e4a0e72",
       "detailLevel": "preview"
     },
     {
@@ -1255,6 +1248,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-588932b7a635a34632",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Les ultramarins peinent toujours à accéder aux postes à responsabilité de la fonction publique",
+      "bullets": [
+        "« L’accès des ultramarins à l’encadrement intermédiaire de l’Etat en outre-Mer se heurte à des obstacles structurels », regrette le député Jiovanny William (apparenté au groupe socialiste), dans un rapport annexé au budget 2027."
+      ],
+      "publishedAt": "2026-11-26T09:00:11+00:00",
+      "updatedAt": "2026-11-26T09:00:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/les-ultramarins-peinent-toujours-a-acceder-aux-postes-a-responsabilite-de-la-fonction-publique_6815504_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f07bd4612ecb2c3ccd79253b188f0cb6af6484412042399c5b3babf69cb543fa",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c4cabc432d92fd6352",
       "revision": 1,
       "category": "france",
@@ -1265,7 +1282,7 @@
       ],
       "publishedAt": "2026-11-25T07:55:20+00:00",
       "updatedAt": "2026-11-25T07:55:20+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1301,34 +1318,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-40f06a6c9801e81e0f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "\"Cela fait 20 ans qu’on nous ponctionne et la dette s’aggrave !\", s'indigne une maire",
-      "bullets": [
-        "Le pape François raconte avoir vu le diable 3 fois dans sa vie",
-        "Colombie : une prise d'otages prend fin après près de 17 heures de captivité",
-        "\"J'ai les os d'une femme de 60 ans\" : comment la biathlète Maya Cloetens vit avec le Red-s syndrome"
-      ],
-      "publishedAt": "2026-11-25T17:30:02+00:00",
-      "updatedAt": "2026-11-25T17:30:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/cela-fait-20-ans-qu-on-nous-ponctionne-et-la-dette-s-aggrave-s-indigne-une-maire_8299926.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "deaf34094129d465d932b92c904ecbce066e9549a88e21c3162c13ce6235b240",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1342,7 +1331,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1366,7 +1355,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 14
     },
     {
       "publisher": "Franceinfo",
@@ -1390,13 +1379,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 12
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1420,7 +1409,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1432,7 +1421,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
