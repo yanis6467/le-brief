@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T12:14:41.815947+00:00",
+  "preparedAt": "2026-11-26T13:40:24.596434+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,30 +35,6 @@
       "context": null
     },
     {
-      "id": "rss-42394b2aa0859478b4",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Droits de douane : l’UE « conteste fermement » le bien-fondé des nouvelles sanctions américaines",
-      "bullets": [
-        "L’administration Trump a annoncé, mercredi, une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont l’UE, les accusant de soutenir leurs industries par des subventions qu’il juge illicites."
-      ],
-      "publishedAt": "2026-11-25T15:20:37+00:00",
-      "updatedAt": "2026-11-25T15:20:37+00:00",
-      "importance": 88,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/droits-de-douane-l-ue-conteste-fermement-le-bien-fonde-des-nouvelles-sanctions-americaines_6815121_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "65ac728a6c3fb1d348ca37efba93fe3bc293bbd927b6c57787fe6bc42a94e697",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e4ea1ec50b4f099775",
       "revision": 1,
       "category": "eco",
@@ -80,6 +56,31 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-49d29783a6c09714d3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+      "bullets": [
+        "Entre 2000 et 2023, le PIB insulaire a augmenté de 2,4 % par an, soit deux fois plus vite qu’en France hexagonale, notamment grâce à 2 milliards d’euros d’investissements publics.",
+        "Le secteur touristique, stratégique, présente pour sa part des fragilités."
+      ],
+      "publishedAt": "2026-11-26T12:49:04+00:00",
+      "updatedAt": "2026-11-26T12:49:04+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/corse-le-tourisme-reste-une-locomotive-de-la-croissance-malgre-des-resultats-contrastes_6815532_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fd0a2ef67b6de7357ebe7011797c3773e9e20ad35e79062dc0ac3c87caa39619",
       "detailLevel": "preview"
     },
     {
@@ -159,6 +160,31 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "06fafa49bb818a60bed20af17485fee66a9f587b90d2330c22084c8054c91bc2",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2f81bc438eb31da2f3",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
+      "bullets": [
+        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
+        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
+      ],
+      "publishedAt": "2026-11-26T05:55:01+00:00",
+      "updatedAt": "2026-11-26T05:55:01+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
       "detailLevel": "preview"
     },
     {
@@ -299,30 +325,6 @@
       "context": null
     },
     {
-      "id": "rss-8724dd1b720c8c3a12",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La saison de ski s’ouvre en pleine incertitude : « Avec la conjoncture économique, les Français veulent encore plus qu’avant avoir l’assurance de la neige »",
-      "bullets": [
-        "Les premières chutes de neige ont rassuré les professionnels, mais ces derniers doivent composer avec des Français plus attentifs à leur budget, des réservations tardives et un modèle économique fragilisé par le réchauffement climatique."
-      ],
-      "publishedAt": "2026-11-26T04:45:00+00:00",
-      "updatedAt": "2026-11-26T04:45:00+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/la-saison-de-ski-s-ouvre-en-pleine-incertitude-avec-la-conjoncture-economique-les-francais-veulent-encore-plus-qu-avant-avoir-l-assurance-de-la-neige_6815469_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83065baa2c84d9f7ae097452eb987101b3f042bd625777e6a148301135c1aa8e",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -361,8 +363,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T12:14:39+00:00",
-      "updatedAt": "2026-11-26T12:14:39+00:00",
+      "publishedAt": "2026-11-26T13:37:28+00:00",
+      "updatedAt": "2026-11-26T13:37:28+00:00",
       "importance": 69,
       "sources": [
         {
@@ -407,28 +409,32 @@
       "context": null
     },
     {
-      "id": "rss-6ba744a930b27d5999",
+      "id": "rss-412512d9f029301d07",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +1.48%",
+      "title": "CAC 40 : Alors que Wall Street est fermée ce jeudi, le CAC 40 reprend 1,7%, bénéficiant de rachats à bon compte",
       "bullets": [
-        "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-148-1174457.html"
+        "L'indice phare de la Bourse de Paris prend 1,7% à la mi-séance à 8.117,61 points.",
+        "Mercredi soir, le Nasdaq Composite a terminé en baisse de 0,6%, certes, mais l'indice de Times Square a effacé en fin de séance une énorme partie de ses pertes, puisqu'il perdait près de 4% dans le courant de la journée.",
+        "Plus largement, 38 des 40 valeurs du CAC 40 évoluent en hausse et la plus forte baisse, en l'occurrence Essilorluxottica (-0,12%), n'est guère significative."
       ],
-      "publishedAt": "2026-11-26T08:00:00+00:00",
-      "updatedAt": "2026-11-26T08:00:00+00:00",
+      "publishedAt": "2026-11-26T12:12:54+00:00",
+      "updatedAt": "2026-11-26T12:12:54+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-148-1174457.html",
-          "access": "extrait"
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-wall-street-est-fermee-ce-jeudi-le-cac-40-reprend-17-beneficiant-de-rachats-a-bon-compte-1174488.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "0524bb02e7a86ce220f4515e7bb8c58686994afc8ab746f921840082f4f72bea",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "21b9435f29312b428c38b5d63affe745156640b58c7d465775282310889727d5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
+      "context": null
     },
     {
       "id": "rss-6e4f45d5a84fc1e2ed",
@@ -655,30 +661,6 @@
       "context": null
     },
     {
-      "id": "rss-8efed71094aa49649e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : les Européens prêts à parler à Vladimir Poutine pour imposer leur vision de l’architecture de sécurité du Vieux Continent",
-      "bullets": [
-        "S’ils n’imaginent pas qu’une reprise du dialogue avec Moscou puisse, à brève ou à moyenne échéance, mener à la paix, les dirigeants européens ne veulent pas laisser les Etats-Unis discuter sans eux des relations de la Russie avec l’OTAN et l’UE."
-      ],
-      "publishedAt": "2026-11-26T04:30:16+00:00",
-      "updatedAt": "2026-11-26T04:30:16+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/guerre-en-ukraine-les-europeens-prets-a-parler-a-vladimir-poutine-pour-imposer-leur-vision-de-l-architecture-de-securite-du-vieux-continent_6815467_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f4935618f7db8c48bcf26761007f4ec0278896776cc13f295c2517d4c4db0d48",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-35f2eefd6f6a1f6f81",
       "revision": 2,
       "category": "world",
@@ -776,7 +758,7 @@
     },
     {
       "id": "rss-3f0fdb9bd91e6a70c3",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice",
@@ -793,11 +775,6 @@
           "publisher": "Franceinfo",
           "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-propagandiste-et-recruteuse-de-l-etat-islamique-devant-la-justice_8300964.html",
           "access": "public"
-        },
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-egerie-de-l-etat-islamique-devant-la-justice_8300913.html",
-          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
@@ -842,7 +819,7 @@
       ],
       "publishedAt": "2026-11-24T13:26:40+00:00",
       "updatedAt": "2026-11-24T13:26:40+00:00",
-      "importance": 70,
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -856,31 +833,59 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-464b50b4acd020503b",
+      "id": "rss-47381ae5b295e87ba3",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "\"Inacceptables\", \"regrettables\", \"prétexte à la manipulation politique\"... Les pays visés s'indignent face aux nouveaux droits de douane américains",
+      "title": "VIDEO. Estonie : pour se protéger du voisin russe, les ventes de bunkers civils font recette",
       "bullets": [
-        "L'annonce par le gouvernement américain d'une nouvelle série de droits de douane soulève l'indignation des principaux partenaires commerciaux des Etats-Unis, jeudi 26 novembre.",
-        "Ces droits de douane, qui pourraient atteindre 20% dans le cas des produits provenant de Chine, n'entreront en vigueur que dans un mois, le délai permettant au public et aux entreprises de faire des observations écrites sur ces propositions.",
-        "Parmi les pays visés figurent aussi l'Inde, la Suisse, la Corée du Sud, la plupart des pays d'Asie du Sud-Est et le Bangladesh."
+        "Le sauna-bunker, avec sa petite superficie de moins de 5 mètres carrés, représente une niche sur un marché en pleine expansion : celui des abris civils.",
+        "Rien que pour l'année 2026, une trentaine de ces saunas vendus à partir de 12 000 euros ont été installés.",
+        "Extrait de \"Pays baltes : à votre bunker !\", un reportage à voir dans \"Envoyé spécial\" le 26 novembre 2026.> Les replays des magazines d'info de France Télévisions sont disponibles sur le site de Franceinfo, rubrique \"Les émissions\"."
       ],
-      "publishedAt": "2026-11-26T05:39:33+00:00",
-      "updatedAt": "2026-11-26T05:39:33+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-26T13:10:51+00:00",
+      "updatedAt": "2026-11-26T13:10:51+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/inacceptables-regrettables-pretexte-a-la-manipulation-politique-les-pays-vises-s-indignent-face-aux-nouveaux-droits-de-douane-americains_8300712.html",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-estonie-pour-se-proteger-du-voisin-russe-les-ventes-de-bunkers-civils-font-recette_8296305.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "article-extract",
-      "summaryInput": "8c6ff7c65c867d4c8fc1d5ea40e662fd1f811eccacb65abb02dc4589236d80fc",
+      "summaryInput": "a0957143f642802092e537d1e12d8908715bfab8f680de30e9d0da84480ffb58",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
+      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-fff127cb1e2da3fbf7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Deux ressortissants irakiens soupçonnés de préparer des attentats contre des synagogues arrêtés en Allemagne",
+      "bullets": [
+        "La justice allemande a annoncé jeudi 26 novembre l'arrestation de deux ressortissants irakiens, respectivement interpellés à Heidelberg et à Cologne par des agents de la police criminelle, selon le parquet fédéral de Karlsruhe.",
+        "Des perquisitions ont débuté dans trois Länder (les régions allemandes) de l'ouest de l'Allemagne, visant 17 lieux et un suspect supplémentaire, écrit le parquet fédéral.",
+        "Pour préparer et commettre d'autres attaques en Allemagne et en Europe, le premier suspect et Mohammad Al-Saadi ont créé fin 2025 une structure distincte, rejointe par le second suspect."
+      ],
+      "publishedAt": "2026-11-26T12:38:30+00:00",
+      "updatedAt": "2026-11-26T12:38:30+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/allemagne/deux-ressortissants-irakiens-soupconnes-de-preparer-des-attentats-contre-des-synagogues-arretes-en-allemagne_8301342.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "249c5e58b9c6a1cf1d695330835b52012f3cf3363e74832f863f798bcad1e4c8",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
       "context": null
     },
     {
@@ -908,53 +913,52 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2f81bc438eb31da2f3",
-      "revision": 2,
+      "id": "rss-a5dc898bc23b661728",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
+      "title": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
       "bullets": [
-        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
-        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
+        "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des historiens."
       ],
-      "publishedAt": "2026-11-26T05:55:01+00:00",
-      "updatedAt": "2026-11-26T05:55:01+00:00",
+      "publishedAt": "2026-11-26T13:00:11+00:00",
+      "updatedAt": "2026-11-26T13:00:11+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
+      "summaryInput": "a95d48de88b675f3502251cd898b2dd6d5790b8bac6d4745aa124826f82f65b5",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-05ee63112179599526",
-      "revision": 1,
+      "id": "rss-537c3591c9aa934fa4",
+      "revision": 2,
       "category": "france",
       "topic": "Société",
-      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
       "bullets": [
-        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
-        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
+        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
       ],
-      "publishedAt": "2026-11-26T05:00:19+00:00",
-      "updatedAt": "2026-11-26T05:00:19+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-25T23:50:44+00:00",
+      "updatedAt": "2026-11-25T23:50:44+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
+      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
       "detailLevel": "preview"
     },
     {
@@ -1010,29 +1014,32 @@
       "context": null
     },
     {
-      "id": "rss-bb74b0e6bd82b76d13",
+      "id": "rss-4ab39f0f56cf9c616e",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+      "title": "Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice",
       "bullets": [
-        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
-        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
+        "Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010.",
+        "400 lycéens exclus, argent français en Ukraine et discrimination (ou pas) au Danemark : ça dit quoi ce 26 novembre ?",
+        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
       ],
-      "publishedAt": "2026-11-25T11:39:02+00:00",
-      "updatedAt": "2026-11-25T11:39:02+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-26T07:06:44+00:00",
+      "updatedAt": "2026-11-26T07:06:44+00:00",
+      "importance": 75,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-egerie-de-l-etat-islamique-devant-la-justice_8300913.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "0cb1defde7132329ac59242a019d8532cb00d27043a33480ed07d540f63651ad",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
+      "context": null
     },
     {
       "id": "rss-f848151538b5a41464",
@@ -1087,31 +1094,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-537c3591c9aa934fa4",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
-      "bullets": [
-        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
-        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
-      ],
-      "publishedAt": "2026-11-25T23:50:44+00:00",
-      "updatedAt": "2026-11-25T23:50:44+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-67ae1bf76472984e41",
       "revision": 1,
       "category": "france",
@@ -1136,6 +1118,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-05ee63112179599526",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "bullets": [
+        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
+        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+      ],
+      "publishedAt": "2026-11-26T05:00:19+00:00",
+      "updatedAt": "2026-11-26T05:00:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-65f73723ac668458e7",
       "revision": 1,
       "category": "france",
@@ -1145,8 +1152,8 @@
         "Sous pression de ses concurrents de droite et du centre pour une primaire, le candidat Horizons avait sous-estimé la percée du maire de Cannes.",
         "Il dénonce désormais ses ambiguïtés avec l’extrême droite et veut se démarquer de sa ligne ultralibérale."
       ],
-      "publishedAt": "2026-11-26T12:00:11+00:00",
-      "updatedAt": "2026-11-26T12:00:11+00:00",
+      "publishedAt": "2026-11-26T12:00:07+00:00",
+      "updatedAt": "2026-11-26T12:00:07+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1183,6 +1190,80 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "53eede92ecbaa89f9b0849cf900a4f88fd5aad14d4a7dd2b687706b180a7954a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-31d58794a90d681bdc",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget de la « Sécu » 2027 : les députés et sénateurs échouent à s’accorder en commission mixte paritaire",
+      "bullets": [
+        "Les points de vue des sept députés et sept sénateurs réunis, jeudi matin, pour discuter du texte proposé pour un budget de la Sécurité sociale se sont révélés irréconciliables, et ce premier conclave budgétaire de la saison a rapidement été déclaré « non conclusif ».",
+        "Il sera renvoyé à l’Assemblée."
+      ],
+      "publishedAt": "2026-11-26T09:24:29+00:00",
+      "updatedAt": "2026-11-26T09:24:29+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-2027-les-deputes-et-senateurs-echouent-a-s-accorder-en-commission-mixte-paritaire_6815507_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "577c5d871172893eee22c9c0319c028ede783315ac391f78f8f9f5d27cfe82d5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-588932b7a635a34632",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Les ultramarins peinent toujours à accéder aux postes à responsabilités de la fonction publique",
+      "bullets": [
+        "« L’accès des ultramarins à l’encadrement intermédiaire de l’Etat en outre-mer se heurte à des obstacles structurels », regrette le député de la Martinique Jiovanny William, dans un rapport annexé au budget de 2027."
+      ],
+      "publishedAt": "2026-11-26T09:00:08+00:00",
+      "updatedAt": "2026-11-26T09:00:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/les-ultramarins-peinent-toujours-a-acceder-aux-postes-a-responsabilite-de-la-fonction-publique_6815504_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e76fec8d5695909b1e999fff4b0cbfee3d7a568405568fb91af2e5f992d20de4",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-bb74b0e6bd82b76d13",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+      "bullets": [
+        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
+        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
+      ],
+      "publishedAt": "2026-11-25T11:39:02+00:00",
+      "updatedAt": "2026-11-25T11:39:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
       "detailLevel": "preview"
     },
     {
@@ -1232,84 +1313,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-229544ef0747a5cde5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Ces dermatologues qui préfèrent le Botox",
-      "bullets": [
-        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
-        "\"Il lui disait de se calmer, que c'était ridicule\" : un médecin régulateur du Samu jugé six ans après la mort de Sarah, décédée des suites d'une grossesse extra-utérine malgré ses appels au 15",
-        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
-      ],
-      "publishedAt": "2026-11-25T16:00:02+00:00",
-      "updatedAt": "2026-11-25T16:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0c93562516722e9159",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
-      "bullets": [
-        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
-        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
-      ],
-      "publishedAt": "2026-11-24T23:20:22+00:00",
-      "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-af681c0f50302c88ea",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
-      "bullets": [
-        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
-        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
-      ],
-      "publishedAt": "2026-11-24T17:30:00+00:00",
-      "updatedAt": "2026-11-24T17:30:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1353,7 +1356,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Le Figaro",
@@ -1413,7 +1416,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/politique/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
@@ -1425,7 +1428,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 31
+      "candidates": 32
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
