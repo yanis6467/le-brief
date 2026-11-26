@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T04:18:45.994377+00:00",
+  "preparedAt": "2026-11-26T06:09:18.917665+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-4543724f62edbec0b7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
+      "bullets": [
+        "Depuis 2022, l'aide totale à l'Ukraine approche les 400 milliards d'euros, révèlent, jeudi 25 novembre, la rédaction internationale et le service d'enquête numérique de Radio France qui ont compilé les données, publiées par l'institut de recherche allemand Kiel Institute.",
+        "Effort financier en faveur de l'Ukraine rapporté à la richesse nationale (en % du PIB 2021).",
+        "(Source : Kiel Institute / Janvier 2022 – août 2026)Au total, la somme des contributions cumulées des 41 pays recensés par le Kiel Institute atteint 382,89 milliards d'euros entre début 2022 et août 2026."
+      ],
+      "publishedAt": "2026-11-26T05:00:10+00:00",
+      "updatedAt": "2026-11-26T05:00:10+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "d97ed6b482d5c7a74fa36ffde24b1d3af24c212b0b529d9a0eefb1efc001fc2d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
+      "context": null
+    },
     {
       "id": "rss-42394b2aa0859478b4",
       "revision": 1,
@@ -28,6 +56,30 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "65ac728a6c3fb1d348ca37efba93fe3bc293bbd927b6c57787fe6bc42a94e697",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e4ea1ec50b4f099775",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L’Allemagne prête à adopter un endettement historique, un tournant soutenu par une figure de l’orthodoxie économique",
+      "bullets": [
+        "La politique d’investissement dans les infrastructures et la défense financée par la dette défendue par le gouvernement Merz a reçu le soutien inattendu d’Isabel Schnabel, figure de l’orthodoxie monétaire qui, avant de quitter le directoire de la BCE, remet en cause l’idée que la prospérité du pays dépend avant tout…"
+      ],
+      "publishedAt": "2026-11-25T16:47:57+00:00",
+      "updatedAt": "2026-11-25T16:47:57+00:00",
+      "importance": 86,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/25/l-allemagne-prete-a-adopter-un-endettement-historique-un-tournant-soutenu-par-une-figure-de-l-orthodoxie-economique_6815144_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
       "detailLevel": "preview"
     },
     {
@@ -130,6 +182,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-2f81bc438eb31da2f3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les « millionnaires patriotes », ces riches qui veulent payer des impôts, se lancent en France",
+      "bullets": [
+        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
+        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
+      ],
+      "publishedAt": "2026-11-26T05:55:03+00:00",
+      "updatedAt": "2026-11-26T05:55:03+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2366405dd5c21b6cdf7fdb5d3c4b59bba5a6f6655b294c9f03aea00d75ff7b6d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-91393136e172360998",
       "revision": 1,
       "category": "eco",
@@ -190,7 +267,7 @@
       ],
       "publishedAt": "2026-11-25T17:13:07+00:00",
       "updatedAt": "2026-11-25T17:13:07+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -232,87 +309,6 @@
       "context": null
     },
     {
-      "id": "rss-4c01a428e4559179a9",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La banque indépendante Delubac placée sous le contrôle du gendarme du secteur bancaire",
-      "bullets": [
-        "Cyberattaque et amendeLa banque a annoncé lundi avoir été la cible d'une \"intrusion informatique\", qui a entraîné une \"fuite de données\" d'une partie de la clientèle.",
-        "En juin 2025, l'ACPR avait adressé une amende de 600 000 euros à Delubac car son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme présentait des \"insuffisances\".",
-        "La banque avait aussi lancé plus tôt dans l'année un plan social visant à supprimer 55 emplois, soit plus de 12% de ses effectifs."
-      ],
-      "publishedAt": "2026-11-25T17:01:43+00:00",
-      "updatedAt": "2026-11-25T17:01:43+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/la-banque-independante-delubac-placee-sous-le-controle-du-gendarme-du-secteur-bancaire_8299923.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "4071d4be855636dabc5bd1e628edf626576e7cc3d1c5748035f6ad44cf3299d5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T18:02:06.005646+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-23d436acd6e388d732",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage",
-      "bullets": [
-        "Des apprentis sont embauchés mais \"ne sont pas accompagnés\" dans leur entreprise, pointant des cas où \"sur le papier, il y a un maître d'apprentissage, mais en réalité il a sous sa responsabilité trois, quatre, cinq apprentis alors que légalement c'est interdit\".",
-        "Un contrôle des \"mauvais élèves\"La Cour des comptes estime que les contrats suspects représentent jusqu'à trois milliards d'euros de dépenses publiques en 2024.",
-        "Le gouvernement estime pour sa part que cette fraude ne représente que 100 millions d'euros."
-      ],
-      "publishedAt": "2026-11-25T16:08:17+00:00",
-      "updatedAt": "2026-11-25T16:08:17+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/emploi/le-president-de-l-association-nationale-des-apprentis-de-france-appelle-a-ne-pas-minimiser-les-impacts-des-fraudes-dans-l-apprentissage_8299956.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "b069985e23aec6a0f4d0057acd19bc96197c61e3a6210048e19bd60373f3a236",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-e3408999eabca2d34c",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
-      "bullets": [
-        "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles.",
-        "Des représentants syndicaux manifesteront à cette occasion dans la capitale belge."
-      ],
-      "publishedAt": "2026-11-26T04:00:25+00:00",
-      "updatedAt": "2026-11-26T04:00:25+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fe324c31c4ac74e49c859b325778ce89d32f2e7cdcbf0977289c2ca57b1a5a48",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -351,8 +347,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T04:15:08+00:00",
-      "updatedAt": "2026-11-26T04:15:08+00:00",
+      "publishedAt": "2026-11-26T06:03:06+00:00",
+      "updatedAt": "2026-11-26T06:03:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -409,7 +405,7 @@
       ],
       "publishedAt": "2026-11-25T17:02:38+00:00",
       "updatedAt": "2026-11-25T17:02:38+00:00",
-      "importance": 63,
+      "importance": 62,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -421,7 +417,7 @@
       "provenance": "article-extract",
       "summaryInput": "a5239fe8b111f4728c6d808d6ca8dba94c19a872f107325aa44291c7151c3a0d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
       "context": null
     },
     {
@@ -533,7 +529,7 @@
       "provenance": "article-extract",
       "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
       "context": null
     },
     {
@@ -621,30 +617,6 @@
       "context": null
     },
     {
-      "id": "rss-e4ea1ec50b4f099775",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "L’Allemagne prête à adopter un endettement historique, un tournant soutenu par une figure de l’orthodoxie économique",
-      "bullets": [
-        "La politique d’investissement dans les infrastructures et la défense financée par la dette défendue par le gouvernement Merz a reçu le soutien inattendu d’Isabel Schnabel, figure de l’orthodoxie monétaire qui, avant de quitter le directoire de la BCE, remet en cause l’idée que la prospérité du pays dépend avant tout…"
-      ],
-      "publishedAt": "2026-11-25T16:47:57+00:00",
-      "updatedAt": "2026-11-25T16:47:57+00:00",
-      "importance": 87,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/25/l-allemagne-prete-a-adopter-un-endettement-historique-un-tournant-soutenu-par-une-figure-de-l-orthodoxie-economique_6815144_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-136b50436dbcc2cc71",
       "revision": 1,
       "category": "world",
@@ -725,32 +697,28 @@
       "context": null
     },
     {
-      "id": "rss-bb1e445e12619bd96b",
+      "id": "rss-8efed71094aa49649e",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Les Etats-Unis annoncent de nouveaux droits de douane contre leurs principaux partenaires commerciaux",
+      "title": "Guerre en Ukraine : les Européens prêts à parler à Vladimir Poutine pour imposer leur vision de l’architecture de sécurité du Vieux Continent",
       "bullets": [
-        "\"Nous contestons fermement cette idée\", a assuré un porte-parole de la Commission européenne, Olof Gill, alors que les droits de douane sur les produits européens et japonais passent ainsi de 10% à 15%.",
-        "La Chine est plus particulièrement ciblée, avec ces 20% qui viennent s'ajouter aux droits de douane préexistants toujours en place, de 12,5% en moyenne sur l'année dernière selon Jamieson Greer.",
-        "Des droits de douane réciproques dépassaient alors largement les 100%, avant qu'une série de négociations ne permette de calmer partiellement les tensions."
+        "S’ils n’imaginent pas qu’une reprise du dialogue avec Moscou puisse, à brève ou à moyenne échéance, mener à la paix, les dirigeants européens ne veulent pas laisser les Etats-Unis discuter sans eux des relations de la Russie avec l’OTAN et l’UE."
       ],
-      "publishedAt": "2026-11-25T15:04:00+00:00",
-      "updatedAt": "2026-11-25T15:04:00+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-26T04:30:16+00:00",
+      "updatedAt": "2026-11-26T04:30:16+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/les-etats-unis-annoncent-de-nouveaux-droits-de-douane-contre-leurs-principaux-partenaires-commerciaux_8299734.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/guerre-en-ukraine-les-europeens-prets-a-parler-a-vladimir-poutine-pour-imposer-leur-vision-de-l-architecture-de-securite-du-vieux-continent_6815467_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "535c9dd2c46f72876af0e8bcd4d031a797d410e9dc7d8d14f570359a705e6715",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T04:18:45.994377+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "f4935618f7db8c48bcf26761007f4ec0278896776cc13f295c2517d4c4db0d48",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-48d573c225370f99f3",
@@ -804,34 +772,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8a9284e876d07ce586f433d06a3f35ba7e1847d5d492e9fec02c04e154e2b278",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-08a49c5ccde274c0c1",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au moins 470 000 soldats russes sont morts depuis le début de la guerre en Ukraine, selon un nouveau décompte issu de données piratées",
-      "bullets": [
-        "Des fichiers complémentaires, et de nouvelles requêtes effectuées sur la base, ont permis à plusieurs médias d'affiner le premier bilan de 400 000 décès déjà établi début novembre, à partir des données extraites par deux groupes de hackeurs : les Cyber Partisans biélorusses et les Ukrainiens Silent Crow.",
-        "Moscou ne communique pas ses pertes en Ukraine, conflit le plus meurtrier en Europe depuis 1945.",
-        "Le président russe, Vladimir Poutine, avait affirmé que plus de 700 000 militaires russes étaient déployés dans la zone d'opération avec l'Ukraine."
-      ],
-      "publishedAt": "2026-11-25T16:05:18+00:00",
-      "updatedAt": "2026-11-25T16:05:18+00:00",
-      "importance": 78,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-470-000-soldats-russes-sont-morts-depuis-le-debut-de-la-guerre-en-ukraine-selon-un-nouveau-decompte-issu-de-donnees-piratees_8299866.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "b1985a2b97d0a3a2720710fcba0fc565d6d537f31563f16a9501f9a596393b12",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
-      "context": null
     },
     {
       "id": "rss-2a072e173af7ce3201",
@@ -932,6 +872,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5cefc82b32e7939488",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Dans son dernier train de sanctions, l’UE entend généraliser l’exclusion des athlètes russes des compétitions sportives organisées sur son territoire",
+      "bullets": [
+        "La Commission européenne a présenté lundi son nouveau paquet de sanctions contre la Russie, dans un contexte d’intensification de la guerre hybride entre les deux puissances."
+      ],
+      "publishedAt": "2026-11-24T18:09:46+00:00",
+      "updatedAt": "2026-11-24T18:09:46+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-son-dernier-train-de-sanctions-l-ue-entend-generaliser-l-exclusion-des-athletes-russes-des-competitions-sportives-organisees-sur-son-territoire-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-2c559e00ba6e6929f2",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
+      "bullets": [
+        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
+      ],
+      "publishedAt": "2026-11-24T13:26:40+00:00",
+      "updatedAt": "2026-11-24T13:26:40+00:00",
+      "importance": 70,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-fe2dcf7e71c52361dd",
       "revision": 2,
       "category": "france",
@@ -942,7 +930,7 @@
       ],
       "publishedAt": "2026-11-25T17:40:46+00:00",
       "updatedAt": "2026-11-25T17:40:46+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1029,7 +1017,7 @@
       "provenance": "article-extract",
       "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T17:15:19.392440+00:00",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
       "context": null
     },
     {
@@ -1069,7 +1057,7 @@
       ],
       "publishedAt": "2026-11-24T17:30:00+00:00",
       "updatedAt": "2026-11-24T17:30:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -1107,80 +1095,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a9d127805032853104",
-      "revision": 1,
-      "category": "france",
-      "topic": "Environnement",
-      "title": "Entre sécheresses et inondations, va-t-on manquer d’eau pour produire notre alimentation ?",
-      "bullets": [
-        "«Cette année, on a connu une chute de 60% de rendement sur nos betteraves», se désole cet agriculteur en Seine-et-Marne.",
-        "À l’échelle nationale, la sécheresse et les fortes chaleurs de cet été ont entraîné des pertes agricoles estimées à 10 milliards d’euros, avec notamment 50% de production en moins pour la filière maraîchère.",
-        "Or si les quantités d’eau que reçoit la France ne diminuent pas au fil des années, sa répartition saisonnière autant que géographique évolue rapidement et ne permet plus de répondre aux besoins de l’agriculture, notamment l’été."
-      ],
-      "publishedAt": "2026-11-23T16:34:38+00:00",
-      "updatedAt": "2026-11-23T16:34:38+00:00",
-      "importance": 43,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/entre-secheresses-et-inondations-pourrait-on-manquer-d-eau-pour-produire-notre-alimentation-20261123",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "5a9ae1f9a9ba5d6e7a071da906f94a2fae3599e3d96ee2853654f89fe34e2cb5",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-adc99a1ecc81a03344",
+      "id": "rss-dc68faff9f1b048227",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Budget 2027 : au Sénat, un vote inattendu sur la mise à contribution des retraités",
+      "title": "Budget de l’UE : la France ne veut « pas un euro » de moins pour la PAC, prévient Emmanuel Macron",
       "bullets": [
-        "Contre l’avis du gouvernement et de la commission des finances, une partie de la droite et du centre droit a mêlé ses voix à celles de la gauche et de l’extrême droite pour s’opposer à la suppression totale de l’abattement fiscal dont bénéficient les retraités.",
-        "Cet avantage sera seulement réduit…"
+        "« L’enveloppe actuelle de la France, c’est 66,25 milliards » d’euros « de crédits européens », « nous, on veut nos 66,25 milliards de crédits européens, les plus lisibles et les plus fléchés possibles », dans le budget pluriannuel pour 2028-2034, a dit le chef de l’Etat."
       ],
-      "publishedAt": "2026-11-25T11:28:09+00:00",
-      "updatedAt": "2026-11-25T11:28:09+00:00",
+      "publishedAt": "2026-11-25T16:56:34+00:00",
+      "updatedAt": "2026-11-25T16:56:34+00:00",
       "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/25/budget-2027-au-senat-un-vote-inattendu-sur-la-mise-a-contribution-des-retraites_6815088_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/budget-de-l-ue-la-france-ne-veut-pas-un-euro-de-moins-pour-la-pac-previent-emmanuel-macron_6815145_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "d9452775f0ca2d57dd5c49bfff7fd09b1f2b4a5967babd1489b745d02dbfa733",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7ac058052db9239ee6",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "« Pourquoi, alors que les budgets de sécurité ne cessent de croître, la sécurité des femmes ne s’améliore-t-elle pas ? »",
-      "bullets": [
-        "Dans une tribune au « Monde », Sarah d’Anjou, experte des questions d’égalité, alerte sur la baisse des crédits alloués à la lutte contre les violences faites aux femmes et appelle à intégrer ce financement aux politiques de défense."
-      ],
-      "publishedAt": "2026-11-25T13:00:22+00:00",
-      "updatedAt": "2026-11-25T13:00:22+00:00",
-      "importance": 72,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/25/pourquoi-alors-que-les-budgets-de-securite-ne-cessent-de-croitre-la-securite-des-femmes-ne-s-ameliore-t-elle-pas_6815098_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2590f34dfb5de6051e5520dce64d3ed203f5dfffd9cb8c61789cb03380a0bea3",
+      "summaryInput": "68778ac02fcca7b326ccb9063349902b245f966151bb68ae4890496c77a91ada",
       "detailLevel": "preview"
     },
     {
@@ -1208,6 +1143,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-05ee63112179599526",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "bullets": [
+        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
+        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+      ],
+      "publishedAt": "2026-11-26T05:00:33+00:00",
+      "updatedAt": "2026-11-26T05:00:33+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8d540eeffc353136ed",
       "revision": 1,
       "category": "france",
@@ -1219,7 +1179,7 @@
       ],
       "publishedAt": "2026-11-25T17:30:09+00:00",
       "updatedAt": "2026-11-25T17:30:09+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1267,7 +1227,7 @@
       ],
       "publishedAt": "2026-11-25T04:45:07+00:00",
       "updatedAt": "2026-11-25T04:45:07+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1279,34 +1239,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-40f06a6c9801e81e0f",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "\"Cela fait 20 ans qu’on nous ponctionne et la dette s’aggrave !\", s'indigne une maire",
-      "bullets": [
-        "Le pape François raconte avoir vu le diable 3 fois dans sa vie",
-        "Colombie : une prise d'otages prend fin après près de 17 heures de captivité",
-        "\"J'ai les os d'une femme de 60 ans\" : comment la biathlète Maya Cloetens vit avec le Red-s syndrome"
-      ],
-      "publishedAt": "2026-11-25T17:30:02+00:00",
-      "updatedAt": "2026-11-25T17:30:02+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/cela-fait-20-ans-qu-on-nous-ponctionne-et-la-dette-s-aggrave-s-indigne-une-maire_8299926.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "deaf34094129d465d932b92c904ecbce066e9549a88e21c3162c13ce6235b240",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
-      "context": null
     },
     {
       "id": "rss-0c93562516722e9159",
@@ -1332,6 +1264,62 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-40f06a6c9801e81e0f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "\"Cela fait 20 ans qu’on nous ponctionne et la dette s’aggrave !\", s'indigne une maire",
+      "bullets": [
+        "Le pape François raconte avoir vu le diable 3 fois dans sa vie",
+        "Colombie : une prise d'otages prend fin après près de 17 heures de captivité",
+        "\"J'ai les os d'une femme de 60 ans\" : comment la biathlète Maya Cloetens vit avec le Red-s syndrome"
+      ],
+      "publishedAt": "2026-11-25T17:30:02+00:00",
+      "updatedAt": "2026-11-25T17:30:02+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/cela-fait-20-ans-qu-on-nous-ponctionne-et-la-dette-s-aggrave-s-indigne-une-maire_8299926.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "deaf34094129d465d932b92c904ecbce066e9549a88e21c3162c13ce6235b240",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-229544ef0747a5cde5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Ces dermatologues qui préfèrent le Botox",
+      "bullets": [
+        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
+        "Le gouvernement veut plafonner l’esthétique à 30 % de l'activité des dermatologues.",
+        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande"
+      ],
+      "publishedAt": "2026-11-25T16:00:02+00:00",
+      "updatedAt": "2026-11-25T16:00:02+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1345,7 +1333,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1357,7 +1345,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1369,7 +1357,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1411,19 +1399,19 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 18
+      "candidates": 19
     },
     {
       "publisher": "Le Monde",
@@ -1447,7 +1435,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 35
+      "candidates": 34
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
