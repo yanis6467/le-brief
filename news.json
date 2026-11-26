@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T15:17:40.345028+00:00",
+  "preparedAt": "2026-11-26T17:20:21.275559+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-e4ea1ec50b4f099775",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Allemagne prête à adopter un endettement historique, un tournant soutenu par une figure de l’orthodoxie économique",
-      "bullets": [
-        "La politique d’investissement dans les infrastructures et la défense financée par la dette défendue par le gouvernement Merz a reçu le soutien inattendu d’Isabel Schnabel, figure de l’orthodoxie monétaire qui, avant de quitter le directoire de la BCE, remet en cause l’idée que la prospérité du pays dépend avant tout…"
-      ],
-      "publishedAt": "2026-11-25T16:47:57+00:00",
-      "updatedAt": "2026-11-25T16:47:57+00:00",
-      "importance": 86,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/25/l-allemagne-prete-a-adopter-un-endettement-historique-un-tournant-soutenu-par-une-figure-de-l-orthodoxie-economique_6815144_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3c4ba19162b3823bc024a3dcb62f3170a316d2ab148c9d8ad018614c210a3862",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-49d29783a6c09714d3",
       "revision": 1,
@@ -54,33 +30,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "fd0a2ef67b6de7357ebe7011797c3773e9e20ad35e79062dc0ac3c87caa39619",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-bc870e46686f178c14",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La Chine menace de riposter face à l’annonce des nouveaux droits de douane américains",
-      "bullets": [
-        "De nouveaux droits de douane envisagés par les États-Unis Les deux hommes se sont rencontrés la semaine dernière lors d’un sommet de l’APEC à Shenzhen, dans le sud de la Chine, et doivent se revoir pour la quatrième fois cette année en décembre, au sommet du G20 aux États-Unis.",
-        "La Chine fait partie des pays concernés par ce taux maximal de 20 %, mais le représentant américain au Commerce, Jamieson Greer, a déclaré que ces nouveaux prélèvements s’inscrivaient dans le cadre des négociations commerciales en cours avec Pékin."
-      ],
-      "publishedAt": "2026-11-26T11:17:46+00:00",
-      "updatedAt": "2026-11-26T11:17:46+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/la-chine-menace-de-riposter-face-a-l-annonce-des-nouveaux-droits-de-douane-americains-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "54e1ad91be6882997167d02fd5b0f113d3a872210ee0a18ce5f51f0fa5be166d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
-      "context": null
     },
     {
       "id": "rss-2cb40ee1fee21e3163",
@@ -109,6 +58,31 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
       "context": null
+    },
+    {
+      "id": "rss-2f81bc438eb31da2f3",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
+      "bullets": [
+        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
+        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
+      ],
+      "publishedAt": "2026-11-26T05:55:01+00:00",
+      "updatedAt": "2026-11-26T05:55:01+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-563de5934ea12a0e1c",
@@ -248,34 +222,6 @@
       "context": null
     },
     {
-      "id": "rss-041c7529dc03fbb587",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Le système actuel permet des entorses assez injustes» : Charles Alloncle défend la réforme des retraites proposée par Marine Le Pen",
-      "bullets": [
-        "Maintenant un départ à 60 ans pour les carrières longues et à 62 ans pour tout le monde, la réforme du RN sera «progressive», a défendu le porte-parole de la campagne de Marine Le Pen et élu de l’Hérault.",
-        "«Quand vous commencez à travailler avant 20 ans, a-t-il fait valoir, vous méritez de partir plus tôt à la retraite.» À l’inverse, pour ceux qui démarrent à un âge plus avancé, «c’est normal qu’on vous demande de cotiser réellement 42 annuités», a-t-il poursuivi.",
-        "Quant au volet financement, le porte-parole a défendu un projet «100% financé»."
-      ],
-      "publishedAt": "2026-11-26T09:23:35+00:00",
-      "updatedAt": "2026-11-26T09:23:35+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/le-systeme-actuel-permet-des-entorses-assez-injustes-charles-alloncle-defend-la-reforme-des-retraites-proposee-par-marine-le-pen-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "af136869a9b818a4f6a69e741db48da9136102cb994b4501998db10c61a4f8e3",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T11:09:49.047114+00:00",
-      "context": null
-    },
-    {
       "id": "rss-8724dd1b720c8c3a12",
       "revision": 1,
       "category": "eco",
@@ -286,7 +232,7 @@
       ],
       "publishedAt": "2026-11-26T04:45:00+00:00",
       "updatedAt": "2026-11-26T04:45:00+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -311,7 +257,7 @@
       ],
       "publishedAt": "2026-11-26T04:00:20+00:00",
       "updatedAt": "2026-11-26T04:00:20+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -325,6 +271,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-5e09244bcc2c8588d3",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le Danemark expulse légalement des \"non occidentaux\" de leurs logements",
+      "bullets": [
+        "Des marées historiques et des vagues de 9 mètres frappent la Californie",
+        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus",
+        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande"
+      ],
+      "publishedAt": "2026-11-26T09:53:28+00:00",
+      "updatedAt": "2026-11-26T09:53:28+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-danemark-expulse-legalement-des-non-occidentaux-de-leurs-logements_8301117.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "ba741b99e5074abb3789729645fb0ad4306f3389ff77dd23fcd4617b170bb78b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d4ccfefe48bf7e4455",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Démission !» : la nomination de l’ex-patron de Haribo à la tête du suivi de la stratégie alimentaire de l’État provoque l’ire des associations",
+      "bullets": [
+        "En effet, il n’a pas été précisé, dans le communiqué, que Jean-Philippe André était à la tête du géant du bonbon, Haribo, jusqu’à son départ à la retraite en décembre 2025.",
+        "En février 2024, le lobby avait dit publiquement ses « inquiétudes sur le qualificatif injuste d’alimentation dite \"ultra-transformée\" ».",
+        "Le terme a finalement été réintégré dans la stratégie, mais il ne figure pas parmi les 14 « actions phares » mises en avant par le ministère."
+      ],
+      "publishedAt": "2026-11-26T14:23:03+00:00",
+      "updatedAt": "2026-11-26T14:23:03+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/demission-la-nomination-de-l-ex-patron-de-haribo-a-la-tete-du-suivi-de-la-strategie-alimentaire-de-l-etat-provoque-l-ire-des-associations-20261126",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "51ef0da2e37be76a5db061e817509d0fb135a6a485d74b34f21dd56de932598d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -335,8 +337,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T15:13:24+00:00",
-      "updatedAt": "2026-11-26T15:13:24+00:00",
+      "publishedAt": "2026-11-26T17:18:05+00:00",
+      "updatedAt": "2026-11-26T17:18:05+00:00",
       "importance": 69,
       "sources": [
         {
@@ -381,31 +383,31 @@
       "context": null
     },
     {
-      "id": "rss-412512d9f029301d07",
+      "id": "rss-79efe3e12dfaa7b7b4",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Alors que Wall Street est fermée ce jeudi, le CAC 40 reprend 1,7%, bénéficiant de rachats à bon compte",
+      "title": "CAC 40 : Alors que Wall Street célèbre Thanksgiving, le CAC 40 cède à l'euphorie et termine en hausse d'1,6%",
       "bullets": [
-        "L'indice phare de la Bourse de Paris prend 1,7% à la mi-séance à 8.117,61 points.",
         "Mercredi soir, le Nasdaq Composite a terminé en baisse de 0,6%, certes, mais l'indice de Times Square a effacé en fin de séance une énorme partie de ses pertes, puisqu'il perdait près de 4% dans le courant de la journée.",
-        "Plus largement, 38 des 40 valeurs du CAC 40 évoluent en hausse et la plus forte baisse, en l'occurrence Essilorluxottica (-0,12%), n'est guère significative."
+        "Plus largement, 39 des 40 valeurs du CAC 40 évoluent en hausse et la seule baisse, en l'occurrence Essilorluxottica (-0,20%), reste anecdotique.",
+        "Sur les autres marchés, l'euro recule de 0,1% face au dollar à 1,0969 dollar."
       ],
-      "publishedAt": "2026-11-26T12:12:54+00:00",
-      "updatedAt": "2026-11-26T12:12:54+00:00",
+      "publishedAt": "2026-11-26T16:47:11+00:00",
+      "updatedAt": "2026-11-26T16:47:11+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-wall-street-est-fermee-ce-jeudi-le-cac-40-reprend-17-beneficiant-de-rachats-a-bon-compte-1174488.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-wall-street-celebre-thanksgiving-le-cac-40-cede-a-l-euphorie-et-termine-en-hausse-d-16-1174500.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "article-extract",
-      "summaryInput": "21b9435f29312b428c38b5d63affe745156640b58c7d465775282310889727d5",
+      "summaryInput": "e1183bac8b695d41762bf2f4564f7f854263201ceef9589e235913add6803bd7",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
       "context": null
     },
     {
@@ -421,7 +423,7 @@
       ],
       "publishedAt": "2026-11-25T17:02:38+00:00",
       "updatedAt": "2026-11-25T17:02:38+00:00",
-      "importance": 62,
+      "importance": 61,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -517,18 +519,18 @@
       "provenance": "article-extract",
       "summaryInput": "a2dd5145fa83b94cb89d8a87ccee41c30cde012e5d98f5f356f0313dcf3a860f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T04:18:45.994377+00:00",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
       "context": null
     },
     {
       "id": "rss-8c2214efb7944cf6cd",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
       "bullets": [
-        "Selon des sources diplomatiques européennes, les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne.",
-        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée…"
+        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
+        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
       ],
       "publishedAt": "2026-11-26T15:04:15+00:00",
       "updatedAt": "2026-11-26T15:04:15+00:00",
@@ -542,8 +544,60 @@
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "ff786c197e07f17c1745926aebb6744e00955043dff2feb4f65833089d3b4262",
+      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-d3e32edc2699ca56f7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Benyamin Nétanyahou est ici l’homme-clé de la rupture entre Israël et l’opinion américaine »",
+      "bullets": [
+        "Destruction de Gaza, guerres en Iran, colonisation accélérée en Cisjordanie depuis vingt ans… Le premier ministre israélien est le premier responsable du désamour des Américains envers l’Etat hébreu, alors même qu’il a construit son image sur sa proximité avec les Etats-Unis, pays où il a été élevé et formé, note…"
+      ],
+      "publishedAt": "2026-11-26T16:35:50+00:00",
+      "updatedAt": "2026-11-26T16:35:50+00:00",
+      "importance": 97,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/26/benyamin-netanyahou-est-ici-l-homme-cle-de-la-rupture-entre-israel-et-l-opinion-americaine_6815567_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "788504985b4473507e5c80929c391537a3c3a32ac5d0245cce3011524e532819",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-998178f404de3ce716",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Les houthis du Yémen attaquent une raffinerie dans le sud de l'Arabie saoudite, selon la coalition menée par Riyad",
+      "bullets": [
+        "La coalition militaire dirigée par l'Arabie saoudite, qui combat les rebelles houthis au Yémen, a affirmé jeudi 26 novembre que le mouvement pro-iranien avait frappé une raffinerie à Jazan, dans le sud-ouest du pays.",
+        "La raffinerie de Jazan a été attaquée par la milice terroriste houthie.",
+        "La même journée, l'aviation saoudienne a frappé la capitale yéménite, Sanaa, et la ville portuaire de Hodeida, toutes deux aux mains des rebelles houthis, selon des médias du groupe pro-iranien, après de nouvelles attaques de ces combattants contre l'Arabie saoudite."
+      ],
+      "publishedAt": "2026-11-26T16:44:23+00:00",
+      "updatedAt": "2026-11-26T16:44:23+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-attaquent-une-raffinerie-dans-le-sud-de-l-arabie-saoudite-selon-la-coalition-menee-par-riyad_8301648.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "111efbbe9c26dd5355376cb78ac0b5b9185542b1c598e00a189b05cb8a6afab1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
     },
     {
       "id": "rss-9fce2d40304a9c04c7",
@@ -627,6 +681,34 @@
       "context": null
     },
     {
+      "id": "rss-9389a63bec6ba8bf00",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la tête de la Banque centrale européenne",
+      "bullets": [
+        "L'ancien gouverneur de la Banque d'Espagne, Pablo Hernandez de Cos, va succéder à la Française Christine Lagarde à la présidence de la Banque centrale européenne (BCE), a annoncé Emmanuel Macron, jeudi 26 novembre, sur X.",
+        "\"Un Espagnol à la tête de la Banque centrale européenne\", s'est félicité le Premier ministre espagnol, Pedro Sanchez, sur X.",
+        "Directrice générale en France de la banque espagnole Santander depuis deux ans, Laurence Boone a été conseillère de François Hollande entre 2014 et 2016, puis secrétaire d'Etat aux Affaires européennes entre 2022 et 2024."
+      ],
+      "publishedAt": "2026-11-26T15:36:36+00:00",
+      "updatedAt": "2026-11-26T15:36:36+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ex-gouverneur-de-la-banque-d-espagne-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-tete-de-la-banque-centrale-europeenne_8301510.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "b667c70523f4dd0e86f0d82e197783783845a627200f0d25d164a4c78e7a379f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
+    },
+    {
       "id": "rss-2a072e173af7ce3201",
       "revision": 2,
       "category": "world",
@@ -672,30 +754,6 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "848b61a49da3614791649c45dbdac35bfc2e150357d2d5c7b900e42af02a93e3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-35f2eefd6f6a1f6f81",
-      "revision": 3,
-      "category": "world",
-      "topic": "International",
-      "title": "Au Royaume-Uni, plusieurs procès pour viols, dont l’un rappelle l’affaire Pelicot, ouvrent un débat national sur le consentement",
-      "bullets": [
-        "Dans une tribune publiée mardi dans le quotidien « The Guardian », le premier ministre travailliste, Andy Burnham, affirme vouloir réfléchir à une réforme de l’âge du consentement."
-      ],
-      "publishedAt": "2026-11-26T08:49:33+00:00",
-      "updatedAt": "2026-11-26T08:49:33+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/au-royaume-uni-le-proces-de-russell-brand-et-un-autre-semblable-a-l-affaire-pelicot-ouvrent-un-debat-national-sur-le-consentement_6815497_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "62bdcb24b11fe3d4837884a994d5d5d0c70809339b57ef7778add71dd8c681ec",
       "detailLevel": "preview"
     },
     {
@@ -771,59 +829,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-d0e49998d02fd264e5",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Gaza : un nouveau haut responsable du Hamas, Khaled Abou Nada, tué dans un bombardement israélien",
-      "bullets": [
-        "Le « responsable de la gestion des banques du Hamas », selon Israël, a été tué dans une frappe, avec son épouse.",
-        "Six personnes au total ont été tuées dans des attaques israéliennes, jeudi, sur l’enclave palestinienne."
-      ],
-      "publishedAt": "2026-11-26T15:06:14+00:00",
-      "updatedAt": "2026-11-26T15:06:14+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/gaza-un-nouveau-haut-responsable-du-hamas-khaled-abou-nada-tue-dans-un-bombardement-israelien_6815551_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "1181d758792d6056d785711f38f8958aece71e092c464de819932b47f22a1af9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-47381ae5b295e87ba3",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "VIDEO. Estonie : pour se protéger du voisin russe, les ventes de bunkers civils font recette",
-      "bullets": [
-        "Le sauna-bunker, avec sa petite superficie de moins de 5 mètres carrés, représente une niche sur un marché en pleine expansion : celui des abris civils.",
-        "Rien que pour l'année 2026, une trentaine de ces saunas vendus à partir de 12 000 euros ont été installés.",
-        "Extrait de \"Pays baltes : à votre bunker !\", un reportage à voir dans \"Envoyé spécial\" le 26 novembre 2026.> Les replays des magazines d'info de France Télévisions sont disponibles sur le site de Franceinfo, rubrique \"Les émissions\"."
-      ],
-      "publishedAt": "2026-11-26T13:10:51+00:00",
-      "updatedAt": "2026-11-26T13:10:51+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-estonie-pour-se-proteger-du-voisin-russe-les-ventes-de-bunkers-civils-font-recette_8296305.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "a0957143f642802092e537d1e12d8908715bfab8f680de30e9d0da84480ffb58",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T13:40:24.596434+00:00",
-      "context": null
-    },
-    {
       "id": "rss-a5dc898bc23b661728",
       "revision": 1,
       "category": "france",
@@ -848,28 +853,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-05ee63112179599526",
+      "id": "rss-07d7dc981ad1d63a84",
       "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "title": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
       "bullets": [
-        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
-        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+        "La candidate du Rassemblement national à l’élection présidentielle propose de rendre progressif l’impôt sur les sociétés, avec des taux plus faibles pour les petites entreprises.",
+        "Mais elle veut aussi le soutien des grands groupes et propose de supprimer la surtaxe qui les vise."
       ],
-      "publishedAt": "2026-11-26T05:00:19+00:00",
-      "updatedAt": "2026-11-26T05:00:19+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-26T17:00:17+00:00",
+      "updatedAt": "2026-11-26T17:00:17+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
+      "summaryInput": "0285dbf24fa264beaa957d12818f39c763b4a3518e20dc0008b6a41e41b54c25",
       "detailLevel": "preview"
     },
     {
@@ -897,32 +902,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0affd51f7b9ce290ec",
+      "id": "rss-64a939601cad49fabf",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "Médecins du Monde alerte sur la fragilisation des services de protection maternelle et infantile en France",
+      "title": "Présidentielle 2027 : Edouard Philippe présente ses propositions en matière de santé, entre nouveaux vaccins obligatoires et « obligation de solidarité » pour les médecins",
       "bullets": [
-        "Médecins du Monde alerte sur les difficultés persistantes d'accès aux soins des populations les plus précaires et sur la fragilisation des services publics de santé, dans son rapport annuel publié jeudi 26 novembre, rapporte France Culture.",
-        "Selon l'association, 46% des patients reçus dans ses centres présentent une pathologie grave, souvent à un stade avancé.",
-        "En dix ans, la protection maternelle et infantile a perdu un quart de son budget et 40% de ses pédiatres."
+        "L’hôpital devra être « refondé » pour le rendre « plus libre de sa gestion et de ses moyens », a prôné, à l’Institut Curie, le candidat Horizons, qui entend permettre aux hôpitaux publics de recruter eux-mêmes leurs médecins et d’instaurer des politiques de « rémunération au mérite »."
       ],
-      "publishedAt": "2026-11-26T07:06:47+00:00",
-      "updatedAt": "2026-11-26T07:06:47+00:00",
+      "publishedAt": "2026-11-26T17:15:19+00:00",
+      "updatedAt": "2026-11-26T17:15:19+00:00",
       "importance": 73,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/soigner/medecins-du-monde-alerte-sur-la-fragilisation-des-services-de-protection-maternelle-et-infantile-en-france_8300892.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/26/presidentielle-2027-edouard-philippe-presente-ses-propositions-en-matiere-de-sante-entre-nouveaux-vaccins-obligatoires-et-obligation-de-solidarite-pour-les-medecins_6815577_6205049.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "1cff13cebdc4317839347a3bc011c8dff3995daab1692a52bedf409919de260c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "0afdd6b95441b15c64de5d992d94c387b0f698a84225fc2a83fd30d644d53938",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-bb74b0e6bd82b76d13",
@@ -1002,54 +1003,60 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2f81bc438eb31da2f3",
-      "revision": 2,
+      "id": "rss-58a4a7f7cced05af7c",
+      "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
+      "topic": "Société",
+      "title": "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage",
       "bullets": [
-        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
-        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
+        "Les parlementaires ont trouvé, jeudi 26 novembre, un accord sur une proposition de loi en ce sens, ouvrant ainsi la voie à son adoption définitive prochaine au Parlement.",
+        "Des divorces pour faute ont ainsi pu être prononcés au motif de l'absence de relations sexuelles consenties par l'un des époux, conduisant la Cour européenne des droits de l'homme à condamner la France sur ce sujet en 2025 et lui imposant d'abandonner cette jurisprudence.",
+        "L'examen du texte à l'Assemblée nationale est prévu le 7 décembre."
       ],
-      "publishedAt": "2026-11-26T05:55:01+00:00",
-      "updatedAt": "2026-11-26T05:55:01+00:00",
+      "publishedAt": "2026-11-26T16:37:48+00:00",
+      "updatedAt": "2026-11-26T16:37:48+00:00",
       "importance": 77,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/droits-des-femmes/deputes-et-senateurs-s-entendent-pour-mettre-fin-au-devoir-conjugal-et-exclure-toute-obligation-sexuelle-dans-le-mariage_8301603.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "2f222bb6db19b46cb30b67059807024b945a8699d74d4ba427f1374281067717",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
     },
     {
-      "id": "rss-537c3591c9aa934fa4",
-      "revision": 2,
+      "id": "rss-0affd51f7b9ce290ec",
+      "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "topic": "Santé",
+      "title": "Médecins du Monde alerte sur la fragilisation des services de protection maternelle et infantile en France",
       "bullets": [
-        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
-        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
+        "Médecins du Monde alerte sur les difficultés persistantes d'accès aux soins des populations les plus précaires et sur la fragilisation des services publics de santé, dans son rapport annuel publié jeudi 26 novembre, rapporte France Culture.",
+        "Selon l'association, 46% des patients reçus dans ses centres présentent une pathologie grave, souvent à un stade avancé.",
+        "En dix ans, la protection maternelle et infantile a perdu un quart de son budget et 40% de ses pédiatres."
       ],
-      "publishedAt": "2026-11-25T23:50:44+00:00",
-      "updatedAt": "2026-11-25T23:50:44+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-26T07:06:47+00:00",
+      "updatedAt": "2026-11-26T07:06:47+00:00",
+      "importance": 73,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/soigner/medecins-du-monde-alerte-sur-la-fragilisation-des-services-de-protection-maternelle-et-infantile-en-france_8300892.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "1cff13cebdc4317839347a3bc011c8dff3995daab1692a52bedf409919de260c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
     },
     {
       "id": "rss-67ae1bf76472984e41",
@@ -1076,6 +1083,136 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-673fb126eefdd0d49b",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Une femme dépose une grenade à l'accueil d'un commissariat en Charente-Maritime, nécessitant l'évacuation du bâtiment",
+      "bullets": [
+        "Une femme a déposé une grenade de la Seconde Guerre mondiale au commissariat de Royan (Charente-Maritime) mercredi 25 novembre, provoquant l'évacuation de l'accueil du bâtiment, rapporte ICI La Rochelle jeudi 26 novembre.",
+        "La femme n'explique pas immédiatement la raison de sa venue et dépose la grenade sur le bureau de l'accueil.",
+        "Contactés, les démineurs recommandent aux policiers de scotcher le bouton allumeur de cette grenade à fragmentation Mk II, très utilisée jusque dans les années 1960."
+      ],
+      "publishedAt": "2026-11-26T16:03:09+00:00",
+      "updatedAt": "2026-11-26T16:03:09+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/une-femme-depose-une-grenade-a-l-accueil-d-un-commissariat-en-charente-maritime-necessitant-l-evacuation-du-batiment_8301660.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "dc58d70027a81a46385888dd98b0e1c53de9c026bf3462b2951a26e0c779d63d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-330fa68a73865a60e5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
+      "bullets": [
+        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
+        "Des marées historiques et des vagues de 9 mètres frappent la Californie",
+        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
+      ],
+      "publishedAt": "2026-11-26T15:21:59+00:00",
+      "updatedAt": "2026-11-26T15:21:59+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-05ee63112179599526",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "bullets": [
+        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers le Royaume-Uni.",
+        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+      ],
+      "publishedAt": "2026-11-26T05:00:19+00:00",
+      "updatedAt": "2026-11-26T05:00:19+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "68b6d744ed46f07c3fba657bccf6766526c752254cf93a4e601ed96614e36f16",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-950695ef86eb6f7f3f",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires",
+      "bullets": [
+        "Vincent Tejedor, secrétaire général à la planification écologique et chef du pôle vert de Matignon, a été interpellé par des élus locaux, mercredi 25 novembre, lors d’une table ronde au congrès des maires, sur la baisse de financements consacrés à la transition écologique."
+      ],
+      "publishedAt": "2026-11-26T16:15:01+00:00",
+      "updatedAt": "2026-11-26T16:15:01+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b615cfb7fa1044cc53c5e3ec8dd58a5988b7a197f9cae301e00c15bfcb7c0cc0",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-65f73723ac668458e7",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
+      "bullets": [
+        "Sous la pression de ses concurrents de droite et du centre pour l’organisation d’une primaire, le candidat d’Horizons avait sous-estimé la percée du maire de Cannes.",
+        "Il dénonce désormais ses ambiguïtés avec l’extrême droite et veut se démarquer de sa ligne ultralibérale."
+      ],
+      "publishedAt": "2026-11-26T12:00:07+00:00",
+      "updatedAt": "2026-11-26T12:00:07+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4439b742df896be18617b523dcaf7b1f8608625c38886e97dfa3f2a49b657f68",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f3d49ae0ee819470c5",
       "revision": 1,
       "category": "france",
@@ -1099,132 +1236,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "53eede92ecbaa89f9b0849cf900a4f88fd5aad14d4a7dd2b687706b180a7954a",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c4cabc432d92fd6352",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Procureur présent au siège du RN lors d’une perquisition : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »",
-      "bullets": [
-        "Le Garde des Sceaux a pointé « un défaut de loyauté » manifeste du haut magistrat, qui n’a pas posé de jour de congé pour rendre visite à une personnalité politique – Jean-Paul Garraud, député européen RN –, et qui n’a pas informé sa supérieure du fait qu’il avait croisé…"
-      ],
-      "publishedAt": "2026-11-25T07:55:20+00:00",
-      "updatedAt": "2026-11-25T07:55:20+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/25/procureur-present-lors-d-une-perquisition-au-rn-gerald-darmanin-annonce-saisir-l-inspection-generale-de-la-justice-pour-faire-toute-la-lumiere_6815060_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "298789bfafcc967306cb9857c555b4a4eef3b95b0162ead9a145cc99d7297357",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0911a1d151ef903a8b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
-      "bullets": [
-        "Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, des parents et du personnel, ainsi que sur les attentes de proviseurs."
-      ],
-      "publishedAt": "2026-11-25T04:45:07+00:00",
-      "updatedAt": "2026-11-25T04:45:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-229544ef0747a5cde5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Ces dermatologues qui préfèrent le Botox",
-      "bullets": [
-        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
-        "\"Il lui disait de se calmer, que c'était ridicule\" : un médecin régulateur du Samu jugé six ans après la mort de Sarah, décédée des suites d'une grossesse extra-utérine malgré ses appels au 15",
-        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
-      ],
-      "publishedAt": "2026-11-25T16:00:02+00:00",
-      "updatedAt": "2026-11-25T16:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T15:17:40.345028+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0c93562516722e9159",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
-      "bullets": [
-        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
-        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
-      ],
-      "publishedAt": "2026-11-24T23:20:22+00:00",
-      "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-af681c0f50302c88ea",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
-      "bullets": [
-        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
-        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
-      ],
-      "publishedAt": "2026-11-24T17:30:00+00:00",
-      "updatedAt": "2026-11-24T17:30:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1238,7 +1249,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 3
+      "candidates": 4
     },
     {
       "publisher": "Franceinfo",
@@ -1262,13 +1273,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
@@ -1286,7 +1297,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Le Figaro",
@@ -1304,19 +1315,19 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 13
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 17
     },
     {
       "publisher": "Le Monde",
@@ -1340,7 +1351,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
