@@ -1,39 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T06:09:18.917665+00:00",
+  "preparedAt": "2026-11-26T07:38:08.103545+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-4543724f62edbec0b7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
-      "bullets": [
-        "Depuis 2022, l'aide totale à l'Ukraine approche les 400 milliards d'euros, révèlent, jeudi 25 novembre, la rédaction internationale et le service d'enquête numérique de Radio France qui ont compilé les données, publiées par l'institut de recherche allemand Kiel Institute.",
-        "Effort financier en faveur de l'Ukraine rapporté à la richesse nationale (en % du PIB 2021).",
-        "(Source : Kiel Institute / Janvier 2022 – août 2026)Au total, la somme des contributions cumulées des 41 pays recensés par le Kiel Institute atteint 382,89 milliards d'euros entre début 2022 et août 2026."
-      ],
-      "publishedAt": "2026-11-26T05:00:10+00:00",
-      "updatedAt": "2026-11-26T05:00:10+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "d97ed6b482d5c7a74fa36ffde24b1d3af24c212b0b529d9a0eefb1efc001fc2d",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
-      "context": null
-    },
     {
       "id": "rss-42394b2aa0859478b4",
       "revision": 1,
@@ -93,7 +65,7 @@
       ],
       "publishedAt": "2026-11-25T19:15:00+00:00",
       "updatedAt": "2026-11-25T19:15:00+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -182,6 +154,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-8ab353a14f7874ddb2",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présidentielle 2027 : la lutte contre la fraude sociale et fiscale, cette promesse d’argent facile qui se heurte à la réalité",
+      "bullets": [
+        "Plusieurs candidats à la présidentielle promettent d’obtenir plusieurs milliards d’euros en renforçant la lutte contre les fraudes sociales et fiscales.",
+        "Mais ces ambitions se heurtent à des difficultés structurelles d’identification et de recouvrement."
+      ],
+      "publishedAt": "2026-11-26T06:47:34+00:00",
+      "updatedAt": "2026-11-26T06:47:34+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/presidentielle-2027-la-lutte-contre-la-fraude-sociale-et-fiscale-cette-promesse-d-argent-facile-qui-se-heurte-a-la-realite-20261125",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "eda4c0f46466d1eb108a38d179cc5078b61a60157de2e624178f79d08bc7aaa5",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2f81bc438eb31da2f3",
       "revision": 1,
       "category": "eco",
@@ -191,8 +188,8 @@
         "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
         "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
       ],
-      "publishedAt": "2026-11-26T05:55:03+00:00",
-      "updatedAt": "2026-11-26T05:55:03+00:00",
+      "publishedAt": "2026-11-26T05:55:01+00:00",
+      "updatedAt": "2026-11-26T05:55:01+00:00",
       "importance": 77,
       "sources": [
         {
@@ -218,7 +215,7 @@
       ],
       "publishedAt": "2026-11-25T19:30:00+00:00",
       "updatedAt": "2026-11-25T19:30:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -242,7 +239,7 @@
       ],
       "publishedAt": "2026-11-25T18:15:00+00:00",
       "updatedAt": "2026-11-25T18:15:00+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -253,31 +250,6 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "8af1d86c340232ccf7b87260c7c801f4ef7be9913d27bae29f54741d8f9c8db3",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8ab353a14f7874ddb2",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : la lutte contre la fraude sociale et fiscale, cette promesse d’argent facile qui se heurte à la réalité",
-      "bullets": [
-        "Plusieurs candidats à la présidentielle promettent d’obtenir plusieurs milliards d’euros en renforçant la lutte contre les fraudes sociales et fiscales.",
-        "Mais ces ambitions se heurtent à des difficultés structurelles d’identification et de recouvrement."
-      ],
-      "publishedAt": "2026-11-25T17:13:07+00:00",
-      "updatedAt": "2026-11-25T17:13:07+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/presidentielle-2027-la-lutte-contre-la-fraude-sociale-et-fiscale-cette-promesse-d-argent-facile-qui-se-heurte-a-la-realite-20261125",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "eda4c0f46466d1eb108a38d179cc5078b61a60157de2e624178f79d08bc7aaa5",
       "detailLevel": "preview"
     },
     {
@@ -309,6 +281,34 @@
       "context": null
     },
     {
+      "id": "rss-4c01a428e4559179a9",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La banque indépendante Delubac placée sous le contrôle du gendarme du secteur bancaire",
+      "bullets": [
+        "Cyberattaque et amendeLa banque a annoncé lundi avoir été la cible d'une \"intrusion informatique\", qui a entraîné une \"fuite de données\" d'une partie de la clientèle.",
+        "En juin 2025, l'ACPR avait adressé une amende de 600 000 euros à Delubac car son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme présentait des \"insuffisances\".",
+        "La banque avait aussi lancé plus tôt dans l'année un plan social visant à supprimer 55 emplois, soit plus de 12% de ses effectifs."
+      ],
+      "publishedAt": "2026-11-25T17:01:43+00:00",
+      "updatedAt": "2026-11-25T17:01:43+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/la-banque-independante-delubac-placee-sous-le-controle-du-gendarme-du-secteur-bancaire_8299923.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "4071d4be855636dabc5bd1e628edf626576e7cc3d1c5748035f6ad44cf3299d5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -333,7 +333,7 @@
       "provenance": "article-extract",
       "summaryInput": "e9711fc108922ac988049e9499f825075eb62e01b08b222174730a7778e1805b",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
       "context": null
     },
     {
@@ -347,8 +347,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T06:03:06+00:00",
-      "updatedAt": "2026-11-26T06:03:06+00:00",
+      "publishedAt": "2026-11-26T07:36:07+00:00",
+      "updatedAt": "2026-11-26T07:36:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -361,7 +361,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
       "context": null
     },
     {
@@ -393,6 +393,34 @@
       "context": null
     },
     {
+      "id": "rss-9b02982bda6274d302",
+      "revision": 1,
+      "category": "markets",
+      "topic": "Marchés",
+      "title": "CAC 40 : Une pause de Thanksgiving bienvenue dans un marché échevelé",
+      "bullets": [
+        "L'indice phare de la Bourse de Paris, le CAC 40, a vivement reflué mercredi, en perdant 0,75% à 7 980 points, en clôturant sur les points bas de séance, sous le seuil symbolique des 8 000 points.",
+        "L'administration américaine a annoncé de nouveaux droits de douane visant 14 partenaires commerciaux, dont la Chine, l'Union européenne, le Japon et l'Inde.",
+        "Hors CAC 40, Rémy Cointreau a pris 13,1% après avoir relevé ses objectifs et livré de nouvelles ambitions de moyen terme."
+      ],
+      "publishedAt": "2026-11-26T07:31:47+00:00",
+      "updatedAt": "2026-11-26T07:31:47+00:00",
+      "importance": 63,
+      "sources": [
+        {
+          "publisher": "BFM Bourse",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-une-pause-de-thanksgiving-bienvenue-dans-un-marche-echevele-1174449.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "379aea81f75d5a724769cc5276cf6a725fa8311ca3d9161a14920aff5f3743e5",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
       "id": "rss-6e4f45d5a84fc1e2ed",
       "revision": 1,
       "category": "markets",
@@ -418,34 +446,6 @@
       "summaryInput": "a5239fe8b111f4728c6d808d6ca8dba94c19a872f107325aa44291c7151c3a0d",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-fd961c4fcbbd4ef7e3",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "CAC 40 : En attendant une batterie d'indicateurs américains, le CAC 40 avance un peu",
-      "bullets": [
-        "L'indice phare de la Bourse de Paris prend 0,39% à 8.071,67 points.",
-        ">> Accédez à nos analyses graphiques exclusives, et entrez dans la confidence du Portefeuille Trading Sanofi monte encore Du côté des valeurs, Bureau Veritas s'adjuge 6,7% alors que, selon Bloomberg, le fonds Advent lorgne un rachat du groupe.",
-        "Le contrat de janvier sur le Brent de mer du Nord prend 0,2% à 88,97 dollars le baril tandis que celui de même échéance sur le WTI coté à New York avance de 0,34% à 82,33 dollars le baril."
-      ],
-      "publishedAt": "2026-11-25T12:52:34+00:00",
-      "updatedAt": "2026-11-25T12:52:34+00:00",
-      "importance": 62,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-une-batterie-d-indicateurs-americains-le-cac-40-avance-un-peu-1174415.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "95f3c76c6c8ff5a0c1be07c617a6b63264a4f730d469eccaee6d7f9c4c39fc15",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T03:10:01.918926+00:00",
       "context": null
     },
     {
@@ -585,7 +585,7 @@
       "provenance": "article-extract",
       "summaryInput": "0433bd967e9431565b581b722ef54f1930375b939758c589467ae32dca8b3ff6",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
       "context": null
     },
     {
@@ -613,7 +613,35 @@
       "provenance": "article-extract",
       "summaryInput": "f0b9b45b02931179f8e89daae0000aa4c9d9b57fee7cd21f6588052193f4c6ec",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T19:08:38.988497+00:00",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4543724f62edbec0b7",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
+      "bullets": [
+        "Depuis 2022, l'aide totale à l'Ukraine approche les 400 milliards d'euros, révèlent, jeudi 25 novembre, la rédaction internationale et le service d'enquête numérique de Radio France qui ont compilé les données, publiées par l'institut de recherche allemand Kiel Institute.",
+        "Effort financier en faveur de l'Ukraine rapporté à la richesse nationale (en % du PIB 2021).",
+        "(Source : Kiel Institute / Janvier 2022 – août 2026)Au total, la somme des contributions cumulées des 41 pays recensés par le Kiel Institute atteint 382,89 milliards d'euros entre début 2022 et août 2026."
+      ],
+      "publishedAt": "2026-11-26T05:00:10+00:00",
+      "updatedAt": "2026-11-26T05:00:10+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "d97ed6b482d5c7a74fa36ffde24b1d3af24c212b0b529d9a0eefb1efc001fc2d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
       "context": null
     },
     {
@@ -655,7 +683,7 @@
       ],
       "publishedAt": "2026-11-25T18:57:23+00:00",
       "updatedAt": "2026-11-25T18:57:23+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -833,7 +861,7 @@
       ],
       "publishedAt": "2026-11-25T19:32:42+00:00",
       "updatedAt": "2026-11-25T19:32:42+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -858,7 +886,7 @@
       ],
       "publishedAt": "2026-11-25T18:30:05+00:00",
       "updatedAt": "2026-11-25T18:30:05+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -882,7 +910,7 @@
       ],
       "publishedAt": "2026-11-24T18:09:46+00:00",
       "updatedAt": "2026-11-24T18:09:46+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -893,30 +921,6 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "c67c6a46b2224f44ad6acf392926632f1f3b828767aaed3ac08fdf874f5723ea",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-2c559e00ba6e6929f2",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Soit tu as de l’argent et tu peux te nourrir, soit tu es cuit » : dix ans après la mort de Fidel Castro, Cuba a tourné la page du communisme",
-      "bullets": [
-        "REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable."
-      ],
-      "publishedAt": "2026-11-24T13:26:40+00:00",
-      "updatedAt": "2026-11-24T13:26:40+00:00",
-      "importance": 70,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/soit-tu-as-de-l-argent-et-tu-peux-te-nourrir-soit-tu-es-cuit-dix-ans-apres-la-mort-de-fidel-castro-cuba-a-tourne-la-page-du-communisme-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e18a62853231886a4375c7fd4caebdc499d7de5364f3578ca690ab3fd5b9763f",
       "detailLevel": "preview"
     },
     {
@@ -945,13 +949,13 @@
     },
     {
       "id": "rss-537c3591c9aa934fa4",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
       "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
       "bullets": [
-        "La droite sénatoriale, majoritaire dans l’hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
-        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteure générale, Christine Lavarde, élue Les Républicains."
+        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
+        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
       ],
       "publishedAt": "2026-11-25T23:50:44+00:00",
       "updatedAt": "2026-11-25T23:50:44+00:00",
@@ -965,7 +969,7 @@
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "d73c9c4d683ea49b02234ea163e378afb4c969e81c394d323e54e06d19cd9b5c",
+      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
       "detailLevel": "preview"
     },
     {
@@ -990,6 +994,137 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "b805fd5b6348c98ef1b01d62ad2d1b46c353c8a0183390d2c9b6c05346d553da",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-0affd51f7b9ce290ec",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Médecins du Monde alerte sur la fragilisation des services de protection maternelle et infantile en France",
+      "bullets": [
+        "Médecins du Monde alerte sur les difficultés persistantes d'accès aux soins des populations les plus précaires et sur la fragilisation des services publics de santé, dans son rapport annuel publié jeudi 26 novembre, rapporte France Culture.",
+        "Selon l'association, 46% des patients reçus dans ses centres présentent une pathologie grave, souvent à un stade avancé.",
+        "En dix ans, la protection maternelle et infantile a perdu un quart de son budget et 40% de ses pédiatres."
+      ],
+      "publishedAt": "2026-11-26T07:06:47+00:00",
+      "updatedAt": "2026-11-26T07:06:47+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/soigner/medecins-du-monde-alerte-sur-la-fragilisation-des-services-de-protection-maternelle-et-infantile-en-france_8300892.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "1cff13cebdc4317839347a3bc011c8dff3995daab1692a52bedf409919de260c",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4ab39f0f56cf9c616e",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "Emilie König, \"égérie\" de l'Etat islamique, devant la justice",
+      "bullets": [
+        "Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010.",
+        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande",
+        "Le pape François raconte avoir vu le diable 3 fois dans sa vie"
+      ],
+      "publishedAt": "2026-11-26T07:06:44+00:00",
+      "updatedAt": "2026-11-26T07:06:44+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-egerie-de-l-etat-islamique-devant-la-justice_8300913.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "d7941c4ef6fd66b2a2c56002069d53c65e5a3feda28b47f886ee434388e30387",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-d65769d50f65f312aa",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "\"La ressource n'est pas inépuisable\", alerte le syndicat de police Un1té police avant les rassemblements de policiers",
+      "bullets": [
+        "\"La ressource n'est pas inépuisable et la ressource est clairement en train d'être épuisée\", alerte jeudi 26 novembre sur franceinfo Grégory Joron, secrétaire général du syndicat Un1té police, alors qu'une intersyndicale de la police nationale appelle à des rassemblements jeudi midi \"devant tous les commissariats de France\".",
+        "La profession milite pour qu'elle passe de 28,5% à 35%, dénonçant un métier \"extrêmement difficile\"."
+      ],
+      "publishedAt": "2026-11-26T06:43:36+00:00",
+      "updatedAt": "2026-11-26T06:43:36+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestation-des-policiers/la-ressource-n-est-pas-inepuisable-alerte-le-syndicat-de-police-un1te-police-avant-les-rassemblements-de-policiers_8300868.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "97291170df9f2c00920ee57b1435abe9ba43d824fc2e9afa2f991d2b18262803",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T07:38:08.103545+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-9a7ad30235a1860992",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Au Festival des 3 continents, à Nantes, Lê Bao, jeune pousse du cinéma vietnamien, enchante avec son univers délicatement fêlé",
+      "bullets": [
+        "Le deuxième long-métrage du réalisateur, « Hearing », est en compétition dans le cadre de la 48e édition, qui a lieu jusqu’au 28 novembre."
+      ],
+      "publishedAt": "2026-11-26T07:00:07+00:00",
+      "updatedAt": "2026-11-26T07:00:07+00:00",
+      "importance": 47,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/26/au-festival-des-3-continents-a-nantes-le-bao-jeune-pousse-du-cinema-vietnamien-enchante-avec-son-univers-delicatement-fele_6815490_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2746ebe2d614123f715d8421bd500abd8830a232f6314e11763f87182c977dcb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dc68faff9f1b048227",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Budget de l’UE : la France ne veut « pas un euro » de moins pour la PAC, prévient Emmanuel Macron",
+      "bullets": [
+        "« L’enveloppe actuelle de la France, c’est 66,25 milliards » d’euros « de crédits européens », « nous, on veut nos 66,25 milliards de crédits européens, les plus lisibles et les plus fléchés possibles », dans le budget pluriannuel pour 2028-2034, a dit le chef de l’Etat."
+      ],
+      "publishedAt": "2026-11-25T16:56:34+00:00",
+      "updatedAt": "2026-11-25T16:56:34+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/budget-de-l-ue-la-france-ne-veut-pas-un-euro-de-moins-pour-la-pac-previent-emmanuel-macron_6815145_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "68778ac02fcca7b326ccb9063349902b245f966151bb68ae4890496c77a91ada",
       "detailLevel": "preview"
     },
     {
@@ -1019,104 +1154,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
       "context": null
-    },
-    {
-      "id": "rss-bb74b0e6bd82b76d13",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
-      "bullets": [
-        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
-        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
-      ],
-      "publishedAt": "2026-11-25T11:39:02+00:00",
-      "updatedAt": "2026-11-25T11:39:02+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-af681c0f50302c88ea",
-      "revision": 1,
-      "category": "france",
-      "topic": "Faits divers",
-      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
-      "bullets": [
-        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
-        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
-      ],
-      "publishedAt": "2026-11-24T17:30:00+00:00",
-      "updatedAt": "2026-11-24T17:30:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-ce40d0c0ee0f34eb3d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Congo Boy » : un jeune réfugié en Centrafrique tente sa chance dans un concours musical",
-      "bullets": [
-        "Rafiki Fariala signe un premier long-métrage de fiction dont le personnage central est un garçon de 17 ans qui, en plein chaos de guerre civile, rêve de devenir artiste."
-      ],
-      "publishedAt": "2026-11-24T15:30:09+00:00",
-      "updatedAt": "2026-11-24T15:30:09+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/24/congo-boy-un-jeune-refugie-en-centrafrique-tente-sa-chance-dans-un-concours-musical_6814809_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5395dd8c0f33c5335bfab100caef3875716c61467baf11a2267db572caa28ab1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-dc68faff9f1b048227",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget de l’UE : la France ne veut « pas un euro » de moins pour la PAC, prévient Emmanuel Macron",
-      "bullets": [
-        "« L’enveloppe actuelle de la France, c’est 66,25 milliards » d’euros « de crédits européens », « nous, on veut nos 66,25 milliards de crédits européens, les plus lisibles et les plus fléchés possibles », dans le budget pluriannuel pour 2028-2034, a dit le chef de l’Etat."
-      ],
-      "publishedAt": "2026-11-25T16:56:34+00:00",
-      "updatedAt": "2026-11-25T16:56:34+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/budget-de-l-ue-la-france-ne-veut-pas-un-euro-de-moins-pour-la-pac-previent-emmanuel-macron_6815145_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "68778ac02fcca7b326ccb9063349902b245f966151bb68ae4890496c77a91ada",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-67ae1bf76472984e41",
@@ -1193,6 +1230,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-bb74b0e6bd82b76d13",
+      "revision": 1,
+      "category": "france",
+      "topic": "Justice",
+      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+      "bullets": [
+        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
+        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
+      ],
+      "publishedAt": "2026-11-25T11:39:02+00:00",
+      "updatedAt": "2026-11-25T11:39:02+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c4cabc432d92fd6352",
       "revision": 1,
       "category": "france",
@@ -1241,31 +1303,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-0c93562516722e9159",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
-      "bullets": [
-        "L’action a été revendiquée par Le « mouvement de la jeunesse identitaire toulousaine » Furie.",
-        "Le youtubeur fait l’objet d’attaques en ligne depuis la publication d’une vidéo avec une coach sportive portant le drapeau français en guise de voile."
-      ],
-      "publishedAt": "2026-11-24T23:20:22+00:00",
-      "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-40f06a6c9801e81e0f",
       "revision": 1,
       "category": "france",
@@ -1292,34 +1329,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-25T20:08:26.958487+00:00",
       "context": null
-    },
-    {
-      "id": "rss-229544ef0747a5cde5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Ces dermatologues qui préfèrent le Botox",
-      "bullets": [
-        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
-        "Le gouvernement veut plafonner l’esthétique à 30 % de l'activité des dermatologues.",
-        "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande"
-      ],
-      "publishedAt": "2026-11-25T16:00:02+00:00",
-      "updatedAt": "2026-11-25T16:00:02+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1333,7 +1342,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Franceinfo",
@@ -1345,7 +1354,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1357,13 +1366,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 16
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 18
+      "candidates": 17
     },
     {
       "publisher": "Le Figaro",
