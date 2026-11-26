@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-26",
-  "preparedAt": "2026-11-26T11:09:49.047114+00:00",
+  "preparedAt": "2026-11-26T12:14:41.815947+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-4543724f62edbec0b7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
+      "bullets": [
+        "Depuis 2022, l'aide totale à l'Ukraine approche les 400 milliards d'euros, révèlent, jeudi 25 novembre, la rédaction internationale et le service d'enquête numérique de Radio France qui ont compilé les données, publiées par l'institut de recherche allemand Kiel Institute.",
+        "Effort financier en faveur de l'Ukraine rapporté à la richesse nationale (en % du PIB 2021).",
+        "(Source : Kiel Institute / Janvier 2022 – août 2026)Au total, la somme des contributions cumulées des 41 pays recensés par le Kiel Institute atteint 382,89 milliards d'euros entre début 2022 et août 2026."
+      ],
+      "publishedAt": "2026-11-26T05:00:10+00:00",
+      "updatedAt": "2026-11-26T05:00:10+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "d97ed6b482d5c7a74fa36ffde24b1d3af24c212b0b529d9a0eefb1efc001fc2d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
+      "context": null
+    },
     {
       "id": "rss-42394b2aa0859478b4",
       "revision": 1,
@@ -56,51 +84,30 @@
     },
     {
       "id": "rss-bc870e46686f178c14",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
       "title": "La Chine menace de riposter face à l’annonce des nouveaux droits de douane américains",
       "bullets": [
-        "La Chine a averti jeudi qu’elle se réservait le droit de prendre les « mesures nécessaires » en réponse aux nouveaux droits de douane annoncés par les États-Unis."
+        "De nouveaux droits de douane envisagés par les États-Unis Les deux hommes se sont rencontrés la semaine dernière lors d’un sommet de l’APEC à Shenzhen, dans le sud de la Chine, et doivent se revoir pour la quatrième fois cette année en décembre, au sommet du G20 aux États-Unis.",
+        "La Chine fait partie des pays concernés par ce taux maximal de 20 %, mais le représentant américain au Commerce, Jamieson Greer, a déclaré que ces nouveaux prélèvements s’inscrivaient dans le cadre des négociations commerciales en cours avec Pékin."
       ],
-      "publishedAt": "2026-11-26T10:03:56+00:00",
-      "updatedAt": "2026-11-26T10:03:56+00:00",
+      "publishedAt": "2026-11-26T11:17:46+00:00",
+      "updatedAt": "2026-11-26T11:17:46+00:00",
       "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
           "url": "https://www.lefigaro.fr/conjoncture/la-chine-menace-de-riposter-face-a-l-annonce-des-nouveaux-droits-de-douane-americains-20261126",
-          "access": "extrait"
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "269f35a520b68ade49684e36f782d167afc8f90e93ca6fd45534dc6404c57b31",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c8b603422edc933cc7",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Droits de douane : les arguments déroutants de Donald Trump pour relancer son offensive commerciale",
-      "bullets": [
-        "DÉCRYPTAGE - Chine, Suisse, Japon, Europe... L’Administration Trump brandit de nouveaux prétextes pour surtaxer ses principaux partenaires économiques. Une multitude de pratiques « déloyales » nuisent à l’économie américaine, juge le département au Commerce."
-      ],
-      "publishedAt": "2026-11-25T19:15:00+00:00",
-      "updatedAt": "2026-11-25T19:15:00+00:00",
-      "importance": 80,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/droits-de-douane-les-arguments-deroutants-de-donald-trump-pour-relancer-son-offensive-commerciale-20261125",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "095ef6de608de0c4a676c3ade3265389a3b092b6941bc7c83f9452334155909b",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "54e1ad91be6882997167d02fd5b0f113d3a872210ee0a18ce5f51f0fa5be166d",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
+      "context": null
     },
     {
       "id": "rss-2cb40ee1fee21e3163",
@@ -155,56 +162,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2f81bc438eb31da2f3",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
-      "bullets": [
-        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
-        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
-      ],
-      "publishedAt": "2026-11-26T05:55:01+00:00",
-      "updatedAt": "2026-11-26T05:55:01+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-91393136e172360998",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Paris au défi de sauvegarder la prochaine PAC pour les agriculteurs français",
-      "bullets": [
-        "DÉCRYPTAGE - Emmanuel Macron a promis au monde agricole français que « pas un euro » de la politique agricole ne ferait défaut dans le prochain budget.",
-        "Mais il manque toujours plus de 2 milliards par an."
-      ],
-      "publishedAt": "2026-11-25T19:30:00+00:00",
-      "updatedAt": "2026-11-25T19:30:00+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/economie/paris-au-defi-de-sauvegarder-la-prochaine-pac-pour-les-agriculteurs-francais-20261125",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9bab94b37537690a4b4a9fbd502c1574f16fde1a766eb778c022ae4cd2bd1fe9",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-4f2e2b0a01cf60bdb8",
       "revision": 1,
       "category": "eco",
@@ -214,8 +171,8 @@
         "Le parti de Jean-Luc Mélenchon veut fermer les centrales nucléaires françaises et faire «de l’océan la première source d’énergie renouvelable propre».",
         "Sans chiffrer les conséquences de ces choix, ni prendre en compte les retours d’expérience."
       ],
-      "publishedAt": "2026-11-26T10:09:53+00:00",
-      "updatedAt": "2026-11-26T10:09:53+00:00",
+      "publishedAt": "2026-11-26T11:37:19+00:00",
+      "updatedAt": "2026-11-26T11:37:19+00:00",
       "importance": 75,
       "sources": [
         {
@@ -228,6 +185,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "86eca3de072aa065a7d90f6678b593722d8de19fc522d93404d2e173d075ad8d",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-563de5934ea12a0e1c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les jouets vendus en ligne «trop souvent dangereux», alerte le gouvernement avant les fêtes de fin d’année",
+      "bullets": [
+        "Plus d'un jouet sur trois analysés par la Répression des fraudes sur les grandes plateformes, notamment asiatiques, est «dangereux», a alerté jeudi le ministre du Commerce Serge Papin, appelant les consommateurs à «la vigilance» et à se tourner vers «les commerces physiques» avant les fêtes.",
+        "Sur l'ensemble des jouets analysés, «60 % étaient non conformes, et 32 % dangereux».",
+        "Concernant les 332 jouets vendus par des plateformes, «77 % étaient non conformes et 40%» dangereux, soit «des taux nettement supérieurs à la moyenne du marché», insiste en revanche Bercy."
+      ],
+      "publishedAt": "2026-11-26T12:09:01+00:00",
+      "updatedAt": "2026-11-26T12:09:01+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/les-jouets-vendus-en-ligne-trop-souvent-dangereux-alerte-le-gouvernement-avant-les-fetes-de-fin-d-annee-20261126",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "944accbf2dd943c009863f21e99640d76baec998be14612a3803f09d45c79383",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
+      "context": null
     },
     {
       "id": "rss-7bb1036be54ce16b71",
@@ -314,6 +299,30 @@
       "context": null
     },
     {
+      "id": "rss-8724dd1b720c8c3a12",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La saison de ski s’ouvre en pleine incertitude : « Avec la conjoncture économique, les Français veulent encore plus qu’avant avoir l’assurance de la neige »",
+      "bullets": [
+        "Les premières chutes de neige ont rassuré les professionnels, mais ces derniers doivent composer avec des Français plus attentifs à leur budget, des réservations tardives et un modèle économique fragilisé par le réchauffement climatique."
+      ],
+      "publishedAt": "2026-11-26T04:45:00+00:00",
+      "updatedAt": "2026-11-26T04:45:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/la-saison-de-ski-s-ouvre-en-pleine-incertitude-avec-la-conjoncture-economique-les-francais-veulent-encore-plus-qu-avant-avoir-l-assurance-de-la-neige_6815469_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "83065baa2c84d9f7ae097452eb987101b3f042bd625777e6a148301135c1aa8e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-8807b484bedc9ddb20",
       "revision": 1,
       "category": "markets",
@@ -352,8 +361,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T11:07:34+00:00",
-      "updatedAt": "2026-11-26T11:07:34+00:00",
+      "publishedAt": "2026-11-26T12:14:39+00:00",
+      "updatedAt": "2026-11-26T12:14:39+00:00",
       "importance": 69,
       "sources": [
         {
@@ -474,7 +483,7 @@
       "provenance": "article-extract",
       "summaryInput": "3ca8643ff0792373e7df2b9e46c775786d4a907f2a2b433648c6fd7e5cd247dd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-25T23:59:18.240939+00:00",
+      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
       "context": null
     },
     {
@@ -590,31 +599,31 @@
       "context": null
     },
     {
-      "id": "rss-4543724f62edbec0b7",
+      "id": "rss-bd6b17b9b8d152018b",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
+      "title": "La capitale du Yémen visée par une série de frappes saoudiennes en réplique aux attaques menées par les houthis",
       "bullets": [
-        "Depuis 2022, l'aide totale à l'Ukraine approche les 400 milliards d'euros, révèlent, jeudi 25 novembre, la rédaction internationale et le service d'enquête numérique de Radio France qui ont compilé les données, publiées par l'institut de recherche allemand Kiel Institute.",
-        "Effort financier en faveur de l'Ukraine rapporté à la richesse nationale (en % du PIB 2021).",
-        "(Source : Kiel Institute / Janvier 2022 – août 2026)Au total, la somme des contributions cumulées des 41 pays recensés par le Kiel Institute atteint 382,89 milliards d'euros entre début 2022 et août 2026."
+        "Après de nouvelles attaques menées par les houthis, l'aviation saoudienne a opéré une série de frappes sur Sanaa, la capitale yéménite, jeudi 26 novembre.",
+        "\"L'aviation de l'ennemi saoudien a mené aujourd'hui [jeudi] une série de frappes\" sur la ville, a annoncé notamment l'agence de presse affiliée aux houthis, dans la matinée.",
+        "Mardi 24 novembre, une attaque menée par la milice houthie contre la plus haute tour de la capitale de l'Arabie saoudite a fait 11 blessés."
       ],
-      "publishedAt": "2026-11-26T05:00:10+00:00",
-      "updatedAt": "2026-11-26T05:00:10+00:00",
-      "importance": 99,
+      "publishedAt": "2026-11-26T12:10:09+00:00",
+      "updatedAt": "2026-11-26T12:10:09+00:00",
+      "importance": 85,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/la-capitale-du-yemen-visee-par-une-serie-de-frappes-saoudiennes-en-replique-aux-attaques-menees-par-les-houthis_8301075.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "article-extract",
-      "summaryInput": "d97ed6b482d5c7a74fa36ffde24b1d3af24c212b0b529d9a0eefb1efc001fc2d",
+      "summaryInput": "6ac43b671309fb4c6c21c7ebc7daf2d7bd745a3d76bd2a595b3dd9b4b27a7b13",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
+      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
       "context": null
     },
     {
@@ -799,6 +808,30 @@
       "context": null
     },
     {
+      "id": "rss-b0bccc93b626009358",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Royaume-Uni : l’immigration nette enregistre sa plus forte baisse depuis 1997, hors période du Covid-19",
+      "bullets": [
+        "Le gouvernement du premier ministre Andy Burnham, qui mène une politique migratoire restrictive dans la lignée de celui de son prédécesseur Keir Starmer, s’est félicité, jeudi, d’avoir « rétabli le contrôle »."
+      ],
+      "publishedAt": "2026-11-26T11:56:56+00:00",
+      "updatedAt": "2026-11-26T11:56:56+00:00",
+      "importance": 73,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/royaume-uni-l-immigration-nette-enregistre-sa-plus-forte-baisse-depuis-1997-hors-periode-du-covid-19_6815526_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2913b63b6b0686709d4f459d0b0fffc611cbd71c127b09e92b8534b78b4f3684",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-2c559e00ba6e6929f2",
       "revision": 1,
       "category": "world",
@@ -875,80 +908,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-389fa3d7db79adc124",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Donald Trump et le secrétaire général de l'Otan, Mark Rutte, exhortent la Russie à ne pas \"étendre la guerre\" avec l'Ukraine",
-      "bullets": [
-        "Donald Trump et le chef de l'Otan, Mark Rutte, se sont rencontrés dans la résidence du président américain en Floride, mercredi 25 novembre.",
-        "A cette occasion, ils ont appelé la Russie à ne pas \"étendre la guerre\" en Ukraine, dans une déclaration conjointe.",
-        "Cette rencontre est intervenue quelques jours après que Mark Rutte s'est engagé à défendre la Pologne, membre de l'Otan, après la chute de missiles russes sur son territoire."
-      ],
-      "publishedAt": "2026-11-26T08:29:36+00:00",
-      "updatedAt": "2026-11-26T08:29:36+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "1e9319afcb735f186a37f818cb0772d52311bac78fab12f49d5208b50091eb8f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T09:24:13.447808+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-cead99383c2e6d233c",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
-      "bullets": [
-        "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre »."
-      ],
-      "publishedAt": "2026-11-25T18:57:23+00:00",
-      "updatedAt": "2026-11-25T18:57:23+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7cadcb47e98aa7bb8850e1b48d28493f13a6f296a17b899d00dc2e3aadee1966",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-537c3591c9aa934fa4",
+      "id": "rss-2f81bc438eb31da2f3",
       "revision": 2,
       "category": "france",
-      "topic": "Société",
-      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "topic": "Politique",
+      "title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
       "bullets": [
-        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
-        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
+        "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
+        "L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont les figures de cette campagne."
       ],
-      "publishedAt": "2026-11-25T23:50:44+00:00",
-      "updatedAt": "2026-11-25T23:50:44+00:00",
+      "publishedAt": "2026-11-26T05:55:01+00:00",
+      "updatedAt": "2026-11-26T05:55:01+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
+      "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-05ee63112179599526",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "bullets": [
+        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
+        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+      ],
+      "publishedAt": "2026-11-26T05:00:19+00:00",
+      "updatedAt": "2026-11-26T05:00:19+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
       "detailLevel": "preview"
     },
     {
@@ -1015,7 +1021,7 @@
       ],
       "publishedAt": "2026-11-25T11:39:02+00:00",
       "updatedAt": "2026-11-25T11:39:02+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1081,32 +1087,29 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-a5eaae32b1e30fa6be",
+      "id": "rss-537c3591c9aa934fa4",
       "revision": 2,
       "category": "france",
-      "topic": "Santé",
-      "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
+      "topic": "Politique",
+      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
       "bullets": [
-        "Les progrès en matière de lutte contre le VIH et de ses effets sont indéniables.",
-        "Mais comme tous les traitements, il a un coût et l'argent manque cruellement : \"Les États-Unis ont réduit leur financement de 26%, le Fonds mondial de lutte contre le sida, la tuberculose et le paludisme de 13%.",
-        "Bien sûr, les États les plus touchés par le VIH ont augmenté les sommes allouées à la lutte contre le sida de 4%, mais il faudrait que ce soit bien plus, plaide Mary Mahy."
+        "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit.",
+        "Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteuse générale, Christine Lavarde, élue Les Républicains."
       ],
-      "publishedAt": "2026-11-24T13:21:28+00:00",
-      "updatedAt": "2026-11-24T13:21:28+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-25T23:50:44+00:00",
+      "updatedAt": "2026-11-25T23:50:44+00:00",
+      "importance": 76,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "76c38f2f2c8bacd5e3b523e80dd3914f44de14998278d02d73edcfd740f560a1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T06:09:18.917665+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "b14961bdb6997b10e7a30ef48f8ce7a8ba588741eff255c7fe767bdc4b1446a8",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-67ae1bf76472984e41",
@@ -1133,28 +1136,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-05ee63112179599526",
+      "id": "rss-65f73723ac668458e7",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
-      "title": "Derrière la mort de migrants dans la Manche, un vendeur allemand de pneumatiques : enquête sur une filière mise en cause pour « homicides involontaires »",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
       "bullets": [
-        "Marvin Reuter, patron de la société MaRe Boote, est soupçonné par la justice française d’être l’un des principaux fournisseurs de canots vendus à des passeurs pour embarquer des personnes migrantes des côtes françaises vers l’Angleterre.",
-        "Il est aujourd’hui visé par un mandat d’arrêt européen."
+        "Sous pression de ses concurrents de droite et du centre pour une primaire, le candidat Horizons avait sous-estimé la percée du maire de Cannes.",
+        "Il dénonce désormais ses ambiguïtés avec l’extrême droite et veut se démarquer de sa ligne ultralibérale."
       ],
-      "publishedAt": "2026-11-26T05:00:19+00:00",
-      "updatedAt": "2026-11-26T05:00:19+00:00",
-      "importance": 67,
+      "publishedAt": "2026-11-26T12:00:11+00:00",
+      "updatedAt": "2026-11-26T12:00:11+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/26/derriere-la-mort-de-migrants-dans-la-manche-un-vendeur-allemand-de-pneumatiques-enquete-sur-une-filiere-mise-en-cause-pour-homicides-involontaires_6815477_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
-      "summaryInput": "19bf79f412b517ae718384822e77670a2e63c31cb5935690a959b9d0211121b9",
+      "summaryInput": "e69708f23b628f126853b7357fde3a75826e32e7c7c2f968d517ad965b417de7",
       "detailLevel": "preview"
     },
     {
@@ -1180,55 +1183,6 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "53eede92ecbaa89f9b0849cf900a4f88fd5aad14d4a7dd2b687706b180a7954a",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-31d58794a90d681bdc",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Budget de la « Sécu » 2027 : les députés et sénateurs échouent à s’accorder en commission mixte paritaire",
-      "bullets": [
-        "Les points de vue des sept députés et sept sénateurs réunis, jeudi matin, pour discuter du texte proposé pour un budget de la Sécurité sociale se sont révélés irréconciliables, et ce premier conclave budgétaire de la saison a rapidement été déclaré « non conclusif ».",
-        "Il sera renvoyé à l’Assemblée."
-      ],
-      "publishedAt": "2026-11-26T09:24:29+00:00",
-      "updatedAt": "2026-11-26T09:24:29+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-2027-les-deputes-et-senateurs-echouent-a-s-accorder-en-commission-mixte-paritaire_6815507_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "577c5d871172893eee22c9c0319c028ede783315ac391f78f8f9f5d27cfe82d5",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-588932b7a635a34632",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Les ultramarins peinent toujours à accéder aux postes à responsabilité de la fonction publique",
-      "bullets": [
-        "« L’accès des ultramarins à l’encadrement intermédiaire de l’Etat en outre-Mer se heurte à des obstacles structurels », regrette le député Jiovanny William (apparenté au groupe socialiste), dans un rapport annexé au budget 2027."
-      ],
-      "publishedAt": "2026-11-26T09:00:11+00:00",
-      "updatedAt": "2026-11-26T09:00:11+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/les-ultramarins-peinent-toujours-a-acceder-aux-postes-a-responsabilite-de-la-fonction-publique_6815504_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "f07bd4612ecb2c3ccd79253b188f0cb6af6484412042399c5b3babf69cb543fa",
       "detailLevel": "preview"
     },
     {
@@ -1280,6 +1234,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-229544ef0747a5cde5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Ces dermatologues qui préfèrent le Botox",
+      "bullets": [
+        "Le nombre de dermatologues en France a chuté de 17 % en 10 ans.",
+        "\"Il lui disait de se calmer, que c'était ridicule\" : un médecin régulateur du Samu jugé six ans après la mort de Sarah, décédée des suites d'une grossesse extra-utérine malgré ses appels au 15",
+        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
+      ],
+      "publishedAt": "2026-11-25T16:00:02+00:00",
+      "updatedAt": "2026-11-25T16:00:02+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/ces-dermatologues-qui-preferent-le-botox_8299578.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "article-extract",
+      "summaryInput": "5c14b2eeee77132f02ec3e77950756ea33af39c3877bc5cd782cde8722a71181",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
+      "context": null
+    },
+    {
       "id": "rss-0c93562516722e9159",
       "revision": 1,
       "category": "france",
@@ -1291,7 +1273,7 @@
       ],
       "publishedAt": "2026-11-24T23:20:22+00:00",
       "updatedAt": "2026-11-24T23:20:22+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1302,6 +1284,31 @@
       "verifiedAt": "2026-11-26",
       "provenance": "rss-excerpt",
       "summaryInput": "a9d3600b290883546ed8ab3c541821317442e78e1a0539128a7c19fbc6768782",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af681c0f50302c88ea",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
+      "bullets": [
+        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
+        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
+      ],
+      "publishedAt": "2026-11-24T17:30:00+00:00",
+      "updatedAt": "2026-11-24T17:30:00+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-26",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
       "detailLevel": "preview"
     }
   ],
@@ -1340,13 +1347,13 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 13
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/sante.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 16
     },
     {
       "publisher": "Le Figaro",
@@ -1364,7 +1371,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 8
     },
     {
       "publisher": "Le Figaro",
@@ -1418,7 +1425,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 32
+      "candidates": 31
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
