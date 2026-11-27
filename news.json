@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T18:01:49.545003+00:00",
+  "preparedAt": "2026-11-27T19:12:34.319687+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
       "id": "rss-15b0406459647429fc",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Le gouvernement anticipe une hausse des prix alimentaires d'environ 4% au début de l'année 2027",
+      "title": "Michel-Edouard Leclerc anticipe une hausse des prix alimentaires de près de 4% en début 2027, le gouvernement estime que \"c’est peut-être un chiffre qu’il faudra retenir\"",
       "bullets": [
-        "Pas de pause pour l'inflation dans les supermarchés ?",
-        "Le ministre du Commerce, Serge Papin, a reconnu vendredi 27 novembre que les prix des produits alimentaires pourraient augmenter de l'ordre de 4% début 2027, comme l'avait suggéré début novembre Michel-Edouard Leclerc, président du comité stratégique des centres E.",
+        "Une première version de cet article comportait un titre affirmant que le gouvernement anticipait une hausse des prix alimentaires d’environ 4% au début de l’année 2027.",
+        "Le ministre du Commerce, Serge Papin, a reconnu vendredi 27 novembre que les prix des produits alimentaires pourraient augmenter début 2027, comme l'avait suggéré début novembre Michel-Edouard Leclerc, président du comité stratégique des centres E.",
         "L'Insee a annoncé vendredi que la hausse des prix des produits alimentaires avait légèrement accéléré en novembre, les prix des produits frais notamment ayant augmenté de 9,4% par rapport à novembre 2025."
       ],
-      "publishedAt": "2026-11-27T13:00:36+00:00",
-      "updatedAt": "2026-11-27T13:00:36+00:00",
+      "publishedAt": "2026-11-27T18:10:42+00:00",
+      "updatedAt": "2026-11-27T18:10:42+00:00",
       "importance": 87,
       "sources": [
         {
@@ -29,9 +29,9 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "1c5d858dea413a730c49be46e6d54dafc477afcb41c5787c2282830f9041a5f1",
+      "summaryInput": "18dab8ba4d3dbf531ef42a1b21bddcc1c3cb37d901bba80955d20f7be7a8635f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T13:30:33.912247+00:00",
+      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
       "context": null
     },
     {
@@ -87,30 +87,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ff1dcca410a34ad048",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Retraites, chômage, santé… Les leçons de nos voisins européens pour maîtriser nos dépenses sociales",
-      "bullets": [
-        "DÉCRYPTAGE - Le haut-commissariat au Plan recense dans une étude les bonnes pratiques de plusieurs pays d’Europe, dont l’Allemagne, l’Italie et la Suède."
-      ],
-      "publishedAt": "2026-11-26T18:45:00+00:00",
-      "updatedAt": "2026-11-26T18:45:00+00:00",
-      "importance": 82,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/retraites-chomage-sante-les-lecons-de-nos-voisins-europeens-pour-maitriser-nos-depenses-sociales-20261126",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "995bde9e5b7a69340034ed8268437badc29a4cc4ed779d35e0a1c64d91166ad5",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-c819204ef0a9f2ca08",
       "revision": 1,
       "category": "eco",
@@ -159,6 +135,30 @@
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "73cbac931d832b73407aaae1aaa8829f3d4c1b356489236eaaed931b482ebb98",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-ff1dcca410a34ad048",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Retraites, chômage, santé… Les leçons de nos voisins européens pour maîtriser nos dépenses sociales",
+      "bullets": [
+        "DÉCRYPTAGE - Le haut-commissariat au Plan recense dans une étude les bonnes pratiques de plusieurs pays d’Europe, dont l’Allemagne, l’Italie et la Suède."
+      ],
+      "publishedAt": "2026-11-26T18:45:00+00:00",
+      "updatedAt": "2026-11-26T18:45:00+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/retraites-chomage-sante-les-lecons-de-nos-voisins-europeens-pour-maitriser-nos-depenses-sociales-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "995bde9e5b7a69340034ed8268437badc29a4cc4ed779d35e0a1c64d91166ad5",
       "detailLevel": "preview"
     },
     {
@@ -329,8 +329,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T17:58:06+00:00",
-      "updatedAt": "2026-11-27T17:58:06+00:00",
+      "publishedAt": "2026-11-27T19:09:02+00:00",
+      "updatedAt": "2026-11-27T19:09:02+00:00",
       "importance": 69,
       "sources": [
         {
@@ -455,32 +455,8 @@
       "provenance": "article-extract",
       "summaryInput": "a2dd5145fa83b94cb89d8a87ccee41c30cde012e5d98f5f356f0313dcf3a860f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T06:15:07.858393+00:00",
+      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
       "context": null
-    },
-    {
-      "id": "rss-1ff537a4e4044ca344",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Présidentielle 2027 : Nicolas Dupont-Aignan veut arrêter l’aide française à l’Ukraine, accusée d’« alimenter le conflit »",
-      "bullets": [
-        "Alors que le sujet divise les prétendants à l’Elysée, Nicolas Dupont-Aignan fait de l’arrêt du soutien français un axe central de sa campagne présidentielle. « La guerre en Ukraine, c’est la ruine du continent européen », a-t-il affirmé au micro de RTL."
-      ],
-      "publishedAt": "2026-11-27T10:00:31+00:00",
-      "updatedAt": "2026-11-27T10:00:31+00:00",
-      "importance": 97,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-nicolas-dupont-aignan-veut-arreter-l-aide-francaise-a-l-ukraine-accusee-d-alimenter-le-conflit_6815835_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "086dd3b07b9580ff8b6a2a50d58759ff1d67d9bb5e98389a99c91d06920e8d00",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-598619aa5ce2589be6",
@@ -582,28 +558,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-7a76ec0155138a14f3",
+      "id": "rss-740615732d311abe91",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Guerre en Ukraine : pour arrêter la boucherie, il faut désigner le boucher",
+      "title": "Vladimir Poutine inaugure un nouveau sous-marin nucléaire",
       "bullets": [
-        "Alors que le maître du Kremlin impose à la Russie des pertes humaines colossales dans sa guerre d’agression contre l’Ukraine, il faut cesser d’accueillir le criminel de guerre Vladimir Poutine, placé sous mandat d’arrêt de la CPI, et le reconnaître comme l’artisan de ce carnage."
+        "Vladimir Poutine a célébré, vendredi 27 novembre, la mise en service d'un nouveau sous-marin nucléaire, assurant que la flotte russe allait recevoir d'ici à 2030 cinq autres engins similaires, qui jouent un rôle central dans la dissuasion nucléaire.",
+        "Ces annonces interviennent dans un contexte de plus en plus tendu entre les alliés occidentaux de Kiev et la Russie depuis le lancement de l'offensive russe à grande échelle en Ukraine, en février 2022."
       ],
-      "publishedAt": "2026-11-27T10:30:20+00:00",
-      "updatedAt": "2026-11-27T10:30:20+00:00",
+      "publishedAt": "2026-11-27T18:36:13+00:00",
+      "updatedAt": "2026-11-27T18:36:13+00:00",
       "importance": 67,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-inaugure-un-nouveau-sous-marin-nucleaire_8303691.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a8641e3ee314ef5c6dd10550c655d5018c0b8fdfd7b82c7c0ea225c229e2ea0e",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "ca498e70a58a4a2159a929cc68219af12b88aac90784a78d5cd38092b4b42d14",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
+      "context": null
     },
     {
       "id": "rss-8e0c5f3316afcbb082",
@@ -683,6 +662,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-fb6e8292765a5ebe8e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Salim Cevik, politiste : en Turquie, « les Kurdes ne négocient plus vraiment, ils subissent une sorte de diktat de la part du gouvernement d’Erdogan »",
+      "bullets": [
+        "Dans un entretien au « Monde », le chercheur explique que la loi, votée en août, permettant le retour des combattants du PKK à la vie civile n’a pas changé le rapport de force favorable à Ankara.",
+        "Affaiblis militairement et politiquement, les Kurdes n’ont que très peu de marge de…"
+      ],
+      "publishedAt": "2026-11-27T18:30:02+00:00",
+      "updatedAt": "2026-11-27T18:30:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/27/salim-cevik-politiste-en-turquie-les-kurdes-ne-negocient-plus-vraiment-ils-subissent-une-sorte-de-diktat-de-la-part-du-gouvernement-d-erdogan_6815922_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3aacda8d6a0e45289791ac700138ad9ebb6abe1fe2c3c5465c76ce4209f38e2d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6e1017f5dbae16d125",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Législatives en Espagne : Pedro Sanchez en mauvaise posture face à l’alliance entre le Parti populaire et l’extrême droite",
+      "bullets": [
+        "REPORTAGE - Fragilisé par les affaires de corruption dans son entourage, le premier ministre socialiste est nettement devancé dans les sondages à la veille des législatives."
+      ],
+      "publishedAt": "2026-11-27T18:30:00+00:00",
+      "updatedAt": "2026-11-27T18:30:00+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/legislatives-en-espagne-pedro-sanchez-en-mauvaise-posture-face-a-l-alliance-entre-le-parti-populaire-et-l-extreme-droite-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "7f12700266dab95ca429fbc611fd69812415a03b483da3208165db9e07c7d2c1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c1ae0351242e52e94b",
       "revision": 1,
       "category": "world",
@@ -734,30 +762,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
       "context": null
-    },
-    {
-      "id": "rss-f2301a0b971f940970",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "À Taïwan, la mairie de Taipei à portée de main de « l’indépendantiste » Puma Shen",
-      "bullets": [
-        "REPORTAGE - La capitale de Taïwan, bastion du Kuomintang proche de Pékin, pourrait tomber dans l’escarcelle du Parti démocrate progressiste, lors des élections municipales du samedi 28 novembre."
-      ],
-      "publishedAt": "2026-11-27T14:13:58+00:00",
-      "updatedAt": "2026-11-27T14:13:58+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/a-taiwan-la-mairie-de-taipei-a-portee-de-main-de-l-independantiste-puma-shen-20261127",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fdf3723c51c0601e4d9e1fe5dd1e046e8779b5c98db136b07d5e316e1ca61b82",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-5feea6f29dc624af26",
@@ -832,55 +836,60 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-4d2a4c3c249144a241",
+      "id": "rss-2b708cc7889c25120f",
       "revision": 1,
       "category": "france",
       "topic": "Santé",
       "title": "La suspension de l'usage des grenades assourdissantes prolongée et étendue à toutes les manifestations",
       "bullets": [
-        "La suspension de l'usage des grenades assourdissantes par les policiers lors des manifestations, décidée le 6 octobre dernier en pleines mobilisations lycéennes, est prolongée sur ordre du directeur général de la police nationale (DGPN), dans un télégramme daté de vendredi 27 novembre et consulté par franceinfo.",
-        "Le 6 octobre dernier, Laurent Nunez avait annoncé la suspension de l'usage des grenades assourdissantes de type ASSD, après notamment qu'un manifestant de 15 ans a eu la main arrachée à Lens, dans le Pas-de-Calais, lors du mouvement de blocage des lycées."
+        "La suspension de l'usage des grenades assourdissantes par les policiers, décidée le 6 octobre dernier lors des mobilisations lycéennes, est prolongée \"jusqu'à nouvel ordre\" et s'étend désormais à toutes les manifestations, sur ordre du directeur général de la police nationale, dans un télégramme consulté par franceinfo, vendredi 27 novembre.",
+        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
       ],
-      "publishedAt": "2026-11-27T11:32:28+00:00",
-      "updatedAt": "2026-11-27T11:32:28+00:00",
+      "publishedAt": "2026-11-27T18:00:01+00:00",
+      "updatedAt": "2026-11-27T18:00:01+00:00",
       "importance": 67,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8302995.html",
+          "url": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8303493.html",
           "access": "public"
+        },
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8302995.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "46b310800a8bc14e941dde5d349901f56217a6a46d618ec70514a38dd317b72e",
+      "summaryInput": "dbb6ba8e9adbcbdd40bba00f022262bc52625fe0287817434cc943da01f9c3ac",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T12:09:46.805662+00:00",
+      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
       "context": null
     },
     {
-      "id": "rss-3dffd24b1f1ed95a4b",
+      "id": "rss-c707b11c0e1c52de66",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »",
+      "title": "Louis Degos, bâtonnier de Paris : « L’Etat a oublié un principe essentiel de droit : la juste mesure »",
       "bullets": [
-        "Plusieurs rassemblements de fonctionnaires de police ont eu lieu jeudi pour réclamer, notamment, une hausse de la prime de risque.",
-        "Cette démonstration de force, soutenue par les trois principaux syndicats, intervient à la veille des élections professionnelles dans la fonction publique."
+        "Le représentant élu des avocats parisiens lance un appel au respect de l’Etat de droit, remis en cause, selon lui, autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’élection présidentielle."
       ],
-      "publishedAt": "2026-11-26T18:06:53+00:00",
-      "updatedAt": "2026-11-26T18:06:53+00:00",
+      "publishedAt": "2026-11-27T04:15:05+00:00",
+      "updatedAt": "2026-11-27T04:15:05+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/louis-degos-batonnier-de-paris-l-etat-a-oublie-un-principe-essentiel-de-droit-la-juste-mesure_6815791_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "dbe6238d0c9855f95561b6a2b520a9ef1fe17fcc6bab2cde87ff3690ba45a469",
+      "summaryInput": "3f55d4279a845e7f097f280ed99da1c8fb9e655fbbee5861f2e00fa4be559ad7",
       "detailLevel": "preview"
     },
     {
@@ -973,8 +982,8 @@
       "bullets": [
         "Le documentaire de Brice Lambert, qui réunit des témoignages d’Américaines dont la vie a été bouleversée par l’interdiction de l’avortement, s’est vu octroyer le prix Albert Londres de l’audiovisuel 2026."
       ],
-      "publishedAt": "2026-11-27T16:30:05+00:00",
-      "updatedAt": "2026-11-27T16:30:05+00:00",
+      "publishedAt": "2026-11-27T16:30:03+00:00",
+      "updatedAt": "2026-11-27T16:30:03+00:00",
       "importance": 67,
       "sources": [
         {
@@ -986,31 +995,6 @@
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "4e58778245630b685162ed47cf2f35584c3d6eea020920f25cd985966d9ec5c1",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-5f99b18ab05e11a190",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
-      "bullets": [
-        "La PDG du groupe public, Sibyle Veil, plaide pour que le code pénal prévoit que l’agression d’un journaliste constitue une « circonstance aggravante ».",
-        "France Télévisions et BFM-TV annoncent au « Monde » soutenir la proposition."
-      ],
-      "publishedAt": "2026-11-27T11:37:30+00:00",
-      "updatedAt": "2026-11-27T11:37:30+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cb8cbc94bf4da5a7705c9fb1fdbe1baf77ed00ea7078da3f31ca65b70f4fe7b7",
       "detailLevel": "preview"
     },
     {
@@ -1090,6 +1074,54 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c5edcf8a011a42d4f1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
+      "bullets": [
+        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
+      ],
+      "publishedAt": "2026-11-27T17:00:05+00:00",
+      "updatedAt": "2026-11-27T17:00:05+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af7c17f66a1b1cb537",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : « L’automne est une période cruciale et trompeuse, durant laquelle les candidats se jaugent dans le miroir de l’opinion »",
+      "bullets": [
+        "Alors que les prétendants à l’Elysée se multiplient en novembre, l’histoire de la Vᵉ République rappelle combien les percées sondagières de fin d’année résistent mal aux épreuves du printemps, estime Matthieu Goar, l’un des chefs du service Politique du « Monde »."
+      ],
+      "publishedAt": "2026-11-27T16:30:03+00:00",
+      "updatedAt": "2026-11-27T16:30:03+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-l-automne-est-une-periode-cruciale-et-trompeuse-durant-laquelle-les-candidats-se-jaugent-dans-le-miroir-de-l-opinion_6815901_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d7d855dc19db48a074a86dab500ef359c8981950eb15b2e63f168449ae386aa2",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-6758dbd96e01b3ea5b",
       "revision": 1,
       "category": "france",
@@ -1136,34 +1168,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a4e99092bf602396202864eb1cba6c17ecca812acbadc2677c43468b73978a04",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-330fa68a73865a60e5",
-      "revision": 2,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
-      "bullets": [
-        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
-        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
-        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
-      ],
-      "publishedAt": "2026-11-26T15:21:59+00:00",
-      "updatedAt": "2026-11-26T15:21:59+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T06:15:07.858393+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
