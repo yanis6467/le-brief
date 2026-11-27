@@ -1,11 +1,35 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T15:11:46.669352+00:00",
+  "preparedAt": "2026-11-27T16:19:15.645699+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-598619aa5ce2589be6",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+      "bullets": [
+        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
+      ],
+      "publishedAt": "2026-11-27T14:39:51+00:00",
+      "updatedAt": "2026-11-27T14:39:51+00:00",
+      "importance": 93,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-15b0406459647429fc",
       "revision": 1,
@@ -138,6 +162,54 @@
       "context": null
     },
     {
+      "id": "rss-48a2745ff0b5041329",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Les vents contraires du transport maritime mondial font un vainqueur : le fret aérien »",
+      "bullets": [
+        "La nouvelle salve de droits de douane américains et les perturbations en chaîne liées au conflit au Moyen-Orient affectent durablement le transport international des marchandises par voie d’océan, observe Olivier Pinaud, journaliste au service Economie du « Monde »."
+      ],
+      "publishedAt": "2026-11-27T09:30:07+00:00",
+      "updatedAt": "2026-11-27T09:30:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-vents-contraires-du-transport-maritime-mondial-font-un-vainqueur-le-fret-aerien_6815827_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "73cbac931d832b73407aaae1aaa8829f3d4c1b356489236eaaed931b482ebb98",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af4e02797ea9c42bf0",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
+      "bullets": [
+        "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
+      ],
+      "publishedAt": "2026-11-27T06:00:07+00:00",
+      "updatedAt": "2026-11-27T06:00:07+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "9a1c3d9f23c266a328944e22d5ad7b82c34c886d86ee5c0cdc1528ea839d9621",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-83f40375f1677366af",
       "revision": 1,
       "category": "eco",
@@ -219,59 +291,6 @@
       "context": null
     },
     {
-      "id": "rss-276111e3629a33b507",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Agence France-Presse victime d'une cyberattaque, sa plateforme de photos et vidéos temporairement inaccessible",
-      "bullets": [
-        "L'Agence France-Presse, dont sont clients la plupart des médias français, a été la cible dans la nuit du mercredi 25 au jeudi 26 novembre d'une cyberattaque, qui nécessite de rendre temporairement inaccessible sa plateforme de contenus AFP Forum, a indiqué sa direction jeudi.",
-        "L'AFP a été la cible d'une cyberattaque cette nuit, à partir de 1h30 (heure de Paris).",
-        "Selon son rapport annuel 2025, elle produit en moyenne 2300 dépêches en texte, 3000 photos et 300 vidéos par jour."
-      ],
-      "publishedAt": "2026-11-27T14:38:05+00:00",
-      "updatedAt": "2026-11-27T14:38:05+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/l-agence-france-presse-victime-d-une-cyberattaque-sa-plateforme-de-photos-et-videos-temporairement-inaccessible-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "859555a0f9ef841285340264a56d51891f646a1ec10d9c866eee568b397799c6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T15:11:46.669352+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-5f99b18ab05e11a190",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
-      "bullets": [
-        "La PDG du groupe public, Sibyle Veil, plaide pour que le code pénal prévoit que l’agression d’un journaliste constitue une « circonstance aggravante ».",
-        "France Télévisions et BFM-TV annoncent au « Monde » soutenir la proposition."
-      ],
-      "publishedAt": "2026-11-27T11:37:30+00:00",
-      "updatedAt": "2026-11-27T11:37:30+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cb8cbc94bf4da5a7705c9fb1fdbe1baf77ed00ea7078da3f31ca65b70f4fe7b7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-b9ac9f312ce27d7182",
       "revision": 1,
       "category": "eco",
@@ -280,8 +299,8 @@
       "bullets": [
         "EXCLUSIF - Dans un courrier adressé mercredi à une cinquantaine de multinationales, que Le Figaro a pu consulter, les dirigeants alertent sur la fragilité du pouvoir d’achat des Français, à quelques jours de l’ouverture des discussions."
       ],
-      "publishedAt": "2026-11-27T10:00:00+00:00",
-      "updatedAt": "2026-11-27T10:00:00+00:00",
+      "publishedAt": "2026-11-27T15:39:02+00:00",
+      "updatedAt": "2026-11-27T15:39:02+00:00",
       "importance": 67,
       "sources": [
         {
@@ -296,31 +315,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-1625e7cbc7fc174e57",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
-      "bullets": [
-        "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système américain Palantir.",
-        "L’exercice a eu lieu dans le contexte d’une lutte impitoyable entre industriels de l’armement, licornes de l’intelligence artificielle…"
-      ],
-      "publishedAt": "2026-11-26T17:35:04+00:00",
-      "updatedAt": "2026-11-26T17:35:04+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85531483105b2f9cc6917fe147f2a02164f90931f20b03716277abc681620cc7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,9 +325,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T15:07:34+00:00",
-      "updatedAt": "2026-11-27T15:07:34+00:00",
-      "importance": 69,
+      "publishedAt": "2026-11-27T16:19:19+00:00",
+      "updatedAt": "2026-11-27T16:19:19+00:00",
+      "importance": 70,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -461,31 +455,6 @@
       "context": null
     },
     {
-      "id": "rss-d18ffed8c81c196557",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Pologne plus divisée que jamais après le premier attentat majeur de son histoire récente",
-      "bullets": [
-        "L’attaque meurtrière du 7 novembre à Cracovie a été suivie d’âpres polémiques entre le gouvernement de centre droit et son opposition nationaliste.",
-        "A un an d’élections législatives décisives, les Polonais partisans de la démocratie libérale se retrouvent sans recours efficace."
-      ],
-      "publishedAt": "2026-11-27T09:00:11+00:00",
-      "updatedAt": "2026-11-27T09:00:11+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/la-pologne-plus-divisee-que-jamais-apres-le-premier-attentat-majeur-de-son-histoire-recente_6815822_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fd245ae3b142e2538991868b686a8e2490046653ffca915c1147f678d743252d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-1ff537a4e4044ca344",
       "revision": 1,
       "category": "world",
@@ -510,76 +479,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-598619aa5ce2589be6",
+      "id": "rss-49af5ff2d3da05732c",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+      "title": "Volodymyr Zelensky compare la relation de Donald Trump avec Vladimir Poutine à une amitié avec Hitler pendant la Seconde Guerre mondiale",
       "bullets": [
-        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
+        "Dans une interview donnée à la BBC depuis son bureau du centre de Kiev, jeudi 26 novembre, Volodymyr Zelensky a déploré que les Etats-Unis ne fassent pas assez pression sur la Russie et a commenté la relation entre Donald Trump et Vladimir Poutine, critiquant la proximité entre les deux présidents.",
+        "Une semaine après le sommet chinois, jeudi 26 novembre, il a déclaré qu'il avait exhorté la Russie à \"mettre fin à toute agression militaire contre les territoires européens\" et qu'il pensait qu'un accord de paix avec l'Ukraine était \"une forte possibilité\"."
       ],
-      "publishedAt": "2026-11-27T14:39:51+00:00",
-      "updatedAt": "2026-11-27T14:39:51+00:00",
-      "importance": 93,
+      "publishedAt": "2026-11-27T15:22:58+00:00",
+      "updatedAt": "2026-11-27T15:22:58+00:00",
+      "importance": 79,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-compare-la-relation-de-donald-trump-avec-vladimir-poutine-a-une-amitie-avec-hitler-pendant-la-seconde-guerre-mondiale_8303130.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-48a2745ff0b5041329",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Les vents contraires du transport maritime mondial font un vainqueur : le fret aérien »",
-      "bullets": [
-        "La nouvelle salve de droits de douane américains et les perturbations en chaîne liées au conflit au Moyen-Orient affectent durablement le transport international des marchandises par voie d’océan, observe Olivier Pinaud, journaliste au service Economie du « Monde »."
-      ],
-      "publishedAt": "2026-11-27T09:30:07+00:00",
-      "updatedAt": "2026-11-27T09:30:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-vents-contraires-du-transport-maritime-mondial-font-un-vainqueur-le-fret-aerien_6815827_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "73cbac931d832b73407aaae1aaa8829f3d4c1b356489236eaaed931b482ebb98",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-af4e02797ea9c42bf0",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
-      "bullets": [
-        "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
-      ],
-      "publishedAt": "2026-11-27T06:00:07+00:00",
-      "updatedAt": "2026-11-27T06:00:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9a1c3d9f23c266a328944e22d5ad7b82c34c886d86ee5c0cdc1528ea839d9621",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "ecde1ac35688238ae763bde24c6233cd616a25428f0fa191fc4cbf95d5d59020",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
+      "context": null
     },
     {
       "id": "rss-23f9f8fc1c38ee230e",
@@ -734,31 +658,105 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3995a5532d27e34d00",
+      "id": "rss-00e75a81807bf5ad8e",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Négociations annuelles entre la grande distribution et l'industrie agroalimentaire : \"Le sujet des prix ne peut pas devenir une guerre contre nos producteurs\", avertit la ministre de l'Agriculture",
+      "title": "À Narva, entre les espions de Moscou et le cauchemar d’une invasion, le rideau de fer renaît",
       "bullets": [
-        "Emmanuel Macron a redit : \"Il y a 66 milliards pour la France, il est hors de question qu'on baisse le niveau des 66 milliards\".",
-        "Les 66,25 milliards dont la France dispose pour sa politique agricole doivent demeurer d'une façon ou d'une autre.",
-        "Sébastien Lecornu espère un compromis et il met dans la balance les aides aux agriculteurs, le plan de relance agricole de 720 millions d'euros qui serait annulé s'il n'est pas voté."
+        "VU D’AILLEURS - À partir du 1er décembre, l’Estonie fermera complètement sa frontière avec la Russie de Poutine.",
+        "Dans la ville du pont de l’Amitié, c’est véritablement la fin d’une époque."
       ],
-      "publishedAt": "2026-11-27T08:30:53+00:00",
-      "updatedAt": "2026-11-27T08:30:53+00:00",
+      "publishedAt": "2026-11-27T06:00:00+00:00",
+      "updatedAt": "2026-11-27T06:00:00+00:00",
       "importance": 67,
       "sources": [
         {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/a-narva-entre-les-espions-de-moscou-et-le-cauchemar-d-une-invasion-le-rideau-de-fer-renait-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "70da2ebd69a1f36520cf09d873fe344f6ddecc913a8e393bec20ca3ad3b4c8c9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-55c49d5d566d80d44a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
+      "bullets": [
+        "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022."
+      ],
+      "publishedAt": "2026-11-26T20:05:00+00:00",
+      "updatedAt": "2026-11-26T20:05:00+00:00",
+      "importance": 66,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "269aca8f1ad99619b5e640475ae08ff7a470245860e40d436eb0e99292a87e8d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c1ae0351242e52e94b",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Serbie, un professeur de chimie, novice en politique, sera le candidat du mouvement des étudiants à l’élection présidentielle",
+      "bullets": [
+        "Radomir Saicic, professeur à la faculté de chimie de Belgrade, avait été élu en octobre au sein de la Liste étudiante, grande vainqueure des législatives.",
+        "Le scrutin pour la fonction présidentielle, principalement honorifique dans le pays, aura lieu le 27 décembre."
+      ],
+      "publishedAt": "2026-11-27T15:13:16+00:00",
+      "updatedAt": "2026-11-27T15:13:16+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/27/en-serbie-le-mouvement-des-etudiants-choisit-l-universitaire-radomir-saicic-novice-en-politique-comme-candidat-a-l-election-presidentielle_6815883_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ff30931519d20b78c3e2c12169df72f576192aea969d5aac42b9b5476fd0427d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-a677d5d98e5ed3127d",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "L'universitaire Radomir Saicic, novice en politique, désigné candidat du mouvement étudiant à l'élection présidentielle en Serbie",
+      "bullets": [
+        "Radomir Saicic, un professeur universitaire sans expérience politique, a été choisi vendredi 27 novembre comme candidat de cette mouvance à l'élection présidentielle dans le pays, qui aura lieu le 27 décembre.",
+        "Le scrutin aura lieu trois mois après la démission du président Aleksandar Vucic, qui avait écourté de huit mois son second mandat afin de faire campagne pour les législatives anticipées du 25 octobre, soldées par la défaite de son Parti progressiste serbe (SNS, classé à droite).",
+        "Le SNS n'a toutefois pas encore annoncé sa décision définitive sur ce scrutin."
+      ],
+      "publishedAt": "2026-11-27T14:17:18+00:00",
+      "updatedAt": "2026-11-27T14:17:18+00:00",
+      "importance": 65,
+      "sources": [
+        {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/politique/negociations-annuelles-entre-la-grande-distribution-et-l-industrie-agroalimentaire-le-sujet-des-prix-ne-peut-pas-devenir-une-guerre-contre-nos-producteurs-avertit-la-ministre-de-l-agriculture_8302668.html",
+          "url": "https://www.franceinfo.fr/monde/europe/l-universitaire-radomir-saicic-novice-en-politique-designe-candidat-du-mouvement-etudiant-a-la-presidentielle-en-serbie_8303184.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "6e10c9d543a1e6d38b0f59c19a23f2d015467fec4b77ce7108a02fab85e3414a",
+      "summaryInput": "5f6a8a1c9b9f3d4d00255f634a849db9743e014a42cb3ef623d08038f783af02",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
       "context": null
     },
     {
@@ -886,29 +884,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-af681c0f50302c88ea",
+      "id": "rss-9a2083dea231bf76d2",
       "revision": 1,
       "category": "france",
       "topic": "Faits divers",
-      "title": "Barrages, agressions, viols… Mayotte face à l’escalade de la violence",
+      "title": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
       "bullets": [
-        "RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île.",
-        "Le viol d’une automobiliste, attaquée après avoir été extraite de sa voiture, a marqué un nouveau seuil dans cette surenchère."
+        "Le 28 octobre, cinq jours après les faits, le gouvernement avait assuré qu'un hommage national serait rendu après l'attentat qualifié de \"raciste\" par la porte-parole du gouvernement, Maud Bregeon.",
+        "Lors du Conseil des ministres, le même jour, le chef de l'Etat, Emmanuel Macron, avait appelé à \"l'unité\" et à \"la dignité\".",
+        "Mercredi, Emmanuel Macron s'est rendu à l'hôpital Necker, dans le 15e arrondissement de Paris, au chevet de la jeune fille de 12 ans grièvement blessée dans l'attentat raciste, a appris franceinfo auprès de l'Elysée, confirmant une information du Parisien."
       ],
-      "publishedAt": "2026-11-24T17:30:00+00:00",
-      "updatedAt": "2026-11-24T17:30:00+00:00",
-      "importance": 62,
+      "publishedAt": "2026-11-27T16:18:26+00:00",
+      "updatedAt": "2026-11-27T16:18:26+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "a07662a94c8fe70b903cc0f99fac1e20725eb52107bd587ea03b23fda9602f1d",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "b9e08042f5cfefbe53b689170476b155b12fc8eb4c7bda2124a547170fc3069f",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
+      "context": null
     },
     {
       "id": "rss-a5dc898bc23b661728",
@@ -959,6 +960,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3995a5532d27e34d00",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Négociations annuelles entre la grande distribution et l'industrie agroalimentaire : \"Le sujet des prix ne peut pas devenir une guerre contre nos producteurs\", avertit la ministre de l'Agriculture",
+      "bullets": [
+        "Emmanuel Macron a redit : \"Il y a 66 milliards pour la France, il est hors de question qu'on baisse le niveau des 66 milliards\".",
+        "Les 66,25 milliards dont la France dispose pour sa politique agricole doivent demeurer d'une façon ou d'une autre.",
+        "Sébastien Lecornu espère un compromis et il met dans la balance les aides aux agriculteurs, le plan de relance agricole de 720 millions d'euros qui serait annulé s'il n'est pas voté."
+      ],
+      "publishedAt": "2026-11-27T08:30:53+00:00",
+      "updatedAt": "2026-11-27T08:30:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/negociations-annuelles-entre-la-grande-distribution-et-l-industrie-agroalimentaire-le-sujet-des-prix-ne-peut-pas-devenir-une-guerre-contre-nos-producteurs-avertit-la-ministre-de-l-agriculture_8302668.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "6e10c9d543a1e6d38b0f59c19a23f2d015467fec4b77ce7108a02fab85e3414a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
+    },
+    {
       "id": "rss-67ae1bf76472984e41",
       "revision": 1,
       "category": "france",
@@ -1007,32 +1036,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-330fa68a73865a60e5",
-      "revision": 2,
+      "id": "rss-6758dbd96e01b3ea5b",
+      "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
+      "topic": "Éducation",
+      "title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme pour l’enseignement supérieur, en souhaitant la suppression de Parcoursup",
       "bullets": [
-        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
-        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
-        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
+        "Le candidat Les Républicains souhaite aussi la sélection dès la première année d’études, la hausse des frais d’inscription ou la réduction drastique du nombre d’étudiants étrangers."
       ],
-      "publishedAt": "2026-11-26T15:21:59+00:00",
-      "updatedAt": "2026-11-26T15:21:59+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-27T15:39:14+00:00",
+      "updatedAt": "2026-11-27T15:39:14+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-bruno-retailleau-devoile-son-programme-pour-l-enseignement-superieur-en-souhaitant-la-suppression-de-parcoursup_6815889_6205049.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T06:15:07.858393+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "b6fd19916b3f9ba13289675d6c11240acd8c29a28cac326991dd98454cd41848",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-62a9c6ad0cac74a6d1",
@@ -1044,8 +1069,8 @@
         "La candidate d’extrême droite a rappelé son « attachement viscéral aux outre-mer, des territoires éloignés, isolés, exposés et trop souvent oubliés ».",
         "En 2022, Mme Le Pen était arrivée en tête du second tour de l’élection présidentielle dans les Antilles, à La Réunion, en Guyane, à Mayotte et à Saint-Pierre-et-Miquelon."
       ],
-      "publishedAt": "2026-11-27T15:04:59+00:00",
-      "updatedAt": "2026-11-27T15:04:59+00:00",
+      "publishedAt": "2026-11-27T15:04:58+00:00",
+      "updatedAt": "2026-11-27T15:04:58+00:00",
       "importance": 65,
       "sources": [
         {
@@ -1108,52 +1133,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c707b11c0e1c52de66",
-      "revision": 1,
+      "id": "rss-330fa68a73865a60e5",
+      "revision": 2,
       "category": "france",
-      "topic": "Société",
-      "title": "Louis Degos, bâtonnier de Paris : « L’Etat a oublié un principe essentiel de droit : la juste mesure »",
+      "topic": "Santé",
+      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
       "bullets": [
-        "Le représentant élu des avocats parisiens lance un appel au respect de l’Etat de droit, remis en cause, selon lui, autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’élection présidentielle."
+        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
+        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+        "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus"
       ],
-      "publishedAt": "2026-11-27T04:15:05+00:00",
-      "updatedAt": "2026-11-27T04:15:05+00:00",
+      "publishedAt": "2026-11-26T15:21:59+00:00",
+      "updatedAt": "2026-11-26T15:21:59+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/louis-degos-batonnier-de-paris-l-etat-a-oublie-un-principe-essentiel-de-droit-la-juste-mesure_6815791_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3f55d4279a845e7f097f280ed99da1c8fb9e655fbbee5861f2e00fa4be559ad7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e302e16cf71018fc12",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Nos choix de spectacles à réserver pour les fêtes de fin d’année",
-      "bullets": [
-        "Théâtre, danse, comédie musicale, cirque, humour… Les journalistes du service culture du « Monde » ont sélectionné des rendez-vous festifs pour égayer la fin de l’année."
-      ],
-      "publishedAt": "2026-11-27T04:00:19+00:00",
-      "updatedAt": "2026-11-27T04:00:19+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/27/nos-choix-de-spectacles-a-reserver-pour-les-fetes_6815762_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "95170b802be715c00c4181b7dc2d8ee079aaac2ce9084baba009a0f26a7cdf07",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T06:15:07.858393+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1191,7 +1196,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 17
     },
     {
       "publisher": "Franceinfo",
@@ -1203,7 +1208,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Le Figaro",
@@ -1233,13 +1238,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 13
+      "candidates": 14
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
