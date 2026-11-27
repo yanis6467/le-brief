@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T07:42:36.307907+00:00",
+  "preparedAt": "2026-11-27T09:24:55.331641+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -56,6 +56,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-c819204ef0a9f2ca08",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La France est en récession depuis le deuxième trimestre, selon l’Insee",
+      "bullets": [
+        "Le produit intérieur brut (PIB) français a reculé de 0,2% au troisième trimestre après avoir stagné au deuxième trimestre, a annoncé vendredi dans ses résultats détaillés l'Insee, qui a revu en baisse sa première estimation qui mesurait un recul de 0,1 % au troisième trimestre.",
+        "Au total, «l'acquis de croissance» à la fin du troisième trimestre, c'est-à-dire ce que serait la croissance sur l'année si le PIB restait stable au quatrième trimestre, est de 0,1 %, rendant difficile d'atteindre le taux de 0,5 % toujours pronostiqué par le gouvernement."
+      ],
+      "publishedAt": "2026-11-27T09:14:02+00:00",
+      "updatedAt": "2026-11-27T09:14:02+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/la-france-est-en-legere-recession-depuis-le-deuxieme-trimestre-selon-l-insee-20261127",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "61cc09d135bb77b977c5fde37b801438abeea5b45ee7842115ccdf7a5eb1c02e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
+    },
+    {
       "id": "rss-49d29783a6c09714d3",
       "revision": 1,
       "category": "eco",
@@ -93,7 +120,7 @@
       ],
       "publishedAt": "2026-11-26T20:28:33+00:00",
       "updatedAt": "2026-11-26T20:28:33+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -121,7 +148,7 @@
       ],
       "publishedAt": "2026-11-26T19:59:44+00:00",
       "updatedAt": "2026-11-26T19:59:44+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -160,6 +187,61 @@
       "provenance": "rss-excerpt",
       "summaryInput": "061cc88d8ec5adc42985edff08efbbda29c5972bab55383fa4c8658d955b939d",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c802feda3fd06bce0e",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
+      "bullets": [
+        "Le taux a ainsi atteint 4% en octobre dans la zone euro en octobre, selon une estimation d’Eurostat, au plus haut depuis septembre 2023.",
+        "Même constat outre-Atlantique : aux États-Unis, l’inflation a atteint 3,8% le mois dernier, selon le département du Commerce.",
+        "Cette accumulation d’incertitudes, de dommages sur les infrastructures et de désorganisation a fait bondir les prix de l’énergie - gaz, produits pétroliers et électricité - de 19,2% en novembre, selon l’Insee."
+      ],
+      "publishedAt": "2026-11-27T08:04:07+00:00",
+      "updatedAt": "2026-11-27T08:04:07+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/energie-services-produits-manufactures-l-inflation-a-ralenti-a-2-9-sur-un-an-en-novembre-annonce-l-insee-20261127",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "2146f6411d5e0bead8d85cc364ea8c95f441438d702d134321b794be5bfa46bf",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-c8cee1787ddcab0580",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le PIB recule de 0,2% en France au troisième trimestre, après une révision à la baisse de l'Insee",
+      "bullets": [
+        "Le produit intérieur brut français a reculé de 0,2% au troisième trimestre, après avoir stagné au deuxième trimestre, a annoncé vendredi 27 novembre l'Insee, qui a revu en baisse sa première estimation qui mesurait un recul de 0,1% au troisième trimestre.",
+        "Au total, \"l'acquis de croissance\" à la fin du troisième trimestre, c'est-à-dire ce que serait la croissance sur l'année si le PIB restait stable au quatrième trimestre, est de 0,1%, rendant difficile d'atteindre le taux de 0,5% toujours pronostiqué par le gouvernement."
+      ],
+      "publishedAt": "2026-11-27T07:59:19+00:00",
+      "updatedAt": "2026-11-27T07:59:19+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "7c66ad437113a1e3c78f02808dfe1d0eb3bfb90144fdf7ed98707ed0de0a4dcc",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
     },
     {
       "id": "rss-4339c90a24936a8d17",
@@ -242,90 +324,6 @@
       "context": null
     },
     {
-      "id": "rss-276111e3629a33b507",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L'Agence France-Presse victime d'une cyberattaque, sa plateforme de photos et vidéos temporairement inaccessible",
-      "bullets": [
-        "L'Agence France-Presse, dont sont clients la plupart des médias français, a été la cible dans la nuit du mercredi 25 au jeudi 26 novembre d'une cyberattaque, qui nécessite de rendre temporairement inaccessible sa plateforme de contenus AFP Forum, a indiqué sa direction jeudi.",
-        "L'AFP a été la cible d'une cyberattaque cette nuit, à partir de 1h30 (heure de Paris).",
-        "Selon son rapport annuel 2025, elle produit en moyenne 2300 dépêches en texte, 3000 photos et 300 vidéos par jour."
-      ],
-      "publishedAt": "2026-11-26T18:52:36+00:00",
-      "updatedAt": "2026-11-26T18:52:36+00:00",
-      "importance": 66,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/l-agence-france-presse-victime-d-une-cyberattaque-sa-plateforme-de-photos-et-videos-temporairement-inaccessible-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "859555a0f9ef841285340264a56d51891f646a1ec10d9c866eee568b397799c6",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T07:42:36.307907+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-0a19ed3516b548df88",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "REPORTAGE. \"Ils jouent avec nos vies\" : en Espagne, la crise du logement pousse les locataires à se mobiliser à l'approche des élections législatives",
-      "bullets": [
-        "L'expulsion était prévue pour le vendredi 27 novembre, exactement deux jours avant des élections législatives anticipées dont l'un des thèmes principaux est justement celui du logement.",
-        "L'expulsion est pour l'heure repoussée, grâce à une loi adoptée mi-novembre, qui suspend les expulsions des locataires vulnérables jusqu'à fin 2030 et permet à certains baux d'être prolongés pendant deux ans.",
-        "Après des semaines de négociations Maricarmen Abascal a finalement obtenu gains de cause : son retour dans son logement et un loyer plafonné à 30% de ses revenus, raconte la RTVE."
-      ],
-      "publishedAt": "2026-11-27T04:54:27+00:00",
-      "updatedAt": "2026-11-27T04:54:27+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/reportage-ils-jouent-avec-nos-vies-en-espagne-la-crise-du-logement-pousse-les-locataires-a-se-mobiliser-a-l-approche-des-elections-legislatives_8297727.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "57b1c7ac980aad2ad70bda9fe1e2704a4c1d5fddccd41608376c0fc0f73d6a10",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T07:42:36.307907+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-bf7ee2d9cb6bfc2510",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Une erreur délibérée» : Trump exige une «enquête» sur le taux de croissance américain publié avant les élections de mi-mandat",
-      "bullets": [
-        "Mercredi, le Bureau de l’analyse économique (BEA) a en effet relevé son estimation de la croissance au troisième trimestre 2026 à 4,3%, contre 3,4% auparavant.",
-        "LIRE AUSSI - Jusqu’à 15 millions de dollars de gains : jackpot pour Donald Trump après le retour de Jensen Huang à la tête de Nvidia Ce n’est pas la première fois que Donald Trump accuse les statisticiens publics de saboter son bilan économique.",
-        "Selon Vipin Arora, directeur du BEA, les deuxièmes estimations, publiées 90 jours après l’évaluation initiale, affichent habituellement un écart de 0,52 point de pourcentage."
-      ],
-      "publishedAt": "2026-11-26T20:00:16+00:00",
-      "updatedAt": "2026-11-26T20:00:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/une-erreur-deliberee-trump-exige-une-enquete-sur-le-taux-de-croissance-americain-publie-avant-les-elections-de-mi-mandat-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "5ff4a7688d8a3ee7fe4d932a32000866dd4aa0c27ce4f13abfece1717d8aa96a",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T07:42:36.307907+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -336,8 +334,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T07:41:26+00:00",
-      "updatedAt": "2026-11-27T07:41:26+00:00",
+      "publishedAt": "2026-11-27T09:24:02+00:00",
+      "updatedAt": "2026-11-27T09:24:02+00:00",
       "importance": 69,
       "sources": [
         {
@@ -350,7 +348,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T20:18:58.708478+00:00",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
       "context": null
     },
     {
@@ -382,31 +380,30 @@
       "context": null
     },
     {
-      "id": "rss-669ad4016f52ba9ece",
+      "id": "rss-49aa94e8714c70bbb2",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Une séquence très technique en l'absence de repères américains",
+      "title": "CAC 40 : L’indice parisien a ouvert la séance en baisse de -0.03%",
       "bullets": [
-        "Le rebond de contestation aura été nourri en particulier par un secteur automobile décoté, Renault accélérant de 5,74% et Stellantis vrombissant de 8,91%.",
-        "On rappellera que le Nasdaq Composite, qui perdait près de 5% peu après l'ouverture mercredi, n'a cessé de gagner du terrain tout au long de la séance, pour finir en très légère baisse (-0,62%).",
-        "Ce scénario baissier est valable tant que l'indice CAC 40 cote en dessous de la résistance à 8118.00 points."
+        "(BFM Bourse) - Après avoir fini en hausse de +1.61% à 8108.7402 points lors de sa dernière séance, le CAC 40 vient d’ouvrir en baisse de -0.03% à 8106.5698 points.",
+        "Avec un bond de 15% de …- Nvidia : Jensen Huang de retour à la tête de Nvidia, les risques aussi"
       ],
-      "publishedAt": "2026-11-27T07:30:05+00:00",
-      "updatedAt": "2026-11-27T07:30:05+00:00",
+      "publishedAt": "2026-11-27T08:00:00+00:00",
+      "updatedAt": "2026-11-27T08:00:00+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-une-sequence-tres-technique-en-l-absence-de-reperes-americains-1174513.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-baisse-de-003-1174521.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "3bb2fd90c46e326385159d584523c44141b6be58e4480c455f36d0b50f53be4a",
+      "summaryInput": "2f325806ebc698398eba5432cedf299bcb00384137ae3224ecff660c716e7826",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T07:42:36.307907+00:00",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
       "context": null
     },
     {
@@ -450,7 +447,7 @@
       ],
       "publishedAt": "2026-11-25T09:22:38+00:00",
       "updatedAt": "2026-11-25T09:22:38+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -522,6 +519,31 @@
       "context": null
     },
     {
+      "id": "rss-d18ffed8c81c196557",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Pologne plus divisée que jamais après le premier attentat majeur de son histoire récente",
+      "bullets": [
+        "L’attaque meurtrière du 7 novembre à Cracovie a été suivie d’âpres polémiques entre le gouvernement de centre droit et son opposition nationaliste.",
+        "A un an d’élections législatives décisives, les Polonais partisans de la démocratie libérale se retrouvent sans recours efficace."
+      ],
+      "publishedAt": "2026-11-27T09:00:11+00:00",
+      "updatedAt": "2026-11-27T09:00:11+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/la-pologne-plus-divisee-que-jamais-apres-le-premier-attentat-majeur-de-son-histoire-recente_6815822_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fd245ae3b142e2538991868b686a8e2490046653ffca915c1147f678d743252d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-469f4877ad7009448e",
       "revision": 1,
       "category": "world",
@@ -532,7 +554,7 @@
       ],
       "publishedAt": "2026-11-26T20:36:36+00:00",
       "updatedAt": "2026-11-26T20:36:36+00:00",
-      "importance": 85,
+      "importance": 84,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -570,6 +592,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-23f9f8fc1c38ee230e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "À suivre Loïc de la Mornais : l'Europe va faire une \"erreur stratégique\" sur le budget de l'aide à l'Ukraine, selon Emmanuel Macron",
+      "bullets": [
+        "Les invités de \"À suivre Loïc de la Mornais\" du jeudi 26 novembre 2026 sont :Guillaume Ancel, ancien officier et chroniqueur de guerre.",
+        "Alban Mikoczy, spécialiste des questions internationales franceinfo Canal 16.",
+        "Arthur Kenigsberg, président du think-tank Euro Créative, spécialiste de l'Europe centrale et orientale."
+      ],
+      "publishedAt": "2026-11-27T07:53:46+00:00",
+      "updatedAt": "2026-11-27T07:53:46+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-l-europe-va-faire-une-erreur-strategique-sur-le-budget-de-l-aide-a-l-ukraine-selon-emmanuel-macron_8302662.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "470ae4486eb71e51b48d076472fdd738f1057dd7060e2021365e226e4a011a00",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
+    },
+    {
       "id": "rss-25742c5c83ada9fe7f",
       "revision": 1,
       "category": "world",
@@ -579,8 +629,8 @@
         "Les chefs d’Etat et de gouvernement européens ont tenté, jeudi, de rapprocher leurs points de vue sur le financement d’un prêt supplémentaire à Kiev pour l’année 2027.",
         "Parmi les quatre pays refusant encore de financer cet effort, seule la Bulgarie a ouvert la porte à une aide civile à l’Ukraine."
       ],
-      "publishedAt": "2026-11-27T04:45:10+00:00",
-      "updatedAt": "2026-11-27T04:45:10+00:00",
+      "publishedAt": "2026-11-27T04:45:07+00:00",
+      "updatedAt": "2026-11-27T04:45:07+00:00",
       "importance": 77,
       "sources": [
         {
@@ -692,6 +742,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-4787a089babc812da6",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Iran : « L’alternative aux bombardements n’est pas nécessairement l’indifférence »",
+      "bullets": [
+        "Les frappes américaines ont permis au régime de Téhéran d’affaiblir l’opposition interne, soulignent les économistes Sultan Mehmood et Leonard Wantchekon, dans une tribune au « Monde ».",
+        "Ils convoquent François Mitterrand et son discours de La Baule, en 1990, pour rappeler que la voie de la négociation reste ouverte."
+      ],
+      "publishedAt": "2026-11-27T08:00:05+00:00",
+      "updatedAt": "2026-11-27T08:00:05+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/iran-l-alternative-aux-bombardements-n-est-pas-necessairement-l-indifference_6815815_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4845a4c2dc58d76ffa32a81a5abfe1d83dd185afcd565319a1bd5838df9278b9",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b056c03961b0e57795",
       "revision": 1,
       "category": "world",
@@ -745,102 +820,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-00e75a81807bf5ad8e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "À Narva, entre les espions de Moscou et le cauchemar d’une invasion, le rideau de fer renaît",
-      "bullets": [
-        "VU D’AILLEURS - À partir du 1er décembre, l’Estonie fermera complètement sa frontière avec la Russie de Poutine.",
-        "Dans la ville du pont de l’Amitié, c’est véritablement la fin d’une époque."
-      ],
-      "publishedAt": "2026-11-27T06:00:00+00:00",
-      "updatedAt": "2026-11-27T06:00:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/a-narva-entre-les-espions-de-moscou-et-le-cauchemar-d-une-invasion-le-rideau-de-fer-renait-20261127",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "70da2ebd69a1f36520cf09d873fe344f6ddecc913a8e393bec20ca3ad3b4c8c9",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-7544ffdec8dd91b729",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
-      "bullets": [
-        "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière.",
-        "Des agriculteurs déplorent une récolte de céréales quasi nulle."
-      ],
-      "publishedAt": "2026-11-27T05:00:39+00:00",
-      "updatedAt": "2026-11-27T05:00:39+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "623a7ded2b46978e850133237373cb278226f9765cbe8e63cb1c7139a387b8cc",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-88f2e1e0e1dbe4c4b3",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "La rapporteuse spéciale des Nations unies pour les territoires palestiniens se voit refuser l’entrée au Costa Rica",
-      "bullets": [
-        "Francesca Albanese, qui venait recevoir un titre de docteure honoris causa de l’université du Costa Rica, a été interdite d’entrée dans le pays.",
-        "Elle se trouve sous le coup d’une « alerte internationale pour liens avec des actes terroristes », ont affirmé les services de l’immigration."
-      ],
-      "publishedAt": "2026-11-27T04:16:06+00:00",
-      "updatedAt": "2026-11-27T04:16:06+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/27/la-rapporteuse-speciale-des-nations-unies-pour-les-territoires-palestiniens-se-voit-refuser-l-entree-au-costa-rica_6815792_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6878350de71e247e38bcc6a1b1609d47a7764827818207e837279319f995d33f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-a5dc898bc23b661728",
+      "id": "rss-1547af021efd667727",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
+      "title": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
       "bullets": [
-        "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des historiens."
+        "Le garde des sceaux, soutien du candidat Horizons, s’en est pris au candidat libéral David Lisnard, fustigeant le refus du maire de Cannes d’exprimer une préférence entre Edouard Philippe et la candidate de l’extrême droite, Marine Le Pen."
       ],
-      "publishedAt": "2026-11-26T13:00:11+00:00",
-      "updatedAt": "2026-11-26T13:00:11+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-27T08:51:22+00:00",
+      "updatedAt": "2026-11-27T08:51:22+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-gerald-darmanin-appelle-edouard-philippe-a-presenter-un-projet-une-vision_6815820_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "a95d48de88b675f3502251cd898b2dd6d5790b8bac6d4745aa124826f82f65b5",
+      "summaryInput": "b69ce22a7fffbd47574a2b00141d323f1c7a2e420f480ec1d37b5dd29052a5de",
       "detailLevel": "preview"
     },
     {
@@ -970,6 +970,106 @@
       "context": null
     },
     {
+      "id": "rss-a5dc898bc23b661728",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
+      "bullets": [
+        "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des historiens."
+      ],
+      "publishedAt": "2026-11-26T13:00:11+00:00",
+      "updatedAt": "2026-11-26T13:00:11+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a95d48de88b675f3502251cd898b2dd6d5790b8bac6d4745aa124826f82f65b5",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-323ec2ec79cc8b58d1",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "« Nous ne demandons pas l’indépendance mais l’impartialité des parquets » : les procureurs à l’assaut de la réforme de leur statut",
+      "bullets": [
+        "DÉCRYPTAGE - À l’occasion de ses vingt ans, la Conférence nationale des procureurs veut remettre la réforme de leur statut sur le métier."
+      ],
+      "publishedAt": "2026-11-26T20:12:40+00:00",
+      "updatedAt": "2026-11-26T20:12:40+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/procureurs-de-la-republique-cherchent-independance-desesperement-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3995a5532d27e34d00",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Négociations annuelles entre la grande distribution et l'industrie agroalimentaire : \"Le sujet des prix ne peut pas devenir une guerre contre nos producteurs\", avertit la ministre de l'Agriculture",
+      "bullets": [
+        "Emmanuel Macron a redit : \"Il y a 66 milliards pour la France, il est hors de question qu'on baisse le niveau des 66 milliards\".",
+        "Les 66,25 milliards dont la France dispose pour sa politique agricole doivent demeurer d'une façon ou d'une autre.",
+        "Sébastien Lecornu espère un compromis et il met dans la balance les aides aux agriculteurs, le plan de relance agricole de 720 millions d'euros qui serait annulé s'il n'est pas voté."
+      ],
+      "publishedAt": "2026-11-27T08:30:53+00:00",
+      "updatedAt": "2026-11-27T08:30:53+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/negociations-annuelles-entre-la-grande-distribution-et-l-industrie-agroalimentaire-le-sujet-des-prix-ne-peut-pas-devenir-une-guerre-contre-nos-producteurs-avertit-la-ministre-de-l-agriculture_8302668.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "6e10c9d543a1e6d38b0f59c19a23f2d015467fec4b77ce7108a02fab85e3414a",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-67ae1bf76472984e41",
+      "revision": 1,
+      "category": "france",
+      "topic": "Éducation",
+      "title": "« La sélection est au cœur de l’éducation. Sans elle, un diplôme ne vaut rien »",
+      "bullets": [
+        "L’école est un processus compétitif et doit continuer à l’être, car une scolarité sans sélection ne permet pas de produire un signal clair pour un employeur de ce qu’un candidat à un poste peut accomplir, avance, dans une tribune au « Monde », l’économiste Charles Wyplosz."
+      ],
+      "publishedAt": "2026-11-24T09:00:04+00:00",
+      "updatedAt": "2026-11-24T09:00:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/24/la-selection-est-au-c-ur-de-l-education-sans-elle-un-diplome-ne-vaut-rien_6814728_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-f60c4ec2a7920cb938",
       "revision": 1,
       "category": "france",
@@ -991,82 +1091,6 @@
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "2bfa152861bad538e0c285d699ef6ff0fbebedf1f27857bf15e8c8e0dacf7c03",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-323ec2ec79cc8b58d1",
-      "revision": 1,
-      "category": "france",
-      "topic": "France",
-      "title": "« Nous ne demandons pas l’indépendance mais l’impartialité des parquets » : les procureurs à l’assaut de la réforme de leur statut",
-      "bullets": [
-        "DÉCRYPTAGE - À l’occasion de ses vingt ans, la Conférence nationale des procureurs veut remettre la réforme de leur statut sur le métier."
-      ],
-      "publishedAt": "2026-11-26T20:12:40+00:00",
-      "updatedAt": "2026-11-26T20:12:40+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/actualite-france/procureurs-de-la-republique-cherchent-independance-desesperement-20261126",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0affd51f7b9ce290ec",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Médecins du Monde alerte sur la fragilisation des services de protection maternelle et infantile en France",
-      "bullets": [
-        "Médecins du Monde alerte sur les difficultés persistantes d'accès aux soins des populations les plus précaires et sur la fragilisation des services publics de santé, dans son rapport annuel publié jeudi 26 novembre, rapporte France Culture.",
-        "Selon l'association, 46% des patients reçus dans ses centres présentent une pathologie grave, souvent à un stade avancé.",
-        "En dix ans, la protection maternelle et infantile a perdu un quart de son budget et 40% de ses pédiatres."
-      ],
-      "publishedAt": "2026-11-26T07:06:47+00:00",
-      "updatedAt": "2026-11-26T07:06:47+00:00",
-      "importance": 71,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/soigner/medecins-du-monde-alerte-sur-la-fragilisation-des-services-de-protection-maternelle-et-infantile-en-france_8300892.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "1cff13cebdc4317839347a3bc011c8dff3995daab1692a52bedf409919de260c",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T20:18:58.708478+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-67ae1bf76472984e41",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "« La sélection est au cœur de l’éducation. Sans elle, un diplôme ne vaut rien »",
-      "bullets": [
-        "L’école est un processus compétitif et doit continuer à l’être, car une scolarité sans sélection ne permet pas de produire un signal clair pour un employeur de ce qu’un candidat à un poste peut accomplir, avance, dans une tribune au « Monde », l’économiste Charles Wyplosz."
-      ],
-      "publishedAt": "2026-11-24T09:00:04+00:00",
-      "updatedAt": "2026-11-24T09:00:04+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/24/la-selection-est-au-c-ur-de-l-education-sans-elle-un-diplome-ne-vaut-rien_6814728_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
       "detailLevel": "preview"
     },
     {
@@ -1098,13 +1122,38 @@
       "context": null
     },
     {
+      "id": "rss-ea6955ee343f2c9691",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann cherche à tisser un réseau d’élus locaux",
+      "bullets": [
+        "Lors de rencontres au Salon des maires à Paris, puis en Mayenne jeudi, le candidat de Place publique et du Parti socialiste multiplie les appels aux élus de gauche à s’investir dans la campagne.",
+        "Il promet de faire de son « conseil des territoires » un pilier de sa gouvernance."
+      ],
+      "publishedAt": "2026-11-27T07:43:17+00:00",
+      "updatedAt": "2026-11-27T07:43:17+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-raphael-glucksmann-cherche-a-tisser-un-reseau-d-elus-locaux_6815814_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "1fa82742e48c3d5bac29b50d7320adc6a969e883013f0754b57c47b796201856",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c707b11c0e1c52de66",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Société",
       "title": "Louis Degos, bâtonnier de Paris : « L’Etat a oublié un principe essentiel de droit : la juste mesure »",
       "bullets": [
-        "Le représentant élu des avocats parisiens lance un appel au respect de l’Etat de droit, remis en cause selon lui autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’élection présidentielle."
+        "Le représentant élu des avocats parisiens lance un appel au respect de l’Etat de droit, remis en cause, selon lui, autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’élection présidentielle."
       ],
       "publishedAt": "2026-11-27T04:15:05+00:00",
       "updatedAt": "2026-11-27T04:15:05+00:00",
@@ -1118,31 +1167,7 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "02e8385741580d1a59621fa57114a336f772fbec053dc5027e4bdd0f1fc01ac7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-e302e16cf71018fc12",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Nos choix de spectacles à réserver pour les fêtes",
-      "bullets": [
-        "Théâtre, danse, comédie musicale, cirque, humour… Les journalistes du service culture du « Monde » ont sélectionné des rendez-vous festifs pour égayer la fin de l’année."
-      ],
-      "publishedAt": "2026-11-27T04:00:26+00:00",
-      "updatedAt": "2026-11-27T04:00:26+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/27/nos-choix-de-spectacles-a-reserver-pour-les-fetes_6815762_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9f9a4dcca4ec4ee2fd86e656457e958fd4b0e64f0fc1455d5f6571f01b76fc78",
+      "summaryInput": "3f55d4279a845e7f097f280ed99da1c8fb9e655fbbee5861f2e00fa4be559ad7",
       "detailLevel": "preview"
     },
     {
@@ -1170,52 +1195,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-36684b73a011f8158e",
+      "id": "rss-06161ef14794bb635b",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle",
+      "topic": "Santé",
+      "title": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
       "bullets": [
-        "Aux exceptions notables de Marine Le Pen et de Jean-Luc Mélenchon, les postulants à l’Elysée sont venus, mercredi, au Parc des expositions à Paris, prendre le pouls des élus locaux et chercher, pour certains, les précieux parrainages."
+        "De la revalorisation des soignants à la création d'une délégation interministérielle à la prévention, cinquante organisations (Mutualité Française, CFDT, Unsa...) ont présenté, jeudi 26 novembre, 60 mesures pour \"refonder le modèle social\", qu'elles soumettront aux candidats à l'élection présidentielle.",
+        "\"Un point de CSG est égal à 17,9 milliards d'euros en 2025\", souligne leur plaidoyer.",
+        "Sur l'accès aux soins, elles appellent à développer dans certains territoires des cabinets mobiles de type médico-bus, des maisons et centres de santé, et à créer des \"antennes\" rattachées aux Samu-SAS pour prodiguer des soins de premier recours."
       ],
-      "publishedAt": "2026-11-26T20:42:09+00:00",
-      "updatedAt": "2026-11-26T20:42:09+00:00",
+      "publishedAt": "2026-11-26T23:03:14+00:00",
+      "updatedAt": "2026-11-26T23:03:14+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b3aefd23ebb37b26060ad0dd4760e683759f02f8bd2d2086c107dfff869978d2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-0911a1d151ef903a8b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Éducation",
-      "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
-      "bullets": [
-        "Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, des parents et du personnel, ainsi que sur les attentes de proviseurs."
-      ],
-      "publishedAt": "2026-11-25T04:45:07+00:00",
-      "updatedAt": "2026-11-25T04:45:07+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bea871816637ba25a4b441c0f34506bc93ed0ce1c8fdbecdbfc3b390c69c3687",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "e1b699a1f9c0ca7d2bec5cc7dc43d7cd884525da38d927a038332743502d08b1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1229,7 +1234,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Franceinfo",
@@ -1253,7 +1258,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 16
+      "candidates": 15
     },
     {
       "publisher": "Franceinfo",
@@ -1277,7 +1282,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 8
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
