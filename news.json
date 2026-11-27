@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T16:19:15.645699+00:00",
+  "preparedAt": "2026-11-27T18:01:49.545003+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-598619aa5ce2589be6",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-      "bullets": [
-        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
-      ],
-      "publishedAt": "2026-11-27T14:39:51+00:00",
-      "updatedAt": "2026-11-27T14:39:51+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-15b0406459647429fc",
       "revision": 1,
@@ -59,31 +35,31 @@
       "context": null
     },
     {
-      "id": "rss-c8cee1787ddcab0580",
-      "revision": 3,
+      "id": "rss-e3e482149ac06eb244",
+      "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "La France est officiellement entrée en récession après deux trimestres de recul du PIB",
+      "title": "Un calcul \"technique\" qui illustre un \"décrochage\" économique : que signifie l'annonce de l'entrée en récession de la France ?",
       "bullets": [
-        "Le produit intérieur brut (PIB) français a reculé de 0,2% au troisième trimestre, après avoir stagné au deuxième trimestre, a annoncé vendredi 27 novembre l'Insee.",
-        "L'Insee a revu en baisse sa première estimation qui mesurait un recul de 0,1% au troisième trimestre.",
-        "Au total, \"l'acquis de croissance\" à la fin du troisième trimestre, c'est-à-dire ce que serait la croissance sur l'année si le PIB restait stable au quatrième trimestre, est de 0,1%, loin du taux de 0,5% toujours pronostiqué par le gouvernement."
+        "Le produit intérieur brut (PIB) de la France, qui mesure l'activité économique à travers les richesses créées, a reculé de 0,2% au troisième trimestre de 2026, a annoncé l'Insee vendredi 27 novembre.",
+        "Une révision mineure qui a une conséquence très symbolique, puisqu'elle fait entrer la France en récession.&amp;amp;amp;amp;lt;img src=\"https://public.flourish.studio/visualisation/31063548/thumbnail\" width=\"100%\" alt=\"chart visualization\" /&amp;amp;amp;amp;gt;Ce qu'on appelle traditionnellement une récession \"technique\" se caractérise par au moins deux trimestres consécutifs de baisse du PIB.",
+        "Après une année 2025 où la croissance avait atteint +0,9%, l'économie connaît un vrai \"décrochage\" depuis un an."
       ],
-      "publishedAt": "2026-11-27T13:56:35+00:00",
-      "updatedAt": "2026-11-27T13:56:35+00:00",
+      "publishedAt": "2026-11-27T17:27:16+00:00",
+      "updatedAt": "2026-11-27T17:27:16+00:00",
       "importance": 85,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html",
+          "url": "https://www.franceinfo.fr/economie/croissance/un-calcul-technique-qui-illustre-un-decrochage-economique-que-signifie-l-annonce-de-l-entree-en-recession-de-la-france_8303169.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "d32ec52f79e7cbf113c0fd625e08ab1fd4ea6c55559a7b1d62a771eb5ec27140",
+      "summaryInput": "5bc503797f12068649a85092b0b386afd959c5160bc498e0acc1995e67dd0593",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T15:11:46.669352+00:00",
+      "enrichedAt": "2026-11-27T18:01:49.545003+00:00",
       "context": null
     },
     {
@@ -186,30 +162,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-af4e02797ea9c42bf0",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
-      "bullets": [
-        "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
-      ],
-      "publishedAt": "2026-11-27T06:00:07+00:00",
-      "updatedAt": "2026-11-27T06:00:07+00:00",
-      "importance": 81,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "9a1c3d9f23c266a328944e22d5ad7b82c34c886d86ee5c0cdc1528ea839d9621",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-83f40375f1677366af",
       "revision": 1,
       "category": "eco",
@@ -236,6 +188,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T11:05:53.187830+00:00",
       "context": null
+    },
+    {
+      "id": "rss-be093ad4a748345bb7",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les distributeurs indépendants de SFR, qui craignent de ne pas survivre au rachat de l’opérateur, l’attaquent en justice",
+      "bullets": [
+        "Les revendeurs indépendants du numéro deux français des télécoms, qui représentent environ 250 boutiques et 1 500 employés, déplorent l’« absence de toute perspective » et la « dégradation de leurs activités »."
+      ],
+      "publishedAt": "2026-11-27T17:39:21+00:00",
+      "updatedAt": "2026-11-27T17:39:21+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-distributeurs-independants-de-sfr-qui-craignent-de-ne-pas-survivre-au-rachat-de-l-operateur-l-attaquent-en-justice_6815915_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "bfc3006bbc92988cb794cb51bad9fbc755feff194b3cae280c611135c08f9ec5",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-774f55fa9cf53a58af",
@@ -315,6 +291,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-276111e3629a33b507",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "L'Agence France-Presse victime d'une cyberattaque, sa plateforme de photos et vidéos temporairement inaccessible",
+      "bullets": [
+        "L'Agence France-Presse, dont sont clients la plupart des médias français, a été la cible dans la nuit du mercredi 25 au jeudi 26 novembre d'une cyberattaque, qui nécessite de rendre temporairement inaccessible sa plateforme de contenus AFP Forum, a indiqué sa direction jeudi.",
+        "L'AFP a été la cible d'une cyberattaque cette nuit, à partir de 1h30 (heure de Paris).",
+        "Selon son rapport annuel 2025, elle produit en moyenne 2300 dépêches en texte, 3000 photos et 300 vidéos par jour."
+      ],
+      "publishedAt": "2026-11-27T14:38:05+00:00",
+      "updatedAt": "2026-11-27T14:38:05+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/l-agence-france-presse-victime-d-une-cyberattaque-sa-plateforme-de-photos-et-videos-temporairement-inaccessible-20261126",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "859555a0f9ef841285340264a56d51891f646a1ec10d9c866eee568b397799c6",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T18:01:49.545003+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -325,9 +329,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T16:19:19+00:00",
-      "updatedAt": "2026-11-27T16:19:19+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-27T17:58:06+00:00",
+      "updatedAt": "2026-11-27T17:58:06+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -343,31 +347,31 @@
       "context": null
     },
     {
-      "id": "rss-cf7d37f959b8f1e1a3",
+      "id": "rss-2553ddbff9bad1115b",
       "revision": 1,
       "category": "markets",
       "topic": "Marchés",
-      "title": "CAC 40 : Alors que les indices chinois ont bondi, le CAC 40 progresse légèrement",
+      "title": "CAC 40 : En attendant la décision de S&P sur la note de crédit de la France, le CAC 40 termine en hausse ce vendredi et reprend près de 3% sur la semaine",
       "bullets": [
-        "Son indice phare, le CAC 40 avance de 0,27% à 8.130,49 ponts.",
-        ">> Accédez à nos analyses graphiques exclusives, et entrez dans la confidence du Portefeuille Trading Thales rachète Lumibird Les indices chinois ont nettement progressé, le CSI 300, qui rassemble les plus importantes capitalisations des bourses de Shenzhen et de Shanghai, ayant terminé sur une hausse de 4,17%.",
-        "Soitec prend 5% tandis que STMicroelectronics avance de 3,1%."
+        "L'indice phare de la Bourse de Paris s'est adjugé 0,58% ce vendredi 27 novembre, terminant sur une hausse de 2,88% en rythme hebdomadaire.",
+        "La grand baromètre de la place parisienne a notamment gagné 1,48% lundi, bénéficiant d'un retour de l'appétit pour le risque provoqué par la réinstallation de Jensen Huang au poste de directeur général de Nvidia.",
+        "Les indices chinois ont nettement progressé, le CSI 300, qui rassemble les plus importantes capitalisations des bourses de Shenzhen et de Shanghai, ayant terminé sur une hausse de 4,17%."
       ],
-      "publishedAt": "2026-11-27T12:48:29+00:00",
-      "updatedAt": "2026-11-27T12:48:29+00:00",
+      "publishedAt": "2026-11-27T17:03:15+00:00",
+      "updatedAt": "2026-11-27T17:03:15+00:00",
       "importance": 63,
       "sources": [
         {
           "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-les-indices-chinois-ont-bondi-le-cac-40-progresse-legerement-1174554.html",
+          "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
-      "summaryInput": "e70ecb8ffb559ede30f262226fce9c5c6c777a28076ae4be22ac0d696b261ff0",
+      "summaryInput": "dea14c1d3646a759a269524b21601773089842817bed078b04d99c4ea3f7a540",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T13:30:33.912247+00:00",
+      "enrichedAt": "2026-11-27T18:01:49.545003+00:00",
       "context": null
     },
     {
@@ -383,7 +387,7 @@
       ],
       "publishedAt": "2026-11-25T17:02:38+00:00",
       "updatedAt": "2026-11-25T17:02:38+00:00",
-      "importance": 60,
+      "importance": 59,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -479,6 +483,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-598619aa5ce2589be6",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+      "bullets": [
+        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
+      ],
+      "publishedAt": "2026-11-27T14:39:51+00:00",
+      "updatedAt": "2026-11-27T14:39:51+00:00",
+      "importance": 93,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-49af5ff2d3da05732c",
       "revision": 1,
       "category": "world",
@@ -503,34 +531,6 @@
       "summaryInput": "ecde1ac35688238ae763bde24c6233cd616a25428f0fa191fc4cbf95d5d59020",
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-23f9f8fc1c38ee230e",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "À suivre Loïc de la Mornais : l'Europe va faire une \"erreur stratégique\" sur le budget de l'aide à l'Ukraine, selon Emmanuel Macron",
-      "bullets": [
-        "Les invités de \"À suivre Loïc de la Mornais\" du jeudi 26 novembre 2026 sont :Guillaume Ancel, ancien officier et chroniqueur de guerre.",
-        "Alban Mikoczy, spécialiste des questions internationales franceinfo Canal 16.",
-        "Arthur Kenigsberg, président du think-tank Euro Créative, spécialiste de l'Europe centrale et orientale."
-      ],
-      "publishedAt": "2026-11-27T07:53:46+00:00",
-      "updatedAt": "2026-11-27T07:53:46+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-l-europe-va-faire-une-erreur-strategique-sur-le-budget-de-l-aide-a-l-ukraine-selon-emmanuel-macron_8302662.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "470ae4486eb71e51b48d076472fdd738f1057dd7060e2021365e226e4a011a00",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
       "context": null
     },
     {
@@ -634,30 +634,6 @@
       "context": null
     },
     {
-      "id": "rss-0157acffe2dd758084",
-      "revision": 3,
-      "category": "world",
-      "topic": "International",
-      "title": "Génocide des Rohingya : le président birman Min Aung Hlaing fait peu de cas du verdict de la CIJ",
-      "bullets": [
-        "La condamnation de la Birmanie par la Cour internationale de justice, pour génocide à l’encontre de la minorité musulmane de l’ouest du pays, oblige à des mesures de réparation et des poursuites judiciaires contre les responsables dont la mise en œuvre par Naypyidaw paraît improbable."
-      ],
-      "publishedAt": "2026-11-27T10:00:07+00:00",
-      "updatedAt": "2026-11-27T10:00:07+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/27/birmanie-le-dictateur-birman-min-aung-hlaing-fait-peu-de-cas-du-verdict-de-la-cij_6815834_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "65cf700b8503a6aa2b31003b4997d501fd11834335ed196518ee2232c365ffdf",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-00e75a81807bf5ad8e",
       "revision": 1,
       "category": "world",
@@ -669,7 +645,7 @@
       ],
       "publishedAt": "2026-11-27T06:00:00+00:00",
       "updatedAt": "2026-11-27T06:00:00+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -758,6 +734,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T16:19:15.645699+00:00",
       "context": null
+    },
+    {
+      "id": "rss-f2301a0b971f940970",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "À Taïwan, la mairie de Taipei à portée de main de « l’indépendantiste » Puma Shen",
+      "bullets": [
+        "REPORTAGE - La capitale de Taïwan, bastion du Kuomintang proche de Pékin, pourrait tomber dans l’escarcelle du Parti démocrate progressiste, lors des élections municipales du samedi 28 novembre."
+      ],
+      "publishedAt": "2026-11-27T14:13:58+00:00",
+      "updatedAt": "2026-11-27T14:13:58+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/a-taiwan-la-mairie-de-taipei-a-portee-de-main-de-l-independantiste-puma-shen-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "fdf3723c51c0601e4d9e1fe5dd1e046e8779b5c98db136b07d5e316e1ca61b82",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5feea6f29dc624af26",
@@ -885,7 +885,7 @@
     },
     {
       "id": "rss-9a2083dea231bf76d2",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Faits divers",
       "title": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
@@ -902,6 +902,11 @@
           "publisher": "Franceinfo",
           "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html",
           "access": "public"
+        },
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
@@ -944,9 +949,9 @@
       "bullets": [
         "DÉCRYPTAGE - À l’occasion de ses vingt ans, la Conférence nationale des procureurs veut remettre la réforme de leur statut sur le métier."
       ],
-      "publishedAt": "2026-11-26T20:12:40+00:00",
-      "updatedAt": "2026-11-26T20:12:40+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-27T16:21:58+00:00",
+      "updatedAt": "2026-11-27T16:21:58+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -957,6 +962,55 @@
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-99506bc73e61c4438d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "« Sexe faible, l’Amérique en guerre contre ses femmes », sur Arte.tv : un film choc pour dénoncer une misogynie institutionnalisée",
+      "bullets": [
+        "Le documentaire de Brice Lambert, qui réunit des témoignages d’Américaines dont la vie a été bouleversée par l’interdiction de l’avortement, s’est vu octroyer le prix Albert Londres de l’audiovisuel 2026."
+      ],
+      "publishedAt": "2026-11-27T16:30:05+00:00",
+      "updatedAt": "2026-11-27T16:30:05+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/27/sexe-faible-l-amerique-en-guerre-contre-ses-femmes-sur-arte-tv-un-film-choc-pour-denoncer-une-misogynie-institutionnalisee_6815900_3246.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4e58778245630b685162ed47cf2f35584c3d6eea020920f25cd985966d9ec5c1",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-5f99b18ab05e11a190",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
+      "bullets": [
+        "La PDG du groupe public, Sibyle Veil, plaide pour que le code pénal prévoit que l’agression d’un journaliste constitue une « circonstance aggravante ».",
+        "France Télévisions et BFM-TV annoncent au « Monde » soutenir la proposition."
+      ],
+      "publishedAt": "2026-11-27T11:37:30+00:00",
+      "updatedAt": "2026-11-27T11:37:30+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cb8cbc94bf4da5a7705c9fb1fdbe1baf77ed00ea7078da3f31ca65b70f4fe7b7",
       "detailLevel": "preview"
     },
     {
@@ -1012,27 +1066,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f60c4ec2a7920cb938",
+      "id": "rss-f1f8d9e50f6fe61786",
       "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "Le Louvre, un monument modèle résumé en 300 photographies",
+      "topic": "Politique",
+      "title": "L’extrême droite française a-t-elle vraiment changé ? L’historien Laurent Joly, invité de notre podcast vidéo « L’Heure de la présidentielle »",
       "bullets": [
-        "L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes."
+        "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes au sein de l’extrême droite en France."
       ],
-      "publishedAt": "2026-11-26T18:00:22+00:00",
-      "updatedAt": "2026-11-26T18:00:22+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-27T17:00:16+00:00",
+      "updatedAt": "2026-11-27T17:00:16+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html",
+          "url": "https://www.lemonde.fr/videos/video/2026/11/27/l-extreme-droite-francaise-a-t-elle-vraiment-change-l-historien-laurent-joly-invite-de-notre-podcast-video-l-heure-de-la-presidentielle_6815909_1669088.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "2bfa152861bad538e0c285d699ef6ff0fbebedf1f27857bf15e8c8e0dacf7c03",
+      "summaryInput": "3cd09c06f38d1cb782eb9f312e70847cc6f7d95efa9054dc752fd8b39cac1878",
       "detailLevel": "preview"
     },
     {
@@ -1057,55 +1111,6 @@
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "b6fd19916b3f9ba13289675d6c11240acd8c29a28cac326991dd98454cd41848",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-62a9c6ad0cac74a6d1",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Marine Le Pen prône une « autonomie économique » pour les territoires d’outre-mer et insiste sur leur importance stratégique",
-      "bullets": [
-        "La candidate d’extrême droite a rappelé son « attachement viscéral aux outre-mer, des territoires éloignés, isolés, exposés et trop souvent oubliés ».",
-        "En 2022, Mme Le Pen était arrivée en tête du second tour de l’élection présidentielle dans les Antilles, à La Réunion, en Guyane, à Mayotte et à Saint-Pierre-et-Miquelon."
-      ],
-      "publishedAt": "2026-11-27T15:04:58+00:00",
-      "updatedAt": "2026-11-27T15:04:58+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-marine-le-pen-prone-une-autonomie-economique-pour-les-territoires-d-outre-mer-et-insiste-sur-leur-importance-strategique_6815880_6205049.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "516e3a09f6fd8e7ab46eebf2d45304d82bad2815e15aa5dd7c65779b1e426716",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-823e7a8298f7b81384",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
-      "bullets": [
-        "Interrogée par notre journaliste politique Corentin Lesueur, spécialiste de l’extrême droite, lors d’un point presse, Marine Le Pen a déclaré : « Les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de l’instruction »."
-      ],
-      "publishedAt": "2026-11-27T13:13:16+00:00",
-      "updatedAt": "2026-11-27T13:13:16+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "68edf9fb8653af9a94a037006d858f746bb92b94689cd83f5ac344074a958197",
       "detailLevel": "preview"
     },
     {
@@ -1196,7 +1201,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Franceinfo",
@@ -1238,13 +1243,13 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 14
+      "candidates": 15
     },
     {
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/education/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 10
     },
     {
       "publisher": "Le Monde",
@@ -1268,7 +1273,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/societe/rss_full.xml",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "BFM Bourse",
