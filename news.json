@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T20:11:32.220342+00:00",
+  "preparedAt": "2026-11-27T21:09:50.513998+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-25b91686634cfb9a39",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Le bilan de plus de 10 ans de macronisme» : la France en récession, plusieurs candidats à la présidentielle étrillent Emmanuel Macron",
+      "bullets": [
+        "Le recul de 0,2 % du PIB au troisième trimestre, après un très léger repli au deuxième, confirme l’entrée de l’économie française en récession technique.",
+        "L’Insee a non seulement confirmé le recul du PIB au troisième trimestre, mais aussi révisé à la baisse sa première estimation, de -0,1 % à -0,2 %.",
+        "Une mauvaise nouvelle pour le gouvernement, qui veut maintenir son objectif de déficit public à 5 % du PIB en 2026."
+      ],
+      "publishedAt": "2026-11-27T20:59:22+00:00",
+      "updatedAt": "2026-11-27T20:59:22+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/le-bilan-de-plus-de-10-ans-de-macronisme-la-france-en-recession-plusieurs-candidats-a-la-presidentielle-etrillent-emmanuel-macron-20261127",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "4e3effb12656cfa1f3d1df4681f1e52b886f6e71924beb667cd8eda5cb96e0e2",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T21:09:50.513998+00:00",
+      "context": null
+    },
     {
       "id": "rss-d3669c2917aec5c703",
       "revision": 1,
@@ -115,6 +143,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-0582d7271084006ca0",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Tombée en « récession technique », la France continue de payer le prix de la dissolution et de son imprévoyance",
+      "bullets": [
+        "DÉCRYPTAGE - Les chiffres actualisés de l’Insee publiés vendredi montrent que la croissance a été négative sur les trois derniers trimestres."
+      ],
+      "publishedAt": "2026-11-27T18:05:00+00:00",
+      "updatedAt": "2026-11-27T18:05:00+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/tombee-en-recession-technique-la-france-continue-de-payer-le-prix-de-la-dissolution-et-de-son-imprevoyance-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "e73ac91c43e201d7d22af50108a5740847fa109d8f99f9d5e7abc4f853620c8e",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c819204ef0a9f2ca08",
       "revision": 1,
       "category": "eco",
@@ -166,56 +218,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ff1dcca410a34ad048",
+      "id": "rss-322efcb0e640b03fad",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Retraites, chômage, santé… Les leçons de nos voisins européens pour maîtriser nos dépenses sociales",
+      "title": "Pour alléger l’impôt sur les sociétés des PME, Marine Le Pen veut alourdir celui des grandes entreprises",
       "bullets": [
-        "DÉCRYPTAGE - Le haut-commissariat au Plan recense dans une étude les bonnes pratiques de plusieurs pays d’Europe, dont l’Allemagne, l’Italie et la Suède."
+        "DÉCRYPTAGE - La réforme proposée par le RN vise à réduire de 6 milliards la fiscalité des TPE et PME et à augmenter de plus de 5 milliards la fiscalité pour 840 grandes sociétés."
       ],
-      "publishedAt": "2026-11-26T18:45:00+00:00",
-      "updatedAt": "2026-11-26T18:45:00+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-27T17:30:00+00:00",
+      "updatedAt": "2026-11-27T17:30:00+00:00",
+      "importance": 77,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/retraites-chomage-sante-les-lecons-de-nos-voisins-europeens-pour-maitriser-nos-depenses-sociales-20261126",
+          "url": "https://www.lefigaro.fr/economie/pour-alleger-l-impot-sur-les-societes-des-pme-marine-le-pen-veut-alourdir-celui-des-grandes-entreprises-20261127",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "995bde9e5b7a69340034ed8268437badc29a4cc4ed779d35e0a1c64d91166ad5",
+      "summaryInput": "1b7aa018da1538461d2ef644ce7da20a1397253d61dc7d3a7815e616e40159b3",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-83f40375f1677366af",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Ça a été le combat de l’année» : Emmanuel Macron réaffirme son opposition à l’accord UE-Mercosur et charge la «viande dopée» du Brésil",
-      "bullets": [
-        "«Je suis fier du combat que l’on a mené.» À l’occasion d’une réunion avec les représentants du monde agricole à l’Élysée qui s’est tenue mercredi 25 novembre, Emmanuel Macron a réaffirmé l’opposition de la France à l’accord commercial entre l’Union européenne et le Mercosur.",
-        "S’agissant de la politique agricole commune, il a assuré que «pas un euro ne manquerait».",
-        "Le président du Conseil européen, António Costa, a pourtant annoncé une coupe de 204 milliards d’euros dans le projet de budget préparé par Bruxelles, qui s’élevait initialement à 2 000 milliards d’euros."
-      ],
-      "publishedAt": "2026-11-27T14:40:20+00:00",
-      "updatedAt": "2026-11-27T14:40:20+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/ca-a-ete-le-combat-de-l-annee-emmanuel-macron-reaffirme-son-opposition-a-l-accord-ue-mercosur-et-charge-la-viande-dopee-du-bresil-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "04313ac6e9b18c32505ccb57a77cb5bb5c1a3844489152d0e02ae86243ce0c99",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T11:05:53.187830+00:00",
-      "context": null
     },
     {
       "id": "rss-be093ad4a748345bb7",
@@ -242,28 +266,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-774f55fa9cf53a58af",
+      "id": "rss-dd3ee621463d4c2a7e",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "« Tout le monde les regarde » : moins chers et adaptables, les modèles chinois d’IA séduisent aussi les grands groupes français",
+      "title": "«On pensait qu’il allait y avoir trop de monde, mais pas du tout» : à Paris, les promos du Black Friday peinent à convaincre",
       "bullets": [
-        "RÉCIT - Pour mieux maîtriser les coûts liés à l’IA, les entreprises du CAC 40 s’intéressent de plus en plus aux modèles venus de Chine.",
-        "Une adoption prudente à cause de la défiance qu’inspirent les technologies de ce pays."
+        "Inflation, pouvoir d’achat en berne et froid hivernal : il n’y avait pas foule aux Halles pour l’ouverture du Black Friday, ce vendredi 27 novembre.",
+        "Entre ceux qui repèrent leurs cadeaux de Noël et ceux qui préfèrent acheter en ligne, les commerçants du centre de Paris s’inquiètent."
       ],
-      "publishedAt": "2026-11-26T19:26:06+00:00",
-      "updatedAt": "2026-11-26T19:26:06+00:00",
-      "importance": 73,
+      "publishedAt": "2026-11-27T16:17:16+00:00",
+      "updatedAt": "2026-11-27T16:17:16+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/tout-le-monde-les-regarde-moins-chers-et-adaptables-les-modeles-chinois-d-ia-seduisent-aussi-les-grands-groupes-francais-20261126",
+          "url": "https://www.lefigaro.fr/conso/on-pensait-qu-il-allait-y-avoir-trop-de-monde-mais-pas-du-tout-a-paris-les-promos-du-black-friday-peinent-a-convaincre-20261127",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "061cc88d8ec5adc42985edff08efbbda29c5972bab55383fa4c8658d955b939d",
+      "summaryInput": "bee143172b681698cb0628c23a21c6eb0b84070366ea7fa7185c3072b1ec62de",
       "detailLevel": "preview"
     },
     {
@@ -295,30 +319,6 @@
       "context": null
     },
     {
-      "id": "rss-b9ac9f312ce27d7182",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Négociations commerciales : les grands patrons de la distribution somment les industriels de modérer leurs hausses de prix",
-      "bullets": [
-        "EXCLUSIF - Dans un courrier adressé mercredi à une cinquantaine de multinationales, que Le Figaro a pu consulter, les dirigeants alertent sur la fragilité du pouvoir d’achat des Français, à quelques jours de l’ouverture des discussions."
-      ],
-      "publishedAt": "2026-11-27T15:39:02+00:00",
-      "updatedAt": "2026-11-27T15:39:02+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/negociations-commerciales-les-grands-patrons-de-la-distribution-somment-les-industriels-de-moderer-leurs-hausses-de-prix-20261127",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5dae53206594c90b5333031ba6d9788e9112a2954a0933850f1e16c3bcf38d0f",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -329,8 +329,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T20:09:12+00:00",
-      "updatedAt": "2026-11-27T20:09:12+00:00",
+      "publishedAt": "2026-11-27T21:05:46+00:00",
+      "updatedAt": "2026-11-27T21:05:46+00:00",
       "importance": 69,
       "sources": [
         {
@@ -634,34 +634,6 @@
       "context": null
     },
     {
-      "id": "rss-8e0c5f3316afcbb082",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Une frappe saoudienne fait 11 morts au Yémen, selon un média affilié aux houthis",
-      "bullets": [
-        "Une frappe saoudienne a fait 11 morts, vendredi 27 novembre, dans l'ouest du Yémen.",
-        "L'aviation saoudienne a mené \"un raid sur un bâtiment résidentiel dans la ville d'Al-Turba\" dans le gouvernorat de Taëz, provoquant la mort \"de 11 citoyens, dont la plupart sont des enfants\", a précisé l'agence de presse houthie, citant une source locale.",
-        "La coalition menée par Riyad, qui soutient le gouvernement yéménite face aux houthis, bombarde régulièrement les zones contrôlées par le groupe armé depuis la reprise du conflit dans le pays, cet été."
-      ],
-      "publishedAt": "2026-11-27T10:20:15+00:00",
-      "updatedAt": "2026-11-27T10:20:15+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-une-frappe-saoudienne-a-fait-11-morts-selon-un-media-affilie-aux-houthis_8302758.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "ac1d070b9491bfa49a7e13965a3a8c5a7dc2673ab1d005927426a1dea531f4a9",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T11:05:53.187830+00:00",
-      "context": null
-    },
-    {
       "id": "rss-00e75a81807bf5ad8e",
       "revision": 1,
       "category": "world",
@@ -685,6 +657,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "70da2ebd69a1f36520cf09d873fe344f6ddecc913a8e393bec20ca3ad3b4c8c9",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-585dd27032ecd23a99",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Périlleux remorquage pour éviter une marée noire",
+      "bullets": [
+        "Un cargo transportant 7 000 tonnes de carburant a fait naufrage au large des îles d’Ibiza et de Formentera, dans les Baléares.",
+        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
+      ],
+      "publishedAt": "2026-11-27T21:00:02+00:00",
+      "updatedAt": "2026-11-27T21:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/perilleux-remorquage-pour-eviter-une-maree-noire_8303781.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "bbde2cd200b9707c237f750836eb3d85d801a2fe118eb84dee4e3e7b77a159fb",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T21:09:50.513998+00:00",
+      "context": null
     },
     {
       "id": "rss-4e8be7b9f03473ee39",
@@ -974,6 +974,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-564f1768c908659018",
+      "revision": 1,
+      "category": "france",
+      "topic": "Faits divers",
+      "title": "Le père de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, annonce qu'il ne participera pas à l'hommage national",
+      "bullets": [
+        "Alors qu'un hommage national aux victimes de l'attentat raciste de Trappes dans les Yvelines aura lieu le 4 décembre, Bolema Bossio Wangi, le père de Pengo Bossio Wangi, tué dans l'attaque, a annoncé, vendredi 24 novembre, sur RTL, qu'il n'y participera pas.",
+        "Je ne peux pas accepter un hommage national sur la mort tragique et épouvantable de mon fils par un monstre terroriste, raciste, négrophobe et islamophobe radicalisé, haineux quand, depuis le 23 octobre\", a-t-il dénoncé.\"Je suis une victime de ce terroriste.",
+        "Voilà pourquoi je ne viendrai pas\", a encore expliqué Bolema Bossio Wangi."
+      ],
+      "publishedAt": "2026-11-27T20:32:08+00:00",
+      "updatedAt": "2026-11-27T20:32:08+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-pere-de-pengo-bossio-wangi-tue-dans-l-attentat-raciste-de-trappes-annonce-qu-il-ne-participera-pas-a-l-hommage-national_8303784.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "23c9b827fb2a442ad3d7b66d2fe346f56d0b87d1c93e320dc84bab6fd9695476",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T21:09:50.513998+00:00",
+      "context": null
+    },
+    {
       "id": "rss-99506bc73e61c4438d",
       "revision": 1,
       "category": "france",
@@ -1032,7 +1060,7 @@
       ],
       "publishedAt": "2026-11-24T09:00:04+00:00",
       "updatedAt": "2026-11-24T09:00:04+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -1046,27 +1074,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f1f8d9e50f6fe61786",
+      "id": "rss-041afaec45ffb7d600",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "L’extrême droite française a-t-elle vraiment changé ? L’historien Laurent Joly, invité de notre podcast vidéo « L’Heure de la présidentielle »",
+      "title": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
       "bullets": [
-        "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes au sein de l’extrême droite en France."
+        "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique."
       ],
-      "publishedAt": "2026-11-27T17:00:16+00:00",
-      "updatedAt": "2026-11-27T17:00:16+00:00",
+      "publishedAt": "2026-11-27T20:49:09+00:00",
+      "updatedAt": "2026-11-27T20:49:09+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/videos/video/2026/11/27/l-extreme-droite-francaise-a-t-elle-vraiment-change-l-historien-laurent-joly-invite-de-notre-podcast-video-l-heure-de-la-presidentielle_6815909_1669088.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "3cd09c06f38d1cb782eb9f312e70847cc6f7d95efa9054dc752fd8b39cac1878",
+      "summaryInput": "41659f5b2a5b17b9a151eb0c3343de7c021f06c0d7fdbb146efb2ac7bde33bb7",
       "detailLevel": "preview"
     },
     {
@@ -1140,30 +1168,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a4e99092bf602396202864eb1cba6c17ecca812acbadc2677c43468b73978a04",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f60c4ec2a7920cb938",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "Le Louvre, un monument modèle résumé en 300 photographies",
-      "bullets": [
-        "L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes."
-      ],
-      "publishedAt": "2026-11-26T18:00:22+00:00",
-      "updatedAt": "2026-11-26T18:00:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2bfa152861bad538e0c285d699ef6ff0fbebedf1f27857bf15e8c8e0dacf7c03",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1177,7 +1181,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
