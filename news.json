@@ -1,36 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T00:08:21.501218+00:00",
+  "preparedAt": "2026-11-27T01:35:14.282659+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-8c2214efb7944cf6cd",
-      "revision": 2,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
-      "bullets": [
-        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
-        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
-      ],
-      "publishedAt": "2026-11-26T15:04:15+00:00",
-      "updatedAt": "2026-11-26T15:04:15+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
-      "detailLevel": "preview"
-    },
     {
       "id": "rss-ff1dcca410a34ad048",
       "revision": 1,
@@ -67,7 +42,7 @@
       ],
       "publishedAt": "2026-11-26T12:49:04+00:00",
       "updatedAt": "2026-11-26T12:49:04+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -268,31 +243,6 @@
       "context": null
     },
     {
-      "id": "rss-1625e7cbc7fc174e57",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
-      "bullets": [
-        "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système américain Palantir.",
-        "L’exercice a eu lieu dans le contexte d’une lutte impitoyable entre industriels de l’armement, licornes de l’intelligence artificielle…"
-      ],
-      "publishedAt": "2026-11-26T17:35:04+00:00",
-      "updatedAt": "2026-11-26T17:35:04+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "85531483105b2f9cc6917fe147f2a02164f90931f20b03716277abc681620cc7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-bf7ee2d9cb6bfc2510",
       "revision": 1,
       "category": "eco",
@@ -321,6 +271,58 @@
       "context": null
     },
     {
+      "id": "rss-873036b5d0225e2669",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite",
+      "bullets": [
+        "David Lisnard a été réélu, mercredi 25 novembre, à la tête de l’Association des maires de France et est candidat à la présidentielle 2027.",
+        "David Lisnard a, en effet, participé à l'entreprise familiale.",
+        "D'autant que, d'après les données que l'on a trouvées sur internet, lorsque David Lisnard a été nommé gérant, l'entreprise avait déjà une rentabilité assez faible, donc on ne peut pas dire qu'il l'ait menée à la perte."
+      ],
+      "publishedAt": "2026-11-26T19:15:45+00:00",
+      "updatedAt": "2026-11-26T19:15:45+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "44ee754b55aa125704e3551bf22a0c953b270f2399e4b4b2dd4a99bb22e69f3b",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T01:35:14.282659+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-46e7499759ecb0e430",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
+      "bullets": [
+        "REPORTAGE - La candidate à l’élection présidentielle, donnée favorite dans les sondages, veut convaincre qu’elle entend les préoccupations des dirigeants de petites entreprises."
+      ],
+      "publishedAt": "2026-11-26T18:46:46+00:00",
+      "updatedAt": "2026-11-26T18:46:46+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2064c2df8cfa0a500caf0a656dfe010028df3678130410349972ee870bd4d2e1",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -331,8 +333,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T00:05:06+00:00",
-      "updatedAt": "2026-11-27T00:05:06+00:00",
+      "publishedAt": "2026-11-27T01:30:07+00:00",
+      "updatedAt": "2026-11-27T01:30:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,7 +459,7 @@
       "provenance": "article-extract",
       "summaryInput": "3ca8643ff0792373e7df2b9e46c775786d4a907f2a2b433648c6fd7e5cd247dd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T12:14:41.815947+00:00",
+      "enrichedAt": "2026-11-27T01:35:14.282659+00:00",
       "context": null
     },
     {
@@ -517,6 +519,31 @@
       "context": null
     },
     {
+      "id": "rss-8c2214efb7944cf6cd",
+      "revision": 2,
+      "category": "world",
+      "topic": "International",
+      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+      "bullets": [
+        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
+        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
+      ],
+      "publishedAt": "2026-11-26T15:04:15+00:00",
+      "updatedAt": "2026-11-26T15:04:15+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d3e32edc2699ca56f7",
       "revision": 1,
       "category": "world",
@@ -525,8 +552,8 @@
       "bullets": [
         "Destruction de Gaza, guerres en Iran, colonisation accélérée en Cisjordanie depuis vingt ans… Le premier ministre israélien est le premier responsable du désamour des Américains envers l’Etat hébreu, alors même qu’il a construit son image sur sa proximité avec les Etats-Unis, pays où il a été élevé et formé, note…"
       ],
-      "publishedAt": "2026-11-26T16:35:50+00:00",
-      "updatedAt": "2026-11-26T16:35:50+00:00",
+      "publishedAt": "2026-11-26T16:35:48+00:00",
+      "updatedAt": "2026-11-26T16:35:48+00:00",
       "importance": 97,
       "sources": [
         {
@@ -671,12 +698,12 @@
     },
     {
       "id": "rss-e959a4f1cb05469f7d",
-      "revision": 2,
+      "revision": 3,
       "category": "world",
       "topic": "International",
       "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
       "bullets": [
-        "La candidate du Rassemblement national a accusé le président de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle."
+        "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle."
       ],
       "publishedAt": "2026-11-26T21:31:24+00:00",
       "updatedAt": "2026-11-26T21:31:24+00:00",
@@ -690,7 +717,7 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "1c70b92ff28f9b71d2ef3be0094a6024690007ca5c428c0f4d3d6fff6afd3c54",
+      "summaryInput": "8ccf66d924c8e28706824089e81b690a929a03f685ea7f31c5b635c8a97adf3d",
       "detailLevel": "preview"
     },
     {
@@ -797,30 +824,6 @@
       "context": null
     },
     {
-      "id": "rss-55c49d5d566d80d44a",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
-      "bullets": [
-        "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022."
-      ],
-      "publishedAt": "2026-11-26T20:05:00+00:00",
-      "updatedAt": "2026-11-26T20:05:00+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "269aca8f1ad99619b5e640475ae08ff7a470245860e40d436eb0e99292a87e8d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-a5dc898bc23b661728",
       "revision": 1,
       "category": "france",
@@ -831,7 +834,7 @@
       ],
       "publishedAt": "2026-11-26T13:00:11+00:00",
       "updatedAt": "2026-11-26T13:00:11+00:00",
-      "importance": 77,
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
