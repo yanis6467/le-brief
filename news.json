@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-26T23:10:35.799596+00:00",
+  "preparedAt": "2026-11-27T00:08:21.501218+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-8c2214efb7944cf6cd",
+      "revision": 2,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+      "bullets": [
+        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
+        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
+      ],
+      "publishedAt": "2026-11-26T15:04:15+00:00",
+      "updatedAt": "2026-11-26T15:04:15+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-ff1dcca410a34ad048",
       "revision": 1,
@@ -25,7 +50,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "995bde9e5b7a69340034ed8268437badc29a4cc4ed779d35e0a1c64d91166ad5",
       "detailLevel": "preview"
@@ -50,7 +75,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "fd0a2ef67b6de7357ebe7011797c3773e9e20ad35e79062dc0ac3c87caa39619",
       "detailLevel": "preview"
@@ -76,7 +101,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "9ab26ed794a8bc6c70e7abb4926fefe68470e9023ced883251b5bab91ea766b8",
       "detailLevel": "article",
@@ -104,7 +129,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "04313ac6e9b18c32505ccb57a77cb5bb5c1a3844489152d0e02ae86243ce0c99",
       "detailLevel": "article",
@@ -131,7 +156,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "f78a39ae665ba2f1e23115d2cc432ad65c0de48324240b4c7ec3700118abcdeb",
       "detailLevel": "preview"
@@ -156,7 +181,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "061cc88d8ec5adc42985edff08efbbda29c5972bab55383fa4c8658d955b939d",
       "detailLevel": "preview"
@@ -181,7 +206,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "8fb542b225623d1f67628246b0f2528729a79af606d14bc2706ec6aa06101a6b",
       "detailLevel": "preview"
@@ -207,7 +232,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "a4dbaa8bbd06ff46cddfa7362a7e0695cb50115c7bcaa0202f549516ccc1ff50",
       "detailLevel": "article",
@@ -235,12 +260,37 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "859555a0f9ef841285340264a56d51891f646a1ec10d9c866eee568b397799c6",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T19:14:43.018622+00:00",
       "context": null
+    },
+    {
+      "id": "rss-1625e7cbc7fc174e57",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
+      "bullets": [
+        "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système américain Palantir.",
+        "L’exercice a eu lieu dans le contexte d’une lutte impitoyable entre industriels de l’armement, licornes de l’intelligence artificielle…"
+      ],
+      "publishedAt": "2026-11-26T17:35:04+00:00",
+      "updatedAt": "2026-11-26T17:35:04+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "85531483105b2f9cc6917fe147f2a02164f90931f20b03716277abc681620cc7",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-bf7ee2d9cb6bfc2510",
@@ -263,64 +313,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "5ff4a7688d8a3ee7fe4d932a32000866dd4aa0c27ce4f13abfece1717d8aa96a",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T19:14:43.018622+00:00",
       "context": null
-    },
-    {
-      "id": "rss-873036b5d0225e2669",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite",
-      "bullets": [
-        "David Lisnard a été réélu, mercredi 25 novembre, à la tête de l’Association des maires de France et est candidat à la présidentielle 2027.",
-        "David Lisnard a, en effet, participé à l'entreprise familiale.",
-        "D'autant que, d'après les données que l'on a trouvées sur internet, lorsque David Lisnard a été nommé gérant, l'entreprise avait déjà une rentabilité assez faible, donc on ne peut pas dire qu'il l'ait menée à la perte."
-      ],
-      "publishedAt": "2026-11-26T19:15:45+00:00",
-      "updatedAt": "2026-11-26T19:15:45+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "article-extract",
-      "summaryInput": "44ee754b55aa125704e3551bf22a0c953b270f2399e4b4b2dd4a99bb22e69f3b",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T23:10:35.799596+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-46e7499759ecb0e430",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
-      "bullets": [
-        "REPORTAGE - La candidate à l’élection présidentielle, donnée favorite dans les sondages, veut convaincre qu’elle entend les préoccupations des dirigeants de petites entreprises."
-      ],
-      "publishedAt": "2026-11-26T18:46:46+00:00",
-      "updatedAt": "2026-11-26T18:46:46+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "2064c2df8cfa0a500caf0a656dfe010028df3678130410349972ee870bd4d2e1",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d0ddb76a76e8005947",
@@ -333,8 +331,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-26T23:05:26+00:00",
-      "updatedAt": "2026-11-26T23:05:26+00:00",
+      "publishedAt": "2026-11-27T00:05:06+00:00",
+      "updatedAt": "2026-11-27T00:05:06+00:00",
       "importance": 69,
       "sources": [
         {
@@ -343,7 +341,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
@@ -371,7 +369,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
       "detailLevel": "article",
@@ -399,7 +397,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "e1183bac8b695d41762bf2f4564f7f854263201ceef9589e235913add6803bd7",
       "detailLevel": "article",
@@ -427,7 +425,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "a5239fe8b111f4728c6d808d6ca8dba94c19a872f107325aa44291c7151c3a0d",
       "detailLevel": "article",
@@ -455,7 +453,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "3ca8643ff0792373e7df2b9e46c775786d4a907f2a2b433648c6fd7e5cd247dd",
       "detailLevel": "article",
@@ -483,7 +481,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "522bc1942792628b9f4cee80ba30289afc3b8b4195ccc7295d109215a1d696a3",
       "detailLevel": "article",
@@ -511,37 +509,12 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "a2dd5145fa83b94cb89d8a87ccee41c30cde012e5d98f5f356f0313dcf3a860f",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
       "context": null
-    },
-    {
-      "id": "rss-8c2214efb7944cf6cd",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
-      "bullets": [
-        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
-        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
-      ],
-      "publishedAt": "2026-11-26T15:04:15+00:00",
-      "updatedAt": "2026-11-26T15:04:15+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-d3e32edc2699ca56f7",
@@ -562,7 +535,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "788504985b4473507e5c80929c391537a3c3a32ac5d0245cce3011524e532819",
       "detailLevel": "preview"
@@ -586,7 +559,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "7d3be341a6c5c1d19166da6cb5760562507d04d7688099ef35ea95cd72d12d6e",
       "detailLevel": "preview"
@@ -612,7 +585,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "111efbbe9c26dd5355376cb78ac0b5b9185542b1c598e00a189b05cb8a6afab1",
       "detailLevel": "article",
@@ -639,7 +612,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "0e84aa401f5b07dc91e9638ede540ebb8e8c714ff4e4bf41a42f91b1e03c1432",
       "detailLevel": "preview"
@@ -665,7 +638,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "b667c70523f4dd0e86f0d82e197783783845a627200f0d25d164a4c78e7a379f",
       "detailLevel": "article",
@@ -691,7 +664,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "389c8503ee13e787fb020177dd24ff24b0ad709bc2c9c007b4d3622d0886a17b",
       "detailLevel": "preview"
@@ -715,7 +688,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "1c70b92ff28f9b71d2ef3be0094a6024690007ca5c428c0f4d3d6fff6afd3c54",
       "detailLevel": "preview"
@@ -739,7 +712,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "e3554afb090601d49aeed9c17644fd9a71a4d5921f02c036f22516cf6b271ff1",
       "detailLevel": "preview"
@@ -763,7 +736,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "848b61a49da3614791649c45dbdac35bfc2e150357d2d5c7b900e42af02a93e3",
       "detailLevel": "preview"
@@ -789,7 +762,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "a5c61f39be21a7c39b722663c3982cce1aee199461957baae39ab193d9f692b1",
       "detailLevel": "article",
@@ -816,12 +789,36 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "96254764451b9181d3247ee76c9d7c0b095d76e4bfc2b4efc59b679ddf6f1f9b",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T22:08:28.345572+00:00",
       "context": null
+    },
+    {
+      "id": "rss-55c49d5d566d80d44a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
+      "bullets": [
+        "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022."
+      ],
+      "publishedAt": "2026-11-26T20:05:00+00:00",
+      "updatedAt": "2026-11-26T20:05:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "269aca8f1ad99619b5e640475ae08ff7a470245860e40d436eb0e99292a87e8d",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-a5dc898bc23b661728",
@@ -842,7 +839,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "a95d48de88b675f3502251cd898b2dd6d5790b8bac6d4745aa124826f82f65b5",
       "detailLevel": "preview"
@@ -867,7 +864,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "0285dbf24fa264beaa957d12818f39c763b4a3518e20dc0008b6a41e41b54c25",
       "detailLevel": "preview"
@@ -891,7 +888,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "b805fd5b6348c98ef1b01d62ad2d1b46c353c8a0183390d2c9b6c05346d553da",
       "detailLevel": "preview"
@@ -915,7 +912,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "0afdd6b95441b15c64de5d992d94c387b0f698a84225fc2a83fd30d644d53938",
       "detailLevel": "preview"
@@ -932,7 +929,7 @@
       ],
       "publishedAt": "2026-11-25T11:39:02+00:00",
       "updatedAt": "2026-11-25T11:39:02+00:00",
-      "importance": 65,
+      "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -940,7 +937,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
       "detailLevel": "preview"
@@ -966,7 +963,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "96ab665ef59352f24c9f8515c28d400bff44734fd9da55aec48aec089ab6d2db",
       "detailLevel": "article",
@@ -992,7 +989,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "2bfa152861bad538e0c285d699ef6ff0fbebedf1f27857bf15e8c8e0dacf7c03",
       "detailLevel": "preview"
@@ -1016,7 +1013,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
       "detailLevel": "preview"
@@ -1042,7 +1039,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "2f222bb6db19b46cb30b67059807024b945a8699d74d4ba427f1374281067717",
       "detailLevel": "article",
@@ -1070,7 +1067,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "1cff13cebdc4317839347a3bc011c8dff3995daab1692a52bedf409919de260c",
       "detailLevel": "article",
@@ -1096,7 +1093,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "35b3615287bd0692a60123ad27bf0f7b654637c0b657dc09df4ae9641bcf4a19",
       "detailLevel": "preview"
@@ -1122,7 +1119,7 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "dc58d70027a81a46385888dd98b0e1c53de9c026bf3462b2951a26e0c779d63d",
       "detailLevel": "article",
@@ -1150,12 +1147,36 @@
           "access": "public"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "article-extract",
       "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
       "detailLevel": "article",
       "enrichedAt": "2026-11-26T17:20:21.275559+00:00",
       "context": null
+    },
+    {
+      "id": "rss-60be0a09f6639ee5d4",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
+      "bullets": [
+        "Arrivé quatrième au scrutin de 2022 avec 7,07 % des voix, le candidat du parti d’extrême droite Reconquête ! n’est plus crédité que d’environ 3 % des intentions de vote dans un sondage publié jeudi, très loin derrière Marine Le Pen."
+      ],
+      "publishedAt": "2026-11-26T23:54:55+00:00",
+      "updatedAt": "2026-11-26T23:54:55+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a61783662c130dc14d2bcc7afd0e378e4f633c0675989b6a09d80af141ffbff6",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-36684b73a011f8158e",
@@ -1176,33 +1197,9 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "b3aefd23ebb37b26060ad0dd4760e683759f02f8bd2d2086c107dfff869978d2",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-8a3ea19f07e9c8e9de",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Salon des maires et présidentielle 2027 : retrouvez notre direct sur la journée politique",
-      "bullets": [
-        "Lors d’un débat pour la clôture du salon des maires, David Lisnard, Sébastien Lecornu et Gérard Larcher sont revenus sur la proposition d’Emmanuel Macron de graver une « règle d’or budgétaire » dans la Constitution, mais aussi les relations entre l’Etat et les collectivités locales, les discussions budgétaires et les…"
-      ],
-      "publishedAt": "2026-11-26T20:08:26+00:00",
-      "updatedAt": "2026-11-26T20:08:26+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-26",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b6313ec7e2337f4b942f1949e659099cc5e74f66842b34859bb9fa8bfc73b2ba",
       "detailLevel": "preview"
     },
     {
@@ -1225,7 +1222,7 @@
           "access": "extrait"
         }
       ],
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
       "summaryInput": "53eede92ecbaa89f9b0849cf900a4f88fd5aad14d4a7dd2b687706b180a7954a",
       "detailLevel": "preview"
