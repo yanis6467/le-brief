@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T22:09:11.525985+00:00",
+  "edition": "2026-11-28",
+  "preparedAt": "2026-11-27T23:09:30.237420+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -63,32 +63,28 @@
       "context": null
     },
     {
-      "id": "rss-15b0406459647429fc",
-      "revision": 2,
+      "id": "rss-598619aa5ce2589be6",
+      "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Michel-Edouard Leclerc anticipe une hausse des prix alimentaires de près de 4% en début 2027, le gouvernement estime que \"c’est peut-être un chiffre qu’il faudra retenir\"",
+      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
       "bullets": [
-        "Une première version de cet article comportait un titre affirmant que le gouvernement anticipait une hausse des prix alimentaires d’environ 4% au début de l’année 2027.",
-        "Le ministre du Commerce, Serge Papin, a reconnu vendredi 27 novembre que les prix des produits alimentaires pourraient augmenter début 2027, comme l'avait suggéré début novembre Michel-Edouard Leclerc, président du comité stratégique des centres E.",
-        "L'Insee a annoncé vendredi que la hausse des prix des produits alimentaires avait légèrement accéléré en novembre, les prix des produits frais notamment ayant augmenté de 9,4% par rapport à novembre 2025."
+        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
       ],
-      "publishedAt": "2026-11-27T18:10:42+00:00",
-      "updatedAt": "2026-11-27T18:10:42+00:00",
-      "importance": 87,
+      "publishedAt": "2026-11-27T14:39:51+00:00",
+      "updatedAt": "2026-11-27T14:39:51+00:00",
+      "importance": 93,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/inflation/le-gouvernement-anticipe-une-hausse-des-prix-alimentaires-d-environ-4-au-debut-de-l-annee-2027_8303091.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "18dab8ba4d3dbf531ef42a1b21bddcc1c3cb37d901bba80955d20f7be7a8635f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-e3e482149ac06eb244",
@@ -329,8 +325,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T22:05:28+00:00",
-      "updatedAt": "2026-11-27T22:05:28+00:00",
+      "publishedAt": "2026-11-27T23:08:52+00:00",
+      "updatedAt": "2026-11-27T23:08:52+00:00",
       "importance": 69,
       "sources": [
         {
@@ -457,30 +453,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
       "context": null
-    },
-    {
-      "id": "rss-598619aa5ce2589be6",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-      "bullets": [
-        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
-      ],
-      "publishedAt": "2026-11-27T14:39:51+00:00",
-      "updatedAt": "2026-11-27T14:39:51+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-49af5ff2d3da05732c",
@@ -659,6 +631,62 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-00e44227e8c4ab5a01",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "bullets": [
+        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
+        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
+        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
+      ],
+      "publishedAt": "2026-11-27T22:35:51+00:00",
+      "updatedAt": "2026-11-27T22:35:51+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T23:09:30.237420+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-4e8be7b9f03473ee39",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Au large d'Ibiza, le périlleux remorquage d'un cargo pour éviter une marée noire",
+      "bullets": [
+        "La quille du Med Emre flotte toujours au large d'Ibiza (Îles Baléares, Espagne), presque 48 heures après son chavirage.",
+        "Pour empêcher sa dérive, le cargo est arrimé à un navire de sauvetage.",
+        "Le navire transporte 7 000 tonnes de gazoleUne fois à Carthagène, le cargo devrait être vidé de son chargement en hydrocarbures, notamment les 7 000 tonnes de gazole qu'il transporte."
+      ],
+      "publishedAt": "2026-11-27T22:21:08+00:00",
+      "updatedAt": "2026-11-27T22:21:08+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/au-large-d-ibiza-le-perilleux-remorquage-d-un-cargo-pour-eviter-une-maree-noire_8303721.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "130b4bee566bade9e5bfea68d4e1933f894c8127b6709eb8eef445faa3e4a5c4",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T20:11:32.220342+00:00",
+      "context": null
+    },
+    {
       "id": "rss-585dd27032ecd23a99",
       "revision": 1,
       "category": "world",
@@ -684,34 +712,6 @@
       "summaryInput": "bbde2cd200b9707c237f750836eb3d85d801a2fe118eb84dee4e3e7b77a159fb",
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T21:09:50.513998+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-4e8be7b9f03473ee39",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Au large d'Ibiza, le périlleux remorquage d'un cargo pour éviter une marée noire",
-      "bullets": [
-        "La quille du Med Emre flotte toujours au large d'Ibiza (Îles Baléares, Espagne), presque 48 heures après son chavirage.",
-        "Pour empêcher sa dérive, le cargo est arrimé à un navire de sauvetage.",
-        "Le navire transporte 7 000 tonnes de gazoleUne fois à Carthagène, le cargo devrait être vidé de son chargement en hydrocarbures, notamment les 7 000 tonnes de gazole qu'il transporte."
-      ],
-      "publishedAt": "2026-11-27T20:07:40+00:00",
-      "updatedAt": "2026-11-27T20:07:40+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/au-large-d-ibiza-le-perilleux-remorquage-d-un-cargo-pour-eviter-une-maree-noire_8303721.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "130b4bee566bade9e5bfea68d4e1933f894c8127b6709eb8eef445faa3e4a5c4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T20:11:32.220342+00:00",
       "context": null
     },
     {
@@ -1141,28 +1141,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3be1230a6a6e699550",
+      "id": "rss-823e7a8298f7b81384",
       "revision": 1,
       "category": "france",
-      "topic": "Culture",
-      "title": "« Le monde culturel attend la présidentielle, où il jouera son avenir à la roulette – se sauver ou mourir –, et il évite ainsi de se remettre en question »",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
       "bullets": [
-        "Les acteurs culturels craignent que leurs subventions, déjà en baisse, ne soient encore amputées en cas d’arrivée au pouvoir du RN.",
-        "Pourtant, la Cour des comptes constate, dans un rapport, une augmentation de l’offre subventionnée, et préconise de « cerner des priorités », explique, dans sa chronique, Michel Guerrin, rédacteur…"
+        "Interrogée par notre journaliste politique Corentin Lesueur, spécialiste de l’extrême droite, lors d’un point presse, Marine Le Pen a déclaré : « Les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de l’instruction »."
       ],
-      "publishedAt": "2026-11-27T12:55:48+00:00",
-      "updatedAt": "2026-11-27T12:55:48+00:00",
+      "publishedAt": "2026-11-27T13:13:16+00:00",
+      "updatedAt": "2026-11-27T13:13:16+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "5b67eb83634b0fbce7fcc1a7f529fbf4c8c87525966ac30d29e1af9e46e6570c",
+      "summaryInput": "68edf9fb8653af9a94a037006d858f746bb92b94689cd83f5ac344074a958197",
       "detailLevel": "preview"
     }
   ],
@@ -1177,7 +1176,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 8
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
