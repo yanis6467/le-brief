@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T11:05:53.187830+00:00",
+  "preparedAt": "2026-11-27T12:09:46.805662+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -132,15 +132,15 @@
     },
     {
       "id": "rss-af4e02797ea9c42bf0",
-      "revision": 1,
+      "revision": 2,
       "category": "eco",
       "topic": "Économie",
-      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pic-vert” qu’il faut à la tête de la BCE »",
+      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
       "bullets": [
         "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
       ],
-      "publishedAt": "2026-11-27T06:00:09+00:00",
-      "updatedAt": "2026-11-27T06:00:09+00:00",
+      "publishedAt": "2026-11-27T06:00:07+00:00",
+      "updatedAt": "2026-11-27T06:00:07+00:00",
       "importance": 81,
       "sources": [
         {
@@ -151,7 +151,7 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "390a0026b48151040c1f078d91acb35eb17d4777b74b3855b57abf31f289f472",
+      "summaryInput": "9a1c3d9f23c266a328944e22d5ad7b82c34c886d86ee5c0cdc1528ea839d9621",
       "detailLevel": "preview"
     },
     {
@@ -263,6 +263,31 @@
       "context": null
     },
     {
+      "id": "rss-5f99b18ab05e11a190",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
+      "bullets": [
+        "La PDG du groupe public, Sibyle Veil, plaide pour que le code pénal prévoit que l’agression d’un journaliste constitue une « circonstance aggravante ».",
+        "France Télévisions et BFM-TV annoncent au « Monde » soutenir la proposition."
+      ],
+      "publishedAt": "2026-11-27T11:37:30+00:00",
+      "updatedAt": "2026-11-27T11:37:30+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cb8cbc94bf4da5a7705c9fb1fdbe1baf77ed00ea7078da3f31ca65b70f4fe7b7",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-b9ac9f312ce27d7182",
       "revision": 1,
       "category": "eco",
@@ -287,33 +312,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ca29a566d5cb25cda8",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Le Brésil déplore les propos d'Emmanuel Macron sur la viande brésilienne \"dopée\"",
-      "bullets": [
-        "\"Le gouvernement brésilien déplore les propos du président de la République française.\" Le ministère de l'Agriculture du pays sud-américain a réagi, jeudi 26 novembre, aux propos d'Emmanuel Macron qualifiant de \"dopée\" la viande brésilienne.",
-        "Les importations depuis ce premier producteur et exportateur mondial de bœuf ont été suspendues par l'Union européenne pour des raisons sanitaires, début septembre, l'UE reprochant au Brésil de ne pas avoir apporté de garanties suffisantes sur la conformité de ses produits avec les règles européennes contre l'utilisation abusive d'antibiotiques dans l'élevage."
-      ],
-      "publishedAt": "2026-11-27T06:37:23+00:00",
-      "updatedAt": "2026-11-27T06:37:23+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/bresil/brasilia-deplore-les-propos-d-emmanuel-macron-sur-la-viande-bresilienne-dopee_8302356.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "dc6aa99e71f9f6ba5efdaed007f94b46f3b0c6309a142aadf0affd54ea5bfa23",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T07:42:36.307907+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -324,8 +322,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T11:04:26+00:00",
-      "updatedAt": "2026-11-27T11:04:26+00:00",
+      "publishedAt": "2026-11-27T12:05:09+00:00",
+      "updatedAt": "2026-11-27T12:05:09+00:00",
       "importance": 69,
       "sources": [
         {
@@ -514,8 +512,8 @@
       "bullets": [
         "Alors que le sujet divise les prétendants à l’Elysée, Nicolas Dupont-Aignan fait de l’arrêt du soutien français un axe central de sa campagne présidentielle. « La guerre en Ukraine, c’est la ruine du continent européen », a-t-il affirmé au micro de RTL."
       ],
-      "publishedAt": "2026-11-27T10:00:33+00:00",
-      "updatedAt": "2026-11-27T10:00:33+00:00",
+      "publishedAt": "2026-11-27T10:00:31+00:00",
+      "updatedAt": "2026-11-27T10:00:31+00:00",
       "importance": 97,
       "sources": [
         {
@@ -556,56 +554,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
       "context": null
-    },
-    {
-      "id": "rss-25742c5c83ada9fe7f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Les Vingt-Sept remettent à décembre le bouclage d’un nouveau prêt de 45 milliards d’euros pour l’Ukraine",
-      "bullets": [
-        "Les chefs d’Etat et de gouvernement européens ont tenté, jeudi, de rapprocher leurs points de vue sur le financement d’un prêt supplémentaire à Kiev pour l’année 2027.",
-        "Parmi les quatre pays refusant encore de financer cet effort, seule la Bulgarie a ouvert la porte à une aide civile à l’Ukraine."
-      ],
-      "publishedAt": "2026-11-27T04:45:07+00:00",
-      "updatedAt": "2026-11-27T04:45:07+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/27/les-vingt-sept-remettent-a-decembre-le-bouclage-d-un-nouveau-pret-de-45-milliards-d-euros-pour-l-ukraine_6815795_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "09f911d67d69d81fd41871535c3eca174746d93621244ba584faba9ca4af838f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c954655b54d1433d0e",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Les discussions sur le budget de l’Union européenne menacées par les échéances électorales françaises",
-      "bullets": [
-        "Pendant le sommet européen jeudi 26 novembre, Emmanuel Macron a confirmé qu’il ne poursuivrait pas les discussions sur le budget communautaire au-delà de la fin de l’année.",
-        "Il a dénoncé l’arrogance de Marine Le Pen, qui a qualifié ces négociations de « basses manœuvres politiciennes »."
-      ],
-      "publishedAt": "2026-11-27T04:29:31+00:00",
-      "updatedAt": "2026-11-27T04:29:31+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/27/les-discussions-sur-le-budget-de-l-union-europeenne-menacees-par-les-echeances-electorales-francaises_6815793_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "67dc3e421fbfc93fbd159ecb930a5ee74147416b2ad5745aae7be539f06e9b7d",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-2a072e173af7ce3201",
@@ -709,15 +657,15 @@
     },
     {
       "id": "rss-0157acffe2dd758084",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Birmanie : le dictateur birman Min Aung Hlaing fait peu de cas du verdict de la CIJ",
+      "title": "Génocide des Rohingya : Le président birman Min Aung Hlaing fait peu de cas du verdict de la CIJ",
       "bullets": [
-        "La condamnation de la Birmanie par la Cour internationale de justice pour génocide à l’encontre des Rohingya, minorité musulmane de l’ouest du pays, oblige le pays à des mesures de réparation et des poursuites judiciaires contre les responsables dont la mise en œuvre par Naypyidaw paraît improbable."
+        "La condamnation de la Birmanie par la Cour internationale de justice pour génocide à l’encontre de la minorité musulmane de l’ouest du pays, oblige à des mesures de réparation et des poursuites judiciaires contre les responsables dont la mise en œuvre par Naypyidaw paraît improbable."
       ],
-      "publishedAt": "2026-11-27T10:00:13+00:00",
-      "updatedAt": "2026-11-27T10:00:13+00:00",
+      "publishedAt": "2026-11-27T10:00:07+00:00",
+      "updatedAt": "2026-11-27T10:00:07+00:00",
       "importance": 67,
       "sources": [
         {
@@ -728,7 +676,7 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "ba0b4c5e4aa95d17e299a8404bce93e96942835c87a80426275c231457c3a9cf",
+      "summaryInput": "0fd8c1f510d868d60087f30ff955c6359b12ae125be723d657685aa067e3884f",
       "detailLevel": "preview"
     },
     {
@@ -785,6 +733,56 @@
       "context": null
     },
     {
+      "id": "rss-00e75a81807bf5ad8e",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "À Narva, entre les espions de Moscou et le cauchemar d’une invasion, le rideau de fer renaît",
+      "bullets": [
+        "VU D’AILLEURS - À partir du 1er décembre, l’Estonie fermera complètement sa frontière avec la Russie de Poutine.",
+        "Dans la ville du pont de l’Amitié, c’est véritablement la fin d’une époque."
+      ],
+      "publishedAt": "2026-11-27T06:00:00+00:00",
+      "updatedAt": "2026-11-27T06:00:00+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/a-narva-entre-les-espions-de-moscou-et-le-cauchemar-d-une-invasion-le-rideau-de-fer-renait-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "70da2ebd69a1f36520cf09d873fe344f6ddecc913a8e393bec20ca3ad3b4c8c9",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-7544ffdec8dd91b729",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
+      "bullets": [
+        "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière.",
+        "Des agriculteurs déplorent une récolte de céréales quasi nulle."
+      ],
+      "publishedAt": "2026-11-27T05:00:24+00:00",
+      "updatedAt": "2026-11-27T05:00:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "623a7ded2b46978e850133237373cb278226f9765cbe8e63cb1c7139a387b8cc",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-e959a4f1cb05469f7d",
       "revision": 4,
       "category": "france",
@@ -810,15 +808,15 @@
     },
     {
       "id": "rss-61868ab90cca964291",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Société",
       "title": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
       "bullets": [
-        "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer un « des derniers moteurs de travaux », jugent des acteurs du bâtiment."
+        "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer l’un « des derniers moteurs de travaux », jugent des acteurs du bâtiment."
       ],
-      "publishedAt": "2026-11-27T10:00:08+00:00",
-      "updatedAt": "2026-11-27T10:00:08+00:00",
+      "publishedAt": "2026-11-27T10:00:07+00:00",
+      "updatedAt": "2026-11-27T10:00:07+00:00",
       "importance": 77,
       "sources": [
         {
@@ -829,7 +827,7 @@
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "38ba26ed8f4e6369ee3aff1621d852b136d6bb91e85c81023c14360a0645936b",
+      "summaryInput": "cc51dffc9b0ffadcdbe5bf647e3083a9bb21f1450ecd829d10f9d96de9ac38d9",
       "detailLevel": "preview"
     },
     {
@@ -881,29 +879,32 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-bb74b0e6bd82b76d13",
+      "id": "rss-bed8a2ca527b7700cf",
       "revision": 1,
       "category": "france",
       "topic": "Justice",
-      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+      "title": "\"J'ai vraiment honte\" : au premier jour de son procès, Emilie König, ex-propagandiste de l'Etat islamique, présente ses excuses \"à toute la nation française\"",
       "bullets": [
-        "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
-        "S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats."
+        "Dans son box, Emilie König se lève pour formuler ses premiers mots à son procès, jeudi 26 novembre.",
+        "\"Ça fait des années que j'attends ce moment\", déclare la Bretonne de 41 ans, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste Etat islamique (EI) en Syrie dans les années 2010.",
+        "Après dix années passées en Syrie, où elle a été détenue de 2017 à 2022 dans les camps d'Al-Hol, puis d'Al-Roj, Emilie König a été rapatriée et immédiatement incarcérée au centre pénitentiaire de Fresnes (Val-de-Marne)."
       ],
-      "publishedAt": "2026-11-25T11:39:02+00:00",
-      "updatedAt": "2026-11-25T11:39:02+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-26T14:03:34+00:00",
+      "updatedAt": "2026-11-26T14:03:34+00:00",
+      "importance": 58,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/terrorisme-djihadistes/j-ai-vraiment-honte-au-premier-jour-de-son-proces-emilie-konig-ex-propagandiste-de-l-etat-islamique-presente-ses-excuses-a-toute-la-nation-francaise_8301402.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d4d27f0128bae0201587a21558fa5870feb922b1267f739561864d9e9f33f863",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "86bef61399a9d8a5416fb5ce8ef9c2a7ecb901484d5abfb52290d0baefa63211",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T12:09:46.805662+00:00",
+      "context": null
     },
     {
       "id": "rss-673fb126eefdd0d49b",
@@ -1005,6 +1006,33 @@
       "provenance": "rss-excerpt",
       "summaryInput": "8ac90539fc264c589c2e1f7dbf0ebf6202145285cccb120b1bca2b291f0c1c6b",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-4d2a4c3c249144a241",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "La suspension de l'usage des grenades assourdissantes prolongée et étendue à toutes les manifestations",
+      "bullets": [
+        "La suspension de l'usage des grenades assourdissantes par les policiers lors des manifestations, décidée le 6 octobre dernier en pleines mobilisations lycéennes, est prolongée sur ordre du directeur général de la police nationale (DGPN), dans un télégramme daté de vendredi 27 novembre et consulté par franceinfo.",
+        "Le 6 octobre dernier, Laurent Nunez avait annoncé la suspension de l'usage des grenades assourdissantes de type ASSD, après notamment qu'un manifestant de 15 ans a eu la main arrachée à Lens, dans le Pas-de-Calais, lors du mouvement de blocage des lycées."
+      ],
+      "publishedAt": "2026-11-27T11:32:28+00:00",
+      "updatedAt": "2026-11-27T11:32:28+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8302995.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "46b310800a8bc14e941dde5d349901f56217a6a46d618ec70514a38dd317b72e",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T12:09:46.805662+00:00",
+      "context": null
     },
     {
       "id": "rss-3995a5532d27e34d00",
@@ -1158,30 +1186,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "a4e99092bf602396202864eb1cba6c17ecca812acbadc2677c43468b73978a04",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1547af021efd667727",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
-      "bullets": [
-        "Le garde des sceaux, soutien du candidat Horizons, s’en est pris au candidat libéral David Lisnard, fustigeant le refus du maire de Cannes d’exprimer une préférence entre Edouard Philippe et la candidate de l’extrême droite, Marine Le Pen."
-      ],
-      "publishedAt": "2026-11-27T08:51:22+00:00",
-      "updatedAt": "2026-11-27T08:51:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-gerald-darmanin-appelle-edouard-philippe-a-presenter-un-projet-une-vision_6815820_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b69ce22a7fffbd47574a2b00141d323f1c7a2e420f480ec1d37b5dd29052a5de",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1261,7 +1265,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 12
     },
     {
       "publisher": "Le Monde",
@@ -1297,7 +1301,7 @@
       "publisher": "BFM Bourse",
       "url": "https://www.tradingsat.com/rssbourse.xml",
       "ok": true,
-      "candidates": 30
+      "candidates": 29
     }
   ],
   "editorialPolicy": "Courts extraits factuels des articles accessibles ou aperçu RSS ; aucun appel IA ; pas de contournement des abonnements."
