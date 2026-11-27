@@ -1,34 +1,58 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-27",
-  "preparedAt": "2026-11-27T09:24:55.331641+00:00",
+  "preparedAt": "2026-11-27T11:05:53.187830+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
     {
-      "id": "rss-8c2214efb7944cf6cd",
-      "revision": 2,
+      "id": "rss-6b9580f0a1786d5cf5",
+      "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+      "title": "La France en récession : visualisez l’évolution de la croissance ces dernières années",
       "bullets": [
-        "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques.",
-        "L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des…"
+        "INFOGRAPHIE – Le produit intérieur brut (PIB) français a reculé au troisième trimestre (-0,2%), d’après l’Insee, qui a revu à la baisse sa première estimation."
       ],
-      "publishedAt": "2026-11-26T15:04:15+00:00",
-      "updatedAt": "2026-11-26T15:04:15+00:00",
-      "importance": 99,
+      "publishedAt": "2026-11-27T09:54:41+00:00",
+      "updatedAt": "2026-11-27T09:54:41+00:00",
+      "importance": 85,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/visualisez-la-croissance-francaise-en-2025-20261030",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "ee3f242184790bc1583ca8e6f64e34ced157dbde97b420635bde2cf59237a724",
+      "summaryInput": "5cd62802dc36cb29894a558cf63da21a28840b498f668c6119de12d164d7e980",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-6967c8f47fafc2e359",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "La France entre en récession après deux trimestres de recul du PIB",
+      "bullets": [
+        "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, selon l’Insee, alors qu’il avait été initialement estimé en baisse de 0,1 %.",
+        "Surtout, avec l’annonce d’un léger recul d’activité au deuxième trimestre, et non d’une stagnation comme indiqué précédemment, la France affiche deux trimestres négatifs consécutifs."
+      ],
+      "publishedAt": "2026-11-27T09:25:50+00:00",
+      "updatedAt": "2026-11-27T09:25:50+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5c8e5a4594532b4e363a9dc86f9ce64a240250cf46dc5baa314426b46625d3bb",
       "detailLevel": "preview"
     },
     {
@@ -65,8 +89,8 @@
         "Le produit intérieur brut (PIB) français a reculé de 0,2% au troisième trimestre après avoir stagné au deuxième trimestre, a annoncé vendredi dans ses résultats détaillés l'Insee, qui a revu en baisse sa première estimation qui mesurait un recul de 0,1 % au troisième trimestre.",
         "Au total, «l'acquis de croissance» à la fin du troisième trimestre, c'est-à-dire ce que serait la croissance sur l'année si le PIB restait stable au quatrième trimestre, est de 0,1 %, rendant difficile d'atteindre le taux de 0,5 % toujours pronostiqué par le gouvernement."
       ],
-      "publishedAt": "2026-11-27T09:14:02+00:00",
-      "updatedAt": "2026-11-27T09:14:02+00:00",
+      "publishedAt": "2026-11-27T09:46:06+00:00",
+      "updatedAt": "2026-11-27T09:46:06+00:00",
       "importance": 81,
       "sources": [
         {
@@ -83,57 +107,52 @@
       "context": null
     },
     {
-      "id": "rss-49d29783a6c09714d3",
+      "id": "rss-48a2745ff0b5041329",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+      "title": "« Les vents contraires du transport maritime mondial font un vainqueur : le fret aérien »",
       "bullets": [
-        "Entre 2000 et 2023, le PIB insulaire a augmenté de 2,4 % par an, soit deux fois plus vite qu’en France hexagonale, notamment grâce à 2 milliards d’euros d’investissements publics.",
-        "Le secteur touristique, stratégique, présente pour sa part des fragilités."
+        "La nouvelle salve de droits de douane américains et les perturbations en chaîne liées au conflit au Moyen-Orient affectent durablement le transport international des marchandises par voie d’océan, observe Olivier Pinaud, journaliste au service Economie du « Monde »."
       ],
-      "publishedAt": "2026-11-26T12:49:04+00:00",
-      "updatedAt": "2026-11-26T12:49:04+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-27T09:30:07+00:00",
+      "updatedAt": "2026-11-27T09:30:07+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/26/corse-le-tourisme-reste-une-locomotive-de-la-croissance-malgre-des-resultats-contrastes_6815532_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-vents-contraires-du-transport-maritime-mondial-font-un-vainqueur-le-fret-aerien_6815827_3234.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "fd0a2ef67b6de7357ebe7011797c3773e9e20ad35e79062dc0ac3c87caa39619",
+      "summaryInput": "73cbac931d832b73407aaae1aaa8829f3d4c1b356489236eaaed931b482ebb98",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-ffc44d86e4fedaecf6",
+      "id": "rss-af4e02797ea9c42bf0",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Ukraine : combien la France a-t-elle versé depuis le début de la guerre ?",
+      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pic-vert” qu’il faut à la tête de la BCE »",
       "bullets": [
-        "Depuis l'invasion russe en février 2022 et après bientôt cinq ans de guerre, l'Ukraine a reçu 373 milliards d'euros de la part de 41 pays donateurs.",
-        "La France y a contribué à hauteur de 27 milliards d'euros, soit 395 euros par habitant sur cinq ans.",
-        "L'Union européenne, premier contributeurL'Union européenne est aujourd'hui le plus gros contributeur, avec 236 milliards d'euros, loin devant les États-Unis, qui ont nettement réduit leur aide depuis le retour de Donald Trump."
+        "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
       ],
-      "publishedAt": "2026-11-26T20:28:33+00:00",
-      "updatedAt": "2026-11-26T20:28:33+00:00",
-      "importance": 78,
+      "publishedAt": "2026-11-27T06:00:09+00:00",
+      "updatedAt": "2026-11-27T06:00:09+00:00",
+      "importance": 81,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-combien-la-france-a-t-elle-verse-depuis-le-debut-de-la-guerre_8302041.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "9ab26ed794a8bc6c70e7abb4926fefe68470e9023ced883251b5bab91ea766b8",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-26T22:08:28.345572+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "390a0026b48151040c1f078d91acb35eb17d4777b74b3855b57abf31f289f472",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-83f40375f1677366af",
@@ -160,7 +179,7 @@
       "provenance": "article-extract",
       "summaryInput": "04313ac6e9b18c32505ccb57a77cb5bb5c1a3844489152d0e02ae86243ce0c99",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-26T22:08:28.345572+00:00",
+      "enrichedAt": "2026-11-27T11:05:53.187830+00:00",
       "context": null
     },
     {
@@ -199,8 +218,8 @@
         "Même constat outre-Atlantique : aux États-Unis, l’inflation a atteint 3,8% le mois dernier, selon le département du Commerce.",
         "Cette accumulation d’incertitudes, de dommages sur les infrastructures et de désorganisation a fait bondir les prix de l’énergie - gaz, produits pétroliers et électricité - de 19,2% en novembre, selon l’Insee."
       ],
-      "publishedAt": "2026-11-27T08:04:07+00:00",
-      "updatedAt": "2026-11-27T08:04:07+00:00",
+      "publishedAt": "2026-11-27T09:57:43+00:00",
+      "updatedAt": "2026-11-27T09:57:43+00:00",
       "importance": 69,
       "sources": [
         {
@@ -244,57 +263,28 @@
       "context": null
     },
     {
-      "id": "rss-4339c90a24936a8d17",
+      "id": "rss-b9ac9f312ce27d7182",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Qui est Pablo Hernandez de Cos, qui va succéder à Christine Lagarde à la tête de la BCE ?",
+      "title": "Négociations commerciales : les grands patrons de la distribution somment les industriels de modérer leurs hausses de prix",
       "bullets": [
-        "PORTRAIT - Réputé excellent banquier central – il a été gouverneur de la Banque d’Espagne de 2018 à 2024 –, Pablo Hernandez de Cos était considéré par les marchés comme un candidat de continuité.",
-        "Il a été préféré à son rival, le Néerlandais Klaas Knot."
+        "EXCLUSIF - Dans un courrier adressé mercredi à une cinquantaine de multinationales, que Le Figaro a pu consulter, les dirigeants alertent sur la fragilité du pouvoir d’achat des Français, à quelques jours de l’ouverture des discussions."
       ],
-      "publishedAt": "2026-11-26T14:51:33+00:00",
-      "updatedAt": "2026-11-26T14:51:33+00:00",
-      "importance": 68,
+      "publishedAt": "2026-11-27T10:00:00+00:00",
+      "updatedAt": "2026-11-27T10:00:00+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/bce-l-espagnol-pablo-hernandez-de-cos-sur-le-point-d-etre-choisi-comme-successeur-de-christine-lagarde-20261120",
+          "url": "https://www.lefigaro.fr/conso/negociations-commerciales-les-grands-patrons-de-la-distribution-somment-les-industriels-de-moderer-leurs-hausses-de-prix-20261127",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "8fb542b225623d1f67628246b0f2528729a79af606d14bc2706ec6aa06101a6b",
+      "summaryInput": "5dae53206594c90b5333031ba6d9788e9112a2954a0933850f1e16c3bcf38d0f",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-18fc753c1b245f0f8e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "L’Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la présidence de la BCE",
-      "bullets": [
-        "L’Espagnol Pablo Hernandez de Cos va succéder à la Française Christine Lagarde à la présidence de la Banque centrale européenne (BCE), ont annoncé jeudi à l’AFP des sources diplomatiques.",
-        "Une Espagnole (Teresa Ribera, NDLR) à la tête de la première vice-présidence de la Commission européenne.",
-        "En annonçant fin octobre son départ anticipé de l’institution francfortoise, qui sera effectif le 7 février prochain, Christine Lagarde a lancé une course contre la montre au sein des 21 pays partageant la monnaie unique européenne pour désigner le prochain président de la BCE d’ici la fin de l’année."
-      ],
-      "publishedAt": "2026-11-26T14:46:42+00:00",
-      "updatedAt": "2026-11-26T14:46:42+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/l-espagnol-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-bce-20261126",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "a4dbaa8bbd06ff46cddfa7362a7e0695cb50115c7bcaa0202f549516ccc1ff50",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T04:23:42.109699+00:00",
-      "context": null
     },
     {
       "id": "rss-ca29a566d5cb25cda8",
@@ -334,8 +324,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T09:24:02+00:00",
-      "updatedAt": "2026-11-27T09:24:02+00:00",
+      "publishedAt": "2026-11-27T11:04:26+00:00",
+      "updatedAt": "2026-11-27T11:04:26+00:00",
       "importance": 69,
       "sources": [
         {
@@ -349,34 +339,6 @@
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-01b8467f305c595797",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "NVIDIA : Le retour de Jensen Huang montre combien Nvidia est plus que jamais devenue la banque centrale officieuse de l'IA en Bourse",
-      "bullets": [
-        "Lundi soir, Nvidia a clôturé sur une hausse de 31,48% à Wall Street à la suite de l'annonce du rétablissement de Jensen Huang, grand artisan du succès commercial, technologique et boursier du fabricant de processeurs graphiques (GPU), au poste de directeur général.",
-        "Le S&P 500 a repris 4,7% et le Nasdaq Composite a regagné 6,51%.",
-        "UBS estime que les dépenses d’investissement dans l’IA, atteindront 1.000 milliards de dollars en 2026 et 1.400 milliards de dollars en 2027."
-      ],
-      "publishedAt": "2026-11-24T11:01:06+00:00",
-      "updatedAt": "2026-11-24T11:01:06+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/nvidia-US67066G1040/actualites/nvidia-le-retour-de-jensen-huang-montre-combien-nvidia-est-plus-que-jamais-devenue-la-banque-centrale-officieuse-de-l-ia-en-bourse-1174335.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "dd737f89d020cceb6842f18957f14d6fe7793954d19f4a99c15eda8e21739ce4",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T04:23:42.109699+00:00",
       "context": null
     },
     {
@@ -544,51 +506,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-469f4877ad7009448e",
+      "id": "rss-1ff537a4e4044ca344",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "\"Si on abandonnait l'Ukraine, on mettrait en péril notre sécurité à court ou moyen terme\", affirme Emmanuel Macron",
+      "title": "Présidentielle 2027 : Nicolas Dupont-Aignan veut arrêter l’aide française à l’Ukraine, accusée d’« alimenter le conflit »",
       "bullets": [
-        "Cette prise de parole intervient alors que la veille, Teddy Riner, candidat surprise à l'élection présidentielle, a affirmé, à propos du conflit : \"Je ne comprends pas qu'on envoie des troupes en Ukraine, ce n'est pas notre guerre.\""
+        "Alors que le sujet divise les prétendants à l’Elysée, Nicolas Dupont-Aignan fait de l’arrêt du soutien français un axe central de sa campagne présidentielle. « La guerre en Ukraine, c’est la ruine du continent européen », a-t-il affirmé au micro de RTL."
       ],
-      "publishedAt": "2026-11-26T20:36:36+00:00",
-      "updatedAt": "2026-11-26T20:36:36+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/si-on-abandonnait-l-ukraine-on-mettrait-en-peril-notre-securite-a-court-ou-moyen-terme-affirme-emmanuel-macron_8302044.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "7d3be341a6c5c1d19166da6cb5760562507d04d7688099ef35ea95cd72d12d6e",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-af4e02797ea9c42bf0",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pic-vert” qu’il faut à la tête de la BCE »",
-      "bullets": [
-        "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique."
-      ],
-      "publishedAt": "2026-11-27T06:00:09+00:00",
-      "updatedAt": "2026-11-27T06:00:09+00:00",
-      "importance": 81,
+      "publishedAt": "2026-11-27T10:00:33+00:00",
+      "updatedAt": "2026-11-27T10:00:33+00:00",
+      "importance": 97,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-nicolas-dupont-aignan-veut-arreter-l-aide-francaise-a-l-ukraine-accusee-d-alimenter-le-conflit_6815835_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "390a0026b48151040c1f078d91acb35eb17d4777b74b3855b57abf31f289f472",
+      "summaryInput": "086dd3b07b9580ff8b6a2a50d58759ff1d67d9bb5e98389a99c91d06920e8d00",
       "detailLevel": "preview"
     },
     {
@@ -670,30 +608,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e959a4f1cb05469f7d",
-      "revision": 4,
-      "category": "world",
-      "topic": "International",
-      "title": "A Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant qu’« elle serait déjà en charge du destin de la France »",
-      "bullets": [
-        "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure d’ici à la fin de l’année un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle."
-      ],
-      "publishedAt": "2026-11-26T21:31:24+00:00",
-      "updatedAt": "2026-11-26T21:31:24+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "33277e219c20847d99b05f7d549bb6e59500925a87975bf733beb56c4040adf7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-2a072e173af7ce3201",
       "revision": 2,
       "category": "world",
@@ -742,6 +656,82 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-7a76ec0155138a14f3",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Guerre en Ukraine : pour arrêter la boucherie, il faut désigner le boucher",
+      "bullets": [
+        "Alors que le maître du Kremlin impose à la Russie des pertes humaines colossales dans sa guerre d’agression contre l’Ukraine, il faut cesser d’accueillir le criminel de guerre Vladimir Poutine, placé sous mandat d’arrêt de la CPI, et le reconnaître comme l’artisan de ce carnage."
+      ],
+      "publishedAt": "2026-11-27T10:30:20+00:00",
+      "updatedAt": "2026-11-27T10:30:20+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "a8641e3ee314ef5c6dd10550c655d5018c0b8fdfd7b82c7c0ea225c229e2ea0e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-8e0c5f3316afcbb082",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Une frappe saoudienne fait 11 morts au Yémen, selon un média affilié aux houthis",
+      "bullets": [
+        "Une frappe saoudienne a fait 11 morts, vendredi 27 novembre, dans l'ouest du Yémen.",
+        "L'aviation saoudienne a mené \"un raid sur un bâtiment résidentiel dans la ville d'Al-Turba\" dans le gouvernorat de Taëz, provoquant la mort \"de 11 citoyens, dont la plupart sont des enfants\", a précisé l'agence de presse houthie, citant une source locale.",
+        "La coalition menée par Riyad, qui soutient le gouvernement yéménite face aux houthis, bombarde régulièrement les zones contrôlées par le groupe armé depuis la reprise du conflit dans le pays, cet été."
+      ],
+      "publishedAt": "2026-11-27T10:20:15+00:00",
+      "updatedAt": "2026-11-27T10:20:15+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-une-frappe-saoudienne-a-fait-11-morts-selon-un-media-affilie-aux-houthis_8302758.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "article-extract",
+      "summaryInput": "ac1d070b9491bfa49a7e13965a3a8c5a7dc2673ab1d005927426a1dea531f4a9",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-27T11:05:53.187830+00:00",
+      "context": null
+    },
+    {
+      "id": "rss-0157acffe2dd758084",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Birmanie : le dictateur birman Min Aung Hlaing fait peu de cas du verdict de la CIJ",
+      "bullets": [
+        "La condamnation de la Birmanie par la Cour internationale de justice pour génocide à l’encontre des Rohingya, minorité musulmane de l’ouest du pays, oblige le pays à des mesures de réparation et des poursuites judiciaires contre les responsables dont la mise en œuvre par Naypyidaw paraît improbable."
+      ],
+      "publishedAt": "2026-11-27T10:00:13+00:00",
+      "updatedAt": "2026-11-27T10:00:13+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/27/birmanie-le-dictateur-birman-min-aung-hlaing-fait-peu-de-cas-du-verdict-de-la-cij_6815834_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "ba0b4c5e4aa95d17e299a8404bce93e96942835c87a80426275c231457c3a9cf",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-4787a089babc812da6",
       "revision": 1,
       "category": "world",
@@ -751,8 +741,8 @@
         "Les frappes américaines ont permis au régime de Téhéran d’affaiblir l’opposition interne, soulignent les économistes Sultan Mehmood et Leonard Wantchekon, dans une tribune au « Monde ».",
         "Ils convoquent François Mitterrand et son discours de La Baule, en 1990, pour rappeler que la voie de la négociation reste ouverte."
       ],
-      "publishedAt": "2026-11-27T08:00:05+00:00",
-      "updatedAt": "2026-11-27T08:00:05+00:00",
+      "publishedAt": "2026-11-27T08:00:02+00:00",
+      "updatedAt": "2026-11-27T08:00:02+00:00",
       "importance": 67,
       "sources": [
         {
@@ -795,77 +785,51 @@
       "context": null
     },
     {
-      "id": "rss-1e09de6dda90eb3089",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Suisse, une industrie du drone de défense bridée par la neutralité",
-      "bullets": [
-        "Les électeurs de la Confédération doivent se prononcer dimanche sur un assouplissement de la loi sur le matériel de guerre qui limite les exportations.",
-        "L’issue du scrutin intéresse particulièrement les 80 start-up helvétiques actives dans le secteur des drones, en plein développement depuis l’invasion russe en Ukraine."
-      ],
-      "publishedAt": "2026-11-27T06:30:10+00:00",
-      "updatedAt": "2026-11-27T06:30:10+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/27/en-suisse-une-industrie-du-drone-de-defense-bridee-par-la-neutralite_6815811_3234.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4e42d781d7c98358a3886a5b07889dc0f78f047a65bf1e0a0cda5edfbd8eb7bb",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-1547af021efd667727",
-      "revision": 1,
+      "id": "rss-e959a4f1cb05469f7d",
+      "revision": 4,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
+      "title": "A Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant qu’« elle serait déjà en charge du destin de la France »",
       "bullets": [
-        "Le garde des sceaux, soutien du candidat Horizons, s’en est pris au candidat libéral David Lisnard, fustigeant le refus du maire de Cannes d’exprimer une préférence entre Edouard Philippe et la candidate de l’extrême droite, Marine Le Pen."
+        "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure d’ici à la fin de l’année un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle."
       ],
-      "publishedAt": "2026-11-27T08:51:22+00:00",
-      "updatedAt": "2026-11-27T08:51:22+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-gerald-darmanin-appelle-edouard-philippe-a-presenter-un-projet-une-vision_6815820_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "b69ce22a7fffbd47574a2b00141d323f1c7a2e420f480ec1d37b5dd29052a5de",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-07d7dc981ad1d63a84",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
-      "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle propose de rendre progressif l’impôt sur les sociétés avec des taux plus faibles pour les petites entreprises.",
-        "Mais elle veut aussi le soutien des grands groupes et propose de supprimer la surtaxe qui les vise."
-      ],
-      "publishedAt": "2026-11-26T17:00:09+00:00",
-      "updatedAt": "2026-11-26T17:00:09+00:00",
+      "publishedAt": "2026-11-26T21:31:24+00:00",
+      "updatedAt": "2026-11-26T21:31:24+00:00",
       "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "8ac90539fc264c589c2e1f7dbf0ebf6202145285cccb120b1bca2b291f0c1c6b",
+      "summaryInput": "33277e219c20847d99b05f7d549bb6e59500925a87975bf733beb56c4040adf7",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-61868ab90cca964291",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
+      "bullets": [
+        "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer un « des derniers moteurs de travaux », jugent des acteurs du bâtiment."
+      ],
+      "publishedAt": "2026-11-27T10:00:08+00:00",
+      "updatedAt": "2026-11-27T10:00:08+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/fin-de-l-interdiction-des-passoires-thermiques-a-la-location-aux-assises-de-la-renovation-energetique-la-consternation-des-professionnels-du-secteur_6815833_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "38ba26ed8f4e6369ee3aff1621d852b136d6bb91e85c81023c14360a0645936b",
       "detailLevel": "preview"
     },
     {
@@ -1018,6 +982,31 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-07d7dc981ad1d63a84",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
+      "bullets": [
+        "La candidate du Rassemblement national à l’élection présidentielle propose de rendre progressif l’impôt sur les sociétés avec des taux plus faibles pour les petites entreprises.",
+        "Mais elle veut aussi le soutien des grands groupes et propose de supprimer la surtaxe qui les vise."
+      ],
+      "publishedAt": "2026-11-26T17:00:09+00:00",
+      "updatedAt": "2026-11-26T17:00:09+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-27",
+      "provenance": "rss-excerpt",
+      "summaryInput": "8ac90539fc264c589c2e1f7dbf0ebf6202145285cccb120b1bca2b291f0c1c6b",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-3995a5532d27e34d00",
       "revision": 1,
       "category": "france",
@@ -1122,105 +1111,77 @@
       "context": null
     },
     {
-      "id": "rss-ea6955ee343f2c9691",
+      "id": "rss-0af479ebb4c2c09495",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann cherche à tisser un réseau d’élus locaux",
+      "title": "Les subtiles oscillations de David Lisnard, du vote Macron à la main tendue au RN",
       "bullets": [
-        "Lors de rencontres au Salon des maires à Paris, puis en Mayenne jeudi, le candidat de Place publique et du Parti socialiste multiplie les appels aux élus de gauche à s’investir dans la campagne.",
-        "Il promet de faire de son « conseil des territoires » un pilier de sa gouvernance."
+        "Le candidat de droite à la présidentielle rejette dos à dos Emmanuel Macron et Marine Le Pen.",
+        "Par le passé, sans jamais les soutenir, le maire de Cannes a parfois été plus conciliant, votant pour l’un en 2017, courtisant l’autre en 2025."
       ],
-      "publishedAt": "2026-11-27T07:43:17+00:00",
-      "updatedAt": "2026-11-27T07:43:17+00:00",
+      "publishedAt": "2026-11-27T10:30:12+00:00",
+      "updatedAt": "2026-11-27T10:30:12+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-raphael-glucksmann-cherche-a-tisser-un-reseau-d-elus-locaux_6815814_823448.html",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/27/les-subtiles-oscillations-de-david-lisnard-du-vote-macron-a-la-main-tendue-au-rn_6815839_4355770.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "1fa82742e48c3d5bac29b50d7320adc6a969e883013f0754b57c47b796201856",
+      "summaryInput": "b23f281978a04044b2038d8a7f2977b0bd19e00554a6cdab7cc0f119f2f92e80",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-c707b11c0e1c52de66",
-      "revision": 3,
+      "id": "rss-481843d9af5b8f7834",
+      "revision": 1,
       "category": "france",
       "topic": "Société",
-      "title": "Louis Degos, bâtonnier de Paris : « L’Etat a oublié un principe essentiel de droit : la juste mesure »",
+      "title": "Jeu vidéo : en crise, le secteur interpelle les candidats à l’élection présidentielle",
       "bullets": [
-        "Le représentant élu des avocats parisiens lance un appel au respect de l’Etat de droit, remis en cause, selon lui, autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’élection présidentielle."
+        "Alors que le secteur est à la peine depuis plusieurs années, les professionnels du jeu vidéo réclament un soutien politique, notamment un renforcement du crédit d’impôt jeu vidéo."
       ],
-      "publishedAt": "2026-11-27T04:15:05+00:00",
-      "updatedAt": "2026-11-27T04:15:05+00:00",
+      "publishedAt": "2026-11-27T10:15:38+00:00",
+      "updatedAt": "2026-11-27T10:15:38+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/louis-degos-batonnier-de-paris-l-etat-a-oublie-un-principe-essentiel-de-droit-la-juste-mesure_6815791_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/jeu-video-en-crise-le-secteur-interpelle-les-candidats-a-l-election-presidentielle_6815838_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
       "provenance": "rss-excerpt",
-      "summaryInput": "3f55d4279a845e7f097f280ed99da1c8fb9e655fbbee5861f2e00fa4be559ad7",
+      "summaryInput": "a4e99092bf602396202864eb1cba6c17ecca812acbadc2677c43468b73978a04",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-60be0a09f6639ee5d4",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
-      "bullets": [
-        "Arrivé quatrième au scrutin de 2022, avec 7,07 % des voix, le candidat du parti d’extrême droite Reconquête ! n’est plus crédité que d’environ 3 % des intentions de vote dans un sondage publié jeudi, très loin derrière Marine Le Pen."
-      ],
-      "publishedAt": "2026-11-26T23:54:55+00:00",
-      "updatedAt": "2026-11-26T23:54:55+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-27",
-      "provenance": "rss-excerpt",
-      "summaryInput": "fc256bace6ee9f3047e135df298f4e1c07d486329fc534280ede3155755d2049",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-06161ef14794bb635b",
+      "id": "rss-1547af021efd667727",
       "revision": 1,
       "category": "france",
-      "topic": "Santé",
-      "title": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
       "bullets": [
-        "De la revalorisation des soignants à la création d'une délégation interministérielle à la prévention, cinquante organisations (Mutualité Française, CFDT, Unsa...) ont présenté, jeudi 26 novembre, 60 mesures pour \"refonder le modèle social\", qu'elles soumettront aux candidats à l'élection présidentielle.",
-        "\"Un point de CSG est égal à 17,9 milliards d'euros en 2025\", souligne leur plaidoyer.",
-        "Sur l'accès aux soins, elles appellent à développer dans certains territoires des cabinets mobiles de type médico-bus, des maisons et centres de santé, et à créer des \"antennes\" rattachées aux Samu-SAS pour prodiguer des soins de premier recours."
+        "Le garde des sceaux, soutien du candidat Horizons, s’en est pris au candidat libéral David Lisnard, fustigeant le refus du maire de Cannes d’exprimer une préférence entre Edouard Philippe et la candidate de l’extrême droite, Marine Le Pen."
       ],
-      "publishedAt": "2026-11-26T23:03:14+00:00",
-      "updatedAt": "2026-11-26T23:03:14+00:00",
+      "publishedAt": "2026-11-27T08:51:22+00:00",
+      "updatedAt": "2026-11-27T08:51:22+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-gerald-darmanin-appelle-edouard-philippe-a-presenter-un-projet-une-vision_6815820_823448.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-27",
-      "provenance": "article-extract",
-      "summaryInput": "e1b699a1f9c0ca7d2bec5cc7dc43d7cd884525da38d927a038332743502d08b1",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T09:24:55.331641+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "b69ce22a7fffbd47574a2b00141d323f1c7a2e420f480ec1d37b5dd29052a5de",
+      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1234,7 +1195,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 10
+      "candidates": 9
     },
     {
       "publisher": "Franceinfo",
@@ -1258,7 +1219,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 15
+      "candidates": 13
     },
     {
       "publisher": "Franceinfo",
@@ -1282,7 +1243,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Figaro",
@@ -1300,7 +1261,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 10
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
