@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T06:16:25.221163+00:00",
+  "preparedAt": "2026-11-28T07:38:14.525535+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -325,8 +325,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T06:16:26+00:00",
-      "updatedAt": "2026-11-28T06:16:26+00:00",
+      "publishedAt": "2026-11-28T07:38:15+00:00",
+      "updatedAt": "2026-11-28T07:38:15+00:00",
       "importance": 70,
       "sources": [
         {
@@ -479,7 +479,7 @@
       "provenance": "article-extract",
       "summaryInput": "a2dd5145fa83b94cb89d8a87ccee41c30cde012e5d98f5f356f0313dcf3a860f",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
+      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
       "context": null
     },
     {
@@ -516,8 +516,8 @@
       "bullets": [
         "Ces derniers jours, l’Ukraine s’est enhardie, frappant des navires russes en mer Baltique et en Méditerranée, jusque dans le port libyen de Benghazi. Kiev cherche à motiver l’alliance occidentale à continuer d’aider le pays. Mais face à cette nouvelle escalade, les Européens sont partagés entre le soutien et l’inquiétude."
       ],
-      "publishedAt": "2026-11-28T05:00:14+00:00",
-      "updatedAt": "2026-11-28T05:00:14+00:00",
+      "publishedAt": "2026-11-28T05:00:09+00:00",
+      "updatedAt": "2026-11-28T05:00:09+00:00",
       "importance": 79,
       "sources": [
         {
@@ -593,7 +593,7 @@
       ],
       "publishedAt": "2026-11-27T19:30:02+00:00",
       "updatedAt": "2026-11-27T19:30:02+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -631,37 +631,13 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e1210d52c0eacf1649",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "« Les dirigeants européens sont incohérents » : les ambitions des Vingt-Sept bridées par les divisions sur le budget",
-      "bullets": [
-        "DÉCRYPTAGE - Les tensions autour des contributions nationales et le choix des priorités communes divisent les pays européens, réunis pour un sommet extraordinaire à Bruxelles."
-      ],
-      "publishedAt": "2026-11-26T14:34:14+00:00",
-      "updatedAt": "2026-11-26T14:34:14+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/les-dirigeants-europeens-sont-incoherents-les-ambitions-des-vingt-sept-bridees-par-les-divisions-sur-le-budget-20261125",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "848b61a49da3614791649c45dbdac35bfc2e150357d2d5c7b900e42af02a93e3",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e33430556317f28873",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
       "title": "Le Pentagone assure que ses systèmes informatiques sont « sûrs et sécurisés », après une possible cyberattaque annoncée par des médias",
       "bullets": [
-        "L’agence Reuters, puis NBC News citant un responsable anonyme, ont avancé que le cloud de l’armée de l’air avait été piraté, exposant possiblement « des informations militaires sensibles »."
+        "L’agence Reuters puis NBC News ont avancé que le cloud de l’armée de l’air avait été piraté, exposant possiblement « des informations militaires sensibles »."
       ],
       "publishedAt": "2026-11-28T05:30:17+00:00",
       "updatedAt": "2026-11-28T05:30:17+00:00",
@@ -675,7 +651,7 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "b458f7b7ae5cae080ac75706ef153b909c2597c90e34d31e374f6704095530bb",
+      "summaryInput": "848fe388feec256961b99c6aab07f1a524f2422544304db5bfe207fcb81f947d",
       "detailLevel": "preview"
     },
     {
@@ -715,7 +691,7 @@
       ],
       "publishedAt": "2026-11-27T18:36:13+00:00",
       "updatedAt": "2026-11-27T18:36:13+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -727,7 +703,7 @@
       "provenance": "article-extract",
       "summaryInput": "ca498e70a58a4a2159a929cc68219af12b88aac90784a78d5cd38092b4b42d14",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
+      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
       "context": null
     },
     {
@@ -756,13 +732,13 @@
     },
     {
       "id": "rss-2ba07adec49efd9d0a",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "A Berlin, Jean-Luc Mélenchon se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite à Berlin, se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
       "bullets": [
-        "Venu dans la capitale allemande présenter l’un de ses ouvrages, le candidat de La France insoumise à la présidentielle a nié tout sentiment anti-allemand.",
-        "Tout en reprenant ses accusations contre le réarmement de l’Allemagne, et son modèle ordolibéral."
+        "Venu dans la capitale allemande présenter l’un de ses ouvrages, le candidat LFI à l’élection présidentielle a nié tout sentiment anti-allemand.",
+        "Tout en reprenant ses accusations contre le réarmement du pays et son modèle ordolibéral."
       ],
       "publishedAt": "2026-11-28T04:30:08+00:00",
       "updatedAt": "2026-11-28T04:30:08+00:00",
@@ -776,38 +752,42 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "e20ac9db9af27540235bf0961d50181c01c5b360b126f7c40bae084ce26cfa18",
+      "summaryInput": "e97feff8b098d03c343cd55d8b3749fb64989c00b9024db736555aa5898ccaa2",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f56409e36a7641b72d",
+      "id": "rss-00e44227e8c4ab5a01",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "category": "world",
+      "topic": "International",
+      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
       "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
+        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
+        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
       ],
-      "publishedAt": "2026-11-27T19:14:46+00:00",
-      "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 77,
+      "publishedAt": "2026-11-27T22:35:51+00:00",
+      "updatedAt": "2026-11-27T22:35:51+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
-          "access": "extrait"
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
+      "context": null
     },
     {
       "id": "rss-5ecc5ebc0fd300cc74",
       "revision": 2,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
       "bullets": [
         "Jusqu’où rester fidèle à ses valeurs et convictions sans manquer à son devoir de loyauté, ni compromettre sa carrière ?",
@@ -826,6 +806,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "ffcf68fbbccd252742549781ec3793871ead6de69813634ecafe4085c0794d73",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3666007f8948043f7b",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "Balles perdues : les vies brisées des victimes collatérales des fusillades du narcotrafic",
+      "bullets": [
+        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
+      ],
+      "publishedAt": "2026-11-28T05:00:20+00:00",
+      "updatedAt": "2026-11-28T05:00:20+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3e44767b363204ff4d9a6131e54d557821b3303384e01941edf1011cafa6c73d",
       "detailLevel": "preview"
     },
     {
@@ -877,7 +881,7 @@
       "provenance": "article-extract",
       "summaryInput": "dbb6ba8e9adbcbdd40bba00f022262bc52625fe0287817434cc943da01f9c3ac",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
+      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
       "context": null
     },
     {
@@ -962,6 +966,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f56409e36a7641b72d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "bullets": [
+        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+      ],
+      "publishedAt": "2026-11-27T19:14:46+00:00",
+      "updatedAt": "2026-11-27T19:14:46+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-323ec2ec79cc8b58d1",
       "revision": 1,
       "category": "france",
@@ -983,30 +1011,6 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3666007f8948043f7b",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Derrière les morts en cascade et les blessés graves, la balle perdue répand son parfum de suspicion",
-      "bullets": [
-        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes collatérales de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
-      ],
-      "publishedAt": "2026-11-28T05:00:34+00:00",
-      "updatedAt": "2026-11-28T05:00:34+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "6a86435664e407a6aa86bbf03d24360cdb09370e34d710e42b5d2ff8b01ef364",
       "detailLevel": "preview"
     },
     {
@@ -1062,75 +1066,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-400616846a5a810b7b",
+      "id": "rss-9808f35e8bab700442",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : l’extrême droite française a-t-elle vraiment changé ?",
+      "title": "Règle d’or budgétaire : « Ce qui discipline la dépense, ce ne sont pas les règles, mais la croissance économique »",
       "bullets": [
-        "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes idéologiques au sein de l’extrême droite en France."
+        "Adopter une règle d’or est une fausse bonne idée, car cela conduit à idéologiser le droit et à affaiblir la démocratie, alors que la hausse de l’endettement public traduit de mauvais choix économiques, rappelle le juriste Matthieu Caron, dans une tribune au « Monde »."
       ],
-      "publishedAt": "2026-11-28T04:00:13+00:00",
-      "updatedAt": "2026-11-28T04:00:13+00:00",
+      "publishedAt": "2026-11-28T06:30:11+00:00",
+      "updatedAt": "2026-11-28T06:30:11+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/11/28/presidentielle-2027-l-extreme-droite-francaise-a-t-elle-vraiment-change_6816057_5463015.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "b7d5261778a09e8d5ca9756f19607b858e6a98b53d92e0de74d29aa663234234",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-041afaec45ffb7d600",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
-      "bullets": [
-        "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique."
-      ],
-      "publishedAt": "2026-11-27T20:49:07+00:00",
-      "updatedAt": "2026-11-27T20:49:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "41659f5b2a5b17b9a151eb0c3343de7c021f06c0d7fdbb146efb2ac7bde33bb7",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c5edcf8a011a42d4f1",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
-      "bullets": [
-        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
-      ],
-      "publishedAt": "2026-11-27T17:00:05+00:00",
-      "updatedAt": "2026-11-27T17:00:05+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
+      "summaryInput": "253f2be6fe6454cbee5435c19b055a6706795fbdd794b96235abdbc19810930d",
       "detailLevel": "preview"
     },
     {
@@ -1180,6 +1136,59 @@
       "provenance": "rss-excerpt",
       "summaryInput": "68edf9fb8653af9a94a037006d858f746bb92b94689cd83f5ac344074a958197",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3be1230a6a6e699550",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "« Le monde culturel attend la présidentielle, où il jouera son avenir à la roulette – se sauver ou mourir –, et il évite ainsi de se remettre en question »",
+      "bullets": [
+        "Les acteurs culturels craignent que leurs subventions, déjà en baisse, ne soient encore amputées en cas d’arrivée au pouvoir du RN.",
+        "Pourtant, la Cour des comptes constate, dans un rapport, une augmentation de l’offre subventionnée, et préconise de « cerner des priorités », explique, dans sa chronique, Michel Guerrin, rédacteur…"
+      ],
+      "publishedAt": "2026-11-27T12:55:48+00:00",
+      "updatedAt": "2026-11-27T12:55:48+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5b67eb83634b0fbce7fcc1a7f529fbf4c8c87525966ac30d29e1af9e46e6570c",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-330fa68a73865a60e5",
+      "revision": 1,
+      "category": "france",
+      "topic": "Santé",
+      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
+      "bullets": [
+        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
+        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
+      ],
+      "publishedAt": "2026-11-26T15:21:59+00:00",
+      "updatedAt": "2026-11-26T15:21:59+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "article-extract",
+      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
+      "context": null
     }
   ],
   "feedHealth": [
@@ -1193,7 +1202,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/economie.rss",
       "ok": true,
-      "candidates": 7
+      "candidates": 6
     },
     {
       "publisher": "Franceinfo",
@@ -1205,7 +1214,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Franceinfo",
@@ -1259,7 +1268,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 12
+      "candidates": 11
     },
     {
       "publisher": "Le Monde",
