@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T11:00:20.127974+00:00",
+  "preparedAt": "2026-11-28T11:58:30.645562+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
+    {
+      "id": "rss-9107df89a40597b931",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Au Venezuela, la dette abyssale complique la tâche de Matthieu Pigasse",
+      "bullets": [
+        "ANALYSE - Le gouffre financier, révélé par le gouvernement, atteint 237,5 milliards de dollars, soit 242 % du PIB fin 2025.",
+        "La multiplicité des créanciers rend la mission du banquier d’affaires d’autant plus difficile."
+      ],
+      "publishedAt": "2026-11-28T10:15:00+00:00",
+      "updatedAt": "2026-11-28T10:15:00+00:00",
+      "importance": 99,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/au-venezuela-la-dette-abyssale-complique-la-tache-de-matthieu-pigasse-20261128",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "b769a77c5295cc4f956fb23f95bc23f360708fe20dbe7c793e6b09679cd23b95",
+      "detailLevel": "preview"
+    },
     {
       "id": "rss-d3669c2917aec5c703",
       "revision": 1,
@@ -56,6 +81,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "e73ac91c43e201d7d22af50108a5740847fa109d8f99f9d5e7abc4f853620c8e",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af8980ad052225ea45",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "« Etablir une règle d’or budgétaire n’ôtera pas le besoin de relever l’âge de la retraite ou d’augmenter le temps de travail »",
+      "bullets": [
+        "Le ralliement à la « règle d’or » est une formidable reconnaissance pour l’Union européenne, mais les responsables politiques français qui la défendent ignorent manifestement les engagements économiques qui en découlent, observe l’ancienne députée européenne Sylvie Goulard, dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-28T11:00:15+00:00",
+      "updatedAt": "2026-11-28T11:00:15+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/28/etablir-une-regle-d-or-budgetaire-n-otera-pas-le-besoin-de-relever-l-age-de-la-retraite-ou-d-augmenter-le-temps-de-travail_6816099_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "86d18199dac33832c942a7789394bb02be56a567902eea834ef1e802640cda05",
       "detailLevel": "preview"
     },
     {
@@ -264,58 +313,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-00e44227e8c4ab5a01",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
-      "bullets": [
-        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
-        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
-        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
-      ],
-      "publishedAt": "2026-11-27T22:35:51+00:00",
-      "updatedAt": "2026-11-27T22:35:51+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T11:00:20.127974+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-15c2949c27a4a099f5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du smic au 1er décembre : cette fausse bonne idée qui tasse les salaires",
-      "bullets": [
-        "La hausse anticipée décidée par le gouvernement fait craindre une concentration autour des bas niveaux de revenus alors que les négociations salariales dans les branches professionnelles peinent à débuter."
-      ],
-      "publishedAt": "2026-11-27T16:45:00+00:00",
-      "updatedAt": "2026-11-27T16:45:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-au-1er-decembre-cette-fausse-bonne-idee-qui-tasse-les-salaires-20261127",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "57396406195968374d1cb08ed9f4e73cde29d30a174570c8965432da11761090",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,8 +323,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T11:00:02+00:00",
-      "updatedAt": "2026-11-28T11:00:02+00:00",
+      "publishedAt": "2026-11-28T11:54:23+00:00",
+      "updatedAt": "2026-11-28T11:54:23+00:00",
       "importance": 69,
       "sources": [
         {
@@ -565,7 +562,7 @@
       ],
       "publishedAt": "2026-11-27T23:30:14+00:00",
       "updatedAt": "2026-11-27T23:30:14+00:00",
-      "importance": 79,
+      "importance": 78,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -632,15 +629,15 @@
     },
     {
       "id": "rss-340393f04b77151d1b",
-      "revision": 1,
+      "revision": 2,
       "category": "world",
       "topic": "International",
-      "title": "Pour le ministre de la défense italien Guido Crosetto, « faire de la Méditerranée un nouveau théâtre de guerre est inacceptable »",
+      "title": "Pour le ministre de la défense italien, Guido Crosetto, « faire de la Méditerranée un nouveau théâtre de guerre est inacceptable »",
       "bullets": [
         "Interrogé par « Le Monde », ce proche de Giorgia Meloni assure que « Rome continuera à soutenir le droit de l’Ukraine à se défendre », mais il s’inquiète que les frappes ukrainiennes contre un bateau russe dans un port libyen déclenchent « une escalade dangereuse »."
       ],
-      "publishedAt": "2026-11-28T09:30:07+00:00",
-      "updatedAt": "2026-11-28T09:30:07+00:00",
+      "publishedAt": "2026-11-28T09:30:04+00:00",
+      "updatedAt": "2026-11-28T09:30:04+00:00",
       "importance": 67,
       "sources": [
         {
@@ -651,7 +648,7 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "e5641fa6b92a86b2ab578044563f384958efd815215a634c6ef0b119caa8c4d8",
+      "summaryInput": "199a25a266df62624b10e635708d0163dbc43d60c8d97df49def447ecd3f1308",
       "detailLevel": "preview"
     },
     {
@@ -731,51 +728,52 @@
       "context": null
     },
     {
-      "id": "rss-b6c3db9c2ec0dde2ef",
+      "id": "rss-9153ecdc1f4c2f179a",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Dans les terres rouges du Mississippi, le réveil inattendu des démocrates dans l’ombre de l’histoire",
+      "title": "En Espagne, 14 migrants retrouvés morts au large des Canaries",
       "bullets": [
-        "REPORTAGE - La première élection d’un sénateur noir depuis 152 ans a été un véritable séisme dans cet État très conservateur où l’histoire pèse encore douloureusement dans la politique locale."
+        "Ce naufrage illustre ⁠les dangers de l’une des routes migratoires les plus meurtrières du monde, avant ⁠les élections générales de dimanche en Espagne, où l’immigration s’est ​imposée comme l’un des principaux thèmes de campagne."
       ],
-      "publishedAt": "2026-11-28T10:00:00+00:00",
-      "updatedAt": "2026-11-28T10:00:00+00:00",
+      "publishedAt": "2026-11-28T11:21:30+00:00",
+      "updatedAt": "2026-11-28T11:21:30+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/dans-les-terres-rouges-du-mississippi-le-reveil-inattendu-des-democrates-dans-l-ombre-de-l-histoire-20261128",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/28/en-espagne-14-migrants-retrouves-morts-au-large-des-canaries_6816100_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "abbc1923a5439c3a95276e4ed159369a1ce3e1f12312fbc4a9e75844acb6135d",
+      "summaryInput": "143e7c8280b6e4ecd8ce4d747e53d9fa0e75da5a24ca78c208ccedb086f47a39",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f56409e36a7641b72d",
+      "id": "rss-e09d216c799857a932",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "title": "Convention citoyenne sur les finances publiques : le CESE entend peser sur les débats à l’approche de la présidentielle",
       "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+        "La troisième assemblée de la République a lancé, vendredi, une consultation de la population sur les comptes de la nation dont les conclusions seront rendues le 21 mars 2027.",
+        "L’enjeu est de contribuer à l’émergence de compromis dans une période où le personnel politique apparaît fracturé."
       ],
-      "publishedAt": "2026-11-27T19:14:46+00:00",
-      "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-28T08:22:26+00:00",
+      "updatedAt": "2026-11-28T08:22:26+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "summaryInput": "4468e7c301e8d27d21655012a781e655aa6bc8f8c7f85fb891543553e5172f3f",
       "detailLevel": "preview"
     },
     {
@@ -937,6 +935,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-f56409e36a7641b72d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "bullets": [
+        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+      ],
+      "publishedAt": "2026-11-27T19:14:46+00:00",
+      "updatedAt": "2026-11-27T19:14:46+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-323ec2ec79cc8b58d1",
       "revision": 1,
       "category": "france",
@@ -962,10 +984,10 @@
     },
     {
       "id": "rss-3666007f8948043f7b",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Société",
-      "title": "Balles perdues : les vies brisées des victimes collatérales des fusillades du narcotrafic",
+      "title": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
       "bullets": [
         "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
       ],
@@ -981,7 +1003,7 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "3e44767b363204ff4d9a6131e54d557821b3303384e01941edf1011cafa6c73d",
+      "summaryInput": "c6695ab05ddd08dde9253c70102b800f417dca190314007a8a84df0db72bf757",
       "detailLevel": "preview"
     },
     {
@@ -1037,76 +1059,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-060be18e8b4ba6e8e6",
-      "revision": 3,
+      "id": "rss-400616846a5a810b7b",
+      "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
+      "title": "Présidentielle 2027 : l’extrême droite française a-t-elle vraiment changé ?",
       "bullets": [
-        "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue des élections législatives qui devraient se tenir après la présidentielle de 2027."
+        "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes idéologiques au sein de l’extrême droite en France."
       ],
-      "publishedAt": "2026-11-28T09:00:02+00:00",
-      "updatedAt": "2026-11-28T09:00:02+00:00",
+      "publishedAt": "2026-11-28T04:00:13+00:00",
+      "updatedAt": "2026-11-28T04:00:13+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/11/28/presidentielle-2027-l-extreme-droite-francaise-a-t-elle-vraiment-change_6816057_5463015.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "c1160ba6c1f4d7e2e63f68bbc5c1d034f57a330721ec9fe0cd9c19590612316f",
+      "summaryInput": "b7d5261778a09e8d5ca9756f19607b858e6a98b53d92e0de74d29aa663234234",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e09d216c799857a932",
+      "id": "rss-041afaec45ffb7d600",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Convention citoyenne sur les finances publiques : le CESE entend peser sur les débats à l’approche de la présidentielle",
+      "title": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
       "bullets": [
-        "La troisième assemblée de la République a lancé, vendredi, une consultation de la population sur les comptes de la nation dont les conclusions seront rendues le 21 mars 2027.",
-        "L’enjeu est de contribuer à l’émergence de compromis dans une période où le personnel politique apparaît fracturé."
+        "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique."
       ],
-      "publishedAt": "2026-11-28T08:22:26+00:00",
-      "updatedAt": "2026-11-28T08:22:26+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4468e7c301e8d27d21655012a781e655aa6bc8f8c7f85fb891543553e5172f3f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c5edcf8a011a42d4f1",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
-      "bullets": [
-        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
-      ],
-      "publishedAt": "2026-11-27T17:00:05+00:00",
-      "updatedAt": "2026-11-27T17:00:05+00:00",
+      "publishedAt": "2026-11-27T20:49:07+00:00",
+      "updatedAt": "2026-11-27T20:49:07+00:00",
       "importance": 64,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
+      "summaryInput": "41659f5b2a5b17b9a151eb0c3343de7c021f06c0d7fdbb146efb2ac7bde33bb7",
       "detailLevel": "preview"
     },
     {
