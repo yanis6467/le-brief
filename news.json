@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T14:16:47.157773+00:00",
+  "preparedAt": "2026-11-28T15:07:14.176814+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -160,6 +160,33 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3a2c21f5595160692c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Un scénario à la grecque avec la dette française ? Le vice-président de la BCE n’y croit pas",
+      "bullets": [
+        "Le vice-président de la Banque centrale européenne (BCE) écarte pour la France un scénario similaire à celui de la Grèce en 2010, mais souligne la nécessité de «mesures budgétaires» pour réduire le déficit et la dette, dans un entretien publié samedi 28 novembre après l'avertissement de l'agence de notation S&P.",
+        "L'agence de notation S&P Global a maintenu vendredi la note de la France à A+, mais a abaissé la perspective de stable à négative, la menaçant donc d'une éventuelle dégradation à l'avenir, en raison des difficultés du pays à réduire son déficit."
+      ],
+      "publishedAt": "2026-11-28T12:27:54+00:00",
+      "updatedAt": "2026-11-28T12:27:54+00:00",
+      "importance": 69,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conjoncture/un-scenario-a-la-grecque-avec-la-dette-francaise-le-vice-president-de-la-bce-n-y-croit-pas-20261128",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "article-extract",
+      "summaryInput": "0673bba71544129ca987385c86799796781ff6bfc87616c5b1c9909b5e133752",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T15:07:14.176814+00:00",
+      "context": null
+    },
+    {
       "id": "rss-7b36aaf1513120b7d1",
       "revision": 1,
       "category": "eco",
@@ -188,28 +215,32 @@
       "context": null
     },
     {
-      "id": "rss-b9ac9f312ce27d7182",
+      "id": "rss-7af744c372bbc3e84f",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Négociations commerciales : les grands patrons de la distribution somment les industriels de modérer leurs hausses de prix",
+      "title": "Cinq euros par jour de prison : le Sénat vote pour taxer les détenus",
       "bullets": [
-        "EXCLUSIF - Dans un courrier adressé mercredi à une cinquantaine de multinationales, que Le Figaro a pu consulter, les dirigeants alertent sur la fragilité du pouvoir d’achat des Français, à quelques jours de l’ouverture des discussions."
+        "Le Sénat a voté ce samedi 28 novembre pour instaurer une contribution journalière pour les détenus qui travaillent ou en ont les moyens, une initiative de la droite à laquelle le gouvernement ne s'est pas opposé.",
+        "En 2024, le coût moyen d’une journée de détention s’élevait à 129,33 euros, selon le ministère de la Justice.",
+        "À titre d'exemple, une première demande de titre de séjour coûterait 600 euros au lieu de 300 actuellement au demandeur, un montant déjà relevé lors du précédent budget."
       ],
-      "publishedAt": "2026-11-27T15:39:02+00:00",
-      "updatedAt": "2026-11-27T15:39:02+00:00",
-      "importance": 66,
+      "publishedAt": "2026-11-28T13:53:03+00:00",
+      "updatedAt": "2026-11-28T13:53:03+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/negociations-commerciales-les-grands-patrons-de-la-distribution-somment-les-industriels-de-moderer-leurs-hausses-de-prix-20261127",
-          "access": "extrait"
+          "url": "https://www.lefigaro.fr/conjoncture/cinq-euros-par-jour-de-prison-le-senat-vote-pour-taxer-les-detenus-20261128",
+          "access": "public"
         }
       ],
       "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5dae53206594c90b5333031ba6d9788e9112a2954a0933850f1e16c3bcf38d0f",
-      "detailLevel": "preview"
+      "provenance": "article-extract",
+      "summaryInput": "a27855005dfa2fadb2793132e69c41b440833b147626c45af7024cf075dbd1e1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T15:07:14.176814+00:00",
+      "context": null
     },
     {
       "id": "rss-f50ccc9a72baae63f5",
@@ -265,55 +296,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-00e44227e8c4ab5a01",
+      "id": "rss-9808f35e8bab700442",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "title": "Règle d’or budgétaire : « Ce qui discipline la dépense, ce ne sont pas les règles, mais la croissance économique »",
       "bullets": [
-        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
-        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
-        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
+        "Adopter une règle d’or est une fausse bonne idée, car cela conduit à idéologiser le droit et à affaiblir la démocratie, alors que la hausse de l’endettement public traduit de mauvais choix économiques, rappelle le juriste Matthieu Caron, dans une tribune au « Monde »."
       ],
-      "publishedAt": "2026-11-27T22:35:51+00:00",
-      "updatedAt": "2026-11-27T22:35:51+00:00",
-      "importance": 64,
+      "publishedAt": "2026-11-28T06:30:11+00:00",
+      "updatedAt": "2026-11-28T06:30:11+00:00",
+      "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T14:16:47.157773+00:00",
-      "context": null
-    },
-    {
-      "id": "rss-15c2949c27a4a099f5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Hausse du smic au 1er décembre : cette fausse bonne idée qui tasse les salaires",
-      "bullets": [
-        "La hausse anticipée décidée par le gouvernement fait craindre une concentration autour des bas niveaux de revenus alors que les négociations salariales dans les branches professionnelles peinent à débuter."
-      ],
-      "publishedAt": "2026-11-27T16:45:00+00:00",
-      "updatedAt": "2026-11-27T16:45:00+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/social/hausse-du-smic-au-1er-decembre-cette-fausse-bonne-idee-qui-tasse-les-salaires-20261127",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "57396406195968374d1cb08ed9f4e73cde29d30a174570c8965432da11761090",
+      "summaryInput": "253f2be6fe6454cbee5435c19b055a6706795fbdd794b96235abdbc19810930d",
       "detailLevel": "preview"
     },
     {
@@ -327,8 +330,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T14:14:27+00:00",
-      "updatedAt": "2026-11-28T14:14:27+00:00",
+      "publishedAt": "2026-11-28T15:07:04+00:00",
+      "updatedAt": "2026-11-28T15:07:04+00:00",
       "importance": 69,
       "sources": [
         {
@@ -429,34 +432,6 @@
       "context": null
     },
     {
-      "id": "rss-45857a9a4a0b83e2f5",
-      "revision": 1,
-      "category": "markets",
-      "topic": "Marchés",
-      "title": "SANOFI : «Du mal à y trouver des failles»... Avec un bond de 15% de l'action en deux séances, les analystes (et le marché) sont totalement séduits par le rachat de la biotech Insmed par Sanofi pour 41 milliards de dollars",
-      "bullets": [
-        "Le rallye boursier que connaît Sanofi a été déclenché par l'annonce, mardi, du rachat de la biotech américaine Insmed pour 41 milliards de dollars soit environ 37,6 milliards de dollars.",
-        "Cette molécule est évaluée \"dans trois indications respiratoires avec une quatrième prévue au premier semestre et représente selon la société un potentiel supplémentaire de plus de 6 milliards de dollars sous réserve d’approbation dans les quatre indications visées\", remarque Allinvest Securities.",
-        "La banque estime qu'Insmed ajoute pas moins de 16 milliards de dollars de ventes annuelles (en pic de revenus) au chiffre d'affaires de Sanofi."
-      ],
-      "publishedAt": "2026-11-25T14:49:22+00:00",
-      "updatedAt": "2026-11-25T14:49:22+00:00",
-      "importance": 54,
-      "sources": [
-        {
-          "publisher": "BFM Bourse",
-          "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-du-mal-a-y-trouver-des-failles-avec-un-bond-de-15-de-l-action-en-deux-seances-les-analystes-et-le-marche-sont-totalement-seduits-par-le-rachat-de-la-biotech-insmed-par-sanofi-pour-41-milliards-de-dollars-1174428.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "a2dd5145fa83b94cb89d8a87ccee41c30cde012e5d98f5f356f0313dcf3a860f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
-      "context": null
-    },
-    {
       "id": "rss-679f0a4e2c49b6d616",
       "revision": 1,
       "category": "world",
@@ -532,30 +507,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-fb8ffb28a279a8330f",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Guerre en Ukraine : Kiev assume l’extension du conflit sur de nouveaux fronts",
-      "bullets": [
-        "Ces derniers jours, l’Ukraine s’est enhardie, frappant des navires russes en mer Baltique et en Méditerranée, jusque dans le port libyen de Benghazi. Kiev cherche à motiver l’alliance occidentale à continuer d’aider le pays. Mais face à cette nouvelle escalade, les Européens sont partagés entre le soutien et l’inquiétude."
-      ],
-      "publishedAt": "2026-11-28T05:00:09+00:00",
-      "updatedAt": "2026-11-28T05:00:09+00:00",
-      "importance": 79,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ab03a57f44b0819947077289dd31c935382f44d1d0bae24d7d500051111367e1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-6ad772ba6927472730",
       "revision": 1,
       "category": "world",
@@ -577,6 +528,55 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "6b625881b9383a06e9a8d43e4be196620d54f662fca65b718e2c23ecec0f93ce",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-af8980ad052225ea45",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "« Etablir une règle d’or budgétaire n’ôtera pas le besoin de relever l’âge de la retraite ou d’augmenter le temps de travail »",
+      "bullets": [
+        "Le ralliement à la « règle d’or » est une formidable reconnaissance pour l’Union européenne, mais les responsables politiques français qui la défendent ignorent manifestement les engagements économiques qui en découlent, observe l’ancienne députée européenne Sylvie Goulard, dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-28T11:00:15+00:00",
+      "updatedAt": "2026-11-28T11:00:15+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/28/etablir-une-regle-d-or-budgetaire-n-otera-pas-le-besoin-de-relever-l-age-de-la-retraite-ou-d-augmenter-le-temps-de-travail_6816099_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "86d18199dac33832c942a7789394bb02be56a567902eea834ef1e802640cda05",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-1f8b773388bb06e773",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Albanie, des milliers de personnes manifestent contre le pouvoir ; de nouveaux heurts avec la police à Tirana",
+      "bullets": [
+        "La police albanaise a fait usage de gaz lacrymogènes et de canons à eau dans la capitale, où des manifestants ont attaqué des bâtiments officiels.",
+        "Selon le ministère de la santé, huit personnes ont été blessées, dont un policier et deux journalistes."
+      ],
+      "publishedAt": "2026-11-28T14:46:10+00:00",
+      "updatedAt": "2026-11-28T14:46:10+00:00",
+      "importance": 75,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/28/en-albanie-des-milliers-de-personnes-manifestent-contre-le-pouvoir-de-nouveaux-heurts-avec-la-police-a-tirana_6816115_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "33e7336ecaf5b264da7a93daee165dd52768e0323323f5fcfb539a4030d01041",
       "detailLevel": "preview"
     },
     {
@@ -732,75 +732,52 @@
       "context": null
     },
     {
-      "id": "rss-9153ecdc1f4c2f179a",
+      "id": "rss-f56409e36a7641b72d",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "En Espagne, 14 migrants retrouvés morts au large des Canaries",
+      "category": "france",
+      "topic": "Politique",
+      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
       "bullets": [
-        "Ce naufrage illustre ⁠les dangers de l’une des routes migratoires les plus meurtrières du monde, avant ⁠les élections générales de dimanche en Espagne, où l’immigration s’est ​imposée comme l’un des principaux thèmes de campagne."
+        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
       ],
-      "publishedAt": "2026-11-28T11:21:30+00:00",
-      "updatedAt": "2026-11-28T11:21:30+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-27T19:14:46+00:00",
+      "updatedAt": "2026-11-27T19:14:46+00:00",
+      "importance": 76,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/28/en-espagne-14-migrants-retrouves-morts-au-large-des-canaries_6816100_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "143e7c8280b6e4ecd8ce4d747e53d9fa0e75da5a24ca78c208ccedb086f47a39",
+      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-af8980ad052225ea45",
-      "revision": 1,
+      "id": "rss-5ecc5ebc0fd300cc74",
+      "revision": 2,
       "category": "france",
-      "topic": "Politique",
-      "title": "« Etablir une règle d’or budgétaire n’ôtera pas le besoin de relever l’âge de la retraite ou d’augmenter le temps de travail »",
+      "topic": "Société",
+      "title": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
       "bullets": [
-        "Le ralliement à la « règle d’or » est une formidable reconnaissance pour l’Union européenne, mais les responsables politiques français qui la défendent ignorent manifestement les engagements économiques qui en découlent, observe l’ancienne députée européenne Sylvie Goulard, dans une tribune au « Monde »."
+        "Jusqu’où rester fidèle à ses valeurs et convictions sans manquer à son devoir de loyauté, ni compromettre sa carrière ?",
+        "A près de cinq mois de l’élection présidentielle, nombreux sont les cadres de l’Etat à s’interroger sur l’attitude qu’ils adopteront dans l’hypothèse où le Rassemblement national accéderait au pouvoir."
       ],
-      "publishedAt": "2026-11-28T11:00:15+00:00",
-      "updatedAt": "2026-11-28T11:00:15+00:00",
+      "publishedAt": "2026-11-28T04:00:17+00:00",
+      "updatedAt": "2026-11-28T04:00:17+00:00",
       "importance": 77,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/28/etablir-une-regle-d-or-budgetaire-n-otera-pas-le-besoin-de-relever-l-age-de-la-retraite-ou-d-augmenter-le-temps-de-travail_6816099_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "86d18199dac33832c942a7789394bb02be56a567902eea834ef1e802640cda05",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3666007f8948043f7b",
-      "revision": 3,
-      "category": "france",
-      "topic": "Société",
-      "title": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
-      "bullets": [
-        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
-      ],
-      "publishedAt": "2026-11-28T05:00:20+00:00",
-      "updatedAt": "2026-11-28T05:00:20+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "c6695ab05ddd08dde9253c70102b800f417dca190314007a8a84df0db72bf757",
+      "summaryInput": "ffcf68fbbccd252742549781ec3793871ead6de69813634ecafe4085c0794d73",
       "detailLevel": "preview"
     },
     {
@@ -965,55 +942,6 @@
       "context": null
     },
     {
-      "id": "rss-5ecc5ebc0fd300cc74",
-      "revision": 2,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
-      "bullets": [
-        "Jusqu’où rester fidèle à ses valeurs et convictions sans manquer à son devoir de loyauté, ni compromettre sa carrière ?",
-        "A près de cinq mois de l’élection présidentielle, nombreux sont les cadres de l’Etat à s’interroger sur l’attitude qu’ils adopteront dans l’hypothèse où le Rassemblement national accéderait au pouvoir."
-      ],
-      "publishedAt": "2026-11-28T04:00:17+00:00",
-      "updatedAt": "2026-11-28T04:00:17+00:00",
-      "importance": 77,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "ffcf68fbbccd252742549781ec3793871ead6de69813634ecafe4085c0794d73",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-f56409e36a7641b72d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
-      "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
-      ],
-      "publishedAt": "2026-11-27T19:14:46+00:00",
-      "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-323ec2ec79cc8b58d1",
       "revision": 1,
       "category": "france",
@@ -1035,6 +963,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-3666007f8948043f7b",
+      "revision": 3,
+      "category": "france",
+      "topic": "Société",
+      "title": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
+      "bullets": [
+        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
+      ],
+      "publishedAt": "2026-11-28T05:00:20+00:00",
+      "updatedAt": "2026-11-28T05:00:20+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c6695ab05ddd08dde9253c70102b800f417dca190314007a8a84df0db72bf757",
       "detailLevel": "preview"
     },
     {
@@ -1090,6 +1042,55 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-68c08542a12eae0e73",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Teddy Riner, un candidat hors système en quête de crédibilité",
+      "bullets": [
+        "L’effet de surprise autour du champion olympique, qui collectionne ces derniers jours les déclarations approximatives et les lieux communs, a laissé place au doute.",
+        "Son entourage se défend de toute naïveté et montre du doigt les commentateurs prompts à s’en prendre à ceux « qui ne sont pas du sérail…"
+      ],
+      "publishedAt": "2026-11-28T12:30:16+00:00",
+      "updatedAt": "2026-11-28T12:30:16+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3b8c1fe63dfb4180e46065155309c7b0965fd449c830015144b422991074ef5f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-060be18e8b4ba6e8e6",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
+      "bullets": [
+        "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue des élections législatives qui devraient se tenir après la présidentielle de 2027."
+      ],
+      "publishedAt": "2026-11-28T09:00:02+00:00",
+      "updatedAt": "2026-11-28T09:00:02+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "c1160ba6c1f4d7e2e63f68bbc5c1d034f57a330721ec9fe0cd9c19590612316f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-c5edcf8a011a42d4f1",
       "revision": 1,
       "category": "france",
@@ -1136,30 +1137,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "b6fd19916b3f9ba13289675d6c11240acd8c29a28cac326991dd98454cd41848",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-823e7a8298f7b81384",
-      "revision": 1,
-      "category": "france",
-      "topic": "Justice",
-      "title": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
-      "bullets": [
-        "Interrogée par notre journaliste politique Corentin Lesueur, spécialiste de l’extrême droite, lors d’un point presse, Marine Le Pen a déclaré : « Les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de l’instruction »."
-      ],
-      "publishedAt": "2026-11-27T13:13:16+00:00",
-      "updatedAt": "2026-11-27T13:13:16+00:00",
-      "importance": 63,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "68edf9fb8653af9a94a037006d858f746bb92b94689cd83f5ac344074a958197",
-      "detailLevel": "preview"
     }
   ],
   "feedHealth": [
@@ -1185,7 +1162,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/faits-divers.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1221,13 +1198,13 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 9
+      "candidates": 10
     },
     {
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "ok": true,
-      "candidates": 19
+      "candidates": 20
     },
     {
       "publisher": "Le Monde",
@@ -1251,7 +1228,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "candidates": 17
+      "candidates": 18
     },
     {
       "publisher": "Le Monde",
