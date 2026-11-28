@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T15:07:14.176814+00:00",
+  "preparedAt": "2026-11-28T15:59:10.776453+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -330,8 +330,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T15:07:04+00:00",
-      "updatedAt": "2026-11-28T15:07:04+00:00",
+      "publishedAt": "2026-11-28T15:56:21+00:00",
+      "updatedAt": "2026-11-28T15:56:21+00:00",
       "importance": 69,
       "sources": [
         {
@@ -482,28 +482,27 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e36df572c0bbe6e7e2",
+      "id": "rss-056454baa8f76417de",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "En Syrie, les arbitres de foot jouent les juges de paix",
+      "title": "La rapporteure de l’ONU pour les Palestiniens, Francesca Albanese, part pour le Mexique, après avoir été refoulée par le Costa Rica",
       "bullets": [
-        "Depuis la chute de Bachar Al-Assad, la reconstruction du pays se mène jusque dans les stades.",
-        "Issus des différentes communautés, les arbitres du ballon rond parcourent une Syrie fracturée par plus de dix ans de guerre pour promouvoir le respect des règles communes et l’unité nationale."
+        "Francesca Albanese accuse de longue date Israël de génocide et de crimes de guerre dans la bande de Gaza et en Cisjordanie et fait l’objet de sanctions de la part des Etats-Unis."
       ],
-      "publishedAt": "2026-11-28T05:30:05+00:00",
-      "updatedAt": "2026-11-28T05:30:05+00:00",
+      "publishedAt": "2026-11-28T15:31:41+00:00",
+      "updatedAt": "2026-11-28T15:31:41+00:00",
       "importance": 79,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/28/en-syrie-les-arbitres-de-foot-jouent-les-juges-de-paix_6816071_4500055.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/28/la-rapporteure-de-l-onu-pour-les-palestiniens-francesca-albanese-part-pour-le-mexique-apres-avoir-ete-refoulee-par-le-costa-rica_6816123_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "84c9909ff74f4ef89af2525e930f35732552df6c28a62bccbe34ccf4fb9ba4b0",
+      "summaryInput": "eecfc7b9560b358755f3b922538e692e6b83177fcea9337e290a554f3fad9d87",
       "detailLevel": "preview"
     },
     {
@@ -656,30 +655,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-e33430556317f28873",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Le Pentagone assure que ses systèmes informatiques sont « sûrs et sécurisés », après une possible cyberattaque annoncée par des médias",
-      "bullets": [
-        "L’agence Reuters puis NBC News ont avancé que le cloud de l’armée de l’air avait été piraté, exposant possiblement « des informations militaires sensibles »."
-      ],
-      "publishedAt": "2026-11-28T05:30:17+00:00",
-      "updatedAt": "2026-11-28T05:30:17+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/28/le-pentagone-assure-que-ses-systemes-informatiques-sont-surs-et-securises-apres-une-possible-cyberattaque-annoncee-par-des-medias_6816072_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "848fe388feec256961b99c6aab07f1a524f2422544304db5bfe207fcb81f947d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-24ca471cef0722d1cb",
       "revision": 1,
       "category": "world",
@@ -732,27 +707,53 @@
       "context": null
     },
     {
-      "id": "rss-f56409e36a7641b72d",
+      "id": "rss-b797b276ba693d02a9",
       "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "category": "world",
+      "topic": "International",
+      "title": "Elections législatives en Espagne : l’ultime pari de Pedro Sanchez",
       "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+        "« Le modèle espagnol sous pression » (3/3).",
+        "Fragilisé par les scandales politico-judiciaires, le premier ministre socialiste espagnol, à la tête de l’Etat depuis 2018, joue dimanche son va-tout, face à la droite et à l’extrême droite, impatientes de provoquer sa chute."
       ],
-      "publishedAt": "2026-11-27T19:14:46+00:00",
-      "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 76,
+      "publishedAt": "2026-11-28T15:30:03+00:00",
+      "updatedAt": "2026-11-28T15:30:03+00:00",
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/28/elections-legislatives-en-espagne-l-ultime-pari-de-pedro-sanchez_6816122_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "summaryInput": "35339288770ee2d0119d4572a11e819a0a6800a071be4fa2567070be4bc61347",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-68c08542a12eae0e73",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Présidentielle 2027 : Teddy Riner, un candidat hors système en quête de crédibilité",
+      "bullets": [
+        "L’effet de surprise autour du champion olympique, qui collectionne ces derniers jours les déclarations approximatives et les lieux communs, a laissé place au doute.",
+        "Son entourage se défend de toute naïveté et montre du doigt les commentateurs prompts à s’en prendre à ceux « qui ne sont pas du sérail…"
+      ],
+      "publishedAt": "2026-11-28T12:30:16+00:00",
+      "updatedAt": "2026-11-28T12:30:16+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3b8c1fe63dfb4180e46065155309c7b0965fd449c830015144b422991074ef5f",
       "detailLevel": "preview"
     },
     {
@@ -910,7 +911,7 @@
     },
     {
       "id": "rss-9a2083dea231bf76d2",
-      "revision": 3,
+      "revision": 4,
       "category": "france",
       "topic": "Faits divers",
       "title": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
@@ -927,11 +928,6 @@
           "publisher": "Franceinfo",
           "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html",
           "access": "public"
-        },
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html",
-          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
@@ -940,6 +936,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-28T05:15:14.017024+00:00",
       "context": null
+    },
+    {
+      "id": "rss-f56409e36a7641b72d",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "bullets": [
+        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
+      ],
+      "publishedAt": "2026-11-27T19:14:46+00:00",
+      "updatedAt": "2026-11-27T19:14:46+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-323ec2ec79cc8b58d1",
@@ -1042,76 +1062,53 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-68c08542a12eae0e73",
+      "id": "rss-e09d216c799857a932",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Présidentielle 2027 : Teddy Riner, un candidat hors système en quête de crédibilité",
+      "title": "Convention citoyenne sur les finances publiques : le CESE entend peser sur les débats à l’approche de la présidentielle",
       "bullets": [
-        "L’effet de surprise autour du champion olympique, qui collectionne ces derniers jours les déclarations approximatives et les lieux communs, a laissé place au doute.",
-        "Son entourage se défend de toute naïveté et montre du doigt les commentateurs prompts à s’en prendre à ceux « qui ne sont pas du sérail…"
+        "La troisième assemblée de la République a lancé, vendredi, une consultation de la population sur les comptes de la nation dont les conclusions seront rendues le 21 mars 2027.",
+        "L’enjeu est de contribuer à l’émergence de compromis dans une période où le personnel politique apparaît fracturé."
       ],
-      "publishedAt": "2026-11-28T12:30:16+00:00",
-      "updatedAt": "2026-11-28T12:30:16+00:00",
+      "publishedAt": "2026-11-28T08:22:26+00:00",
+      "updatedAt": "2026-11-28T08:22:26+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "3b8c1fe63dfb4180e46065155309c7b0965fd449c830015144b422991074ef5f",
+      "summaryInput": "4468e7c301e8d27d21655012a781e655aa6bc8f8c7f85fb891543553e5172f3f",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-060be18e8b4ba6e8e6",
+      "id": "rss-2ba07adec49efd9d0a",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite à Berlin, se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
       "bullets": [
-        "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue des élections législatives qui devraient se tenir après la présidentielle de 2027."
+        "Venu dans la capitale allemande présenter l’un de ses ouvrages, le candidat LFI à l’élection présidentielle a nié tout sentiment anti-allemand.",
+        "Tout en reprenant ses accusations contre le réarmement du pays et son modèle ordolibéral."
       ],
-      "publishedAt": "2026-11-28T09:00:02+00:00",
-      "updatedAt": "2026-11-28T09:00:02+00:00",
+      "publishedAt": "2026-11-28T04:30:08+00:00",
+      "updatedAt": "2026-11-28T04:30:08+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/28/a-berlin-jean-luc-melenchon-se-defend-de-germanophobie-souvent-nous-sommes-jaloux-mais-nous-ne-le-disons-pas_6816060_3210.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "c1160ba6c1f4d7e2e63f68bbc5c1d034f57a330721ec9fe0cd9c19590612316f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c5edcf8a011a42d4f1",
-      "revision": 1,
-      "category": "france",
-      "topic": "Société",
-      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
-      "bullets": [
-        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
-      ],
-      "publishedAt": "2026-11-27T17:00:05+00:00",
-      "updatedAt": "2026-11-27T17:00:05+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
+      "summaryInput": "e97feff8b098d03c343cd55d8b3749fb64989c00b9024db736555aa5898ccaa2",
       "detailLevel": "preview"
     },
     {
@@ -1125,7 +1122,7 @@
       ],
       "publishedAt": "2026-11-27T15:39:14+00:00",
       "updatedAt": "2026-11-27T15:39:14+00:00",
-      "importance": 64,
+      "importance": 63,
       "sources": [
         {
           "publisher": "Le Monde",
