@@ -1,39 +1,11 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T07:38:14.525535+00:00",
+  "preparedAt": "2026-11-28T09:04:10.510384+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
   "items": [
-    {
-      "id": "rss-25b91686634cfb9a39",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "«Le bilan de plus de 10 ans de macronisme» : la France en récession, plusieurs candidats à la présidentielle étrillent Emmanuel Macron",
-      "bullets": [
-        "Le recul de 0,2 % du PIB au troisième trimestre, après un très léger repli au deuxième, confirme l’entrée de l’économie française en récession technique.",
-        "L’Insee a non seulement confirmé le recul du PIB au troisième trimestre, mais aussi révisé à la baisse sa première estimation, de -0,1 % à -0,2 %.",
-        "Une mauvaise nouvelle pour le gouvernement, qui veut maintenir son objectif de déficit public à 5 % du PIB en 2026."
-      ],
-      "publishedAt": "2026-11-27T20:59:22+00:00",
-      "updatedAt": "2026-11-27T20:59:22+00:00",
-      "importance": 99,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/le-bilan-de-plus-de-10-ans-de-macronisme-la-france-en-recession-plusieurs-candidats-a-la-presidentielle-etrillent-emmanuel-macron-20261127",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "4e3effb12656cfa1f3d1df4681f1e52b886f6e71924beb667cd8eda5cb96e0e2",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T21:09:50.513998+00:00",
-      "context": null
-    },
     {
       "id": "rss-d3669c2917aec5c703",
       "revision": 1,
@@ -47,7 +19,7 @@
       ],
       "publishedAt": "2026-11-27T19:42:18+00:00",
       "updatedAt": "2026-11-27T19:42:18+00:00",
-      "importance": 97,
+      "importance": 96,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -59,32 +31,8 @@
       "provenance": "article-extract",
       "summaryInput": "9ae608410c4595c5b0532aa8a8eb57ddac2870da8a6da0128712ec7a165df406",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T20:11:32.220342+00:00",
+      "enrichedAt": "2026-11-28T09:04:10.510384+00:00",
       "context": null
-    },
-    {
-      "id": "rss-598619aa5ce2589be6",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-      "bullets": [
-        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
-      ],
-      "publishedAt": "2026-11-27T14:39:51+00:00",
-      "updatedAt": "2026-11-27T14:39:51+00:00",
-      "importance": 92,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-e3e482149ac06eb244",
@@ -115,30 +63,6 @@
       "context": null
     },
     {
-      "id": "rss-6b9580f0a1786d5cf5",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "La France en récession : visualisez l’évolution de la croissance ces dernières années",
-      "bullets": [
-        "INFOGRAPHIE – Le produit intérieur brut (PIB) français a reculé au troisième trimestre (-0,2%), d’après l’Insee, qui a revu à la baisse sa première estimation."
-      ],
-      "publishedAt": "2026-11-27T09:54:41+00:00",
-      "updatedAt": "2026-11-27T09:54:41+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/visualisez-la-croissance-francaise-en-2025-20261030",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5cd62802dc36cb29894a558cf63da21a28840b498f668c6119de12d164d7e980",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-0582d7271084006ca0",
       "revision": 1,
       "category": "eco",
@@ -147,9 +71,9 @@
       "bullets": [
         "DÉCRYPTAGE - Les chiffres actualisés de l’Insee publiés vendredi montrent que la croissance a été négative sur les trois derniers trimestres."
       ],
-      "publishedAt": "2026-11-27T18:05:00+00:00",
-      "updatedAt": "2026-11-27T18:05:00+00:00",
-      "importance": 80,
+      "publishedAt": "2026-11-28T08:49:45+00:00",
+      "updatedAt": "2026-11-28T08:49:45+00:00",
+      "importance": 81,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -238,56 +162,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-dd3ee621463d4c2a7e",
+      "id": "rss-7b36aaf1513120b7d1",
       "revision": 1,
       "category": "eco",
       "topic": "Économie",
-      "title": "«On pensait qu’il allait y avoir trop de monde, mais pas du tout» : à Paris, les promos du Black Friday peinent à convaincre",
+      "title": "L'armée américaine visée par une cyberattaque ? Le Pentagone assure que ses systèmes informatiques sont sécurisés",
       "bullets": [
-        "Inflation, pouvoir d’achat en berne et froid hivernal : il n’y avait pas foule aux Halles pour l’ouverture du Black Friday, ce vendredi 27 novembre.",
-        "Entre ceux qui repèrent leurs cadeaux de Noël et ceux qui préfèrent acheter en ligne, les commerçants du centre de Paris s’inquiètent."
+        "L'armée américaine a assuré vendredi 27 novembre que ses systèmes informatiques étaient «sûrs et sécurisés», en réponse à des informations de presse autour d'une cyberattaque, possiblement une de plus à viser des infrastructures numériques aux États-Unis.",
+        "Interrogé sur un éventuel piratage du service cloud de l'armée de l'air, le Pentagone n'a pas directement démenti.",
+        "Incidents en série Il pourrait ainsi s'agir d'une nouvelle cyberattaque contre des cibles américaines, après les institutions financières JPMorgan Chase, Visa et Mastercard, mais aussi, selon des informations de presse, des agences gouvernementales telles que la CIA et le FBI."
       ],
-      "publishedAt": "2026-11-27T16:17:16+00:00",
-      "updatedAt": "2026-11-27T16:17:16+00:00",
-      "importance": 68,
+      "publishedAt": "2026-11-28T07:37:30+00:00",
+      "updatedAt": "2026-11-28T07:37:30+00:00",
+      "importance": 67,
       "sources": [
         {
           "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conso/on-pensait-qu-il-allait-y-avoir-trop-de-monde-mais-pas-du-tout-a-paris-les-promos-du-black-friday-peinent-a-convaincre-20261127",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "bee143172b681698cb0628c23a21c6eb0b84070366ea7fa7185c3072b1ec62de",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-c802feda3fd06bce0e",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
-      "bullets": [
-        "Le taux a ainsi atteint 4% en octobre dans la zone euro en octobre, selon une estimation d’Eurostat, au plus haut depuis septembre 2023.",
-        "Même constat outre-Atlantique : aux États-Unis, l’inflation a atteint 3,8% le mois dernier, selon le département du Commerce.",
-        "Cette accumulation d’incertitudes, de dommages sur les infrastructures et de désorganisation a fait bondir les prix de l’énergie - gaz, produits pétroliers et électricité - de 19,2% en novembre, selon l’Insee."
-      ],
-      "publishedAt": "2026-11-27T14:47:22+00:00",
-      "updatedAt": "2026-11-27T14:47:22+00:00",
-      "importance": 68,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/conjoncture/energie-services-produits-manufactures-l-inflation-a-ralenti-a-2-9-sur-un-an-en-novembre-annonce-l-insee-20261127",
+          "url": "https://www.lefigaro.fr/international/l-armee-americaine-assure-que-ses-systemes-informatiques-sont-securises-apres-une-possible-cyberattaque-20261128",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "article-extract",
-      "summaryInput": "2146f6411d5e0bead8d85cc364ea8c95f441438d702d134321b794be5bfa46bf",
+      "summaryInput": "0eee998f7e2f80a6af801bb0b618e5d4d2be3ce82e6a5b20c07e6371005e0e9a",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T22:09:11.525985+00:00",
+      "enrichedAt": "2026-11-28T09:04:10.510384+00:00",
       "context": null
     },
     {
@@ -315,6 +214,107 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-875b036845881e476d",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "«Est-ce que le pays entre en gérontocratie ?» : en Suisse, le référendum sur le 13e mois de retraite avive les fractures entre générations",
+      "bullets": [
+        "Le gouvernement suisse propose d’augmenter la TVA pour financer un nouvel avantage à destination des retraités.",
+        "La classe politique et les générations sont divisées."
+      ],
+      "publishedAt": "2026-11-28T08:46:39+00:00",
+      "updatedAt": "2026-11-28T08:46:39+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/economie/est-ce-que-le-pays-entre-en-gerontocratie-le-referendum-sur-le-13e-mois-de-retraite-avive-les-fractures-entre-generations-20261128",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4dd73ce5ccd1a7f591e96f51fa20d475fd2a5d306244380b07e0fae435704064",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-9808f35e8bab700442",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Règle d’or budgétaire : « Ce qui discipline la dépense, ce ne sont pas les règles, mais la croissance économique »",
+      "bullets": [
+        "Adopter une règle d’or est une fausse bonne idée, car cela conduit à idéologiser le droit et à affaiblir la démocratie, alors que la hausse de l’endettement public traduit de mauvais choix économiques, rappelle le juriste Matthieu Caron, dans une tribune au « Monde »."
+      ],
+      "publishedAt": "2026-11-28T06:30:11+00:00",
+      "updatedAt": "2026-11-28T06:30:11+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "253f2be6fe6454cbee5435c19b055a6706795fbdd794b96235abdbc19810930d",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-15c2949c27a4a099f5",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Hausse du smic au 1er décembre : cette fausse bonne idée qui tasse les salaires",
+      "bullets": [
+        "La hausse anticipée décidée par le gouvernement fait craindre une concentration autour des bas niveaux de revenus alors que les négociations salariales dans les branches professionnelles peinent à débuter."
+      ],
+      "publishedAt": "2026-11-27T16:45:00+00:00",
+      "updatedAt": "2026-11-27T16:45:00+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/social/hausse-du-smic-au-1er-decembre-cette-fausse-bonne-idee-qui-tasse-les-salaires-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "57396406195968374d1cb08ed9f4e73cde29d30a174570c8965432da11761090",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-972869ec570bc8da32",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Les sapins de Noël arrivent !",
+      "bullets": [
+        "Les Français ont acheté 4,5 millions de sapins naturels l’an dernier.",
+        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
+      ],
+      "publishedAt": "2026-11-28T05:00:03+00:00",
+      "updatedAt": "2026-11-28T05:00:03+00:00",
+      "importance": 59,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/les-sapins-de-noel-arrivent_8303352.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "article-extract",
+      "summaryInput": "aa1c72f6570d359c9ffc803769b3986fa60da3b771e0e09d57fb734fb02f3028",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T09:04:10.510384+00:00",
+      "context": null
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -325,9 +325,9 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T07:38:15+00:00",
-      "updatedAt": "2026-11-28T07:38:15+00:00",
-      "importance": 70,
+      "publishedAt": "2026-11-28T09:00:07+00:00",
+      "updatedAt": "2026-11-28T09:00:07+00:00",
+      "importance": 69,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -423,7 +423,7 @@
       "provenance": "article-extract",
       "summaryInput": "a5239fe8b111f4728c6d808d6ca8dba94c19a872f107325aa44291c7151c3a0d",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T20:11:32.220342+00:00",
+      "enrichedAt": "2026-11-28T09:04:10.510384+00:00",
       "context": null
     },
     {
@@ -481,6 +481,56 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
       "context": null
+    },
+    {
+      "id": "rss-679f0a4e2c49b6d616",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "En Russie, Poutine relance la lutte anticorruption en limogeant le gouverneur de Mourmansk",
+      "bullets": [
+        "DÉCRYPTAGE - Le chef de cette région stratégique, Andreï Tchibis, a été arrêté pour corruption de détournement de fonds à très grande échelle.",
+        "Une sérieuse mise en garde du pouvoir, alors que le coût de la guerre pèse de plus en plus lourd sur l’équilibre du budget fédéral russe."
+      ],
+      "publishedAt": "2026-11-28T08:45:00+00:00",
+      "updatedAt": "2026-11-28T08:45:00+00:00",
+      "importance": 85,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/en-russie-poutine-relance-la-lutte-anticorruption-en-limogeant-le-gouverneur-de-mourmansk-20261128",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "6f0fac082ebbeb160942b2ce27f65fccdf639704501c5e99abfac19b91800eb6",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-dc0b8ba6c16a27e34a",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Pressenti à la tête de la BCE, Pablo Hernández de Cos va-t-il faire basculer définitivement la zone euro dans une «union de la dette» ?",
+      "bullets": [
+        "ANALYSE - Alors que la dette française ne cesse de s’alourdir, Pablo Hernández de Cos est partisan d’une politique monétaire accommodante.",
+        "Une telle orientation pourrait coûter cher aux épargnants allemands."
+      ],
+      "publishedAt": "2026-11-28T07:30:00+00:00",
+      "updatedAt": "2026-11-28T07:30:00+00:00",
+      "importance": 81,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/pressenti-a-la-tete-de-la-bce-pablo-hernandez-de-cos-va-t-il-faire-basculer-definitivement-la-zone-euro-dans-une-union-de-la-dette-20261128",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "950236f5c1cf000788a7ab309929f2a53e8cd0048e94b846c44ae69145797365",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-e36df572c0bbe6e7e2",
@@ -607,30 +657,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2a072e173af7ce3201",
-      "revision": 2,
-      "category": "world",
-      "topic": "International",
-      "title": "Budget de l’UE : les exigences de l’Allemagne, chef de file des « frugaux » et premier contributeur net",
-      "bullets": [
-        "RÉCIT - Première économie européenne, l’Allemagne compte peser de tout son poids sur les négociations relatives au budget de l’UE lors du sommet extraordinaire du Conseil européen qui se tient à compter de ce jeudi."
-      ],
-      "publishedAt": "2026-11-26T14:34:14+00:00",
-      "updatedAt": "2026-11-26T14:34:14+00:00",
-      "importance": 74,
-      "sources": [
-        {
-          "publisher": "Le Figaro",
-          "url": "https://www.lefigaro.fr/international/budget-de-l-ue-les-exigences-de-l-allemagne-chef-de-file-des-frugaux-et-premier-contributeur-net-20261125",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "e3554afb090601d49aeed9c17644fd9a71a4d5921f02c036f22516cf6b271ff1",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-e33430556317f28873",
       "revision": 2,
       "category": "world",
@@ -715,8 +741,8 @@
       "bullets": [
         "Le gouvernement s’est engagé à éradiquer un phénomène qui touche de plus en plus de Canadiens. Un défi de taille dans un pays victime d’une sévère crise du logement. A Montréal, le loyer moyen a augmenté de près de 70 % en moins de dix ans."
       ],
-      "publishedAt": "2026-11-28T05:00:33+00:00",
-      "updatedAt": "2026-11-28T05:00:33+00:00",
+      "publishedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T05:00:31+00:00",
       "importance": 65,
       "sources": [
         {
@@ -756,38 +782,34 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-00e44227e8c4ab5a01",
+      "id": "rss-f56409e36a7641b72d",
       "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "category": "france",
+      "topic": "Politique",
+      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
       "bullets": [
-        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
-        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
-        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
+        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
       ],
-      "publishedAt": "2026-11-27T22:35:51+00:00",
-      "updatedAt": "2026-11-27T22:35:51+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-27T19:14:46+00:00",
+      "updatedAt": "2026-11-27T19:14:46+00:00",
+      "importance": 76,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
-          "access": "public"
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-5ecc5ebc0fd300cc74",
       "revision": 2,
       "category": "france",
-      "topic": "Politique",
+      "topic": "Société",
       "title": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
       "bullets": [
         "Jusqu’où rester fidèle à ses valeurs et convictions sans manquer à son devoir de loyauté, ni compromettre sa carrière ?",
@@ -809,30 +831,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-3666007f8948043f7b",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Balles perdues : les vies brisées des victimes collatérales des fusillades du narcotrafic",
-      "bullets": [
-        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
-      ],
-      "publishedAt": "2026-11-28T05:00:20+00:00",
-      "updatedAt": "2026-11-28T05:00:20+00:00",
-      "importance": 67,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "3e44767b363204ff4d9a6131e54d557821b3303384e01941edf1011cafa6c73d",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-67ae1bf76472984e41",
       "revision": 1,
       "category": "france",
@@ -843,7 +841,7 @@
       ],
       "publishedAt": "2026-11-24T09:00:04+00:00",
       "updatedAt": "2026-11-24T09:00:04+00:00",
-      "importance": 66,
+      "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -966,30 +964,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f56409e36a7641b72d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
-      "bullets": [
-        "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
-      ],
-      "publishedAt": "2026-11-27T19:14:46+00:00",
-      "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-323ec2ec79cc8b58d1",
       "revision": 1,
       "category": "france",
@@ -1014,6 +988,30 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-3666007f8948043f7b",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "Balles perdues : les vies brisées des victimes collatérales des fusillades du narcotrafic",
+      "bullets": [
+        "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances…"
+      ],
+      "publishedAt": "2026-11-28T05:00:20+00:00",
+      "updatedAt": "2026-11-28T05:00:20+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "3e44767b363204ff4d9a6131e54d557821b3303384e01941edf1011cafa6c73d",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-564f1768c908659018",
       "revision": 1,
       "category": "france",
@@ -1026,7 +1024,7 @@
       ],
       "publishedAt": "2026-11-27T20:32:08+00:00",
       "updatedAt": "2026-11-27T20:32:08+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Franceinfo",
@@ -1066,27 +1064,76 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-9808f35e8bab700442",
+      "id": "rss-060be18e8b4ba6e8e6",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "Règle d’or budgétaire : « Ce qui discipline la dépense, ce ne sont pas les règles, mais la croissance économique »",
+      "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
       "bullets": [
-        "Adopter une règle d’or est une fausse bonne idée, car cela conduit à idéologiser le droit et à affaiblir la démocratie, alors que la hausse de l’endettement public traduit de mauvais choix économiques, rappelle le juriste Matthieu Caron, dans une tribune au « Monde »."
+        "Des militants autonomes et antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue de probables élections législatives."
       ],
-      "publishedAt": "2026-11-28T06:30:11+00:00",
-      "updatedAt": "2026-11-28T06:30:11+00:00",
+      "publishedAt": "2026-11-28T09:00:05+00:00",
+      "updatedAt": "2026-11-28T09:00:05+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "253f2be6fe6454cbee5435c19b055a6706795fbdd794b96235abdbc19810930d",
+      "summaryInput": "54c0d27b990c3b97da5d4c37c03002722961c5a58a0ded5c4cfc9c66a30ee36a",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-e09d216c799857a932",
+      "revision": 1,
+      "category": "france",
+      "topic": "Politique",
+      "title": "Convention citoyenne sur les finances publiques : le CESE entend peser sur les débats à l’approche de la présidentielle",
+      "bullets": [
+        "La troisième assemblée de la République a lancé, vendredi, une consultation de la population sur les comptes de la nation dont les conclusions seront rendues le 21 mars 2027.",
+        "L’enjeu est de contribuer à l’émergence de compromis dans une période où le personnel politique apparaît fracturé."
+      ],
+      "publishedAt": "2026-11-28T08:22:26+00:00",
+      "updatedAt": "2026-11-28T08:22:26+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4468e7c301e8d27d21655012a781e655aa6bc8f8c7f85fb891543553e5172f3f",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-c5edcf8a011a42d4f1",
+      "revision": 1,
+      "category": "france",
+      "topic": "Société",
+      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
+      "bullets": [
+        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
+      ],
+      "publishedAt": "2026-11-27T17:00:05+00:00",
+      "updatedAt": "2026-11-27T17:00:05+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
       "detailLevel": "preview"
     },
     {
@@ -1136,59 +1183,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "68edf9fb8653af9a94a037006d858f746bb92b94689cd83f5ac344074a958197",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-3be1230a6a6e699550",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Le monde culturel attend la présidentielle, où il jouera son avenir à la roulette – se sauver ou mourir –, et il évite ainsi de se remettre en question »",
-      "bullets": [
-        "Les acteurs culturels craignent que leurs subventions, déjà en baisse, ne soient encore amputées en cas d’arrivée au pouvoir du RN.",
-        "Pourtant, la Cour des comptes constate, dans un rapport, une augmentation de l’offre subventionnée, et préconise de « cerner des priorités », explique, dans sa chronique, Michel Guerrin, rédacteur…"
-      ],
-      "publishedAt": "2026-11-27T12:55:48+00:00",
-      "updatedAt": "2026-11-27T12:55:48+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "5b67eb83634b0fbce7fcc1a7f529fbf4c8c87525966ac30d29e1af9e46e6570c",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-330fa68a73865a60e5",
-      "revision": 1,
-      "category": "france",
-      "topic": "Santé",
-      "title": "Conseils de l'IA sur les médicaments, l'ANSM sonne l'alerte",
-      "bullets": [
-        "L'Agence nationale de sécurité du médicament (ANSM) a recensé au moins huit cas de surdosage en deux ans, entre 2024 et 2026, liés aux conseils donnés par une IA chez des personnes allant de 17 à 89 ans, dont l'une a dû être hospitalisée.",
-        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
-        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
-      ],
-      "publishedAt": "2026-11-26T15:21:59+00:00",
-      "updatedAt": "2026-11-26T15:21:59+00:00",
-      "importance": 64,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/sante/conseils-de-l-ia-sur-les-medicaments-l-ansm-sonne-l-alerte_8301597.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "701ad8ecf8b7e7881f7ef613ddab2ddaf4c6d8963e6c7a7944b081d2b0c26582",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
-      "context": null
     }
   ],
   "feedHealth": [
@@ -1226,7 +1220,7 @@
       "publisher": "Franceinfo",
       "url": "https://www.franceinfo.fr/monde.rss",
       "ok": true,
-      "candidates": 20
+      "candidates": 19
     },
     {
       "publisher": "Franceinfo",
@@ -1250,7 +1244,7 @@
       "publisher": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 9
     },
     {
       "publisher": "Le Figaro",
@@ -1268,7 +1262,7 @@
       "publisher": "Le Monde",
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "ok": true,
-      "candidates": 11
+      "candidates": 9
     },
     {
       "publisher": "Le Monde",
