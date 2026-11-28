@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T19:07:43.946063+00:00",
+  "preparedAt": "2026-11-28T20:04:54.599351+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -223,7 +223,7 @@
       ],
       "publishedAt": "2026-11-28T07:37:30+00:00",
       "updatedAt": "2026-11-28T07:37:30+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -330,8 +330,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T19:05:45+00:00",
-      "updatedAt": "2026-11-28T19:05:45+00:00",
+      "publishedAt": "2026-11-28T20:04:36+00:00",
+      "updatedAt": "2026-11-28T20:04:36+00:00",
       "importance": 69,
       "sources": [
         {
@@ -440,7 +440,7 @@
       ],
       "publishedAt": "2026-11-28T07:30:00+00:00",
       "updatedAt": "2026-11-28T07:30:00+00:00",
-      "importance": 81,
+      "importance": 80,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -654,31 +654,28 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-8fd2cbc5971f0ec812",
+      "id": "rss-b6c3db9c2ec0dde2ef",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Huit pays, dont la France, appellent à des élections en Palestine \"au premier trimestre 2027\"",
+      "title": "Dans les terres rouges du Mississippi, le réveil inattendu des démocrates dans l’ombre de l’histoire",
       "bullets": [
-        "Huit pays, dont la France et le Royaume-Uni, ont appelé, samedi 28 novembre, l'Autorité palestinienne à organiser \"au premier trimestre 2027\" des élections présidentielle et législatives, jugeant dans une déclaration conjointe \"le renouvellement démocratique palestinien indissociable de la préservation de la solution à deux Etats\".",
-        "Le président palestinien Mahmoud Abbas a décidé en octobre de reporter les élections législatives en raison des \"obstacles\" dressés, selon lui, par Israël ainsi que de la \"nécessité de créer des conditions politiques, sécuritaires et concrètes appropriées\"."
+        "REPORTAGE - La première élection d’un sénateur noir depuis 152 ans a été un véritable séisme dans cet État très conservateur où l’histoire pèse encore douloureusement dans la politique locale."
       ],
-      "publishedAt": "2026-11-28T18:35:11+00:00",
-      "updatedAt": "2026-11-28T18:35:11+00:00",
+      "publishedAt": "2026-11-28T19:36:20+00:00",
+      "updatedAt": "2026-11-28T19:36:20+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/palestine/huit-pays-dont-la-france-appellent-a-des-elections-en-palestine-au-premier-trimestre-2027_8305002.html",
-          "access": "public"
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-les-terres-rouges-du-mississippi-le-reveil-inattendu-des-democrates-dans-l-ombre-de-l-histoire-20261128",
+          "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "34d2f1e20159f1c2b0c67e3c460d21a9634cb4914ec7ecf9ed3dcf2bf39e939f",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T19:07:43.946063+00:00",
-      "context": null
+      "provenance": "rss-excerpt",
+      "summaryInput": "abbc1923a5439c3a95276e4ed159369a1ce3e1f12312fbc4a9e75844acb6135d",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-fb8985b3a78b014a71",
@@ -690,8 +687,8 @@
         "Le chef du gouvernement israélien sortant, Benyamin Nétanyahou, a proposé, samedi 28 novembre, à son rival, Gadi Eisenkot, d'être le premier à exercer le poste de Premier ministre en cas d'accord sur un cabinet dirigé par alternance.",
         "Chargé de former un gouvernement à l'issue des législatives du 27 octobre qui n'ont gratifié aucun camp d'une majorité absolue au Parlement, Gadi Eisenkot s'est engagé vendredi à annoncer sa formation avant la date limite du 6 décembre."
       ],
-      "publishedAt": "2026-11-28T18:15:38+00:00",
-      "updatedAt": "2026-11-28T18:15:38+00:00",
+      "publishedAt": "2026-11-28T19:24:49+00:00",
+      "updatedAt": "2026-11-28T19:24:49+00:00",
       "importance": 65,
       "sources": [
         {
@@ -782,31 +779,31 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-2b708cc7889c25120f",
-      "revision": 2,
+      "id": "rss-06161ef14794bb635b",
+      "revision": 1,
       "category": "france",
       "topic": "Santé",
-      "title": "La suspension de l'usage des grenades assourdissantes prolongée et étendue à toutes les manifestations",
+      "title": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
       "bullets": [
-        "La suspension de l'usage des grenades assourdissantes par les policiers, décidée le 6 octobre dernier lors des mobilisations lycéennes, est prolongée \"jusqu'à nouvel ordre\" et s'étend désormais à toutes les manifestations, sur ordre du directeur général de la police nationale, dans un télégramme consulté par franceinfo, vendredi 27 novembre.",
-        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
-        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
+        "De la revalorisation des soignants à la création d'une délégation interministérielle à la prévention, cinquante organisations (Mutualité Française, CFDT, Unsa...) ont présenté, jeudi 26 novembre, 60 mesures pour \"refonder le modèle social\", qu'elles soumettront aux candidats à l'élection présidentielle.",
+        "\"Un point de CSG est égal à 17,9 milliards d'euros en 2025\", souligne leur plaidoyer.",
+        "Sur l'accès aux soins, elles appellent à développer dans certains territoires des cabinets mobiles de type médico-bus, des maisons et centres de santé, et à créer des \"antennes\" rattachées aux Samu-SAS pour prodiguer des soins de premier recours."
       ],
-      "publishedAt": "2026-11-27T18:00:01+00:00",
-      "updatedAt": "2026-11-27T18:00:01+00:00",
-      "importance": 65,
+      "publishedAt": "2026-11-26T23:03:14+00:00",
+      "updatedAt": "2026-11-26T23:03:14+00:00",
+      "importance": 62,
       "sources": [
         {
           "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8303493.html",
+          "url": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html",
           "access": "public"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "article-extract",
-      "summaryInput": "dbb6ba8e9adbcbdd40bba00f022262bc52625fe0287817434cc943da01f9c3ac",
+      "summaryInput": "e1b699a1f9c0ca7d2bec5cc7dc43d7cd884525da38d927a038332743502d08b1",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-28T07:38:14.525535+00:00",
+      "enrichedAt": "2026-11-28T20:04:54.599351+00:00",
       "context": null
     },
     {
@@ -896,7 +893,7 @@
       ],
       "publishedAt": "2026-11-27T19:14:46+00:00",
       "updatedAt": "2026-11-27T19:14:46+00:00",
-      "importance": 76,
+      "importance": 75,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -931,6 +928,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-73733c34a123c20a49",
+      "revision": 1,
+      "category": "france",
+      "topic": "France",
+      "title": "L’alerte des parquets français, belges, espagnols et marocains sur la montée en puissance du djihadisme au Sahel",
+      "bullets": [
+        "DÉCRYPTAGE - Réunis à Nice dans le cadre d’un groupe d’échanges opérationnels créé en 2007, ils ont souligné l’importance de la coopération internationale dans la prévention et la lutte contre le terrorisme sous toutes ses formes."
+      ],
+      "publishedAt": "2026-11-28T18:58:24+00:00",
+      "updatedAt": "2026-11-28T18:58:24+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/actualite-france/l-alerte-des-parquets-francais-belges-espagnols-et-marocains-sur-la-montee-en-puissance-du-djihadisme-au-sahel-20261128",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "4d5253145de6e66eedeb7d22b874749973380c169c38c854b7c6b2321a3818c1",
       "detailLevel": "preview"
     },
     {
@@ -1085,30 +1106,6 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "3b8c1fe63dfb4180e46065155309c7b0965fd449c830015144b422991074ef5f",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-99506bc73e61c4438d",
-      "revision": 1,
-      "category": "france",
-      "topic": "Culture",
-      "title": "« Sexe faible, l’Amérique en guerre contre ses femmes », sur Arte.tv : un film choc pour dénoncer une misogynie institutionnalisée",
-      "bullets": [
-        "Le documentaire de Brice Lambert, qui réunit des témoignages d’Américaines dont la vie a été bouleversée par l’interdiction de l’avortement, s’est vu octroyer le prix Albert Londres de l’audiovisuel 2026."
-      ],
-      "publishedAt": "2026-11-27T16:30:03+00:00",
-      "updatedAt": "2026-11-27T16:30:03+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/27/sexe-faible-l-amerique-en-guerre-contre-ses-femmes-sur-arte-tv-un-film-choc-pour-denoncer-une-misogynie-institutionnalisee_6815900_3246.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "4e58778245630b685162ed47cf2f35584c3d6eea020920f25cd985966d9ec5c1",
       "detailLevel": "preview"
     }
   ],
