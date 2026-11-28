@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T00:01:47.390739+00:00",
+  "preparedAt": "2026-11-28T01:29:33.897510+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -325,8 +325,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-27T23:59:22+00:00",
-      "updatedAt": "2026-11-27T23:59:22+00:00",
+      "publishedAt": "2026-11-28T01:29:25+00:00",
+      "updatedAt": "2026-11-28T01:29:25+00:00",
       "importance": 69,
       "sources": [
         {
@@ -763,34 +763,10 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-041afaec45ffb7d600",
-      "revision": 1,
-      "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
-      "bullets": [
-        "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique."
-      ],
-      "publishedAt": "2026-11-27T20:49:07+00:00",
-      "updatedAt": "2026-11-27T20:49:07+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "41659f5b2a5b17b9a151eb0c3343de7c021f06c0d7fdbb146efb2ac7bde33bb7",
-      "detailLevel": "preview"
-    },
-    {
       "id": "rss-f56409e36a7641b72d",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
       "bullets": [
         "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction."
@@ -808,6 +784,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "d931f80f3db85477a8b2e88c356489e2b068c7375fcc80de1ff84218278d1086",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-61868ab90cca964291",
+      "revision": 2,
+      "category": "france",
+      "topic": "Société",
+      "title": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
+      "bullets": [
+        "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer l’un « des derniers moteurs de travaux », jugent des acteurs du bâtiment."
+      ],
+      "publishedAt": "2026-11-27T10:00:07+00:00",
+      "updatedAt": "2026-11-27T10:00:07+00:00",
+      "importance": 76,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/27/fin-de-l-interdiction-des-passoires-thermiques-a-la-location-aux-assises-de-la-renovation-energetique-la-consternation-des-professionnels-du-secteur_6815833_3224.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "cc51dffc9b0ffadcdbe5bf647e3083a9bb21f1450ecd829d10f9d96de9ac38d9",
       "detailLevel": "preview"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "publishedAt": "2026-11-26T13:00:11+00:00",
       "updatedAt": "2026-11-26T13:00:11+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Monde",
@@ -965,30 +965,6 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "c5283b85970582a9718132236c62ab39db0748967c05e5df6ff4855b6ba9a747",
-      "detailLevel": "preview"
-    },
-    {
-      "id": "rss-61868ab90cca964291",
-      "revision": 2,
-      "category": "france",
-      "topic": "Société",
-      "title": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
-      "bullets": [
-        "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer l’un « des derniers moteurs de travaux », jugent des acteurs du bâtiment."
-      ],
-      "publishedAt": "2026-11-27T10:00:07+00:00",
-      "updatedAt": "2026-11-27T10:00:07+00:00",
-      "importance": 76,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/27/fin-de-l-interdiction-des-passoires-thermiques-a-la-location-aux-assises-de-la-renovation-energetique-la-consternation-des-professionnels-du-secteur_6815833_3224.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "cc51dffc9b0ffadcdbe5bf647e3083a9bb21f1450ecd829d10f9d96de9ac38d9",
       "detailLevel": "preview"
     },
     {
@@ -1047,7 +1023,7 @@
       "id": "rss-5feea6f29dc624af26",
       "revision": 1,
       "category": "france",
-      "topic": "Société",
+      "topic": "Politique",
       "title": "José Beaurain, député RN de l’Aisne, visé par une enquête pour « détournement de fonds publics » et contesté localement",
       "bullets": [
         "Après les révélations fin août du « Canard enchaîné » et l’ouverture d’une enquête préliminaire, le député d’extrême droite, réinvesti par le Rassemblement national malgré des alertes internes, sera l’objet d’une mobilisation à Chauny, samedi."
@@ -1092,51 +1068,51 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-f1f8d9e50f6fe61786",
+      "id": "rss-041afaec45ffb7d600",
       "revision": 1,
       "category": "france",
       "topic": "Politique",
-      "title": "L’extrême droite française a-t-elle vraiment changé ? L’historien Laurent Joly, invité de notre podcast vidéo « L’Heure de la présidentielle »",
+      "title": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
       "bullets": [
-        "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes au sein de l’extrême droite en France."
+        "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique."
       ],
-      "publishedAt": "2026-11-27T17:00:16+00:00",
-      "updatedAt": "2026-11-27T17:00:16+00:00",
+      "publishedAt": "2026-11-27T20:49:07+00:00",
+      "updatedAt": "2026-11-27T20:49:07+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/videos/video/2026/11/27/l-extreme-droite-francaise-a-t-elle-vraiment-change-l-historien-laurent-joly-invite-de-notre-podcast-video-l-heure-de-la-presidentielle_6815909_1669088.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "3cd09c06f38d1cb782eb9f312e70847cc6f7d95efa9054dc752fd8b39cac1878",
+      "summaryInput": "41659f5b2a5b17b9a151eb0c3343de7c021f06c0d7fdbb146efb2ac7bde33bb7",
       "detailLevel": "preview"
     },
     {
-      "id": "rss-af7c17f66a1b1cb537",
+      "id": "rss-c5edcf8a011a42d4f1",
       "revision": 1,
       "category": "france",
-      "topic": "Politique",
-      "title": "Présidentielle 2027 : « L’automne est une période cruciale et trompeuse, durant laquelle les candidats se jaugent dans le miroir de l’opinion »",
+      "topic": "Société",
+      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
       "bullets": [
-        "Alors que les prétendants à l’Elysée se multiplient en novembre, l’histoire de la Vᵉ République rappelle combien les percées sondagières de fin d’année résistent mal aux épreuves du printemps, estime Matthieu Goar, l’un des chefs du service Politique du « Monde »."
+        "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations."
       ],
-      "publishedAt": "2026-11-27T16:30:03+00:00",
-      "updatedAt": "2026-11-27T16:30:03+00:00",
+      "publishedAt": "2026-11-27T17:00:05+00:00",
+      "updatedAt": "2026-11-27T17:00:05+00:00",
       "importance": 65,
       "sources": [
         {
           "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-l-automne-est-une-periode-cruciale-et-trompeuse-durant-laquelle-les-candidats-se-jaugent-dans-le-miroir-de-l-opinion_6815901_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "d7d855dc19db48a074a86dab500ef359c8981950eb15b2e63f168449ae386aa2",
+      "summaryInput": "473303faa2da8b51718ec10949a504ab1fe188d0c58f75ef95fc4e41412de9bb",
       "detailLevel": "preview"
     },
     {
@@ -1161,6 +1137,30 @@
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
       "summaryInput": "b6fd19916b3f9ba13289675d6c11240acd8c29a28cac326991dd98454cd41848",
+      "detailLevel": "preview"
+    },
+    {
+      "id": "rss-f60c4ec2a7920cb938",
+      "revision": 1,
+      "category": "france",
+      "topic": "Culture",
+      "title": "Le Louvre, un monument modèle résumé en 300 photographies",
+      "bullets": [
+        "L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes."
+      ],
+      "publishedAt": "2026-11-26T18:00:22+00:00",
+      "updatedAt": "2026-11-26T18:00:22+00:00",
+      "importance": 65,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "2bfa152861bad538e0c285d699ef6ff0fbebedf1f27857bf15e8c8e0dacf7c03",
       "detailLevel": "preview"
     }
   ],
