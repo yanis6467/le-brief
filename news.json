@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T01:29:33.897510+00:00",
+  "preparedAt": "2026-11-28T03:05:50.899006+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -61,30 +61,6 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T20:11:32.220342+00:00",
       "context": null
-    },
-    {
-      "id": "rss-598619aa5ce2589be6",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-      "bullets": [
-        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
-      ],
-      "publishedAt": "2026-11-27T14:39:51+00:00",
-      "updatedAt": "2026-11-27T14:39:51+00:00",
-      "importance": 93,
-      "sources": [
-        {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "access": "extrait"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "rss-excerpt",
-      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
-      "detailLevel": "preview"
     },
     {
       "id": "rss-e3e482149ac06eb244",
@@ -299,7 +275,7 @@
       ],
       "publishedAt": "2026-11-27T14:47:22+00:00",
       "updatedAt": "2026-11-27T14:47:22+00:00",
-      "importance": 69,
+      "importance": 68,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -315,6 +291,30 @@
       "context": null
     },
     {
+      "id": "rss-b9ac9f312ce27d7182",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Négociations commerciales : les grands patrons de la distribution somment les industriels de modérer leurs hausses de prix",
+      "bullets": [
+        "EXCLUSIF - Dans un courrier adressé mercredi à une cinquantaine de multinationales, que Le Figaro a pu consulter, les dirigeants alertent sur la fragilité du pouvoir d’achat des Français, à quelques jours de l’ouverture des discussions."
+      ],
+      "publishedAt": "2026-11-27T15:39:02+00:00",
+      "updatedAt": "2026-11-27T15:39:02+00:00",
+      "importance": 67,
+      "sources": [
+        {
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/conso/negociations-commerciales-les-grands-patrons-de-la-distribution-somment-les-industriels-de-moderer-leurs-hausses-de-prix-20261127",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "5dae53206594c90b5333031ba6d9788e9112a2954a0933850f1e16c3bcf38d0f",
+      "detailLevel": "preview"
+    },
+    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -325,8 +325,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T01:29:25+00:00",
-      "updatedAt": "2026-11-28T01:29:25+00:00",
+      "publishedAt": "2026-11-28T03:00:07+00:00",
+      "updatedAt": "2026-11-28T03:00:07+00:00",
       "importance": 69,
       "sources": [
         {
@@ -439,7 +439,7 @@
       ],
       "publishedAt": "2026-11-25T14:49:22+00:00",
       "updatedAt": "2026-11-25T14:49:22+00:00",
-      "importance": 55,
+      "importance": 54,
       "sources": [
         {
           "publisher": "BFM Bourse",
@@ -453,6 +453,30 @@
       "detailLevel": "article",
       "enrichedAt": "2026-11-27T19:12:34.319687+00:00",
       "context": null
+    },
+    {
+      "id": "rss-598619aa5ce2589be6",
+      "revision": 1,
+      "category": "world",
+      "topic": "International",
+      "title": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+      "bullets": [
+        "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé."
+      ],
+      "publishedAt": "2026-11-27T14:39:51+00:00",
+      "updatedAt": "2026-11-27T14:39:51+00:00",
+      "importance": 92,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+          "access": "extrait"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "rss-excerpt",
+      "summaryInput": "83008a9b8091ff846027315df23723c8619949967d8379c41dbba453fc73362f",
+      "detailLevel": "preview"
     },
     {
       "id": "rss-6ad772ba6927472730",
@@ -540,7 +564,7 @@
       ],
       "publishedAt": "2026-11-26T14:34:14+00:00",
       "updatedAt": "2026-11-26T14:34:14+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -564,7 +588,7 @@
       ],
       "publishedAt": "2026-11-26T14:34:14+00:00",
       "updatedAt": "2026-11-26T14:34:14+00:00",
-      "importance": 75,
+      "importance": 74,
       "sources": [
         {
           "publisher": "Le Figaro",
@@ -653,34 +677,6 @@
       "provenance": "rss-excerpt",
       "summaryInput": "70da2ebd69a1f36520cf09d873fe344f6ddecc913a8e393bec20ca3ad3b4c8c9",
       "detailLevel": "preview"
-    },
-    {
-      "id": "rss-00e44227e8c4ab5a01",
-      "revision": 1,
-      "category": "world",
-      "topic": "International",
-      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
-      "bullets": [
-        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
-        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
-        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
-      ],
-      "publishedAt": "2026-11-27T22:35:51+00:00",
-      "updatedAt": "2026-11-27T22:35:51+00:00",
-      "importance": 65,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-27T23:09:30.237420+00:00",
-      "context": null
     },
     {
       "id": "rss-4e8be7b9f03473ee39",
@@ -1030,7 +1026,7 @@
       ],
       "publishedAt": "2026-11-27T14:00:03+00:00",
       "updatedAt": "2026-11-27T14:00:03+00:00",
-      "importance": 67,
+      "importance": 66,
       "sources": [
         {
           "publisher": "Le Monde",
