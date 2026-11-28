@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "edition": "2026-11-28",
-  "preparedAt": "2026-11-28T10:03:28.100814+00:00",
+  "preparedAt": "2026-11-28T11:00:20.127974+00:00",
   "generationMode": "rss-rules",
   "automaticAI": false,
   "automationStatus": "hourly-rss",
@@ -35,34 +35,6 @@
       "context": null
     },
     {
-      "id": "rss-e3e482149ac06eb244",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Un calcul \"technique\" qui illustre un \"décrochage\" économique : que signifie l'annonce de l'entrée en récession de la France ?",
-      "bullets": [
-        "Le produit intérieur brut (PIB) de la France, qui mesure l'activité économique à travers les richesses créées, a reculé de 0,2% au troisième trimestre de 2026, a annoncé l'Insee vendredi 27 novembre.",
-        "Une révision mineure qui a une conséquence très symbolique, puisqu'elle fait entrer la France en récession.&amp;amp;amp;amp;lt;img src=\"https://public.flourish.studio/visualisation/31063548/thumbnail\" width=\"100%\" alt=\"chart visualization\" /&amp;amp;amp;amp;gt;Ce qu'on appelle traditionnellement une récession \"technique\" se caractérise par au moins deux trimestres consécutifs de baisse du PIB.",
-        "Après une année 2025 où la croissance avait atteint +0,9%, l'économie connaît un vrai \"décrochage\" depuis un an."
-      ],
-      "publishedAt": "2026-11-27T17:27:16+00:00",
-      "updatedAt": "2026-11-27T17:27:16+00:00",
-      "importance": 84,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/croissance/un-calcul-technique-qui-illustre-un-decrochage-economique-que-signifie-l-annonce-de-l-entree-en-recession-de-la-france_8303169.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "5bc503797f12068649a85092b0b386afd959c5160bc498e0acc1995e67dd0593",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T06:16:25.221163+00:00",
-      "context": null
-    },
-    {
       "id": "rss-0582d7271084006ca0",
       "revision": 1,
       "category": "eco",
@@ -85,6 +57,34 @@
       "provenance": "rss-excerpt",
       "summaryInput": "e73ac91c43e201d7d22af50108a5740847fa109d8f99f9d5e7abc4f853620c8e",
       "detailLevel": "preview"
+    },
+    {
+      "id": "rss-97ed0f3be9c771919c",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "S&P maintient la note de la France mais menace de la dégrader, \"la faute à une politique économique qui soigne le mal par le mal\" selon Éric Coquerel",
+      "bullets": [
+        "L'agence de notation S&P Global a décidé de maintenir vendredi 27 novembre la note souveraine de la France à A+, mais d'abaisser sa perspective de stable à négative.",
+        "\"La faute à une politique économique qui soigne le mal par le mal\", réagit samedi sur franceinfo Éric Coquerel, président de la commission des finances de l'Assemblée nationale.",
+        "Pour le président de la commission des finances de l'Assemblée, la politique du gouvernement \"mène le pays dans le mur\".\"Le patrimoine des ultra-riches a doublé en France depuis 2017."
+      ],
+      "publishedAt": "2026-11-28T10:23:44+00:00",
+      "updatedAt": "2026-11-28T10:23:44+00:00",
+      "importance": 77,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-la-faute-a-une-politique-economique-qui-soigne-le-mal-par-le-mal-selon-eric-coquerel_8304498.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "article-extract",
+      "summaryInput": "541f875f5e90286143221a2bfca94e1a21d4d240a45befcbf23585b9410c11b1",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T11:00:20.127974+00:00",
+      "context": null
     },
     {
       "id": "rss-322efcb0e640b03fad",
@@ -197,8 +197,8 @@
         "L’agence a maintenu cette note à A+, mais a abaissé sa perspective de stable à négative.",
         "S&P Global anticipe un déficit public de 5,3% du PIB en 2027."
       ],
-      "publishedAt": "2026-11-28T09:48:28+00:00",
-      "updatedAt": "2026-11-28T09:48:28+00:00",
+      "publishedAt": "2026-11-28T10:52:06+00:00",
+      "updatedAt": "2026-11-28T10:52:06+00:00",
       "importance": 65,
       "sources": [
         {
@@ -264,6 +264,34 @@
       "detailLevel": "preview"
     },
     {
+      "id": "rss-00e44227e8c4ab5a01",
+      "revision": 1,
+      "category": "eco",
+      "topic": "Économie",
+      "title": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "bullets": [
+        "L'Espagne et son insolente croissance de 2,6%, qui fait la fierté de Pedro Sánchez, le Premier ministre sortant, attire toujours plus de touristes et d'investisseurs.",
+        "En effet, 600 000 emplois ont été créés en 2025, notamment dans cette zone d'activité de la région de Valence.",
+        "Une crise des salairesEn huit ans de gouvernement socialiste, le salaire minimum est passé de 736 à 1 221 euros brut mensuel, soit un bond de 66%."
+      ],
+      "publishedAt": "2026-11-27T22:35:51+00:00",
+      "updatedAt": "2026-11-27T22:35:51+00:00",
+      "importance": 64,
+      "sources": [
+        {
+          "publisher": "Franceinfo",
+          "url": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html",
+          "access": "public"
+        }
+      ],
+      "verifiedAt": "2026-11-28",
+      "provenance": "article-extract",
+      "summaryInput": "e476fe31259ded2c46f149ac9cf3461031fad0a758f7200868f74a8b7d1f7468",
+      "detailLevel": "article",
+      "enrichedAt": "2026-11-28T11:00:20.127974+00:00",
+      "context": null
+    },
+    {
       "id": "rss-15c2949c27a4a099f5",
       "revision": 1,
       "category": "eco",
@@ -288,34 +316,6 @@
       "detailLevel": "preview"
     },
     {
-      "id": "rss-972869ec570bc8da32",
-      "revision": 1,
-      "category": "eco",
-      "topic": "Économie",
-      "title": "Les sapins de Noël arrivent !",
-      "bullets": [
-        "Les Français ont acheté 4,5 millions de sapins naturels l’an dernier.",
-        "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
-        "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste"
-      ],
-      "publishedAt": "2026-11-28T05:00:03+00:00",
-      "updatedAt": "2026-11-28T05:00:03+00:00",
-      "importance": 59,
-      "sources": [
-        {
-          "publisher": "Franceinfo",
-          "url": "https://www.franceinfo.fr/economie/les-sapins-de-noel-arrivent_8303352.html",
-          "access": "public"
-        }
-      ],
-      "verifiedAt": "2026-11-28",
-      "provenance": "article-extract",
-      "summaryInput": "aa1c72f6570d359c9ffc803769b3986fa60da3b771e0e09d57fb734fb02f3028",
-      "detailLevel": "article",
-      "enrichedAt": "2026-11-28T09:04:10.510384+00:00",
-      "context": null
-    },
-    {
       "id": "rss-d0ddb76a76e8005947",
       "revision": 1,
       "category": "markets",
@@ -326,8 +326,8 @@
         "A Wall Street, vers 17h50, le Dow Jones reculait de 1,13%, l'indice Nasdaq de 1,72% et le S&P 500 perdait 1,29%.",
         "Les surtaxes imposées sur les produits en provenance de dizaines de partenaires commerciaux des Etats-Unis commenceront à être collectées le jeudi 7 août, soit sept jours après la date initialement annoncée."
       ],
-      "publishedAt": "2026-11-28T10:00:42+00:00",
-      "updatedAt": "2026-11-28T10:00:42+00:00",
+      "publishedAt": "2026-11-28T11:00:02+00:00",
+      "updatedAt": "2026-11-28T11:00:02+00:00",
       "importance": 69,
       "sources": [
         {
@@ -340,7 +340,7 @@
       "provenance": "article-extract",
       "summaryInput": "f5623c6673acc5ccf7f7c89a0b584120ff4d3d86f63c5301631e4a73a80681fd",
       "detailLevel": "article",
-      "enrichedAt": "2026-11-27T22:09:11.525985+00:00",
+      "enrichedAt": "2026-11-28T11:00:20.127974+00:00",
       "context": null
     },
     {
@@ -731,27 +731,27 @@
       "context": null
     },
     {
-      "id": "rss-f0b78f62b442197832",
+      "id": "rss-b6c3db9c2ec0dde2ef",
       "revision": 1,
       "category": "world",
       "topic": "International",
-      "title": "Au Canada, le premier ministre, Mark Carney, promet la fin du sans-abrisme d’ici à dix ans",
+      "title": "Dans les terres rouges du Mississippi, le réveil inattendu des démocrates dans l’ombre de l’histoire",
       "bullets": [
-        "Le gouvernement s’est engagé à éradiquer un phénomène qui touche de plus en plus de Canadiens. Un défi de taille dans un pays victime d’une sévère crise du logement. A Montréal, le loyer moyen a augmenté de près de 70 % en moins de dix ans."
+        "REPORTAGE - La première élection d’un sénateur noir depuis 152 ans a été un véritable séisme dans cet État très conservateur où l’histoire pèse encore douloureusement dans la politique locale."
       ],
-      "publishedAt": "2026-11-28T05:00:31+00:00",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "publishedAt": "2026-11-28T10:00:00+00:00",
+      "updatedAt": "2026-11-28T10:00:00+00:00",
       "importance": 65,
       "sources": [
         {
-          "publisher": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/28/au-canada-le-premier-ministre-mark-carney-promet-la-fin-du-sans-abrisme-d-ici-a-dix-ans_6816067_3210.html",
+          "publisher": "Le Figaro",
+          "url": "https://www.lefigaro.fr/international/dans-les-terres-rouges-du-mississippi-le-reveil-inattendu-des-democrates-dans-l-ombre-de-l-histoire-20261128",
           "access": "extrait"
         }
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "fcd5d665b1968012c9519b622d83a3156fb0e54696efd5341c8578ad3aa575a2",
+      "summaryInput": "abbc1923a5439c3a95276e4ed159369a1ce3e1f12312fbc4a9e75844acb6135d",
       "detailLevel": "preview"
     },
     {
@@ -914,15 +914,15 @@
     },
     {
       "id": "rss-9d4eadc755fdafc276",
-      "revision": 1,
+      "revision": 2,
       "category": "france",
       "topic": "Culture",
-      "title": "Le musée Kanal, à Bruxelles, ouvre enfin ses portes en collaboration avec le Centre Pompidou, après de nombreuses polémiques",
+      "title": "Le Musée Kanal, à Bruxelles, ouvre enfin ses portes en collaboration avec le Centre Pompidou, après de nombreuses polémiques",
       "bullets": [
         "Malgré un emplacement contesté, une explosion du budget initialement prévu, l’absence de collection et la dépendance aux grands musées, ce nouveau centre contemporain, inauguré samedi, est une réussite qui met Bruxelles sur la carte des grandes institutions culturelles européennes."
       ],
-      "publishedAt": "2026-11-28T04:30:14+00:00",
-      "updatedAt": "2026-11-28T04:30:14+00:00",
+      "publishedAt": "2026-11-28T04:30:08+00:00",
+      "updatedAt": "2026-11-28T04:30:08+00:00",
       "importance": 77,
       "sources": [
         {
@@ -933,7 +933,7 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "22c60c9e881431da30aee1b43e25aaef0e766b0a966dcd35d74b19708601b481",
+      "summaryInput": "1e0e5e20dccfa628347cb65499abd2b6e59b30053813eb17e202f9b590c52f87",
       "detailLevel": "preview"
     },
     {
@@ -1038,12 +1038,12 @@
     },
     {
       "id": "rss-060be18e8b4ba6e8e6",
-      "revision": 2,
+      "revision": 3,
       "category": "france",
       "topic": "Politique",
       "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
       "bullets": [
-        "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue de probables élections législatives."
+        "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue des élections législatives qui devraient se tenir après la présidentielle de 2027."
       ],
       "publishedAt": "2026-11-28T09:00:02+00:00",
       "updatedAt": "2026-11-28T09:00:02+00:00",
@@ -1057,7 +1057,7 @@
       ],
       "verifiedAt": "2026-11-28",
       "provenance": "rss-excerpt",
-      "summaryInput": "46442f833733a4552b5f62a27ecb38797a4651d30f330987d0e6fa6cb790325f",
+      "summaryInput": "c1160ba6c1f4d7e2e63f68bbc5c1d034f57a330721ec9fe0cd9c19590612316f",
       "detailLevel": "preview"
     },
     {
